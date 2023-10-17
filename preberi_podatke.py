@@ -5,6 +5,10 @@ import csv
 import json
 import traceback
 
+seznam_gorovij = "https://www.hribi.net/gorovja" 
+hribovja_directory = 'podatki'
+page_filename = 'page'
+
 def url_to_string (url): #Naredi niz iz url-ja.
     try:
       vsebina = requests.get(url)
@@ -15,14 +19,16 @@ def url_to_string (url): #Naredi niz iz url-ja.
     except:
         return "Napaka: ni šlo."
 
-def save_string_to_file(text, directory, filename): #Shrani niz v datoteko filename v mapi directory.
-    os.makedirs(directory, exist_ok=True)
-    path = os.path.join(directory, filename)
+def save_string_to_file(text, mapa, datoteka): #Shrani niz v datoteko filename v mapi directory.
+    os.makedirs(mapa, exist_ok=True)
+    path = os.path.join(mapa, datoteka)
     with open(path, 'w', encoding='utf-8') as file_out:
         file_out.write(text)
     return None
 
-def url_to_file(url, directory, filename): #Združi prejšnji funkciji za preprostejšo uporabo.
-    save_string_to_file(url_to_string(url, directory, filename))
+def url_to_file(url, mapa, datoteka): #Združi prejšnji funkciji za preprostejšo uporabo.
+    html = url_to_string(url)
+    save_string_to_file(url, mapa, datoteka)
+    return None
 
-seznam_gorovij = "https://www.hribi.net/gorovja" 
+url_to_file(seznam_gorovij, hribovja_directory, page_filename)
