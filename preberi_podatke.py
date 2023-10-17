@@ -1,0 +1,28 @@
+import re
+import os
+import requests
+import csv
+import json
+import traceback
+
+def url_to_string (url): #Naredi niz iz url-ja.
+    try:
+      vsebina = requests.get(url)
+      if vsebina.status_code == 200:
+         return vsebina.text
+      else:
+        raise  ValueError(f"Napaka: {vsebina.status_code}")
+    except:
+        return "Napaka: ni šlo."
+
+def save_string_to_file(text, directory, filename): #Shrani niz v datoteko filename v mapi directory.
+    os.makedirs(directory, exist_ok=True)
+    path = os.path.join(directory, filename)
+    with open(path, 'w', encoding='utf-8') as file_out:
+        file_out.write(text)
+    return None
+
+def url_to_file(url, directory, filename): #Združi prejšnji funkciji za preprostejšo uporabo.
+    save_string_to_file(url_to_string(url, directory, filename))
+
+seznam_gorovij = "https://www.hribi.net/gorovja" 
