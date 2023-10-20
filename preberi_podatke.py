@@ -7,7 +7,7 @@ import traceback
 
 seznam_gorovij = 'https://www.hribi.net/gorovja'
 hribovja_directory = 'podatki'
-seznam_gorovij_dat = 'seznam-gorovij'
+seznam_gorovij_dat = 'seznam-gorovij.txt'
 
 def url_to_string (url): 
     try:
@@ -66,3 +66,16 @@ def ustvari_datoteke(seznam_linkov):
 
 #ustvari_datoteke(seznam_pravi)
 #Ustvari datoteke s seznami gora.
+
+# def ustvari_linke_2(datoteka):
+#     seznam = ustvari_linke(datoteka)
+#     for url in seznam:
+
+#     vsebina = file_content(datoteka)
+#     vzorec = "/gorovje/.*/\d+"
+#     seznam = []
+#     match_sez = re.findall(vzorec, vsebina)
+#     for koncnica_urlja in match_sez:
+#         cel_url = 'https://www.hribi.net' + koncnica_urlja
+#         seznam.append(cel_url)
+#     return seznam
