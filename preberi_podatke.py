@@ -43,18 +43,18 @@ def file_content (datoteka):
 #Vrne vsebino datoteke.
 
 #Znotraj datoteke seznama najdemo url-je posameznih gora:
-def ustvari_linke(datoteka):
+def ustvari_linke(datoteka, vzorec):
     vsebina = file_content(datoteka)
-    vzorec = "/gorovje/.*/\d+"
     seznam = []
     match_sez = re.findall(vzorec, vsebina)
     for koncnica_urlja in match_sez:
         cel_url = 'https://www.hribi.net' + koncnica_urlja
         seznam.append(cel_url)
+    #print(seznam)
     return seznam
 #Znotraj datoteke seznama najdemo url-je posameznih gora.
 
-#seznam_pravi = ustvari_linke(seznam_gorovij_dat)
+#seznam_pravi = ustvari_linke(seznam_gorovij_dat, "/gorovje/.*/\d+")
 #Ustvari pomožni seznam linkov.
 
 def ustvari_datoteke(seznam_linkov):
@@ -64,18 +64,27 @@ def ustvari_datoteke(seznam_linkov):
         i += 1
 #Ustvari datoteke iz seznama url-jev.
 
+
 #ustvari_datoteke(seznam_pravi)
+
 #Ustvari datoteke s seznami gora.
 
-# def ustvari_linke_2(datoteka):
-#     seznam = ustvari_linke(datoteka)
-#     for url in seznam:
 
-#     vsebina = file_content(datoteka)
-#     vzorec = "/gorovje/.*/\d+"
-#     seznam = []
-#     match_sez = re.findall(vzorec, vsebina)
-#     for koncnica_urlja in match_sez:
-#         cel_url = 'https://www.hribi.net' + koncnica_urlja
-#         seznam.append(cel_url)
-#     return seznam
+# for i in range (1, 11):
+#     mapa = f'hribovje {i}'
+#     parent_mapa = 'podatki'
+#     path = os.path.join(parent_mapa, mapa)
+#     os.mkdir(path)
+
+#Ustvari mape za posamezna gorovja.
+
+
+# for i in range(1, 11):
+#     datoteka = f'podatki/hribovje-{i}.txt'
+#     seznam = ustvari_linke(datoteka, "/gora/.*?/\d*?/\d*")
+#     indeks = 1
+#     for link in seznam:
+#         url_to_file(link, f"podatki/hribovje {i}", f"hrib {indeks}")
+#         indeks += 1
+
+#Iz linkov za posamezna gorovja ustvarimo še datoteke za posamezne gore. 
