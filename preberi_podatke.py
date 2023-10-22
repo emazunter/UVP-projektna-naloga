@@ -1,3 +1,6 @@
+#V komentarjih sem pisala, kaj naredi posamezna funkcija, dodala pa sem tudi kodo, 
+#ki sem jo poganjala tekom izdelave projektne naloge.
+
 import re
 import os
 import requests
@@ -42,7 +45,6 @@ def file_content (datoteka):
         return dat.read()
 #Vrne vsebino datoteke.
 
-#Znotraj datoteke seznama najdemo url-je posameznih gora:
 def ustvari_linke(datoteka, vzorec):
     vsebina = file_content(datoteka)
     seznam = []
@@ -88,3 +90,51 @@ def ustvari_datoteke(seznam_linkov):
 #         indeks += 1
 
 #Iz linkov za posamezna gorovja ustvarimo še datoteke za posamezne gore. 
+#Sedaj lahko začnemo urejati podatke v CSV obliko.
+######################
+vzorec_bloka = re.compile(
+    r'<title>.*?'
+    r'<div style="padding-top:10px;">',
+    flags=re.DOTALL
+)
+#Iz strani vzamemo samo blok htmlja, v katerem so podatki, ki jih želimo.
+# vzorec_gore = re.compile(
+#     r'<title>.(?P<ime>.*?)</title>.*?'
+#     r'<div class="g2"><b>Gorovje:</b> <a class="moder" href=".*?">(?P<gorovje>.*?)</a></div>.*?'
+#     r'<div class="g2"><b>Višina:</b> (?P<višina>\d+)&nbsp;m</div>.*?'
+#     r'<div class="g2"><b>Ogledov:</b>(?P<ogledi>\d+)</div>.*?'
+#     r'<div class="g2"><b>Priljubljenost:</b> (?P<priljubljenost_procenti>\d+%)&nbsp;((?P<priljubljenost_mesto>\d+\.)&nbsp;mesto)</div>.*?'
+#     r'<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">(?P<st_slik>\d+)</a></div>.*?'
+#     r'<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">(?P<st_poti>\d+)</a></div>.*?',
+#     flags=re.DOTALL
+#)
+#Iz HTML-ja izločimo samo podatke, ki nas zanimajo.
+
+vzorec_gore = re.compile(
+    r'form.*?id=(?P<id>.*?)".*?'
+    r'<h1>(?P<ime>.*?)<\/h1>.'
+    r'*?Država:<\/b>.*?>'
+    r'(?P<drzava>.*?)<.*?'
+    r'Gorovje:<\/b>.*?>(?P<gorovje>.*?)<.*?'
+    r'Višina:\D*(?P<visina>\d*).*?'
+    r'<b>Vrsta:</b>(?P<vrsta>.*?)</div>.*?'
+    r'<b>Priljubljenost:</b>.*?(?P<priljubljenost>\d*)%.*?'
+    r'<table class="TPoti".*?</tr>\s*(?P<tabelapoti>.*?)\s*</table>',
+    re.DOTALL
+)
+
+def izloci_podatke(blok):
+    gora = vzorec_gore.search(blok)#.groupdict()
+    print(gora)
+    gora['višina'] = int(gora['višina'])
+    gora['ogledi'] = int(gora['ogledi'])
+    gora['st_slik'] = int(gora['st_slik'])
+    gora['st_poti'] = int(gora['st_poti'])
+
+with open('podatki/hribovje 1/hrib 1') as f:
+    vsebina = f.read()
+
+for blok in vzorec_bloka.finditer(vsebina):
+    # print(blok.group(0))
+     print(izloci_podatke(blok.group(0)))
+

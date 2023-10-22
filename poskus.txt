@@ -37,3 +37,9 @@ vzorec = "/gora/.*?/\d*?/\d*"
 
 
 for 
+
+
+vzorec_naslov = "<title>.*?</title>"
+vzorec_blok_1 = "<div class="gorasiv" style="clear:both;">.*?<div style="padding-top:10px;">"
+
+vzorec_cel = "<title>.*?<div style="padding-top:10px;">"
