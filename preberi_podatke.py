@@ -11,6 +11,7 @@ import traceback
 seznam_gorovij = 'https://www.hribi.net/gorovja'
 hribovja_directory = 'podatki'
 seznam_gorovij_dat = 'seznam-gorovij.txt'
+csv_dat = 'gore.csv'
 
 def url_to_string (url): 
     try:
@@ -91,50 +92,62 @@ def ustvari_datoteke(seznam_linkov):
 
 #Iz linkov za posamezna gorovja ustvarimo še datoteke za posamezne gore. 
 #Sedaj lahko začnemo urejati podatke v CSV obliko.
-######################
 vzorec_bloka = re.compile(
     r'<title>.*?'
     r'<div style="padding-top:10px;">',
     flags=re.DOTALL
 )
 #Iz strani vzamemo samo blok htmlja, v katerem so podatki, ki jih želimo.
-# vzorec_gore = re.compile(
-#     r'<title>.(?P<ime>.*?)</title>.*?'
-#     r'<div class="g2"><b>Gorovje:</b> <a class="moder" href=".*?">(?P<gorovje>.*?)</a></div>.*?'
-#     r'<div class="g2"><b>Višina:</b> (?P<višina>\d+)&nbsp;m</div>.*?'
-#     r'<div class="g2"><b>Ogledov:</b>(?P<ogledi>\d+)</div>.*?'
-#     r'<div class="g2"><b>Priljubljenost:</b> (?P<priljubljenost_procenti>\d+%)&nbsp;((?P<priljubljenost_mesto>\d+\.)&nbsp;mesto)</div>.*?'
-#     r'<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">(?P<st_slik>\d+)</a></div>.*?'
-#     r'<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">(?P<st_poti>\d+)</a></div>.*?',
-#     flags=re.DOTALL
-#)
-#Iz HTML-ja izločimo samo podatke, ki nas zanimajo.
 
 vzorec_gore = re.compile(
-    r'form.*?id=(?P<id>.*?)".*?'
-    r'<h1>(?P<ime>.*?)<\/h1>.'
-    r'*?Država:<\/b>.*?>'
-    r'(?P<drzava>.*?)<.*?'
-    r'Gorovje:<\/b>.*?>(?P<gorovje>.*?)<.*?'
-    r'Višina:\D*(?P<visina>\d*).*?'
-    r'<b>Vrsta:</b>(?P<vrsta>.*?)</div>.*?'
-    r'<b>Priljubljenost:</b>.*?(?P<priljubljenost>\d*)%.*?'
-    r'<table class="TPoti".*?</tr>\s*(?P<tabelapoti>.*?)\s*</table>',
-    re.DOTALL
+    r'<div class="naslov1"><div style="float:left;"><h1>(?P<ime>.+?)</h1></div>.*?'
+    r'<div class="g2"><b>Gorovje:</b> <a class="moder" href=".*?">(?P<gorovje>.+?)</a></div>.*?'
+    r'<div class="g2"><b>Višina:</b> (?P<visina>.+?)&nbsp;m</div>.*?'
+    r'<div class="g2"><b>Vrsta:</b> (?P<vrsta>.+?)</div>.*?'
+    r'<div class="g2"><b>Ogledov:</b> (?P<ogledi>.+?)</div>.*?'
+    r'<div class="g2"><b>Priljubljenost:</b> (?P<priljubljenost>.+?)%.*?</div>.*?'
+    r'<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">(?P<st_slik>.+?)</a></div>.*?'
+    r'<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">(?P<st_poti>.+?)</a></div>.*?',
+    flags=re.DOTALL
 )
+#Iz HTML-ja izločimo samo podatke, ki nas zanimajo.
 
 def izloci_podatke(blok):
-    gora = vzorec_gore.search(blok)#.groupdict()
-    print(gora)
-    gora['višina'] = int(gora['višina'])
-    gora['ogledi'] = int(gora['ogledi'])
+    gora = vzorec_gore.search(blok).groupdict() 
+    gora['visina'] = int(gora['visina'])
+    gora['ogledi'] = int(gora['ogledi'].replace(".", ""))
     gora['st_slik'] = int(gora['st_slik'])
     gora['st_poti'] = int(gora['st_poti'])
+    return gora
 
-with open('podatki/hribovje 1/hrib 1') as f:
-    vsebina = f.read()
+def seznam_slovarjev(hribovje): #lahko narediš tudi za vsa hribovja
+    i = 1
+    seznam = []
+    while os.path.isfile(f'podatki/{hribovje}/hrib {i}') == True:
+        vsebina = file_content(f'podatki/{hribovje}/hrib {i}')
+        for blok in vzorec_bloka.finditer(vsebina):
+            seznam.append(izloci_podatke(blok.group(0))) 
+        i += 1
+    return seznam
 
-for blok in vzorec_bloka.finditer(vsebina):
-    # print(blok.group(0))
-     print(izloci_podatke(blok.group(0)))
+def write_csv(fieldnames, rows, directory, filename):
+    os.makedirs(directory, exist_ok=True)
+    path = os.path.join(directory, filename)
+    with open(path, 'w', encoding='utf-8', newline='') as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in rows:
+            writer.writerow(row)
+    return "A morem jaz kaj vračat?"
 
+def gore_v_csv(seznam_gora, mapa, datoteka):
+    assert seznam_gora and (all(slovar.keys() == seznam_gora[0].keys() for slovar in seznam_gora))
+    imena_stolpcev = sorted(seznam_gora[0])
+    write_csv(imena_stolpcev, seznam_gora, mapa, datoteka
+)
+
+# veliki_seznam = []
+# for j in range(1, 11):
+#     mali_seznam = seznam_slovarjev(f"hribovje {j}")
+#     veliki_seznam.extend(mali_seznam)
+# print (len(veliki_seznam))
