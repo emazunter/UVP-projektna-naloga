@@ -12,6 +12,7 @@ seznam_gorovij = 'https://www.hribi.net/gorovja'
 hribovja_directory = 'podatki'
 seznam_gorovij_dat = 'seznam-gorovij.txt'
 csv_dat = 'gore.csv'
+basic_mapa = 'Desktop/projektna'
 
 def url_to_string (url): 
     try:
@@ -115,12 +116,13 @@ vzorec_gore = re.compile(
 def izloci_podatke(blok):
     gora = vzorec_gore.search(blok).groupdict() 
     gora['visina'] = int(gora['visina'])
+    gora['vrsta'] = "Ni podana" if "Vremenska" in gora['vrsta'] else gora['vrsta']
     gora['ogledi'] = int(gora['ogledi'].replace(".", ""))
     gora['st_slik'] = int(gora['st_slik'])
     gora['st_poti'] = int(gora['st_poti'])
     return gora
 
-def seznam_slovarjev(hribovje): #lahko narediš tudi za vsa hribovja
+def seznam_slovarjev(hribovje): 
     i = 1
     seznam = []
     while os.path.isfile(f'podatki/{hribovje}/hrib {i}') == True:
@@ -146,8 +148,16 @@ def gore_v_csv(seznam_gora, mapa, datoteka):
     write_csv(imena_stolpcev, seznam_gora, mapa, datoteka
 )
 
-# veliki_seznam = []
-# for j in range(1, 11):
-#     mali_seznam = seznam_slovarjev(f"hribovje {j}")
-#     veliki_seznam.extend(mali_seznam)
-# print (len(veliki_seznam))
+veliki_seznam = []
+for j in range(1, 11):
+    mali_seznam = seznam_slovarjev(f"hribovje {j}")
+    veliki_seznam.extend(mali_seznam)
+print (len(veliki_seznam))
+
+gore_v_csv(veliki_seznam, basic_mapa, csv_dat)
+
+# vsebina = file_content('podatki/hribovje 10/hrib 182')
+
+# for blok in vzorec_bloka.finditer(vsebina):
+#     film = izloci_podatke(blok.group(0))
+#     print(film)
