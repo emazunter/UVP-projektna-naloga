@@ -12,7 +12,7 @@ seznam_gorovij = 'https://www.hribi.net/gorovja'
 hribovja_directory = 'podatki'
 seznam_gorovij_dat = 'seznam-gorovij.txt'
 csv_dat = 'gore.csv'
-basic_mapa = 'Desktop/projektna'
+basic_mapa = 'podatki v csv'
 
 def url_to_string (url): 
     try:
@@ -96,8 +96,7 @@ def ustvari_datoteke(seznam_linkov):
 vzorec_bloka = re.compile(
     r'<title>.*?'
     r'<div style="padding-top:10px;">',
-    flags=re.DOTALL
-)
+    flags=re.DOTALL)
 #Iz strani vzamemo samo blok htmlja, v katerem so podatki, ki jih želimo.
 
 vzorec_gore = re.compile(
@@ -109,18 +108,18 @@ vzorec_gore = re.compile(
     r'<div class="g2"><b>Priljubljenost:</b> (?P<priljubljenost>.+?)%.*?</div>.*?'
     r'<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">(?P<st_slik>.+?)</a></div>.*?'
     r'<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">(?P<st_poti>.+?)</a></div>.*?',
-    flags=re.DOTALL
-)
+    flags=re.DOTALL)
 #Iz HTML-ja izločimo samo podatke, ki nas zanimajo.
 
 def izloci_podatke(blok):
     gora = vzorec_gore.search(blok).groupdict() 
     gora['visina'] = int(gora['visina'])
-    gora['vrsta'] = "Ni podana" if "Vremenska" in gora['vrsta'] else gora['vrsta']
+    gora['vrsta'] = "Ni podana" if r"</div>" in gora['vrsta'] else gora['vrsta']
     gora['ogledi'] = int(gora['ogledi'].replace(".", ""))
     gora['st_slik'] = int(gora['st_slik'])
     gora['st_poti'] = int(gora['st_poti'])
     return gora
+#Uredi podatke. 
 
 def seznam_slovarjev(hribovje): 
     i = 1
@@ -131,6 +130,8 @@ def seznam_slovarjev(hribovje):
             seznam.append(izloci_podatke(blok.group(0))) 
         i += 1
     return seznam
+#Naredi seznam slovarjev s podatki iz določenega hribovja (oz. datotek v 
+#določeni mapi)
 
 def write_csv(fieldnames, rows, directory, filename):
     os.makedirs(directory, exist_ok=True)
@@ -140,24 +141,19 @@ def write_csv(fieldnames, rows, directory, filename):
         writer.writeheader()
         for row in rows:
             writer.writerow(row)
-    return "A morem jaz kaj vračat?"
+    return None
+#Piše v csv datoteko.
 
 def gore_v_csv(seznam_gora, mapa, datoteka):
     assert seznam_gora and (all(slovar.keys() == seznam_gora[0].keys() for slovar in seznam_gora))
     imena_stolpcev = sorted(seznam_gora[0])
-    write_csv(imena_stolpcev, seznam_gora, mapa, datoteka
-)
+    write_csv(imena_stolpcev, seznam_gora, mapa, datoteka)
+#V csv datoteko napiše podatke s seznama slovarjev.
 
-veliki_seznam = []
-for j in range(1, 11):
-    mali_seznam = seznam_slovarjev(f"hribovje {j}")
-    veliki_seznam.extend(mali_seznam)
-print (len(veliki_seznam))
+# veliki_seznam = []
+# for j in range(1, 11):
+#     mali_seznam = seznam_slovarjev(f"hribovje {j}")
+#     veliki_seznam.extend(mali_seznam)
+# gore_v_csv(veliki_seznam, basic_mapa, csv_dat)
 
-gore_v_csv(veliki_seznam, basic_mapa, csv_dat)
-
-# vsebina = file_content('podatki/hribovje 10/hrib 182')
-
-# for blok in vzorec_bloka.finditer(vsebina):
-#     film = izloci_podatke(blok.group(0))
-#     print(film)
+#Ustvari csv datoteko s podatki o vseh gorah.
