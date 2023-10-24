@@ -61,7 +61,7 @@ def ustvari_linke(datoteka, vzorec):
 #zaporedoma, zato vzamemo samo vsak drugi element.
 
 #seznam_pravi = ustvari_linke(seznam_gorovij_dat, "/gorovje/.*/\d+")
-#Ustvari pomožni seznam linkov.
+#Ustvari pomožni seznam url-jev.
 
 def ustvari_datoteke(seznam_linkov):
     i = 1
@@ -93,13 +93,13 @@ def ustvari_datoteke(seznam_linkov):
 #         url_to_file(link, f"podatki/hribovje {i}", f"hrib {indeks}")
 #         indeks += 1
 
-#Iz linkov za posamezna gorovja ustvarimo še datoteke za posamezne gore. 
+#Iz url-jev za posamezna gorovja ustvarimo še datoteke za posamezne gore. 
 #Sedaj lahko začnemo urejati podatke v CSV obliko.
 vzorec_bloka = re.compile(
     r'<title>.*?'
     r'<div style="padding-top:10px;">',
     flags=re.DOTALL)
-#Iz strani vzamemo samo blok htmlja, v katerem so podatki, ki jih želimo.
+#Iz strani vzamemo samo blok html-ja, v katerem so podatki, ki jih želimo.
 
 vzorec_gore = re.compile(
     r'<div class="naslov1"><div style="float:left;"><h1>(?P<ime>.+?)</h1></div>.*?'
@@ -139,7 +139,7 @@ def seznam_slovarjev(hribovje):
 def loci_vrste(niz):
     niz = niz.replace(" ", "")
     return niz.split(",")
-#Če ima gora več različnih vrst, bomo te dodali v seznam.
+#Če ima lokacija več različnih vrst, bomo te dodali v seznam.
 
 def seznam_slovarjev_za_vrste(hribovje):
     i = 1
@@ -189,4 +189,4 @@ def gore_v_csv(seznam_gora, mapa, datoteka): # ta dela pravilno
 #     veliki_seznam.extend(mali_seznam)
 # gore_v_csv(veliki_seznam, basic_mapa, vrste_csv)
 
-#Ustvari csv datoteko s podatki o vrstah "gora".
+#Ustvari csv datoteko s podatki o vrstah lokacij.
