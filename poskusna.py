@@ -99,3 +99,16 @@ vzorec_gore = re.compile(
     r'<div style="padding-top:10px;"><b>Opis.*?:</b><br />(?P<opis>.+?)</div>.*?'
     r'<table class="TPoti" id="poti">(?P<poti>.+?)</table>',
     flags=re.DOTALL
+
+
+#########################################
+def izloci_osebe(niz):
+    osebe = []
+    for oseba in vzorec_osebe.finditer(niz):
+        osebe.append({
+            'id': int(oseba.groupdict()['id']),
+            'ime': oseba.groupdict()['ime'],
+        })
+    return osebe
+
+    

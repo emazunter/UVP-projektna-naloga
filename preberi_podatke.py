@@ -13,6 +13,7 @@ hribovja_directory = 'podatki'
 seznam_gorovij_dat = 'seznam-gorovij.txt'
 csv_dat = 'gore.csv'
 basic_mapa = 'podatki v csv'
+vrste_csv = 'vrste.csv'
 
 def url_to_string (url): 
     try:
@@ -114,7 +115,9 @@ vzorec_gore = re.compile(
 def izloci_podatke(blok):
     gora = vzorec_gore.search(blok).groupdict() 
     gora['visina'] = int(gora['visina'])
-    gora['vrsta'] = "Ni podana" if r"</div>" in gora['vrsta'] else gora['vrsta']
+    gora['vrsta'] = (
+        "Ni podana" if r"</div>" in gora['vrsta'] 
+        else loci_vrste(gora['vrsta']))
     gora['ogledi'] = int(gora['ogledi'].replace(".", ""))
     gora['st_slik'] = int(gora['st_slik'])
     gora['st_poti'] = int(gora['st_poti'])
@@ -132,6 +135,28 @@ def seznam_slovarjev(hribovje):
     return seznam
 #Naredi seznam slovarjev s podatki iz določenega hribovja (oz. datotek v 
 #določeni mapi)
+
+def loci_vrste(niz):
+    niz = niz.replace(" ", "")
+    return niz.split(",")
+#Če ima gora več različnih vrst, bomo te dodali v seznam.
+
+def seznam_slovarjev_za_vrste(hribovje):
+    i = 1
+    seznam = []
+    while os.path.isfile(f'podatki/{hribovje}/hrib {i}') == True:
+        vsebina = file_content(f'podatki/{hribovje}/hrib {i}')
+        for blok in vzorec_bloka.finditer(vsebina):
+            slovar = (izloci_podatke(blok.group(0)))
+            if isinstance(slovar.get('vrsta'), list):
+                for vrsta in slovar.get('vrsta'):
+                    seznam.append({"ime": slovar.get('ime'), "vrsta": vrsta})
+            else:
+                seznam.append({"ime": slovar.get('ime'), "vrsta": vrsta})
+        i += 1
+    return seznam
+#S tem seznamom slovarjev bomo ustvarili csv datoteko s tabelo, v kateri so samo
+#vrste vrhov.
 
 def write_csv(fieldnames, rows, directory, filename):
     os.makedirs(directory, exist_ok=True)
@@ -157,3 +182,11 @@ def gore_v_csv(seznam_gora, mapa, datoteka):
 # gore_v_csv(veliki_seznam, basic_mapa, csv_dat)
 
 #Ustvari csv datoteko s podatki o vseh gorah.
+
+veliki_seznam = []
+for j in range(1, 11):
+    mali_seznam = seznam_slovarjev_za_vrste(f"hribovje {j}")
+    veliki_seznam.extend(mali_seznam)
+gore_v_csv(veliki_seznam, basic_mapa, vrste_csv)
+
+#Ustvari csv datoteko s podatki o vrstah "gora".
