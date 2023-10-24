@@ -134,7 +134,7 @@ def seznam_slovarjev(hribovje):
         i += 1
     return seznam
 #Naredi seznam slovarjev s podatki iz določenega hribovja (oz. datotek v 
-#določeni mapi)
+#določeni mapi).
 
 def loci_vrste(niz):
     niz = niz.replace(" ", "")
@@ -183,10 +183,10 @@ def gore_v_csv(seznam_gora, mapa, datoteka): # ta dela pravilno
 
 #Ustvari csv datoteko s podatki o vseh gorah.
 
-veliki_seznam = []
-for j in range(1, 11):
-    mali_seznam = seznam_slovarjev_za_vrste(f"hribovje {j}")
-    veliki_seznam.extend(mali_seznam)
-gore_v_csv(veliki_seznam, basic_mapa, vrste_csv)
+# veliki_seznam = []
+# for j in range(1, 11):
+#     mali_seznam = seznam_slovarjev_za_vrste(f"hribovje {j}")
+#     veliki_seznam.extend(mali_seznam)
+# gore_v_csv(veliki_seznam, basic_mapa, vrste_csv)
 
 #Ustvari csv datoteko s podatki o vrstah "gora".
