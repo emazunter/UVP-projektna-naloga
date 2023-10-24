@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Križ (Kumen)</title>
-        <meta name="description" content="Natančen opis cerkve Sveti Križ (Kumen) in vseh pristopov na Sveti Križ (Kumen). Kapela Sv. Križa se nahaja na obrobju naselja Kumen, v bližini domačije Lampreht." />
+        <title>Rudnica (nad Podčetrtkom)</title>
+        <meta name="description" content="Natančen opis gore Rudnica (nad Podčetrtkom) in vseh pristopov na Rudnica (nad Podčetrtkom). Rudnica je hribovje nad Podčetrtkom in Olimjem. Razteza se na 98 ha površine. Na." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3462?gorovjeid=4&amp;id=3462" id="form1">
+    <form method="post" action="./3356?gorovjeid=4&amp;id=3356" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_kriz_kumen/4/3462"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3462"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rudnica_above_podcetrtek/4/3356"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3356"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Sveti Križ (Kumen)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Rudnica (nad Podčetrtkom)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3462);
+    gorast(3356);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Križ (Kumen)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Rudnica (nad Podčetrtkom)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,100 +653,16 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 928&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 548&nbsp;m</div>
     
-        <script>
-            var kfi = 1;
-            function koordinateFormat() {
-                if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,9984'N&nbsp;/&nbsp;15°&nbsp;25,6896'E";
-                        kfi = 2;
-                    }
-                    else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;59,90''N&nbsp;/&nbsp;15°&nbsp;25'&nbsp;41,38''E";
-                        kfi = 3;
-                    }
-                    else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.51664°N&nbsp;/&nbsp;15.42816°E";
-                    kfi = 4;
-                }
-                else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,51664°N,&nbsp;15,42816°E";
-                        kfi = 1;
-                    }
-    }
-
-            function kopiraj() {
-                var tempInput = document.createElement("textarea");
-                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
-                document.body.appendChild(tempInput);
-                tempInput.select();
-                tempInput.setSelectionRange(0, 99999);
-                document.execCommand("copy");
-                document.body.removeChild(tempInput);
-                tooltip("Kopirano v odložišče...");
-
-            }
-
-    
-</script>
-        
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,51664°N&nbsp;15,42816°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_kriz_kumen/3462"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
-    
-    <div class="g2"><b>Vrsta:</b> cerkev</div>
-  
-        <div class="g2"><b>Vremenska napoved:</b></div>
-        <div class="g2">
-<table><tr>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (Kumen) - Petek" href="/vreme_gora/sveti_kriz_kumen/4/3462#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (Kumen) - Sobota" href="/vreme_gora/sveti_kriz_kumen/4/3462#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (Kumen) - Nedelja" href="/vreme_gora/sveti_kriz_kumen/4/3462#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (Kumen) - Ponedeljek" href="/vreme_gora/sveti_kriz_kumen/4/3462#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (Kumen) - Torek" href="/vreme_gora/sveti_kriz_kumen/4/3462#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    </tr></table>
-        </div>
+    <div class="g2"><b>Vrsta:</b> vrh, koča, jezero, bivak, planina, cerkev</div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 245</div>
-<div class="g2"><b>Priljubljenost:</b> 11%&nbsp;(2927.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 14.760</div>
+<div class="g2"><b>Priljubljenost:</b> 39%&nbsp;(2006.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">16</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +671,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Kapela Sv. Križa se nahaja na obrobju naselja Kumen, v bližini domačije Lampreht. Od kapele se nam odpre lep pogled proti bližnji domačiji in pohorskim gozdovom.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Rudnica je hribovje nad Podčetrtkom in Olimjem. Razteza se na 98 ha površine. Na vrhu hriba stoji razgledni stolp imenovan Stolp zdravja in veselja na Rudnici. Najvišja ploščad stolpa je na nadmorski višini 656,2. <br> <br> Najvišja točka Rudnice je Plešivec z svojimi 682 metri. <br> <br> Ob pohodu po Rudnici lahko občudujemo grad Podčetrtek, zavetišče Šmarnica, Stolp zdravja in veselja, Albinovo počivališče, Lovski bivak, Zmajevo jezero, kočo pri čarovnici.<br> <br> Na povratku iz Olimja v Podčetrtek pa lahko obiščemo tudi minoritski samostan Olimje, Jelenov greben, golf Amon.<br> <br> Vse fotografije in opise poti lahko najdete tudi na facebook in instagram strani VISIT RUDNICA. V vaših zgodbah na socialnih omrežjih lahko uporabite @visitrudnica ali pod slikami pustite označbo #visitrudnica tako bodo vsi lahko občudovali vaše razglede in utrinke z vašega izleta.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +704,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3462&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3356&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -797,58 +713,43 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><b>Gore v okolici</b>
-<select onchange="radiusf(this.value,1);">
-<option value="0,5">0,5</option>
-<option value="1">1</option>
-<option value="1,5">1,5</option>
-<option selected value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="6">6</option>
-<option value="8">8</option>
-<option value="10">10</option>
-<option value="15">15</option>
-<option value="20">20</option>
-<option value="30">30</option>
-</select> <b>km:</b><br />
-</div>
-<div id="radiusseznam1">
-<a class="moder" href="/gora/lamprehtov_vrh/4/3464">Lamprehtov vrh (1230m)</a>, <a class="moder" href="/gora/sveta_marija_smolnik/4/3771">Sveta Marija (Smolnik) (860m)</a>
-</div>
-
-<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
-<select onchange="radiusf(this.value,2);">
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="5">5</option>
-<option value="7">7</option>
-<option value="10">10</option>
-<option selected value="15">15</option>
-<option value="20">20</option>
-<option value="25">25</option>
-<option value="30">30</option>
-<option value="35">35</option>
-<option value="40">40</option>
-<option value="50">50</option>
-<option value="60">60</option>
-</select> <b>km:</b><br></div>
-<div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornja_kapla/2314">Zgornja Kapla</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
-</div>
-
-
-
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_kriz_kumen%2f4%2f3462"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_kriz_kumen%2f4%2f3462"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_kriz_kumen%2f4%2f3462"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frudnica_nad_podcetrtkom%2f4%2f3356"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frudnica_nad_podcetrtkom%2f4%2f3356"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frudnica_nad_podcetrtkom%2f4%2f3356"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_kriz_kumen/20587" onclick="event.preventDefault(); window.open('/slika_gora/sveti_kriz_kumen/20587');"><img class="slikagm" alt="Sveti Križ (Kumen)" src="//slike2.hribi.net/slike14/2_10148690980113_10dscn8057.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20008" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20008');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116488131350079_102857561705035_6611102592834674863_o.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_kriz_kumen/20588" onclick="event.preventDefault(); window.open('/slika_gora/sveti_kriz_kumen/20588');"><img class="slikagm" alt="Sveti Križ (Kumen)" src="//slike2.hribi.net/slike14/2_2955690969423_2dscn8059.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20009" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20009');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116488131240080_102857948371663_400976030161658390_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20010" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20010');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116489131955277_107786911212100_6669575848259408154_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20011" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20011');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116489131118761_104228788234579_6811542277164661631_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20012" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20012');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116489131896062_107447387912719_2251288975669921865_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20013" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20013');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116489131929095_107786681212123_7152604605852076658_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20014" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20014');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116489131979496_107786884545436_3235162169279760688_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20015" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20015');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116489131944908_107786934545431_851804446636236706_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20016" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20016');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116490134000631_111981477459310_1992679398146426594_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20017" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20017');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116490133503612_111981500792641_6267112830696008337_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20018" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20018');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116490133929477_111981527459305_6518473723052624924_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20019" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20019');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116490133465370_111981557459302_4922693269571434385_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20020" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20020');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116490133556172_111981644125960_4688325154765393745_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20021" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20021');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116490134237262_111981717459286_3222992358009500036_o.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20022" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20022');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116490134644932_2894526117447223_5407355769408764590_n.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rudnica_nad_podcetrtkom/20023" onclick="event.preventDefault(); window.open('/slika_gora/rudnica_nad_podcetrtkom/20023');"><img class="slikagm" alt="Rudnica (nad Podčetrtkom)" src="//slike.hribi.net/slike9/2_11116491134710256_236928831280833_6054635348607224553_n.jpg" /></a>
     
 </div>
 
@@ -912,7 +813,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3462&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3356&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,7 +823,19 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/cinzat_sveti_kriz_kumen/4/3462/8336">Činžat - Sveti Križ (Kumen)</a></td><td class="tdG"><a href="/izlet/cinzat_sveti_kriz_kumen/4/3462/8336">1 h 25 min</a></td><td class="tdG"><a href="/izlet/cinzat_sveti_kriz_kumen/4/3462/8336">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/parkirisce_na_jasi_rudnica_nad_podcetrtkom_srednja_krozna_pot_po_rudnici/4/3356/8045">Parkirišče na jasi - Rudnica (nad Podčetrtkom) (srednja krožna pot po Rudnici)</a></td><td class="tdG"><a href="/izlet/parkirisce_na_jasi_rudnica_nad_podcetrtkom_srednja_krozna_pot_po_rudnici/4/3356/8045">1 h 20 min</a></td><td class="tdG"><a href="/izlet/parkirisce_na_jasi_rudnica_nad_podcetrtkom_srednja_krozna_pot_po_rudnici/4/3356/8045">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/parkirisce_pod_stolpom_rudnica_nad_podcetrtkom_mikro_krozna_pot_na_stolp/4/3356/8047">Parkirišče pod stolpom - Rudnica (nad Podčetrtkom) (mikro krožna pot na stolp)</a></td><td class="tdG"><a href="/izlet/parkirisce_pod_stolpom_rudnica_nad_podcetrtkom_mikro_krozna_pot_na_stolp/4/3356/8047"> 30 min</a></td><td class="tdG"><a href="/izlet/parkirisce_pod_stolpom_rudnica_nad_podcetrtkom_mikro_krozna_pot_na_stolp/4/3356/8047">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/parkirisce_pri_cerkvi_v_podcetrtku_rudnica_nad_podcetrtkom_daljsa_krozna_pot/4/3356/8043">Parkirišče pri cerkvi v Podčetrtku - Rudnica (nad Podčetrtkom) (daljša krožna pot)</a></td><td class="tdG"><a href="/izlet/parkirisce_pri_cerkvi_v_podcetrtku_rudnica_nad_podcetrtkom_daljsa_krozna_pot/4/3356/8043">2 h 15 min</a></td><td class="tdG"><a href="/izlet/parkirisce_pri_cerkvi_v_podcetrtku_rudnica_nad_podcetrtkom_daljsa_krozna_pot/4/3356/8043">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/parkirisce_pri_cerkvi_v_podcetrtku_rudnica_nad_podcetrtkom_dolga_krozna_pot_po_rudnici/4/3356/8044">Parkirišče pri cerkvi v Podčetrtku - Rudnica (nad Podčetrtkom) (dolga krožna pot po Rudnici)</a></td><td class="tdG"><a href="/izlet/parkirisce_pri_cerkvi_v_podcetrtku_rudnica_nad_podcetrtkom_dolga_krozna_pot_po_rudnici/4/3356/8044">4 h 30 min</a></td><td class="tdG"><a href="/izlet/parkirisce_pri_cerkvi_v_podcetrtku_rudnica_nad_podcetrtkom_dolga_krozna_pot_po_rudnici/4/3356/8044">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/parkirisce_pod_stolpom_rudnica_nad_podcetrtkom_kratka_krozna_pot_z_zavetiscem_smarnica/4/3356/8046">Parkirišče pod stolpom - Rudnica (nad Podčetrtkom) (kratka krožna pot z zavetiščem Šmarnica)</a></td><td class="tdG"><a href="/izlet/parkirisce_pod_stolpom_rudnica_nad_podcetrtkom_kratka_krozna_pot_z_zavetiscem_smarnica/4/3356/8046"> 40 min</a></td><td class="tdG"><a href="/izlet/parkirisce_pod_stolpom_rudnica_nad_podcetrtkom_kratka_krozna_pot_z_zavetiscem_smarnica/4/3356/8046">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/minoritski_samostan_olimje_rudnica_nad_podcetrtkom_neposredna_pot_olimje_-_stolp_zdravja_in_veselja/4/3356/8334">Minoritski samostan Olimje - Rudnica (nad Podčetrtkom) (Neposredna pot Olimje - Stolp zdravja in veselja)</a></td><td class="tdG"><a href="/izlet/minoritski_samostan_olimje_rudnica_nad_podcetrtkom_neposredna_pot_olimje_-_stolp_zdravja_in_veselja/4/3356/8334">1 h 30 min</a></td><td class="tdG"><a href="/izlet/minoritski_samostan_olimje_rudnica_nad_podcetrtkom_neposredna_pot_olimje_-_stolp_zdravja_in_veselja/4/3356/8334">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/slake_cerkev_device_marije_na_pesku_rudnica_nad_podcetrtkom_slake_-_stolp_zdravja_in_veselja/4/3356/8333">Slake (cerkev Device Marije na Pesku) - Rudnica (nad Podčetrtkom) (Slake - Stolp zdravja in veselja)</a></td><td class="tdG"><a href="/izlet/slake_cerkev_device_marije_na_pesku_rudnica_nad_podcetrtkom_slake_-_stolp_zdravja_in_veselja/4/3356/8333">1 h 10 min</a></td><td class="tdG"><a href="/izlet/slake_cerkev_device_marije_na_pesku_rudnica_nad_podcetrtkom_slake_-_stolp_zdravja_in_veselja/4/3356/8333">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planina Pečana</title>
-        <meta name="description" content="Natančen opis planine Planina Pečana in vseh pristopov na Planina Pečana. Planina se nahaja na severni bohinjski strani Ratitovca. Na njej je postavljenih." />
+        <title>Koča na Črnem vrhu nad Novaki</title>
+        <meta name="description" content="Natančen opis koče Koča na Črnem vrhu nad Novaki in vseh pristopov na Koča na Črnem vrhu nad Novaki. Planinska koča se nahaja na južnem delu velikega poslopja, katerega je med vojno." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./481?gorovjeid=21&amp;id=481" id="form1">
+    <form method="post" action="./843?gorovjeid=21&amp;id=843" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_pecana/21/481"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=481"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_crnem_vrhu_above_novaki/21/843"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=843"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Planina Pečana
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Koča na Črnem vrhu nad Novaki
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(481);
+    gorast(843);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planina Pečana</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Koča na Črnem vrhu nad Novaki</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1472&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1245&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;14,7480'N&nbsp;/&nbsp;14°&nbsp;5,2620'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;9,7044'N&nbsp;/&nbsp;14°&nbsp;3,4548'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;14'&nbsp;44,88''N&nbsp;/&nbsp;14°&nbsp;5'&nbsp;15,72''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;9'&nbsp;42,26''N&nbsp;/&nbsp;14°&nbsp;3'&nbsp;27,29''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.2458°N&nbsp;/&nbsp;14.0877°E";
+                        document.getElementById("kf0").innerHTML = "46.16174°N&nbsp;/&nbsp;14.05758°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,2458°N,&nbsp;14,0877°E";
+                    document.getElementById("kf0").innerHTML = "46,16174°N,&nbsp;14,05758°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2458°N&nbsp;14,0877°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_pecana/481"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,16174°N&nbsp;14,05758°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_crnem_vrhu_nad_novaki/843"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> planina</div>
+    <div class="g2"><b>Vrsta:</b> koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Črnem vrhu nad Novaki - Torek" href="/vreme_gora/koca_na_crnem_vrhu_nad_novaki/21/843#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Črnem vrhu nad Novaki - Sreda" href="/vreme_gora/koca_na_crnem_vrhu_nad_novaki/21/843#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Črnem vrhu nad Novaki - Četrtek" href="/vreme_gora/koca_na_crnem_vrhu_nad_novaki/21/843#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Pečana - Petek" href="/vreme_gora/planina_pecana/21/481#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Črnem vrhu nad Novaki - Petek" href="/vreme_gora/koca_na_crnem_vrhu_nad_novaki/21/843#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Pečana - Sobota" href="/vreme_gora/planina_pecana/21/481#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Pečana - Nedelja" href="/vreme_gora/planina_pecana/21/481#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Pečana - Ponedeljek" href="/vreme_gora/planina_pecana/21/481#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Pečana - Torek" href="/vreme_gora/planina_pecana/21/481#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Črnem vrhu nad Novaki - Sobota" href="/vreme_gora/koca_na_crnem_vrhu_nad_novaki/21/843#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 362.069</div>
-<div class="g2"><b>Priljubljenost:</b> 76%&nbsp;(774.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Ogledov:</b> 339.279</div>
+<div class="g2"><b>Priljubljenost:</b> 74%&nbsp;(860.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=843" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina se nahaja na severni bohinjski strani Ratitovca. Na njej je postavljenih nekaj hišk in malo pred hiškami križ. Zaradi bližnjega gozda ni razgleda. Na planini je tudi žig in sicer na kovinskem drogu.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinska koča se nahaja na južnem delu velikega poslopja, katerega je med vojno uporabljala italijanska vojska. Pred vhodom v planinski del poslopja se nahaja žig in vpisna skrinjica. Drugi večji del poslopja (okrepčevalnica Črni vrh) pa je last smučarskega centra Cerkno, in je odprta med obratovanjem smučišča. Od koče je lep razgled proti jugu in zahodu, kjer lepo vidimo Porezen  in Golake.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=481&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=843&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/altemaver_ratitovec/21/1310">Altemaver (Ratitovec) (1678m)</a>, <a class="moder" href="/gora/gladki_vrh_ratitovec/21/1308">Gladki vrh (Ratitovec) (1667m)</a>, <a class="moder" href="/gora/kosmati_vrh_ratitovec/21/608">Kosmati vrh (Ratitovec) (1643m)</a>, <a class="moder" href="/gora/krekova_koca_na_ratitovcu/21/147">Krekova koča na Ratitovcu (1642m)</a>, <a class="moder" href="/gora/kremant_ratitovec/21/1803">Kremant (Ratitovec) (1654m)</a>, <a class="moder" href="/gora/planina_klom/21/1586">Planina Klom (1500m)</a>
+<a class="moder" href="/gora/crni_vrh_nad_novaki/21/900">Črni vrh nad Novaki (1291m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,38 +835,22 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_pecana%2f21%2f481"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_pecana%2f21%2f481"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_pecana%2f21%2f481"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_crnem_vrhu_nad_novaki%2f21%2f843"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_crnem_vrhu_nad_novaki%2f21%2f843"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_crnem_vrhu_nad_novaki%2f21%2f843"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planina_pecana/1224" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/1224');"><img class="slikagm" alt="Planina Pečana" src="//www.hribi.net/Gora/rimg0340mediumrz5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_crnem_vrhu_nad_novaki/2921" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_crnem_vrhu_nad_novaki/2921');"><img class="slikagm" alt="Koča na Črnem vrhu nad Novaki" src="//www.hribi.net/sliketemp/P41600394420205.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_pecana/1225" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/1225');"><img class="slikagm" alt="Planina Pečana" src="//www.hribi.net/Gora/rimg0337mediumxs1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_crnem_vrhu_nad_novaki/5937" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_crnem_vrhu_nad_novaki/5937');"><img class="slikagm" alt="Koča na Črnem vrhu nad Novaki" src="//www.hribi.net/slike1/Blegos%2028718480.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_pecana/1226" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/1226');"><img class="slikagm" alt="Planina Pečana" src="//www.hribi.net/Gora/rimg0336mediumhs0.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_pecana/1227" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/1227');"><img class="slikagm" alt="Planina Pečana" src="//www.hribi.net/Gora/rimg0335mediumob4.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_pecana/9546" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/9546');"><img class="slikagm" alt="Planina Pečana" src="//www.hribi.net/slike1/Ratitovec12 145190512.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_pecana/9547" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/9547');"><img class="slikagm" alt="Planina Pečana" src="//www.hribi.net/slike1/Ratitovec12 135190512.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_pecana/9548" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/9548');"><img class="slikagm" alt="Planina Pečana" src="//slike.hribi.net/sliketemp/Ratitovec12%201446470385.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_pecana/9722" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/9722');"><img class="slikagm" alt="Planina Pečana" src="//slike.hribi.net/slike4/2_043394270508_GladkiVrhRatitovec_198.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_pecana/9723" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/9723');"><img class="slikagm" alt="Planina Pečana" src="//www.hribi.net/slike1/GladkiVrhRatitovec 204369360.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_pecana/9724" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/9724');"><img class="slikagm" alt="Planina Pečana" src="//www.hribi.net/slike1/GladkiVrhRatitovec 202369360.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_pecana/10605" onclick="event.preventDefault(); window.open('/slika_gora/planina_pecana/10605');"><img class="slikagm" alt="Planina Pečana" src="//slike.hribi.net/slike4/2_0225416504257_GladkiVrh_085.JPG" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_crnem_vrhu_nad_novaki/5938" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_crnem_vrhu_nad_novaki/5938');"><img class="slikagm" alt="Koča na Črnem vrhu nad Novaki" src="//www.hribi.net/slike1/Blegos%2029018480.th.jpg" /></a>
     
 </div>
 
@@ -930,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=481&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=843&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -940,15 +924,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pecana_planina_pecana/21/481/810">Pečana - Planina Pečana</a></td><td class="tdG"><a href="/izlet/pecana_planina_pecana/21/481/810"> 15 min</a></td><td class="tdG"><a href="/izlet/pecana_planina_pecana/21/481/810">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_planina_pecana/21/481/3726">Gozdarska koča Rovtarica - Planina Pečana</a></td><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_planina_pecana/21/481/3726">3 h</a></td><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_planina_pecana/21/481/3726">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bitenjska_planina_planina_pecana/21/481/3884">Bitenjska planina - Planina Pečana</a></td><td class="tdG"><a href="/izlet/bitenjska_planina_planina_pecana/21/481/3884">1 h 50 min</a></td><td class="tdG"><a href="/izlet/bitenjska_planina_planina_pecana/21/481/3884">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/razglednik_planina_pecana/21/481/4320">Razglednik - Planina Pečana</a></td><td class="tdG"><a href="/izlet/razglednik_planina_pecana/21/481/4320">2 h 30 min</a></td><td class="tdG"><a href="/izlet/razglednik_planina_pecana/21/481/4320">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podkorita_planina_pecana/21/481/3878">Podkorita - Planina Pečana</a></td><td class="tdG"><a href="/izlet/podkorita_planina_pecana/21/481/3878">3 h</a></td><td class="tdG"><a href="/izlet/podkorita_planina_pecana/21/481/3878">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tuskov_gric_koca_na_crnem_vrhu_nad_novaki/21/843/1582">Tuškov Grič - Koča na Črnem vrhu nad Novaki</a></td><td class="tdG"><a href="/izlet/tuskov_gric_koca_na_crnem_vrhu_nad_novaki/21/843/1582"> 35 min</a></td><td class="tdG"><a href="/izlet/tuskov_gric_koca_na_crnem_vrhu_nad_novaki/21/843/1582">lahka označena pot</a></td></tr>
 
 </table>
 

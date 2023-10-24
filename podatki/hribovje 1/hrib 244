@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Otliški maj</title>
-        <meta name="description" content="Natančen opis gore Otliški maj in vseh pristopov na Otliški maj. Otliški maj je razgleden vrh, ki se nahaja južno od Otlice. Z vrha je lep pogled." />
+        <title>Zjat</title>
+        <meta name="description" content="Natančen opis gore Zjat in vseh pristopov na Zjat. Zjat je 449 m visok vrh, ki se nahaja nad skalno stopnjo Kraškega roba, točneje ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./815?gorovjeid=26&amp;id=815" id="form1">
+    <form method="post" action="./1707?gorovjeid=26&amp;id=1707" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/otliski_maj/26/815"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=815"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/zjat/26/1707"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1707"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Otliški maj
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Zjat
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(815);
+    gorast(1707);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Otliški maj</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Zjat</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 847&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 449&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;55,2624'N&nbsp;/&nbsp;13°&nbsp;54,4776'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;31,5228'N&nbsp;/&nbsp;13°&nbsp;54,4548'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;55'&nbsp;15,74''N&nbsp;/&nbsp;13°&nbsp;54'&nbsp;28,66''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;31'&nbsp;31,37''N&nbsp;/&nbsp;13°&nbsp;54'&nbsp;27,29''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.92104°N&nbsp;/&nbsp;13.90796°E";
+                        document.getElementById("kf0").innerHTML = "45.52538°N&nbsp;/&nbsp;13.90758°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,92104°N,&nbsp;13,90796°E";
+                    document.getElementById("kf0").innerHTML = "45,52538°N,&nbsp;13,90758°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,92104°N&nbsp;13,90796°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/otliski_maj/815"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,52538°N&nbsp;13,90758°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zjat/1707"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Zjat - Torek" href="/vreme_gora/zjat/26/1707#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Zjat - Sreda" href="/vreme_gora/zjat/26/1707#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Zjat - Četrtek" href="/vreme_gora/zjat/26/1707#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Otliški maj - Petek" href="/vreme_gora/otliski_maj/26/815#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Zjat - Petek" href="/vreme_gora/zjat/26/1707#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Otliški maj - Sobota" href="/vreme_gora/otliski_maj/26/815#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Otliški maj - Nedelja" href="/vreme_gora/otliski_maj/26/815#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Otliški maj - Ponedeljek" href="/vreme_gora/otliski_maj/26/815#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Otliški maj - Torek" href="/vreme_gora/otliski_maj/26/815#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Zjat - Sobota" href="/vreme_gora/zjat/26/1707#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 262.442</div>
-<div class="g2"><b>Priljubljenost:</b> 65%&nbsp;(1146.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Ogledov:</b> 212.886</div>
+<div class="g2"><b>Priljubljenost:</b> 59%&nbsp;(1335.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Otliški maj je razgleden vrh, ki se nahaja južno od Otlice. Z vrha je lep pogled proti Vipavski dolini, pobočjem Čavna, Golakom pod katerim opazimo prostran Trnovski gozd in Sinjemu vrhu.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Zjat je 449 m visok vrh, ki se nahaja nad skalno stopnjo Kraškega roba, točneje nad vasjo Podpeč. S prepadnega vrha, se nam odpre lep razgled na Slavnik, Kojnik, Lačno, morje in viadukt Črni Kal, ob lepem vremenu pa razgled seže vse do Dolomitov in Julijskih Alp.<br>Malo pod vrhom Zjata (tudi Vrh Sten), pa se nahaja 17 m visok obrambni stolp iz 11. stoletja.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=815&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1707&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dolski_maj/26/1698">Dolski maj (912m)</a>, <a class="moder" href="/gora/navrse/26/814">Navrše (857m)</a>, <a class="moder" href="/gora/otlisko_okno/26/816">Otliško okno (800m)</a>
+<a class="moder" href="/gora/marija_snezna_na_gradiscah/26/2916">Marija Snežna na Gradišcah (467m)</a>, <a class="moder" href="/gora/sveti_stefan_zanigrad/26/1706">Sveti Štefan (Zanigrad) (246m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,25 +835,35 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/ozeljan/2075">Ozeljan</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/stanjel_ferrarijev_vrt/4213">Štanjel (Ferrarijev vrt)</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>
+<a class="moder" href="/spletna_kamera/ankaran/4356">Ankaran</a>, <a class="moder" href="/spletna_kamera/bazovica___basovizza/1649">Bazovica / Basovizza</a>, <a class="moder" href="/spletna_kamera/bertoki/4921">Bertoki</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kokos/4324">Kokoš</a>, <a class="moder" href="/spletna_kamera/koper/3504">Koper</a>, <a class="moder" href="/spletna_kamera/koper_marina/4335">Koper (marina)</a>, <a class="moder" href="/spletna_kamera/koper_markovec/300">Koper (Markovec)</a>, <a class="moder" href="/spletna_kamera/koper_panoramski_pogled/4268">Koper (panoramski pogled)</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/lipica/1701">Lipica</a>, <a class="moder" href="/spletna_kamera/luka_koper/4329">Luka Koper</a>, <a class="moder" href="/spletna_kamera/milje___muggia/1639">Milje / Muggia</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/spodnje_skofije/1080">Spodnje Škofije</a>, <a class="moder" href="/spletna_kamera/sveti_martin/3717">Sveti Martin</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fotliski_maj%2f26%2f815"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fotliski_maj%2f26%2f815"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fotliski_maj%2f26%2f815"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzjat%2f26%2f1707"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzjat%2f26%2f1707"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzjat%2f26%2f1707"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/otliski_maj/815" title="Otliški maj 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.OtliskiMaj.jpg" /></a></div>
+<div><a href="/panorama/360/zjat/1707" title="Zjat 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Zjat.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/otliski_maj/2701" onclick="event.preventDefault(); window.open('/slika_gora/otliski_maj/2701');"><img class="slikagm" alt="Otliški maj" src="//www.hribi.net/slike1/P129024091512.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zjat/7553" onclick="event.preventDefault(); window.open('/slika_gora/zjat/7553');"><img class="slikagm" alt="Zjat" src="//www.hribi.net/slike1/Zjat 272150040.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/otliski_maj/7523" onclick="event.preventDefault(); window.open('/slika_gora/otliski_maj/7523');"><img class="slikagm" alt="Otliški maj" src="//www.hribi.net/slike1/MaliGolak 378142538.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zjat/7555" onclick="event.preventDefault(); window.open('/slika_gora/zjat/7555');"><img class="slikagm" alt="Zjat" src="//www.hribi.net/slike1/Zjat 38669212.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/otliski_maj/7524" onclick="event.preventDefault(); window.open('/slika_gora/otliski_maj/7524');"><img class="slikagm" alt="Otliški maj" src="//www.hribi.net/slike1/MaliGolak 388142538.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zjat/7556" onclick="event.preventDefault(); window.open('/slika_gora/zjat/7556');"><img class="slikagm" alt="Zjat" src="//www.hribi.net/slike1/Zjat 399106480.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zjat/7557" onclick="event.preventDefault(); window.open('/slika_gora/zjat/7557');"><img class="slikagm" alt="Zjat" src="//www.hribi.net/slike1/Zjat 409106480.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zjat/7559" onclick="event.preventDefault(); window.open('/slika_gora/zjat/7559');"><img class="slikagm" alt="Zjat" src="//www.hribi.net/slike1/Zjat 444143748.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zjat/7560" onclick="event.preventDefault(); window.open('/slika_gora/zjat/7560');"><img class="slikagm" alt="Zjat" src="//www.hribi.net/slike1/Zjat 415143748.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zjat/7561" onclick="event.preventDefault(); window.open('/slika_gora/zjat/7561');"><img class="slikagm" alt="Zjat" src="//www.hribi.net/slike1/Zjat 488319440.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zjat/16852" onclick="event.preventDefault(); window.open('/slika_gora/zjat/16852');"><img class="slikagm" alt="Zjat" src="//slike.hribi.net/slike4/2_2284582814693_DSCN2932.JPG" /></a>
     
 </div>
 
@@ -917,7 +927,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=815&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1707&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -927,11 +937,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/izvir_hublja_otliski_maj/26/815/1447">Izvir Hublja - Otliški maj</a></td><td class="tdG"><a href="/izlet/izvir_hublja_otliski_maj/26/815/1447">1 h 25 min</a></td><td class="tdG"><a href="/izlet/izvir_hublja_otliski_maj/26/815/1447">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podpec_zjat/26/1707/3082">Podpeč - Zjat</a></td><td class="tdG"><a href="/izlet/podpec_zjat/26/1707/3082"> 25 min</a></td><td class="tdG"><a href="/izlet/podpec_zjat/26/1707/3082">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/predmeja_otliski_maj_pot_po_robu/26/815/3069">Predmeja - Otliški maj (Pot po Robu)</a></td><td class="tdG"><a href="/izlet/predmeja_otliski_maj_pot_po_robu/26/815/3069">1 h 45 min</a></td><td class="tdG"><a href="/izlet/predmeja_otliski_maj_pot_po_robu/26/815/3069">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/hrastovlje_zjat/26/1707/3081">Hrastovlje - Zjat</a></td><td class="tdG"><a href="/izlet/hrastovlje_zjat/26/1707/3081">1 h 40 min</a></td><td class="tdG"><a href="/izlet/hrastovlje_zjat/26/1707/3081">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/otlica_otliski_maj/26/815/4311">Otlica - Otliški maj</a></td><td class="tdG"><a href="/izlet/otlica_otliski_maj/26/815/4311"> 15 min</a></td><td class="tdG"><a href="/izlet/otlica_otliski_maj/26/815/4311">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/slacka_baba_zjat/26/1707/3083">Slačka baba - Zjat</a></td><td class="tdG"><a href="/izlet/slacka_baba_zjat/26/1707/3083">1 h 5 min</a></td><td class="tdG"><a href="/izlet/slacka_baba_zjat/26/1707/3083">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/crnotice_zjat/26/1707/6823">Črnotiče - Zjat</a></td><td class="tdG"><a href="/izlet/crnotice_zjat/26/1707/6823">1 h 20 min</a></td><td class="tdG"><a href="/izlet/crnotice_zjat/26/1707/6823">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/praproce_zjat/26/1707/6824">Praproče - Zjat</a></td><td class="tdG"><a href="/izlet/praproce_zjat/26/1707/6824"> 25 min</a></td><td class="tdG"><a href="/izlet/praproce_zjat/26/1707/6824">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kamniška koča na Kamniškem sedlu</title>
-        <meta name="description" content="Natančen opis koče Kamniška koča na Kamniškem sedlu in vseh pristopov na Kamniška koča na Kamniškem sedlu. Kamniška koča se nahaja le nekaj metrov pod Kamniškim sedlom, ki se nahaja med B." />
+        <title>Koča na Travniku</title>
+        <meta name="description" content="Natančen opis koče Koča na Travniku in vseh pristopov na Koča na Travniku. Planinska koča na Travniku se nahaja ob robu planine Široka trata, le ta pa se n." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./95?gorovjeid=3&amp;id=95" id="form1">
+    <form method="post" action="./489?gorovjeid=3&amp;id=489" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kamniska_koca_na_kamniskem_sedlu/3/95"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=95"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_travniku/3/489"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=489"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Kamniška koča na Kamniškem sedlu
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Koča na Travniku
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(95);
+    gorast(489);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kamniška koča na Kamniškem sedlu</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Koča na Travniku</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1864&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1548&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,5514'N&nbsp;/&nbsp;14°&nbsp;35,8488'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,9510'N&nbsp;/&nbsp;14°&nbsp;48,4620'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;33,08''N&nbsp;/&nbsp;14°&nbsp;35'&nbsp;50,93''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;57,06''N&nbsp;/&nbsp;14°&nbsp;48'&nbsp;27,72''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.35919°N&nbsp;/&nbsp;14.59748°E";
+                        document.getElementById("kf0").innerHTML = "46.41585°N&nbsp;/&nbsp;14.8077°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,35919°N,&nbsp;14,59748°E";
+                    document.getElementById("kf0").innerHTML = "46,41585°N,&nbsp;14,8077°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35919°N&nbsp;14,59748°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kamniska_koca_na_kamniskem_sedlu/95"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,41585°N&nbsp;14,8077°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_travniku/489"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, bivak, sedlo</div>
+    <div class="g2"><b>Vrsta:</b> koča, bivak, planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Travniku - Torek" href="/vreme_gora/koca_na_travniku/3/489#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Travniku - Sreda" href="/vreme_gora/koca_na_travniku/3/489#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Travniku - Četrtek" href="/vreme_gora/koca_na_travniku/3/489#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kamniška koča na Kamniškem sedlu - Petek" href="/vreme_gora/kamniska_koca_na_kamniskem_sedlu/3/95#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Travniku - Petek" href="/vreme_gora/koca_na_travniku/3/489#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kamniška koča na Kamniškem sedlu - Sobota" href="/vreme_gora/kamniska_koca_na_kamniskem_sedlu/3/95#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kamniška koča na Kamniškem sedlu - Nedelja" href="/vreme_gora/kamniska_koca_na_kamniskem_sedlu/3/95#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kamniška koča na Kamniškem sedlu - Ponedeljek" href="/vreme_gora/kamniska_koca_na_kamniskem_sedlu/3/95#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kamniška koča na Kamniškem sedlu - Torek" href="/vreme_gora/kamniska_koca_na_kamniskem_sedlu/3/95#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Travniku - Sobota" href="/vreme_gora/koca_na_travniku/3/489#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 1.034.208</div>
-<div class="g2"><b>Priljubljenost:</b> 100%&nbsp;(6.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=95" title="Število vpisov v vpisni knjigi">17</a></div>
+<div class="g2"><b>Ogledov:</b> 487.179</div>
+<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(357.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=489" title="Število vpisov v vpisni knjigi">7</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Kamniška koča se nahaja le nekaj metrov pod Kamniškim sedlom, ki se nahaja med Brano in Planjavo. Koča, ki je odprta v razširjeni poletni sezoni ima tudi zimsko sobo. Za lepši razgled se moramo povzpeti na tri minute oddaljeno sedlo s katerega vidimo Logarsko dolino in v zatrepu le te slap Rinka s svojim Orlovim gnezdom. Lep pa je pogled na Mrzlo goro, Brano in Planjavo. Do koče, ki je del slovenske planinske poti pripelje tovorna žičnica, ki pomaga pri prevozu hrane in drugih potrebnih predmetov za oskrbovanje koče.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinska koča na Travniku se nahaja ob robu planine Široka trata, le ta pa se nahaja med Malim in Velikim Travnikom. V neposredni bližini koče, ki je točka Slovenske planinske poti, se nahaja tudi zimski bivak, ki je opremljen z nekaj vzmetnicami in odejami.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=95&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=489&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/brana/3/96">Brana (2253m)</a>, <a class="moder" href="/gora/dom_na_okreslju/3/167">Dom na Okrešlju (1396m)</a>, <a class="moder" href="/gora/najvisji_rob_zeleniske_spice/3/1587">Najvišji rob (Zeleniške špice) (2127m)</a>, <a class="moder" href="/gora/orlovo_gnezdo_slap_rinka/3/166">Orlovo gnezdo (Slap Rinka) (1120m)</a>, <a class="moder" href="/gora/planjava/3/80">Planjava (2392m)</a>, <a class="moder" href="/gora/planjava_-_zahodni_vrh/3/3477">Planjava - zahodni vrh (2394m)</a>, <a class="moder" href="/gora/pri_pastirjih/3/248">Pri Pastirjih (1430m)</a>, <a class="moder" href="/gora/turska_gora/3/391">Turska gora (2251m)</a>
+<a class="moder" href="/gora/mali_travnik/3/1235">Mali Travnik (1532m)</a>, <a class="moder" href="/gora/partizanska_bolnica_mrzle_vode/3/1234">Partizanska bolnica Mrzle vode (1226m)</a>, <a class="moder" href="/gora/planina_mali_travnik/3/1236">Planina Mali Travnik (1500m)</a>, <a class="moder" href="/gora/pocka_robnikova_planina/3/1237">Počka (Robnikova) planina (1165m)</a>, <a class="moder" href="/gora/veliki_travnik/3/488">Veliki Travnik (1637m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,57 +835,47 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkamniska_koca_na_kamniskem_sedlu%2f3%2f95"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkamniska_koca_na_kamniskem_sedlu%2f3%2f95"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkamniska_koca_na_kamniskem_sedlu%2f3%2f95"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_travniku%2f3%2f489"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_travniku%2f3%2f489"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_travniku%2f3%2f489"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kamniska_koca_na_kamniskem_sedlu/95" title="Kamniška koča na Kamniškem sedlu 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.424210436455kamnisko_sedlo.jpg" /></a></div>
+<div><a href="/panorama/360/koca_na_travniku/489" title="Koča na Travniku 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.kocaNaTravniku.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/19" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/19');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/Gora/p6270147wut66resized4cp.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/1289" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/1289');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/Gora/pc030254mediumad2.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/40" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/40');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/Gora/p6270167hph69resized9qm.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/1290" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/1290');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/Gora/pc030263mediumpe8.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/517" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/517');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/Gora/p7150050mediumgh1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/1291" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/1291');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/Gora/pc030256mediumeb5.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/518" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/518');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/Gora/p7150068mediumch0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/1864" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/1864');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/P6270126532980.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/519" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/519');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/Gora/p7150072mediumeo5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/1865" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/1865');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/P6270123532980.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/3336" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/3336');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/slike1/P7190165529200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/4179" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/4179');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/sliketemp/P42202674954665.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/6073" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/6073');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/slike1/P6210020564480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/4188" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/4188');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/P4220262503712.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/18186" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/18186');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/slike11/P106095852849077.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/8288" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/8288');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/Komen 081476476.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/18189" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/18189');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/slike11/P106084541969426.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/8289" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/8289');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/Komen 239840840.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/18190" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/18190');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/slike11/P106089758269426.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/8310" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/8310');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/Komen 241406560.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/18191" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/18191');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/slike11/P106090810470623.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/18192" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/18192');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/slike11/P106094482070623.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kamniska_koca_na_kamniskem_sedlu/18193" onclick="event.preventDefault(); window.open('/slika_gora/kamniska_koca_na_kamniskem_sedlu/18193');"><img class="slikagm" alt="Kamniška koča na Kamniškem sedlu" src="//www.hribi.net/slike11/P106096434270623.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_travniku/8311" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/8311');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/Komen 242406560.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/kamnisko_sedlo/3/560"><img class="slikagmv" alt="Kamniško sedlo" src="https://img.youtube.com/vi/hB9Xd-PrAJY/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Ostalo/dan_kamniskih_planin_2010/7/325"><img class="slikagmv" alt="Dan Kamniških planin 2010" src="https://img.youtube.com/vi/hBKaEAdex8U/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/pomladanski_polet_iz_sedla/8/287"><img class="slikagmv" alt="Pomladanski polet iz sedla" src="https://img.youtube.com/vi/yxs-lYIWEqM/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -943,7 +933,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=95&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=489&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -953,13 +943,17 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_v_kamniski_bistrici_kamniska_koca_na_kamniskem_sedlu/3/95/43">Dom v Kamniški Bistrici - Kamniška koča na Kamniškem sedlu</a></td><td class="tdG"><a href="/izlet/dom_v_kamniski_bistrici_kamniska_koca_na_kamniskem_sedlu/3/95/43">3 h 45 min</a></td><td class="tdG"><a href="/izlet/dom_v_kamniski_bistrici_kamniska_koca_na_kamniskem_sedlu/3/95/43">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/hlipovec_koca_na_travniku/3/489/825">Hlipovec - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/hlipovec_koca_na_travniku/3/489/825"> 45 min</a></td><td class="tdG"><a href="/izlet/hlipovec_koca_na_travniku/3/489/825">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/jermanca_kamniska_koca_na_kamniskem_sedlu/3/95/50">Jermanca - Kamniška koča na Kamniškem sedlu</a></td><td class="tdG"><a href="/izlet/jermanca_kamniska_koca_na_kamniskem_sedlu/3/95/50">2 h 30 min</a></td><td class="tdG"><a href="/izlet/jermanca_kamniska_koca_na_kamniskem_sedlu/3/95/50">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_vodol_koca_na_travniku/3/489/3383">Planina Vodol - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/planina_vodol_koca_na_travniku/3/489/3383">1 h 40 min</a></td><td class="tdG"><a href="/izlet/planina_vodol_koca_na_travniku/3/489/3383">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka__kamniska_koca_na_kamniskem_sedlu/3/95/1295">Koča pod slapom Rinka  - Kamniška koča na Kamniškem sedlu</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka__kamniska_koca_na_kamniskem_sedlu/3/95/1295">2 h 45 min</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka__kamniska_koca_na_kamniskem_sedlu/3/95/1295">zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dolina_potoka_zep_koca_na_travniku/3/489/2068">Dolina potoka Žep - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/dolina_potoka_zep_koca_na_travniku/3/489/2068">2 h 20 min</a></td><td class="tdG"><a href="/izlet/dolina_potoka_zep_koca_na_travniku/3/489/2068">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/suhadolnik_kamniska_koca_na_kamniskem_sedlu/3/95/7304">Suhadolnik - Kamniška koča na Kamniškem sedlu</a></td><td class="tdG"><a href="/izlet/suhadolnik_kamniska_koca_na_kamniskem_sedlu/3/95/7304">8 h 15 min</a></td><td class="tdG"><a href="/izlet/suhadolnik_kamniska_koca_na_kamniskem_sedlu/3/95/7304">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubno_ob_savinji_koca_na_travniku/3/489/3391">Ljubno ob Savinji - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/ljubno_ob_savinji_koca_na_travniku/3/489/3391">3 h 35 min</a></td><td class="tdG"><a href="/izlet/ljubno_ob_savinji_koca_na_travniku/3/489/3391">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kolarica_koca_na_travniku/3/489/1109">Kolarica - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/kolarica_koca_na_travniku/3/489/1109"> 30 min</a></td><td class="tdG"><a href="/izlet/kolarica_koca_na_travniku/3/489/1109">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/bistra_koca_na_travniku/3/489/3387"> Bistra - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/bistra_koca_na_travniku/3/489/3387">3 h 25 min</a></td><td class="tdG"><a href="/izlet/bistra_koca_na_travniku/3/489/3387">lahka označena pot</a></td></tr>
 
 </table>
 

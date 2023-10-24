@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Stol</title>
-        <meta name="description" content="Natančen opis gore Stol in vseh pristopov na Stol. Stol je z višino 2236 m najvišji vrh Karavank. Z vrha, ki ima vpisno skrinjico i." />
+        <title>Vrtača</title>
+        <meta name="description" content="Natančen opis gore Vrtača in vseh pristopov na Vrtača. Vrtača je 2181 m visok vrh, ki se nahaja vzhodno od Stola. Z vrha na katerem sto." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./53?gorovjeid=11&amp;id=53" id="form1">
+    <form method="post" action="./78?gorovjeid=11&amp;id=78" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/hochstuhl_stol/11/53"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=53"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vertatscha_vrtaca/11/78"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=78"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Stol
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Vrtača
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(53);
+    gorast(78);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Stol</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Vrtača</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 2236&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2181&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,0412'N&nbsp;/&nbsp;14°&nbsp;10,4172'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,3952'N&nbsp;/&nbsp;14°&nbsp;12,7356'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;2,47''N&nbsp;/&nbsp;14°&nbsp;10'&nbsp;25,03''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;23,71''N&nbsp;/&nbsp;14°&nbsp;12'&nbsp;44,14''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.43402°N&nbsp;/&nbsp;14.17362°E";
+                        document.getElementById("kf0").innerHTML = "46.43992°N&nbsp;/&nbsp;14.21226°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,43402°N,&nbsp;14,17362°E";
+                    document.getElementById("kf0").innerHTML = "46,43992°N,&nbsp;14,21226°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43402°N&nbsp;14,17362°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/stol/53"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43992°N&nbsp;14,21226°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrtaca/78"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrtača - Torek" href="/vreme_gora/vrtaca/11/78#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrtača - Sreda" href="/vreme_gora/vrtaca/11/78#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrtača - Četrtek" href="/vreme_gora/vrtaca/11/78#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Stol - Petek" href="/vreme_gora/stol/11/53#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Vrtača - Petek" href="/vreme_gora/vrtaca/11/78#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_2_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Stol - Sobota" href="/vreme_gora/stol/11/53#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Stol - Nedelja" href="/vreme_gora/stol/11/53#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Stol - Ponedeljek" href="/vreme_gora/stol/11/53#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Stol - Torek" href="/vreme_gora/stol/11/53#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Vrtača - Sobota" href="/vreme_gora/vrtaca/11/78#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 1.142.249</div>
-<div class="g2"><b>Priljubljenost:</b> 100%&nbsp;(4.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">23</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">20</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">10</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=53" title="Število vpisov v vpisni knjigi">36</a></div>
+<div class="g2"><b>Ogledov:</b> 809.146</div>
+<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(39.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">17</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">12</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=78" title="Število vpisov v vpisni knjigi">13</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Stol je z višino 2236 m najvišji vrh Karavank. Z vrha, ki ima vpisno skrinjico in žig se nam tako odpre lep razgled na Julijske Alpe, zahodne Karavanke, Visoke in Nizke Ture, osrednje Karavanke, Kamniško Savinjske Alpe in na del Gorenjske.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Vrtača je 2181 m visok vrh, ki se nahaja vzhodno od Stola. Z vrha na katerem stoji velik klin se nam odpre lep razgled na del Julijskih Alp, Karavanke, Visoke in Nizke Ture, Kamniško Savinjske Alpe in del Gorenjske. Vrh ima vpisno skrinjico.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=53&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=78&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/celovska_koca___klagenfurter_hutte/11/582">Celovška koča / Klagenfurter Hutte (1664m)</a>, <a class="moder" href="/gora/celovska_spica/11/3432">Celovška špica (2102m)</a>, <a class="moder" href="/gora/lovska_koca_nad_doslovsko_planino/11/2564">Lovska koča nad Doslovško planino (1325m)</a>, <a class="moder" href="/gora/potoski_stol/11/480">Potoški Stol (2014m)</a>, <a class="moder" href="/gora/presernova_koca_na_stolu/11/309">Prešernova koča na Stolu (2174m)</a>, <a class="moder" href="/gora/srednja_pec/11/2815">Srednja peč (1920m)</a>, <a class="moder" href="/gora/svacica/11/586">Svačica (1953m)</a>, <a class="moder" href="/gora/vajnez/11/376">Vajnež (2104m)</a>, <a class="moder" href="/gora/zabreska_planina/11/1552">Zabreška planina (1225m)</a>, <a class="moder" href="/gora/zirovniska_planina/11/381">Žirovniška planina (1200m)</a>
+<a class="moder" href="/gora/bela_pec___weisse_wand/11/1780">Bela peč / Weiße Wand (1665m)</a>, <a class="moder" href="/gora/dom_pri_izviru_zavrsnice/11/278">Dom pri izviru Završnice (1425m)</a>, <a class="moder" href="/gora/na_mozeh/11/542">Na Možeh (1784m)</a>, <a class="moder" href="/gora/palec/11/363">Palec (2026m)</a>, <a class="moder" href="/gora/rjavca___rjautza/11/1781">Rjavca / Rjautza (1789m)</a>, <a class="moder" href="/gora/srednja_pec/11/2815">Srednja peč (1920m)</a>, <a class="moder" href="/gora/srednji_vrh_nad_zavrsnico/11/277">Srednji vrh (nad Završnico) (1796m)</a>, <a class="moder" href="/gora/svacica/11/586">Svačica (1953m)</a>, <a class="moder" href="/gora/zelenjak/11/692">Zelenjak (2024m)</a>, <a class="moder" href="/gora/zleb_suho_rusevje/11/88">Žleb (Suho ruševje) (1916m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,82 +835,62 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
+<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstol%2f11%2f53"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstol%2f11%2f53"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstol%2f11%2f53"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrtaca%2f11%2f78"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrtaca%2f11%2f78"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrtaca%2f11%2f78"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/stol/53" title="Stol 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.stol.jpg" /></a></div>
+<div><a href="/panorama/360/vrtaca/78" title="Vrtača 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.vrtaca.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/stol/89" onclick="event.preventDefault(); window.open('/slika_gora/stol/89');"><img class="slikagm" alt="Stol" src="//www.hribi.net/Gora/p1110012medium2tw.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/10" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/10');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/Gora/p2120118nxz11resized6fb.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/138" onclick="event.preventDefault(); window.open('/slika_gora/stol/138');"><img class="slikagm" alt="Stol" src="//www.hribi.net/Gora/p4090025medium0hm.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/36" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/36');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/Gora/p1300051vtf28resized8dc.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/358" onclick="event.preventDefault(); window.open('/slika_gora/stol/358');"><img class="slikagm" alt="Stol" src="//www.hribi.net/Gora/p6180077medium7sm.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/128" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/128');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/Gora/p1020221medium9io.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/362" onclick="event.preventDefault(); window.open('/slika_gora/stol/362');"><img class="slikagm" alt="Stol" src="//www.hribi.net/Gora/p6180113medium1rp.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/320" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/320');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/Gora/p2120124medium7fy.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/534" onclick="event.preventDefault(); window.open('/slika_gora/stol/534');"><img class="slikagm" alt="Stol" src="//www.hribi.net/Gora/p7160056mediumfr0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/361" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/361');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/Gora/p6180051medium9ek.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/535" onclick="event.preventDefault(); window.open('/slika_gora/stol/535');"><img class="slikagm" alt="Stol" src="//www.hribi.net/Gora/p7160062mediumlj4.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/538" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/538');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/Gora/p7160055mediumlj9.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/648" onclick="event.preventDefault(); window.open('/slika_gora/stol/648');"><img class="slikagm" alt="Stol" src="//www.hribi.net/Gora/p8060153mediumdw3.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/632" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/632');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/Gora/p8060159mediumiv2.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/1214" onclick="event.preventDefault(); window.open('/slika_gora/stol/1214');"><img class="slikagm" alt="Stol" src="//www.hribi.net/Gora/p1010090mediumdr9.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/641" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/641');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/Gora/p8060104mediumse3.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/1215" onclick="event.preventDefault(); window.open('/slika_gora/stol/1215');"><img class="slikagm" alt="Stol" src="//www.hribi.net/Gora/p1010096mediumqk2.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/643" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/643');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/Gora/p8060138mediumla6.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/1341" onclick="event.preventDefault(); window.open('/slika_gora/stol/1341');"><img class="slikagm" alt="Stol" src="//www.hribi.net/Gora/pc140033mediumro6.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/2638" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/2638');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/sliketemp/P10601554270663.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/1473" onclick="event.preventDefault(); window.open('/slika_gora/stol/1473');"><img class="slikagm" alt="Stol" src="//www.hribi.net/slike1/P11900500.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/2677" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/2677');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/sliketemp/P12000944290780.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/2637" onclick="event.preventDefault(); window.open('/slika_gora/stol/2637');"><img class="slikagm" alt="Stol" src="//www.hribi.net/sliketemp/P10601804270669.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/4767" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/4767');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/slike1/Molickabeg 575852768.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/4128" onclick="event.preventDefault(); window.open('/slika_gora/stol/4128');"><img class="slikagm" alt="Stol" src="//www.hribi.net/sliketemp/P40700544932639.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/4768" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/4768');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/sliketemp/P72901495098526.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/4761" onclick="event.preventDefault(); window.open('/slika_gora/stol/4761');"><img class="slikagm" alt="Stol" src="//www.hribi.net/slike1/Molickabeg 482252720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/4769" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/4769');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/slike1/P7290093975240.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/6351" onclick="event.preventDefault(); window.open('/slika_gora/stol/6351');"><img class="slikagm" alt="Stol" src="//www.hribi.net/slike1/P8080224194400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/15915" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/15915');"><img class="slikagm" alt="Vrtača" src="//slike.hribi.net/slike4/2_1588553509083_DSCN8037.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/10113" onclick="event.preventDefault(); window.open('/slika_gora/stol/10113');"><img class="slikagm" alt="Stol" src="//www.hribi.net/slike1/CelovskaKoca 094835200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/15987" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/15987');"><img class="slikagm" alt="Vrtača" src="//www.hribi.net/slike11/DSCN37953221641486.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stol/11782" onclick="event.preventDefault(); window.open('/slika_gora/stol/11782');"><img class="slikagm" alt="Stol" src="//www.hribi.net/slike1/P1010118965580.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stol/12913" onclick="event.preventDefault(); window.open('/slika_gora/stol/12913');"><img class="slikagm" alt="Stol" src="//www.hribi.net/slike1/DSCN2484282240.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stol/12915" onclick="event.preventDefault(); window.open('/slika_gora/stol/12915');"><img class="slikagm" alt="Stol" src="//www.hribi.net/slike1/DSCN2347525504.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stol/14036" onclick="event.preventDefault(); window.open('/slika_gora/stol/14036');"><img class="slikagm" alt="Stol" src="//slike.hribi.net/slike4/2_0273500458422_DSCN5317.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/stol/14469" onclick="event.preventDefault(); window.open('/slika_gora/stol/14469');"><img class="slikagm" alt="Stol" src="//www.hribi.net/slike1/Sobec%20458920808.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stol/16990" onclick="event.preventDefault(); window.open('/slika_gora/stol/16990');"><img class="slikagm" alt="Stol" src="//slike.hribi.net/slike4/2_0517587231096_DSCN8598.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/stol/18995" onclick="event.preventDefault(); window.open('/slika_gora/stol/18995');"><img class="slikagm" alt="Stol" src="//slike.hribi.net/slike4/2_1730633968102_DSCN1557.JPG" /></a>
+        <a target="_blank" href="/slika_gora/vrtaca/16744" onclick="event.preventDefault(); window.open('/slika_gora/vrtaca/16744');"><img class="slikagm" alt="Vrtača" src="//slike.hribi.net/slike4/2_233578043587_DSCN8948.JPG" /></a>
     
 </div>
 
 
 
 <div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/po_grebenu_osrednjih_karavank/3/919"><img class="slikagmv" alt="Po grebenu osrednjih Karavank" src="https://img.youtube.com/vi/659PhUwNnh4/0.jpg" /></a>
+        <a target="_blank" href="/video_posnetek/Gorništvo/vrtaca_y_2181m_nmv_22_03_2018/3/869"><img class="slikagmv" alt="Vrtača Y 2181m nmv, 22/03/2018" src="https://img.youtube.com/vi/KjWdLG4bJFI/0.jpg" /></a>
     
-        <a target="_blank" href="/video_posnetek/Smučanje/stol_iz_podna_242016/1/812"><img class="slikagmv" alt="Stol iz Podna, 2.4.2016" src="https://img.youtube.com/vi/Ml6-S6KDCmQ/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/tandem_polet_s_stola/8/544"><img class="slikagmv" alt="Tandem polet s Stola" src="https://img.youtube.com/vi/EHXCfFwXXJo/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_s_stola/8/517"><img class="slikagmv" alt="Polet s Stola" src="https://img.youtube.com/vi/fvNOgOahR1c/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_s_stola_na_novega_leta_dan/8/394"><img class="slikagmv" alt="Polet s Stola na novega leta dan." src="https://img.youtube.com/vi/gSrlsZ4Tx18/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Gorništvo/pod_stolom/3/234"><img class="slikagmv" alt="Pod Stolom" src="https://img.youtube.com/vi/ygfJcxZn4_s/0.jpg" /></a>
+        <a target="_blank" href="/video_posnetek/Smučanje/vrtaca_-_juzna_grapa/1/151"><img class="slikagmv" alt="Vrtača - južna grapa" src="https://img.youtube.com/vi/7HKNQPPX-Mg/0.jpg" /></a>
     </div>
 <script>
 var sortT = 0;
@@ -969,7 +949,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=53&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=78&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -979,45 +959,29 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/valvasorjev_dom_pod_stolom_stol_zirovniska_pot/11/53/139">Valvasorjev dom pod Stolom - Stol (Žirovniška pot)</a></td><td class="tdG"><a href="/izlet/valvasorjev_dom_pod_stolom_stol_zirovniska_pot/11/53/139">3 h</a></td><td class="tdG"><a href="/izlet/valvasorjev_dom_pod_stolom_stol_zirovniska_pot/11/53/139">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_vrtaca/11/78/28">Ljubelj - Vrtača</a></td><td class="tdG"><a href="/izlet/ljubelj_vrtaca/11/78/28">3 h 30 min</a></td><td class="tdG"><a href="/izlet/ljubelj_vrtaca/11/78/28">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/valvasorjev_dom_pod_stolom_stol_zabreska_pot/11/53/75">Valvasorjev dom pod Stolom - Stol (Zabreška pot)</a></td><td class="tdG"><a href="/izlet/valvasorjev_dom_pod_stolom_stol_zabreska_pot/11/53/75">3 h 20 min</a></td><td class="tdG"><a href="/izlet/valvasorjev_dom_pod_stolom_stol_zabreska_pot/11/53/75">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubelj_vrtaca_vzhodni_zleb_y/11/78/2828">Ljubelj - Vrtača (vzhodni žleb Y)</a></td><td class="tdG"><a href="/izlet/ljubelj_vrtaca_vzhodni_zleb_y/11/78/2828">3 h 15 min</a></td><td class="tdG"><a href="/izlet/ljubelj_vrtaca_vzhodni_zleb_y/11/78/2828">zelo zahtevno brezpotje</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trate___johannsenruhe_stol_plezalna_pot/11/53/2223">Trate / Johannsenruhe - Stol (plezalna pot)</a></td><td class="tdG"><a href="/izlet/trate___johannsenruhe_stol_plezalna_pot/11/53/2223">3 h 20 min</a></td><td class="tdG"><a href="/izlet/trate___johannsenruhe_stol_plezalna_pot/11/53/2223">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_cez_smusko_planino_in_sedlo_sija/11/78/142">Tinčkova koča - Vrtača (čez Smuško planino in sedlo Šija)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_cez_smusko_planino_in_sedlo_sija/11/78/142">3 h 30 min</a></td><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_cez_smusko_planino_in_sedlo_sija/11/78/142">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubelj_stol_zgornja_pot/11/53/140">Ljubelj - Stol (zgornja pot)</a></td><td class="tdG"><a href="/izlet/ljubelj_stol_zgornja_pot/11/53/140">4 h 50 min</a></td><td class="tdG"><a href="/izlet/ljubelj_stol_zgornja_pot/11/53/140">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_cez_malo_glavo/11/78/3850">Tinčkova koča - Vrtača (čez Malo glavo)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_cez_malo_glavo/11/78/3850">3 h</a></td><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_cez_malo_glavo/11/78/3850">zahtevno brezpotje</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_stol_spodnja_pot/11/53/616">Ljubelj - Stol (spodnja pot)</a></td><td class="tdG"><a href="/izlet/ljubelj_stol_spodnja_pot/11/53/616">4 h 50 min</a></td><td class="tdG"><a href="/izlet/ljubelj_stol_spodnja_pot/11/53/616">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tinckova_koca__vrtaca_po_sv_grebenu/11/78/4637">Tinčkova koča  - Vrtača (po SV grebenu)</a></td><td class="tdG"><a href="/izlet/tinckova_koca__vrtaca_po_sv_grebenu/11/78/4637">4 h</a></td><td class="tdG"><a href="/izlet/tinckova_koca__vrtaca_po_sv_grebenu/11/78/4637">alpinistični vzpon</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/trate____johannsenruhe_stol_mimo_celovske_koce/11/53/1051">Trate /  Johannsenruhe - Stol (mimo Celovške koče)</a></td><td class="tdG"><a href="/izlet/trate____johannsenruhe_stol_mimo_celovske_koce/11/53/1051">3 h 45 min</a></td><td class="tdG"><a href="/izlet/trate____johannsenruhe_stol_mimo_celovske_koce/11/53/1051">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podnar___bodenbauer_vrtaca_cez_melisce/11/78/4085">Podnar / Bodenbauer - Vrtača (čez melišče)</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_vrtaca_cez_melisce/11/78/4085">4 h 10 min</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_vrtaca_cez_melisce/11/78/4085">lahko brezpotje, delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/poljana_zavrsnica_stol_zirovniska_pot/11/53/3520">Poljana (Završnica) - Stol (Žirovniška pot)</a></td><td class="tdG"><a href="/izlet/poljana_zavrsnica_stol_zirovniska_pot/11/53/3520">4 h 20 min</a></td><td class="tdG"><a href="/izlet/poljana_zavrsnica_stol_zirovniska_pot/11/53/3520">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_skozi_zagon/11/78/6434">Tinčkova koča - Vrtača (skozi Zagon)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_skozi_zagon/11/78/6434">3 h 30 min</a></td><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_skozi_zagon/11/78/6434">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tinckova_koca_stol_cez_zagon/11/53/141">Tinčkova koča - Stol (čez Zagon)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_stol_cez_zagon/11/53/141">3 h 45 min</a></td><td class="tdG"><a href="/izlet/tinckova_koca_stol_cez_zagon/11/53/141">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podnar___bodenbauer_vrtaca/11/78/4075">Podnar / Bodenbauer - Vrtača</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_vrtaca/11/78/4075">4 h 45 min</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_vrtaca/11/78/4075">zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tinckova_koca_stol_cez_smusko_planino/11/53/1054">Tinčkova koča - Stol (čez Smuško planino)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_stol_cez_smusko_planino/11/53/1054">4 h 15 min</a></td><td class="tdG"><a href="/izlet/tinckova_koca_stol_cez_smusko_planino/11/53/1054">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/trate___johannsenruhe_vrtaca/11/78/4074">Trate / Johannsenruhe - Vrtača</a></td><td class="tdG"><a href="/izlet/trate___johannsenruhe_vrtaca/11/78/4074">4 h</a></td><td class="tdG"><a href="/izlet/trate___johannsenruhe_vrtaca/11/78/4074">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_trilobit_stol_cez_rido_medji_dol/11/53/2311">Dom Trilobit - Stol (čez Rido (Medji dol))</a></td><td class="tdG"><a href="/izlet/dom_trilobit_stol_cez_rido_medji_dol/11/53/2311">4 h 30 min</a></td><td class="tdG"><a href="/izlet/dom_trilobit_stol_cez_rido_medji_dol/11/53/2311">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/vgriz___ogris_vrtaca/11/78/4076">Vgriz / Ogris - Vrtača</a></td><td class="tdG"><a href="/izlet/vgriz___ogris_vrtaca/11/78/4076">4 h 45 min</a></td><td class="tdG"><a href="/izlet/vgriz___ogris_vrtaca/11/78/4076">zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podnar___bodenbauer_stol/11/53/1052">Podnar / Bodenbauer - Stol</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_stol/11/53/1052">4 h 30 min</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_stol/11/53/1052">zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podnar___bodenbauer_vrtaca_cez_karweg/11/78/4079"> Podnar / Bodenbauer - Vrtača (čez Karweg)</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_vrtaca_cez_karweg/11/78/4079">4 h 30 min</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_vrtaca_cez_karweg/11/78/4079">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/razpotje_vragovec_stol_cez_zabresko_planino/11/53/5632">Razpotje Vragovec - Stol (čez Zabreško planino)</a></td><td class="tdG"><a href="/izlet/razpotje_vragovec_stol_cez_zabresko_planino/11/53/5632">3 h</a></td><td class="tdG"><a href="/izlet/razpotje_vragovec_stol_cez_zabresko_planino/11/53/5632">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/urbas_stol/11/53/2713">Urbas - Stol</a></td><td class="tdG"><a href="/izlet/urbas_stol/11/53/2713">3 h 15 min</a></td><td class="tdG"><a href="/izlet/urbas_stol/11/53/2713">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vgriz___ogris_stol/11/53/1053">Vgriz / Ogris - Stol</a></td><td class="tdG"><a href="/izlet/vgriz___ogris_stol/11/53/1053">4 h 30 min</a></td><td class="tdG"><a href="/izlet/vgriz___ogris_stol/11/53/1053">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/poljana_zavrsnica_stol_zabreska_pot/11/53/3521">Poljana (Završnica) - Stol (Zabreška pot)</a></td><td class="tdG"><a href="/izlet/poljana_zavrsnica_stol_zabreska_pot/11/53/3521">4 h 40 min</a></td><td class="tdG"><a href="/izlet/poljana_zavrsnica_stol_zabreska_pot/11/53/3521">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubelj_stol_mimo_vatelce_oz_sklede/11/53/4071">Ljubelj - Stol (mimo Vatelce oz. Sklede)</a></td><td class="tdG"><a href="/izlet/ljubelj_stol_mimo_vatelce_oz_sklede/11/53/4071">5 h</a></td><td class="tdG"><a href="/izlet/ljubelj_stol_mimo_vatelce_oz_sklede/11/53/4071">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podnar___bodenbauer_stol_cez_melisce/11/53/4086">Podnar / Bodenbauer - Stol (čez melišče)</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_stol_cez_melisce/11/53/4086">4 h</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_stol_cez_melisce/11/53/4086">lahko brezpotje, lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podnar___bodenbauer_stol_cez_karweg/11/53/4080"> Podnar / Bodenbauer - Stol (čez Karweg)</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_stol_cez_karweg/11/53/4080">4 h 15 min</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_stol_cez_karweg/11/53/4080">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tinckova_koca_stol_mimo_lovske_koce_nad_doslovsko_planino/11/53/6282">Tinčkova koča - Stol (mimo lovske koče nad Doslovško planino)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_stol_mimo_lovske_koce_nad_doslovsko_planino/11/53/6282">3 h 40 min</a></td><td class="tdG"><a href="/izlet/tinckova_koca_stol_mimo_lovske_koce_nad_doslovsko_planino/11/53/6282">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/razpotje_vragovec_stol_cez_doslovsko_planino_in_mimo_lovske_koce/11/53/5636">Razpotje Vragovec - Stol (čez Doslovško planino in mimo lovske koče)</a></td><td class="tdG"><a href="/izlet/razpotje_vragovec_stol_cez_doslovsko_planino_in_mimo_lovske_koce/11/53/5636">3 h 10 min</a></td><td class="tdG"><a href="/izlet/razpotje_vragovec_stol_cez_doslovsko_planino_in_mimo_lovske_koce/11/53/5636">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_cez_smokusko_planino_in_po_meliscu/11/78/6483">Tinčkova koča - Vrtača (čez smokuško planino in po melišču)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_cez_smokusko_planino_in_po_meliscu/11/78/6483">3 h 30 min</a></td><td class="tdG"><a href="/izlet/tinckova_koca_vrtaca_cez_smokusko_planino_in_po_meliscu/11/78/6483">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
 
 </table>
 

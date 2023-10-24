@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Benedikt (Kančevci)</title>
-        <meta name="description" content="Natančen opis gore Sveti Benedikt (Kančevci) in vseh pristopov na Sveti Benedikt (Kančevci). Cerkev sv. Benedikta se nahaja na 358 metrov visoki vzpetini ob koncu vasi Kanče." />
+        <title>Razgledni stolp Vinarium Lendava</title>
+        <meta name="description" content="Natančen opis gore Razgledni stolp Vinarium Lendava in vseh pristopov na Razgledni stolp Vinarium Lendava. Razgledni stolp Vinarium Lendava se nahaja sredi Lendavskih goric. Na 53,5 metra." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2113?gorovjeid=163&amp;id=2113" id="form1">
+    <form method="post" action="./2964?gorovjeid=163&amp;id=2964" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_benedikt_kancevci/163/2113"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=2113"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lookout_tower_vinarium_lendava/163/2964"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=2964"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Sveti Benedikt (Kančevci)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Razgledni stolp Vinarium Lendava
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2113);
+    gorast(2964);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Benedikt (Kančevci)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Razgledni stolp Vinarium Lendava</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a></div>
-    <div class="g2"><b>Višina:</b> 358&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 302&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;45,060'N&nbsp;/&nbsp;16°&nbsp;14,0040'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;34,0500'N&nbsp;/&nbsp;16°&nbsp;28,0920'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;45'&nbsp;3,60''N&nbsp;/&nbsp;16°&nbsp;14'&nbsp;0,24''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;34'&nbsp;3,00''N&nbsp;/&nbsp;16°&nbsp;28'&nbsp;5,52''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.751°N&nbsp;/&nbsp;16.2334°E";
+                        document.getElementById("kf0").innerHTML = "46.5675°N&nbsp;/&nbsp;16.4682°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,751°N,&nbsp;16,2334°E";
+                    document.getElementById("kf0").innerHTML = "46,5675°N,&nbsp;16,4682°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,751°N&nbsp;16,2334°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_benedikt_kancevci/2113"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,5675°N&nbsp;16,4682°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/razgledni_stolp_vinarium_lendava/2964"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh, koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Razgledni stolp Vinarium Lendava - Torek" href="/vreme_gora/razgledni_stolp_vinarium_lendava/163/2964#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Razgledni stolp Vinarium Lendava - Sreda" href="/vreme_gora/razgledni_stolp_vinarium_lendava/163/2964#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Razgledni stolp Vinarium Lendava - Četrtek" href="/vreme_gora/razgledni_stolp_vinarium_lendava/163/2964#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Benedikt (Kančevci) - Petek" href="/vreme_gora/sveti_benedikt_kancevci/163/2113#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Razgledni stolp Vinarium Lendava - Petek" href="/vreme_gora/razgledni_stolp_vinarium_lendava/163/2964#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Benedikt (Kančevci) - Sobota" href="/vreme_gora/sveti_benedikt_kancevci/163/2113#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Benedikt (Kančevci) - Nedelja" href="/vreme_gora/sveti_benedikt_kancevci/163/2113#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Benedikt (Kančevci) - Ponedeljek" href="/vreme_gora/sveti_benedikt_kancevci/163/2113#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Benedikt (Kančevci) - Torek" href="/vreme_gora/sveti_benedikt_kancevci/163/2113#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Razgledni stolp Vinarium Lendava - Sobota" href="/vreme_gora/razgledni_stolp_vinarium_lendava/163/2964#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 118.729</div>
-<div class="g2"><b>Priljubljenost:</b> 48%&nbsp;(1698.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Ogledov:</b> 5.010</div>
+<div class="g2"><b>Priljubljenost:</b> 35%&nbsp;(2144.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2113" title="Število vpisov v vpisni knjigi">4</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev sv. Benedikta se nahaja na 358 metrov visoki vzpetini ob koncu vasi Kančevci. Ob cerkvi se nahajajo Dom duhovnosti Benedikt, kip sv. Marije in številne meditativne poti (Križev pot, Frančiškova pot, Klarina pot, Leopoldova pot, Pijina pot, Marijina pot in Grozdetova pot).</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Razgledni stolp Vinarium Lendava se nahaja sredi Lendavskih goric. Na 53,5 metra visok razgledni stolp se lahko povzpnemo po 240 stopnicah ali pa z dvigalom. Z razgledne ploščadi stolpa se nam odpre lep pogled na štiri države in sicer Slovenijo, Avstrijo, Madžarsko in Hrvaško. V Vinarium Lendava se nahaja še Dnevni bar Vinarium Lendava.<br>Vstopnina za vzpon na stolp (avgust 2018):<br>otroci do 6 let: brezplačno<br>odrasli: 7 EUR<br>družina (3-5 oseb, 1-2 odrasla+ otroci do 18 let): 14 EUR<br>skupine (nad 15 oseb), študenti, dijaki, upokojenci, otroci in mladina 6-18 let: 5 EUR</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2113&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2964&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/lendavski_grad_dolnjelendavski_grad/163/2962">Lendavski grad (Dolnjelendavski grad) (205m)</a>, <a class="moder" href="/gora/piramida_lendavske_gorice/163/2965">Piramida (Lendavske gorice) (327m)</a>, <a class="moder" href="/gora/sveta_trojica_v_lendavskih_goricah/163/2963">Sveta Trojica v Lendavskih goricah (266m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,42 +835,40 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/cepinci/1951">Čepinci</a>, <a class="moder" href="/spletna_kamera/hodos/1070">Hodoš</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/murska_sobota/1044">Murska Sobota</a>, <a class="moder" href="/spletna_kamera/prosenjakovci/1949">Prosenjakovci</a>
+<a class="moder" href="/spletna_kamera/dolga_vas/1065">Dolga vas</a>, <a class="moder" href="/spletna_kamera/dolinsko/4831">Dolinsko</a>, <a class="moder" href="/spletna_kamera/kobilje/1960">Kobilje</a>, <a class="moder" href="/spletna_kamera/petisinci_nadvoz_trimlini/4830">Petišinci (nadvoz Trimlini)</a>, <a class="moder" href="/spletna_kamera/pocivalisce_pince/4829">Počivališče Pince</a>, <a class="moder" href="/spletna_kamera/stolp_vinarium_dolgovaske_gorice/4359">Stolp Vinarium (Dolgovaške Gorice)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_benedikt_kancevci%2f163%2f2113"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_benedikt_kancevci%2f163%2f2113"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_benedikt_kancevci%2f163%2f2113"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frazgledni_stolp_vinarium_lendava%2f163%2f2964"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frazgledni_stolp_vinarium_lendava%2f163%2f2964"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frazgledni_stolp_vinarium_lendava%2f163%2f2964"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/10403" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/10403');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//www.hribi.net/slike1/M.Toplice 715330000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/17288" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/17288');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike.hribi.net/slike4/2_1324591900895_DSCN2764.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/10404" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/10404');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//www.hribi.net/slike1/M.Toplice 717330000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/17289" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/17289');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike.hribi.net/slike4/2_0475591083671_DSCN2759.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/10405" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/10405');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//www.hribi.net/slike1/M.Toplice 722330000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/17290" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/17290');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike.hribi.net/slike4/2_0651591083745_DSCN2777.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/10406" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/10406');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//www.hribi.net/slike1/M.Toplice 724336600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/17291" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/17291');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike.hribi.net/slike4/2_3463591901157_DSCN2787.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/10407" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/10407');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//www.hribi.net/slike1/M.Toplice 718330000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/17292" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/17292');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike.hribi.net/slike4/2_0882591901144_DSCN2783.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/10408" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/10408');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//www.hribi.net/slike1/M.Toplice 719330000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/17293" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/17293');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike.hribi.net/slike4/2_1208591901148_DSCN2784.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/10409" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/10409');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//www.hribi.net/slike1/M.Toplice 720330000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/17294" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/17294');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike.hribi.net/slike4/2_2752591901153_DSCN2785.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/20734" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/20734');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//slike2.hribi.net/slike14/2_1651698761697_1dscn1656.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/17302" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/17302');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike.hribi.net/slike4/2_0680591902376_DSCN2827.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/20735" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/20735');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//slike2.hribi.net/slike14/2_0809696941200_0dscn1659.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/17304" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/17304');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike.hribi.net/slike4/2_1990591902536_DSCN2821.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/20736" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/20736');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//slike2.hribi.net/slike14/2_0581698762142_0dscn1658.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/20857" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/20857');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike2.hribi.net/slike14/2_1769702028591_0dscn4688.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/20737" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/20737');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//slike2.hribi.net/slike14/2_1261698762143_1dscn1663.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/20884" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/20884');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike2.hribi.net/slike14/2_1820703087097_1dscn4700.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/20851" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/20851');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//slike2.hribi.net/slike14/2_0347701249775_0dscn4079.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_benedikt_kancevci/20852" onclick="event.preventDefault(); window.open('/slika_gora/sveti_benedikt_kancevci/20852');"><img class="slikagm" alt="Sveti Benedikt (Kančevci)" src="//slike2.hribi.net/slike14/2_0522701275619_0dscn4304.jpg" /></a>
+        <a target="_blank" href="/slika_gora/razgledni_stolp_vinarium_lendava/20885" onclick="event.preventDefault(); window.open('/slika_gora/razgledni_stolp_vinarium_lendava/20885');"><img class="slikagm" alt="Razgledni stolp Vinarium Lendava" src="//slike2.hribi.net/slike14/2_0336703087096_0dscn4694.jpg" /></a>
     
 </div>
 
@@ -934,7 +932,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2113&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2964&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -944,15 +942,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/andrejci_sveti_benedikt_kancevci/163/2113/4218">Andrejci - Sveti Benedikt (Kančevci)</a></td><td class="tdG"><a href="/izlet/andrejci_sveti_benedikt_kancevci/163/2113/4218"> 40 min</a></td><td class="tdG"><a href="/izlet/andrejci_sveti_benedikt_kancevci/163/2113/4218">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lendava_tic_lendava_razgledni_stolp_vinarium_lendava/163/2964/6955">Lendava (TIC Lendava) - Razgledni stolp Vinarium Lendava</a></td><td class="tdG"><a href="/izlet/lendava_tic_lendava_razgledni_stolp_vinarium_lendava/163/2964/6955"> 30 min</a></td><td class="tdG"><a href="/izlet/lendava_tic_lendava_razgledni_stolp_vinarium_lendava/163/2964/6955">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sebeborci_sveti_benedikt_kancevci/163/2113/4217">Sebeborci - Sveti Benedikt (Kančevci)</a></td><td class="tdG"><a href="/izlet/sebeborci_sveti_benedikt_kancevci/163/2113/4217">1 h 20 min</a></td><td class="tdG"><a href="/izlet/sebeborci_sveti_benedikt_kancevci/163/2113/4217">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lendava_tus_supermarket_kocet_razgledni_stolp_vinarium_lendava/163/2964/6957">Lendava (Tuš Supermarket Kocet) - Razgledni stolp Vinarium Lendava</a></td><td class="tdG"><a href="/izlet/lendava_tus_supermarket_kocet_razgledni_stolp_vinarium_lendava/163/2964/6957"> 55 min</a></td><td class="tdG"><a href="/izlet/lendava_tus_supermarket_kocet_razgledni_stolp_vinarium_lendava/163/2964/6957">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/moravske_toplice_sveti_benedikt_kancevci/163/2113/8471">Moravske Toplice - Sveti Benedikt (Kančevci)</a></td><td class="tdG"><a href="/izlet/moravske_toplice_sveti_benedikt_kancevci/163/2113/8471">2 h 30 min</a></td><td class="tdG"><a href="/izlet/moravske_toplice_sveti_benedikt_kancevci/163/2113/8471">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dolga_vas_razgledni_stolp_vinarium_lendava/163/2964/8482">Dolga vas - Razgledni stolp Vinarium Lendava</a></td><td class="tdG"><a href="/izlet/dolga_vas_razgledni_stolp_vinarium_lendava/163/2964/8482"> 30 min</a></td><td class="tdG"><a href="/izlet/dolga_vas_razgledni_stolp_vinarium_lendava/163/2964/8482">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/selo_brunarica_tic_selo_sveti_benedikt_kancevci/163/2113/8490">Selo (brunarica TIC Selo) - Sveti Benedikt (Kančevci)</a></td><td class="tdG"><a href="/izlet/selo_brunarica_tic_selo_sveti_benedikt_kancevci/163/2113/8490">1 h 30 min</a></td><td class="tdG"><a href="/izlet/selo_brunarica_tic_selo_sveti_benedikt_kancevci/163/2113/8490">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gornji_petrovci_dol_sveti_benedikt_kancevci/163/2113/8434">Gornji Petrovci (Dol) - Sveti Benedikt (Kančevci)</a></td><td class="tdG"><a href="/izlet/gornji_petrovci_dol_sveti_benedikt_kancevci/163/2113/8434">3 h 15 min</a></td><td class="tdG"><a href="/izlet/gornji_petrovci_dol_sveti_benedikt_kancevci/163/2113/8434">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dolga_vas_razgledni_stolp_vinarium_lendava_po_opekarniski_poti/163/2964/8498">Dolga vas - Razgledni stolp Vinarium Lendava (po Opekarniški poti)</a></td><td class="tdG"><a href="/izlet/dolga_vas_razgledni_stolp_vinarium_lendava_po_opekarniski_poti/163/2964/8498">1 h</a></td><td class="tdG"><a href="/izlet/dolga_vas_razgledni_stolp_vinarium_lendava_po_opekarniski_poti/163/2964/8498">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Dom na Menini planini</title>
-        <meta name="description" content="Natančen opis koče Dom na Menini planini in vseh pristopov na Dom na Menini planini. Dom na Menini planini se nahaja ob večjem travniku, s katerega se nam odpre lep ." />
+        <title>Malo Gradišče</title>
+        <meta name="description" content="Natančen opis gore Malo Gradišče in vseh pristopov na Malo Gradišče. Gradišče je hrib nad Pesjem pri Velenju.<br> Ima dva vrhova, Veliko in Malo Grad." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./193?gorovjeid=3&amp;id=193" id="form1">
+    <form method="post" action="./3511?gorovjeid=3&amp;id=3511" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_na_menini_planini/3/193"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=193"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/malo_gradisce/3/3511"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=3511"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Dom na Menini planini
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Malo Gradišče
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(193);
+    gorast(3511);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Dom na Menini planini</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Malo Gradišče</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1453&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 536&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,7134'N&nbsp;/&nbsp;14°&nbsp;49,1640'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,3750'N&nbsp;/&nbsp;15°&nbsp;5,9142'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;42,80''N&nbsp;/&nbsp;14°&nbsp;49'&nbsp;9,84''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;22,50''N&nbsp;/&nbsp;15°&nbsp;5'&nbsp;54,85''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.26189°N&nbsp;/&nbsp;14.8194°E";
+                        document.getElementById("kf0").innerHTML = "46.35625°N&nbsp;/&nbsp;15.09857°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,26189°N,&nbsp;14,8194°E";
+                    document.getElementById("kf0").innerHTML = "46,35625°N,&nbsp;15,09857°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,26189°N&nbsp;14,8194°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_na_menini_planini/193"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35625°N&nbsp;15,09857°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/malo_gradisce/3511"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, planina, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Malo Gradišče - Torek" href="/vreme_gora/malo_gradisce/3/3511#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Malo Gradišče - Sreda" href="/vreme_gora/malo_gradisce/3/3511#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Malo Gradišče - Četrtek" href="/vreme_gora/malo_gradisce/3/3511#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Menini planini - Petek" href="/vreme_gora/dom_na_menini_planini/3/193#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Malo Gradišče - Petek" href="/vreme_gora/malo_gradisce/3/3511#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Menini planini - Sobota" href="/vreme_gora/dom_na_menini_planini/3/193#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Menini planini - Nedelja" href="/vreme_gora/dom_na_menini_planini/3/193#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Menini planini - Ponedeljek" href="/vreme_gora/dom_na_menini_planini/3/193#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Menini planini - Torek" href="/vreme_gora/dom_na_menini_planini/3/193#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Malo Gradišče - Sobota" href="/vreme_gora/malo_gradisce/3/3511#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 759.666</div>
-<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(48.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">18</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">13</a></div>
+<div class="g2"><b>Ogledov:</b> 214</div>
+<div class="g2"><b>Priljubljenost:</b> 10%&nbsp;(2956.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=193" title="Število vpisov v vpisni knjigi">2</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Dom na Menini planini se nahaja ob večjem travniku, s katerega se nam odpre lep razgled na najvišje vrhove Kamniško Savinjskih Alp. V neposredni bližini doma, ki je odprt v poletni sezoni, sicer pa le ob sobotah, nedeljah in praznikih, je nekaj igral za otroke. Na drugi strani travnika, pa se nahaja manjša kapela, ki je posvečena Mariji Snežni.<br> V času, ko je dom zaprt, se žig SPP dobi na 15 minut oddaljenem Vivodniku.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Gradišče je hrib nad Pesjem pri Velenju.<br> Ima dva vrhova, Veliko in Malo Gradišče.<br> Malo Gradišče se nahaja vzhodno od cerkvice Svetega Jakoba.<br> Z vrha zaradi drevja ni razgleda.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=193&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3511&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/spic/3/1452">Špic (1499m)</a>, <a class="moder" href="/gora/vivodnik/3/445">Vivodnik (1508m)</a>
+<a class="moder" href="/gora/grad_velenje/3/2874">Grad Velenje (442m)</a>, <a class="moder" href="/gora/sveti_jakob_jakec/3/3510">Sveti Jakob (Jakec) (528m)</a>, <a class="moder" href="/gora/veliko_gradisce/3/3512">Veliko Gradišče (587m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,67 +835,28 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/vransko/359">Vransko</a>
+<a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/sentrupert/379">Šentrupert</a>, <a class="moder" href="/spletna_kamera/vransko/359">Vransko</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_menini_planini%2f3%2f193"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_menini_planini%2f3%2f193"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_menini_planini%2f3%2f193"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmalo_gradisce%2f3%2f3511"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmalo_gradisce%2f3%2f3511"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmalo_gradisce%2f3%2f3511"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/dom_na_menini_planini/193" title="Dom na Menini planini 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.DomNaMenini.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/786" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/786');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/Gora/p8240171mediumgj8.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/malo_gradisce/20871" onclick="event.preventDefault(); window.open('/slika_gora/malo_gradisce/20871');"><img class="slikagm" alt="Malo Gradišče" src="//slike2.hribi.net/slike016/2_0914702742470_DSC08412.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/789" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/789');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/Gora/p8240245mediumyu1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/malo_gradisce/20868" onclick="event.preventDefault(); window.open('/slika_gora/malo_gradisce/20868');"><img class="slikagm" alt="Malo Gradišče" src="//slike2.hribi.net/slike016/2_0442702738843_DSC08457.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/790" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/790');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/Gora/p8240247mediumdx2.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/792" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/792');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/Gora/p8240250mediumuc3.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/793" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/793');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/Gora/p8240252mediummy8.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/794" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/794');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/Gora/p8240254mediumke8.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/795" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/795');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/Gora/p8240256mediumja5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/796" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/796');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/Gora/p8240257mediumnm5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/798" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/798');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/Gora/p8240259mediumdn9.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/799" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/799');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/Gora/p8240260mediumcb5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/3727" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/3727');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/slike1/PB020210213840.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/5156" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/5156');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/slike1/MeninaPlanina%20224673200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/5450" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/5450');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/slike1/MeninaPlanina 222129600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/5451" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/5451');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/slike1/MeninaPlanina 216129600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/8727" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/8727');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/slike1/MeninaPlanina 25584645.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/14285" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/14285');"><img class="slikagm" alt="Dom na Menini planini" src="//slike.hribi.net/slike4/2_0559507721487_DSCN9958.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/14286" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/14286');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/slike1/DSCN9957142560.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_menini_planini/14291" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_menini_planini/14291');"><img class="slikagm" alt="Dom na Menini planini" src="//www.hribi.net/slike1/DSCN99632232360.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/malo_gradisce/20870" onclick="event.preventDefault(); window.open('/slika_gora/malo_gradisce/20870');"><img class="slikagm" alt="Malo Gradišče" src="//slike2.hribi.net/slike016/2_0486702741456_DSC09062___Lokacija___2.JPG" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Razgledi/menina/4/370"><img class="slikagmv" alt="Menina" src="https://img.youtube.com/vi/tHlI1s6xwQg/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_z_ravni/8/315"><img class="slikagmv" alt="Polet z Ravni" src="https://img.youtube.com/vi/xM2UllhE5Ug/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_z_menine_planine/8/272"><img class="slikagmv" alt="Polet z Menine planine" src="https://img.youtube.com/vi/asOw1R7QQzQ/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -953,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=193&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3511&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -963,31 +924,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zavetisce_na_biba_planini_dom_na_menini_planini/3/193/246">Zavetišče na Biba planini - Dom na Menini planini</a></td><td class="tdG"><a href="/izlet/zavetisce_na_biba_planini_dom_na_menini_planini/3/193/246"> 45 min</a></td><td class="tdG"><a href="/izlet/zavetisce_na_biba_planini_dom_na_menini_planini/3/193/246">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gornji_grad_dom_na_menini_planini_cez_borovnico/3/193/658"> Gornji Grad - Dom na Menini planini (čez Borovnico)</a></td><td class="tdG"><a href="/izlet/gornji_grad_dom_na_menini_planini_cez_borovnico/3/193/658">3 h</a></td><td class="tdG"><a href="/izlet/gornji_grad_dom_na_menini_planini_cez_borovnico/3/193/658">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gornji_grad_dom_na_menini_planini_mimo_semprimoznika/3/193/1904">Gornji Grad - Dom na Menini planini (mimo Semprimožnika)</a></td><td class="tdG"><a href="/izlet/gornji_grad_dom_na_menini_planini_mimo_semprimoznika/3/193/1904">3 h 15 min</a></td><td class="tdG"><a href="/izlet/gornji_grad_dom_na_menini_planini_mimo_semprimoznika/3/193/1904">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/golice_dom_na_menini_planini/3/193/2948">Golice - Dom na Menini planini</a></td><td class="tdG"><a href="/izlet/golice_dom_na_menini_planini/3/193/2948">3 h</a></td><td class="tdG"><a href="/izlet/golice_dom_na_menini_planini/3/193/2948">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lipa_dom_na_menini_planini/3/193/2372">Lipa - Dom na Menini planini</a></td><td class="tdG"><a href="/izlet/lipa_dom_na_menini_planini/3/193/2372">3 h 15 min</a></td><td class="tdG"><a href="/izlet/lipa_dom_na_menini_planini/3/193/2372">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/okrog_pri_motniku_dom_na_menini_planini_cez_biba_planino/3/193/5748">Okrog pri Motniku - Dom na Menini planini (čez Biba planino)</a></td><td class="tdG"><a href="/izlet/okrog_pri_motniku_dom_na_menini_planini_cez_biba_planino/3/193/5748">2 h 10 min</a></td><td class="tdG"><a href="/izlet/okrog_pri_motniku_dom_na_menini_planini_cez_biba_planino/3/193/5748">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/crnivec_dom_na_menini_planini/3/193/3439">Črnivec - Dom na Menini planini</a></td><td class="tdG"><a href="/izlet/crnivec_dom_na_menini_planini/3/193/3439">4 h 15 min</a></td><td class="tdG"><a href="/izlet/crnivec_dom_na_menini_planini/3/193/3439">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/cesnjice_v_tuhinju_dom_na_menini_planini/3/193/5753">Češnjice v Tuhinju - Dom na Menini planini</a></td><td class="tdG"><a href="/izlet/cesnjice_v_tuhinju_dom_na_menini_planini/3/193/5753">2 h 35 min</a></td><td class="tdG"><a href="/izlet/cesnjice_v_tuhinju_dom_na_menini_planini/3/193/5753">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tirosek_nova_stifta_dom_na_menini_planini/3/193/3443">Tirosek (Nova Štifta) - Dom na Menini planini</a></td><td class="tdG"><a href="/izlet/tirosek_nova_stifta_dom_na_menini_planini/3/193/3443">3 h 45 min</a></td><td class="tdG"><a href="/izlet/tirosek_nova_stifta_dom_na_menini_planini/3/193/3443">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/hrusevka_dom_na_menini_planini/3/193/3533">Hruševka - Dom na Menini planini</a></td><td class="tdG"><a href="/izlet/hrusevka_dom_na_menini_planini/3/193/3533">5 h 10 min</a></td><td class="tdG"><a href="/izlet/hrusevka_dom_na_menini_planini/3/193/3533">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/okrog_pri_motniku_dom_na_menini_planini_cez_oseke_in_vrh_drc/3/193/5751">Okrog pri Motniku - Dom na Menini planini (čez Oseke in vrh Drč)</a></td><td class="tdG"><a href="/izlet/okrog_pri_motniku_dom_na_menini_planini_cez_oseke_in_vrh_drc/3/193/5751">2 h 25 min</a></td><td class="tdG"><a href="/izlet/okrog_pri_motniku_dom_na_menini_planini_cez_oseke_in_vrh_drc/3/193/5751">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bela_pec_dom_na_menini_planini_cez_ovcje_jame/3/193/6258">Bela Peč - Dom na Menini planini (čez Ovčje jame)</a></td><td class="tdG"><a href="/izlet/bela_pec_dom_na_menini_planini_cez_ovcje_jame/3/193/6258">4 h 10 min</a></td><td class="tdG"><a href="/izlet/bela_pec_dom_na_menini_planini_cez_ovcje_jame/3/193/6258">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bela_pec_dom_na_menini_planini_mimo_vrha_seduc/3/193/6247">Bela Peč - Dom na Menini planini (mimo vrha Seduc)</a></td><td class="tdG"><a href="/izlet/bela_pec_dom_na_menini_planini_mimo_vrha_seduc/3/193/6247">4 h 5 min</a></td><td class="tdG"><a href="/izlet/bela_pec_dom_na_menini_planini_mimo_vrha_seduc/3/193/6247">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/velenje_stari_trg_malo_gradisce_po_planinski_poti/3/3511/8492">Velenje (Stari trg) - Malo Gradišče (po planinski poti)</a></td><td class="tdG"><a href="/izlet/velenje_stari_trg_malo_gradisce_po_planinski_poti/3/3511/8492"> 45 min</a></td><td class="tdG"><a href="/izlet/velenje_stari_trg_malo_gradisce_po_planinski_poti/3/3511/8492">lahka označena pot</a></td></tr>
 
 </table>
 

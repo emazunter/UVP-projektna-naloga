@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Suhi vrh (Nanos)</title>
-        <meta name="description" content="Natančen opis gore Suhi vrh (Nanos) in vseh pristopov na Suhi vrh (Nanos). Suhi vrh je s 1313m najvišji vrh kraške planote Nanos. Z vrha, ki ima vpisno skr." />
+        <title>Kuk (Kolovrat)</title>
+        <meta name="description" content="Natančen opis gore Kuk (Kolovrat) in vseh pristopov na Kuk (Kolovrat). Kuk je s 1243 m najvišji vrh Kolovrata, pogorja ki se nahaja od Livka do Kambreš." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1215?gorovjeid=26&amp;id=1215" id="form1">
+    <form method="post" action="./1771?gorovjeid=26&amp;id=1771" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/suhi_vrh_nanos/26/1215"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1215"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kuk_kolovrat/26/1771"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1771"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Suhi vrh (Nanos)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Kuk (Kolovrat)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1215);
+    gorast(1771);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Suhi vrh (Nanos)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kuk (Kolovrat)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1313&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1243&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;47,8968'N&nbsp;/&nbsp;14°&nbsp;4,0260'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;11,7408'N&nbsp;/&nbsp;13°&nbsp;37,1676'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;47'&nbsp;53,81''N&nbsp;/&nbsp;14°&nbsp;4'&nbsp;1,56''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;11'&nbsp;44,45''N&nbsp;/&nbsp;13°&nbsp;37'&nbsp;10,06''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.79828°N&nbsp;/&nbsp;14.0671°E";
+                        document.getElementById("kf0").innerHTML = "46.19568°N&nbsp;/&nbsp;13.61946°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,79828°N,&nbsp;14,0671°E";
+                    document.getElementById("kf0").innerHTML = "46,19568°N,&nbsp;13,61946°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,79828°N&nbsp;14,0671°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/suhi_vrh_nanos/1215"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,19568°N&nbsp;13,61946°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kuk_kolovrat/1771"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kuk (Kolovrat) - Torek" href="/vreme_gora/kuk_kolovrat/26/1771#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kuk (Kolovrat) - Sreda" href="/vreme_gora/kuk_kolovrat/26/1771#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kuk (Kolovrat) - Četrtek" href="/vreme_gora/kuk_kolovrat/26/1771#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Suhi vrh (Nanos) - Petek" href="/vreme_gora/suhi_vrh_nanos/26/1215#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kuk (Kolovrat) - Petek" href="/vreme_gora/kuk_kolovrat/26/1771#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Suhi vrh (Nanos) - Sobota" href="/vreme_gora/suhi_vrh_nanos/26/1215#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Suhi vrh (Nanos) - Nedelja" href="/vreme_gora/suhi_vrh_nanos/26/1215#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Suhi vrh (Nanos) - Ponedeljek" href="/vreme_gora/suhi_vrh_nanos/26/1215#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Suhi vrh (Nanos) - Torek" href="/vreme_gora/suhi_vrh_nanos/26/1215#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kuk (Kolovrat) - Sobota" href="/vreme_gora/kuk_kolovrat/26/1771#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 635.117</div>
-<div class="g2"><b>Priljubljenost:</b> 97%&nbsp;(111.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">10</a></div>
+<div class="g2"><b>Ogledov:</b> 472.950</div>
+<div class="g2"><b>Priljubljenost:</b> 88%&nbsp;(399.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1215" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1771" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Suhi vrh je s 1313m najvišji vrh kraške planote Nanos. Z vrha, ki ima vpisno skrinjico ter žig (žig je trenutno neuporaben 14.3.2009) je lep razgled proti Postojnski kotlini in hribovju, ki le to obdaja. Ob lepem vremenu razgled seže vse od Julijskih Alp prek Karavank do Kamniško Savinjskih Alp in Snežnika.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Kuk je s 1243 m najvišji vrh Kolovrata, pogorja ki se nahaja od Livka do Kambreškega. Z vrha, na katerem je več oddajnikov, se nam odpre lep razgled na Beneško Slovenijo, Matajur, Kanin, Krnsko pogorje, Trnovski gozd in Kolovrat.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1215&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1771&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/maj/26/3240">Maj (1142m)</a>, <a class="moder" href="/gora/sveti_bric_nanos/26/1216">Sveti Bric (Nanos) (965m)</a>
+<a class="moder" href="/gora/bivak_zanuso_na_kolovratu/26/1769">Bivak Zanuso na Kolovratu (1065m)</a>, <a class="moder" href="/gora/nagnoj/26/1770">Nagnoj (1193m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,25 +835,37 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/cebulovica/335">Čebulovica</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/letalisce_divaca/2203">Letališče Divača</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/nanos_plesa/2957">Nanos (Pleša)</a>, <a class="moder" href="/spletna_kamera/nart/1718">Nart</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/planina_pri_rakeku/1028">Planina pri Rakeku</a>, <a class="moder" href="/spletna_kamera/podgric/1414">Podgrič</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/razdrto/332">Razdrto</a>, <a class="moder" href="/spletna_kamera/rebrnice/1409">Rebrnice</a>, <a class="moder" href="/spletna_kamera/senozeska_brda/1423">Senožeška brda</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>
+<a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/ravna_pri_ligu/1589">Ravna pri Ligu</a>, <a class="moder" href="/spletna_kamera/robic/1781">Robič</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsuhi_vrh_nanos%2f26%2f1215"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsuhi_vrh_nanos%2f26%2f1215"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsuhi_vrh_nanos%2f26%2f1215"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkuk_kolovrat%2f26%2f1771"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkuk_kolovrat%2f26%2f1771"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkuk_kolovrat%2f26%2f1771"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/suhi_vrh_nanos/1215" title="Suhi vrh (Nanos) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SuhiVrhNanos.jpg" /></a></div>
+<div><a href="/panorama/360/kuk_kolovrat/1771" title="Kuk (Kolovrat) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KukKolovrat.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/suhi_vrh_nanos/4072" onclick="event.preventDefault(); window.open('/slika_gora/suhi_vrh_nanos/4072');"><img class="slikagm" alt="Suhi vrh (Nanos)" src="//www.hribi.net/sliketemp/P31400864899636.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kuk_kolovrat/7935" onclick="event.preventDefault(); window.open('/slika_gora/kuk_kolovrat/7935');"><img class="slikagm" alt="Kuk (Kolovrat)" src="//www.hribi.net/slike1/Kolovrat%20262790020.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/suhi_vrh_nanos/4073" onclick="event.preventDefault(); window.open('/slika_gora/suhi_vrh_nanos/4073');"><img class="slikagm" alt="Suhi vrh (Nanos)" src="//www.hribi.net/sliketemp/P31401824899641.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kuk_kolovrat/7936" onclick="event.preventDefault(); window.open('/slika_gora/kuk_kolovrat/7936');"><img class="slikagm" alt="Kuk (Kolovrat)" src="//www.hribi.net/slike1/Kolovrat 314772200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/suhi_vrh_nanos/4074" onclick="event.preventDefault(); window.open('/slika_gora/suhi_vrh_nanos/4074');"><img class="slikagm" alt="Suhi vrh (Nanos)" src="//www.hribi.net/slike1/P3140131151632.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kuk_kolovrat/7937" onclick="event.preventDefault(); window.open('/slika_gora/kuk_kolovrat/7937');"><img class="slikagm" alt="Kuk (Kolovrat)" src="//www.hribi.net/slike1/Kolovrat 33631680.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kuk_kolovrat/7938" onclick="event.preventDefault(); window.open('/slika_gora/kuk_kolovrat/7938');"><img class="slikagm" alt="Kuk (Kolovrat)" src="//www.hribi.net/slike1/Kolovrat 33931680.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kuk_kolovrat/7939" onclick="event.preventDefault(); window.open('/slika_gora/kuk_kolovrat/7939');"><img class="slikagm" alt="Kuk (Kolovrat)" src="//www.hribi.net/slike1/Kolovrat 34847520.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kuk_kolovrat/17636" onclick="event.preventDefault(); window.open('/slika_gora/kuk_kolovrat/17636');"><img class="slikagm" alt="Kuk (Kolovrat)" src="//slike.hribi.net/slike4/2_1825596880960_DSCN7817.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/kuk_kolovrat/17637" onclick="event.preventDefault(); window.open('/slika_gora/kuk_kolovrat/17637');"><img class="slikagm" alt="Kuk (Kolovrat)" src="//slike.hribi.net/slike4/2_3335597767598_DSCN7813.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/kuk_kolovrat/17638" onclick="event.preventDefault(); window.open('/slika_gora/kuk_kolovrat/17638');"><img class="slikagm" alt="Kuk (Kolovrat)" src="//slike.hribi.net/slike4/2_1700597767593_DSCN7809.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/kuk_kolovrat/17647" onclick="event.preventDefault(); window.open('/slika_gora/kuk_kolovrat/17647');"><img class="slikagm" alt="Kuk (Kolovrat)" src="//slike.hribi.net/slike4/2_4987597604601_DSCN7728.JPG" /></a>
     
 </div>
 
@@ -917,7 +929,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1215&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1771&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -927,25 +939,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/razdrto_suhi_vrh_nanos_strma_pot/26/1215/2035">Razdrto - Suhi vrh (Nanos) (strma pot)</a></td><td class="tdG"><a href="/izlet/razdrto_suhi_vrh_nanos_strma_pot/26/1215/2035">3 h 25 min</a></td><td class="tdG"><a href="/izlet/razdrto_suhi_vrh_nanos_strma_pot/26/1215/2035">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/solarji_kuk_kolovrat/26/1771/3216">Solarji - Kuk (Kolovrat)</a></td><td class="tdG"><a href="/izlet/solarji_kuk_kolovrat/26/1771/3216">2 h 10 min</a></td><td class="tdG"><a href="/izlet/solarji_kuk_kolovrat/26/1771/3216">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/strane_suhi_vrh_nanos_polozna_pot/26/1215/2034"> Strane - Suhi vrh (Nanos) (položna pot)</a></td><td class="tdG"><a href="/izlet/strane_suhi_vrh_nanos_polozna_pot/26/1215/2034">2 h 30 min</a></td><td class="tdG"><a href="/izlet/strane_suhi_vrh_nanos_polozna_pot/26/1215/2034">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/livske_ravne_kuk_kolovrat/26/1771/3217">Livške Ravne - Kuk (Kolovrat)</a></td><td class="tdG"><a href="/izlet/livske_ravne_kuk_kolovrat/26/1771/3217"> 20 min</a></td><td class="tdG"><a href="/izlet/livske_ravne_kuk_kolovrat/26/1771/3217">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/strane_suhi_vrh_nanos_strma_pot/26/1215/2033">Strane - Suhi vrh (Nanos) (strma pot)</a></td><td class="tdG"><a href="/izlet/strane_suhi_vrh_nanos_strma_pot/26/1215/2033">2 h 15 min</a></td><td class="tdG"><a href="/izlet/strane_suhi_vrh_nanos_strma_pot/26/1215/2033">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/razdrto_suhi_vrh_nanos_polozna_pot/26/1215/4779"> Razdrto - Suhi vrh (Nanos) (položna pot)</a></td><td class="tdG"><a href="/izlet/razdrto_suhi_vrh_nanos_polozna_pot/26/1215/4779">4 h</a></td><td class="tdG"><a href="/izlet/razdrto_suhi_vrh_nanos_polozna_pot/26/1215/4779">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/furlanovo_zavetisce_pri_abramu_suhi_vrh_nanos_strma_pot/26/1215/4332">Furlanovo zavetišče pri Abramu - Suhi vrh (Nanos) (strma pot)</a></td><td class="tdG"><a href="/izlet/furlanovo_zavetisce_pri_abramu_suhi_vrh_nanos_strma_pot/26/1215/4332">3 h 40 min</a></td><td class="tdG"><a href="/izlet/furlanovo_zavetisce_pri_abramu_suhi_vrh_nanos_strma_pot/26/1215/4332">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lovska_koca_vojkovo_suhi_vrh_nanos_polozna_pot/26/1215/4784">Lovska koča Vojkovo - Suhi vrh (Nanos) (položna pot)</a></td><td class="tdG"><a href="/izlet/lovska_koca_vojkovo_suhi_vrh_nanos_polozna_pot/26/1215/4784">3 h 25 min</a></td><td class="tdG"><a href="/izlet/lovska_koca_vojkovo_suhi_vrh_nanos_polozna_pot/26/1215/4784">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/furlanovo_zavetisce_pri_abramu_suhi_vrh_nanos_polozna_pot/26/1215/4333">Furlanovo zavetišče pri Abramu - Suhi vrh (Nanos) (položna pot)</a></td><td class="tdG"><a href="/izlet/furlanovo_zavetisce_pri_abramu_suhi_vrh_nanos_polozna_pot/26/1215/4333">3 h 55 min</a></td><td class="tdG"><a href="/izlet/furlanovo_zavetisce_pri_abramu_suhi_vrh_nanos_polozna_pot/26/1215/4333">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lovska_koca_vojkovo_suhi_vrh_nanos_strma_pot/26/1215/4802">Lovska koča Vojkovo - Suhi vrh (Nanos) (strma pot)</a></td><td class="tdG"><a href="/izlet/lovska_koca_vojkovo_suhi_vrh_nanos_strma_pot/26/1215/4802">3 h 10 min</a></td><td class="tdG"><a href="/izlet/lovska_koca_vojkovo_suhi_vrh_nanos_strma_pot/26/1215/4802">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lozice_suhi_vrh_nanos_polozna_pot/26/1215/5195">Lozice - Suhi vrh (Nanos) (položna pot)</a></td><td class="tdG"><a href="/izlet/lozice_suhi_vrh_nanos_polozna_pot/26/1215/5195">4 h 25 min</a></td><td class="tdG"><a href="/izlet/lozice_suhi_vrh_nanos_polozna_pot/26/1215/5195">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lozice_suhi_vrh_nanos_strma_pot/26/1215/5197">Lozice - Suhi vrh (Nanos) (strma pot)</a></td><td class="tdG"><a href="/izlet/lozice_suhi_vrh_nanos_strma_pot/26/1215/5197">4 h 10 min</a></td><td class="tdG"><a href="/izlet/lozice_suhi_vrh_nanos_strma_pot/26/1215/5197">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/livek_kuk_kolovrat/26/1771/7064">Livek - Kuk (Kolovrat)</a></td><td class="tdG"><a href="/izlet/livek_kuk_kolovrat/26/1771/7064">1 h 30 min</a></td><td class="tdG"><a href="/izlet/livek_kuk_kolovrat/26/1771/7064">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vrh nad Škrbino</title>
-        <meta name="description" content="Natančen opis gore Vrh nad Škrbino in vseh pristopov na Vrh nad Škrbino. Vrh nad Škrbino je najvzhodnejši dvatisočak v grebenu Spodnjih Bohinjskih gora. ." />
+        <title>Planina za Migovcem</title>
+        <meta name="description" content="Natančen opis planine Planina za Migovcem in vseh pristopov na Planina za Migovcem. Planina za Migovcem je že dolgo opuščena planina, ki se nahaja med Bohinjskim Mi." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./698?gorovjeid=1&amp;id=698" id="form1">
+    <form method="post" action="./1887?gorovjeid=1&amp;id=1887" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrh_nad_skrbino/1/698"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=698"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_za_migovcem/1/1887"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1887"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Vrh nad Škrbino
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Planina za Migovcem
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(698);
+    gorast(1887);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vrh nad Škrbino</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planina za Migovcem</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2054&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1600&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,2640'N&nbsp;/&nbsp;13°&nbsp;46,80'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,6900'N&nbsp;/&nbsp;13°&nbsp;47,220'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;15,84''N&nbsp;/&nbsp;13°&nbsp;46'&nbsp;48,00''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;41,40''N&nbsp;/&nbsp;13°&nbsp;47'&nbsp;13,20''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.2544°N&nbsp;/&nbsp;13.78°E";
+                        document.getElementById("kf0").innerHTML = "46.2615°N&nbsp;/&nbsp;13.787°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,2544°N,&nbsp;13,78°E";
+                    document.getElementById("kf0").innerHTML = "46,2615°N,&nbsp;13,787°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2544°N&nbsp;13,78°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrh_nad_skrbino/698"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2615°N&nbsp;13,787°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_za_migovcem/1887"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina za Migovcem - Torek" href="/vreme_gora/planina_za_migovcem/1/1887#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina za Migovcem - Sreda" href="/vreme_gora/planina_za_migovcem/1/1887#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina za Migovcem - Četrtek" href="/vreme_gora/planina_za_migovcem/1/1887#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh nad Škrbino - Petek" href="/vreme_gora/vrh_nad_skrbino/1/698#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina za Migovcem - Petek" href="/vreme_gora/planina_za_migovcem/1/1887#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh nad Škrbino - Sobota" href="/vreme_gora/vrh_nad_skrbino/1/698#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh nad Škrbino - Nedelja" href="/vreme_gora/vrh_nad_skrbino/1/698#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh nad Škrbino - Ponedeljek" href="/vreme_gora/vrh_nad_skrbino/1/698#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh nad Škrbino - Torek" href="/vreme_gora/vrh_nad_skrbino/1/698#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina za Migovcem - Sobota" href="/vreme_gora/planina_za_migovcem/1/1887#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 501.938</div>
-<div class="g2"><b>Priljubljenost:</b> 90%&nbsp;(318.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">12</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
-
+<div class="g2"><b>Ogledov:</b> 232.923</div>
+<div class="g2"><b>Priljubljenost:</b> 62%&nbsp;(1258.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1887" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Vrh nad Škrbino je najvzhodnejši dvatisočak v grebenu Spodnjih Bohinjskih gora. Z vrha je zelo lep razgled na bližnje gore v grebenu ter na gore okoli Triglava. Lepo se vidi tudi Bohinjsko jezero.</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina za Migovcem je že dolgo opuščena planina, ki se nahaja med Bohinjskim Migovcem (1901 m) in Mohorjem (1848 m). S planine, na kateri lahko opazimo ostanke stare karavle, se nam odpre lep razgled na Bohinjski Migovec, Podrto goro, Mohor, z nekoliko višjih delov planine pa tudi proti Pršivcu in Triglavu.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=698&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1887&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/meja/1/1108">Meja (1996m)</a>, <a class="moder" href="/gora/planina_za_migovcem/1/1887">Planina za Migovcem (1600m)</a>, <a class="moder" href="/gora/podrta_gora/1/2680">Podrta gora (2061m)</a>, <a class="moder" href="/gora/rusnati_vrh/1/1109">Rušnati vrh (1915m)</a>, <a class="moder" href="/gora/tolminski_kuk/1/153">Tolminski Kuk (2085m)</a>, <a class="moder" href="/gora/tolminski_migovec/1/2102">Tolminski Migovec (1868m)</a>, <a class="moder" href="/gora/zeleni_vrh/1/1888">Zeleni vrh (2052m)</a>
+<a class="moder" href="/gora/meja/1/1108">Meja (1996m)</a>, <a class="moder" href="/gora/podrta_gora/1/2680">Podrta gora (2061m)</a>, <a class="moder" href="/gora/rusnati_vrh/1/1109">Rušnati vrh (1915m)</a>, <a class="moder" href="/gora/vrh_nad_skrbino/1/698">Vrh nad Škrbino (2054m)</a>, <a class="moder" href="/gora/zeleni_vrh/1/1888">Zeleni vrh (2052m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -840,22 +840,20 @@ function prijavaG() {
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_nad_skrbino%2f1%2f698"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_nad_skrbino%2f1%2f698"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_nad_skrbino%2f1%2f698"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_za_migovcem%2f1%2f1887"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_za_migovcem%2f1%2f1887"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_za_migovcem%2f1%2f1887"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vrh_nad_skrbino/698" title="Vrh nad Škrbino 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VrhNadSkrbino.jpg" /></a></div>
+<div><a href="/panorama/360/planina_za_migovcem/1887" title="Planina za Migovcem 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninaZaMigovcem.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vrh_nad_skrbino/2267" onclick="event.preventDefault(); window.open('/slika_gora/vrh_nad_skrbino/2267');"><img class="slikagm" alt="Vrh nad Škrbino" src="//www.hribi.net/slike1/P9140613579600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_za_migovcem/8853" onclick="event.preventDefault(); window.open('/slika_gora/planina_za_migovcem/8853');"><img class="slikagm" alt="Planina za Migovcem" src="//www.hribi.net/slike1/TolminskiKuk 092784080.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_nad_skrbino/2268" onclick="event.preventDefault(); window.open('/slika_gora/vrh_nad_skrbino/2268');"><img class="slikagm" alt="Vrh nad Škrbino" src="//www.hribi.net/slike1/P91406171043280.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_za_migovcem/8871" onclick="event.preventDefault(); window.open('/slika_gora/planina_za_migovcem/8871');"><img class="slikagm" alt="Planina za Migovcem" src="//www.hribi.net/slike1/TolminskiKuk 292365904.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_nad_skrbino/2269" onclick="event.preventDefault(); window.open('/slika_gora/vrh_nad_skrbino/2269');"><img class="slikagm" alt="Vrh nad Škrbino" src="//www.hribi.net/slike1/P91405131043280.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_nad_skrbino/17162" onclick="event.preventDefault(); window.open('/slika_gora/vrh_nad_skrbino/17162');"><img class="slikagm" alt="Vrh nad Škrbino" src="//slike.hribi.net/slike4/2_0392589621443_DSCN1257.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planina_za_migovcem/19570" onclick="event.preventDefault(); window.open('/slika_gora/planina_za_migovcem/19570');"><img class="slikagm" alt="Planina za Migovcem" src="//slike.hribi.net/slike4/2_1355653134058_DSCN7349.JPG" /></a>
     
 </div>
 
@@ -919,7 +917,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=698&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1887&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,29 +927,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_kuk_vrh_nad_skrbino_cez_skrbino/1/698/1243">Planina Kuk - Vrh nad Škrbino (čez Škrbino)</a></td><td class="tdG"><a href="/izlet/planina_kuk_vrh_nad_skrbino_cez_skrbino/1/698/1243">3 h 45 min</a></td><td class="tdG"><a href="/izlet/planina_kuk_vrh_nad_skrbino_cez_skrbino/1/698/1243">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ukanc_planina_za_migovcem/1/1887/3477">Ukanc - Planina za Migovcem</a></td><td class="tdG"><a href="/izlet/ukanc_planina_za_migovcem/1/1887/3477">3 h</a></td><td class="tdG"><a href="/izlet/ukanc_planina_za_migovcem/1/1887/3477">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_kuk_vrh_nad_skrbino_direktna_pot/1/698/1244">Planina Kuk - Vrh nad Škrbino (direktna pot)</a></td><td class="tdG"><a href="/izlet/planina_kuk_vrh_nad_skrbino_direktna_pot/1/698/1244">3 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_kuk_vrh_nad_skrbino_direktna_pot/1/698/1244">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ski_hotel_vogel_planina_za_migovcem/1/1887/3482">Ski hotel Vogel - Planina za Migovcem</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_planina_za_migovcem/1/1887/3482">3 h 15 min</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_planina_za_migovcem/1/1887/3482">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pri_savici_vrh_nad_skrbino_mimo_doma_na_komni_in_cez_skrbino/1/698/3474">Koča pri Savici - Vrh nad Škrbino (mimo Doma na Komni in čez Škrbino)</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_vrh_nad_skrbino_mimo_doma_na_komni_in_cez_skrbino/1/698/3474">6 h</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_vrh_nad_skrbino_mimo_doma_na_komni_in_cez_skrbino/1/698/3474">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pri_savici_planina_za_migovcem_mimo_doma_na_komni/1/1887/3471">Koča pri Savici - Planina za Migovcem (mimo Doma na Komni)</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_planina_za_migovcem_mimo_doma_na_komni/1/1887/3471">4 h 15 min</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_planina_za_migovcem_mimo_doma_na_komni/1/1887/3471">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ukanc_vrh_nad_skrbino/1/698/3478">Ukanc - Vrh nad Škrbino</a></td><td class="tdG"><a href="/izlet/ukanc_vrh_nad_skrbino/1/698/3478">4 h 45 min</a></td><td class="tdG"><a href="/izlet/ukanc_vrh_nad_skrbino/1/698/3478">lahka neoznačena steza, zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ukanc_planina_za_migovcem_skozi_zagarjev_graben/1/1887/7869">Ukanc - Planina za Migovcem (skozi Žagarjev graben)</a></td><td class="tdG"><a href="/izlet/ukanc_planina_za_migovcem_skozi_zagarjev_graben/1/1887/7869">4 h 30 min</a></td><td class="tdG"><a href="/izlet/ukanc_planina_za_migovcem_skozi_zagarjev_graben/1/1887/7869">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_nad_skrbino/1/698/3485">Ski hotel Vogel - Vrh nad Škrbino</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_nad_skrbino/1/698/3485">4 h 50 min</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_nad_skrbino/1/698/3485">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tolminske_ravne_vrh_nad_skrbino_po_strmi_in_direktni_poti/1/698/6164">Tolminske Ravne - Vrh nad Škrbino (po strmi in direktni poti)</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_vrh_nad_skrbino_po_strmi_in_direktni_poti/1/698/6164">3 h 30 min</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_vrh_nad_skrbino_po_strmi_in_direktni_poti/1/698/6164">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tolminske_ravne_vrh_nad_skrbino_po_strmi_poti_in_cez_skrbino/1/698/6192">Tolminske Ravne - Vrh nad Škrbino (po strmi poti in čez Škrbino)</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_vrh_nad_skrbino_po_strmi_poti_in_cez_skrbino/1/698/6192">4 h</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_vrh_nad_skrbino_po_strmi_poti_in_cez_skrbino/1/698/6192">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tolminske_ravne_vrh_nad_skrbino_po_mulatjeri_in_direktni_poti/1/698/6185">Tolminske Ravne - Vrh nad Škrbino (po mulatjeri in direktni poti)</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_vrh_nad_skrbino_po_mulatjeri_in_direktni_poti/1/698/6185">4 h</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_vrh_nad_skrbino_po_mulatjeri_in_direktni_poti/1/698/6185">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_nad_skrbino_po_bohinjski_planinski_poti/1/698/5739">Ski hotel Vogel - Vrh nad Škrbino (po Bohinjski planinski poti)</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_nad_skrbino_po_bohinjski_planinski_poti/1/698/5739">4 h 30 min</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_nad_skrbino_po_bohinjski_planinski_poti/1/698/5739">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_nad_skrbino_po_bpp_pod_rusnatim_vrhom_in_po_grebenu_cez_mejo/1/698/6450">Ski hotel Vogel - Vrh nad Škrbino (po BPP pod Rušnatim vrhom in po grebenu čez Mejo)</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_nad_skrbino_po_bpp_pod_rusnatim_vrhom_in_po_grebenu_cez_mejo/1/698/6450">3 h 50 min</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_nad_skrbino_po_bpp_pod_rusnatim_vrhom_in_po_grebenu_cez_mejo/1/698/6450">zahtevno brezpotje</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kneske_ravne_vrh_nad_skrbino_cez_skrbino/1/698/7176">Kneške Ravne - Vrh nad Škrbino (čez Škrbino)</a></td><td class="tdG"><a href="/izlet/kneske_ravne_vrh_nad_skrbino_cez_skrbino/1/698/7176">5 h 30 min</a></td><td class="tdG"><a href="/izlet/kneske_ravne_vrh_nad_skrbino_cez_skrbino/1/698/7176">lahka neoznačena steza, zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kneske_ravne_vrh_nad_skrbino_direktna_pot/1/698/7175">Kneške Ravne - Vrh nad Škrbino (direktna pot)</a></td><td class="tdG"><a href="/izlet/kneske_ravne_vrh_nad_skrbino_direktna_pot/1/698/7175">5 h</a></td><td class="tdG"><a href="/izlet/kneske_ravne_vrh_nad_skrbino_direktna_pot/1/698/7175">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ukanc_planina_za_migovcem_cez_planino_zadnji_vogel/1/1887/7870">Ukanc - Planina za Migovcem (čez planino Zadnji Vogel)</a></td><td class="tdG"><a href="/izlet/ukanc_planina_za_migovcem_cez_planino_zadnji_vogel/1/1887/7870">5 h</a></td><td class="tdG"><a href="/izlet/ukanc_planina_za_migovcem_cez_planino_zadnji_vogel/1/1887/7870">lahka označena pot</a></td></tr>
 
 </table>
 

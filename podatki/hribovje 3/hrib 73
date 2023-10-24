@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vrh Korena</title>
-        <meta name="description" content="Natančen opis gore Vrh Korena in vseh pristopov na Vrh Korena. Vrh Korena se nahaja med Zvohom in Kalškim grebenom v bližini Krvavških smučišč.." />
+        <title>Veliki vrh</title>
+        <meta name="description" content="Natančen opis gore Veliki vrh in vseh pristopov na Veliki vrh. Veliki vrh se nahaja na severozahodnem grebenu Kočne. Vrh ni poraščen tako, da j." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./316?gorovjeid=3&amp;id=316" id="form1">
+    <form method="post" action="./295?gorovjeid=3&amp;id=295" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrh_korena/3/316"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=316"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_vrh/3/295"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=295"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Vrh Korena
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Veliki vrh
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(316);
+    gorast(295);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vrh Korena</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Veliki vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1999&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1742&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;18,9024'N&nbsp;/&nbsp;14°&nbsp;33,2520'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,3422'N&nbsp;/&nbsp;14°&nbsp;29,8440'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;18'&nbsp;54,14''N&nbsp;/&nbsp;14°&nbsp;33'&nbsp;15,12''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;20,53''N&nbsp;/&nbsp;14°&nbsp;29'&nbsp;50,64''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.31504°N&nbsp;/&nbsp;14.5542°E";
+                        document.getElementById("kf0").innerHTML = "46.37237°N&nbsp;/&nbsp;14.4974°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,31504°N,&nbsp;14,5542°E";
+                    document.getElementById("kf0").innerHTML = "46,37237°N,&nbsp;14,4974°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,31504°N&nbsp;14,5542°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrh_korena/316"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,37237°N&nbsp;14,4974°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_vrh/295"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki vrh - Torek" href="/vreme_gora/veliki_vrh/3/295#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki vrh - Sreda" href="/vreme_gora/veliki_vrh/3/295#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki vrh - Četrtek" href="/vreme_gora/veliki_vrh/3/295#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Korena - Petek" href="/vreme_gora/vrh_korena/3/316#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki vrh - Petek" href="/vreme_gora/veliki_vrh/3/295#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Korena - Sobota" href="/vreme_gora/vrh_korena/3/316#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Korena - Nedelja" href="/vreme_gora/vrh_korena/3/316#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Korena - Ponedeljek" href="/vreme_gora/vrh_korena/3/316#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Korena - Torek" href="/vreme_gora/vrh_korena/3/316#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki vrh - Sobota" href="/vreme_gora/veliki_vrh/3/295#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 608.542</div>
-<div class="g2"><b>Priljubljenost:</b> 96%&nbsp;(135.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=316" title="Število vpisov v vpisni knjigi">8</a></div>
+<div class="g2"><b>Ogledov:</b> 478.835</div>
+<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(378.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">11</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=295" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Vrh Korena se nahaja med Zvohom in Kalškim grebenom v bližini Krvavških smučišč. Z vrha je lep pogled proti najvišjim vrhovom Kamniških in Savinjskih Alp. Na vrhu, ki mu le en meter manjka do 2000m je vpisna knjiga.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki vrh se nahaja na severozahodnem grebenu Kočne. Vrh ni poraščen tako, da je zelo lep pogled na sosednjo Kočno. Lepo je viden tudi Storžič in greben Košute. Vrh ima vpisno skrinjico.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=316&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=295&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kompotela/3/319">Kompotela (1989m)</a>, <a class="moder" href="/gora/kosutna/3/447">Košutna (1974m)</a>, <a class="moder" href="/gora/mokrica/3/320">Mokrica (1853m)</a>, <a class="moder" href="/gora/planina_dolga_njiva_krvavec/3/446">Planina Dolga njiva (Krvavec) (1688m)</a>, <a class="moder" href="/gora/planina_koren/3/317">Planina Koren (1675m)</a>, <a class="moder" href="/gora/planina_kosutna/3/338">Planina Košutna (1778m)</a>, <a class="moder" href="/gora/veliki_zvoh/3/73">Veliki Zvoh (1971m)</a>
+<a class="moder" href="/gora/murijeva_planina/3/2634">Murijeva planina (1289m)</a>, <a class="moder" href="/gora/ovca_koca/3/2635">Ovča koča (1323m)</a>, <a class="moder" href="/gora/povsnarjeva_planina/3/2636">Povšnarjeva planina (1330m)</a>, <a class="moder" href="/gora/slap_cedca/3/370">Slap Čedca (1350m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,25 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_korena%2f3%2f316"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_korena%2f3%2f316"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_korena%2f3%2f316"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_vrh%2f3%2f295"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_vrh%2f3%2f295"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_vrh%2f3%2f295"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vrh_korena/316" title="Vrh Korena 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VrhKorena.jpg" /></a></div>
+<div><a href="/panorama/360/veliki_vrh/295" title="Veliki vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VVrhJezersko.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vrh_korena/814" onclick="event.preventDefault(); window.open('/slika_gora/vrh_korena/814');"><img class="slikagm" alt="Vrh Korena" src="//www.hribi.net/Gora/p8260054mediumwi3.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_vrh/1304" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh/1304');"><img class="slikagm" alt="Veliki vrh" src="//www.hribi.net/Gora/pc020045mediumll7.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_korena/3492" onclick="event.preventDefault(); window.open('/slika_gora/vrh_korena/3492');"><img class="slikagm" alt="Vrh Korena" src="//www.hribi.net/slike1/P8120106594880.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_vrh/1305" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh/1305');"><img class="slikagm" alt="Veliki vrh" src="//www.hribi.net/Gora/pc020041mediumgq6.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_korena/20999" onclick="event.preventDefault(); window.open('/slika_gora/vrh_korena/20999');"><img class="slikagm" alt="Vrh Korena" src="//www.hribi.net/slike11/DSCN2855563321300.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_vrh/1308" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh/1308');"><img class="slikagm" alt="Veliki vrh" src="//www.hribi.net/Gora/pc020053mediumqv0.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_vrh/7654" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh/7654');"><img class="slikagm" alt="Veliki vrh" src="//www.hribi.net/slike1/Turni 3610.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_vrh/14623" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh/14623');"><img class="slikagm" alt="Veliki vrh" src="//slike.hribi.net/slike4/2_0662518857819_DSCN8417.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_vrh/14624" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh/14624');"><img class="slikagm" alt="Veliki vrh" src="//www.hribi.net/slike1/DSCN8419579072.th.jpg" /></a>
     
 </div>
 
@@ -917,7 +923,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=316&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=295&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -927,23 +933,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kriska_planina_vrh_korena_cez_planino_koren/3/316/446">Kriška planina - Vrh Korena (čez planino Koren)</a></td><td class="tdG"><a href="/izlet/kriska_planina_vrh_korena_cez_planino_koren/3/316/446">2 h 15 min</a></td><td class="tdG"><a href="/izlet/kriska_planina_vrh_korena_cez_planino_koren/3/316/446">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kriska_planina_vrh_korena_cez_zvoh/3/316/663"> Kriška planina - Vrh Korena (čez Zvoh)</a></td><td class="tdG"><a href="/izlet/kriska_planina_vrh_korena_cez_zvoh/3/316/663">2 h 40 min</a></td><td class="tdG"><a href="/izlet/kriska_planina_vrh_korena_cez_zvoh/3/316/663">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_jezerca_vrh_korena_cez_planino_koren/3/316/4586">Planina Jezerca - Vrh Korena (čez planino Koren)</a></td><td class="tdG"><a href="/izlet/planina_jezerca_vrh_korena_cez_planino_koren/3/316/4586">2 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_jezerca_vrh_korena_cez_planino_koren/3/316/4586">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/markova_raven_vrh_korena_po_oznaceni_poti/3/316/1082">Markova raven - Vrh Korena (po označeni poti)</a></td><td class="tdG"><a href="/izlet/markova_raven_vrh_korena_po_oznaceni_poti/3/316/1082">3 h 15 min</a></td><td class="tdG"><a href="/izlet/markova_raven_vrh_korena_po_oznaceni_poti/3/316/1082">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_na_gospincu_vrh_korena_cez_dolgo_njivo/3/316/662">Dom na Gospincu - Vrh Korena (čez Dolgo njivo)</a></td><td class="tdG"><a href="/izlet/dom_na_gospincu_vrh_korena_cez_dolgo_njivo/3/316/662">2 h 25 min</a></td><td class="tdG"><a href="/izlet/dom_na_gospincu_vrh_korena_cez_dolgo_njivo/3/316/662">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_na_gospincu_vrh_korena_cez_zvoh/3/316/661">Dom na Gospincu - Vrh Korena (čez Zvoh)</a></td><td class="tdG"><a href="/izlet/dom_na_gospincu_vrh_korena_cez_zvoh/3/316/661">2 h 40 min</a></td><td class="tdG"><a href="/izlet/dom_na_gospincu_vrh_korena_cez_zvoh/3/316/661">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_jezerca_vrh_korena_mimo_doma_na_krvavcu/3/316/4570">Planina Jezerca - Vrh Korena (mimo Doma na Krvavcu)</a></td><td class="tdG"><a href="/izlet/planina_jezerca_vrh_korena_mimo_doma_na_krvavcu/3/316/4570">2 h 55 min</a></td><td class="tdG"><a href="/izlet/planina_jezerca_vrh_korena_mimo_doma_na_krvavcu/3/316/4570">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kokra_podlebelca_vrh_korena/3/316/1777">Kokra (Podlebelca) - Vrh Korena</a></td><td class="tdG"><a href="/izlet/kokra_podlebelca_vrh_korena/3/316/1777">3 h 50 min</a></td><td class="tdG"><a href="/izlet/kokra_podlebelca_vrh_korena/3/316/1777">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kokra_roblek_vrh_korena/3/316/6477">Kokra (Roblek) - Vrh Korena</a></td><td class="tdG"><a href="/izlet/kokra_roblek_vrh_korena/3/316/6477">3 h</a></td><td class="tdG"><a href="/izlet/kokra_roblek_vrh_korena/3/316/6477">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/makekova_kocna_veliki_vrh/3/295/417">Makekova Kočna - Veliki vrh</a></td><td class="tdG"><a href="/izlet/makekova_kocna_veliki_vrh/3/295/417">2 h 15 min</a></td><td class="tdG"><a href="/izlet/makekova_kocna_veliki_vrh/3/295/417">lahka označena pot</a></td></tr>
 
 </table>
 

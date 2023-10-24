@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Krempa</title>
-        <meta name="description" content="Natančen opis gore Krempa in vseh pristopov na Krempa. Krempa je 944 m visoka gora, ki se nahaja v osrednjem delu Borovške gore, pogorj." />
+        <title>Sveti Janez Krstnik (Goropeke)</title>
+        <meta name="description" content="Natančen opis cerkve Sveti Janez Krstnik (Goropeke) in vseh pristopov na Sveti Janez Krstnik (Goropeke). Cerkev sv. Janeza Krstnika se nahaja v vasici Goropeke, le ta pa nad Žirmi. Od c." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1477?gorovjeid=26&amp;id=1477" id="form1">
+    <form method="post" action="./3055?gorovjeid=26&amp;id=3055" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/krempa/26/1477"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1477"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_janez_krstnik_goropeke/26/3055"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=3055"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Krempa
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Sveti Janez Krstnik (Goropeke)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1477);
+    gorast(3055);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Krempa</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Janez Krstnik (Goropeke)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 944&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 682&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;31,8648'N&nbsp;/&nbsp;14°&nbsp;46,8570'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;2,2260'N&nbsp;/&nbsp;14°&nbsp;7,2720'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;31'&nbsp;51,89''N&nbsp;/&nbsp;14°&nbsp;46'&nbsp;51,42''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;2'&nbsp;13,56''N&nbsp;/&nbsp;14°&nbsp;7'&nbsp;16,32''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.53108°N&nbsp;/&nbsp;14.78095°E";
+                        document.getElementById("kf0").innerHTML = "46.0371°N&nbsp;/&nbsp;14.1212°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,53108°N,&nbsp;14,78095°E";
+                    document.getElementById("kf0").innerHTML = "46,0371°N,&nbsp;14,1212°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,53108°N&nbsp;14,78095°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/krempa/1477"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,0371°N&nbsp;14,1212°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_janez_krstnik_goropeke/3055"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Janez Krstnik (Goropeke) - Torek" href="/vreme_gora/sveti_janez_krstnik_goropeke/26/3055#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Janez Krstnik (Goropeke) - Sreda" href="/vreme_gora/sveti_janez_krstnik_goropeke/26/3055#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Janez Krstnik (Goropeke) - Četrtek" href="/vreme_gora/sveti_janez_krstnik_goropeke/26/3055#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Krempa - Petek" href="/vreme_gora/krempa/26/1477#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Janez Krstnik (Goropeke) - Petek" href="/vreme_gora/sveti_janez_krstnik_goropeke/26/3055#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Krempa - Sobota" href="/vreme_gora/krempa/26/1477#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Krempa - Nedelja" href="/vreme_gora/krempa/26/1477#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Krempa - Ponedeljek" href="/vreme_gora/krempa/26/1477#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Krempa - Torek" href="/vreme_gora/krempa/26/1477#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Janez Krstnik (Goropeke) - Sobota" href="/vreme_gora/sveti_janez_krstnik_goropeke/26/3055#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 209.112</div>
-<div class="g2"><b>Priljubljenost:</b> 59%&nbsp;(1355.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Ogledov:</b> 1.220</div>
+<div class="g2"><b>Priljubljenost:</b> 22%&nbsp;(2558.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Krempa je 944 m visoka gora, ki se nahaja v osrednjem delu Borovške gore, pogorja, ki se strmo dviga nad Zgornje kolpsko dolino. Na vrhu je vpisna skrinjica ter žig Kočevske planinske poti.<br>Malo pod vrhom, na istoimenskem sedlu pa se nahaja znano rastišče narcis.</div>
+<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev sv. Janeza Krstnika se nahaja v vasici Goropeke, le ta pa nad Žirmi. Od cerkve, ki je bila zgrajena v 15 stoletju, se nam odpre lep razgled na okoliške hribe.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1477&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3055&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/krokar/26/1478">Krokar (1122m)</a>
+<a class="moder" href="/gora/dom_na_goropekah/26/654">Dom na Goropekah (742m)</a>, <a class="moder" href="/gora/goropeski_gric_pikrej/26/3054">Goropeški grič (Pikrej) (672m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,22 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/colnarji/451">Colnarji</a>, <a class="moder" href="/spletna_kamera/domacija_lobic_grgelj/4358">Domačija Lobič (Grgelj)</a>, <a class="moder" href="/spletna_kamera/grad_kostel/4361">Grad Kostel</a>, <a class="moder" href="/spletna_kamera/kocevje/998">Kočevje</a>, <a class="moder" href="/spletna_kamera/rudnisko_jezero/4234">Rudniško jezero</a>, <a class="moder" href="/spletna_kamera/skrad_zeleni_vir/3449">Skrad (Zeleni vir)</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkrempa%2f26%2f1477"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkrempa%2f26%2f1477"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkrempa%2f26%2f1477"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_janez_krstnik_goropeke%2f26%2f3055"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_janez_krstnik_goropeke%2f26%2f3055"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_janez_krstnik_goropeke%2f26%2f3055"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/krempa/5630" onclick="event.preventDefault(); window.open('/slika_gora/krempa/5630');"><img class="slikagm" alt="Krempa" src="//www.hribi.net/slike1/Cerk 078324480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_janez_krstnik_goropeke/17999" onclick="event.preventDefault(); window.open('/slika_gora/sveti_janez_krstnik_goropeke/17999');"><img class="slikagm" alt="Sveti Janez Krstnik (Goropeke)" src="//slike.hribi.net/slike4/2_087604770593_DSCN4958.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/krempa/5631" onclick="event.preventDefault(); window.open('/slika_gora/krempa/5631');"><img class="slikagm" alt="Krempa" src="//www.hribi.net/slike1/Cerk 076324480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_janez_krstnik_goropeke/18000" onclick="event.preventDefault(); window.open('/slika_gora/sveti_janez_krstnik_goropeke/18000');"><img class="slikagm" alt="Sveti Janez Krstnik (Goropeke)" src="//slike.hribi.net/slike4/2_1117604770596_DSCN4959.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/krempa/5632" onclick="event.preventDefault(); window.open('/slika_gora/krempa/5632');"><img class="slikagm" alt="Krempa" src="//www.hribi.net/slike1/Cerk 018386880.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_janez_krstnik_goropeke/18001" onclick="event.preventDefault(); window.open('/slika_gora/sveti_janez_krstnik_goropeke/18001');"><img class="slikagm" alt="Sveti Janez Krstnik (Goropeke)" src="//slike.hribi.net/slike4/2_2600604513309_DSCN4956.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_janez_krstnik_goropeke/18002" onclick="event.preventDefault(); window.open('/slika_gora/sveti_janez_krstnik_goropeke/18002');"><img class="slikagm" alt="Sveti Janez Krstnik (Goropeke)" src="//slike.hribi.net/slike4/2_0413604770959_DSCN4961.JPG" /></a>
     
 </div>
 
@@ -914,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1477&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3055&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -924,7 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/borovec_pri_kocevski_reki_krempa/26/1477/2495">Borovec pri Kočevski Reki - Krempa</a></td><td class="tdG"><a href="/izlet/borovec_pri_kocevski_reki_krempa/26/1477/2495"> 50 min</a></td><td class="tdG"><a href="/izlet/borovec_pri_kocevski_reki_krempa/26/1477/2495">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ziri_sveti_janez_krstnik_goropeke/26/3055/7215">Žiri - Sveti Janez Krstnik (Goropeke)</a></td><td class="tdG"><a href="/izlet/ziri_sveti_janez_krstnik_goropeke/26/3055/7215"> 40 min</a></td><td class="tdG"><a href="/izlet/ziri_sveti_janez_krstnik_goropeke/26/3055/7215">lahka označena pot</a></td></tr>
 
 </table>
 

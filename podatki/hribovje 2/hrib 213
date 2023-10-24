@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Srednja Ponca</title>
-        <meta name="description" content="Natančen opis gore Srednja Ponca in vseh pristopov na Srednja Ponca. Srednja Ponca je 2228m visok vrh, ki se strmo dviga nad Tamarjem, Planico in Man." />
+        <title>Matajurski vrh</title>
+        <meta name="description" content="Natančen opis gore Matajurski vrh in vseh pristopov na Matajurski vrh. Matajurski vrh je 1936m visoka gora, ki se nahaja na glavnem grebenu Spodnjih Bo." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1050?gorovjeid=1&amp;id=1050" id="form1">
+    <form method="post" action="./1105?gorovjeid=1&amp;id=1105" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/srednja_ponca___ponza_di_mezze/1/1050"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1050"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/matajurski_vrh/1/1105"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1105"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Srednja Ponca
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Matajurski vrh
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1050);
+    gorast(1105);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Srednja Ponca</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Matajurski vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2228&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1936&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;27,4056'N&nbsp;/&nbsp;13°&nbsp;41,9286'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;13,5798'N&nbsp;/&nbsp;13°&nbsp;53,8356'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;27'&nbsp;24,34''N&nbsp;/&nbsp;13°&nbsp;41'&nbsp;55,72''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;13'&nbsp;34,79''N&nbsp;/&nbsp;13°&nbsp;53'&nbsp;50,14''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.45676°N&nbsp;/&nbsp;13.69881°E";
+                        document.getElementById("kf0").innerHTML = "46.22633°N&nbsp;/&nbsp;13.89726°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,45676°N,&nbsp;13,69881°E";
+                    document.getElementById("kf0").innerHTML = "46,22633°N,&nbsp;13,89726°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,45676°N&nbsp;13,69881°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/srednja_ponca/1050"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,22633°N&nbsp;13,89726°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/matajurski_vrh/1105"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Matajurski vrh - Torek" href="/vreme_gora/matajurski_vrh/1/1105#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Matajurski vrh - Sreda" href="/vreme_gora/matajurski_vrh/1/1105#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Matajurski vrh - Četrtek" href="/vreme_gora/matajurski_vrh/1/1105#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednja Ponca - Petek" href="/vreme_gora/srednja_ponca/1/1050#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Matajurski vrh - Petek" href="/vreme_gora/matajurski_vrh/1/1105#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednja Ponca - Sobota" href="/vreme_gora/srednja_ponca/1/1050#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednja Ponca - Nedelja" href="/vreme_gora/srednja_ponca/1/1050#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednja Ponca - Ponedeljek" href="/vreme_gora/srednja_ponca/1/1050#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednja Ponca - Torek" href="/vreme_gora/srednja_ponca/1/1050#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Matajurski vrh - Sobota" href="/vreme_gora/matajurski_vrh/1/1105#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 432.218</div>
-<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(534.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 354.183</div>
+<div class="g2"><b>Priljubljenost:</b> 75%&nbsp;(806.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Srednja Ponca je 2228m visok vrh, ki se strmo dviga nad Tamarjem, Planico in Mangartsko dolino. Z vrha na katerem je žig je lep pogled na greben Ponc, Jalovec in ostale vrhove nad omenjenimi dolinami.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Matajurski vrh je 1936m visoka gora, ki se nahaja na glavnem grebenu Spodnjih Bohinjskih gora. Ob lepem vremenu se nam z vrha odpre lep razgled, ki seže vse od Jadranskega morja do Triglava.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1050&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1105&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dom_v_tamarju/1/286">Dom v Tamarju (1108m)</a>, <a class="moder" href="/gora/glave/1/1045">Glave (1760m)</a>, <a class="moder" href="/gora/izvir_nadize/1/3086">Izvir Nadiže (1232m)</a>, <a class="moder" href="/gora/mala_ponca/1/1046">Mala Ponca (1925m)</a>, <a class="moder" href="/gora/rifugio_zacchi/1/1048">Rifugio Zacchi (1380m)</a>, <a class="moder" href="/gora/strug/1/1622">Strug (2265m)</a>, <a class="moder" href="/gora/visoka_ponca/1/90">Visoka Ponca (2274m)</a>, <a class="moder" href="/gora/zadnja_ponca/1/1051">Zadnja Ponca (2242m)</a>, <a class="moder" href="/gora/zavetisce_pod_ponco/1/1047">Zavetišče pod Ponco (1657m)</a>
+<a class="moder" href="/gora/cetrt/1/1102">Četrt (1832m)</a>, <a class="moder" href="/gora/gradovec/1/2649">Gradovec (1692m)</a>, <a class="moder" href="/gora/konjski_vrh/1/1103">Konjski vrh (1879m)</a>, <a class="moder" href="/gora/mali_raskovec/1/1106">Mali Raskovec (1946m)</a>, <a class="moder" href="/gora/planina_poljana/1/1100">Planina Poljana (1466m)</a>, <a class="moder" href="/gora/poljanski_vrh/1/1104">Poljanski vrh (1897m)</a>, <a class="moder" href="/gora/raskovec/1/1099">Raskovec (1967m)</a>, <a class="moder" href="/gora/suha_rodica_novi_vrh/1/1107">Suha Rodica (Novi vrh) (1944m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,29 +835,29 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/zabnice___camporosso_in_valcanale/1975">Žabnice / Camporosso in Valcanale</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednja_ponca%2f1%2f1050"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednja_ponca%2f1%2f1050"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednja_ponca%2f1%2f1050"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmatajurski_vrh%2f1%2f1105"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmatajurski_vrh%2f1%2f1105"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmatajurski_vrh%2f1%2f1105"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/srednja_ponca/1050" title="Srednja Ponca 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SrednjaPonca.jpg" /></a></div>
+<div><a href="/panorama/360/matajurski_vrh/1105" title="Matajurski vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.MatajurskiVrh.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/srednja_ponca/3387" onclick="event.preventDefault(); window.open('/slika_gora/srednja_ponca/3387');"><img class="slikagm" alt="Srednja Ponca" src="//www.hribi.net/sliketemp/P73002004573231.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/matajurski_vrh/3657" onclick="event.preventDefault(); window.open('/slika_gora/matajurski_vrh/3657');"><img class="slikagm" alt="Matajurski vrh" src="//www.hribi.net/slike1/P9170231213408.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednja_ponca/3393" onclick="event.preventDefault(); window.open('/slika_gora/srednja_ponca/3393');"><img class="slikagm" alt="Srednja Ponca" src="//www.hribi.net/slike1/P73002614565641.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/matajurski_vrh/3658" onclick="event.preventDefault(); window.open('/slika_gora/matajurski_vrh/3658');"><img class="slikagm" alt="Matajurski vrh" src="//www.hribi.net/slike1/P9170241552960.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednja_ponca/3398" onclick="event.preventDefault(); window.open('/slika_gora/srednja_ponca/3398');"><img class="slikagm" alt="Srednja Ponca" src="//www.hribi.net/slike1/P730012891392.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/matajurski_vrh/14712" onclick="event.preventDefault(); window.open('/slika_gora/matajurski_vrh/14712');"><img class="slikagm" alt="Matajurski vrh" src="//www.hribi.net/slike1/DSCN046069888.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednja_ponca/3403" onclick="event.preventDefault(); window.open('/slika_gora/srednja_ponca/3403');"><img class="slikagm" alt="Srednja Ponca" src="//www.hribi.net/slike1/P730019991392.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/matajurski_vrh/15208" onclick="event.preventDefault(); window.open('/slika_gora/matajurski_vrh/15208');"><img class="slikagm" alt="Matajurski vrh" src="//slike.hribi.net/slike4/2_0578529412463_DSCN7159.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/srednja_ponca/3404" onclick="event.preventDefault(); window.open('/slika_gora/srednja_ponca/3404');"><img class="slikagm" alt="Srednja Ponca" src="//www.hribi.net/slike1/P730024091392.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/matajurski_vrh/19879" onclick="event.preventDefault(); window.open('/slika_gora/matajurski_vrh/19879');"><img class="slikagm" alt="Matajurski vrh" src="//slike.hribi.net/slike4/2_2433660517587_DSCN2057.JPG" /></a>
     
 </div>
 
@@ -921,7 +921,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1050&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1105&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,9 +931,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_v_tamarju_srednja_ponca/1/1050/1750">Dom v Tamarju - Srednja Ponca</a></td><td class="tdG"><a href="/izlet/dom_v_tamarju_srednja_ponca/1/1050/1750">3 h 15 min</a></td><td class="tdG"><a href="/izlet/dom_v_tamarju_srednja_ponca/1/1050/1750">zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_luknjo_matajurski_vrh/1/1105/1852">Pod Luknjo - Matajurski vrh</a></td><td class="tdG"><a href="/izlet/pod_luknjo_matajurski_vrh/1/1105/1852">3 h 50 min</a></td><td class="tdG"><a href="/izlet/pod_luknjo_matajurski_vrh/1/1105/1852">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/belopeska_jezera_srednja_ponca/1/1050/1754">Belopeška jezera - Srednja Ponca</a></td><td class="tdG"><a href="/izlet/belopeska_jezera_srednja_ponca/1/1050/1754">3 h 45 min</a></td><td class="tdG"><a href="/izlet/belopeska_jezera_srednja_ponca/1/1050/1754">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/polje_matajurski_vrh/1/1105/5177">Polje - Matajurski vrh</a></td><td class="tdG"><a href="/izlet/polje_matajurski_vrh/1/1105/5177">5 h 5 min</a></td><td class="tdG"><a href="/izlet/polje_matajurski_vrh/1/1105/5177">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podbrdo_matajurski_vrh_cez_crno_prst/1/1105/6621">Podbrdo - Matajurski vrh (čez Črno prst)</a></td><td class="tdG"><a href="/izlet/podbrdo_matajurski_vrh_cez_crno_prst/1/1105/6621">4 h 55 min</a></td><td class="tdG"><a href="/izlet/podbrdo_matajurski_vrh_cez_crno_prst/1/1105/6621">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ravne_matajurski_vrh_cez_crno_prst/1/1105/6577">Ravne - Matajurski vrh (čez Črno prst)</a></td><td class="tdG"><a href="/izlet/ravne_matajurski_vrh_cez_crno_prst/1/1105/6577">4 h 45 min</a></td><td class="tdG"><a href="/izlet/ravne_matajurski_vrh_cez_crno_prst/1/1105/6577">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
 
 </table>
 

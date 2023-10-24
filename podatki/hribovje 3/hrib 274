@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kranjska reber</title>
-        <meta name="description" content="Natančen opis gore Kranjska reber in vseh pristopov na Kranjska reber. Kranjska reber oz. Vrh Kašne planine (1435 m) je gora vulkanskega nastanka. Z vr." />
+        <title>Sveta Ana (Tunjice)</title>
+        <meta name="description" content="Natančen opis gore Sveta Ana (Tunjice) in vseh pristopov na Sveta Ana (Tunjice). Baročna cerkev sv. Ane v Tunjicah se nahaja na vzpetini zahodno od Kamnika. V bl." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./249?gorovjeid=3&amp;id=249" id="form1">
+    <form method="post" action="./2163?gorovjeid=3&amp;id=2163" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kranjska_reber/3/249"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=249"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveta_ana_tunjice/3/2163"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2163"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Kranjska reber
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Sveta Ana (Tunjice)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(249);
+    gorast(2163);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kranjska reber</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveta Ana (Tunjice)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1435&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 475&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,0580'N&nbsp;/&nbsp;14°&nbsp;42,6672'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;13,8840'N&nbsp;/&nbsp;14°&nbsp;34,6620'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;3,48''N&nbsp;/&nbsp;14°&nbsp;42'&nbsp;40,03''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;13'&nbsp;53,04''N&nbsp;/&nbsp;14°&nbsp;34'&nbsp;39,72''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.2843°N&nbsp;/&nbsp;14.71112°E";
+                        document.getElementById("kf0").innerHTML = "46.2314°N&nbsp;/&nbsp;14.5777°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,2843°N,&nbsp;14,71112°E";
+                    document.getElementById("kf0").innerHTML = "46,2314°N,&nbsp;14,5777°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2843°N&nbsp;14,71112°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kranjska_reber/249"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2314°N&nbsp;14,5777°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveta_ana_tunjice/2163"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Ana (Tunjice) - Torek" href="/vreme_gora/sveta_ana_tunjice/3/2163#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Ana (Tunjice) - Sreda" href="/vreme_gora/sveta_ana_tunjice/3/2163#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Ana (Tunjice) - Četrtek" href="/vreme_gora/sveta_ana_tunjice/3/2163#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kranjska reber - Petek" href="/vreme_gora/kranjska_reber/3/249#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Ana (Tunjice) - Petek" href="/vreme_gora/sveta_ana_tunjice/3/2163#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kranjska reber - Sobota" href="/vreme_gora/kranjska_reber/3/249#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kranjska reber - Nedelja" href="/vreme_gora/kranjska_reber/3/249#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kranjska reber - Ponedeljek" href="/vreme_gora/kranjska_reber/3/249#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kranjska reber - Torek" href="/vreme_gora/kranjska_reber/3/249#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Ana (Tunjice) - Sobota" href="/vreme_gora/sveta_ana_tunjice/3/2163#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 482.147</div>
-<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(367.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=249" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 269.016</div>
+<div class="g2"><b>Priljubljenost:</b> 66%&nbsp;(1122.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2163" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kranjska reber oz. Vrh Kašne planine (1435 m) je gora vulkanskega nastanka. Z vrha, na katerem se nahaja vpisna skrinjica z žigom, se nam odpre lep razgled na glavno verigo Kamniško Savinjskih Alp, Raduho, Lepenatko in Rogatec, Golte, Menino in Veliko planino ter del Gorenjske. Ob lepem vremenu in dobri vidljivosti pa razgled seže vse do Julijskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Baročna cerkev sv. Ane v Tunjicah se nahaja na vzpetini zahodno od Kamnika. V bližini cerkve se nahaja še vpisna skrinjica, nekoliko stran pa še razgleden Vinski vrh, s katerega se nam odpre lep razgled proti Kamniško Savinjskim Alpam, Tunjiškem gričevju, ob lepi vidljivosti pa razgled seže vse do Julijskih Alp z najvišjim Triglavom.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=249&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2163&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kasna_planina/3/250">Kašna planina (1317m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,43 +835,37 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
+<a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzale/1008">Domžale</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/krtina/3453">Krtina</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rasica_nad_ljubljano/2418">Rašica nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkranjska_reber%2f3%2f249"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkranjska_reber%2f3%2f249"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkranjska_reber%2f3%2f249"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_ana_tunjice%2f3%2f2163"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_ana_tunjice%2f3%2f2163"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_ana_tunjice%2f3%2f2163"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kranjska_reber/249" title="Kranjska reber 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KranjskaReber.jpg" /></a></div>
+<div><a href="/panorama/360/sveta_ana_tunjice/2163" title="Sveta Ana (Tunjice) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SvAnaTunjice.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kranjska_reber/1128" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/1128');"><img class="slikagm" alt="Kranjska reber" src="//www.hribi.net/Gora/rimg0517mediumsp7.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_ana_tunjice/10891" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_tunjice/10891');"><img class="slikagm" alt="Sveta Ana (Tunjice)" src="//www.hribi.net/slike1/SvAnaTunjice 051167440.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_reber/5441" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/5441');"><img class="slikagm" alt="Kranjska reber" src="//www.hribi.net/slike1/KranjskaReber 185138240.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_ana_tunjice/10892" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_tunjice/10892');"><img class="slikagm" alt="Sveta Ana (Tunjice)" src="//www.hribi.net/slike1/SvAnaTunjice 052167440.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_reber/5442" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/5442');"><img class="slikagm" alt="Kranjska reber" src="//www.hribi.net/slike1/KranjskaReber 181138240.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_ana_tunjice/10893" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_tunjice/10893');"><img class="slikagm" alt="Sveta Ana (Tunjice)" src="//www.hribi.net/slike1/SvAnaTunjice 055167440.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_reber/5443" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/5443');"><img class="slikagm" alt="Kranjska reber" src="//www.hribi.net/slike1/KranjskaReber 180138240.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_ana_tunjice/10894" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_tunjice/10894');"><img class="slikagm" alt="Sveta Ana (Tunjice)" src="//www.hribi.net/slike1/SvAnaTunjice 056167440.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_reber/5444" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/5444');"><img class="slikagm" alt="Kranjska reber" src="//www.hribi.net/sliketemp/2007-11-02-Kranjska%20reber%20(40)4185217.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_ana_tunjice/10895" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_tunjice/10895');"><img class="slikagm" alt="Sveta Ana (Tunjice)" src="//www.hribi.net/slike1/SvAnaTunjice 012196560.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_reber/12740" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/12740');"><img class="slikagm" alt="Kranjska reber" src="//www.hribi.net/slike1/PoljanskiRob 153489888.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_ana_tunjice/10896" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_tunjice/10896');"><img class="slikagm" alt="Sveta Ana (Tunjice)" src="//www.hribi.net/slike1/SvAnaTunjice 011196560.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_reber/13283" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/13283');"><img class="slikagm" alt="Kranjska reber" src="//slike.hribi.net/slike4/2_0907476901774_DSCN9040.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveta_ana_tunjice/18965" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_tunjice/18965');"><img class="slikagm" alt="Sveta Ana (Tunjice)" src="//slike.hribi.net/slike4/2_0646632562388_DSCN0377.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_reber/13284" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/13284');"><img class="slikagm" alt="Kranjska reber" src="//slike.hribi.net/slike4/2_1569476901720_DSCN9036.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveta_ana_tunjice/18966" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_tunjice/18966');"><img class="slikagm" alt="Sveta Ana (Tunjice)" src="//slike.hribi.net/slike4/2_1397632562355_DSCN0374.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_reber/13285" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/13285');"><img class="slikagm" alt="Kranjska reber" src="//www.hribi.net/slike1/DSCN90394481568.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kranjska_reber/14968" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/14968');"><img class="slikagm" alt="Kranjska reber" src="//slike.hribi.net/slike4/2_0125527065559_DSCN4811.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kranjska_reber/14969" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/14969');"><img class="slikagm" alt="Kranjska reber" src="//www.hribi.net/slike1/DSCN481794080.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kranjska_reber/14970" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_reber/14970');"><img class="slikagm" alt="Kranjska reber" src="//www.hribi.net/slike1/DSCN4830200704.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_ana_tunjice/18967" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_tunjice/18967');"><img class="slikagm" alt="Sveta Ana (Tunjice)" src="//slike.hribi.net/slike4/2_6533633175923_DSCN0373.JPG" /></a>
     
 </div>
 
@@ -935,7 +929,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=249&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2163&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -945,15 +939,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/crnivec_kranjska_reber/3/249/2448">Črnivec - Kranjska reber</a></td><td class="tdG"><a href="/izlet/crnivec_kranjska_reber/3/249/2448">1 h 30 min</a></td><td class="tdG"><a href="/izlet/crnivec_kranjska_reber/3/249/2448">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kamnik_sveta_ana_tunjice/3/2163/4424">Kamnik - Sveta Ana (Tunjice)</a></td><td class="tdG"><a href="/izlet/kamnik_sveta_ana_tunjice/3/2163/4424">1 h</a></td><td class="tdG"><a href="/izlet/kamnik_sveta_ana_tunjice/3/2163/4424">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/volovljek_kranjska_reber/3/249/358">Volovljek - Kranjska reber</a></td><td class="tdG"><a href="/izlet/volovljek_kranjska_reber/3/249/358">1 h 20 min</a></td><td class="tdG"><a href="/izlet/volovljek_kranjska_reber/3/249/358">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lovski_dom_komenda_sveta_ana_tunjice/3/2163/7590">Lovski dom Komenda - Sveta Ana (Tunjice)</a></td><td class="tdG"><a href="/izlet/lovski_dom_komenda_sveta_ana_tunjice/3/2163/7590">1 h 40 min</a></td><td class="tdG"><a href="/izlet/lovski_dom_komenda_sveta_ana_tunjice/3/2163/7590">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kalise_kranjska_reber/3/249/5168">Kališe - Kranjska reber</a></td><td class="tdG"><a href="/izlet/kalise_kranjska_reber/3/249/5168">1 h 30 min</a></td><td class="tdG"><a href="/izlet/kalise_kranjska_reber/3/249/5168">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/volovljek_kranjska_reber_po_neoznaceni_poti/3/249/5170">Volovljek - Kranjska reber (po neoznačeni poti)</a></td><td class="tdG"><a href="/izlet/volovljek_kranjska_reber_po_neoznaceni_poti/3/249/5170">1 h 15 min</a></td><td class="tdG"><a href="/izlet/volovljek_kranjska_reber_po_neoznaceni_poti/3/249/5170">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mackin_kot_enci_kranjska_reber/3/249/6061">Mačkin Kot (Enci) - Kranjska reber</a></td><td class="tdG"><a href="/izlet/mackin_kot_enci_kranjska_reber/3/249/6061">1 h 45 min</a></td><td class="tdG"><a href="/izlet/mackin_kot_enci_kranjska_reber/3/249/6061">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mlaka_sveta_ana_tunjice/3/2163/7589">Mlaka - Sveta Ana (Tunjice)</a></td><td class="tdG"><a href="/izlet/mlaka_sveta_ana_tunjice/3/2163/7589">1 h 30 min</a></td><td class="tdG"><a href="/izlet/mlaka_sveta_ana_tunjice/3/2163/7589">lahka neoznačena steza</a></td></tr>
 
 </table>
 

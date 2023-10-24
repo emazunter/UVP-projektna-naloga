@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Ježa</title>
-        <meta name="description" content="Natančen opis gore Ježa in vseh pristopov na Ježa. Ježa je 949 m visok vrh, ki se nahaja zahodno od Volč, točneje na pobočjih Kolov." />
+        <title>Primož</title>
+        <meta name="description" content="Natančen opis gore Primož in vseh pristopov na Primož. Primož je 718 m visok vrh, ki se nahaja južno do jugovzhodno od Pivke. Zaradi id." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1763?gorovjeid=26&amp;id=1763" id="form1">
+    <form method="post" action="./1944?gorovjeid=26&amp;id=1944" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/jeza/26/1763"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1763"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/primoz/26/1944"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1944"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Ježa
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Primož
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1763);
+    gorast(1944);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Ježa</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Primož</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 949&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 718&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;10,2264'N&nbsp;/&nbsp;13°&nbsp;40,4712'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;40,2066'N&nbsp;/&nbsp;14°&nbsp;12,1518'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;10'&nbsp;13,58''N&nbsp;/&nbsp;13°&nbsp;40'&nbsp;28,27''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;40'&nbsp;12,40''N&nbsp;/&nbsp;14°&nbsp;12'&nbsp;9,11''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.17044°N&nbsp;/&nbsp;13.67452°E";
+                        document.getElementById("kf0").innerHTML = "45.67011°N&nbsp;/&nbsp;14.20253°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,17044°N,&nbsp;13,67452°E";
+                    document.getElementById("kf0").innerHTML = "45,67011°N,&nbsp;14,20253°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,17044°N&nbsp;13,67452°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/jeza/1763"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,67011°N&nbsp;14,20253°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/primoz/1944"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Primož - Torek" href="/vreme_gora/primoz/26/1944#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Primož - Sreda" href="/vreme_gora/primoz/26/1944#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Primož - Četrtek" href="/vreme_gora/primoz/26/1944#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Ježa - Petek" href="/vreme_gora/jeza/26/1763#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Primož - Petek" href="/vreme_gora/primoz/26/1944#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Ježa - Sobota" href="/vreme_gora/jeza/26/1763#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Ježa - Nedelja" href="/vreme_gora/jeza/26/1763#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Ježa - Ponedeljek" href="/vreme_gora/jeza/26/1763#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Ježa - Torek" href="/vreme_gora/jeza/26/1763#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Primož - Sobota" href="/vreme_gora/primoz/26/1944#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 188.750</div>
-<div class="g2"><b>Priljubljenost:</b> 56%&nbsp;(1431.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Ogledov:</b> 260.874</div>
+<div class="g2"><b>Priljubljenost:</b> 65%&nbsp;(1151.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1763" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1944" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Ježa je 949 m visok vrh, ki se nahaja zahodno od Volč, točneje na pobočjih Kolovrata. Z vrha, na katerem je vpisna skrinjica z vpisno knjigo in žigom, se nam odpre lep pogled na Trnovski gozd, okoliško hribovje ter skozi krošnje dreves proti delu Julijskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Primož je 718 m visok vrh, ki se nahaja južno do jugovzhodno od Pivke. Zaradi idealne lokacije s pogledom na celotno Pivško kotlino, pa so Italijani v času med obema svetovnima vojnama, na njem zgradili obsežen vojaški objekt s številnimi rovi in bunkerji. <br>Danes je Primož večinoma poraščen vrh, okoli katerega vodi turistično -zgodovinska pot, ki je opremljena s številnimi informativnimi tablami. <br>Vrh ima vpisno skrinjico in žig.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1763&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1944&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/deveti_konfin/26/1765">Deveti konfin (930m)</a>, <a class="moder" href="/gora/na_gradu/26/1767">Na gradu (1115m)</a>, <a class="moder" href="/gora/ocna/26/1764">Očna (906m)</a>, <a class="moder" href="/gora/planinski_dom_pod_jezo/26/1766">Planinski dom pod Ježo (740m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,40 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/deskle/2025">Deskle</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/korada/2146">Korada</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/ravna_pri_ligu/1589">Ravna pri Ligu</a>, <a class="moder" href="/spletna_kamera/robic/1781">Robič</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>
+<a class="moder" href="/spletna_kamera/ilirska_bistrica/499">Ilirska Bistrica</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/palcje/1578">Palčje</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/petelinjsko_jezero/4191">Petelinjsko jezero</a>, <a class="moder" href="/spletna_kamera/pivka/182">Pivka</a>, <a class="moder" href="/spletna_kamera/pivka/345">Pivka</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fjeza%2f26%2f1763"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjeza%2f26%2f1763"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjeza%2f26%2f1763"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fprimoz%2f26%2f1944"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fprimoz%2f26%2f1944"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fprimoz%2f26%2f1944"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/jeza/1763" title="Ježa 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Jeza.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/jeza/7905" onclick="event.preventDefault(); window.open('/slika_gora/jeza/7905');"><img class="slikagm" alt="Ježa" src="//www.hribi.net/slike1/Jeza 042418880.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/primoz/9428" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9428');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 03036432.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jeza/7906" onclick="event.preventDefault(); window.open('/slika_gora/jeza/7906');"><img class="slikagm" alt="Ježa" src="//www.hribi.net/slike1/Jeza 045418880.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/primoz/9429" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9429');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 03136432.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jeza/7907" onclick="event.preventDefault(); window.open('/slika_gora/jeza/7907');"><img class="slikagm" alt="Ježa" src="//www.hribi.net/slike1/Jeza 047418880.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/primoz/9430" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9430');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 03236432.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jeza/7918" onclick="event.preventDefault(); window.open('/slika_gora/jeza/7918');"><img class="slikagm" alt="Ježa" src="//www.hribi.net/slike1/Jeza 211185130.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/primoz/9431" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9431');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 06250688.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/primoz/9432" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9432');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 06450688.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/primoz/9433" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9433');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 06650688.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/primoz/9434" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9434');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 04664944.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/primoz/9435" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9435');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 05064944.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/primoz/9436" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9436');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 05264944.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/primoz/9437" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9437');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 05464944.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/primoz/9438" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9438');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 05864944.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/primoz/9439" onclick="event.preventDefault(); window.open('/slika_gora/primoz/9439');"><img class="slikagm" alt="Primož" src="//www.hribi.net/slike1/SilenTabor 097101088.th.jpg" /></a>
     
 </div>
 
@@ -919,7 +932,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1763&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1944&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,9 +942,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planinski_dom_pod_jezo_jeza/26/1763/3209">Planinski dom pod Ježo - Ježa</a></td><td class="tdG"><a href="/izlet/planinski_dom_pod_jezo_jeza/26/1763/3209"> 30 min</a></td><td class="tdG"><a href="/izlet/planinski_dom_pod_jezo_jeza/26/1763/3209">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pivka_primoz/26/1944/3632">Pivka - Primož</a></td><td class="tdG"><a href="/izlet/pivka_primoz/26/1944/3632"> 25 min</a></td><td class="tdG"><a href="/izlet/pivka_primoz/26/1944/3632">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/solarji_jeza/26/1763/3205">Solarji - Ježa</a></td><td class="tdG"><a href="/izlet/solarji_jeza/26/1763/3205"> 45 min</a></td><td class="tdG"><a href="/izlet/solarji_jeza/26/1763/3205">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/parje_primoz/26/1944/3633">Parje - Primož</a></td><td class="tdG"><a href="/izlet/parje_primoz/26/1944/3633"> 40 min</a></td><td class="tdG"><a href="/izlet/parje_primoz/26/1944/3633">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Dom na Kališču</title>
-        <meta name="description" content="Natančen opis koče Dom na Kališču in vseh pristopov na Dom na Kališču. Planinski dom na Kališču se nahaja na razglednem grebenu južno od Bašeljskega vr." />
+        <title>Slap Orglice</title>
+        <meta name="description" content="Natančen opis slapa Slap Orglice in vseh pristopov na Slap Orglice. Slap se nahaja v dolini Kamniške Bele. Slap ima pozimi, ko zamrzne obliko Orglic." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./134?gorovjeid=3&amp;id=134" id="form1">
+    <form method="post" action="./357?gorovjeid=3&amp;id=357" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_na_kaliscu/3/134"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=134"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/the_orglice_waterfall/3/357"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=357"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Dom na Kališču
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Slap Orglice
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(134);
+    gorast(357);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Dom na Kališču</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Slap Orglice</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1534&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 870&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,2272'N&nbsp;/&nbsp;14°&nbsp;25,0188'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;19,9908'N&nbsp;/&nbsp;14°&nbsp;37,1208'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;13,63''N&nbsp;/&nbsp;14°&nbsp;25'&nbsp;1,13''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;19'&nbsp;59,45''N&nbsp;/&nbsp;14°&nbsp;37'&nbsp;7,25''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.33712°N&nbsp;/&nbsp;14.41698°E";
+                        document.getElementById("kf0").innerHTML = "46.33318°N&nbsp;/&nbsp;14.61868°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,33712°N,&nbsp;14,41698°E";
+                    document.getElementById("kf0").innerHTML = "46,33318°N,&nbsp;14,61868°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,33712°N&nbsp;14,41698°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_na_kaliscu/134"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,33318°N&nbsp;14,61868°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/slap_orglice/357"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> slap</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Slap Orglice - Torek" href="/vreme_gora/slap_orglice/3/357#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Slap Orglice - Sreda" href="/vreme_gora/slap_orglice/3/357#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Slap Orglice - Četrtek" href="/vreme_gora/slap_orglice/3/357#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Kališču - Petek" href="/vreme_gora/dom_na_kaliscu/3/134#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Slap Orglice - Petek" href="/vreme_gora/slap_orglice/3/357#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Kališču - Sobota" href="/vreme_gora/dom_na_kaliscu/3/134#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Kališču - Nedelja" href="/vreme_gora/dom_na_kaliscu/3/134#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Kališču - Ponedeljek" href="/vreme_gora/dom_na_kaliscu/3/134#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Kališču - Torek" href="/vreme_gora/dom_na_kaliscu/3/134#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Slap Orglice - Sobota" href="/vreme_gora/slap_orglice/3/357#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 661.254</div>
-<div class="g2"><b>Priljubljenost:</b> 97%&nbsp;(92.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">21</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=134" title="Število vpisov v vpisni knjigi">48</a></div>
+<div class="g2"><b>Ogledov:</b> 503.213</div>
+<div class="g2"><b>Priljubljenost:</b> 91%&nbsp;(312.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinski dom na Kališču se nahaja na razglednem grebenu južno od Bašeljskega vrha. Od doma, ki je odprt v razširjeni poletni sezoni, sicer pa ob sobotah, nedeljah in praznikih, se nam odpre lep razgled na Storžič, Bašeljski vrh, Mali Grintovec, greben Laneža, Krvavec in Gorenjsko ravnino. </div>
+<div style="padding-top:10px;"><b>Opis slapa:</b><br />Slap se nahaja v dolini Kamniške Bele. Slap ima pozimi, ko zamrzne obliko Orglic. Pod slapom je manjše jezerce.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=134&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=357&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/baseljski_vrh/3/274">Bašeljski vrh (1744m)</a>, <a class="moder" href="/gora/cjanovca/3/499">Cjanovca (1820m)</a>, <a class="moder" href="/gora/gradisce_pustinjak/3/2358">Gradišče (Pustinjak) (871m)</a>, <a class="moder" href="/gora/licjanovec/3/2582">Licjanovec (1733m)</a>, <a class="moder" href="/gora/mali_grintovec/3/356">Mali Grintovec (1813m)</a>, <a class="moder" href="/gora/planina_dolga_njiva/3/245">Planina Dolga njiva (1600m)</a>, <a class="moder" href="/gora/planina_kalisce/3/467">Planina Kališče (1450m)</a>, <a class="moder" href="/gora/praprotnikova_koca/3/337">Praprotnikova koča (1380m)</a>, <a class="moder" href="/gora/srednji_vrh/3/244">Srednji vrh (1853m)</a>, <a class="moder" href="/gora/storzic/3/85">Storžič (2132m)</a>
+<a class="moder" href="/gora/kamniski_dedec/3/1288">Kamniški Dedec (1583m)</a>, <a class="moder" href="/gora/konj/3/289">Konj (1803m)</a>, <a class="moder" href="/gora/kopa_belska_kopa/3/2303">Kopa (Belska Kopa) (1180m)</a>, <a class="moder" href="/gora/mesenik/3/1995">Mešenik (1099m)</a>, <a class="moder" href="/gora/planina_rzenik/3/408">Planina Rzenik (1654m)</a>, <a class="moder" href="/gora/rzenik/3/154">Rzenik (1833m)</a>, <a class="moder" href="/gora/vezica/3/1579">Vežica (1965m)</a>, <a class="moder" href="/gora/vrsici/3/1578">Vršiči (1980m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,41 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_kaliscu%2f3%2f134"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_kaliscu%2f3%2f134"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_kaliscu%2f3%2f134"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fslap_orglice%2f3%2f357"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fslap_orglice%2f3%2f357"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fslap_orglice%2f3%2f357"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/dom_na_kaliscu/134" title="Dom na Kališču 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.kalisce.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/1099" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/1099');"><img class="slikagm" alt="Dom na Kališču" src="//www.hribi.net/Gora/pa160031mediumvw7.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slap_orglice/1842" onclick="event.preventDefault(); window.open('/slika_gora/slap_orglice/1842');"><img class="slikagm" alt="Slap Orglice" src="//www.hribi.net/sliketemp/orglice13988368.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/1100" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/1100');"><img class="slikagm" alt="Dom na Kališču" src="//www.hribi.net/Gora/pa160028mediumpq1.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/1106" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/1106');"><img class="slikagm" alt="Dom na Kališču" src="//www.hribi.net/Gora/pa160111mediumzc1.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/12338" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/12338');"><img class="slikagm" alt="Dom na Kališču" src="//slike.hribi.net/slike4/2_0350446299837_Kalisce_144.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/12339" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/12339');"><img class="slikagm" alt="Dom na Kališču" src="//www.hribi.net/slike1/Kalisce%2014345864.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/12340" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/12340');"><img class="slikagm" alt="Dom na Kališču" src="//www.hribi.net/slike1/MaliGrintovec%2005597020.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/12341" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/12341');"><img class="slikagm" alt="Dom na Kališču" src="//slike.hribi.net/sliketemp/MaliGrintovec%200595612768.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/12578" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/12578');"><img class="slikagm" alt="Dom na Kališču" src="//slike.hribi.net/slike4/2_1714454965202_BaseljskiVrh_162.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/12579" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/12579');"><img class="slikagm" alt="Dom na Kališču" src="//slike.hribi.net/slike4/2_0292454964926_BaseljskiVrh_112.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/12580" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/12580');"><img class="slikagm" alt="Dom na Kališču" src="//www.hribi.net/slike1/BaseljskiVrh 132582400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kaliscu/18414" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kaliscu/18414');"><img class="slikagm" alt="Dom na Kališču" src="//slike.hribi.net/slike4/2_2128617484727_DSCN8250.JPG" /></a>
+        <a target="_blank" href="/slika_gora/slap_orglice/2250" onclick="event.preventDefault(); window.open('/slika_gora/slap_orglice/2250');"><img class="slikagm" alt="Slap Orglice" src="//www.hribi.net/sliketemp/slap_034103580.th.jpg" /></a>
     
 </div>
 
@@ -933,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=134&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=357&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -943,47 +922,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu/3/134/112">Mače - Dom na Kališču</a></td><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu/3/134/112">2 h 30 min</a></td><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu/3/134/112">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lasko_dom_na_kaliscu/3/134/986">Laško - Dom na Kališču</a></td><td class="tdG"><a href="/izlet/lasko_dom_na_kaliscu/3/134/986">2 h</a></td><td class="tdG"><a href="/izlet/lasko_dom_na_kaliscu/3/134/986">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jekarica_dom_na_kaliscu/3/134/1037">Jekarica - Dom na Kališču</a></td><td class="tdG"><a href="/izlet/jekarica_dom_na_kaliscu/3/134/1037">2 h</a></td><td class="tdG"><a href="/izlet/jekarica_dom_na_kaliscu/3/134/1037">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu/3/134/4771">Bašelj - Dom na Kališču</a></td><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu/3/134/4771">2 h 30 min</a></td><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu/3/134/4771">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu_cez_kozjek/3/134/2663"> Mače - Dom na Kališču (čez Kozjek)</a></td><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu_cez_kozjek/3/134/2663">2 h 45 min</a></td><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu_cez_kozjek/3/134/2663">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_mimo_bolnice_kosuta/3/134/4900">Bašelj - Dom na Kališču (mimo bolnice Košuta)</a></td><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_mimo_bolnice_kosuta/3/134/4900">2 h 40 min</a></td><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_mimo_bolnice_kosuta/3/134/4900">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu_po_dolini_suhe/3/134/2664"> Mače - Dom na Kališču (po dolini Suhe)</a></td><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu_po_dolini_suhe/3/134/2664">2 h 30 min</a></td><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu_po_dolini_suhe/3/134/2664">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_po_gozdni_cesti/3/134/4773">Bašelj - Dom na Kališču (po gozdni cesti)</a></td><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_po_gozdni_cesti/3/134/4773">2 h 30 min</a></td><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_po_gozdni_cesti/3/134/4773">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu_po_cesti/3/134/4892">Mače - Dom na Kališču (po cesti)</a></td><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu_po_cesti/3/134/4892">2 h 30 min</a></td><td class="tdG"><a href="/izlet/mace_dom_na_kaliscu_po_cesti/3/134/4892">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mace__dom_na_kaliscu_mimo_sv_miklavza/3/134/4897">Mače  - Dom na Kališču (mimo sv. Miklavža)</a></td><td class="tdG"><a href="/izlet/mace__dom_na_kaliscu_mimo_sv_miklavza/3/134/4897">2 h 45 min</a></td><td class="tdG"><a href="/izlet/mace__dom_na_kaliscu_mimo_sv_miklavza/3/134/4897">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/babni_vrt_dom_na_kaliscu_mimo_sv_lovrenca/3/134/4898">Babni Vrt - Dom na Kališču (mimo sv. Lovrenca)</a></td><td class="tdG"><a href="/izlet/babni_vrt_dom_na_kaliscu_mimo_sv_lovrenca/3/134/4898">3 h 45 min</a></td><td class="tdG"><a href="/izlet/babni_vrt_dom_na_kaliscu_mimo_sv_lovrenca/3/134/4898">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lasko_dom_na_kaliscu_mimo_sv_lovrenca/3/134/5385">Laško - Dom na Kališču (mimo sv. Lovrenca)</a></td><td class="tdG"><a href="/izlet/lasko_dom_na_kaliscu_mimo_sv_lovrenca/3/134/5385">3 h 15 min</a></td><td class="tdG"><a href="/izlet/lasko_dom_na_kaliscu_mimo_sv_lovrenca/3/134/5385">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_mimo_sv_lovrenca/3/134/5388">Bašelj - Dom na Kališču (mimo sv. Lovrenca)</a></td><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_mimo_sv_lovrenca/3/134/5388">3 h 50 min</a></td><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_mimo_sv_lovrenca/3/134/5388">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/povlje_dom_na_kaliscu/3/134/5405">Povlje - Dom na Kališču</a></td><td class="tdG"><a href="/izlet/povlje_dom_na_kaliscu/3/134/5405">3 h 30 min</a></td><td class="tdG"><a href="/izlet/povlje_dom_na_kaliscu/3/134/5405">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/potoce_dom_na_kaliscu_mimo_sv_jakoba_pod_potosko_goro_in_cez_babo/3/134/5359">Potoče - Dom na Kališču (mimo sv. Jakoba, pod Potoško goro in čez Babo)</a></td><td class="tdG"><a href="/izlet/potoce_dom_na_kaliscu_mimo_sv_jakoba_pod_potosko_goro_in_cez_babo/3/134/5359">5 h</a></td><td class="tdG"><a href="/izlet/potoce_dom_na_kaliscu_mimo_sv_jakoba_pod_potosko_goro_in_cez_babo/3/134/5359">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_pod_storzicem_dom_na_kaliscu_cez_javorniski_preval/3/134/7911">Dom pod Storžičem - Dom na Kališču (čez Javorniški preval)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_dom_na_kaliscu_cez_javorniski_preval/3/134/7911">2 h 45 min</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_dom_na_kaliscu_cez_javorniski_preval/3/134/7911">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_kokra_dom_na_kaliscu/3/134/5365">Spodnja Kokra - Dom na Kališču</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_dom_na_kaliscu/3/134/5365">4 h 15 min</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_dom_na_kaliscu/3/134/5365">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnja_kokra_dom_na_kaliscu_cez_babo/3/134/5364">Spodnja Kokra - Dom na Kališču (čez Babo)</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_dom_na_kaliscu_cez_babo/3/134/5364">4 h 25 min</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_dom_na_kaliscu_cez_babo/3/134/5364">lahka neoznačena steza, lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_pod_storzicem_dom_na_kaliscu_mimo_krnicarjeve_koce_na_planini_javornik/3/134/8112">Dom pod Storžičem - Dom na Kališču (mimo Krničarjeve koče na planini Javornik)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_dom_na_kaliscu_mimo_krnicarjeve_koce_na_planini_javornik/3/134/8112">3 h 15 min</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_dom_na_kaliscu_mimo_krnicarjeve_koce_na_planini_javornik/3/134/8112">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mhe_zabukovec_dom_na_kaliscu/3/134/5698">MHE Zabukovec - Dom na Kališču</a></td><td class="tdG"><a href="/izlet/mhe_zabukovec_dom_na_kaliscu/3/134/5698">3 h</a></td><td class="tdG"><a href="/izlet/mhe_zabukovec_dom_na_kaliscu/3/134/5698">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_po_neoznaceni_poti/3/134/7402">Bašelj - Dom na Kališču (po neoznačeni poti)</a></td><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_po_neoznaceni_poti/3/134/7402">2 h 40 min</a></td><td class="tdG"><a href="/izlet/baselj_dom_na_kaliscu_po_neoznaceni_poti/3/134/7402">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pred_belo_slap_orglice/3/357/494">Pred Belo - Slap Orglice</a></td><td class="tdG"><a href="/izlet/pred_belo_slap_orglice/3/357/494"> 50 min</a></td><td class="tdG"><a href="/izlet/pred_belo_slap_orglice/3/357/494">lahka neoznačena steza</a></td></tr>
 
 </table>
 

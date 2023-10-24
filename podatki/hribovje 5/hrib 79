@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča na Šumiku</title>
-        <meta name="description" content="Natančen opis koče Koča na Šumiku in vseh pristopov na Koča na Šumiku. Gozdarska koča Šumik se nahaja območju naravnega parka Pohorje. Okolica koče je ." />
+        <title>Ribnica na Pohorju</title>
+        <meta name="description" content="Natančen opis koče Ribnica na Pohorju in vseh pristopov na Ribnica na Pohorju. Ribnica na Pohorju je naselje na severnem delu Pohorja. V naselju se nahajajo ga." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./574?gorovjeid=4&amp;id=574" id="form1">
+    <form method="post" action="./3085?gorovjeid=4&amp;id=3085" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_sumiku/4/574"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=574"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ribnica_na_pohorju/4/3085"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3085"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Koča na Šumiku
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Ribnica na Pohorju
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(574);
+    gorast(3085);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča na Šumiku</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Ribnica na Pohorju</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 1100&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 715&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,0922'N&nbsp;/&nbsp;15°&nbsp;26,6454'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;32,1240'N&nbsp;/&nbsp;15°&nbsp;16,0440'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;5,53''N&nbsp;/&nbsp;15°&nbsp;26'&nbsp;38,72''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;32'&nbsp;7,44''N&nbsp;/&nbsp;15°&nbsp;16'&nbsp;2,64''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.48487°N&nbsp;/&nbsp;15.44409°E";
+                        document.getElementById("kf0").innerHTML = "46.5354°N&nbsp;/&nbsp;15.2674°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,48487°N,&nbsp;15,44409°E";
+                    document.getElementById("kf0").innerHTML = "46,5354°N,&nbsp;15,2674°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,48487°N&nbsp;15,44409°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_sumiku/574"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,5354°N&nbsp;15,2674°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ribnica_na_pohorju/3085"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> koča, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Ribnica na Pohorju - Torek" href="/vreme_gora/ribnica_na_pohorju/4/3085#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Ribnica na Pohorju - Sreda" href="/vreme_gora/ribnica_na_pohorju/4/3085#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Ribnica na Pohorju - Četrtek" href="/vreme_gora/ribnica_na_pohorju/4/3085#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Šumiku - Petek" href="/vreme_gora/koca_na_sumiku/4/574#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ribnica na Pohorju - Petek" href="/vreme_gora/ribnica_na_pohorju/4/3085#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Šumiku - Sobota" href="/vreme_gora/koca_na_sumiku/4/574#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Šumiku - Nedelja" href="/vreme_gora/koca_na_sumiku/4/574#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Šumiku - Ponedeljek" href="/vreme_gora/koca_na_sumiku/4/574#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Šumiku - Torek" href="/vreme_gora/koca_na_sumiku/4/574#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ribnica na Pohorju - Sobota" href="/vreme_gora/ribnica_na_pohorju/4/3085#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 395.524</div>
-<div class="g2"><b>Priljubljenost:</b> 80%&nbsp;(660.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
+<div class="g2"><b>Ogledov:</b> 2.810</div>
+<div class="g2"><b>Priljubljenost:</b> 30%&nbsp;(2286.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Gozdarska koča Šumik se nahaja območju naravnega parka Pohorje. Okolica koče je primerna tako za sprehajalce kot kolesarje. </div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Ribnica na Pohorju je naselje na severnem delu Pohorja. V naselju se nahajajo gasilski dom, osnovna šola, župnijska cerkev sv. Jerneja in podružnična cerkev sv. Lenarta, trgovina, več gostinskih lokalov, smučišče...<br>Iz naselja se nam odpre lep pogled na smučišče in okoliške hribe, ob lepi vidljivosti pa razgled seže vse do Golice / Koralpe.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=574&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3085&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/slap_mali_sumik/4/915">Slap Mali Šumik (890m)</a>, <a class="moder" href="/gora/slap_veliki_sumik/4/916">Slap Veliki Šumik (950m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,26 +835,42 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/maribor_radvanje/2098">Maribor (Radvanje)</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/slovenska_bistrica/369">Slovenska Bistrica</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vrhole_pri_slovenskih_konjicah/1428">Vrhole pri Slovenskih Konjicah</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
+<a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/kapunar/1072">Kapunar</a>, <a class="moder" href="/spletna_kamera/koca_pod_kremzarjevim_vrhom/2192">Koča pod Kremžarjevim vrhom</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/radeljski_prelaz/2202">Radeljski prelaz</a>, <a class="moder" href="/spletna_kamera/radlje_ob_dravi/4445">Radlje ob Dravi</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/slovenj_gradec/1600">Slovenj Gradec</a>, <a class="moder" href="/spletna_kamera/smartno_pri_slovenj_gradcu/2963">Šmartno pri Slovenj Gradcu</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornja_kapla/2314">Zgornja Kapla</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_sumiku%2f4%2f574"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_sumiku%2f4%2f574"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_sumiku%2f4%2f574"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fribnica_na_pohorju%2f4%2f3085"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fribnica_na_pohorju%2f4%2f3085"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fribnica_na_pohorju%2f4%2f3085"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_na_sumiku/1687" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_sumiku/1687');"><img class="slikagm" alt="Koča na Šumiku" src="//www.hribi.net/slike1/Picture 0453918694.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18218" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18218');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_0971611256611_DSCN0601.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_sumiku/2439" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_sumiku/2439');"><img class="slikagm" alt="Koča na Šumiku" src="//www.hribi.net/sliketemp/Picture 0244178198.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18219" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18219');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_4718611256878_DSCN0624.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_sumiku/2440" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_sumiku/2440');"><img class="slikagm" alt="Koča na Šumiku" src="//www.hribi.net/sliketemp/P43005124441566.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18220" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18220');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_5584611256881_DSCN0625.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_sumiku/21278" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_sumiku/21278');"><img class="slikagm" alt="Koča na Šumiku" src="//slike2.hribi.net/slike14/2_1338714555589_0dscn1591.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18221" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18221');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_0172610732122_DSCN0626.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_sumiku/22199" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_sumiku/22199');"><img class="slikagm" alt="Koča na Šumiku" src="//slike2.hribi.net/slike14/2_0301743849242_0dscn3722.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18222" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18222');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_1309610732125_DSCN0629.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18223" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18223');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_2447610732128_DSCN0633.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18224" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18224');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_0244611257129_DSCN0627.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18225" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18225');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_1413611257132_DSCN0628.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18226" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18226');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_2801611257134_DSCN0631.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18227" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18227');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_3668611257137_DSCN0634.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18228" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18228');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_4252611257140_DSCN0635.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18229" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18229');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_5389611257143_DSCN0638.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/ribnica_na_pohorju/18230" onclick="event.preventDefault(); window.open('/slika_gora/ribnica_na_pohorju/18230');"><img class="slikagm" alt="Ribnica na Pohorju" src="//slike.hribi.net/slike4/2_0300610732135_DSCN0639.JPG" /></a>
     
 </div>
 
@@ -918,7 +934,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=574&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3085&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -928,19 +944,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_na_osankarici_koca_na_sumiku_mimo_taborisca/4/574/989">Dom na Osankarici - Koča na Šumiku (mimo taborišča)</a></td><td class="tdG"><a href="/izlet/dom_na_osankarici_koca_na_sumiku_mimo_taborisca/4/574/989">1 h 45 min</a></td><td class="tdG"><a href="/izlet/dom_na_osankarici_koca_na_sumiku_mimo_taborisca/4/574/989">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_na_klopnem_vrhu_koca_na_sumiku/4/574/3942">Koča na Klopnem vrhu - Koča na Šumiku</a></td><td class="tdG"><a href="/izlet/koca_na_klopnem_vrhu_koca_na_sumiku/4/574/3942">1 h 30 min</a></td><td class="tdG"><a href="/izlet/koca_na_klopnem_vrhu_koca_na_sumiku/4/574/3942">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_koca_na_sumiku/4/574/8754">Ruška koča na Arehu - Koča na Šumiku</a></td><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_koca_na_sumiku/4/574/8754">2 h</a></td><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_koca_na_sumiku/4/574/8754">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_na_osankarici_koca_na_sumiku_mimo_crnega_jezera/4/574/8753">Dom na Osankarici - Koča na Šumiku (mimo Črnega jezera)</a></td><td class="tdG"><a href="/izlet/dom_na_osankarici_koca_na_sumiku_mimo_crnega_jezera/4/574/8753">1 h 55 min</a></td><td class="tdG"><a href="/izlet/dom_na_osankarici_koca_na_sumiku_mimo_crnega_jezera/4/574/8753">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sveti_trije_kralji_koca_na_sumiku/4/574/8727">Sveti Trije kralji - Koča na Šumiku</a></td><td class="tdG"><a href="/izlet/sveti_trije_kralji_koca_na_sumiku/4/574/8727">2 h</a></td><td class="tdG"><a href="/izlet/sveti_trije_kralji_koca_na_sumiku/4/574/8727">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ruse_koca_na_sumiku_mimo_sv_marije/4/574/9168">Ruše - Koča na Šumiku (mimo sv. Marije)</a></td><td class="tdG"><a href="/izlet/ruse_koca_na_sumiku_mimo_sv_marije/4/574/9168">3 h 10 min</a></td><td class="tdG"><a href="/izlet/ruse_koca_na_sumiku_mimo_sv_marije/4/574/9168">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/smolnik_marotov_most_koca_na_sumiku_po_dolini_lobnice/4/574/9172">Smolnik (Marotov most) - Koča na Šumiku (po dolini Lobnice)</a></td><td class="tdG"><a href="/izlet/smolnik_marotov_most_koca_na_sumiku_po_dolini_lobnice/4/574/9172">2 h 35 min</a></td><td class="tdG"><a href="/izlet/smolnik_marotov_most_koca_na_sumiku_po_dolini_lobnice/4/574/9172">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/janzevski_vrh_uran_ribnica_na_pohorju/4/3085/7307">Janževski Vrh (Uran) - Ribnica na Pohorju</a></td><td class="tdG"><a href="/izlet/janzevski_vrh_uran_ribnica_na_pohorju/4/3085/7307">1 h 40 min</a></td><td class="tdG"><a href="/izlet/janzevski_vrh_uran_ribnica_na_pohorju/4/3085/7307">lahka označena pot</a></td></tr>
 
 </table>
 

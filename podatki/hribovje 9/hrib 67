@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Dražgoška gora</title>
-        <meta name="description" content="Natančen opis gore Dražgoška gora in vseh pristopov na Dražgoška gora. Dražgoška gora se nahaja na južnih obronkih Jelovice in zajema kar obsežno območ." />
+        <title>Škofje</title>
+        <meta name="description" content="Natančen opis gore Škofje in vseh pristopov na Škofje. Škofje so 973 m visok vrh, ki se nahaja nad vasmi Čeplez, Planina pri Cerknem in." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2885?gorovjeid=21&amp;id=2885" id="form1">
+    <form method="post" action="./1711?gorovjeid=21&amp;id=1711" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/drazgoska_gora/21/2885"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=2885"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/skofje/21/1711"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1711"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Dražgoška gora
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Škofje
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2885);
+    gorast(1711);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Dražgoška gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Škofje</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1140&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 973&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,5100'N&nbsp;/&nbsp;14°&nbsp;10,2420'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;7,8900'N&nbsp;/&nbsp;14°&nbsp;1,4100'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;30,60''N&nbsp;/&nbsp;14°&nbsp;10'&nbsp;14,52''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;7'&nbsp;53,40''N&nbsp;/&nbsp;14°&nbsp;1'&nbsp;24,60''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.2585°N&nbsp;/&nbsp;14.1707°E";
+                        document.getElementById("kf0").innerHTML = "46.1315°N&nbsp;/&nbsp;14.0235°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,2585°N,&nbsp;14,1707°E";
+                    document.getElementById("kf0").innerHTML = "46,1315°N,&nbsp;14,0235°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2585°N&nbsp;14,1707°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/drazgoska_gora/2885"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1315°N&nbsp;14,0235°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/skofje/1711"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Škofje - Torek" href="/vreme_gora/skofje/21/1711#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Škofje - Sreda" href="/vreme_gora/skofje/21/1711#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Škofje - Četrtek" href="/vreme_gora/skofje/21/1711#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Dražgoška gora - Petek" href="/vreme_gora/drazgoska_gora/21/2885#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Škofje - Petek" href="/vreme_gora/skofje/21/1711#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Dražgoška gora - Sobota" href="/vreme_gora/drazgoska_gora/21/2885#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Dražgoška gora - Nedelja" href="/vreme_gora/drazgoska_gora/21/2885#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Dražgoška gora - Ponedeljek" href="/vreme_gora/drazgoska_gora/21/2885#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Dražgoška gora - Torek" href="/vreme_gora/drazgoska_gora/21/2885#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Škofje - Sobota" href="/vreme_gora/skofje/21/1711#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 8.580</div>
-<div class="g2"><b>Priljubljenost:</b> 37%&nbsp;(2064.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Ogledov:</b> 197.055</div>
+<div class="g2"><b>Priljubljenost:</b> 57%&nbsp;(1397.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Dražgoška gora se nahaja na južnih obronkih Jelovice in zajema kar obsežno območje severozahodno od Dražgoš. Ime Dražgoška gora pa se uporablja tudi za lepo razgledno točko in vzletišče jadralnih padalcev neposredno na Dražgošami. Ob razgledni točki oz. vzletišču se nahaja nekaj miz s klopmi, ob robu gozda pa še vpisna skrinjica z vpisno knjigo. Z Dražgoške gore je lep pogled proti hribom nad Selško dolino.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Škofje so 973 m visok vrh, ki se nahaja nad vasmi Čeplez, Planina pri Cerknem in Podpleče. Sam vrh, na katerem stoji manjši betonski steber, je sicer poraščen z gozdom, se nam pa s travnatega slemena malo pod vrhom, odpira lep razgled na Porezen, Kojco, del Spodnjih Bohinjskih gora in vrhove Škofjeloškega in Cerkljanskega hribovja.<br>Vrh ima vpisno skrinjico z vpisno knjigo in žigom, nekoliko pod vrhom v smeri proti zahodu pa se nahaja še lesen bivak.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2885&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1711&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bickova_skala/21/2859">Bičkova skala (1012m)</a>, <a class="moder" href="/gora/planina_kalisnik/21/2886">Planina Kališnik (1180m)</a>, <a class="moder" href="/gora/sleme_povrsnica/21/2851">Sleme (Površnica) (883m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,43 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdrazgoska_gora%2f21%2f2885"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdrazgoska_gora%2f21%2f2885"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdrazgoska_gora%2f21%2f2885"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fskofje%2f21%2f1711"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fskofje%2f21%2f1711"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fskofje%2f21%2f1711"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/drazgoska_gora/2885" title="Dražgoška gora 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.31119587420drazgoska_gora.jpg" /></a></div>
+<div><a href="/panorama/360/skofje/1711" title="Škofje 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Skofje.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/drazgoska_gora/16641" onclick="event.preventDefault(); window.open('/slika_gora/drazgoska_gora/16641');"><img class="slikagm" alt="Dražgoška gora" src="//slike.hribi.net/slike4/2_0138574011477_DSCN6809.JPG" /></a>
+        <a target="_blank" href="/slika_gora/skofje/7576" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7576');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje 1979504.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/drazgoska_gora/16642" onclick="event.preventDefault(); window.open('/slika_gora/drazgoska_gora/16642');"><img class="slikagm" alt="Dražgoška gora" src="//slike.hribi.net/slike4/2_490574682159_DSCN6797.JPG" /></a>
+        <a target="_blank" href="/slika_gora/skofje/7577" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7577');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje 1999504.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/drazgoska_gora/16643" onclick="event.preventDefault(); window.open('/slika_gora/drazgoska_gora/16643');"><img class="slikagm" alt="Dražgoška gora" src="//slike.hribi.net/slike4/2_0299574682518_DSCN6808.JPG" /></a>
+        <a target="_blank" href="/slika_gora/skofje/7578" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7578');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje%201446534.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/drazgoska_gora/16644" onclick="event.preventDefault(); window.open('/slika_gora/drazgoska_gora/16644');"><img class="slikagm" alt="Dražgoška gora" src="//slike.hribi.net/slike4/2_1625574682521_DSCN6811.JPG" /></a>
+        <a target="_blank" href="/slika_gora/skofje/7579" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7579');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje%201859504.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/skofje/7580" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7580');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje%20420440440.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/skofje/7581" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7581');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje%20018301840.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/skofje/7696" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7696');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Blegos 193147840.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/skofje/14359" onclick="event.preventDefault(); window.open('/slika_gora/skofje/14359');"><img class="slikagm" alt="Škofje" src="//slike.hribi.net/slike4/2_0608510655746_DSCN2634.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/skofje/14360" onclick="event.preventDefault(); window.open('/slika_gora/skofje/14360');"><img class="slikagm" alt="Škofje" src="//slike.hribi.net/slike4/2_1247510655748_DSCN2666.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/skofje/18270" onclick="event.preventDefault(); window.open('/slika_gora/skofje/18270');"><img class="slikagm" alt="Škofje" src="//slike.hribi.net/slike4/2_0103611772202_DSCN1405.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/skofje/18271" onclick="event.preventDefault(); window.open('/slika_gora/skofje/18271');"><img class="slikagm" alt="Škofje" src="//slike.hribi.net/slike4/2_0480611772371_DSCN1472.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/skofje/19108" onclick="event.preventDefault(); window.open('/slika_gora/skofje/19108');"><img class="slikagm" alt="Škofje" src="//slike.hribi.net/slike4/2_1245637255123_DSCN4826.JPG" /></a>
     
 </div>
 
@@ -919,7 +935,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2885&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1711&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,9 +945,23 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/drazgose_na_peceh_drazgoska_gora/21/2885/6712">Dražgoše (Na Pečeh) - Dražgoška gora</a></td><td class="tdG"><a href="/izlet/drazgose_na_peceh_drazgoska_gora/21/2885/6712"> 50 min</a></td><td class="tdG"><a href="/izlet/drazgose_na_peceh_drazgoska_gora/21/2885/6712">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/cerkno_skofje/21/1711/3099">Cerkno - Škofje</a></td><td class="tdG"><a href="/izlet/cerkno_skofje/21/1711/3099">1 h 45 min</a></td><td class="tdG"><a href="/izlet/cerkno_skofje/21/1711/3099">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/drazgose_jelensce_drazgoska_gora/21/2885/6711">Dražgoše (Jelenšče) - Dražgoška gora</a></td><td class="tdG"><a href="/izlet/drazgose_jelensce_drazgoska_gora/21/2885/6711"> 30 min</a></td><td class="tdG"><a href="/izlet/drazgose_jelensce_drazgoska_gora/21/2885/6711">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podlanisce_skofje/21/1711/3098">Podlanišče - Škofje</a></td><td class="tdG"><a href="/izlet/podlanisce_skofje/21/1711/3098">1 h 10 min</a></td><td class="tdG"><a href="/izlet/podlanisce_skofje/21/1711/3098">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/sovodenj_skofje_razgledna_pot/21/1711/6638">Sovodenj - Škofje (razgledna pot)</a></td><td class="tdG"><a href="/izlet/sovodenj_skofje_razgledna_pot/21/1711/6638">3 h 15 min</a></td><td class="tdG"><a href="/izlet/sovodenj_skofje_razgledna_pot/21/1711/6638">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kopacnica_skofje_po_dolini_podkovscice/21/1711/5811">Kopačnica - Škofje (po dolini Podkovščice)</a></td><td class="tdG"><a href="/izlet/kopacnica_skofje_po_dolini_podkovscice/21/1711/5811">2 h 45 min</a></td><td class="tdG"><a href="/izlet/kopacnica_skofje_po_dolini_podkovscice/21/1711/5811">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gorenji_novaki_mrovlje_skofje/21/1711/7311">Gorenji Novaki (Mrovlje) - Škofje</a></td><td class="tdG"><a href="/izlet/gorenji_novaki_mrovlje_skofje/21/1711/7311">1 h</a></td><td class="tdG"><a href="/izlet/gorenji_novaki_mrovlje_skofje/21/1711/7311">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/sovodenj_skofje_skozi_miklavzevo_grapo/21/1711/6636">Sovodenj - Škofje (skozi Miklavževo grapo)</a></td><td class="tdG"><a href="/izlet/sovodenj_skofje_skozi_miklavzevo_grapo/21/1711/6636">2 h 55 min</a></td><td class="tdG"><a href="/izlet/sovodenj_skofje_skozi_miklavzevo_grapo/21/1711/6636">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje_strma_pot/21/1711/7313">Dolenji Novaki (Pod Kovkom) - Škofje (strma pot)</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje_strma_pot/21/1711/7313">1 h 40 min</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje_strma_pot/21/1711/7313">lahka označena pot, lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/cerkno_skofje_po_neoznaceni_poti/21/1711/7315">Cerkno - Škofje (po neoznačeni poti)</a></td><td class="tdG"><a href="/izlet/cerkno_skofje_po_neoznaceni_poti/21/1711/7315">1 h 45 min</a></td><td class="tdG"><a href="/izlet/cerkno_skofje_po_neoznaceni_poti/21/1711/7315">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje/21/1711/7314">Dolenji Novaki (Pod Kovkom) - Škofje</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje/21/1711/7314">2 h</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje/21/1711/7314">lahka označena pot</a></td></tr>
 
 </table>
 

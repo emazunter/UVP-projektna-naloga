@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planina Dovška Rožca</title>
-        <meta name="description" content="Natančen opis koče Planina Dovška Rožca in vseh pristopov na Planina Dovška Rožca. Dovška Rožca je razgledna planina, ki se nahaja na jugozahodnih pobočjih 1891 m ." />
+        <title>Potoška planina</title>
+        <meta name="description" content="Natančen opis koče Potoška planina in vseh pristopov na Potoška planina. Prijetna planina se nahaja pod Potoškim Stolom in blizu Valvasorjevega doma. S p." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./276?gorovjeid=11&amp;id=276" id="form1">
+    <form method="post" action="./152?gorovjeid=11&amp;id=152" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_dovska_rozca/11/276"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=276"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/potoska_planina/11/152"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=152"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Planina Dovška Rožca
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Potoška planina
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(276);
+    gorast(152);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planina Dovška Rožca</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Potoška planina</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1650&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1270&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;28,9620'N&nbsp;/&nbsp;13°&nbsp;59,2332'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,9572'N&nbsp;/&nbsp;14°&nbsp;8,0814'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;28'&nbsp;57,72''N&nbsp;/&nbsp;13°&nbsp;59'&nbsp;13,99''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;57,43''N&nbsp;/&nbsp;14°&nbsp;8'&nbsp;4,88''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.4827°N&nbsp;/&nbsp;13.98722°E";
+                        document.getElementById("kf0").innerHTML = "46.43262°N&nbsp;/&nbsp;14.13469°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,4827°N,&nbsp;13,98722°E";
+                    document.getElementById("kf0").innerHTML = "46,43262°N,&nbsp;14,13469°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4827°N&nbsp;13,98722°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_dovska_rozca/276"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43262°N&nbsp;14,13469°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/potoska_planina/152"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> koča, planina</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Potoška planina - Torek" href="/vreme_gora/potoska_planina/11/152#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Potoška planina - Sreda" href="/vreme_gora/potoska_planina/11/152#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Potoška planina - Četrtek" href="/vreme_gora/potoska_planina/11/152#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Dovška Rožca - Petek" href="/vreme_gora/planina_dovska_rozca/11/276#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Potoška planina - Petek" href="/vreme_gora/potoska_planina/11/152#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Dovška Rožca - Sobota" href="/vreme_gora/planina_dovska_rozca/11/276#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Dovška Rožca - Nedelja" href="/vreme_gora/planina_dovska_rozca/11/276#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Dovška Rožca - Ponedeljek" href="/vreme_gora/planina_dovska_rozca/11/276#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Dovška Rožca - Torek" href="/vreme_gora/planina_dovska_rozca/11/276#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Potoška planina - Sobota" href="/vreme_gora/potoska_planina/11/152#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 442.319</div>
-<div class="g2"><b>Priljubljenost:</b> 85%&nbsp;(497.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=276" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Ogledov:</b> 430.642</div>
+<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(540.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=152" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Dovška Rožca je razgledna planina, ki se nahaja na jugozahodnih pobočjih 1891 m visoke Dovške Babe. S planine na kateri stoji pastirska koča odprtega tipa, se nam odpre lep razgled na najvišje vrhove Julijskih Alp, del zahodnih Karavank in delu Gornjesavske doline.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Prijetna planina se nahaja pod Potoškim Stolom in blizu Valvasorjevega doma. S planine je razgled le proti jugu na druge strani pa ga ovira gozd. Če gremo na spodnji del planine bomo lahko opazili tudi del Potoškega Stola. Na planini stoji koča in ob njej prijeten studenček.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=276&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=152&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bela_pec_nad_dovjem/11/3271">Bela peč (nad Dovjem) (1460m)</a>, <a class="moder" href="/gora/blazceva_skala/11/3273">Blažčeva skala (1091m)</a>, <a class="moder" href="/gora/dovska_baba/11/275">Dovška Baba (1891m)</a>, <a class="moder" href="/gora/erjavcev_rovt_planina_mlinca/11/2437">Erjavčev rovt (Planina Mlinca) (1105m)</a>, <a class="moder" href="/gora/hruski_vrh/11/360">Hruški vrh (1776m)</a>, <a class="moder" href="/gora/koprivnjak___kleiner_frauenkogel/11/1262">Koprivnjak / Kleiner Frauenkogel (1754m)</a>, <a class="moder" href="/gora/lovska_koca_na_brvogih/11/1519">Lovska koča na Brvogih (1425m)</a>, <a class="moder" href="/gora/planina_goreljse/11/3272">Planina Goreljše (1125m)</a>
+<a class="moder" href="/gora/ajdna/11/498">Ajdna (1046m)</a>, <a class="moder" href="/gora/alnicje/11/1265">Alničje (1145m)</a>, <a class="moder" href="/gora/bivak_na_belscici/11/377">Bivak na Belščici (1750m)</a>, <a class="moder" href="/gora/mali_vrh/11/1123">Mali vrh (2017m)</a>, <a class="moder" href="/gora/malnez/11/1407">Malnež (846m)</a>, <a class="moder" href="/gora/potoski_stol/11/480">Potoški Stol (2014m)</a>, <a class="moder" href="/gora/smolnik/11/1415">Smolnik (1075m)</a>, <a class="moder" href="/gora/vajnez/11/376">Vajnež (2104m)</a>, <a class="moder" href="/gora/valvasorjev_dom_pod_stolom/11/382">Valvasorjev dom pod Stolom (1181m)</a>, <a class="moder" href="/gora/zirovniska_planina/11/381">Žirovniška planina (1200m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,35 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/basko_jezero___faakersee/253">Baško jezero / Faakersee</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/wernberg_-_duel/4621">Wernberg - Duel</a>
+<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_dovska_rozca%2f11%2f276"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_dovska_rozca%2f11%2f276"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_dovska_rozca%2f11%2f276"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpotoska_planina%2f11%2f152"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpotoska_planina%2f11%2f152"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpotoska_planina%2f11%2f152"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/planina_dovska_rozca/276" title="Planina Dovška Rožca 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninaDovskaRozca.jpg" /></a></div>
+<div><a href="/panorama/360/potoska_planina/152" title="Potoška planina 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.potoskaPlanina.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planina_dovska_rozca/329" onclick="event.preventDefault(); window.open('/slika_gora/planina_dovska_rozca/329');"><img class="slikagm" alt="Planina Dovška Rožca" src="//www.hribi.net/Gora/p6110064medium1rv.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/potoska_planina/115" onclick="event.preventDefault(); window.open('/slika_gora/potoska_planina/115');"><img class="slikagm" alt="Potoška planina" src="//www.hribi.net/Gora/p5080074medium2vq.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_dovska_rozca/330" onclick="event.preventDefault(); window.open('/slika_gora/planina_dovska_rozca/330');"><img class="slikagm" alt="Planina Dovška Rožca" src="//www.hribi.net/Gora/p6110068medium6ia.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/potoska_planina/1216" onclick="event.preventDefault(); window.open('/slika_gora/potoska_planina/1216');"><img class="slikagm" alt="Potoška planina" src="//www.hribi.net/Gora/p1010126mediumvs0.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_dovska_rozca/4319" onclick="event.preventDefault(); window.open('/slika_gora/planina_dovska_rozca/4319');"><img class="slikagm" alt="Planina Dovška Rožca" src="//www.hribi.net/sliketemp/P52400695003314.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/potoska_planina/1217" onclick="event.preventDefault(); window.open('/slika_gora/potoska_planina/1217');"><img class="slikagm" alt="Potoška planina" src="//www.hribi.net/Gora/p1010125mediumkj8.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_dovska_rozca/4322" onclick="event.preventDefault(); window.open('/slika_gora/planina_dovska_rozca/4322');"><img class="slikagm" alt="Planina Dovška Rožca" src="//www.hribi.net/slike1/P5240072363375.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/potoska_planina/1218" onclick="event.preventDefault(); window.open('/slika_gora/potoska_planina/1218');"><img class="slikagm" alt="Potoška planina" src="//www.hribi.net/Gora/p1010144mediumij8.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_dovska_rozca/4323" onclick="event.preventDefault(); window.open('/slika_gora/planina_dovska_rozca/4323');"><img class="slikagm" alt="Planina Dovška Rožca" src="//www.hribi.net/slike1/P5240043363375.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/potoska_planina/9061" onclick="event.preventDefault(); window.open('/slika_gora/potoska_planina/9061');"><img class="slikagm" alt="Potoška planina" src="//www.hribi.net/slike1/Ajdna 116338800.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_dovska_rozca/6115" onclick="event.preventDefault(); window.open('/slika_gora/planina_dovska_rozca/6115');"><img class="slikagm" alt="Planina Dovška Rožca" src="//www.hribi.net/slike1/P6230125849600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_dovska_rozca/6116" onclick="event.preventDefault(); window.open('/slika_gora/planina_dovska_rozca/6116');"><img class="slikagm" alt="Planina Dovška Rožca" src="//www.hribi.net/slike1/P6230121849600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_dovska_rozca/6117" onclick="event.preventDefault(); window.open('/slika_gora/planina_dovska_rozca/6117');"><img class="slikagm" alt="Planina Dovška Rožca" src="//www.hribi.net/slike1/P623012737440.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/potoska_planina/9062" onclick="event.preventDefault(); window.open('/slika_gora/potoska_planina/9062');"><img class="slikagm" alt="Potoška planina" src="//www.hribi.net/slike1/Ajdna 118338800.th.jpg" /></a>
     
 </div>
 
@@ -927,7 +923,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=276&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=152&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,17 +933,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ravne_planina_dovska_rozca_pes_pot/11/276/395">Ravne - Planina Dovška Rožca (peš pot)</a></td><td class="tdG"><a href="/izlet/ravne_planina_dovska_rozca_pes_pot/11/276/395">1 h 10 min</a></td><td class="tdG"><a href="/izlet/ravne_planina_dovska_rozca_pes_pot/11/276/395">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/poljana_zavrsnica_potoska_planina_po_cesti/11/152/808">Poljana (Završnica) - Potoška planina (po cesti)</a></td><td class="tdG"><a href="/izlet/poljana_zavrsnica_potoska_planina_po_cesti/11/152/808">2 h 15 min</a></td><td class="tdG"><a href="/izlet/poljana_zavrsnica_potoska_planina_po_cesti/11/152/808">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dovje_planina_dovska_rozca/11/276/2117">Dovje - Planina Dovška Rožca</a></td><td class="tdG"><a href="/izlet/dovje_planina_dovska_rozca/11/276/2117">2 h 25 min</a></td><td class="tdG"><a href="/izlet/dovje_planina_dovska_rozca/11/276/2117">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/poljana_zavrsnica_potoska_planina_mimo_valvasorjevega_doma/11/152/3515">Poljana (Završnica) - Potoška planina (mimo Valvasorjevega doma)</a></td><td class="tdG"><a href="/izlet/poljana_zavrsnica_potoska_planina_mimo_valvasorjevega_doma/11/152/3515">1 h 50 min</a></td><td class="tdG"><a href="/izlet/poljana_zavrsnica_potoska_planina_mimo_valvasorjevega_doma/11/152/3515">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ravne_planina_dovska_rozca_po_cesti/11/276/396"> Ravne - Planina Dovška Rožca (po cesti)</a></td><td class="tdG"><a href="/izlet/ravne_planina_dovska_rozca_po_cesti/11/276/396">1 h 15 min</a></td><td class="tdG"><a href="/izlet/ravne_planina_dovska_rozca_po_cesti/11/276/396">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/koroska_bela_potoska_planina_cez_spodnje_rovte/11/152/5253">Koroška Bela - Potoška planina (čez Spodnje rovte)</a></td><td class="tdG"><a href="/izlet/koroska_bela_potoska_planina_cez_spodnje_rovte/11/152/5253">2 h</a></td><td class="tdG"><a href="/izlet/koroska_bela_potoska_planina_cez_spodnje_rovte/11/152/5253">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/erjavcev_rovt_planina_dovska_rozca_cez_brvog/11/276/2617">Erjavčev rovt - Planina Dovška Rožca (čez Brvog)</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_planina_dovska_rozca_cez_brvog/11/276/2617">2 h 15 min</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_planina_dovska_rozca_cez_brvog/11/276/2617">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/erjavcev_rovt_planina_dovska_rozca_direktna_pot/11/276/2621"> Erjavčev rovt - Planina Dovška Rožca (direktna pot)</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_planina_dovska_rozca_direktna_pot/11/276/2621">1 h 40 min</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_planina_dovska_rozca_direktna_pot/11/276/2621">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dovje_planina_dovska_rozca_cez_blazcevo_skalo/11/276/7813"> Dovje - Planina Dovška Rožca (čez Blažčevo skalo)</a></td><td class="tdG"><a href="/izlet/dovje_planina_dovska_rozca_cez_blazcevo_skalo/11/276/7813">2 h 40 min</a></td><td class="tdG"><a href="/izlet/dovje_planina_dovska_rozca_cez_blazcevo_skalo/11/276/7813">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/koroska_bela_rc_kres_potoska_planina_lovska_pot_cez_skalo/11/152/5259">Koroška Bela (RC Kres) - Potoška planina (lovska pot čez skalo)</a></td><td class="tdG"><a href="/izlet/koroska_bela_rc_kres_potoska_planina_lovska_pot_cez_skalo/11/152/5259">2 h</a></td><td class="tdG"><a href="/izlet/koroska_bela_rc_kres_potoska_planina_lovska_pot_cez_skalo/11/152/5259">delno zahtevna neoznačena pot</a></td></tr>
 
 </table>
 

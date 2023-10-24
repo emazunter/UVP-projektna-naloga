@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Zalka</title>
-        <meta name="description" content="Natančen opis gore Zalka in vseh pristopov na Zalka. Zalka je 362 metrov visok vrh na Goričkem, ki se nahaja severovzhodno od Kuzme. ." />
+        <title>Fuks graba</title>
+        <meta name="description" content="Natančen opis gore Fuks graba in vseh pristopov na Fuks graba. Fuks graba je gozdna učna pot v Fuksovi grabi, ki se nahaja ob vznožju Korovske ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3452?gorovjeid=163&amp;id=3452" id="form1">
+    <form method="post" action="./3456?gorovjeid=163&amp;id=3456" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/zalka/163/3452"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3452"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/fuks_graba/163/3456"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3456"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Zalka
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Fuks graba
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3452);
+    gorast(3456);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Zalka</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Fuks graba</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a></div>
-    <div class="g2"><b>Višina:</b> 362&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 305&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;50,9970'N&nbsp;/&nbsp;16°&nbsp;6,7284'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;44,7744'N&nbsp;/&nbsp;16°&nbsp;0,4452'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;50'&nbsp;59,82''N&nbsp;/&nbsp;16°&nbsp;6'&nbsp;43,70''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;44'&nbsp;46,46''N&nbsp;/&nbsp;16°&nbsp;0'&nbsp;26,71''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.84995°N&nbsp;/&nbsp;16.11214°E";
+                        document.getElementById("kf0").innerHTML = "46.74624°N&nbsp;/&nbsp;16.00742°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,84995°N,&nbsp;16,11214°E";
+                    document.getElementById("kf0").innerHTML = "46,74624°N,&nbsp;16,00742°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,84995°N&nbsp;16,11214°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zalka/3452"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,74624°N&nbsp;16,00742°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/fuks_graba/3456"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Fuks graba - Torek" href="/vreme_gora/fuks_graba/163/3456#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Fuks graba - Sreda" href="/vreme_gora/fuks_graba/163/3456#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Fuks graba - Četrtek" href="/vreme_gora/fuks_graba/163/3456#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Zalka - Petek" href="/vreme_gora/zalka/163/3452#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Fuks graba - Petek" href="/vreme_gora/fuks_graba/163/3456#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Zalka - Sobota" href="/vreme_gora/zalka/163/3452#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Zalka - Nedelja" href="/vreme_gora/zalka/163/3452#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Zalka - Ponedeljek" href="/vreme_gora/zalka/163/3452#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Zalka - Torek" href="/vreme_gora/zalka/163/3452#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Fuks graba - Sobota" href="/vreme_gora/fuks_graba/163/3456#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 233</div>
-<div class="g2"><b>Priljubljenost:</b> 11%&nbsp;(2937.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 328</div>
+<div class="g2"><b>Priljubljenost:</b> 13%&nbsp;(2868.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Zalka je 362 metrov visok vrh na Goričkem, ki se nahaja severovzhodno od Kuzme. Vrh se nahaja v gozdu, se nam pa vseeno odpre nekaj razgleda.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Fuks graba je gozdna učna pot v Fuksovi grabi, ki se nahaja ob vznožju Korovske gore.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3452&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3456&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bogin_breg/163/3453">Bogin breg (371m)</a>, <a class="moder" href="/gora/evharisticni_kriz_v_trdkovi/163/3445">Evharistični križ v Trdkovi (388m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,18 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/cepinci/1951">Čepinci</a>, <a class="moder" href="/spletna_kamera/jennersdorf_binderberg_in_oberhenndorf/4338">Jennersdorf (Binderberg in Oberhenndorf)</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/sotinski_breg_kugla/2170">Sotinski breg (Kugla)</a>
+<a class="moder" href="/spletna_kamera/gederovci/1846">Gederovci</a>, <a class="moder" href="/spletna_kamera/kapelski_vrh/3199">Kapelski Vrh</a>, <a class="moder" href="/spletna_kamera/klochberg/2512">Klöchberg</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/lomanose/1069">Lomanoše</a>, <a class="moder" href="/spletna_kamera/radgonski_grad/2511">Radgonski grad</a>, <a class="moder" href="/spletna_kamera/sotinski_breg_kugla/2170">Sotinski breg (Kugla)</a>, <a class="moder" href="/spletna_kamera/straden_-_saziani/4884">Straden - Saziani</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzalka%2f163%2f3452"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzalka%2f163%2f3452"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzalka%2f163%2f3452"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ffuks_graba%2f163%2f3456"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ffuks_graba%2f163%2f3456"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ffuks_graba%2f163%2f3456"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/zalka/20525" onclick="event.preventDefault(); window.open('/slika_gora/zalka/20525');"><img class="slikagm" alt="Zalka" src="//slike2.hribi.net/slike14/2_0660687395215_1dscn6259.jpg" /></a>
+        <a target="_blank" href="/slika_gora/fuks_graba/20566" onclick="event.preventDefault(); window.open('/slika_gora/fuks_graba/20566');"><img class="slikagm" alt="Fuks graba" src="//slike2.hribi.net/slike14/2_10797690557359_9dscn7946.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/fuks_graba/20567" onclick="event.preventDefault(); window.open('/slika_gora/fuks_graba/20567');"><img class="slikagm" alt="Fuks graba" src="//slike2.hribi.net/slike14/2_0811690538625_0dscn7894.jpg" /></a>
     
 </div>
 
@@ -910,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3452&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3456&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -920,9 +922,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trdkova_zalka/163/3452/8300">Trdkova - Zalka</a></td><td class="tdG"><a href="/izlet/trdkova_zalka/163/3452/8300"> 18 min</a></td><td class="tdG"><a href="/izlet/trdkova_zalka/163/3452/8300">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kuzma_zalka/163/3452/8306">Kuzma - Zalka</a></td><td class="tdG"><a href="/izlet/kuzma_zalka/163/3452/8306"> 52 min</a></td><td class="tdG"><a href="/izlet/kuzma_zalka/163/3452/8306">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/korovci_fuks_graba/163/3456/8331">Korovci - Fuks graba</a></td><td class="tdG"><a href="/izlet/korovci_fuks_graba/163/3456/8331"> 35 min</a></td><td class="tdG"><a href="/izlet/korovci_fuks_graba/163/3456/8331">lahka neoznačena steza</a></td></tr>
 
 </table>
 

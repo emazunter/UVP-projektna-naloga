@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Škofje</title>
-        <meta name="description" content="Natančen opis gore Škofje in vseh pristopov na Škofje. Škofje so 973 m visok vrh, ki se nahaja nad vasmi Čeplez, Planina pri Cerknem in." />
+        <title>Grad Divja Loka (Stari grad)</title>
+        <meta name="description" content="Natančen opis gore Grad Divja Loka (Stari grad) in vseh pristopov na Grad Divja Loka (Stari grad). Grad Divja Loka, oz. tudi Stari grad nad Škofjo Loko se nahaja na manjši vzpetin." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1711?gorovjeid=21&amp;id=1711" id="form1">
+    <form method="post" action="./1731?gorovjeid=21&amp;id=1731" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/skofje/21/1711"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1711"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/divja_loka_castle_stari_grad/21/1731"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1731"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Škofje
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Grad Divja Loka (Stari grad)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1711);
+    gorast(1731);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Škofje</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Grad Divja Loka (Stari grad)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 973&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 502&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;7,8900'N&nbsp;/&nbsp;14°&nbsp;1,4100'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;9,7320'N&nbsp;/&nbsp;14°&nbsp;17,0520'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;7'&nbsp;53,40''N&nbsp;/&nbsp;14°&nbsp;1'&nbsp;24,60''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;9'&nbsp;43,92''N&nbsp;/&nbsp;14°&nbsp;17'&nbsp;3,12''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.1315°N&nbsp;/&nbsp;14.0235°E";
+                        document.getElementById("kf0").innerHTML = "46.1622°N&nbsp;/&nbsp;14.2842°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,1315°N,&nbsp;14,0235°E";
+                    document.getElementById("kf0").innerHTML = "46,1622°N,&nbsp;14,2842°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1315°N&nbsp;14,0235°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/skofje/1711"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1622°N&nbsp;14,2842°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/grad_divja_loka_stari_grad/1731"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Divja Loka (Stari grad) - Torek" href="/vreme_gora/grad_divja_loka_stari_grad/21/1731#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Divja Loka (Stari grad) - Sreda" href="/vreme_gora/grad_divja_loka_stari_grad/21/1731#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Divja Loka (Stari grad) - Četrtek" href="/vreme_gora/grad_divja_loka_stari_grad/21/1731#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Škofje - Petek" href="/vreme_gora/skofje/21/1711#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Divja Loka (Stari grad) - Petek" href="/vreme_gora/grad_divja_loka_stari_grad/21/1731#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Škofje - Sobota" href="/vreme_gora/skofje/21/1711#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Škofje - Nedelja" href="/vreme_gora/skofje/21/1711#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Škofje - Ponedeljek" href="/vreme_gora/skofje/21/1711#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Škofje - Torek" href="/vreme_gora/skofje/21/1711#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Divja Loka (Stari grad) - Sobota" href="/vreme_gora/grad_divja_loka_stari_grad/21/1731#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 197.045</div>
-<div class="g2"><b>Priljubljenost:</b> 57%&nbsp;(1397.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 237.098</div>
+<div class="g2"><b>Priljubljenost:</b> 62%&nbsp;(1243.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Škofje so 973 m visok vrh, ki se nahaja nad vasmi Čeplez, Planina pri Cerknem in Podpleče. Sam vrh, na katerem stoji manjši betonski steber, je sicer poraščen z gozdom, se nam pa s travnatega slemena malo pod vrhom, odpira lep razgled na Porezen, Kojco, del Spodnjih Bohinjskih gora in vrhove Škofjeloškega in Cerkljanskega hribovja.<br>Vrh ima vpisno skrinjico z vpisno knjigo in žigom, nekoliko pod vrhom v smeri proti zahodu pa se nahaja še lesen bivak.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Grad Divja Loka, oz. tudi Stari grad nad Škofjo Loko se nahaja na manjši vzpetini severno od Nemškega griča. Grad se prvič omenja leta 1202, od takrat je bil še nekajkrat obnovljen, nato pa je postopoma začel propadati. Danes so od gradu ostale le še razmeroma dobro ohranjene ruševine.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1711&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1731&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/krancelj/21/1730">Krancelj (453m)</a>, <a class="moder" href="/gora/sveti_lovrenc_na_lovrenski_gori/21/483">Sveti Lovrenc na Lovrenški gori (580m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,43 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/katarina_nad_ljubljano/314">Katarina nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/medvode/184">Medvode</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zbiljsko_jezero/2165">Zbiljsko jezero</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fskofje%2f21%2f1711"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fskofje%2f21%2f1711"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fskofje%2f21%2f1711"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_divja_loka_stari_grad%2f21%2f1731"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_divja_loka_stari_grad%2f21%2f1731"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_divja_loka_stari_grad%2f21%2f1731"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/skofje/1711" title="Škofje 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Skofje.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/skofje/7576" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7576');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje 1979504.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_divja_loka_stari_grad/7720" onclick="event.preventDefault(); window.open('/slika_gora/grad_divja_loka_stari_grad/7720');"><img class="slikagm" alt="Grad Divja Loka (Stari grad)" src="//www.hribi.net/slike1/Lubnik 188212212.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/skofje/7577" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7577');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje 1999504.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/skofje/7578" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7578');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje%201446534.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/skofje/7579" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7579');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje%201859504.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/skofje/7580" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7580');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje%20420440440.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/skofje/7581" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7581');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Skofje%20018301840.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/skofje/7696" onclick="event.preventDefault(); window.open('/slika_gora/skofje/7696');"><img class="slikagm" alt="Škofje" src="//www.hribi.net/slike1/Blegos 193147840.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/skofje/14359" onclick="event.preventDefault(); window.open('/slika_gora/skofje/14359');"><img class="slikagm" alt="Škofje" src="//slike.hribi.net/slike4/2_0608510655746_DSCN2634.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/skofje/14360" onclick="event.preventDefault(); window.open('/slika_gora/skofje/14360');"><img class="slikagm" alt="Škofje" src="//slike.hribi.net/slike4/2_1247510655748_DSCN2666.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/skofje/18270" onclick="event.preventDefault(); window.open('/slika_gora/skofje/18270');"><img class="slikagm" alt="Škofje" src="//slike.hribi.net/slike4/2_0103611772202_DSCN1405.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/skofje/18271" onclick="event.preventDefault(); window.open('/slika_gora/skofje/18271');"><img class="slikagm" alt="Škofje" src="//slike.hribi.net/slike4/2_0480611772371_DSCN1472.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/skofje/19108" onclick="event.preventDefault(); window.open('/slika_gora/skofje/19108');"><img class="slikagm" alt="Škofje" src="//slike.hribi.net/slike4/2_1245637255123_DSCN4826.JPG" /></a>
+        <a target="_blank" href="/slika_gora/grad_divja_loka_stari_grad/7721" onclick="event.preventDefault(); window.open('/slika_gora/grad_divja_loka_stari_grad/7721');"><img class="slikagm" alt="Grad Divja Loka (Stari grad)" src="//www.hribi.net/slike1/Lubnik 191212212.th.jpg" /></a>
     
 </div>
 
@@ -935,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1711&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1731&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -945,23 +922,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/cerkno_skofje/21/1711/3099">Cerkno - Škofje</a></td><td class="tdG"><a href="/izlet/cerkno_skofje/21/1711/3099">1 h 45 min</a></td><td class="tdG"><a href="/izlet/cerkno_skofje/21/1711/3099">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/skofja_loka_grad_divja_loka_stari_grad/21/1731/3155">Škofja Loka - Grad Divja Loka (Stari grad)</a></td><td class="tdG"><a href="/izlet/skofja_loka_grad_divja_loka_stari_grad/21/1731/3155"> 40 min</a></td><td class="tdG"><a href="/izlet/skofja_loka_grad_divja_loka_stari_grad/21/1731/3155">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podlanisce_skofje/21/1711/3098">Podlanišče - Škofje</a></td><td class="tdG"><a href="/izlet/podlanisce_skofje/21/1711/3098">1 h 10 min</a></td><td class="tdG"><a href="/izlet/podlanisce_skofje/21/1711/3098">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sovodenj_skofje_razgledna_pot/21/1711/6638">Sovodenj - Škofje (razgledna pot)</a></td><td class="tdG"><a href="/izlet/sovodenj_skofje_razgledna_pot/21/1711/6638">3 h 15 min</a></td><td class="tdG"><a href="/izlet/sovodenj_skofje_razgledna_pot/21/1711/6638">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kopacnica_skofje_po_dolini_podkovscice/21/1711/5811">Kopačnica - Škofje (po dolini Podkovščice)</a></td><td class="tdG"><a href="/izlet/kopacnica_skofje_po_dolini_podkovscice/21/1711/5811">2 h 45 min</a></td><td class="tdG"><a href="/izlet/kopacnica_skofje_po_dolini_podkovscice/21/1711/5811">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gorenji_novaki_mrovlje_skofje/21/1711/7311">Gorenji Novaki (Mrovlje) - Škofje</a></td><td class="tdG"><a href="/izlet/gorenji_novaki_mrovlje_skofje/21/1711/7311">1 h</a></td><td class="tdG"><a href="/izlet/gorenji_novaki_mrovlje_skofje/21/1711/7311">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sovodenj_skofje_skozi_miklavzevo_grapo/21/1711/6636">Sovodenj - Škofje (skozi Miklavževo grapo)</a></td><td class="tdG"><a href="/izlet/sovodenj_skofje_skozi_miklavzevo_grapo/21/1711/6636">2 h 55 min</a></td><td class="tdG"><a href="/izlet/sovodenj_skofje_skozi_miklavzevo_grapo/21/1711/6636">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje_strma_pot/21/1711/7313">Dolenji Novaki (Pod Kovkom) - Škofje (strma pot)</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje_strma_pot/21/1711/7313">1 h 40 min</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje_strma_pot/21/1711/7313">lahka označena pot, lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/cerkno_skofje_po_neoznaceni_poti/21/1711/7315">Cerkno - Škofje (po neoznačeni poti)</a></td><td class="tdG"><a href="/izlet/cerkno_skofje_po_neoznaceni_poti/21/1711/7315">1 h 45 min</a></td><td class="tdG"><a href="/izlet/cerkno_skofje_po_neoznaceni_poti/21/1711/7315">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje/21/1711/7314">Dolenji Novaki (Pod Kovkom) - Škofje</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje/21/1711/7314">2 h</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_skofje/21/1711/7314">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/skofja_loka_grad_divja_loka_stari_grad_pot_treh_gradov/21/1731/8534">Škofja Loka - Grad Divja Loka (Stari grad) (Pot treh gradov)</a></td><td class="tdG"><a href="/izlet/skofja_loka_grad_divja_loka_stari_grad_pot_treh_gradov/21/1731/8534">1 h 30 min</a></td><td class="tdG"><a href="/izlet/skofja_loka_grad_divja_loka_stari_grad_pot_treh_gradov/21/1731/8534">delno zahtevna označena pot</a></td></tr>
 
 </table>
 

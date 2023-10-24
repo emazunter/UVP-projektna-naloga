@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča na Kopitniku</title>
-        <meta name="description" content="Natančen opis koče Koča na Kopitniku in vseh pristopov na Koča na Kopitniku. Koča se nahaja severovzhodno od Kopitnika po katerem je tudi dobila ime. Od koče." />
+        <title>Kmečki turizem Obolno</title>
+        <meta name="description" content="Natančen opis koče Kmečki turizem Obolno in vseh pristopov na Kmečki turizem Obolno. Kmečki turizem Obolno se nahaja severno do severovzhodno od vrha Obolno.." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./789?gorovjeid=25&amp;id=789" id="form1">
+    <form method="post" action="./2508?gorovjeid=25&amp;id=2508" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_kopitniku/25/789"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=789"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/agrotourism_obolno/25/2508"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2508"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Koča na Kopitniku
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Kmečki turizem Obolno
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(789);
+    gorast(2508);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča na Kopitniku</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kmečki turizem Obolno</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 865&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 722&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;6,8406'N&nbsp;/&nbsp;15°&nbsp;10,3686'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;0,2580'N&nbsp;/&nbsp;14°&nbsp;46,8060'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;6'&nbsp;50,44''N&nbsp;/&nbsp;15°&nbsp;10'&nbsp;22,12''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;0'&nbsp;15,48''N&nbsp;/&nbsp;14°&nbsp;46'&nbsp;48,36''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.11401°N&nbsp;/&nbsp;15.17281°E";
+                        document.getElementById("kf0").innerHTML = "46.0043°N&nbsp;/&nbsp;14.7801°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,11401°N,&nbsp;15,17281°E";
+                    document.getElementById("kf0").innerHTML = "46,0043°N,&nbsp;14,7801°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,11401°N&nbsp;15,17281°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_kopitniku/789"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,0043°N&nbsp;14,7801°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kmecki_turizem_obolno/2508"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> koča</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kmečki turizem Obolno - Torek" href="/vreme_gora/kmecki_turizem_obolno/25/2508#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kmečki turizem Obolno - Sreda" href="/vreme_gora/kmecki_turizem_obolno/25/2508#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kmečki turizem Obolno - Četrtek" href="/vreme_gora/kmecki_turizem_obolno/25/2508#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kopitniku - Petek" href="/vreme_gora/koca_na_kopitniku/25/789#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kmečki turizem Obolno - Petek" href="/vreme_gora/kmecki_turizem_obolno/25/2508#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kopitniku - Sobota" href="/vreme_gora/koca_na_kopitniku/25/789#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kopitniku - Nedelja" href="/vreme_gora/koca_na_kopitniku/25/789#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kopitniku - Ponedeljek" href="/vreme_gora/koca_na_kopitniku/25/789#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kopitniku - Torek" href="/vreme_gora/koca_na_kopitniku/25/789#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kmečki turizem Obolno - Sobota" href="/vreme_gora/kmecki_turizem_obolno/25/2508#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 385.416</div>
-<div class="g2"><b>Priljubljenost:</b> 79%&nbsp;(693.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=789" title="Število vpisov v vpisni knjigi">5</a></div>
+<div class="g2"><b>Ogledov:</b> 3.690</div>
+<div class="g2"><b>Priljubljenost:</b> 33%&nbsp;(2209.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2508" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Koča se nahaja severovzhodno od Kopitnika po katerem je tudi dobila ime. Od koče pred katero je veliko miz in klopi je lep pogled proti severu, kjer lepo vidimo hribovje v porečju reke Savinje.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Kmečki turizem Obolno se nahaja severno do severovzhodno od vrha Obolno.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=789&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2508&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/cerkev_lurske_matere_bozje_lurd/25/3706">Cerkev Lurške Matere Božje (Lurd) (300m)</a>, <a class="moder" href="/gora/kopitnik/25/788">Kopitnik (910m)</a>
+<a class="moder" href="/gora/obolno/25/1137">Obolno (776m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,43 +835,18 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/birna_vas/1024">Birna vas</a>, <a class="moder" href="/spletna_kamera/bostanj/3586">Boštanj</a>, <a class="moder" href="/spletna_kamera/celje_krekov_trg/3511">Celje (Krekov trg)</a>, <a class="moder" href="/spletna_kamera/celje_letno_kopalisce/361">Celje (letno kopališče)</a>, <a class="moder" href="/spletna_kamera/celjska_koca/174">Celjska koča</a>, <a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/kum/2952">Kum</a>, <a class="moder" href="/spletna_kamera/lahomsek/309">Lahomšek</a>, <a class="moder" href="/spletna_kamera/lisca/506">Lisca</a>, <a class="moder" href="/spletna_kamera/marno/381">Marno</a>, <a class="moder" href="/spletna_kamera/mrzlica/1360">Mrzlica</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/sentjanz/3664">Šentjanž</a>, <a class="moder" href="/spletna_kamera/sveta_planina_partizanski_vrh/3429">Sveta planina (Partizanski vrh)</a>, <a class="moder" href="/spletna_kamera/trbovlje/317">Trbovlje</a>
+<a class="moder" href="/spletna_kamera/dob/433">Dob</a>, <a class="moder" href="/spletna_kamera/grosuplje/303">Grosuplje</a>, <a class="moder" href="/spletna_kamera/grosuplje/1964">Grosuplje</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sevno/2378">Sevno</a>, <a class="moder" href="/spletna_kamera/visnja_gora/429">Višnja Gora</a>, <a class="moder" href="/spletna_kamera/zagarski_vrh/3123">Žagarski vrh</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_kopitniku%2f25%2f789"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_kopitniku%2f25%2f789"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_kopitniku%2f25%2f789"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkmecki_turizem_obolno%2f25%2f2508"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkmecki_turizem_obolno%2f25%2f2508"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkmecki_turizem_obolno%2f25%2f2508"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koca_na_kopitniku/789" title="Koča na Kopitniku 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KocaKopitnik.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/22456" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/22456');"><img class="slikagm" alt="Koča na Kopitniku" src="//slike2.hribi.net/slike14/2_0510750374175_0kopitnik2.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/22457" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/22457');"><img class="slikagm" alt="Koča na Kopitniku" src="//slike2.hribi.net/slike14/2_1263750374176_1kopitnik3.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/22458" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/22458');"><img class="slikagm" alt="Koča na Kopitniku" src="//slike2.hribi.net/slike14/2_2851750374176_2kopitnik4.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/22459" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/22459');"><img class="slikagm" alt="Koča na Kopitniku" src="//slike2.hribi.net/slike14/2_3301750374176_3kopitnik5.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/2644" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/2644');"><img class="slikagm" alt="Koča na Kopitniku" src="//www.hribi.net/slike1/P10900776400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/2645" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/2645');"><img class="slikagm" alt="Koča na Kopitniku" src="//www.hribi.net/slike1/P109008114080.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/2646" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/2646');"><img class="slikagm" alt="Koča na Kopitniku" src="//www.hribi.net/slike1/P109011914080.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/9641" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/9641');"><img class="slikagm" alt="Koča na Kopitniku" src="//slike.hribi.net/slike4/2_035391087740_Kopitnik_109.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/9642" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/9642');"><img class="slikagm" alt="Koča na Kopitniku" src="//www.hribi.net/slike1/Kopitnik 11451744.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/21934" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/21934');"><img class="slikagm" alt="Koča na Kopitniku" src="//slike2.hribi.net/slike14/2_1445736844637_1dscn0477.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/21935" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/21935');"><img class="slikagm" alt="Koča na Kopitniku" src="//slike2.hribi.net/slike14/2_0292737221275_1dscn0474.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kopitniku/21936" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kopitniku/21936');"><img class="slikagm" alt="Koča na Kopitniku" src="//slike2.hribi.net/slike14/2_176737221275_0dscn0486.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kmecki_turizem_obolno/13536" onclick="event.preventDefault(); window.open('/slika_gora/kmecki_turizem_obolno/13536');"><img class="slikagm" alt="Kmečki turizem Obolno" src="//slike.hribi.net/slike4/2_1605490085249_DSCN6440.JPG" /></a>
     
 </div>
 
@@ -935,7 +910,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=789&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2508&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -945,15 +920,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_v_gorah_koca_na_kopitniku/25/789/1414">Dom v Gorah - Koča na Kopitniku</a></td><td class="tdG"><a href="/izlet/dom_v_gorah_koca_na_kopitniku/25/789/1414">1 h 15 min</a></td><td class="tdG"><a href="/izlet/dom_v_gorah_koca_na_kopitniku/25/789/1414">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_cez_obolno/25/2508/5347">Mala Goričica - Kmečki turizem Obolno (čez Obolno)</a></td><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_cez_obolno/25/2508/5347">1 h 15 min</a></td><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_cez_obolno/25/2508/5347">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rimske_toplice_koca_na_kopitniku_po_dolini_ogeskega_potoka/25/789/3825">Rimske Toplice - Koča na Kopitniku (po dolini Ogeškega potoka)</a></td><td class="tdG"><a href="/izlet/rimske_toplice_koca_na_kopitniku_po_dolini_ogeskega_potoka/25/789/3825">1 h 40 min</a></td><td class="tdG"><a href="/izlet/rimske_toplice_koca_na_kopitniku_po_dolini_ogeskega_potoka/25/789/3825">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rimske_toplice_smarjeta_koca_na_kopitniku_skozi_lurd/25/789/3823">Rimske Toplice (Šmarjeta) - Koča na Kopitniku (skozi Lurd)</a></td><td class="tdG"><a href="/izlet/rimske_toplice_smarjeta_koca_na_kopitniku_skozi_lurd/25/789/3823">1 h 40 min</a></td><td class="tdG"><a href="/izlet/rimske_toplice_smarjeta_koca_na_kopitniku_skozi_lurd/25/789/3823">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sirje_koca_na_kopitniku/25/789/1413">Širje - Koča na Kopitniku</a></td><td class="tdG"><a href="/izlet/sirje_koca_na_kopitniku/25/789/1413">1 h 30 min</a></td><td class="tdG"><a href="/izlet/sirje_koca_na_kopitniku/25/789/1413">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/marno_koca_na_kopitniku/25/789/9040">Marno - Koča na Kopitniku</a></td><td class="tdG"><a href="/izlet/marno_koca_na_kopitniku/25/789/9040">1 h 30 min</a></td><td class="tdG"><a href="/izlet/marno_koca_na_kopitniku/25/789/9040">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_po_cesti/25/2508/5348">Mala Goričica - Kmečki turizem Obolno (po cesti)</a></td><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_po_cesti/25/2508/5348">1 h 10 min</a></td><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_po_cesti/25/2508/5348">lahka označena pot</a></td></tr>
 
 </table>
 

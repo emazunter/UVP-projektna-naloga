@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Janževski vrh</title>
-        <meta name="description" content="Natančen opis gore Janževski vrh in vseh pristopov na Janževski vrh. Janževski vrh je 915 metrov visoka gora, ki se nahaja nad desnim bregom reke Dra." />
+        <title>Sveti Avguštin</title>
+        <meta name="description" content="Natančen opis gore Sveti Avguštin in vseh pristopov na Sveti Avguštin. Sv. Avguštin je 504 m visok hrib, dobre 4 km naprej od Leskovca proti Hrvaški me." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3082?gorovjeid=4&amp;id=3082" id="form1">
+    <form method="post" action="./1397?gorovjeid=4&amp;id=1397" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/janzevski_vrh/4/3082"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3082"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_avgustin/4/1397"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=1397"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Janževski vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Sveti Avguštin
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3082);
+    gorast(1397);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Janževski vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Avguštin</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 915&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 504&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;34,1280'N&nbsp;/&nbsp;15°&nbsp;18,2520'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,3940'N&nbsp;/&nbsp;15°&nbsp;56,0340'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;34'&nbsp;7,68''N&nbsp;/&nbsp;15°&nbsp;18'&nbsp;15,12''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;23,64''N&nbsp;/&nbsp;15°&nbsp;56'&nbsp;2,04''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.5688°N&nbsp;/&nbsp;15.3042°E";
+                        document.getElementById("kf0").innerHTML = "46.2899°N&nbsp;/&nbsp;15.9339°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,5688°N,&nbsp;15,3042°E";
+                    document.getElementById("kf0").innerHTML = "46,2899°N,&nbsp;15,9339°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,5688°N&nbsp;15,3042°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/janzevski_vrh/3082"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2899°N&nbsp;15,9339°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_avgustin/1397"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Avguštin - Torek" href="/vreme_gora/sveti_avgustin/4/1397#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Avguštin - Sreda" href="/vreme_gora/sveti_avgustin/4/1397#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Avguštin - Četrtek" href="/vreme_gora/sveti_avgustin/4/1397#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Janževski vrh - Petek" href="/vreme_gora/janzevski_vrh/4/3082#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Avguštin - Petek" href="/vreme_gora/sveti_avgustin/4/1397#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Janževski vrh - Sobota" href="/vreme_gora/janzevski_vrh/4/3082#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Janževski vrh - Nedelja" href="/vreme_gora/janzevski_vrh/4/3082#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Janževski vrh - Ponedeljek" href="/vreme_gora/janzevski_vrh/4/3082#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Janževski vrh - Torek" href="/vreme_gora/janzevski_vrh/4/3082#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Avguštin - Sobota" href="/vreme_gora/sveti_avgustin/4/1397#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 2.780</div>
-<div class="g2"><b>Priljubljenost:</b> 30%&nbsp;(2290.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 180.893</div>
+<div class="g2"><b>Priljubljenost:</b> 55%&nbsp;(1463.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Janževski vrh je 915 metrov visoka gora, ki se nahaja nad desnim bregom reke Drave in levim bregom potoka Velka. Na vrhu se nahaja cerkve sv. Janeza, ki je znana po močni pozitivni energiji, ki z močnim zdravilnim sevanjem zdravi.<br>Ob cerkvi se nahaja lovska koča LD Janževski Vrh, ob robu katere se nahaja vpisna skrinjica z vpisno knjigo in žigoma.<br>Z vrha se nam odpre lep razgled na Pohorje in del vzhodnih Karavank, proti severu pa razgled zastira gozd.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Sv. Avguštin je 504 m visok hrib, dobre 4 km naprej od Leskovca proti Hrvaški meji. Je najvišji vrh v tem delu haloškega sveta, na katerem sta cerkvici sv. Avguština in sv. Magdalene iz leta 1790. Le dobre 3 m od cerkve je velik kamen z oznako iz časa Marije Terezije, ki označuje mejo med Hrvaško in Slovenijo.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3082&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1397&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/sveta_magdalena_velika_varnica/4/3677">Sveta Magdalena (Velika Varnica) (370m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,40 +835,28 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/kapunar/1072">Kapunar</a>, <a class="moder" href="/spletna_kamera/koca_pod_kremzarjevim_vrhom/2192">Koča pod Kremžarjevim vrhom</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/radeljski_prelaz/2202">Radeljski prelaz</a>, <a class="moder" href="/spletna_kamera/radlje_ob_dravi/4445">Radlje ob Dravi</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornja_kapla/2314">Zgornja Kapla</a>
+<a class="moder" href="/spletna_kamera/bednja/3133">Bednja</a>, <a class="moder" href="/spletna_kamera/drazenci/4824">Draženci</a>, <a class="moder" href="/spletna_kamera/gruskovje/390">Gruškovje</a>, <a class="moder" href="/spletna_kamera/lancova_vas/384">Lancova vas</a>, <a class="moder" href="/spletna_kamera/podlehnik/386">Podlehnik</a>, <a class="moder" href="/spletna_kamera/stanosina/385">Stanošina</a>, <a class="moder" href="/spletna_kamera/trakoscan/3208">Trakošćan</a>, <a class="moder" href="/spletna_kamera/zakl/4822">Zakl</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fjanzevski_vrh%2f4%2f3082"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjanzevski_vrh%2f4%2f3082"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjanzevski_vrh%2f4%2f3082"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_avgustin%2f4%2f1397"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_avgustin%2f4%2f1397"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_avgustin%2f4%2f1397"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18206" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18206');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_021610731747_DSCN0464.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveti_avgustin/5029" onclick="event.preventDefault(); window.open('/slika_gora/sveti_avgustin/5029');"><img class="slikagm" alt="Sveti Avguštin" src="//www.hribi.net/sliketemp/vrh zrak5223642.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18207" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18207');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_1994610731750_DSCN0467.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveti_avgustin/5030" onclick="event.preventDefault(); window.open('/slika_gora/sveti_avgustin/5030');"><img class="slikagm" alt="Sveti Avguštin" src="//www.hribi.net/sliketemp/Vrh5223654.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18208" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18208');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_0131610731787_DSCN0471.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveti_avgustin/5031" onclick="event.preventDefault(); window.open('/slika_gora/sveti_avgustin/5031');"><img class="slikagm" alt="Sveti Avguštin" src="//www.hribi.net/sliketemp/avgustin5223655.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18209" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18209');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_1745610731789_DSCN0478.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveti_avgustin/21842" onclick="event.preventDefault(); window.open('/slika_gora/sveti_avgustin/21842');"><img class="slikagm" alt="Sveti Avguštin" src="//slike2.hribi.net/slike14/2_2742732356358_2dscn8504.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18210" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18210');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_0120610731835_DSCN0480.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveti_avgustin/21843" onclick="event.preventDefault(); window.open('/slika_gora/sveti_avgustin/21843');"><img class="slikagm" alt="Sveti Avguštin" src="//slike2.hribi.net/slike14/2_1169732356321_1dscn8495.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18211" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18211');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_1616610731838_DSCN0484.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18212" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18212');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_0637611078436_DSCN0487.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18213" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18213');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_4516611078123_DSCN0462.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18214" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18214');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_0960611248573_DSCN0486.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18215" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18215');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_1489611248576_DSCN0489.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18216" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18216');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_2932611248579_DSCN0490.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/janzevski_vrh/18217" onclick="event.preventDefault(); window.open('/slika_gora/janzevski_vrh/18217');"><img class="slikagm" alt="Janževski vrh" src="//slike.hribi.net/slike4/2_5151611256322_DSCN0590.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveti_avgustin/21844" onclick="event.preventDefault(); window.open('/slika_gora/sveti_avgustin/21844');"><img class="slikagm" alt="Sveti Avguštin" src="//slike2.hribi.net/slike14/2_1678732356170_1dscn8456.jpg" /></a>
     
 </div>
 
@@ -932,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3082&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1397&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -942,9 +930,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/janzevski_vrh_uran_janzevski_vrh/4/3082/7306">Janževski Vrh (Uran) - Janževski vrh</a></td><td class="tdG"><a href="/izlet/janzevski_vrh_uran_janzevski_vrh/4/3082/7306">1 h 30 min</a></td><td class="tdG"><a href="/izlet/janzevski_vrh_uran_janzevski_vrh/4/3082/7306">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/velika_varnica_sveti_avgustin_strma_pot/4/1397/2344">Velika Varnica - Sveti Avguštin (strma pot)</a></td><td class="tdG"><a href="/izlet/velika_varnica_sveti_avgustin_strma_pot/4/1397/2344"> 30 min</a></td><td class="tdG"><a href="/izlet/velika_varnica_sveti_avgustin_strma_pot/4/1397/2344">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vuhred_janzevski_vrh/4/3082/7305">Vuhred - Janževski vrh</a></td><td class="tdG"><a href="/izlet/vuhred_janzevski_vrh/4/3082/7305">4 h</a></td><td class="tdG"><a href="/izlet/vuhred_janzevski_vrh/4/3082/7305">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/cvetlin_sveti_avgustin_stara_romarska_pot/4/1397/5203">Cvetlin - Sveti Avguštin (Stara romarska pot)</a></td><td class="tdG"><a href="/izlet/cvetlin_sveti_avgustin_stara_romarska_pot/4/1397/5203"> 50 min</a></td><td class="tdG"><a href="/izlet/cvetlin_sveti_avgustin_stara_romarska_pot/4/1397/5203">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podlehnik_sveti_avgustin/4/1397/8985">Podlehnik - Sveti Avguštin</a></td><td class="tdG"><a href="/izlet/podlehnik_sveti_avgustin/4/1397/8985">3 h 30 min</a></td><td class="tdG"><a href="/izlet/podlehnik_sveti_avgustin/4/1397/8985">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornji_leskovec_sveti_avgustin/4/1397/8987">Zgornji Leskovec - Sveti Avguštin</a></td><td class="tdG"><a href="/izlet/zgornji_leskovec_sveti_avgustin/4/1397/8987">3 h 30 min</a></td><td class="tdG"><a href="/izlet/zgornji_leskovec_sveti_avgustin/4/1397/8987">lahka označena pot</a></td></tr>
 
 </table>
 

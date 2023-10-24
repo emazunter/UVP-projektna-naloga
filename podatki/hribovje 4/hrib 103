@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Maloško poldne / Mallestiger Mittagskogel</title>
-        <meta name="description" content="Natančen opis gore Maloško poldne / Mallestiger Mittagskogel in vseh pristopov na Maloško poldne / Mallestiger Mittagskogel. Maloško poldne oz. po nemško Mallestiger Mittagskogel je 1823 m visok vrh, ki se." />
+        <title>Pečovnik</title>
+        <meta name="description" content="Natančen opis gore Pečovnik in vseh pristopov na Pečovnik. Pečovnik je 1640 metrov visok vrh, ki se nahaja v grebenu gora med Košuto in Vir." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1494?gorovjeid=11&amp;id=1494" id="form1">
+    <form method="post" action="./526?gorovjeid=11&amp;id=526" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/malosko_poldne___mallestiger_mittagskogel/11/1494"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1494"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/pecovnik/11/526"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=526"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Maloško poldne / Mallestiger Mittagskogel
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Pečovnik
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1494);
+    gorast(526);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Maloško poldne / Mallestiger Mittagskogel</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Pečovnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1823&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1640&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;31,3680'N&nbsp;/&nbsp;13°&nbsp;52,9224'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,4436'N&nbsp;/&nbsp;14°&nbsp;26,4966'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;31'&nbsp;22,08''N&nbsp;/&nbsp;13°&nbsp;52'&nbsp;55,34''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;26,62''N&nbsp;/&nbsp;14°&nbsp;26'&nbsp;29,80''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.5228°N&nbsp;/&nbsp;13.88204°E";
+                        document.getElementById("kf0").innerHTML = "46.42406°N&nbsp;/&nbsp;14.44161°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,5228°N,&nbsp;13,88204°E";
+                    document.getElementById("kf0").innerHTML = "46,42406°N,&nbsp;14,44161°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,5228°N&nbsp;13,88204°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/malosko_poldne___mallestiger_mittagskogel/1494"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,42406°N&nbsp;14,44161°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/pecovnik/526"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Pečovnik - Torek" href="/vreme_gora/pecovnik/11/526#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Pečovnik - Sreda" href="/vreme_gora/pecovnik/11/526#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Pečovnik - Četrtek" href="/vreme_gora/pecovnik/11/526#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Maloško poldne / Mallestiger Mittagskogel - Petek" href="/vreme_gora/malosko_poldne___mallestiger_mittagskogel/11/1494#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Pečovnik - Petek" href="/vreme_gora/pecovnik/11/526#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Maloško poldne / Mallestiger Mittagskogel - Sobota" href="/vreme_gora/malosko_poldne___mallestiger_mittagskogel/11/1494#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Maloško poldne / Mallestiger Mittagskogel - Nedelja" href="/vreme_gora/malosko_poldne___mallestiger_mittagskogel/11/1494#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Maloško poldne / Mallestiger Mittagskogel - Ponedeljek" href="/vreme_gora/malosko_poldne___mallestiger_mittagskogel/11/1494#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Maloško poldne / Mallestiger Mittagskogel - Torek" href="/vreme_gora/malosko_poldne___mallestiger_mittagskogel/11/1494#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Pečovnik - Sobota" href="/vreme_gora/pecovnik/11/526#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 317.618</div>
-<div class="g2"><b>Priljubljenost:</b> 71%&nbsp;(937.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 173.405</div>
+<div class="g2"><b>Priljubljenost:</b> 55%&nbsp;(1489.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Maloško poldne oz. po nemško Mallestiger Mittagskogel je 1823 m visok vrh, ki se nahaja na meji med Slovenijo in Avstrijo, točneje med Trupejevim poldnem in Kresiščem. Z vrha, ki je deloma porasel z gozdom, pa se nam odpre lep razgled na Dravsko dolino, Karavanke in del Julijskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Pečovnik je 1640 metrov visok vrh, ki se nahaja v grebenu gora med Košuto in Virnikovim Grintovcem. Z deloma poraščenega vrha se nam odpre lep razgled na gore nad dolino reke Tržiške Bistrice</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1494&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=526&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bele_peci_lepi_vrh/11/2580">Bele peči (Lepi vrh) (1926m)</a>, <a class="moder" href="/gora/kresisce/11/367">Kresišče (1839m)</a>, <a class="moder" href="/gora/murnovc/11/1911">Murnovc (1866m)</a>, <a class="moder" href="/gora/ostra_pec___mallestiger_mittagskogel/11/472">Ostra peč / Mallestiger Mittagskogel (1801m)</a>, <a class="moder" href="/gora/trupejevo_poldne/11/366">Trupejevo poldne (1931m)</a>
+<a class="moder" href="/gora/lovska_koca_stanic/11/525">Lovska koča Stanič (1280m)</a>, <a class="moder" href="/gora/partizanska_bolnica_krtina/11/1214">Partizanska bolnica Krtina (1040m)</a>, <a class="moder" href="/gora/pecovnik_kota_1668/11/283">Pečovnik (kota 1668) (1668m)</a>, <a class="moder" href="/gora/planina_brsnina/11/3264">Planina Brsnina (1357m)</a>, <a class="moder" href="/gora/planina_zgornja_dolga_njiva/11/297">Planina Zgornja Dolga njiva (1580m)</a>, <a class="moder" href="/gora/plesivec/11/300">Plešivec (1801m)</a>, <a class="moder" href="/gora/robniske_peci/11/3222">Robniške peči (1323m)</a>, <a class="moder" href="/gora/veliki_vrh_nad_komatevro/11/1927">Veliki vrh nad Komatevro (1634m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,33 +835,18 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/basko_jezero___faakersee/253">Baško jezero / Faakersee</a>, <a class="moder" href="/spletna_kamera/beljak___villach/254">Beljak / Villach</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/wernberg_-_duel/4621">Wernberg - Duel</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmalosko_poldne___mallestiger_mittagskogel%2f11%2f1494"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmalosko_poldne___mallestiger_mittagskogel%2f11%2f1494"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmalosko_poldne___mallestiger_mittagskogel%2f11%2f1494"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpecovnik%2f11%2f526"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpecovnik%2f11%2f526"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpecovnik%2f11%2f526"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/malosko_poldne___mallestiger_mittagskogel/1494" title="Maloško poldne / Mallestiger Mittagskogel 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.MaloskoPoldne.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/malosko_poldne___mallestiger_mittagskogel/5830" onclick="event.preventDefault(); window.open('/slika_gora/malosko_poldne___mallestiger_mittagskogel/5830');"><img class="slikagm" alt="Maloško poldne / Mallestiger Mittagskogel" src="//www.hribi.net/slike1/PA29013495200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/malosko_poldne___mallestiger_mittagskogel/5831" onclick="event.preventDefault(); window.open('/slika_gora/malosko_poldne___mallestiger_mittagskogel/5831');"><img class="slikagm" alt="Maloško poldne / Mallestiger Mittagskogel" src="//www.hribi.net/slike1/PA29013595200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/malosko_poldne___mallestiger_mittagskogel/5832" onclick="event.preventDefault(); window.open('/slika_gora/malosko_poldne___mallestiger_mittagskogel/5832');"><img class="slikagm" alt="Maloško poldne / Mallestiger Mittagskogel" src="//www.hribi.net/slike1/PA29014295200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/malosko_poldne___mallestiger_mittagskogel/9075" onclick="event.preventDefault(); window.open('/slika_gora/malosko_poldne___mallestiger_mittagskogel/9075');"><img class="slikagm" alt="Maloško poldne / Mallestiger Mittagskogel" src="//www.hribi.net/slike1/Murnovc%20227460460.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/malosko_poldne___mallestiger_mittagskogel/9076" onclick="event.preventDefault(); window.open('/slika_gora/malosko_poldne___mallestiger_mittagskogel/9076');"><img class="slikagm" alt="Maloško poldne / Mallestiger Mittagskogel" src="//www.hribi.net/slike1/Murnovc 224460460.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/malosko_poldne___mallestiger_mittagskogel/9077" onclick="event.preventDefault(); window.open('/slika_gora/malosko_poldne___mallestiger_mittagskogel/9077');"><img class="slikagm" alt="Maloško poldne / Mallestiger Mittagskogel" src="//www.hribi.net/slike1/Murnovc 216460460.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/malosko_poldne___mallestiger_mittagskogel/9080" onclick="event.preventDefault(); window.open('/slika_gora/malosko_poldne___mallestiger_mittagskogel/9080');"><img class="slikagm" alt="Maloško poldne / Mallestiger Mittagskogel" src="//www.hribi.net/slike1/Murnovc 212460460.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pecovnik/1478" onclick="event.preventDefault(); window.open('/slika_gora/pecovnik/1478');"><img class="slikagm" alt="Pečovnik" src="//www.hribi.net/slike1/P120006797216.th.jpg" /></a>
     
 </div>
 
@@ -925,7 +910,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1494&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=526&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,13 +920,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/srednji_vrh_malosko_poldne___mallestiger_mittagskogel/11/1494/2528">Srednji Vrh - Maloško poldne / Mallestiger Mittagskogel</a></td><td class="tdG"><a href="/izlet/srednji_vrh_malosko_poldne___mallestiger_mittagskogel/11/1494/2528">2 h 55 min</a></td><td class="tdG"><a href="/izlet/srednji_vrh_malosko_poldne___mallestiger_mittagskogel/11/1494/2528">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/smrecje_pecovnik_po_cesti/11/526/898">Smrečje - Pečovnik (po cesti)</a></td><td class="tdG"><a href="/izlet/smrecje_pecovnik_po_cesti/11/526/898">2 h 35 min</a></td><td class="tdG"><a href="/izlet/smrecje_pecovnik_po_cesti/11/526/898">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baumgartnerhof_malosko_poldne___mallestiger_mittagskogel_plezalna_pot/11/1494/3336"> Baumgartnerhof - Maloško poldne / Mallestiger Mittagskogel (plezalna pot)</a></td><td class="tdG"><a href="/izlet/baumgartnerhof_malosko_poldne___mallestiger_mittagskogel_plezalna_pot/11/1494/3336">3 h</a></td><td class="tdG"><a href="/izlet/baumgartnerhof_malosko_poldne___mallestiger_mittagskogel_plezalna_pot/11/1494/3336">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zapornica_belca_malosko_poldne___mallestiger_mittagskogel_po_cesti/11/1494/2937">Zapornica (Belca) - Maloško poldne / Mallestiger Mittagskogel (po cesti)</a></td><td class="tdG"><a href="/izlet/zapornica_belca_malosko_poldne___mallestiger_mittagskogel_po_cesti/11/1494/2937">3 h 10 min</a></td><td class="tdG"><a href="/izlet/zapornica_belca_malosko_poldne___mallestiger_mittagskogel_po_cesti/11/1494/2937">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baumgartnerhof_malosko_poldne___mallestiger_mittagskogel/11/1494/3333">Baumgartnerhof - Maloško poldne / Mallestiger Mittagskogel</a></td><td class="tdG"><a href="/izlet/baumgartnerhof_malosko_poldne___mallestiger_mittagskogel/11/1494/3333">2 h 45 min</a></td><td class="tdG"><a href="/izlet/baumgartnerhof_malosko_poldne___mallestiger_mittagskogel/11/1494/3333">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/jezerski_vrh_pecovnik/11/526/5736">Jezerski vrh - Pečovnik</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_pecovnik/11/526/5736">2 h 35 min</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_pecovnik/11/526/5736">lahka neoznačena steza</a></td></tr>
 
 </table>
 

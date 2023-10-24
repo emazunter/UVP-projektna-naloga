@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vremščica</title>
-        <meta name="description" content="Natančen opis gore Vremščica in vseh pristopov na Vremščica. Vremščica je pogorje, ki se razteza med Senožečami, Pivko in Divačo. Najvišji vr." />
+        <title>Ljubljanski vrh</title>
+        <meta name="description" content="Natančen opis gore Ljubljanski vrh in vseh pristopov na Ljubljanski vrh. Ljubljanski vrh je 819 m visok hrib, ki se nahaja južno od Vrhnike. Na vrhu ima ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./571?gorovjeid=26&amp;id=571" id="form1">
+    <form method="post" action="./1471?gorovjeid=26&amp;id=1471" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vremscica/26/571"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=571"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ljubljanski_vrh/26/1471"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1471"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Vremščica
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Ljubljanski vrh
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(571);
+    gorast(1471);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vremščica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Ljubljanski vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1027&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 819&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;41,2980'N&nbsp;/&nbsp;14°&nbsp;3,6960'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;55,8588'N&nbsp;/&nbsp;14°&nbsp;17,8992'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;41'&nbsp;17,88''N&nbsp;/&nbsp;14°&nbsp;3'&nbsp;41,76''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;55'&nbsp;51,53''N&nbsp;/&nbsp;14°&nbsp;17'&nbsp;53,95''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.6883°N&nbsp;/&nbsp;14.0616°E";
+                        document.getElementById("kf0").innerHTML = "45.93098°N&nbsp;/&nbsp;14.29832°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,6883°N,&nbsp;14,0616°E";
+                    document.getElementById("kf0").innerHTML = "45,93098°N,&nbsp;14,29832°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,6883°N&nbsp;14,0616°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vremscica/571"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,93098°N&nbsp;14,29832°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ljubljanski_vrh/1471"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Ljubljanski vrh - Torek" href="/vreme_gora/ljubljanski_vrh/26/1471#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Ljubljanski vrh - Sreda" href="/vreme_gora/ljubljanski_vrh/26/1471#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Ljubljanski vrh - Četrtek" href="/vreme_gora/ljubljanski_vrh/26/1471#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vremščica - Petek" href="/vreme_gora/vremscica/26/571#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ljubljanski vrh - Petek" href="/vreme_gora/ljubljanski_vrh/26/1471#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vremščica - Sobota" href="/vreme_gora/vremscica/26/571#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vremščica - Nedelja" href="/vreme_gora/vremscica/26/571#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vremščica - Ponedeljek" href="/vreme_gora/vremscica/26/571#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vremščica - Torek" href="/vreme_gora/vremscica/26/571#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ljubljanski vrh - Sobota" href="/vreme_gora/ljubljanski_vrh/26/1471#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 724.622</div>
-<div class="g2"><b>Priljubljenost:</b> 98%&nbsp;(59.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">14</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">8</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=571" title="Število vpisov v vpisni knjigi">31</a></div>
+<div class="g2"><b>Ogledov:</b> 323.099</div>
+<div class="g2"><b>Priljubljenost:</b> 72%&nbsp;(916.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Vremščica je pogorje, ki se razteza med Senožečami, Pivko in Divačo. Najvišji vrh pogorja je Velika Vremščica. Razgled z vrha sega od Dolomitov, Julijskih Alp, prek Nanosa do Kamniško Savinjskih Alp ter prek Javornikov, Snežnika in Slavnika do Jadranskega morja.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Ljubljanski vrh je 819 m visok hrib, ki se nahaja južno od Vrhnike. Na vrhu ima vojska postavljeno radarsko opazovalnico, zato vzpon na sam vrh ni mogoč.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=571&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1471&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -835,47 +835,18 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/cebulovica/335">Čebulovica</a>, <a class="moder" href="/spletna_kamera/divaca/3260">Divača</a>, <a class="moder" href="/spletna_kamera/kokos/4324">Kokoš</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/letalisce_divaca/2203">Letališče Divača</a>, <a class="moder" href="/spletna_kamera/lipica/1701">Lipica</a>, <a class="moder" href="/spletna_kamera/nanos_plesa/2957">Nanos (Pleša)</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/petelinjsko_jezero/4191">Petelinjsko jezero</a>, <a class="moder" href="/spletna_kamera/pivka/182">Pivka</a>, <a class="moder" href="/spletna_kamera/pivka/345">Pivka</a>, <a class="moder" href="/spletna_kamera/podgric/1414">Podgrič</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/razdrto/332">Razdrto</a>, <a class="moder" href="/spletna_kamera/rebrnice/1409">Rebrnice</a>, <a class="moder" href="/spletna_kamera/senozeska_brda/1423">Senožeška brda</a>, <a class="moder" href="/spletna_kamera/sezana/4920">Sežana</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>, <a class="moder" href="/spletna_kamera/zirje_pri_sezani/1166">Žirje pri Sežani</a>
+<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/ivanje_selo/328">Ivanje selo</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/krim/489">Krim</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/logatec/186">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec/326">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec_blekova_vas/1954">Logatec (Blekova vas)</a>, <a class="moder" href="/spletna_kamera/logatec_gorenja_vas/1868">Logatec (Gorenja vas)</a>, <a class="moder" href="/spletna_kamera/lom/327">Lom</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/nart/1718">Nart</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/planina_pri_rakeku/1028">Planina pri Rakeku</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/rakitna/1823">Rakitna</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/tankovski_most/4915">Tankovski most</a>, <a class="moder" href="/spletna_kamera/unec/329">Unec</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvremscica%2f26%2f571"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvremscica%2f26%2f571"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvremscica%2f26%2f571"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fljubljanski_vrh%2f26%2f1471"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fljubljanski_vrh%2f26%2f1471"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fljubljanski_vrh%2f26%2f1471"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vremscica/571" title="Vremščica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Vremscica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vremscica/2623" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/2623');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/sliketemp/PC2200794257671.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/5280" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/5280');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/Nanos%20021514800.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/5281" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/5281');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/sliketemp/PC2200724257670.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/5283" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/5283');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/DSCN9643437400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/5284" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/5284');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/DSCN9647437400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/5285" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/5285');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/DSCN9650437400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/5286" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/5286');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/DSCN9654437400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/5287" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/5287');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/DSCN9641437400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/5288" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/5288');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/DSCN9636437400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/5289" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/5289');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/DSCN9634437400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/9524" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/9524');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/Vremscica 161202752.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/9525" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/9525');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/Vremscica 163202752.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/9526" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/9526');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/Vremscica 168209088.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vremscica/9527" onclick="event.preventDefault(); window.open('/slika_gora/vremscica/9527');"><img class="slikagm" alt="Vremščica" src="//www.hribi.net/slike1/Vremscica 169209088.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ljubljanski_vrh/5605" onclick="event.preventDefault(); window.open('/slika_gora/ljubljanski_vrh/5605');"><img class="slikagm" alt="Ljubljanski vrh" src="//www.hribi.net/slike1/LjubljanskiVrh 199364800.th.jpg" /></a>
     
 </div>
 
@@ -939,7 +910,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=571&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1471&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -949,21 +920,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/senozece_vremscica/26/571/1400">Senožeče - Vremščica</a></td><td class="tdG"><a href="/izlet/senozece_vremscica/26/571/1400">1 h 45 min</a></td><td class="tdG"><a href="/izlet/senozece_vremscica/26/571/1400">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/volce_vremscica/26/571/1626">Volče - Vremščica</a></td><td class="tdG"><a href="/izlet/volce_vremscica/26/571/1626">1 h 30 min</a></td><td class="tdG"><a href="/izlet/volce_vremscica/26/571/1626">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/loscica_vremscica/26/571/3699">Loščica - Vremščica</a></td><td class="tdG"><a href="/izlet/loscica_vremscica/26/571/3699">1 h 15 min</a></td><td class="tdG"><a href="/izlet/loscica_vremscica/26/571/3699">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gabrce_vremscica/26/571/1399">Gabrče - Vremščica</a></td><td class="tdG"><a href="/izlet/gabrce_vremscica/26/571/1399">2 h</a></td><td class="tdG"><a href="/izlet/gabrce_vremscica/26/571/1399">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gornje_lezece_vremscica/26/571/2421">Gornje Ležeče - Vremščica</a></td><td class="tdG"><a href="/izlet/gornje_lezece_vremscica/26/571/2421">1 h 40 min</a></td><td class="tdG"><a href="/izlet/gornje_lezece_vremscica/26/571/2421">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/matavun_vremscica/26/571/3696">Matavun - Vremščica</a></td><td class="tdG"><a href="/izlet/matavun_vremscica/26/571/3696">3 h 15 min</a></td><td class="tdG"><a href="/izlet/matavun_vremscica/26/571/3696">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podgora_vremscica/26/571/3697">Podgora - Vremščica</a></td><td class="tdG"><a href="/izlet/podgora_vremscica/26/571/3697">2 h</a></td><td class="tdG"><a href="/izlet/podgora_vremscica/26/571/3697">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/famlje_vremscica/26/571/3698">Famlje - Vremščica</a></td><td class="tdG"><a href="/izlet/famlje_vremscica/26/571/3698">2 h 30 min</a></td><td class="tdG"><a href="/izlet/famlje_vremscica/26/571/3698">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/izvir_ljubljanice_mocilnik_ljubljanski_vrh/26/1471/2482">Izvir Ljubljanice (Močilnik) - Ljubljanski vrh</a></td><td class="tdG"><a href="/izlet/izvir_ljubljanice_mocilnik_ljubljanski_vrh/26/1471/2482">2 h</a></td><td class="tdG"><a href="/izlet/izvir_ljubljanice_mocilnik_ljubljanski_vrh/26/1471/2482">lahka neoznačena steza</a></td></tr>
 
 </table>
 

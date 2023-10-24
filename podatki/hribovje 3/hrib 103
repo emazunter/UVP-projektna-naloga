@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Rjavčki vrh (Planinšca)</title>
-        <meta name="description" content="Natančen opis gore Rjavčki vrh (Planinšca) in vseh pristopov na Rjavčki vrh (Planinšca). Rjavčki vrh tudi Planinšca je 1898 m visok vrh, ki se nahaja severno od glavnega." />
+        <title>Planina Podvežak</title>
+        <meta name="description" content="Natančen opis planine Planina Podvežak in vseh pristopov na Planina Podvežak. Planina Podvežak je razgledna planina, ki se nahaja na jugozahodnem delu Dleskov." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1535?gorovjeid=3&amp;id=1535" id="form1">
+    <form method="post" action="./306?gorovjeid=3&amp;id=306" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rjavcki_vrh_planinsca/3/1535"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1535"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_podvezak/3/306"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=306"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Rjavčki vrh (Planinšca)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Planina Podvežak
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1535);
+    gorast(306);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Rjavčki vrh (Planinšca)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planina Podvežak</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1898&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1564&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,9612'N&nbsp;/&nbsp;14°&nbsp;37,6242'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,2452'N&nbsp;/&nbsp;14°&nbsp;40,5150'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;57,67''N&nbsp;/&nbsp;14°&nbsp;37'&nbsp;37,45''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;14,71''N&nbsp;/&nbsp;14°&nbsp;40'&nbsp;30,90''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.36602°N&nbsp;/&nbsp;14.62707°E";
+                        document.getElementById("kf0").innerHTML = "46.33742°N&nbsp;/&nbsp;14.67525°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,36602°N,&nbsp;14,62707°E";
+                    document.getElementById("kf0").innerHTML = "46,33742°N,&nbsp;14,67525°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,36602°N&nbsp;14,62707°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rjavcki_vrh_planinsca/1535"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,33742°N&nbsp;14,67525°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_podvezak/306"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Podvežak - Torek" href="/vreme_gora/planina_podvezak/3/306#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Podvežak - Sreda" href="/vreme_gora/planina_podvezak/3/306#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Podvežak - Četrtek" href="/vreme_gora/planina_podvezak/3/306#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Rjavčki vrh (Planinšca) - Petek" href="/vreme_gora/rjavcki_vrh_planinsca/3/1535#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Podvežak - Petek" href="/vreme_gora/planina_podvezak/3/306#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Rjavčki vrh (Planinšca) - Sobota" href="/vreme_gora/rjavcki_vrh_planinsca/3/1535#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Rjavčki vrh (Planinšca) - Nedelja" href="/vreme_gora/rjavcki_vrh_planinsca/3/1535#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Rjavčki vrh (Planinšca) - Ponedeljek" href="/vreme_gora/rjavcki_vrh_planinsca/3/1535#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Rjavčki vrh (Planinšca) - Torek" href="/vreme_gora/rjavcki_vrh_planinsca/3/1535#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Podvežak - Sobota" href="/vreme_gora/planina_podvezak/3/306#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 341.346</div>
-<div class="g2"><b>Priljubljenost:</b> 74%&nbsp;(851.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Ogledov:</b> 419.269</div>
+<div class="g2"><b>Priljubljenost:</b> 82%&nbsp;(576.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=306" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Rjavčki vrh tudi Planinšca je 1898 m visok vrh, ki se nahaja severno od glavnega grebena, ki povezuje Ojstrico s Planjavo. Z vrha, ki je večinoma porasel z rušjem, se nam odpre lep razgled na večino gora, ki obkrožajo Logarsko dolino.</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Podvežak je razgledna planina, ki se nahaja na jugozahodnem delu Dleskovške planote. S planine, na kateri stoji pastirska koča, se nam odpre lep pogled proti Rogatcu, Lepenatki, Veliki planini in okoliškim goram. V poletnih mesecih na planini še vedno pasejo živino.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1535&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=306&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/koca_na_klemenci_jami/3/619">Koča na Klemenči jami (1208m)</a>, <a class="moder" href="/gora/kocbekov_dom_na_korosici/3/199">Kocbekov dom na Korošici (1808m)</a>, <a class="moder" href="/gora/kroficka/3/1035">Krofička (2083m)</a>, <a class="moder" href="/gora/lucka_brana_baba/3/1532">Lučka Brana (Baba) (2331m)</a>, <a class="moder" href="/gora/lucki_dedec/3/358">Lučki Dedec (2023m)</a>, <a class="moder" href="/gora/mala_ojstrica/3/1392">Mala Ojstrica (2017m)</a>, <a class="moder" href="/gora/najvisji_rob_zeleniske_spice/3/1587">Najvišji rob (Zeleniške špice) (2127m)</a>, <a class="moder" href="/gora/ojstrica/3/146">Ojstrica (2350m)</a>, <a class="moder" href="/gora/planjava/3/80">Planjava (2392m)</a>, <a class="moder" href="/gora/planjava_-_zahodni_vrh/3/3477">Planjava - zahodni vrh (2394m)</a>
+<a class="moder" href="/gora/deska_veza/3/304">Deska (Veža) (1970m)</a>, <a class="moder" href="/gora/dleskovec/3/380">Dleskovec (1965m)</a>, <a class="moder" href="/gora/lastovec/3/1531">Lastovec (1841m)</a>, <a class="moder" href="/gora/planina_vodole/3/1345">Planina Vodole (1570m)</a>, <a class="moder" href="/gora/tolsti_vrh_veza/3/305">Tolsti vrh (Veža) (1985m)</a>, <a class="moder" href="/gora/vodotocno_jezero_veza/3/288">Vodotočno jezero (Veža) (1850m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,22 +835,27 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frjavcki_vrh_planinsca%2f3%2f1535"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frjavcki_vrh_planinsca%2f3%2f1535"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frjavcki_vrh_planinsca%2f3%2f1535"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_podvezak%2f3%2f306"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_podvezak%2f3%2f306"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_podvezak%2f3%2f306"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/planina_podvezak/306" title="Planina Podvežak 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Podvezak.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/rjavcki_vrh_planinsca/6251" onclick="event.preventDefault(); window.open('/slika_gora/rjavcki_vrh_planinsca/6251');"><img class="slikagm" alt="Rjavčki vrh (Planinšca)" src="//www.hribi.net/slike1/P71201704539693.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_podvezak/1567" onclick="event.preventDefault(); window.open('/slika_gora/planina_podvezak/1567');"><img class="slikagm" alt="Planina Podvežak" src="//www.hribi.net/slike1/P3180062105336.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavcki_vrh_planinsca/6253" onclick="event.preventDefault(); window.open('/slika_gora/rjavcki_vrh_planinsca/6253');"><img class="slikagm" alt="Rjavčki vrh (Planinšca)" src="//www.hribi.net/slike1/P8220260462000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_podvezak/1568" onclick="event.preventDefault(); window.open('/slika_gora/planina_podvezak/1568');"><img class="slikagm" alt="Planina Podvežak" src="//www.hribi.net/slike1/P3180005102144.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavcki_vrh_planinsca/14831" onclick="event.preventDefault(); window.open('/slika_gora/rjavcki_vrh_planinsca/14831');"><img class="slikagm" alt="Rjavčki vrh (Planinšca)" src="//www.hribi.net/slike1/P70801751286208.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_podvezak/4575" onclick="event.preventDefault(); window.open('/slika_gora/planina_podvezak/4575');"><img class="slikagm" alt="Planina Podvežak" src="//www.hribi.net/slike1/Slike nikon 419130977.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_podvezak/4576" onclick="event.preventDefault(); window.open('/slika_gora/planina_podvezak/4576');"><img class="slikagm" alt="Planina Podvežak" src="//www.hribi.net/Pot/rimg0949mediumdu8.th.jpg" /></a>
     
 </div>
 
@@ -914,7 +919,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1535&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=306&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -924,11 +929,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/na_razpotju_rjavcki_vrh_planinsca/3/1535/2668">Na Razpotju - Rjavčki vrh (Planinšca)</a></td><td class="tdG"><a href="/izlet/na_razpotju_rjavcki_vrh_planinsca/3/1535/2668">3 h</a></td><td class="tdG"><a href="/izlet/na_razpotju_rjavcki_vrh_planinsca/3/1535/2668">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_podvezak_planina_podvezak/3/306/432">Planina Podvežak - Planina Podvežak</a></td><td class="tdG"><a href="/izlet/planina_podvezak_planina_podvezak/3/306/432"> 15 min</a></td><td class="tdG"><a href="/izlet/planina_podvezak_planina_podvezak/3/306/432">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/logarski_kot_rjavcki_vrh_planinsca_skozi_grlo/3/1535/4161">Logarski kot - Rjavčki vrh (Planinšca) (skozi Grlo)</a></td><td class="tdG"><a href="/izlet/logarski_kot_rjavcki_vrh_planinsca_skozi_grlo/3/1535/4161">3 h 15 min</a></td><td class="tdG"><a href="/izlet/logarski_kot_rjavcki_vrh_planinsca_skozi_grlo/3/1535/4161">zahtevno brezpotje</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_planincev_v_logarski_dolini_rjavcki_vrh_planinsca/3/1535/8466">Dom Planincev v Logarski dolini - Rjavčki vrh (Planinšca)</a></td><td class="tdG"><a href="/izlet/dom_planincev_v_logarski_dolini_rjavcki_vrh_planinsca/3/1535/8466">2 h 55 min</a></td><td class="tdG"><a href="/izlet/dom_planincev_v_logarski_dolini_rjavcki_vrh_planinsca/3/1535/8466">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planica_planinsek_planina_podvezak/3/306/4232">Planica (Planinšek) - Planina Podvežak</a></td><td class="tdG"><a href="/izlet/planica_planinsek_planina_podvezak/3/306/4232">1 h 25 min</a></td><td class="tdG"><a href="/izlet/planica_planinsek_planina_podvezak/3/306/4232">lahka označena pot</a></td></tr>
 
 </table>
 

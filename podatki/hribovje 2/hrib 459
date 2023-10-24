@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Poljanski vrh</title>
-        <meta name="description" content="Natančen opis gore Poljanski vrh in vseh pristopov na Poljanski vrh. Poljanski vrh je manj poznana gora, ki se nahaja med Matajurskim in Konjskim vrh." />
+        <title>Malga Cuarnan</title>
+        <meta name="description" content="Natančen opis koče Malga Cuarnan in vseh pristopov na Malga Cuarnan. Malga Cuarnan oz. koča Cuarnan se nahaja na 1070 metrih nadmorske višine malo po." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1104?gorovjeid=1&amp;id=1104" id="form1">
+    <form method="post" action="./3101?gorovjeid=1&amp;id=3101" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/poljanski_vrh/1/1104"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1104"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/malga_cuarnan/1/3101"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=3101"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Poljanski vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Malga Cuarnan
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1104);
+    gorast(3101);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Poljanski vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Malga Cuarnan</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1897&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1070&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;13,8138'N&nbsp;/&nbsp;13°&nbsp;54,1818'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,0520'N&nbsp;/&nbsp;13°&nbsp;10,7280'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;13'&nbsp;48,83''N&nbsp;/&nbsp;13°&nbsp;54'&nbsp;10,91''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;3,12''N&nbsp;/&nbsp;13°&nbsp;10'&nbsp;43,68''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.23023°N&nbsp;/&nbsp;13.90303°E";
+                        document.getElementById("kf0").innerHTML = "46.2842°N&nbsp;/&nbsp;13.1788°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,23023°N,&nbsp;13,90303°E";
+                    document.getElementById("kf0").innerHTML = "46,2842°N,&nbsp;13,1788°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,23023°N&nbsp;13,90303°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/poljanski_vrh/1104"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2842°N&nbsp;13,1788°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/malga_cuarnan/3101"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Malga Cuarnan - Torek" href="/vreme_gora/malga_cuarnan/1/3101#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Malga Cuarnan - Sreda" href="/vreme_gora/malga_cuarnan/1/3101#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Malga Cuarnan - Četrtek" href="/vreme_gora/malga_cuarnan/1/3101#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Poljanski vrh - Petek" href="/vreme_gora/poljanski_vrh/1/1104#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Malga Cuarnan - Petek" href="/vreme_gora/malga_cuarnan/1/3101#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Poljanski vrh - Sobota" href="/vreme_gora/poljanski_vrh/1/1104#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Poljanski vrh - Nedelja" href="/vreme_gora/poljanski_vrh/1/1104#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Poljanski vrh - Ponedeljek" href="/vreme_gora/poljanski_vrh/1/1104#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Poljanski vrh - Torek" href="/vreme_gora/poljanski_vrh/1/1104#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Malga Cuarnan - Sobota" href="/vreme_gora/malga_cuarnan/1/3101#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 250.261</div>
-<div class="g2"><b>Priljubljenost:</b> 64%&nbsp;(1195.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 666</div>
+<div class="g2"><b>Priljubljenost:</b> 17%&nbsp;(2713.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Poljanski vrh je manj poznana gora, ki se nahaja med Matajurskim in Konjskim vrhom v grebenu Spodnjih Bohinjskih gora. S travnatega vrha pa se nam odpre lep pogled proti Bohinju in vrhovom, ki obdajajo to dolino.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Malga Cuarnan oz. koča Cuarnan se nahaja na 1070 metrih nadmorske višine malo pod sedlom Foredor nad krajem Humin (it.: Gemona del Friuli). Koča s pestro agroturistično ponudbo obratuje v poletnem času in je dosegljiva preko Humina po dolgi ozki asfaltirani cesti z zelo ostrimi ovinki. Ker je parkirišče ob koči majhno in ob njem stoji znak "Privat", je smiselno parkirati ob koncu asfaltirane ceste 10 do 15 minut hoje od koče ob ovinku, na katerem je dovolj prostora za parkiranje. Kočo se lahko doseže tudi peš po poti z oznako CAI 713.<br><br><br><br>Koča je samostojni oz. končni cilj za številne gorske kolesarje, medtem ko se za pohodnike od koče naprej ponujata dva cilja, in sicer Mali Karman (1372 m) proti jugu in Veliki Karman (1731 m) na drugo stran od sedla Foredor proti severu.<br><br><br><br>Naslov: Strada di Foredor snc, 33013 Gemona del Friuli UD, Italija.<br><br></div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1104&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3101&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/cetrt/1/1102">Četrt (1832m)</a>, <a class="moder" href="/gora/gradovec/1/2649">Gradovec (1692m)</a>, <a class="moder" href="/gora/konjski_vrh/1/1103">Konjski vrh (1879m)</a>, <a class="moder" href="/gora/mali_raskovec/1/1106">Mali Raskovec (1946m)</a>, <a class="moder" href="/gora/matajurski_vrh/1/1105">Matajurski vrh (1936m)</a>, <a class="moder" href="/gora/planina_osredki/1/1101">Planina Osredki (1400m)</a>, <a class="moder" href="/gora/planina_poljana/1/1100">Planina Poljana (1466m)</a>, <a class="moder" href="/gora/raskovec/1/1099">Raskovec (1967m)</a>
+<a class="moder" href="/gora/mali_karman___monte_cuarnan/1/2375">Mali Karman / Monte Cuarnan (1372m)</a>, <a class="moder" href="/gora/veliki_karman___monte_chiampon/1/2372">Veliki Karman / Monte Chiampon (1713m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,18 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
+<a class="moder" href="/spletna_kamera/artegna/1827">Artegna</a>, <a class="moder" href="/spletna_kamera/centa___tarcento/1655">Čenta / Tarcento</a>, <a class="moder" href="/spletna_kamera/humin___gemona_del_friuli/1594">Humin / Gemona del Friuli</a>, <a class="moder" href="/spletna_kamera/pusja_vas___venzone/1967">Pušja vas / Venzone</a>, <a class="moder" href="/spletna_kamera/rezija_val_resia/483">Rezija/Val Resia</a>, <a class="moder" href="/spletna_kamera/villafredda/1835">Villafredda</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpoljanski_vrh%2f1%2f1104"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpoljanski_vrh%2f1%2f1104"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpoljanski_vrh%2f1%2f1104"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmalga_cuarnan%2f1%2f3101"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmalga_cuarnan%2f1%2f3101"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmalga_cuarnan%2f1%2f3101"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/poljanski_vrh/1104" title="Poljanski vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PoljanskiVrh.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/poljanski_vrh/3654" onclick="event.preventDefault(); window.open('/slika_gora/poljanski_vrh/3654');"><img class="slikagm" alt="Poljanski vrh" src="//www.hribi.net/slike1/P9170200213408.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/poljanski_vrh/3655" onclick="event.preventDefault(); window.open('/slika_gora/poljanski_vrh/3655');"><img class="slikagm" alt="Poljanski vrh" src="//www.hribi.net/slike1/P9170201466560.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/poljanski_vrh/3656" onclick="event.preventDefault(); window.open('/slika_gora/poljanski_vrh/3656');"><img class="slikagm" alt="Poljanski vrh" src="//www.hribi.net/slike1/P9170203466560.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/poljanski_vrh/14713" onclick="event.preventDefault(); window.open('/slika_gora/poljanski_vrh/14713');"><img class="slikagm" alt="Poljanski vrh" src="//www.hribi.net/slike1/DSCN046169888.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/malga_cuarnan/18345" onclick="event.preventDefault(); window.open('/slika_gora/malga_cuarnan/18345');"><img class="slikagm" alt="Malga Cuarnan" src="//slike.hribi.net/slike8/2_10259602IMG_20181031_103121.jpg" /></a>
     
 </div>
 
@@ -919,7 +910,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1104&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3101&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,13 +920,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_luknjo_poljanski_vrh/1/1104/1851">Pod Luknjo - Poljanski vrh</a></td><td class="tdG"><a href="/izlet/pod_luknjo_poljanski_vrh/1/1104/1851">3 h 30 min</a></td><td class="tdG"><a href="/izlet/pod_luknjo_poljanski_vrh/1/1104/1851">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/polje_poljanski_vrh/1/1104/5145">Polje - Poljanski vrh</a></td><td class="tdG"><a href="/izlet/polje_poljanski_vrh/1/1104/5145">4 h 45 min</a></td><td class="tdG"><a href="/izlet/polje_poljanski_vrh/1/1104/5145">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ravne_poljanski_vrh_cez_crno_prst/1/1104/6571">Ravne - Poljanski vrh (čez Črno prst)</a></td><td class="tdG"><a href="/izlet/ravne_poljanski_vrh_cez_crno_prst/1/1104/6571">4 h 25 min</a></td><td class="tdG"><a href="/izlet/ravne_poljanski_vrh_cez_crno_prst/1/1104/6571">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podbrdo_poljanski_vrh_cez_crno_prst/1/1104/6617">Podbrdo - Poljanski vrh (čez Črno prst)</a></td><td class="tdG"><a href="/izlet/podbrdo_poljanski_vrh_cez_crno_prst/1/1104/6617">4 h 35 min</a></td><td class="tdG"><a href="/izlet/podbrdo_poljanski_vrh_cez_crno_prst/1/1104/6617">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/strada_di_foredor_malga_cuarnan/1/3101/7375">Strada di Foredor - Malga Cuarnan</a></td><td class="tdG"><a href="/izlet/strada_di_foredor_malga_cuarnan/1/3101/7375"> 15 min</a></td><td class="tdG"><a href="/izlet/strada_di_foredor_malga_cuarnan/1/3101/7375">lahka označena pot</a></td></tr>
 
 </table>
 

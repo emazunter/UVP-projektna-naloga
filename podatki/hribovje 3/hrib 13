@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Štruca</title>
-        <meta name="description" content="Natančen opis gore Štruca in vseh pristopov na Štruca. Štruca je vrh z zanimivim imenom in prav taki obliki. Po tej obliki je gora tudi." />
+        <title>Ojstrica</title>
+        <meta name="description" content="Natančen opis gore Ojstrica in vseh pristopov na Ojstrica. Ojstrica, katera ime je dobila po svoji ostri obliki, se strmo dviga nad Korošic." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./49?gorovjeid=3&amp;id=49" id="form1">
+    <form method="post" action="./146?gorovjeid=3&amp;id=146" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/struca/3/49"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=49"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ojstrica/3/146"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=146"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Štruca
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Ojstrica
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(49);
+    gorast(146);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Štruca</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Ojstrica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2457&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2350&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,7614'N&nbsp;/&nbsp;14°&nbsp;33,1890'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,8370'N&nbsp;/&nbsp;14°&nbsp;38,2344'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;45,68''N&nbsp;/&nbsp;14°&nbsp;33'&nbsp;11,34''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;50,22''N&nbsp;/&nbsp;14°&nbsp;38'&nbsp;14,06''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.36269°N&nbsp;/&nbsp;14.55315°E";
+                        document.getElementById("kf0").innerHTML = "46.36395°N&nbsp;/&nbsp;14.63724°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,36269°N,&nbsp;14,55315°E";
+                    document.getElementById("kf0").innerHTML = "46,36395°N,&nbsp;14,63724°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,36269°N&nbsp;14,55315°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/struca/49"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,36395°N&nbsp;14,63724°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ojstrica/146"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Ojstrica - Torek" href="/vreme_gora/ojstrica/3/146#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Ojstrica - Sreda" href="/vreme_gora/ojstrica/3/146#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Ojstrica - Četrtek" href="/vreme_gora/ojstrica/3/146#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Štruca - Petek" href="/vreme_gora/struca/3/49#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ojstrica - Petek" href="/vreme_gora/ojstrica/3/146#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_2_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Štruca - Sobota" href="/vreme_gora/struca/3/49#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Štruca - Nedelja" href="/vreme_gora/struca/3/49#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Štruca - Ponedeljek" href="/vreme_gora/struca/3/49#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Štruca - Torek" href="/vreme_gora/struca/3/49#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ojstrica - Sobota" href="/vreme_gora/ojstrica/3/146#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 530.864</div>
-<div class="g2"><b>Priljubljenost:</b> 92%&nbsp;(254.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=49" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Ogledov:</b> 957.534</div>
+<div class="g2"><b>Priljubljenost:</b> 100%&nbsp;(15.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">17</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=146" title="Število vpisov v vpisni knjigi">13</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Štruca je vrh z zanimivim imenom in prav taki obliki. Po tej obliki je gora tudi dobila ime. Vrha, ki je le malo oddaljen z markirane poti marsikdo sploh ne opazi. Nahaja se v osrčju Kamniških Alp med Dolgim hrbtom in Skuto. Z vrha je lep pogled proti že omenjenima vrhovoma in večini najvišjih vrhov v tem delu Slovenije.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Ojstrica, katera ime je dobila po svoji ostri obliki, se strmo dviga nad Korošico, Logarsko dolino in Robanovim kotom. Z vrha, na katerem se nahaja vpisna skrinjica z žigom, se nam odpre lep razgled na najvišje vrhove Kamniško Savinjskih Alp.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=49&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=146&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_pod_grintovcem/3/390">Bivak pod Grintovcem (2100m)</a>, <a class="moder" href="/gora/bivak_pod_mrzlim_vrhom/3/618">Bivak pod Mrzlim vrhom (1980m)</a>, <a class="moder" href="/gora/bivak_pod_skuto/3/389">Bivak pod Skuto (2070m)</a>, <a class="moder" href="/gora/ceska_koca_na_spodnjih_ravneh/3/183">Češka koča na Spodnjih Ravneh (1542m)</a>, <a class="moder" href="/gora/dolgi_hrbet/3/42">Dolgi hrbet (2473m)</a>, <a class="moder" href="/gora/grintovec/3/16">Grintovec (2558m)</a>, <a class="moder" href="/gora/kogel/3/1525">Kogel (2100m)</a>, <a class="moder" href="/gora/koroska_rinka_kriz/3/387">Koroška Rinka (Križ) (2433m)</a>, <a class="moder" href="/gora/kranjska_koca_na_ledinah/3/225">Kranjska koča na Ledinah (1700m)</a>, <a class="moder" href="/gora/kranjska_rinka/3/50">Kranjska Rinka (2453m)</a>, <a class="moder" href="/gora/ledinski_vrh/3/336">Ledinski vrh (2108m)</a>, <a class="moder" href="/gora/mala_rinka/3/1323">Mala Rinka (2289m)</a>, <a class="moder" href="/gora/skuta/3/28">Skuta (2532m)</a>, <a class="moder" href="/gora/stajerska_rinka/3/388">Štajerska Rinka (2374m)</a>, <a class="moder" href="/gora/storzek/3/1289">Storžek (2110m)</a>, <a class="moder" href="/gora/turska_gora/3/391">Turska gora (2251m)</a>, <a class="moder" href="/gora/velika_koroska_baba/3/666">Velika (Koroška) Baba (2127m)</a>
+<a class="moder" href="/gora/kapelica_na_molicki_planini/3/324">Kapelica na Molički planini (1780m)</a>, <a class="moder" href="/gora/koca_na_klemenci_jami/3/619">Koča na Klemenči jami (1208m)</a>, <a class="moder" href="/gora/kocbekov_dom_na_korosici/3/199">Kocbekov dom na Korošici (1808m)</a>, <a class="moder" href="/gora/kroficka/3/1035">Krofička (2083m)</a>, <a class="moder" href="/gora/lucka_brana_baba/3/1532">Lučka Brana (Baba) (2331m)</a>, <a class="moder" href="/gora/lucki_dedec/3/358">Lučki Dedec (2023m)</a>, <a class="moder" href="/gora/mala_ojstrica/3/1392">Mala Ojstrica (2017m)</a>, <a class="moder" href="/gora/najvisji_rob_zeleniske_spice/3/1587">Najvišji rob (Zeleniške špice) (2127m)</a>, <a class="moder" href="/gora/planjava/3/80">Planjava (2392m)</a>, <a class="moder" href="/gora/rjavcki_vrh_planinsca/3/1535">Rjavčki vrh (Planinšca) (1898m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,33 +835,59 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstruca%2f3%2f49"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstruca%2f3%2f49"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstruca%2f3%2f49"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fojstrica%2f3%2f146"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fojstrica%2f3%2f146"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fojstrica%2f3%2f146"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/struca/49" title="Štruca 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.struca.jpg" /></a></div>
+<div><a href="/panorama/360/ojstrica/146" title="Ojstrica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Ojstrica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/struca/402" onclick="event.preventDefault(); window.open('/slika_gora/struca/402');"><img class="slikagm" alt="Štruca" src="//www.hribi.net/Gora/p6250162medium9yl.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ojstrica/98" onclick="event.preventDefault(); window.open('/slika_gora/ojstrica/98');"><img class="slikagm" alt="Ojstrica" src="//www.hribi.net/Gora/p3150227medium6jc.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/struca/955" onclick="event.preventDefault(); window.open('/slika_gora/struca/955');"><img class="slikagm" alt="Štruca" src="//www.hribi.net/Gora/p9130146mediumez5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ojstrica/709" onclick="event.preventDefault(); window.open('/slika_gora/ojstrica/709');"><img class="slikagm" alt="Ojstrica" src="//www.hribi.net/Gora/rimg0992mediumsm9.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/struca/957" onclick="event.preventDefault(); window.open('/slika_gora/struca/957');"><img class="slikagm" alt="Štruca" src="//www.hribi.net/Gora/p9130127mediumqr7.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ojstrica/710" onclick="event.preventDefault(); window.open('/slika_gora/ojstrica/710');"><img class="slikagm" alt="Ojstrica" src="//www.hribi.net/Gora/rimg1032mediumyc0.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/struca/960" onclick="event.preventDefault(); window.open('/slika_gora/struca/960');"><img class="slikagm" alt="Štruca" src="//www.hribi.net/Gora/p9130102mediumjc8.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ojstrica/1863" onclick="event.preventDefault(); window.open('/slika_gora/ojstrica/1863');"><img class="slikagm" alt="Ojstrica" src="//www.hribi.net/slike1/P6260073306180.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/ojstrica/2258" onclick="event.preventDefault(); window.open('/slika_gora/ojstrica/2258');"><img class="slikagm" alt="Ojstrica" src="//www.hribi.net/sliketemp/P92000944120924.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/ojstrica/3625" onclick="event.preventDefault(); window.open('/slika_gora/ojstrica/3625');"><img class="slikagm" alt="Ojstrica" src="//www.hribi.net/slike1/P8220230153216.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/ojstrica/4993" onclick="event.preventDefault(); window.open('/slika_gora/ojstrica/4993');"><img class="slikagm" alt="Ojstrica" src="//www.hribi.net/slike1/Ojstrica%20036102960.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/ojstrica/4995" onclick="event.preventDefault(); window.open('/slika_gora/ojstrica/4995');"><img class="slikagm" alt="Ojstrica" src="//www.hribi.net/slike1/Ojstrica%20147213840.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/ojstrica/4996" onclick="event.preventDefault(); window.open('/slika_gora/ojstrica/4996');"><img class="slikagm" alt="Ojstrica" src="//www.hribi.net/slike1/Ojstrica%20149213840.th.jpg" /></a>
     
 </div>
 
 
 
-
+<div style="padding-top:8px;"><b>Video:</b></div><div>
+        <a target="_blank" href="/video_posnetek/Gorništvo/ojstrica_2350_m/3/933"><img class="slikagmv" alt="Ojstrica, 2350 m" src="https://img.youtube.com/vi/acwWEUsiftk/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Gorništvo/ojstrica_via_kopinskova/3/720"><img class="slikagmv" alt="Ojstrica via Kopinškova" src="https://img.youtube.com/vi/5Rz9xD3ehQM/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Gorništvo/ojstrica_julij_2011/3/451"><img class="slikagmv" alt="Ojstrica julij 2011" src="https://img.youtube.com/vi/r2_ek3Gyk2c/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Smučanje/ojstrica/1/416"><img class="slikagmv" alt="Ojstrica" src="https://img.youtube.com/vi/IxX5ZzsEC0I/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Gorništvo/sestop_z_ojstrice/3/358"><img class="slikagmv" alt="Sestop z Ojstrice" src="https://img.youtube.com/vi/DkvHWGaaTmI/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Razgledi/panorama_z_vrha_ojstrice/4/322"><img class="slikagmv" alt="panorama z vrha Ojstrice" src="https://img.youtube.com/vi/jlqFGIpVL3c/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Živali/rusevec/5/251"><img class="slikagmv" alt="Ruševec" src="https://img.youtube.com/vi/Fd-rE0DjsDc/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_izpod_skarij/8/250"><img class="slikagmv" alt="Polet izpod Škarij" src="https://img.youtube.com/vi/0-_SIqXVUbc/0.jpg" /></a>
+    </div>
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -919,7 +945,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=49&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=146&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,19 +955,37 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/v_koncu_struca_cez_kokrsko_sedlo/3/49/226">V Koncu - Štruca (čez Kokrsko sedlo)</a></td><td class="tdG"><a href="/izlet/v_koncu_struca_cez_kokrsko_sedlo/3/49/226">5 h 10 min</a></td><td class="tdG"><a href="/izlet/v_koncu_struca_cez_kokrsko_sedlo/3/49/226">zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_podvezak_ojstrica_cez_malo_ojstrico/3/146/632">Planina Podvežak - Ojstrica (čez Malo Ojstrico)</a></td><td class="tdG"><a href="/izlet/planina_podvezak_ojstrica_cez_malo_ojstrico/3/146/632">3 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_podvezak_ojstrica_cez_malo_ojstrico/3/146/632">zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/v__koncu_struca_cez_gamsov_skret/3/49/756">V  Koncu - Štruca (čez Gamsov skret)</a></td><td class="tdG"><a href="/izlet/v__koncu_struca_cez_gamsov_skret/3/49/756">4 h 55 min</a></td><td class="tdG"><a href="/izlet/v__koncu_struca_cez_gamsov_skret/3/49/756">zelo zahtevna neoznačena steza, lahko brezpotje</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_podvezak_ojstrica_mimo_kocbekovega_doma/3/146/228">Planina Podvežak - Ojstrica (mimo Kocbekovega doma)</a></td><td class="tdG"><a href="/izlet/planina_podvezak_ojstrica_mimo_kocbekovega_doma/3/146/228">4 h</a></td><td class="tdG"><a href="/izlet/planina_podvezak_ojstrica_mimo_kocbekovega_doma/3/146/228">zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/suhadolnik_struca_cez_kokrsko_sedlo/3/49/649">Suhadolnik - Štruca (čez Kokrsko sedlo)</a></td><td class="tdG"><a href="/izlet/suhadolnik_struca_cez_kokrsko_sedlo/3/49/649">5 h 25 min</a></td><td class="tdG"><a href="/izlet/suhadolnik_struca_cez_kokrsko_sedlo/3/49/649">zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/na_razpotju_ojstrica_kopinskova_pot/3/146/1725">Na Razpotju - Ojstrica (Kopinškova pot)</a></td><td class="tdG"><a href="/izlet/na_razpotju_ojstrica_kopinskova_pot/3/146/1725">4 h 10 min</a></td><td class="tdG"><a href="/izlet/na_razpotju_ojstrica_kopinskova_pot/3/146/1725">zelo zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ravenska_kocna_struca_po_ferati_in_cez_dolgi_hrbet/3/49/5499">Ravenska Kočna - Štruca (po ferati in čez Dolgi hrbet)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_struca_po_ferati_in_cez_dolgi_hrbet/3/49/5499">5 h 55 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_struca_po_ferati_in_cez_dolgi_hrbet/3/49/5499">izjemno zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/robanov_kot_ojstrica_cez_malo_ojstrico/3/146/1832">Robanov kot - Ojstrica (čez Malo Ojstrico)</a></td><td class="tdG"><a href="/izlet/robanov_kot_ojstrica_cez_malo_ojstrico/3/146/1832">5 h 15 min</a></td><td class="tdG"><a href="/izlet/robanov_kot_ojstrica_cez_malo_ojstrico/3/146/1832">zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ravenska_kocna_struca_mimo_zicnice_in_cez_dolgi_hrbet/3/49/5498">Ravenska Kočna - Štruca (mimo žičnice in čez Dolgi hrbet)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_struca_mimo_zicnice_in_cez_dolgi_hrbet/3/49/5498">5 h 25 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_struca_mimo_zicnice_in_cez_dolgi_hrbet/3/49/5498">zelo zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/na_razpotju_ojstrica_cez_skarje/3/146/1726"> Na Razpotju - Ojstrica (čez Škarje)</a></td><td class="tdG"><a href="/izlet/na_razpotju_ojstrica_cez_skarje/3/146/1726">4 h 15 min</a></td><td class="tdG"><a href="/izlet/na_razpotju_ojstrica_cez_skarje/3/146/1726">zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ravenska_kocna_struca_cez_stularjevo_planino_in_dolgi_hrbet/3/49/5501">Ravenska Kočna - Štruca (čez Štularjevo planino in Dolgi hrbet)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_struca_cez_stularjevo_planino_in_dolgi_hrbet/3/49/5501">5 h 25 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_struca_cez_stularjevo_planino_in_dolgi_hrbet/3/49/5501">zelo zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_planincev_v_logarski_dolini_ojstrica_kopinskova_pot/3/146/4776">Dom Planincev v Logarski dolini - Ojstrica (Kopinškova pot)</a></td><td class="tdG"><a href="/izlet/dom_planincev_v_logarski_dolini_ojstrica_kopinskova_pot/3/146/4776">4 h 5 min</a></td><td class="tdG"><a href="/izlet/dom_planincev_v_logarski_dolini_ojstrica_kopinskova_pot/3/146/4776">zelo zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ravenska_kocna_struca_umik_zrela_in_cez_dolgi_hrbet/3/49/5500">Ravenska Kočna - Štruca (umik Žrela in čez Dolgi hrbet)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_struca_umik_zrela_in_cez_dolgi_hrbet/3/49/5500">5 h 30 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_struca_umik_zrela_in_cez_dolgi_hrbet/3/49/5500">zelo zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_planincev_v_logarski_dolini_ojstrica_cez_skarje/3/146/4782">Dom Planincev v Logarski dolini - Ojstrica (čez Škarje)</a></td><td class="tdG"><a href="/izlet/dom_planincev_v_logarski_dolini_ojstrica_cez_skarje/3/146/4782">4 h 10 min</a></td><td class="tdG"><a href="/izlet/dom_planincev_v_logarski_dolini_ojstrica_cez_skarje/3/146/4782">zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/pred_belo_ojstrica/3/146/2605">Pred Belo - Ojstrica</a></td><td class="tdG"><a href="/izlet/pred_belo_ojstrica/3/146/2605">6 h 45 min</a></td><td class="tdG"><a href="/izlet/pred_belo_ojstrica/3/146/2605">zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_ravne_ojstrica_cez_malo_ojstrico/3/146/2330">Planina Ravne - Ojstrica (čez Malo Ojstrico)</a></td><td class="tdG"><a href="/izlet/planina_ravne_ojstrica_cez_malo_ojstrico/3/146/2330">4 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_ojstrica_cez_malo_ojstrico/3/146/2330">zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/pred_belo_ojstrica_cez_skok_in_sraj_pesek/3/146/5464">Pred Belo - Ojstrica (čez Skok in Šraj pesek)</a></td><td class="tdG"><a href="/izlet/pred_belo_ojstrica_cez_skok_in_sraj_pesek/3/146/5464">6 h</a></td><td class="tdG"><a href="/izlet/pred_belo_ojstrica_cez_skok_in_sraj_pesek/3/146/5464">zelo zahtevna neoznačena steza, zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kraljev_dol_ojstrica_cez_malo_ojstrico/3/146/5184">Kraljev dol - Ojstrica (čez Malo Ojstrico)</a></td><td class="tdG"><a href="/izlet/kraljev_dol_ojstrica_cez_malo_ojstrico/3/146/5184">3 h 45 min</a></td><td class="tdG"><a href="/izlet/kraljev_dol_ojstrica_cez_malo_ojstrico/3/146/5184">zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/robanov_kot_ojstrica_mimo_kocbekovega_doma/3/146/5950">Robanov kot - Ojstrica (mimo Kocbekovega doma)</a></td><td class="tdG"><a href="/izlet/robanov_kot_ojstrica_mimo_kocbekovega_doma/3/146/5950">5 h 45 min</a></td><td class="tdG"><a href="/izlet/robanov_kot_ojstrica_mimo_kocbekovega_doma/3/146/5950">zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lovska_koca_na_brezicih_ojstrica_lovska_pot/3/146/2881">Lovska koča na Brežičih - Ojstrica (lovska pot)</a></td><td class="tdG"><a href="/izlet/lovska_koca_na_brezicih_ojstrica_lovska_pot/3/146/2881">4 h 35 min</a></td><td class="tdG"><a href="/izlet/lovska_koca_na_brezicih_ojstrica_lovska_pot/3/146/2881">zahtevna neoznačena steza, zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_ravne_ojstrica_cez_dolgo_trato_in_mimo_kocbekovega_doma/3/146/4065"> Planina Ravne - Ojstrica (čez Dolgo trato in mimo Kocbekovega doma)</a></td><td class="tdG"><a href="/izlet/planina_ravne_ojstrica_cez_dolgo_trato_in_mimo_kocbekovega_doma/3/146/4065">5 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_ojstrica_cez_dolgo_trato_in_mimo_kocbekovega_doma/3/146/4065">zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kraljev_dol_ojstrica_mimo_kocbekovega_doma/3/146/5222">Kraljev dol - Ojstrica (mimo Kocbekovega doma)</a></td><td class="tdG"><a href="/izlet/kraljev_dol_ojstrica_mimo_kocbekovega_doma/3/146/5222">4 h 15 min</a></td><td class="tdG"><a href="/izlet/kraljev_dol_ojstrica_mimo_kocbekovega_doma/3/146/5222">zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_ravne_ojstrica_cez_dolgo_trato_in_malo_ojstrico/3/146/4066">Planina Ravne - Ojstrica (čez Dolgo trato in Malo Ojstrico)</a></td><td class="tdG"><a href="/izlet/planina_ravne_ojstrica_cez_dolgo_trato_in_malo_ojstrico/3/146/4066">4 h 45 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_ojstrica_cez_dolgo_trato_in_malo_ojstrico/3/146/4066">zahtevna označena pot</a></td></tr>
 
 </table>
 

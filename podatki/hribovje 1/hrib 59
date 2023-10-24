@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Velika Jazbina</title>
-        <meta name="description" content="Natančen opis gore Velika Jazbina in vseh pristopov na Velika Jazbina. Velika Jazbina je manj znan, deloma prepaden in na eno stran tudi precej razgled." />
+        <title>Lašček</title>
+        <meta name="description" content="Natančen opis gore Lašček in vseh pristopov na Lašček. Lašček je s 1071 m najvišji vrh Banjške planote, planote, ki se dviga nad Čepova." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1977?gorovjeid=26&amp;id=1977" id="form1">
+    <form method="post" action="./1984?gorovjeid=26&amp;id=1984" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/velika_jazbina/26/1977"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1977"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lascek/26/1984"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1984"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Velika Jazbina
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Lašček
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1977);
+    gorast(1984);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Velika Jazbina</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Lašček</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1201&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1071&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;40,8840'N&nbsp;/&nbsp;14°&nbsp;33,4080'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;4,740'N&nbsp;/&nbsp;13°&nbsp;46,380'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;40'&nbsp;53,04''N&nbsp;/&nbsp;14°&nbsp;33'&nbsp;24,48''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;4'&nbsp;44,40''N&nbsp;/&nbsp;13°&nbsp;46'&nbsp;22,80''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.6814°N&nbsp;/&nbsp;14.5568°E";
+                        document.getElementById("kf0").innerHTML = "46.079°N&nbsp;/&nbsp;13.773°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,6814°N,&nbsp;14,5568°E";
+                    document.getElementById("kf0").innerHTML = "46,079°N,&nbsp;13,773°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,6814°N&nbsp;14,5568°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/velika_jazbina/1977"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,079°N&nbsp;13,773°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lascek/1984"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Lašček - Torek" href="/vreme_gora/lascek/26/1984#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Lašček - Sreda" href="/vreme_gora/lascek/26/1984#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Lašček - Četrtek" href="/vreme_gora/lascek/26/1984#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Jazbina - Petek" href="/vreme_gora/velika_jazbina/26/1977#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lašček - Petek" href="/vreme_gora/lascek/26/1984#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Jazbina - Sobota" href="/vreme_gora/velika_jazbina/26/1977#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Jazbina - Nedelja" href="/vreme_gora/velika_jazbina/26/1977#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Jazbina - Ponedeljek" href="/vreme_gora/velika_jazbina/26/1977#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Jazbina - Torek" href="/vreme_gora/velika_jazbina/26/1977#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lašček - Sobota" href="/vreme_gora/lascek/26/1984#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 184.618</div>
-<div class="g2"><b>Priljubljenost:</b> 56%&nbsp;(1446.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1977" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 338.485</div>
+<div class="g2"><b>Priljubljenost:</b> 74%&nbsp;(866.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Velika Jazbina je manj znan, deloma prepaden in na eno stran tudi precej razgleden vrh, ki se nahaja v osrčju Racne gore, le ta pa med Loško dolino in Loškim potokom. Z vrha, ki ga večinoma prerašča grmičevje, se nam odpre lep pogled na okoliško hribovje.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Lašček je s 1071 m najvišji vrh Banjške planote, planote, ki se dviga nad Čepovanskim dolom, dolino reke Soče in dolino reke Idrijce. Z vrha, na katerem je razgledna plošča ter pod njo vpisna skrinjica z vpisno knjigo in žigom, se nam odpre lep razgled proti Trnovskemu gozdu, Matajurju, Krnskem pogorju, Poreznu, Triglavu, ob lepem vremenu pa razgled seže vse do italijanskih Dolomitov</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1977&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1984&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/petelinjek/26/1976">Petelinjek (1212m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,21 +835,25 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/iga_vas/1077">Iga vas</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/ribnica/1981">Ribnica</a>, <a class="moder" href="/spletna_kamera/sneznik/1947">Snežnik</a>, <a class="moder" href="/spletna_kamera/studenec_na_blokah/1599">Studenec na Blokah</a>
+<a class="moder" href="/spletna_kamera/deskle/2025">Deskle</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/ravna_pri_ligu/1589">Ravna pri Ligu</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/solkanski_most/3326">Solkanski most</a>, <a class="moder" href="/spletna_kamera/sveta_gora/1882">Sveta Gora</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_jazbina%2f26%2f1977"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_jazbina%2f26%2f1977"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_jazbina%2f26%2f1977"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flascek%2f26%2f1984"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flascek%2f26%2f1984"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flascek%2f26%2f1984"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/velika_jazbina/1977" title="Velika Jazbina 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VelikaJazbinaa.jpg" /></a></div>
+<div><a href="/panorama/360/lascek/1984" title="Lašček 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Lascek.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/velika_jazbina/9638" onclick="event.preventDefault(); window.open('/slika_gora/velika_jazbina/9638');"><img class="slikagm" alt="Velika Jazbina" src="//www.hribi.net/slike1/Petelinjek 16965856.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lascek/9680" onclick="event.preventDefault(); window.open('/slika_gora/lascek/9680');"><img class="slikagm" alt="Lašček" src="//www.hribi.net/slike1/Lascek 069112320.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/lascek/9681" onclick="event.preventDefault(); window.open('/slika_gora/lascek/9681');"><img class="slikagm" alt="Lašček" src="//www.hribi.net/slike1/Lascek 071112320.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/lascek/9682" onclick="event.preventDefault(); window.open('/slika_gora/lascek/9682');"><img class="slikagm" alt="Lašček" src="//www.hribi.net/slike1/Lascek 1239360.th.jpg" /></a>
     
 </div>
 
@@ -913,7 +917,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1977&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1984&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -923,7 +927,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/matevljek_velika_jazbina/26/1977/3818">Matevljek - Velika Jazbina</a></td><td class="tdG"><a href="/izlet/matevljek_velika_jazbina/26/1977/3818">1 h</a></td><td class="tdG"><a href="/izlet/matevljek_velika_jazbina/26/1977/3818">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/cvetrez_lascek/26/1984/3854">Cvetrež - Lašček</a></td><td class="tdG"><a href="/izlet/cvetrez_lascek/26/1984/3854">1 h</a></td><td class="tdG"><a href="/izlet/cvetrez_lascek/26/1984/3854">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/srednji_lokovec_lascek_skozi_rastelo/26/1984/4788">Srednji Lokovec - Lašček (skozi Raštelo)</a></td><td class="tdG"><a href="/izlet/srednji_lokovec_lascek_skozi_rastelo/26/1984/4788">2 h</a></td><td class="tdG"><a href="/izlet/srednji_lokovec_lascek_skozi_rastelo/26/1984/4788">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/srednji_lokovec_lascek_skozi_novo_mesto/26/1984/4785">Srednji Lokovec - Lašček (skozi Novo Mesto)</a></td><td class="tdG"><a href="/izlet/srednji_lokovec_lascek_skozi_novo_mesto/26/1984/4785">1 h 45 min</a></td><td class="tdG"><a href="/izlet/srednji_lokovec_lascek_skozi_novo_mesto/26/1984/4785">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/cvetrez_lascek_po_cesti/26/1984/3855">Cvetrež - Lašček (po cesti)</a></td><td class="tdG"><a href="/izlet/cvetrez_lascek_po_cesti/26/1984/3855">1 h 20 min</a></td><td class="tdG"><a href="/izlet/cvetrez_lascek_po_cesti/26/1984/3855">lahka označena pot</a></td></tr>
 
 </table>
 

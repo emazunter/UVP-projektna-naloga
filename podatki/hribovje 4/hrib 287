@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kopa / Monte Coppa</title>
-        <meta name="description" content="Natančen opis gore Kopa / Monte Coppa in vseh pristopov na Kopa / Monte Coppa. Kopa (na nekaterih zemljevidih tudi Kopje) oz. po ital. Monte Coppa je 1496 metr." />
+        <title>Stegovniški slap</title>
+        <meta name="description" content="Natančen opis slapa Stegovniški slap in vseh pristopov na Stegovniški slap. Steovniški slap je 15 metrov visok ter okoli 6 metrov širok slap, ki se nahaja n." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2134?gorovjeid=11&amp;id=2134" id="form1">
+    <form method="post" action="./2093?gorovjeid=11&amp;id=2093" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/monte_coppa/11/2134"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=2134"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/stegovnik_waterfall/11/2093"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=2093"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Kopa / Monte Coppa
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Stegovniški slap
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2134);
+    gorast(2093);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kopa / Monte Coppa</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Stegovniški slap</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1496&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 872&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,8844'N&nbsp;/&nbsp;13°&nbsp;42,4230'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,2820'N&nbsp;/&nbsp;14°&nbsp;23,8320'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;53,06''N&nbsp;/&nbsp;13°&nbsp;42'&nbsp;25,38''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;16,92''N&nbsp;/&nbsp;14°&nbsp;23'&nbsp;49,92''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.51474°N&nbsp;/&nbsp;13.70705°E";
+                        document.getElementById("kf0").innerHTML = "46.4047°N&nbsp;/&nbsp;14.3972°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,51474°N,&nbsp;13,70705°E";
+                    document.getElementById("kf0").innerHTML = "46,4047°N,&nbsp;14,3972°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,51474°N&nbsp;13,70705°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kopa___monte_coppa/2134"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4047°N&nbsp;14,3972°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/stegovniski_slap/2093"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> slap</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Stegovniški slap - Torek" href="/vreme_gora/stegovniski_slap/11/2093#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Stegovniški slap - Sreda" href="/vreme_gora/stegovniski_slap/11/2093#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Stegovniški slap - Četrtek" href="/vreme_gora/stegovniski_slap/11/2093#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kopa / Monte Coppa - Petek" href="/vreme_gora/kopa___monte_coppa/11/2134#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Stegovniški slap - Petek" href="/vreme_gora/stegovniski_slap/11/2093#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kopa / Monte Coppa - Sobota" href="/vreme_gora/kopa___monte_coppa/11/2134#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kopa / Monte Coppa - Nedelja" href="/vreme_gora/kopa___monte_coppa/11/2134#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kopa / Monte Coppa - Ponedeljek" href="/vreme_gora/kopa___monte_coppa/11/2134#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kopa / Monte Coppa - Torek" href="/vreme_gora/kopa___monte_coppa/11/2134#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Stegovniški slap - Sobota" href="/vreme_gora/stegovniski_slap/11/2093#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 270.753</div>
-<div class="g2"><b>Priljubljenost:</b> 66%&nbsp;(1116.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 145.840</div>
+<div class="g2"><b>Priljubljenost:</b> 51%&nbsp;(1596.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kopa (na nekaterih zemljevidih tudi Kopje) oz. po ital. Monte Coppa je 1496 metrov visok vrh, ki se nahaja na italijanski strani Karavank. V bližini vrha je nekoč potekala stara Rapalska meja, zato je ob poti do vrha in skoraj na samem vrhu opaziti več starih objektov, ki so jih zgradili Italijani v času med obema svetovnima vojnama. Vrh je porasel z gozdom, tako, da se nam z njega odpre le nekaj malega razgleda med krošnjami dreves.</div>
+<div style="padding-top:10px;"><b>Opis slapa:</b><br />Steovniški slap je 15 metrov visok ter okoli 6 metrov širok slap, ki se nahaja na potoku Stegovnik, le ta pa pod Stegovnikom in Malim Javornikom.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2134&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2093&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_brez_meja___bivacco_senza_confini/11/2573">Bivak brez meja / Bivacco Senza Confini (1319m)</a>, <a class="moder" href="/gora/dom_na_tromeji/11/303">Dom na Tromeji (1145m)</a>, <a class="moder" href="/gora/dreilandereck_hutte/11/507">Dreiländereck Hütte (1423m)</a>, <a class="moder" href="/gora/marija_snezna_kavalar___madonna_della_neve/11/2124">Marija Snežna (Kavalar) / Madonna della Neve (1275m)</a>, <a class="moder" href="/gora/pec_tromeja/11/302">Peč (Tromeja) (1508m)</a>
+<a class="moder" href="/gora/medvodnica/11/3265">Medvodnica (1202m)</a>, <a class="moder" href="/gora/penatca/11/3251">Penatca (1299m)</a>, <a class="moder" href="/gora/vetrh_vrh/11/2130">Vetrh vrh (1268m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,24 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/beljak___villach/254">Beljak / Villach</a>, <a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/dobrac_dobratsch/170">Dobrač/Dobratsch</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/zabnice___camporosso_in_valcanale/1975">Žabnice / Camporosso in Valcanale</a>, <a class="moder" href="/spletna_kamera/zahomec___monte_acomizza___schonwipfel/1840">Zahomec / Monte Acomizza / Schönwipfel</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkopa___monte_coppa%2f11%2f2134"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkopa___monte_coppa%2f11%2f2134"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkopa___monte_coppa%2f11%2f2134"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstegovniski_slap%2f11%2f2093"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstegovniski_slap%2f11%2f2093"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstegovniski_slap%2f11%2f2093"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kopa___monte_coppa/10526" onclick="event.preventDefault(); window.open('/slika_gora/kopa___monte_coppa/10526');"><img class="slikagm" alt="Kopa / Monte Coppa" src="//www.hribi.net/slike1/Zelenci 0341740960.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stegovniski_slap/10302" onclick="event.preventDefault(); window.open('/slika_gora/stegovniski_slap/10302');"><img class="slikagm" alt="Stegovniški slap" src="//www.hribi.net/slike1/Stegovnik 019103680.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kopa___monte_coppa/10527" onclick="event.preventDefault(); window.open('/slika_gora/kopa___monte_coppa/10527');"><img class="slikagm" alt="Kopa / Monte Coppa" src="//www.hribi.net/slike1/Zelenci 0792134080.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kopa___monte_coppa/10528" onclick="event.preventDefault(); window.open('/slika_gora/kopa___monte_coppa/10528');"><img class="slikagm" alt="Kopa / Monte Coppa" src="//www.hribi.net/slike1/Zelenci 0942302560.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kopa___monte_coppa/10529" onclick="event.preventDefault(); window.open('/slika_gora/kopa___monte_coppa/10529');"><img class="slikagm" alt="Kopa / Monte Coppa" src="//www.hribi.net/slike1/Zelenci 1142639520.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stegovniski_slap/10303" onclick="event.preventDefault(); window.open('/slika_gora/stegovniski_slap/10303');"><img class="slikagm" alt="Stegovniški slap" src="//www.hribi.net/slike1/Stegovnik 026103680.th.jpg" /></a>
     
 </div>
 
@@ -916,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2134&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2093&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -926,9 +922,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ratece_kopa___monte_coppa/11/2134/4283">Rateče - Kopa / Monte Coppa</a></td><td class="tdG"><a href="/izlet/ratece_kopa___monte_coppa/11/2134/4283">2 h</a></td><td class="tdG"><a href="/izlet/ratece_kopa___monte_coppa/11/2134/4283">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/pri_jalnu___fusine_laghi_kopa___monte_coppa/11/2134/4282">Pri Jalnu / Fusine Laghi - Kopa / Monte Coppa</a></td><td class="tdG"><a href="/izlet/pri_jalnu___fusine_laghi_kopa___monte_coppa/11/2134/4282">2 h</a></td><td class="tdG"><a href="/izlet/pri_jalnu___fusine_laghi_kopa___monte_coppa/11/2134/4282">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/medvodje_stegovniski_slap/11/2093/4174">Medvodje - Stegovniški slap</a></td><td class="tdG"><a href="/izlet/medvodje_stegovniski_slap/11/2093/4174"> 10 min</a></td><td class="tdG"><a href="/izlet/medvodje_stegovniski_slap/11/2093/4174">lahka označena pot</a></td></tr>
 
 </table>
 

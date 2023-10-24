@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kovk</title>
-        <meta name="description" content="Natančen opis gore Kovk in vseh pristopov na Kovk. Kovk je razgleden vrh, ki se nahaja zahodno od Cola, na razpotegnjenem grebenu, ." />
+        <title>Hrpeljska gora</title>
+        <meta name="description" content="Natančen opis gore Hrpeljska gora in vseh pristopov na Hrpeljska gora. Hrpeljska gora ali Mišja šoga je 737m visok vrh, ki se nahaja južno od Hrpelj. Z." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1183?gorovjeid=26&amp;id=1183" id="form1">
+    <form method="post" action="./1157?gorovjeid=26&amp;id=1157" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kovk/26/1183"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1183"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/hrpeljska_gora/26/1157"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1157"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Kovk
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Hrpeljska gora
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1183);
+    gorast(1157);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kovk</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Hrpeljska gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 961&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 737&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;53,2752'N&nbsp;/&nbsp;13°&nbsp;58,1418'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;34,9104'N&nbsp;/&nbsp;13°&nbsp;57,0066'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;53'&nbsp;16,51''N&nbsp;/&nbsp;13°&nbsp;58'&nbsp;8,51''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;34'&nbsp;54,62''N&nbsp;/&nbsp;13°&nbsp;57'&nbsp;0,40''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.88792°N&nbsp;/&nbsp;13.96903°E";
+                        document.getElementById("kf0").innerHTML = "45.58184°N&nbsp;/&nbsp;13.95011°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,88792°N,&nbsp;13,96903°E";
+                    document.getElementById("kf0").innerHTML = "45,58184°N,&nbsp;13,95011°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,88792°N&nbsp;13,96903°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kovk/1183"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,58184°N&nbsp;13,95011°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/hrpeljska_gora/1157"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Hrpeljska gora - Torek" href="/vreme_gora/hrpeljska_gora/26/1157#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Hrpeljska gora - Sreda" href="/vreme_gora/hrpeljska_gora/26/1157#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Hrpeljska gora - Četrtek" href="/vreme_gora/hrpeljska_gora/26/1157#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kovk - Petek" href="/vreme_gora/kovk/26/1183#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Hrpeljska gora - Petek" href="/vreme_gora/hrpeljska_gora/26/1157#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kovk - Sobota" href="/vreme_gora/kovk/26/1183#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kovk - Nedelja" href="/vreme_gora/kovk/26/1183#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kovk - Ponedeljek" href="/vreme_gora/kovk/26/1183#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kovk - Torek" href="/vreme_gora/kovk/26/1183#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Hrpeljska gora - Sobota" href="/vreme_gora/hrpeljska_gora/26/1157#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 390.298</div>
-<div class="g2"><b>Priljubljenost:</b> 79%&nbsp;(677.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Ogledov:</b> 232.633</div>
+<div class="g2"><b>Priljubljenost:</b> 62%&nbsp;(1260.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1183" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kovk je razgleden vrh, ki se nahaja zahodno od Cola, na razpotegnjenem grebenu, ki se strmo dviga nad Vipavsko dolino. Z vrha na katerem stoji križ se nam odpre lep razgled proti Nanosu, delu Vipavske doline, Čavnu in Golakom. Vrh ima vpisno skrinjico in žig.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Hrpeljska gora ali Mišja šoga je 737m visok vrh, ki se nahaja južno od Hrpelj. Z delno poraščenega vrha pa se nam odpre lep razgled po bližnji in daljni okolici.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1183&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1157&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kraguljc/26/2496">Kraguljc (897m)</a>, <a class="moder" href="/gora/podrta_gora_nad_ajdovscino/26/2495">Podrta gora nad Ajdovščino (827m)</a>, <a class="moder" href="/gora/soncnica_reber/26/2494">Sončnica (Reber) (867m)</a>
+<a class="moder" href="/gora/lovski_dom_pod_glavico/26/1155">Lovski dom pod Glavico (610m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,31 +835,25 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/nanos_plesa/2957">Nanos (Pleša)</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/podgric/1414">Podgrič</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/rebrnice/1409">Rebrnice</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/stanjel_ferrarijev_vrt/4213">Štanjel (Ferrarijev vrt)</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>
+<a class="moder" href="/spletna_kamera/bazovica___basovizza/1649">Bazovica / Basovizza</a>, <a class="moder" href="/spletna_kamera/bertoki/4921">Bertoki</a>, <a class="moder" href="/spletna_kamera/divaca/3260">Divača</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kokos/4324">Kokoš</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/letalisce_divaca/2203">Letališče Divača</a>, <a class="moder" href="/spletna_kamera/lipica/1701">Lipica</a>, <a class="moder" href="/spletna_kamera/milje___muggia/1639">Milje / Muggia</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/spodnje_skofije/1080">Spodnje Škofije</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>, <a class="moder" href="/spletna_kamera/zirje_pri_sezani/1166">Žirje pri Sežani</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkovk%2f26%2f1183"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkovk%2f26%2f1183"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkovk%2f26%2f1183"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fhrpeljska_gora%2f26%2f1157"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fhrpeljska_gora%2f26%2f1157"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fhrpeljska_gora%2f26%2f1157"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kovk/1183" title="Kovk 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Kovk.jpg" /></a></div>
+<div><a href="/panorama/360/hrpeljska_gora/1157" title="Hrpeljska gora 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.HrpeljskaGora.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kovk/3977" onclick="event.preventDefault(); window.open('/slika_gora/kovk/3977');"><img class="slikagm" alt="Kovk" src="//www.hribi.net/slike1/P2220065182574.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hrpeljska_gora/3900" onclick="event.preventDefault(); window.open('/slika_gora/hrpeljska_gora/3900');"><img class="slikagm" alt="Hrpeljska gora" src="//www.hribi.net/slike1/P13000244860.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kovk/3978" onclick="event.preventDefault(); window.open('/slika_gora/kovk/3978');"><img class="slikagm" alt="Kovk" src="//www.hribi.net/slike1/P2220035186300.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hrpeljska_gora/3901" onclick="event.preventDefault(); window.open('/slika_gora/hrpeljska_gora/3901');"><img class="slikagm" alt="Hrpeljska gora" src="//www.hribi.net/slike1/P13000215400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kovk/3979" onclick="event.preventDefault(); window.open('/slika_gora/kovk/3979');"><img class="slikagm" alt="Kovk" src="//www.hribi.net/slike1/P2220086218592.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kovk/4035" onclick="event.preventDefault(); window.open('/slika_gora/kovk/4035');"><img class="slikagm" alt="Kovk" src="//www.hribi.net/sliketemp/P30900634892605.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kovk/12600" onclick="event.preventDefault(); window.open('/slika_gora/kovk/12600');"><img class="slikagm" alt="Kovk" src="//www.hribi.net/slike1/SpeckNadColom 26653760.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kovk/13455" onclick="event.preventDefault(); window.open('/slika_gora/kovk/13455');"><img class="slikagm" alt="Kovk" src="//www.hribi.net/slike1/DSCN41050.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hrpeljska_gora/3902" onclick="event.preventDefault(); window.open('/slika_gora/hrpeljska_gora/3902');"><img class="slikagm" alt="Hrpeljska gora" src="//www.hribi.net/slike1/P130026321888.th.jpg" /></a>
     
 </div>
 
@@ -923,7 +917,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1183&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1157&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -933,11 +927,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lovska_koca_budanje_kovk/26/1183/2021">Lovska koča Budanje - Kovk</a></td><td class="tdG"><a href="/izlet/lovska_koca_budanje_kovk/26/1183/2021">1 h 30 min</a></td><td class="tdG"><a href="/izlet/lovska_koca_budanje_kovk/26/1183/2021">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/hrpelje_hrpeljska_gora/26/1157/1949">Hrpelje - Hrpeljska gora</a></td><td class="tdG"><a href="/izlet/hrpelje_hrpeljska_gora/26/1157/1949">1 h 30 min</a></td><td class="tdG"><a href="/izlet/hrpelje_hrpeljska_gora/26/1157/1949">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/col_kovk/26/1183/1980">Col - Kovk</a></td><td class="tdG"><a href="/izlet/col_kovk/26/1183/1980">1 h</a></td><td class="tdG"><a href="/izlet/col_kovk/26/1183/1980">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lovski_dom_pod_glavico_hrpeljska_gora/26/1157/1948">Lovski dom pod Glavico - Hrpeljska gora</a></td><td class="tdG"><a href="/izlet/lovski_dom_pod_glavico_hrpeljska_gora/26/1157/1948"> 35 min</a></td><td class="tdG"><a href="/izlet/lovski_dom_pod_glavico_hrpeljska_gora/26/1157/1948">lahka neoznačena steza, lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jamce_kovk/26/1183/5317">Jamce - Kovk</a></td><td class="tdG"><a href="/izlet/jamce_kovk/26/1183/5317">2 h 10 min</a></td><td class="tdG"><a href="/izlet/jamce_kovk/26/1183/5317">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/presnica_hrpeljska_gora/26/1157/6804">Prešnica - Hrpeljska gora</a></td><td class="tdG"><a href="/izlet/presnica_hrpeljska_gora/26/1157/6804">1 h 20 min</a></td><td class="tdG"><a href="/izlet/presnica_hrpeljska_gora/26/1157/6804">lahka neoznačena steza, lahka označena pot</a></td></tr>
 
 </table>
 

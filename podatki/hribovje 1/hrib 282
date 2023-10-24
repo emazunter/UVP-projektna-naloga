@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Lipnik</title>
-        <meta name="description" content="Natančen opis gore Lipnik in vseh pristopov na Lipnik. Lipnik je 804 m visok vrh, ki se nahaja nad vasjo Rakitovec ob slovensko hrvaški." />
+        <title>Iški morost</title>
+        <meta name="description" content="Natančen opis gore Iški morost in vseh pristopov na Iški morost. Naravni rezervat Iški morost se nahaja na Ljubljanskem barju ob reki Iški in sic." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1690?gorovjeid=26&amp;id=1690" id="form1">
+    <form method="post" action="./2290?gorovjeid=26&amp;id=2290" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lipnik/26/1690"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1690"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/iski_morost/26/2290"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2290"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Lipnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Iški morost
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1690);
+    gorast(2290);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Lipnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Iški morost</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 804&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 289&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;28,8486'N&nbsp;/&nbsp;13°&nbsp;57,9228'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;58,9320'N&nbsp;/&nbsp;14°&nbsp;28,7640'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;28'&nbsp;50,92''N&nbsp;/&nbsp;13°&nbsp;57'&nbsp;55,37''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;58'&nbsp;55,92''N&nbsp;/&nbsp;14°&nbsp;28'&nbsp;45,84''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.48081°N&nbsp;/&nbsp;13.96538°E";
+                        document.getElementById("kf0").innerHTML = "45.9822°N&nbsp;/&nbsp;14.4794°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,48081°N,&nbsp;13,96538°E";
+                    document.getElementById("kf0").innerHTML = "45,9822°N,&nbsp;14,4794°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,48081°N&nbsp;13,96538°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lipnik/1690"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,9822°N&nbsp;14,4794°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/iski_morost/2290"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Iški morost - Torek" href="/vreme_gora/iski_morost/26/2290#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Iški morost - Sreda" href="/vreme_gora/iski_morost/26/2290#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Iški morost - Četrtek" href="/vreme_gora/iski_morost/26/2290#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Lipnik - Petek" href="/vreme_gora/lipnik/26/1690#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Iški morost - Petek" href="/vreme_gora/iski_morost/26/2290#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Lipnik - Sobota" href="/vreme_gora/lipnik/26/1690#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Lipnik - Nedelja" href="/vreme_gora/lipnik/26/1690#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Lipnik - Ponedeljek" href="/vreme_gora/lipnik/26/1690#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Lipnik - Torek" href="/vreme_gora/lipnik/26/1690#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Iški morost - Sobota" href="/vreme_gora/iski_morost/26/2290#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 339.302</div>
-<div class="g2"><b>Priljubljenost:</b> 74%&nbsp;(859.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 196.832</div>
+<div class="g2"><b>Priljubljenost:</b> 57%&nbsp;(1399.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2290" title="Število vpisov v vpisni knjigi">4</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Lipnik je 804 m visok vrh, ki se nahaja nad vasjo Rakitovec ob slovensko hrvaški meji. Z vrha, na katerem stoji križ in ob njem vpisna skrinjica, se nam odpre lep razgled proti Istri, Tržaškemu zalivu, ob lepem vremenu pa razgled seže vse do Dolomitov v sosednji Italiji.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Naravni rezervat Iški morost se nahaja na Ljubljanskem barju ob reki Iški in sicer nekje med naselji Lipe, Črna vas in Brest. Po naravnem rezervatu poteka tudi Koščeva učna pot, ki je opremljena z informativnimi tablami in lepo urejeno opazovalnico, ki jo z veseljem uporabljajo ljubitelji in ljubiteljice ptic.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1690&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2290&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/golic/26/1683">Golič (890m)</a>, <a class="moder" href="/gora/kavcic/26/1691">Kavčič (879m)</a>, <a class="moder" href="/gora/nadglavinjak/26/1692">Nadglavinjak (888m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,33 +835,33 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/sveti_martin/3717">Sveti Martin</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
+<a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica/318">Brezovica</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/debeli_hrib/422">Debeli hrib</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/golovec_astronomski_observatorij_fmf/4305">Golovec (Astronomski observatorij FMF)</a>, <a class="moder" href="/spletna_kamera/grosuplje/1964">Grosuplje</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/katarina_nad_ljubljano/314">Katarina nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/krim/489">Krim</a>, <a class="moder" href="/spletna_kamera/lavrica/3607">Lavrica</a>, <a class="moder" href="/spletna_kamera/ljubljana_cankarjevo_nabrezje/2154">Ljubljana (Cankarjevo nabrežje)</a>, <a class="moder" href="/spletna_kamera/ljubljana_izanska_cesta/1963">Ljubljana (Ižanska cesta)</a>, <a class="moder" href="/spletna_kamera/ljubljana_kongresni_trg/297">Ljubljana (Kongresni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_mestni_trg/2149">Ljubljana (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_ukc_ljubljana/3385">Ljubljana (UKC Ljubljana)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/ljubljana_bezigrad/1708">Ljubljana Bežigrad</a>, <a class="moder" href="/spletna_kamera/ljubljana_brdo/465">Ljubljana Brdo</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_golovec/463">Ljubljana Golovec</a>, <a class="moder" href="/spletna_kamera/ljubljana_jug/457">Ljubljana jug</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_kozarje/467">Ljubljana Kozarje</a>, <a class="moder" href="/spletna_kamera/ljubljana_malence/455">Ljubljana Malence</a>, <a class="moder" href="/spletna_kamera/ljubljana_nove_jarse/480">Ljubljana Nove Jarše</a>, <a class="moder" href="/spletna_kamera/ljubljana_rudnik/1759">Ljubljana Rudnik</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljana_tomacevo/479">Ljubljana Tomačevo</a>, <a class="moder" href="/spletna_kamera/ljubljana_zadobrova/459">Ljubljana Zadobrova</a>, <a class="moder" href="/spletna_kamera/ljubljanski_grad/179">Ljubljanski grad</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/orle/4000">Orle</a>, <a class="moder" href="/spletna_kamera/pijava_gorica/454">Pijava Gorica</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/rakitna/1823">Rakitna</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sentjakob/354">Šentjakob</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/skofljica/3606">Škofljica</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/zagarski_vrh/3123">Žagarski vrh</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flipnik%2f26%2f1690"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flipnik%2f26%2f1690"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flipnik%2f26%2f1690"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fiski_morost%2f26%2f2290"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fiski_morost%2f26%2f2290"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fiski_morost%2f26%2f2290"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/lipnik/1690" title="Lipnik 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Lipnik.jpg" /></a></div>
+<div><a href="/panorama/360/iski_morost/2290" title="Iški morost 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.IskiMorost.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/lipnik/7442" onclick="event.preventDefault(); window.open('/slika_gora/lipnik/7442');"><img class="slikagm" alt="Lipnik" src="//www.hribi.net/slike1/Lipnik 0820.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/iski_morost/12103" onclick="event.preventDefault(); window.open('/slika_gora/iski_morost/12103');"><img class="slikagm" alt="Iški morost" src="//www.hribi.net/slike1/IskiMorost 084114400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipnik/7443" onclick="event.preventDefault(); window.open('/slika_gora/lipnik/7443');"><img class="slikagm" alt="Lipnik" src="//www.hribi.net/slike1/Lipnik 0830.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/iski_morost/12104" onclick="event.preventDefault(); window.open('/slika_gora/iski_morost/12104');"><img class="slikagm" alt="Iški morost" src="//www.hribi.net/slike1/IskiMorost 085114400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipnik/7444" onclick="event.preventDefault(); window.open('/slika_gora/lipnik/7444');"><img class="slikagm" alt="Lipnik" src="//www.hribi.net/slike1/Lipnik 0870.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/iski_morost/12105" onclick="event.preventDefault(); window.open('/slika_gora/iski_morost/12105');"><img class="slikagm" alt="Iški morost" src="//www.hribi.net/slike1/IskiMorost 128125840.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipnik/7451" onclick="event.preventDefault(); window.open('/slika_gora/lipnik/7451');"><img class="slikagm" alt="Lipnik" src="//www.hribi.net/slike1/Lipnik 18046464.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/iski_morost/12106" onclick="event.preventDefault(); window.open('/slika_gora/iski_morost/12106');"><img class="slikagm" alt="Iški morost" src="//www.hribi.net/slike1/IskiMorost 086114400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipnik/7452" onclick="event.preventDefault(); window.open('/slika_gora/lipnik/7452');"><img class="slikagm" alt="Lipnik" src="//www.hribi.net/slike1/Lipnik 16346464.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/iski_morost/12107" onclick="event.preventDefault(); window.open('/slika_gora/iski_morost/12107');"><img class="slikagm" alt="Iški morost" src="//www.hribi.net/slike1/IskiMorost 087114400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipnik/7455" onclick="event.preventDefault(); window.open('/slika_gora/lipnik/7455');"><img class="slikagm" alt="Lipnik" src="//www.hribi.net/slike1/Lipnik 2480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/iski_morost/12108" onclick="event.preventDefault(); window.open('/slika_gora/iski_morost/12108');"><img class="slikagm" alt="Iški morost" src="//www.hribi.net/slike1/IskiMorost 088125840.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipnik/7608" onclick="event.preventDefault(); window.open('/slika_gora/lipnik/7608');"><img class="slikagm" alt="Lipnik" src="//www.hribi.net/slike1/VeliBadinKrim 257208131.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/iski_morost/14059" onclick="event.preventDefault(); window.open('/slika_gora/iski_morost/14059');"><img class="slikagm" alt="Iški morost" src="//www.hribi.net/slike1/DSCN5695705600.th.jpg" /></a>
     
 </div>
 
@@ -925,7 +925,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1690&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2290&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,7 +935,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zazid_lipnik/26/1690/3049">Zazid - Lipnik</a></td><td class="tdG"><a href="/izlet/zazid_lipnik/26/1690/3049">1 h 40 min</a></td><td class="tdG"><a href="/izlet/zazid_lipnik/26/1690/3049">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lipe_iski_morost/26/2290/4722">Lipe - Iški morost</a></td><td class="tdG"><a href="/izlet/lipe_iski_morost/26/2290/4722"> 30 min</a></td><td class="tdG"><a href="/izlet/lipe_iski_morost/26/2290/4722">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/iski_morost_iski_morost_kosceva_ucna_pot/26/2290/6213">Iški morost - Iški morost (Koščeva učna pot)</a></td><td class="tdG"><a href="/izlet/iski_morost_iski_morost_kosceva_ucna_pot/26/2290/6213"> 35 min</a></td><td class="tdG"><a href="/izlet/iski_morost_iski_morost_kosceva_ucna_pot/26/2290/6213">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/v_tracu_iski_morost/26/2290/5645">V Tracu - Iški morost</a></td><td class="tdG"><a href="/izlet/v_tracu_iski_morost/26/2290/5645"> 20 min</a></td><td class="tdG"><a href="/izlet/v_tracu_iski_morost/26/2290/5645">lahka neoznačena steza</a></td></tr>
 
 </table>
 

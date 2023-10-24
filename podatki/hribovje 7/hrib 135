@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planinski dom pri Gospodični</title>
-        <meta name="description" content="Natančen opis koče Planinski dom pri Gospodični in vseh pristopov na Planinski dom pri Gospodični. Planinski dom pri Gospodični, znan tudi pod starim imenom dom Vinka Paderšiča se." />
+        <title>Kalanov hrib (Kalanček)</title>
+        <meta name="description" content="Natančen opis gore Kalanov hrib (Kalanček) in vseh pristopov na Kalanov hrib (Kalanček). Kalanov hrib ali Kalanček, kot ga domačini radi imenujejo, je vrh, ki leži nad G." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./733?gorovjeid=25&amp;id=733" id="form1">
+    <form method="post" action="./1693?gorovjeid=25&amp;id=1693" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planinski_dom_pri_gospodicni/25/733"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=733"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kalanov_hrib_kalancek/25/1693"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1693"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Planinski dom pri Gospodični
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Kalanov hrib (Kalanček)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(733);
+    gorast(1693);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planinski dom pri Gospodični</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kalanov hrib (Kalanček)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 822&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 626&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;45,9834'N&nbsp;/&nbsp;15°&nbsp;17,8116'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;9,1320'N&nbsp;/&nbsp;14°&nbsp;54,9180'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;45'&nbsp;59,00''N&nbsp;/&nbsp;15°&nbsp;17'&nbsp;48,70''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;9'&nbsp;7,92''N&nbsp;/&nbsp;14°&nbsp;54'&nbsp;55,08''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.76639°N&nbsp;/&nbsp;15.29686°E";
+                        document.getElementById("kf0").innerHTML = "46.1522°N&nbsp;/&nbsp;14.9153°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,76639°N,&nbsp;15,29686°E";
+                    document.getElementById("kf0").innerHTML = "46,1522°N,&nbsp;14,9153°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,76639°N&nbsp;15,29686°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planinski_dom_pri_gospodicni/733"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1522°N&nbsp;14,9153°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kalanov_hrib_kalancek/1693"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kalanov hrib (Kalanček) - Torek" href="/vreme_gora/kalanov_hrib_kalancek/25/1693#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kalanov hrib (Kalanček) - Sreda" href="/vreme_gora/kalanov_hrib_kalancek/25/1693#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kalanov hrib (Kalanček) - Četrtek" href="/vreme_gora/kalanov_hrib_kalancek/25/1693#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom pri Gospodični - Petek" href="/vreme_gora/planinski_dom_pri_gospodicni/25/733#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kalanov hrib (Kalanček) - Petek" href="/vreme_gora/kalanov_hrib_kalancek/25/1693#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom pri Gospodični - Sobota" href="/vreme_gora/planinski_dom_pri_gospodicni/25/733#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom pri Gospodični - Nedelja" href="/vreme_gora/planinski_dom_pri_gospodicni/25/733#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom pri Gospodični - Ponedeljek" href="/vreme_gora/planinski_dom_pri_gospodicni/25/733#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom pri Gospodični - Torek" href="/vreme_gora/planinski_dom_pri_gospodicni/25/733#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kalanov hrib (Kalanček) - Sobota" href="/vreme_gora/kalanov_hrib_kalancek/25/1693#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 483.653</div>
-<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(364.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 203.826</div>
+<div class="g2"><b>Priljubljenost:</b> 58%&nbsp;(1372.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=733" title="Število vpisov v vpisni knjigi">5</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinski dom pri Gospodični, znan tudi pod starim imenom dom Vinka Paderšiča se nahaja na slovenski strani Gorjancev. 30m stran od planinskega doma pa se nahaja studenec po katerem je dom dobil ime. Studenec Gospodična, ki naj bi imel po pripovedkah zdravilne učinke je lepo urejen in lahko dostopen.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Kalanov hrib ali Kalanček, kot ga domačini radi imenujejo, je vrh, ki leži nad Gladežem, naseljem na Izlakah v občini Zagorje ob Savi. Je eden najpopularnejših in najbolj obiskanih hribov v SZ delu občine. Vrh hriba nam proti severu ponuja razgled proti Čemšeniški planini, Menini planini ter Goltem. Proti jugu je čudovit pogled proti Plešam, Mareli, Vrhu, Kumu, kot tudi Javorju, Mrzlici ter Vrhem proti severovzhodu. Dostopnost hriba je enostavna, nanj vodi več poti, na vrhu pa nas pričaka jasa z že omenjenimi pogledi kot tudi vpisna knjiga ter klop in miza za počitek.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=733&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1693&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/trdinov_vrh/25/735">Trdinov vrh (1178m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,23 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/dobovo/445">Dobovo</a>, <a class="moder" href="/spletna_kamera/dobruska_vas/441">Dobruška vas</a>, <a class="moder" href="/spletna_kamera/golf_grad_otocec/4930">Golf Grad Otočec</a>, <a class="moder" href="/spletna_kamera/kronovo/447">Kronovo</a>, <a class="moder" href="/spletna_kamera/metlika/453">Metlika</a>, <a class="moder" href="/spletna_kamera/novo_mesto/2205">Novo mesto</a>, <a class="moder" href="/spletna_kamera/planinski_dom_pri_gospodicni/1681">Planinski dom pri Gospodični</a>, <a class="moder" href="/spletna_kamera/sveti_miklavz_gorjanci/2955">Sveti Miklavž (Gorjanci)</a>, <a class="moder" href="/spletna_kamera/tolsti_vrh_pri_sentjerneju/4161">Tolsti Vrh (pri Šentjerneju)</a>, <a class="moder" href="/spletna_kamera/trdinov_vrh_gorjanci/3087">Trdinov vrh (Gorjanci)</a>, <a class="moder" href="/spletna_kamera/vahta/148">Vahta</a>
+<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/kum/2952">Kum</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/sveta_planina_partizanski_vrh/3429">Sveta planina (Partizanski vrh)</a>, <a class="moder" href="/spletna_kamera/trbovlje/317">Trbovlje</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>, <a class="moder" href="/spletna_kamera/vransko/359">Vransko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_pri_gospodicni%2f25%2f733"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_pri_gospodicni%2f25%2f733"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_pri_gospodicni%2f25%2f733"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkalanov_hrib_kalancek%2f25%2f1693"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkalanov_hrib_kalancek%2f25%2f1693"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkalanov_hrib_kalancek%2f25%2f1693"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/planinski_dom_pri_gospodicni/733" title="Planinski dom pri Gospodični 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.DomPriGospodicni.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planinski_dom_pri_gospodicni/2455" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pri_gospodicni/2455');"><img class="slikagm" alt="Planinski dom pri Gospodični" src="//www.hribi.net/slike1/PB01019633264.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kalanov_hrib_kalancek/7466" onclick="event.preventDefault(); window.open('/slika_gora/kalanov_hrib_kalancek/7466');"><img class="slikagm" alt="Kalanov hrib (Kalanček)" src="//www.hribi.net/sliketemp/100_33495896414.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planinski_dom_pri_gospodicni/2457" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pri_gospodicni/2457');"><img class="slikagm" alt="Planinski dom pri Gospodični" src="//www.hribi.net/slike1/PB01023072072.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kalanov_hrib_kalancek/7467" onclick="event.preventDefault(); window.open('/slika_gora/kalanov_hrib_kalancek/7467');"><img class="slikagm" alt="Kalanov hrib (Kalanček)" src="//www.hribi.net/sliketemp/100_34715896417.th.jpg" /></a>
     
 </div>
 
@@ -915,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=733&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1693&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -925,9 +922,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gabrje_planinski_dom_pri_gospodicni/25/733/1323">Gabrje - Planinski dom pri Gospodični</a></td><td class="tdG"><a href="/izlet/gabrje_planinski_dom_pri_gospodicni/25/733/1323">1 h 10 min</a></td><td class="tdG"><a href="/izlet/gabrje_planinski_dom_pri_gospodicni/25/733/1323">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/medijske_toplice_kalanov_hrib_kalancek_cez_reber/25/1693/3061">Medijske toplice - Kalanov hrib (Kalanček) (čez Reber)</a></td><td class="tdG"><a href="/izlet/medijske_toplice_kalanov_hrib_kalancek_cez_reber/25/1693/3061"> 45 min</a></td><td class="tdG"><a href="/izlet/medijske_toplice_kalanov_hrib_kalancek_cez_reber/25/1693/3061">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vahta_planinski_dom_pri_gospodicni_po_cesti/25/733/1324">Vahta - Planinski dom pri Gospodični (po cesti)</a></td><td class="tdG"><a href="/izlet/vahta_planinski_dom_pri_gospodicni_po_cesti/25/733/1324">2 h</a></td><td class="tdG"><a href="/izlet/vahta_planinski_dom_pri_gospodicni_po_cesti/25/733/1324">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/izlake_tovarna_eti_kalanov_hrib_kalancek_via_castle_medijski_grad/25/1693/4306">Izlake (tovarna ETI) - Kalanov hrib (Kalanček) (via Castle Medijski grad)</a></td><td class="tdG"><a href="/izlet/izlake_tovarna_eti_kalanov_hrib_kalancek_via_castle_medijski_grad/25/1693/4306"> 45 min</a></td><td class="tdG"><a href="/izlet/izlake_tovarna_eti_kalanov_hrib_kalancek_via_castle_medijski_grad/25/1693/4306">lahka označena pot</a></td></tr>
 
 </table>
 

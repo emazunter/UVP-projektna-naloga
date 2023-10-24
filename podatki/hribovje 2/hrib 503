@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Žabiški Kuk</title>
-        <meta name="description" content="Natančen opis gore Žabiški Kuk in vseh pristopov na Žabiški Kuk. Žabiški Kuk se nahaja na južnem stranskem grebenu Spodnjih Bohinjskih gora v bli." />
+        <title>Sv. Peter in Pavel (Perati)</title>
+        <meta name="description" content="Natančen opis cerkve Sv. Peter in Pavel (Perati) in vseh pristopov na Sv. Peter in Pavel (Perati). Cerkev sv. Petra in Pavla se nahaja na obrobju vasice Perati. Od cerkve oz. bliž." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./686?gorovjeid=1&amp;id=686" id="form1">
+    <form method="post" action="./3001?gorovjeid=1&amp;id=3001" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/zabiski_kuk/1/686"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=686"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_peter_in_pavel_perati/1/3001"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=3001"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Žabiški Kuk
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Sv. Peter in Pavel (Perati)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(686);
+    gorast(3001);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Žabiški Kuk</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sv. Peter in Pavel (Perati)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1844&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 812&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;13,8192'N&nbsp;/&nbsp;13°&nbsp;48,2904'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;12,1680'N&nbsp;/&nbsp;13°&nbsp;35,6520'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;13'&nbsp;49,15''N&nbsp;/&nbsp;13°&nbsp;48'&nbsp;17,42''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;12'&nbsp;10,08''N&nbsp;/&nbsp;13°&nbsp;35'&nbsp;39,12''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.23032°N&nbsp;/&nbsp;13.80484°E";
+                        document.getElementById("kf0").innerHTML = "46.2028°N&nbsp;/&nbsp;13.5942°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,23032°N,&nbsp;13,80484°E";
+                    document.getElementById("kf0").innerHTML = "46,2028°N,&nbsp;13,5942°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,23032°N&nbsp;13,80484°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zabiski_kuk/686"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2028°N&nbsp;13,5942°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sv_peter_in_pavel_perati/3001"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sv. Peter in Pavel (Perati) - Torek" href="/vreme_gora/sv_peter_in_pavel_perati/1/3001#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sv. Peter in Pavel (Perati) - Sreda" href="/vreme_gora/sv_peter_in_pavel_perati/1/3001#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sv. Peter in Pavel (Perati) - Četrtek" href="/vreme_gora/sv_peter_in_pavel_perati/1/3001#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Žabiški Kuk - Petek" href="/vreme_gora/zabiski_kuk/1/686#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sv. Peter in Pavel (Perati) - Petek" href="/vreme_gora/sv_peter_in_pavel_perati/1/3001#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Žabiški Kuk - Sobota" href="/vreme_gora/zabiski_kuk/1/686#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Žabiški Kuk - Nedelja" href="/vreme_gora/zabiski_kuk/1/686#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Žabiški Kuk - Ponedeljek" href="/vreme_gora/zabiski_kuk/1/686#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Žabiški Kuk - Torek" href="/vreme_gora/zabiski_kuk/1/686#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sv. Peter in Pavel (Perati) - Sobota" href="/vreme_gora/sv_peter_in_pavel_perati/1/3001#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 363.060</div>
-<div class="g2"><b>Priljubljenost:</b> 77%&nbsp;(768.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">20</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
+<div class="g2"><b>Ogledov:</b> 781</div>
+<div class="g2"><b>Priljubljenost:</b> 19%&nbsp;(2659.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Žabiški Kuk se nahaja na južnem stranskem grebenu Spodnjih Bohinjskih gora v bližini bolj znanega Vogla in nad planino Razor. Z vrha je lep razgled na verigo omenjenih gora in navzdol proti Kneškim Ravnem. Ob lepem vremenu se lepo vidi tudi morje.</div>
+<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev sv. Petra in Pavla se nahaja na obrobju vasice Perati. Od cerkve oz. bližnje okolice se nam odpre lep pogled v smeri Krna in delu Kolovrata.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=686&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3001&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/koca_na_planini_razor/1/684">Koča na planini Razor (1315m)</a>, <a class="moder" href="/gora/rusnati_vrh/1/1109">Rušnati vrh (1915m)</a>, <a class="moder" href="/gora/vogel/1/588">Vogel (1922m)</a>, <a class="moder" href="/gora/vrh_krnic/1/589">Vrh Krnic (1896m)</a>, <a class="moder" href="/gora/vrh_planje_nad_globokim/1/687">Vrh Planje (nad Globokim) (1863m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,59 +835,22 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/ravna_pri_ligu/1589">Ravna pri Ligu</a>, <a class="moder" href="/spletna_kamera/robic/1781">Robič</a>, <a class="moder" href="/spletna_kamera/stol_kobariski/1881">Stol (Kobariški)</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzabiski_kuk%2f1%2f686"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzabiski_kuk%2f1%2f686"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzabiski_kuk%2f1%2f686"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsv_peter_in_pavel_perati%2f1%2f3001"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsv_peter_in_pavel_perati%2f1%2f3001"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsv_peter_in_pavel_perati%2f1%2f3001"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/zabiski_kuk/686" title="Žabiški Kuk 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.89939833184zabiski_kuk.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/zabiski_kuk/2220" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/2220');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/P9140161439110.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sv_peter_in_pavel_perati/17640" onclick="event.preventDefault(); window.open('/slika_gora/sv_peter_in_pavel_perati/17640');"><img class="slikagm" alt="Sv. Peter in Pavel (Perati)" src="//slike.hribi.net/slike4/2_0193596880776_DSCN7773.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/zabiski_kuk/2221" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/2221');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/P9140120503370.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sv_peter_in_pavel_perati/17641" onclick="event.preventDefault(); window.open('/slika_gora/sv_peter_in_pavel_perati/17641');"><img class="slikagm" alt="Sv. Peter in Pavel (Perati)" src="//slike.hribi.net/slike4/2_1358596833320_DSCN7413.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/zabiski_kuk/2222" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/2222');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/P9140139503370.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/8985" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/8985');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/Sija 142158400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/8997" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/8997');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/Vogel 138252450.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/8998" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/8998');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/Vogel 127243100.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/14603" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/14603');"><img class="slikagm" alt="Žabiški Kuk" src="//slike.hribi.net/slike4/2_1627518515033_DSCN7925.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/15173" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/15173');"><img class="slikagm" alt="Žabiški Kuk" src="//slike.hribi.net/slike4/2_0198527498906_P7300178.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/15174" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/15174');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/P7300126202752.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/15175" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/15175');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/P7300149240768.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/15176" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/15176');"><img class="slikagm" alt="Žabiški Kuk" src="//slike.hribi.net/slike4/2_0347527498821_P7300150.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/15177" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/15177');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/P730016013824.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/15178" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/15178');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/P730016413824.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/15183" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/15183');"><img class="slikagm" alt="Žabiški Kuk" src="//www.hribi.net/slike1/P7300195130944.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/17146" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/17146');"><img class="slikagm" alt="Žabiški Kuk" src="//slike.hribi.net/slike4/2_0124589621330_DSCN1188.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/17148" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/17148');"><img class="slikagm" alt="Žabiški Kuk" src="//slike.hribi.net/slike4/2_1208589621204_DSCN1158.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/17149" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/17149');"><img class="slikagm" alt="Žabiški Kuk" src="//slike.hribi.net/slike4/2_2662589621208_DSCN1159.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/17150" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/17150');"><img class="slikagm" alt="Žabiški Kuk" src="//slike.hribi.net/slike4/2_0925589621264_DSCN1160.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/17151" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/17151');"><img class="slikagm" alt="Žabiški Kuk" src="//slike.hribi.net/slike4/2_1719589621268_DSCN1162.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zabiski_kuk/17153" onclick="event.preventDefault(); window.open('/slika_gora/zabiski_kuk/17153');"><img class="slikagm" alt="Žabiški Kuk" src="//slike.hribi.net/slike4/2_1325589621153_DSCN1154.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sv_peter_in_pavel_perati/17642" onclick="event.preventDefault(); window.open('/slika_gora/sv_peter_in_pavel_perati/17642');"><img class="slikagm" alt="Sv. Peter in Pavel (Perati)" src="//slike.hribi.net/slike4/2_1389597326716_DSCN7412.JPG" /></a>
     
 </div>
 
@@ -951,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=686&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3001&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -961,17 +924,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_kuk_zabiski_kuk_cez_planino_razor/1/686/1225">Planina Kuk - Žabiški Kuk (čez planino Razor)</a></td><td class="tdG"><a href="/izlet/planina_kuk_zabiski_kuk_cez_planino_razor/1/686/1225">3 h</a></td><td class="tdG"><a href="/izlet/planina_kuk_zabiski_kuk_cez_planino_razor/1/686/1225">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_kuk_zabiski_kuk_pot_mimo_gradica_stara_vojaska_pot/1/686/7006">Planina Kuk - Žabiški Kuk (pot mimo Gradiča (stara vojaška pot))</a></td><td class="tdG"><a href="/izlet/planina_kuk_zabiski_kuk_pot_mimo_gradica_stara_vojaska_pot/1/686/7006">2 h 20 min</a></td><td class="tdG"><a href="/izlet/planina_kuk_zabiski_kuk_pot_mimo_gradica_stara_vojaska_pot/1/686/7006">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tolminske_ravne_zabiski_kuk_strma_pot/1/686/6065">Tolminske Ravne - Žabiški Kuk (strma pot)</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_zabiski_kuk_strma_pot/1/686/6065">3 h 15 min</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_zabiski_kuk_strma_pot/1/686/6065">zahtevna označena pot, lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tolminske_ravne_zabiski_kuk_po_mulatjeri/1/686/6073">Tolminske Ravne - Žabiški Kuk (po mulatjeri)</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_zabiski_kuk_po_mulatjeri/1/686/6073">3 h 45 min</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_zabiski_kuk_po_mulatjeri/1/686/6073">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kneske_ravne_proscek_zabiski_kuk_pot_mimo_gradica_stara_vojaska_pot/1/686/6934">Kneške Ravne (Prošček) - Žabiški Kuk (pot mimo Gradiča (stara vojaška pot))</a></td><td class="tdG"><a href="/izlet/kneske_ravne_proscek_zabiski_kuk_pot_mimo_gradica_stara_vojaska_pot/1/686/6934">4 h 50 min</a></td><td class="tdG"><a href="/izlet/kneske_ravne_proscek_zabiski_kuk_pot_mimo_gradica_stara_vojaska_pot/1/686/6934">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kneske_ravne_zabiski_kuk_pot_mimo_gradica_stara_vojaska_pot/1/686/7055">Kneške Ravne - Žabiški Kuk (pot mimo Gradiča (stara vojaška pot))</a></td><td class="tdG"><a href="/izlet/kneske_ravne_zabiski_kuk_pot_mimo_gradica_stara_vojaska_pot/1/686/7055">4 h 5 min</a></td><td class="tdG"><a href="/izlet/kneske_ravne_zabiski_kuk_pot_mimo_gradica_stara_vojaska_pot/1/686/7055">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/livek_sv_peter_in_pavel_perati/1/3001/7054">Livek - Sv. Peter in Pavel (Perati)</a></td><td class="tdG"><a href="/izlet/livek_sv_peter_in_pavel_perati/1/3001/7054"> 20 min</a></td><td class="tdG"><a href="/izlet/livek_sv_peter_in_pavel_perati/1/3001/7054">lahka označena pot</a></td></tr>
 
 </table>
 

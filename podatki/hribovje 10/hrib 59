@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planinski dom Kozjak</title>
-        <meta name="description" content="Natančen opis koče Planinski dom Kozjak in vseh pristopov na Planinski dom Kozjak. Planinski dom se nahaja le nekaj metrov pod Tojzlovim vrhom na vzhodnih obronkih." />
+        <title>Kogel (Litmerk)</title>
+        <meta name="description" content="Natančen opis gore Kogel (Litmerk) in vseh pristopov na Kogel (Litmerk). Kogel je 330 metrov visok vrh, ki se nahaja nad naseljem Litmerk. Z vrha, kjer s." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1203?gorovjeid=162&amp;id=1203" id="form1">
+    <form method="post" action="./3708?gorovjeid=162&amp;id=3708" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planinski_dom_kozjak/162/1203"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=162&id=1203"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kogel_litmerk/162/3708"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=162&id=3708"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/strojna_kosenjak_kozjak_in_slovenske_gorice/162">Strojna, Košenjak, Kozjak in Slovenske gorice</a> / Planinski dom Kozjak
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/strojna_kosenjak_kozjak_in_slovenske_gorice/162">Strojna, Košenjak, Kozjak in Slovenske gorice</a> / Kogel (Litmerk)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1203);
+    gorast(3708);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planinski dom Kozjak</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kogel (Litmerk)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/strojna_kosenjak_kozjak_in_slovenske_gorice/162">Strojna, Košenjak, Kozjak in Slovenske gorice</a></div>
-    <div class="g2"><b>Višina:</b> 690&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 330&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;36,2292'N&nbsp;/&nbsp;15°&nbsp;33,6906'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,4492'N&nbsp;/&nbsp;16°&nbsp;9,180'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;36'&nbsp;13,75''N&nbsp;/&nbsp;15°&nbsp;33'&nbsp;41,44''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;26,95''N&nbsp;/&nbsp;16°&nbsp;9'&nbsp;10,80''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.60382°N&nbsp;/&nbsp;15.56151°E";
+                        document.getElementById("kf0").innerHTML = "46.44082°N&nbsp;/&nbsp;16.153°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,60382°N,&nbsp;15,56151°E";
+                    document.getElementById("kf0").innerHTML = "46,44082°N,&nbsp;16,153°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,60382°N&nbsp;15,56151°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planinski_dom_kozjak/1203"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,44082°N&nbsp;16,153°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kogel_litmerk/3708"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kogel (Litmerk) - Torek" href="/vreme_gora/kogel_litmerk/162/3708#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kogel (Litmerk) - Sreda" href="/vreme_gora/kogel_litmerk/162/3708#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kogel (Litmerk) - Četrtek" href="/vreme_gora/kogel_litmerk/162/3708#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom Kozjak - Petek" href="/vreme_gora/planinski_dom_kozjak/162/1203#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kogel (Litmerk) - Petek" href="/vreme_gora/kogel_litmerk/162/3708#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom Kozjak - Sobota" href="/vreme_gora/planinski_dom_kozjak/162/1203#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom Kozjak - Nedelja" href="/vreme_gora/planinski_dom_kozjak/162/1203#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom Kozjak - Ponedeljek" href="/vreme_gora/planinski_dom_kozjak/162/1203#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom Kozjak - Torek" href="/vreme_gora/planinski_dom_kozjak/162/1203#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kogel (Litmerk) - Sobota" href="/vreme_gora/kogel_litmerk/162/3708#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 294.243</div>
-<div class="g2"><b>Priljubljenost:</b> 69%&nbsp;(1026.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Ogledov:</b> 67</div>
+<div class="g2"><b>Priljubljenost:</b> 5%&nbsp;(3114.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1203" title="Število vpisov v vpisni knjigi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinski dom se nahaja le nekaj metrov pod Tojzlovim vrhom na vzhodnih obronkih Kozjaka. Od doma zaradi gozda, ki le tega obdaja ni lepšega razgleda.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Kogel je 330 metrov visok vrh, ki se nahaja nad naseljem Litmerk. Z vrha, kjer se nahaja vpisna skrinjica se nam odpre lep pogled na okoliško gričevje.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1203&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3708&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/sv_kriz_gaj_nad_mariborom/162/2340">Sv. Križ (Gaj nad Mariborom) (575m)</a>, <a class="moder" href="/gora/tojzlov_vrh/162/1204">Tojzlov vrh (703m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,29 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/dogose/1747">Dogoše</a>, <a class="moder" href="/spletna_kamera/eorykogel_-_leutschach_an_der_weinstrasse/3799">Eorykogel - Leutschach an der Weinstraße</a>, <a class="moder" href="/spletna_kamera/gamlitz_sudsteiermark/4171">Gamlitz (Südsteiermark)</a>, <a class="moder" href="/spletna_kamera/gramoznica/372">Gramoznica</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/kamnica/2138">Kamnica</a>, <a class="moder" href="/spletna_kamera/kresnica/1436">Kresnica</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/maribor/374">Maribor</a>, <a class="moder" href="/spletna_kamera/maribor_radvanje/2098">Maribor (Radvanje)</a>, <a class="moder" href="/spletna_kamera/mariborski_otok/4956">Mariborski otok</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/pernica/4836">Pernica</a>, <a class="moder" href="/spletna_kamera/pesnica/375">Pesnica</a>, <a class="moder" href="/spletna_kamera/sentilj/189">Šentilj</a>, <a class="moder" href="/spletna_kamera/sentilj/378">Šentilj</a>, <a class="moder" href="/spletna_kamera/sportni_park_tabor_maribor/3695">Športni park Tabor Maribor</a>, <a class="moder" href="/spletna_kamera/sulztal_an_der_weinstrasse/4861">Sulztal an der Weinstrasse</a>, <a class="moder" href="/spletna_kamera/viadukt_dragucova/4900">Viadukt Dragučova</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
+<a class="moder" href="/spletna_kamera/jeruzalem/1585">Jeruzalem</a>, <a class="moder" href="/spletna_kamera/sredisce_ob_dravi/1165">Središče ob Dravi</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_kozjak%2f162%2f1203"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_kozjak%2f162%2f1203"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_kozjak%2f162%2f1203"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkogel_litmerk%2f162%2f3708"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkogel_litmerk%2f162%2f3708"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkogel_litmerk%2f162%2f3708"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/planinski_dom_kozjak/1203" title="Planinski dom Kozjak 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninskiDomKozjak.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planinski_dom_kozjak/4038" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_kozjak/4038');"><img class="slikagm" alt="Planinski dom Kozjak" src="//www.hribi.net/slike1/P308025174844.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kogel_litmerk/21949" onclick="event.preventDefault(); window.open('/slika_gora/kogel_litmerk/21949');"><img class="slikagm" alt="Kogel (Litmerk)" src="//slike2.hribi.net/slike14/2_2370737567437_0dscn0708.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planinski_dom_kozjak/4039" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_kozjak/4039');"><img class="slikagm" alt="Planinski dom Kozjak" src="//www.hribi.net/slike1/P308024774844.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kogel_litmerk/21950" onclick="event.preventDefault(); window.open('/slika_gora/kogel_litmerk/21950');"><img class="slikagm" alt="Kogel (Litmerk)" src="//slike2.hribi.net/slike14/2_1490737220497_1dscn0713.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planinski_dom_kozjak/4051" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_kozjak/4051');"><img class="slikagm" alt="Planinski dom Kozjak" src="//www.hribi.net/slike1/P308020811232.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kogel_litmerk/21951" onclick="event.preventDefault(); window.open('/slika_gora/kogel_litmerk/21951');"><img class="slikagm" alt="Kogel (Litmerk)" src="//slike2.hribi.net/slike14/2_0742737567792_0dscn0716.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planinski_dom_kozjak/20640" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_kozjak/20640');"><img class="slikagm" alt="Planinski dom Kozjak" src="//slike2.hribi.net/slike14/2_3322694005722_3dscn0061.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planinski_dom_kozjak/20641" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_kozjak/20641');"><img class="slikagm" alt="Planinski dom Kozjak" src="//slike2.hribi.net/slike14/2_0676693994049_0dscn0066.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kogel_litmerk/21952" onclick="event.preventDefault(); window.open('/slika_gora/kogel_litmerk/21952');"><img class="slikagm" alt="Kogel (Litmerk)" src="//slike2.hribi.net/slike14/2_0809737725238_1dscn0715.jpg" /></a>
     
 </div>
 
@@ -921,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1203&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3708&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,15 +926,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bresternica_soberjev_dvor_planinski_dom_kozjak/162/1203/2011">Bresternica (Šoberjev dvor) - Planinski dom Kozjak</a></td><td class="tdG"><a href="/izlet/bresternica_soberjev_dvor_planinski_dom_kozjak/162/1203/2011">1 h 10 min</a></td><td class="tdG"><a href="/izlet/bresternica_soberjev_dvor_planinski_dom_kozjak/162/1203/2011">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ormoz_kogel_litmerk/162/3708/9049">Ormož - Kogel (Litmerk)</a></td><td class="tdG"><a href="/izlet/ormoz_kogel_litmerk/162/3708/9049">1 h 10 min</a></td><td class="tdG"><a href="/izlet/ormoz_kogel_litmerk/162/3708/9049">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bresternica_siker_planinski_dom_kozjak/162/1203/2013">Bresternica (Šiker) - Planinski dom Kozjak</a></td><td class="tdG"><a href="/izlet/bresternica_siker_planinski_dom_kozjak/162/1203/2013"> 45 min</a></td><td class="tdG"><a href="/izlet/bresternica_siker_planinski_dom_kozjak/162/1203/2013">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sober_planinski_dom_kozjak/162/1203/8375">Šober - Planinski dom Kozjak</a></td><td class="tdG"><a href="/izlet/sober_planinski_dom_kozjak/162/1203/8375"> 55 min</a></td><td class="tdG"><a href="/izlet/sober_planinski_dom_kozjak/162/1203/8375">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kozjak_nad_pesnico_planinski_dom_kozjak/162/1203/8425">Kozjak nad Pesnico - Planinski dom Kozjak</a></td><td class="tdG"><a href="/izlet/kozjak_nad_pesnico_planinski_dom_kozjak/162/1203/8425">2 h</a></td><td class="tdG"><a href="/izlet/kozjak_nad_pesnico_planinski_dom_kozjak/162/1203/8425">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sober_log_planinski_dom_kozjak/162/1203/8381">Šober (Log) - Planinski dom Kozjak</a></td><td class="tdG"><a href="/izlet/sober_log_planinski_dom_kozjak/162/1203/8381"> 45 min</a></td><td class="tdG"><a href="/izlet/sober_log_planinski_dom_kozjak/162/1203/8381">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zerovinci_dom_krajanov_in_gasilcev_zerovinci_kogel_litmerk/162/3708/9051">Žerovinci (Dom krajanov in gasilcev Žerovinci) - Kogel (Litmerk)</a></td><td class="tdG"><a href="/izlet/zerovinci_dom_krajanov_in_gasilcev_zerovinci_kogel_litmerk/162/3708/9051">2 h 30 min</a></td><td class="tdG"><a href="/izlet/zerovinci_dom_krajanov_in_gasilcev_zerovinci_kogel_litmerk/162/3708/9051">lahka označena pot</a></td></tr>
 
 </table>
 

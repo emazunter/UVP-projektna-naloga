@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Celovška špica</title>
-        <meta name="description" content="Natančen opis gore Celovška špica in vseh pristopov na Celovška špica. Celovška špica (nemško Klagenfurter Spitze) je 2102 metra visok brezpotni vrh v ." />
+        <title>Palec</title>
+        <meta name="description" content="Natančen opis gore Palec in vseh pristopov na Palec. Palec je 2026 m visok vrh, ki se nahaja severno od Begunjščice, točneje med Zele." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3432?gorovjeid=11&amp;id=3432" id="form1">
+    <form method="post" action="./363?gorovjeid=11&amp;id=363" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/celovska_spica___klagenfurter_spitze/11/3432"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=3432"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/selenitza_palec/11/363"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=363"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Celovška špica
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Palec
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3432);
+    gorast(363);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Celovška špica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Palec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 2102&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2026&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,2872'N&nbsp;/&nbsp;14°&nbsp;10,8210'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,5920'N&nbsp;/&nbsp;14°&nbsp;13,1568'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;17,23''N&nbsp;/&nbsp;14°&nbsp;10'&nbsp;49,26''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;35,52''N&nbsp;/&nbsp;14°&nbsp;13'&nbsp;9,41''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.43812°N&nbsp;/&nbsp;14.18035°E";
+                        document.getElementById("kf0").innerHTML = "46.4432°N&nbsp;/&nbsp;14.21928°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,43812°N,&nbsp;14,18035°E";
+                    document.getElementById("kf0").innerHTML = "46,4432°N,&nbsp;14,21928°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43812°N&nbsp;14,18035°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/celovska_spica/3432"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4432°N&nbsp;14,21928°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/palec/363"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Palec - Torek" href="/vreme_gora/palec/11/363#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Palec - Sreda" href="/vreme_gora/palec/11/363#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Palec - Četrtek" href="/vreme_gora/palec/11/363#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Celovška špica - Petek" href="/vreme_gora/celovska_spica/11/3432#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Palec - Petek" href="/vreme_gora/palec/11/363#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Celovška špica - Sobota" href="/vreme_gora/celovska_spica/11/3432#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Celovška špica - Nedelja" href="/vreme_gora/celovska_spica/11/3432#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Celovška špica - Ponedeljek" href="/vreme_gora/celovska_spica/11/3432#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Celovška špica - Torek" href="/vreme_gora/celovska_spica/11/3432#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Palec - Sobota" href="/vreme_gora/palec/11/363#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 8.230</div>
-<div class="g2"><b>Priljubljenost:</b> 37%&nbsp;(2070.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 534.952</div>
+<div class="g2"><b>Priljubljenost:</b> 93%&nbsp;(246.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=363" title="Število vpisov v vpisni knjigi">5</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Celovška špica (nemško Klagenfurter Spitze) je 2102 metra visok brezpotni vrh v grebenu Orlic. Z vrha na katerem stojita dva križa je zelo lep razgled predvsem na bližnji Stol ter na ostale vrhove v grebenu Orlic.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Palec je 2026 m visok vrh, ki se nahaja severno od Begunjščice, točneje med Zelenjakom in grebenom Na Možeh. Z vrha, na katerem stoji križ, se nam odpre lep razgled po osrednjem delu Karavank, kjer lepo vidimo Begunjščico, Vrtačo, Zelenjak, Na Možeh ter nekoliko stran greben Košute.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3432&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=363&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/celovska_koca___klagenfurter_hutte/11/582">Celovška koča / Klagenfurter Hutte (1664m)</a>, <a class="moder" href="/gora/ovcji_vrh_kozjak___geissberg_kosiak/11/581">Ovčji vrh (Kozjak) / Geissberg (Kosiak) (2024m)</a>, <a class="moder" href="/gora/presernova_koca_na_stolu/11/309">Prešernova koča na Stolu (2174m)</a>, <a class="moder" href="/gora/srednja_pec/11/2815">Srednja peč (1920m)</a>, <a class="moder" href="/gora/stol/11/53">Stol (2236m)</a>, <a class="moder" href="/gora/svacica/11/586">Svačica (1953m)</a>
+<a class="moder" href="/gora/bela_pec___weisse_wand/11/1780">Bela peč / Weiße Wand (1665m)</a>, <a class="moder" href="/gora/dom_na_zelenici/11/91">Dom na Zelenici (1536m)</a>, <a class="moder" href="/gora/dom_pri_izviru_zavrsnice/11/278">Dom pri izviru Završnice (1425m)</a>, <a class="moder" href="/gora/na_mozeh/11/542">Na Možeh (1784m)</a>, <a class="moder" href="/gora/pozgani_rob/11/1782">Požgani rob (1513m)</a>, <a class="moder" href="/gora/rjavca___rjautza/11/1781">Rjavca / Rjautza (1789m)</a>, <a class="moder" href="/gora/srednji_vrh_nad_zavrsnico/11/277">Srednji vrh (nad Završnico) (1796m)</a>, <a class="moder" href="/gora/sveta_pec___helige_wand/11/1779">Sveta peč / Helige Wand (1613m)</a>, <a class="moder" href="/gora/vrh_ljubeljscice_triangel/11/92">Vrh Ljubeljščice (Triangel) (1704m)</a>, <a class="moder" href="/gora/vrtaca/11/78">Vrtača (2181m)</a>, <a class="moder" href="/gora/zelenjak/11/692">Zelenjak (2024m)</a>, <a class="moder" href="/gora/zleb_suho_rusevje/11/88">Žleb (Suho ruševje) (1916m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,31 +835,38 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
+<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fcelovska_spica%2f11%2f3432"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fcelovska_spica%2f11%2f3432"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fcelovska_spica%2f11%2f3432"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpalec%2f11%2f363"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpalec%2f11%2f363"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpalec%2f11%2f363"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/celovska_spica/3432" title="Celovška špica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.691111402608celovska_spica_2.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/celovska_spica/20455" onclick="event.preventDefault(); window.open('/slika_gora/celovska_spica/20455');"><img class="slikagm" alt="Celovška špica" src="//slike2.hribi.net/slike14/2_13600684130533_21p1170987.jpg" /></a>
+        <a target="_blank" href="/slika_gora/palec/1490" onclick="event.preventDefault(); window.open('/slika_gora/palec/1490');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike1/P204005644520.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/celovska_spica/20456" onclick="event.preventDefault(); window.open('/slika_gora/celovska_spica/20456');"><img class="slikagm" alt="Celovška špica" src="//slike2.hribi.net/slike14/2_30126684130546_9p1180031.jpg" /></a>
+        <a target="_blank" href="/slika_gora/palec/1520" onclick="event.preventDefault(); window.open('/slika_gora/palec/1520');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike1/P219002861600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/celovska_spica/20457" onclick="event.preventDefault(); window.open('/slika_gora/celovska_spica/20457');"><img class="slikagm" alt="Celovška špica" src="//slike2.hribi.net/slike14/2_11798684130531_29p1170985.jpg" /></a>
+        <a target="_blank" href="/slika_gora/palec/1521" onclick="event.preventDefault(); window.open('/slika_gora/palec/1521');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike1/P219002261600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/celovska_spica/20458" onclick="event.preventDefault(); window.open('/slika_gora/celovska_spica/20458');"><img class="slikagm" alt="Celovška špica" src="//slike2.hribi.net/slike14/2_28400684130545_17p1180028.jpg" /></a>
+        <a target="_blank" href="/slika_gora/palec/1734" onclick="event.preventDefault(); window.open('/slika_gora/palec/1734');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike1/P51300033932284.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/celovska_spica/20459" onclick="event.preventDefault(); window.open('/slika_gora/celovska_spica/20459');"><img class="slikagm" alt="Celovška špica" src="//slike2.hribi.net/slike14/2_26745684130543_12p1180019.jpg" /></a>
+        <a target="_blank" href="/slika_gora/palec/2245" onclick="event.preventDefault(); window.open('/slika_gora/palec/2245');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike1/RIMG0172124488.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/celovska_spica/20460" onclick="event.preventDefault(); window.open('/slika_gora/celovska_spica/20460');"><img class="slikagm" alt="Celovška špica" src="//slike2.hribi.net/slike14/2_25424684130542_4p1180014.jpg" /></a>
+        <a target="_blank" href="/slika_gora/palec/7266" onclick="event.preventDefault(); window.open('/slika_gora/palec/7266');"><img class="slikagm" alt="Palec" src="//slike.hribi.net/sliketemp/KocaNaLjubelju%200155821195.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/palec/15910" onclick="event.preventDefault(); window.open('/slika_gora/palec/15910');"><img class="slikagm" alt="Palec" src="//slike.hribi.net/slike4/2_0555555757793_DSCN1083.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/palec/15911" onclick="event.preventDefault(); window.open('/slika_gora/palec/15911');"><img class="slikagm" alt="Palec" src="//slike.hribi.net/slike4/2_1601553970548_DSCN8060.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/palec/16007" onclick="event.preventDefault(); window.open('/slika_gora/palec/16007');"><img class="slikagm" alt="Palec" src="//slike.hribi.net/slike4/2_0153557737385_DSCN3166.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/palec/16008" onclick="event.preventDefault(); window.open('/slika_gora/palec/16008');"><img class="slikagm" alt="Palec" src="//slike.hribi.net/slike4/2_1869557737388_DSCN3167.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/palec/16009" onclick="event.preventDefault(); window.open('/slika_gora/palec/16009');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike11/DSCN3178451246882.th.jpg" /></a>
     
 </div>
 
@@ -923,7 +930,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3432&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=363&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -933,9 +940,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_celovska_spica_mimo_vatelce_oz_sklede/11/3432/8252">Ljubelj - Celovška špica (mimo Vatelce oz. Sklede)</a></td><td class="tdG"><a href="/izlet/ljubelj_celovska_spica_mimo_vatelce_oz_sklede/11/3432/8252">4 h 30 min</a></td><td class="tdG"><a href="/izlet/ljubelj_celovska_spica_mimo_vatelce_oz_sklede/11/3432/8252">zahtevno brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_palec/11/363/508">Ljubelj - Palec</a></td><td class="tdG"><a href="/izlet/ljubelj_palec/11/363/508">3 h</a></td><td class="tdG"><a href="/izlet/ljubelj_palec/11/363/508">zahtevna neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubelj_celovska_spica_zgornja_pot/11/3432/8324">Ljubelj - Celovška špica (zgornja pot)</a></td><td class="tdG"><a href="/izlet/ljubelj_celovska_spica_zgornja_pot/11/3432/8324">4 h 20 min</a></td><td class="tdG"><a href="/izlet/ljubelj_celovska_spica_zgornja_pot/11/3432/8324">delno zahtevna označena pot, zahtevno brezpotje</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/tinckova_koca_palec/11/363/2603">Tinčkova koča - Palec</a></td><td class="tdG"><a href="/izlet/tinckova_koca_palec/11/363/2603">3 h</a></td><td class="tdG"><a href="/izlet/tinckova_koca_palec/11/363/2603">zahtevna neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tinckova_koca_palec_skozi_zagon/11/363/6436">Tinčkova koča - Palec (skozi Zagon)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_palec_skozi_zagon/11/363/6436">3 h 30 min</a></td><td class="tdG"><a href="/izlet/tinckova_koca_palec_skozi_zagon/11/363/6436">zahtevna neoznačena steza</a></td></tr>
 
 </table>
 

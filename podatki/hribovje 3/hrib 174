@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Šentanski vrh</title>
-        <meta name="description" content="Natančen opis gore Šentanski vrh in vseh pristopov na Šentanski vrh. Šentanski vrh, ki se nahaja v pogorju Dobrče, le 5 minut stran od glavnega vrha,." />
+        <title>Planjava pri Kamniškem vrhu</title>
+        <meta name="description" content="Natančen opis gore Planjava pri Kamniškem vrhu in vseh pristopov na Planjava pri Kamniškem vrhu. Planjava je manj obiskan vrh v neposredni bližini bolj znanega Kamniškega vrha. ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./930?gorovjeid=3&amp;id=930" id="form1">
+    <form method="post" action="./1244?gorovjeid=3&amp;id=1244" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sentanski_vrh/3/930"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=930"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planjava_pri_kamniskem_vrhu/3/1244"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1244"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Šentanski vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Planjava pri Kamniškem vrhu
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(930);
+    gorast(1244);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Šentanski vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planjava pri Kamniškem vrhu</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1635&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1243&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,9332'N&nbsp;/&nbsp;14°&nbsp;15,2442'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,2890'N&nbsp;/&nbsp;14°&nbsp;34,3332'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;55,99''N&nbsp;/&nbsp;14°&nbsp;15'&nbsp;14,65''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;17,34''N&nbsp;/&nbsp;14°&nbsp;34'&nbsp;19,99''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.38222°N&nbsp;/&nbsp;14.25407°E";
+                        document.getElementById("kf0").innerHTML = "46.28815°N&nbsp;/&nbsp;14.57222°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,38222°N,&nbsp;14,25407°E";
+                    document.getElementById("kf0").innerHTML = "46,28815°N,&nbsp;14,57222°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,38222°N&nbsp;14,25407°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sentanski_vrh/930"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,28815°N&nbsp;14,57222°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planjava_pri_kamniskem_vrhu/1244"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planjava pri Kamniškem vrhu - Torek" href="/vreme_gora/planjava_pri_kamniskem_vrhu/3/1244#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planjava pri Kamniškem vrhu - Sreda" href="/vreme_gora/planjava_pri_kamniskem_vrhu/3/1244#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planjava pri Kamniškem vrhu - Četrtek" href="/vreme_gora/planjava_pri_kamniskem_vrhu/3/1244#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Šentanski vrh - Petek" href="/vreme_gora/sentanski_vrh/3/930#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planjava pri Kamniškem vrhu - Petek" href="/vreme_gora/planjava_pri_kamniskem_vrhu/3/1244#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Šentanski vrh - Sobota" href="/vreme_gora/sentanski_vrh/3/930#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Šentanski vrh - Nedelja" href="/vreme_gora/sentanski_vrh/3/930#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Šentanski vrh - Ponedeljek" href="/vreme_gora/sentanski_vrh/3/930#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Šentanski vrh - Torek" href="/vreme_gora/sentanski_vrh/3/930#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planjava pri Kamniškem vrhu - Sobota" href="/vreme_gora/planjava_pri_kamniskem_vrhu/3/1244#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 438.515</div>
-<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(516.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">14</a></div>
+<div class="g2"><b>Ogledov:</b> 248.021</div>
+<div class="g2"><b>Priljubljenost:</b> 63%&nbsp;(1202.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=930" title="Število vpisov v vpisni knjigi">14</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1244" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Šentanski vrh, ki se nahaja v pogorju Dobrče, le 5 minut stran od glavnega vrha, nam s svojo lego in neporaščenostjo nudi lep pogled na osrednje Karavanke, skupino Storžiča in del Gorenjske.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Planjava je manj obiskan vrh v neposredni bližini bolj znanega Kamniškega vrha. Ker je vrh deloma poraščen z gozdom, se nam z njega odpre lep pogled le proti jugu in deloma vzhodu in zahodu.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=930&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1244&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bistriska_planina/3/1641">Bistriška planina (1057m)</a>, <a class="moder" href="/gora/breska_planina/3/1642">Breška planina (1100m)</a>, <a class="moder" href="/gora/dobrca/3/129">Dobrča (1634m)</a>, <a class="moder" href="/gora/koca_na_dobrci/3/130">Koča na Dobrči (1478m)</a>, <a class="moder" href="/gora/lesanska_planina/3/131">Lešanska planina (1450m)</a>, <a class="moder" href="/gora/tomincev_slap/3/716">Tominčev slap (750m)</a>
+<a class="moder" href="/gora/kamniski_vrh/3/351">Kamniški vrh (1259m)</a>, <a class="moder" href="/gora/korosaski_slapovi/3/895">Korošaški slapovi (800m)</a>, <a class="moder" href="/gora/planina_osredek/3/352">Planina Osredek (1100m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,31 +835,27 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsentanski_vrh%2f3%2f930"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsentanski_vrh%2f3%2f930"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsentanski_vrh%2f3%2f930"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanjava_pri_kamniskem_vrhu%2f3%2f1244"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanjava_pri_kamniskem_vrhu%2f3%2f1244"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanjava_pri_kamniskem_vrhu%2f3%2f1244"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/sentanski_vrh/930" title="Šentanski vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SentanskiVrh.jpg" /></a></div>
+<div><a href="/panorama/360/planjava_pri_kamniskem_vrhu/1244" title="Planjava pri Kamniškem vrhu 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlanjavaKvrh.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sentanski_vrh/3000" onclick="event.preventDefault(); window.open('/slika_gora/sentanski_vrh/3000');"><img class="slikagm" alt="Šentanski vrh" src="//www.hribi.net/slike1/P50401488400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planjava_pri_kamniskem_vrhu/4244" onclick="event.preventDefault(); window.open('/slika_gora/planjava_pri_kamniskem_vrhu/4244');"><img class="slikagm" alt="Planjava pri Kamniškem vrhu" src="//www.hribi.net/slike1/P502007532400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sentanski_vrh/5298" onclick="event.preventDefault(); window.open('/slika_gora/sentanski_vrh/5298');"><img class="slikagm" alt="Šentanski vrh" src="//www.hribi.net/slike1/Dobrca 2108160.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planjava_pri_kamniskem_vrhu/4245" onclick="event.preventDefault(); window.open('/slika_gora/planjava_pri_kamniskem_vrhu/4245');"><img class="slikagm" alt="Planjava pri Kamniškem vrhu" src="//www.hribi.net/sliketemp/P50200184973127.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sentanski_vrh/7062" onclick="event.preventDefault(); window.open('/slika_gora/sentanski_vrh/7062');"><img class="slikagm" alt="Šentanski vrh" src="//slike.hribi.net/sliketemp/DobrcaR%201645758323.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planjava_pri_kamniskem_vrhu/14193" onclick="event.preventDefault(); window.open('/slika_gora/planjava_pri_kamniskem_vrhu/14193');"><img class="slikagm" alt="Planjava pri Kamniškem vrhu" src="//www.hribi.net/slike1/DSCN8323834900.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sentanski_vrh/15811" onclick="event.preventDefault(); window.open('/slika_gora/sentanski_vrh/15811');"><img class="slikagm" alt="Šentanski vrh" src="//www.hribi.net/slike1/DSCN45161217268.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sentanski_vrh/21332" onclick="event.preventDefault(); window.open('/slika_gora/sentanski_vrh/21332');"><img class="slikagm" alt="Šentanski vrh" src="//slike.hribi.net/slike4/2_1502660123385_DSCN1808.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sentanski_vrh/21333" onclick="event.preventDefault(); window.open('/slika_gora/sentanski_vrh/21333');"><img class="slikagm" alt="Šentanski vrh" src="//slike.hribi.net/slike4/2_0627586972052_DSCN8440.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planjava_pri_kamniskem_vrhu/14194" onclick="event.preventDefault(); window.open('/slika_gora/planjava_pri_kamniskem_vrhu/14194');"><img class="slikagm" alt="Planjava pri Kamniškem vrhu" src="//www.hribi.net/slike1/DSCN8321834900.th.jpg" /></a>
     
 </div>
 
@@ -923,7 +919,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=930&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1244&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -933,33 +929,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bistriska_planina_sentanski_vrh/3/930/1607">Bistriška planina - Šentanski vrh</a></td><td class="tdG"><a href="/izlet/bistriska_planina_sentanski_vrh/3/930/1607">1 h 35 min</a></td><td class="tdG"><a href="/izlet/bistriska_planina_sentanski_vrh/3/930/1607">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/slevo_planjava_pri_kamniskem_vrhu/3/1244/2085">Slevo - Planjava pri Kamniškem vrhu</a></td><td class="tdG"><a href="/izlet/slevo_planjava_pri_kamniskem_vrhu/3/1244/2085">1 h 30 min</a></td><td class="tdG"><a href="/izlet/slevo_planjava_pri_kamniskem_vrhu/3/1244/2085">zahtevna neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/begunje_preska_sentanski_vrh/3/930/3166">Begunje (Preska) - Šentanski vrh</a></td><td class="tdG"><a href="/izlet/begunje_preska_sentanski_vrh/3/930/3166">3 h 5 min</a></td><td class="tdG"><a href="/izlet/begunje_preska_sentanski_vrh/3/930/3166">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/molnarjev_breg_planjava_pri_kamniskem_vrhu_cez_planino_osredek/3/1244/5728">Molnarjev breg - Planjava pri Kamniškem vrhu (čez planino Osredek)</a></td><td class="tdG"><a href="/izlet/molnarjev_breg_planjava_pri_kamniskem_vrhu_cez_planino_osredek/3/1244/5728">1 h 15 min</a></td><td class="tdG"><a href="/izlet/molnarjev_breg_planjava_pri_kamniskem_vrhu_cez_planino_osredek/3/1244/5728">lahka označena pot, lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trzic_sentanski_vrh/3/930/2913">Tržič - Šentanski vrh</a></td><td class="tdG"><a href="/izlet/trzic_sentanski_vrh/3/930/2913">3 h 15 min</a></td><td class="tdG"><a href="/izlet/trzic_sentanski_vrh/3/930/2913">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/molnarjev_breg_planjava_pri_kamniskem_vrhu/3/1244/5727">Molnarjev breg - Planjava pri Kamniškem vrhu</a></td><td class="tdG"><a href="/izlet/molnarjev_breg_planjava_pri_kamniskem_vrhu/3/1244/5727">1 h 15 min</a></td><td class="tdG"><a href="/izlet/molnarjev_breg_planjava_pri_kamniskem_vrhu/3/1244/5727">lahka označena pot, lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/draga_sentanski_vrh_cez_ledeno_trato/3/930/3165">Draga - Šentanski vrh (čez Ledeno trato)</a></td><td class="tdG"><a href="/izlet/draga_sentanski_vrh_cez_ledeno_trato/3/930/3165">3 h 5 min</a></td><td class="tdG"><a href="/izlet/draga_sentanski_vrh_cez_ledeno_trato/3/930/3165">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zadnja_vas_sentanski_vrh/3/930/2427">Zadnja vas - Šentanski vrh</a></td><td class="tdG"><a href="/izlet/zadnja_vas_sentanski_vrh/3/930/2427">3 h 5 min</a></td><td class="tdG"><a href="/izlet/zadnja_vas_sentanski_vrh/3/930/2427">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bistrica_pri_trzicu_sentanski_vrh/3/930/4472">Bistrica pri Tržiču - Šentanski vrh</a></td><td class="tdG"><a href="/izlet/bistrica_pri_trzicu_sentanski_vrh/3/930/4472">3 h</a></td><td class="tdG"><a href="/izlet/bistrica_pri_trzicu_sentanski_vrh/3/930/4472">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/hudi_graben_sentanski_vrh_mimo_koce_na_dobrci/3/930/2914">Hudi Graben - Šentanski vrh (mimo Koče na Dobrči)</a></td><td class="tdG"><a href="/izlet/hudi_graben_sentanski_vrh_mimo_koce_na_dobrci/3/930/2914">3 h 5 min</a></td><td class="tdG"><a href="/izlet/hudi_graben_sentanski_vrh_mimo_koce_na_dobrci/3/930/2914">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/brezje_pri_trzicu_sentanski_vrh_po_robu/3/930/6891">Brezje pri Tržiču - Šentanski vrh (po robu)</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_sentanski_vrh_po_robu/3/930/6891">2 h 35 min</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_sentanski_vrh_po_robu/3/930/6891">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/brezje_pri_trzicu_sentanski_vrh_po_cesti/3/930/4479"> Brezje pri Tržiču - Šentanski vrh (po cesti)</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_sentanski_vrh_po_cesti/3/930/4479">2 h 50 min</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_sentanski_vrh_po_cesti/3/930/4479">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/slatna_sentanski_vrh/3/930/2915">Slatna - Šentanski vrh</a></td><td class="tdG"><a href="/izlet/slatna_sentanski_vrh/3/930/2915">3 h 5 min</a></td><td class="tdG"><a href="/izlet/slatna_sentanski_vrh/3/930/2915">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/brezje_pri_trzicu_sentanski_vrh_po_robu_in_cez_lesansko_planino/3/930/6892">Brezje pri Tržiču - Šentanski vrh (po robu in čez Lešansko planino)</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_sentanski_vrh_po_robu_in_cez_lesansko_planino/3/930/6892">2 h 40 min</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_sentanski_vrh_po_robu_in_cez_lesansko_planino/3/930/6892">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubelj_sentanski_vrh_bornova_pot/3/930/6401">Ljubelj - Šentanski vrh (Bornova pot)</a></td><td class="tdG"><a href="/izlet/ljubelj_sentanski_vrh_bornova_pot/3/930/6401">4 h 35 min</a></td><td class="tdG"><a href="/izlet/ljubelj_sentanski_vrh_bornova_pot/3/930/6401">delno zahtevna neoznačena pot, delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/hudi_graben_sentanski_vrh/3/930/6896">Hudi Graben - Šentanski vrh</a></td><td class="tdG"><a href="/izlet/hudi_graben_sentanski_vrh/3/930/6896">2 h 35 min</a></td><td class="tdG"><a href="/izlet/hudi_graben_sentanski_vrh/3/930/6896">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/hudi_graben_sentanski_vrh_cez_lesansko_planino/3/930/6895">Hudi Graben - Šentanski vrh (čez Lešansko planino)</a></td><td class="tdG"><a href="/izlet/hudi_graben_sentanski_vrh_cez_lesansko_planino/3/930/6895">2 h 40 min</a></td><td class="tdG"><a href="/izlet/hudi_graben_sentanski_vrh_cez_lesansko_planino/3/930/6895">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/molnarjev_breg_planjava_pri_kamniskem_vrhu_po_cesti/3/1244/5729">Molnarjev breg - Planjava pri Kamniškem vrhu (po cesti)</a></td><td class="tdG"><a href="/izlet/molnarjev_breg_planjava_pri_kamniskem_vrhu_po_cesti/3/1244/5729">1 h 15 min</a></td><td class="tdG"><a href="/izlet/molnarjev_breg_planjava_pri_kamniskem_vrhu_po_cesti/3/1244/5729">lahka neoznačena steza</a></td></tr>
 
 </table>
 

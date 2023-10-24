@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča na Bohorju</title>
-        <meta name="description" content="Natančen opis koče Koča na Bohorju in vseh pristopov na Koča na Bohorju. Koča, do katere je možno priti tudi z avtomobilom, se nahaja na pobočjih Bohorja." />
+        <title>Almin dom na Svetini</title>
+        <meta name="description" content="Natančen opis koče Almin dom na Svetini in vseh pristopov na Almin dom na Svetini. Almin dom na Svetini se nahaja na razgledni vzpetini nad vasjo Svetina, ki je zn." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./890?gorovjeid=25&amp;id=890" id="form1">
+    <form method="post" action="./880?gorovjeid=25&amp;id=880" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_bohorju/25/890"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=890"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/almin_dom_na_svetini/25/880"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=880"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Koča na Bohorju
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Almin dom na Svetini
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(890);
+    gorast(880);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča na Bohorju</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Almin dom na Svetini</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 896&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 772&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;3,9204'N&nbsp;/&nbsp;15°&nbsp;27,1722'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;11,4156'N&nbsp;/&nbsp;15°&nbsp;18,1464'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;3'&nbsp;55,22''N&nbsp;/&nbsp;15°&nbsp;27'&nbsp;10,33''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;11'&nbsp;24,94''N&nbsp;/&nbsp;15°&nbsp;18'&nbsp;8,78''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.06534°N&nbsp;/&nbsp;15.45287°E";
+                        document.getElementById("kf0").innerHTML = "46.19026°N&nbsp;/&nbsp;15.30244°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,06534°N,&nbsp;15,45287°E";
+                    document.getElementById("kf0").innerHTML = "46,19026°N,&nbsp;15,30244°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,06534°N&nbsp;15,45287°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_bohorju/890"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,19026°N&nbsp;15,30244°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/almin_dom_na_svetini/880"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> koča, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Almin dom na Svetini - Torek" href="/vreme_gora/almin_dom_na_svetini/25/880#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Almin dom na Svetini - Sreda" href="/vreme_gora/almin_dom_na_svetini/25/880#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Almin dom na Svetini - Četrtek" href="/vreme_gora/almin_dom_na_svetini/25/880#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Bohorju - Petek" href="/vreme_gora/koca_na_bohorju/25/890#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Almin dom na Svetini - Petek" href="/vreme_gora/almin_dom_na_svetini/25/880#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Bohorju - Sobota" href="/vreme_gora/koca_na_bohorju/25/890#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Bohorju - Nedelja" href="/vreme_gora/koca_na_bohorju/25/890#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Bohorju - Ponedeljek" href="/vreme_gora/koca_na_bohorju/25/890#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Bohorju - Torek" href="/vreme_gora/koca_na_bohorju/25/890#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Almin dom na Svetini - Sobota" href="/vreme_gora/almin_dom_na_svetini/25/880#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 458.954</div>
-<div class="g2"><b>Priljubljenost:</b> 86%&nbsp;(444.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">5</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=890" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Ogledov:</b> 468.470</div>
+<div class="g2"><b>Priljubljenost:</b> 87%&nbsp;(416.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">12</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=880" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Koča, do katere je možno priti tudi z avtomobilom, se nahaja na pobočjih Bohorja. Od koče, se nam odpre nekaj malega razgleda predvsem proti jugu in zahodu, na ostale strani pa ga ovira gozd. Veliko lepši je razgled s 5 minut oddaljene Petrove skale, pod katero se nahaja manjše naravno okno. Do okna pridemo v 10 minutah hoje od koče (5 minut spusta od Petrove skale).</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Almin dom na Svetini se nahaja na razgledni vzpetini nad vasjo Svetina, ki je znana po cerkvi Marije Snežne. Od doma, ki je bil pred leti preurejen v hotel, je lep razgled na omenjeno vas in okoliško hribovje.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=890&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=880&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/debeli_vrh_bohor/25/2244">Debeli vrh (Bohor) (921m)</a>, <a class="moder" href="/gora/grmada_bohor/25/3092">Grmada (Bohor) (890m)</a>, <a class="moder" href="/gora/koprivnik_bohor/25/889">Koprivnik (Bohor) (984m)</a>, <a class="moder" href="/gora/naravno_bohorsko_okno/25/3525">Naravno bohorsko okno (883m)</a>, <a class="moder" href="/gora/petrova_skala_na_bohorju/25/3524">Petrova skala na Bohorju (913m)</a>, <a class="moder" href="/gora/plesivec_bohor/25/3523">Plešivec (Bohor) (915m)</a>, <a class="moder" href="/gora/veliki_javornik_bohor/25/888">Veliki Javornik (Bohor) (1023m)</a>
+<a class="moder" href="/gora/babni_vrh/25/3350">Babni vrh (753m)</a>, <a class="moder" href="/gora/bavc/25/3340">Bavč (692m)</a>, <a class="moder" href="/gora/gradise_nad_storami/25/3428">Gradiše (nad Štorami) (540m)</a>, <a class="moder" href="/gora/mali_bojanski_vrh/25/3347">Mali Bojanski vrh (600m)</a>, <a class="moder" href="/gora/srebotnik/25/881">Srebotnik (700m)</a>, <a class="moder" href="/gora/tolsti_vrh_nad_celjsko_koco/25/879">Tolsti vrh nad Celjsko kočo (834m)</a>, <a class="moder" href="/gora/veliki_bojanski_vrh/25/3335">Veliki Bojanski vrh (627m)</a>, <a class="moder" href="/gora/veliki_vrh_nad_svetino/25/2302">Veliki vrh nad Svetino (807m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,21 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bostanj/3586">Boštanj</a>, <a class="moder" href="/spletna_kamera/koca_na_bohorju/3373">Koča na Bohorju</a>, <a class="moder" href="/spletna_kamera/krsko/3271">Krško</a>, <a class="moder" href="/spletna_kamera/leskovec_pri_krskem/1025">Leskovec pri Krškem</a>, <a class="moder" href="/spletna_kamera/lisca/506">Lisca</a>, <a class="moder" href="/spletna_kamera/planina_pri_sevnici/4944">Planina pri Sevnici</a>, <a class="moder" href="/spletna_kamera/podcetrtek/2415">Podčetrtek</a>, <a class="moder" href="/spletna_kamera/poklek_pri_podsredi/4946">Poklek pri Podsredi</a>, <a class="moder" href="/spletna_kamera/senovo/3588">Senovo</a>, <a class="moder" href="/spletna_kamera/sevnica/3589">Sevnica</a>, <a class="moder" href="/spletna_kamera/zegar/4945">Žegar</a>
+<a class="moder" href="/spletna_kamera/celje_krekov_trg/3511">Celje (Krekov trg)</a>, <a class="moder" href="/spletna_kamera/celje_letno_kopalisce/361">Celje (letno kopališče)</a>, <a class="moder" href="/spletna_kamera/celjska_koca/174">Celjska koča</a>, <a class="moder" href="/spletna_kamera/dramlje/1743">Dramlje</a>, <a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/lahomsek/309">Lahomšek</a>, <a class="moder" href="/spletna_kamera/lisca/506">Lisca</a>, <a class="moder" href="/spletna_kamera/marno/381">Marno</a>, <a class="moder" href="/spletna_kamera/medlog/1164">Medlog</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/planina_pri_sevnici/4944">Planina pri Sevnici</a>, <a class="moder" href="/spletna_kamera/slatina/363">Slatina</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>, <a class="moder" href="/spletna_kamera/zegar/4945">Žegar</a>, <a class="moder" href="/spletna_kamera/zima/362">Zima</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_bohorju%2f25%2f890"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_bohorju%2f25%2f890"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_bohorju%2f25%2f890"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2falmin_dom_na_svetini%2f25%2f880"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2falmin_dom_na_svetini%2f25%2f880"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2falmin_dom_na_svetini%2f25%2f880"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koca_na_bohorju/890" title="Koča na Bohorju 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KocaBohor.jpg" /></a></div>
+<div><a href="/panorama/360/almin_dom_na_svetini/880" title="Almin dom na Svetini 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Svetina.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_na_bohorju/2886" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_bohorju/2886');"><img class="slikagm" alt="Koča na Bohorju" src="//www.hribi.net/sliketemp/P40400454404141.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_bohorju/20926" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_bohorju/20926');"><img class="slikagm" alt="Koča na Bohorju" src="//slike2.hribi.net/slike14/2_3685704991960_3dscn5840.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_bohorju/20927" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_bohorju/20927');"><img class="slikagm" alt="Koča na Bohorju" src="//slike2.hribi.net/slike14/2_059704446493_0dscn5844.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_bohorju/20930" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_bohorju/20930');"><img class="slikagm" alt="Koča na Bohorju" src="//slike2.hribi.net/slike14/2_2921705235066_2dscn5848.jpg" /></a>
+        <a target="_blank" href="/slika_gora/almin_dom_na_svetini/2870" onclick="event.preventDefault(); window.open('/slika_gora/almin_dom_na_svetini/2870');"><img class="slikagm" alt="Almin dom na Svetini" src="//www.hribi.net/slike1/P330073343520.th.jpg" /></a>
     
 </div>
 
@@ -919,7 +913,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=890&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=880&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,17 +923,29 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jablance_koca_na_bohorju/25/890/1565">Jablance - Koča na Bohorju</a></td><td class="tdG"><a href="/izlet/jablance_koca_na_bohorju/25/890/1565">1 h</a></td><td class="tdG"><a href="/izlet/jablance_koca_na_bohorju/25/890/1565">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zagrad_almin_dom_na_svetini/25/880/1555">Zagrad - Almin dom na Svetini</a></td><td class="tdG"><a href="/izlet/zagrad_almin_dom_na_svetini/25/880/1555">2 h</a></td><td class="tdG"><a href="/izlet/zagrad_almin_dom_na_svetini/25/880/1555">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kozje_koca_na_bohorju_cez_vetrnik/25/890/4707">Kozje - Koča na Bohorju (čez Vetrnik)</a></td><td class="tdG"><a href="/izlet/kozje_koca_na_bohorju_cez_vetrnik/25/890/4707">3 h</a></td><td class="tdG"><a href="/izlet/kozje_koca_na_bohorju_cez_vetrnik/25/890/4707">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/pecovje_almin_dom_na_svetini_cez_srebotnik/25/880/1557">Pečovje - Almin dom na Svetini (čez Srebotnik)</a></td><td class="tdG"><a href="/izlet/pecovje_almin_dom_na_svetini_cez_srebotnik/25/880/1557">1 h 30 min</a></td><td class="tdG"><a href="/izlet/pecovje_almin_dom_na_svetini_cez_srebotnik/25/880/1557">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lesicno_koca_na_bohorju/25/890/4642">Lesično - Koča na Bohorju</a></td><td class="tdG"><a href="/izlet/lesicno_koca_na_bohorju/25/890/4642">3 h</a></td><td class="tdG"><a href="/izlet/lesicno_koca_na_bohorju/25/890/4642">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_cez_zlajfo/25/880/4658">Štore - Almin dom na Svetini (čez Žlajfo)</a></td><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_cez_zlajfo/25/880/4658">1 h 30 min</a></td><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_cez_zlajfo/25/880/4658">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_pri_sevnici_koca_na_bohorju/25/890/8538">Planina pri Sevnici - Koča na Bohorju</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_koca_na_bohorju/25/890/8538">2 h</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_koca_na_bohorju/25/890/8538">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_cez_resevno_in_resje_nad_storami/25/880/4769">Štore - Almin dom na Svetini (čez Resevno in Resje nad Štorami)</a></td><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_cez_resevno_in_resje_nad_storami/25/880/4769">3 h 15 min</a></td><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_cez_resevno_in_resje_nad_storami/25/880/4769">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/stara_zaga_koca_na_bohorju_preko_skalice_in_v_javornika/25/890/8056">Stara Žaga - Koča na Bohorju (preko Skalice in V. Javornika)</a></td><td class="tdG"><a href="/izlet/stara_zaga_koca_na_bohorju_preko_skalice_in_v_javornika/25/890/8056">3 h 10 min</a></td><td class="tdG"><a href="/izlet/stara_zaga_koca_na_bohorju_preko_skalice_in_v_javornika/25/890/8056">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_mimo_marije/25/880/4735">Štore - Almin dom na Svetini (mimo Marije)</a></td><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_mimo_marije/25/880/4735">1 h 45 min</a></td><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_mimo_marije/25/880/4735">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_pri_sevnici_koca_na_bohorju_mimo_lovskega_doma_bohor_in_cez_veliki_javornik/25/890/8528">Planina pri Sevnici - Koča na Bohorju (mimo Lovskega doma Bohor in čez Veliki Javornik)</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_koca_na_bohorju_mimo_lovskega_doma_bohor_in_cez_veliki_javornik/25/890/8528">3 h 5 min</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_koca_na_bohorju_mimo_lovskega_doma_bohor_in_cez_veliki_javornik/25/890/8528">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_skozi_bojanski_graben/25/880/4726">Štore - Almin dom na Svetini (skozi Bojanski graben)</a></td><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_skozi_bojanski_graben/25/880/4726">1 h 45 min</a></td><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_skozi_bojanski_graben/25/880/4726">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/celje_almin_dom_na_svetini_cez_suhi_potok_in_celjsko_koco/25/880/5030">Celje - Almin dom na Svetini (čez Suhi potok in Celjsko kočo)</a></td><td class="tdG"><a href="/izlet/celje_almin_dom_na_svetini_cez_suhi_potok_in_celjsko_koco/25/880/5030">2 h 45 min</a></td><td class="tdG"><a href="/izlet/celje_almin_dom_na_svetini_cez_suhi_potok_in_celjsko_koco/25/880/5030">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_cez_sentjanz_in_mimo_vruncevega_doma/25/880/4848">Štore - Almin dom na Svetini (čez Šentjanž in mimo Vrunčevega doma)</a></td><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_cez_sentjanz_in_mimo_vruncevega_doma/25/880/4848">2 h 30 min</a></td><td class="tdG"><a href="/izlet/store_almin_dom_na_svetini_cez_sentjanz_in_mimo_vruncevega_doma/25/880/4848">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tremerje_almin_dom_na_svetini_mimo_celjske_koce/25/880/4878">Tremerje - Almin dom na Svetini (mimo Celjske koče)</a></td><td class="tdG"><a href="/izlet/tremerje_almin_dom_na_svetini_mimo_celjske_koce/25/880/4878">2 h 30 min</a></td><td class="tdG"><a href="/izlet/tremerje_almin_dom_na_svetini_mimo_celjske_koce/25/880/4878">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zvodno_almin_dom_na_svetini_skozi_bojanski_graben/25/880/8124">Zvodno - Almin dom na Svetini (skozi Bojanski graben)</a></td><td class="tdG"><a href="/izlet/zvodno_almin_dom_na_svetini_skozi_bojanski_graben/25/880/8124">1 h 35 min</a></td><td class="tdG"><a href="/izlet/zvodno_almin_dom_na_svetini_skozi_bojanski_graben/25/880/8124">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__almin_dom_na_svetini_mimo_mirta/25/880/8080">Kozolec (Laška vas - Pečovje)  - Almin dom na Svetini (mimo Mirta)</a></td><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__almin_dom_na_svetini_mimo_mirta/25/880/8080">1 h 20 min</a></td><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__almin_dom_na_svetini_mimo_mirta/25/880/8080">lahka označena pot, lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/teharje_almin_dom_na_svetini_pot_i_celjske_cete/25/880/8240">Teharje - Almin dom na Svetini (Pot I. Celjske čete)</a></td><td class="tdG"><a href="/izlet/teharje_almin_dom_na_svetini_pot_i_celjske_cete/25/880/8240">2 h 20 min</a></td><td class="tdG"><a href="/izlet/teharje_almin_dom_na_svetini_pot_i_celjske_cete/25/880/8240">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Grmada na Mali gori</title>
-        <meta name="description" content="Natančen opis gore Grmada na Mali gori in vseh pristopov na Grmada na Mali gori. Grmada (tudi Grmada nad Ortnekom) je 887 m visok vrh, ki se nahaja nad vasjo Vrh." />
+        <title>Murovica</title>
+        <meta name="description" content="Natančen opis gore Murovica in vseh pristopov na Murovica. Murovica je priljubljena izletniška točka, pristopna iz posavske strani, Domžal ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1169?gorovjeid=25&amp;id=1169" id="form1">
+    <form method="post" action="./1205?gorovjeid=25&amp;id=1205" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/grmada_on_mala_gora/25/1169"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1169"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/murovica/25/1205"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1205"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Grmada na Mali gori
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Murovica
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1169);
+    gorast(1205);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Grmada na Mali gori</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Murovica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 887&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 743&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;48,8856'N&nbsp;/&nbsp;14°&nbsp;41,7174'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;6,6102'N&nbsp;/&nbsp;14°&nbsp;41,7930'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;48'&nbsp;53,14''N&nbsp;/&nbsp;14°&nbsp;41'&nbsp;43,04''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;6'&nbsp;36,61''N&nbsp;/&nbsp;14°&nbsp;41'&nbsp;47,58''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.81476°N&nbsp;/&nbsp;14.69529°E";
+                        document.getElementById("kf0").innerHTML = "46.11017°N&nbsp;/&nbsp;14.69655°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,81476°N,&nbsp;14,69529°E";
+                    document.getElementById("kf0").innerHTML = "46,11017°N,&nbsp;14,69655°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,81476°N&nbsp;14,69529°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/grmada_na_mali_gori/1169"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,11017°N&nbsp;14,69655°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/murovica/1205"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Murovica - Torek" href="/vreme_gora/murovica/25/1205#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Murovica - Sreda" href="/vreme_gora/murovica/25/1205#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Murovica - Četrtek" href="/vreme_gora/murovica/25/1205#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Grmada na Mali gori - Petek" href="/vreme_gora/grmada_na_mali_gori/25/1169#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Murovica - Petek" href="/vreme_gora/murovica/25/1205#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Grmada na Mali gori - Sobota" href="/vreme_gora/grmada_na_mali_gori/25/1169#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Grmada na Mali gori - Nedelja" href="/vreme_gora/grmada_na_mali_gori/25/1169#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Grmada na Mali gori - Ponedeljek" href="/vreme_gora/grmada_na_mali_gori/25/1169#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Grmada na Mali gori - Torek" href="/vreme_gora/grmada_na_mali_gori/25/1169#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Murovica - Sobota" href="/vreme_gora/murovica/25/1205#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 356.251</div>
-<div class="g2"><b>Priljubljenost:</b> 76%&nbsp;(799.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1169" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 372.567</div>
+<div class="g2"><b>Priljubljenost:</b> 78%&nbsp;(738.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">10</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1205" title="Število vpisov v vpisni knjigi">90</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Grmada (tudi Grmada nad Ortnekom) je 887 m visok vrh, ki se nahaja nad vasjo Vrh pri Poljanah v pogorju Male gore. Le nekaj metrov pod vrhom se nahaja tudi dom na Grmadi, ki je odprt ob koncih tedna. Od doma pa se nam ob lepem vremenu odpre lep razgled, ki seže po večjem delu Dolenjske, če pa se sprehodimo okrog vrha pa lahko vidimo vse od Snežnika, Julijcev, Karavank do Kamniško Savinjskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Murovica je priljubljena izletniška točka, pristopna iz posavske strani, Domžal ali iz Moravške doline. Na vrhu je klop in vpisna knjiga ter zaradi gozda malo okrnjen pogled na Ljubljano z okolico, ob lepem vremenu pa tudi na Snežnik.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1169&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1205&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -835,33 +835,28 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/gorenje_podpoljane/1449">Gorenje Podpoljane</a>, <a class="moder" href="/spletna_kamera/grosuplje/303">Grosuplje</a>, <a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/male_rebrce/3042">Male Rebrce</a>, <a class="moder" href="/spletna_kamera/ribnica/1981">Ribnica</a>, <a class="moder" href="/spletna_kamera/studenec_na_blokah/1599">Studenec na Blokah</a>
+<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/domzale/1008">Domžale</a>, <a class="moder" href="/spletna_kamera/golovec_astronomski_observatorij_fmf/4305">Golovec (Astronomski observatorij FMF)</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/krtina/3453">Krtina</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/ljubljana_ukc_ljubljana/3385">Ljubljana (UKC Ljubljana)</a>, <a class="moder" href="/spletna_kamera/ljubljana_golovec/463">Ljubljana Golovec</a>, <a class="moder" href="/spletna_kamera/ljubljana_nove_jarse/480">Ljubljana Nove Jarše</a>, <a class="moder" href="/spletna_kamera/ljubljana_tomacevo/479">Ljubljana Tomačevo</a>, <a class="moder" href="/spletna_kamera/ljubljana_zadobrova/459">Ljubljana Zadobrova</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/orle/4000">Orle</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rasica_nad_ljubljano/2418">Rašica nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/sentjakob/354">Šentjakob</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/zagarski_vrh/3123">Žagarski vrh</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgrmada_na_mali_gori%2f25%2f1169"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrmada_na_mali_gori%2f25%2f1169"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrmada_na_mali_gori%2f25%2f1169"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmurovica%2f25%2f1205"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmurovica%2f25%2f1205"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmurovica%2f25%2f1205"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/grmada_na_mali_gori/1169" title="Grmada na Mali gori 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.GrmadaNaMaliGori.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/3940" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/3940');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/P2130342179928.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/murovica/4091" onclick="event.preventDefault(); window.open('/slika_gora/murovica/4091');"><img class="slikagm" alt="Murovica" src="//www.hribi.net/sliketemp/PICT02724912322.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/3941" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/3941');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/P2130344179928.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/murovica/9329" onclick="event.preventDefault(); window.open('/slika_gora/murovica/9329');"><img class="slikagm" alt="Murovica" src="//www.hribi.net/slike1/Cicelj 050473616.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/3942" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/3942');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/P2130340179928.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/murovica/9330" onclick="event.preventDefault(); window.open('/slika_gora/murovica/9330');"><img class="slikagm" alt="Murovica" src="//www.hribi.net/slike1/Cicelj 049473616.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/10878" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/10878');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/KamniVrh 077313664.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/murovica/9331" onclick="event.preventDefault(); window.open('/slika_gora/murovica/9331');"><img class="slikagm" alt="Murovica" src="//www.hribi.net/slike1/Cicelj 046473616.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/10879" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/10879');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/KamniVrh 087313664.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/murovica/16781" onclick="event.preventDefault(); window.open('/slika_gora/murovica/16781');"><img class="slikagm" alt="Murovica" src="//slike.hribi.net/slike4/2_1346579633275_DSCN0520.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/10883" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/10883');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/KamniVrh 153385320.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/13422" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/13422');"><img class="slikagm" alt="Grmada na Mali gori" src="//slike.hribi.net/slike4/2_0909485858357_DSCN3255.JPG" /></a>
+        <a target="_blank" href="/slika_gora/murovica/16782" onclick="event.preventDefault(); window.open('/slika_gora/murovica/16782');"><img class="slikagm" alt="Murovica" src="//slike.hribi.net/slike4/2_0836580229296_DSCN0469.JPG" /></a>
     
 </div>
 
@@ -925,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1169&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1205&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,21 +930,21 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ortnek_grmada_na_mali_gori/25/1169/5276">Ortnek - Grmada na Mali gori</a></td><td class="tdG"><a href="/izlet/ortnek_grmada_na_mali_gori/25/1169/5276">1 h</a></td><td class="tdG"><a href="/izlet/ortnek_grmada_na_mali_gori/25/1169/5276">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/sveta_trojica_murovica/25/1205/3598">Sveta Trojica - Murovica</a></td><td class="tdG"><a href="/izlet/sveta_trojica_murovica/25/1205/3598"> 45 min</a></td><td class="tdG"><a href="/izlet/sveta_trojica_murovica/25/1205/3598">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gornje_retje_grmada_na_mali_gori/25/1169/1970">Gornje Retje - Grmada na Mali gori</a></td><td class="tdG"><a href="/izlet/gornje_retje_grmada_na_mali_gori/25/1169/1970">1 h 40 min</a></td><td class="tdG"><a href="/izlet/gornje_retje_grmada_na_mali_gori/25/1169/1970">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornja_javorsica_murovica/25/1205/3600">Zgornja Javoršica - Murovica</a></td><td class="tdG"><a href="/izlet/zgornja_javorsica_murovica/25/1205/3600"> 25 min</a></td><td class="tdG"><a href="/izlet/zgornja_javorsica_murovica/25/1205/3600">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podgora_grmada_na_mali_gori/25/1169/4416">Podgora - Grmada na Mali gori</a></td><td class="tdG"><a href="/izlet/podgora_grmada_na_mali_gori/25/1169/4416">1 h 20 min</a></td><td class="tdG"><a href="/izlet/podgora_grmada_na_mali_gori/25/1169/4416">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/krizevska_vas_murovica/25/1205/3601">Križevska vas - Murovica</a></td><td class="tdG"><a href="/izlet/krizevska_vas_murovica/25/1205/3601"> 45 min</a></td><td class="tdG"><a href="/izlet/krizevska_vas_murovica/25/1205/3601">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dule_grmada_na_mali_gori/25/1169/1969">Dule - Grmada na Mali gori</a></td><td class="tdG"><a href="/izlet/dule_grmada_na_mali_gori/25/1169/1969">2 h</a></td><td class="tdG"><a href="/izlet/dule_grmada_na_mali_gori/25/1169/1969">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kamnica_murovica/25/1205/6772">Kamnica - Murovica</a></td><td class="tdG"><a href="/izlet/kamnica_murovica/25/1205/6772">1 h 20 min</a></td><td class="tdG"><a href="/izlet/kamnica_murovica/25/1205/6772">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podpec_grmada_na_mali_gori/25/1169/4420">Podpeč - Grmada na Mali gori</a></td><td class="tdG"><a href="/izlet/podpec_grmada_na_mali_gori/25/1169/4420">1 h 35 min</a></td><td class="tdG"><a href="/izlet/podpec_grmada_na_mali_gori/25/1169/4420">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/senozeti_murovica_mimo_kmetije_buven/25/1205/6777">Senožeti - Murovica (mimo kmetije Buven)</a></td><td class="tdG"><a href="/izlet/senozeti_murovica_mimo_kmetije_buven/25/1205/6777">1 h 55 min</a></td><td class="tdG"><a href="/izlet/senozeti_murovica_mimo_kmetije_buven/25/1205/6777">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ribnica_lepovce_grmada_na_mali_gori_cez_stene_sv_ane/25/1169/5288">Ribnica (Lepovče) - Grmada na Mali gori (čez Stene sv. Ane)</a></td><td class="tdG"><a href="/izlet/ribnica_lepovce_grmada_na_mali_gori_cez_stene_sv_ane/25/1169/5288">3 h 50 min</a></td><td class="tdG"><a href="/izlet/ribnica_lepovce_grmada_na_mali_gori_cez_stene_sv_ane/25/1169/5288">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/senozeti_murovica_cez_vrh_pri_dolskem/25/1205/6776">Senožeti - Murovica (čez Vrh pri Dolskem)</a></td><td class="tdG"><a href="/izlet/senozeti_murovica_cez_vrh_pri_dolskem/25/1205/6776">2 h 5 min</a></td><td class="tdG"><a href="/izlet/senozeti_murovica_cez_vrh_pri_dolskem/25/1205/6776">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_gornje_retje/25/1169/8999">Velike Lašče - Grmada na Mali gori (čez Gornje Retje)</a></td><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_gornje_retje/25/1169/8999">2 h</a></td><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_gornje_retje/25/1169/8999">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gorjusa_murovica_skozi_dobovlje/25/1205/6754">Gorjuša - Murovica (skozi Dobovlje)</a></td><td class="tdG"><a href="/izlet/gorjusa_murovica_skozi_dobovlje/25/1205/6754">2 h 40 min</a></td><td class="tdG"><a href="/izlet/gorjusa_murovica_skozi_dobovlje/25/1205/6754">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_kamen_vrh/25/1169/9020">Velike Lašče - Grmada na Mali gori (čez Kamen vrh)</a></td><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_kamen_vrh/25/1169/9020">2 h</a></td><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_kamen_vrh/25/1169/9020">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ssk_sam_ihan_murovica_skozi_dobovlje/25/1205/6680">SSK Sam Ihan - Murovica (skozi Dobovlje)</a></td><td class="tdG"><a href="/izlet/ssk_sam_ihan_murovica_skozi_dobovlje/25/1205/6680">2 h 40 min</a></td><td class="tdG"><a href="/izlet/ssk_sam_ihan_murovica_skozi_dobovlje/25/1205/6680">lahka neoznačena steza</a></td></tr>
 
 </table>
 

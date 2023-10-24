@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Jelovec</title>
-        <meta name="description" content="Natančen opis gore Jelovec in vseh pristopov na Jelovec. Jelovec je 1808 m visok vrh, ki se nahaja na skrajnem severovzhodnem delu Raduhe." />
+        <title>Kriška planina</title>
+        <meta name="description" content="Natančen opis koče Kriška planina in vseh pristopov na Kriška planina. Kriška planina je prostrana planina, ki se nahaja med Krvavcem (1853 m) in Kržiš." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1817?gorovjeid=3&amp;id=1817" id="form1">
+    <form method="post" action="./2201?gorovjeid=3&amp;id=2201" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/jelovec/3/1817"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1817"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kriska_planina/3/2201"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2201"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Jelovec
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Kriška planina
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1817);
+    gorast(2201);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Jelovec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kriška planina</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1808&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1480&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,2900'N&nbsp;/&nbsp;14°&nbsp;45,6906'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,6580'N&nbsp;/&nbsp;14°&nbsp;32,1540'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;17,40''N&nbsp;/&nbsp;14°&nbsp;45'&nbsp;41,44''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;39,48''N&nbsp;/&nbsp;14°&nbsp;32'&nbsp;9,24''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.4215°N&nbsp;/&nbsp;14.76151°E";
+                        document.getElementById("kf0").innerHTML = "46.2943°N&nbsp;/&nbsp;14.5359°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,4215°N,&nbsp;14,76151°E";
+                    document.getElementById("kf0").innerHTML = "46,2943°N,&nbsp;14,5359°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4215°N&nbsp;14,76151°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/jelovec/1817"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2943°N&nbsp;14,5359°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kriska_planina/2201"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča, planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kriška planina - Torek" href="/vreme_gora/kriska_planina/3/2201#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kriška planina - Sreda" href="/vreme_gora/kriska_planina/3/2201#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kriška planina - Četrtek" href="/vreme_gora/kriska_planina/3/2201#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Jelovec - Petek" href="/vreme_gora/jelovec/3/1817#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kriška planina - Petek" href="/vreme_gora/kriska_planina/3/2201#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Jelovec - Sobota" href="/vreme_gora/jelovec/3/1817#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Jelovec - Nedelja" href="/vreme_gora/jelovec/3/1817#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Jelovec - Ponedeljek" href="/vreme_gora/jelovec/3/1817#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Jelovec - Torek" href="/vreme_gora/jelovec/3/1817#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kriška planina - Sobota" href="/vreme_gora/kriska_planina/3/2201#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 361.779</div>
-<div class="g2"><b>Priljubljenost:</b> 76%&nbsp;(776.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 502.538</div>
+<div class="g2"><b>Priljubljenost:</b> 90%&nbsp;(316.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2201" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Jelovec je 1808 m visok vrh, ki se nahaja na skrajnem severovzhodnem delu Raduhe. Z vrha, na katerem stoji križ, se nam odpre lep razgled na Raduho, Olševo, Peco, Uršljo goro, Smrekovško pogorje ter hribovju nad osrednjim delom Savinjske doline.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Kriška planina je prostrana planina, ki se nahaja med Krvavcem (1853 m) in Kržiščem (1658 m). V poletnem času na planini pasejo živino, v zimskem času pa je polna smučarjev, saj je planina del smučišča Krvavec. Na planini se nahaja tudi planšarija Pr Florjan, ki služi kot neke vrste pastirska oz. planinska koča, ki je odprta vse dni v letu.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1817&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2201&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/knezova_planina_planina_bela_pec/3/1501">Knezova planina (Planina Bela peč) (1350m)</a>, <a class="moder" href="/gora/koca_na_grohatu/3/615">Koča na Grohatu (1460m)</a>, <a class="moder" href="/gora/koca_na_loki_pod_raduho/3/409">Koča na Loki pod Raduho (1534m)</a>, <a class="moder" href="/gora/lanez/3/1269">Lanež (1925m)</a>, <a class="moder" href="/gora/mala_raduha/3/1268">Mala Raduha (2029m)</a>, <a class="moder" href="/gora/planina_javorje/3/1499">Planina Javorje (1594m)</a>, <a class="moder" href="/gora/planina_vodol/3/1500">Planina Vodol (1324m)</a>
+<a class="moder" href="/gora/dom_na_gospincu_hotel_rozka/3/1063">Dom na Gospincu (Hotel Rozka) (1491m)</a>, <a class="moder" href="/gora/dom_na_krvavcu/3/179">Dom na Krvavcu (1684m)</a>, <a class="moder" href="/gora/hotel_krvavec/3/2512">Hotel Krvavec (1600m)</a>, <a class="moder" href="/gora/krvavec/3/1068">Krvavec (1853m)</a>, <a class="moder" href="/gora/krzisce_pokovse/3/2735">Kržišče (Pokovše) (1658m)</a>, <a class="moder" href="/gora/planina_jezerca/3/2639">Planina Jezerca (1410m)</a>, <a class="moder" href="/gora/planina_koren/3/317">Planina Koren (1675m)</a>, <a class="moder" href="/gora/planina_osredek/3/352">Planina Osredek (1100m)</a>, <a class="moder" href="/gora/veliki_zvoh/3/73">Veliki Zvoh (1971m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,35 +835,34 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fjelovec%2f3%2f1817"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjelovec%2f3%2f1817"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjelovec%2f3%2f1817"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkriska_planina%2f3%2f2201"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkriska_planina%2f3%2f2201"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkriska_planina%2f3%2f2201"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/jelovec/1817" title="Jelovec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.JelovecRaduha.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/jelovec/8281" onclick="event.preventDefault(); window.open('/slika_gora/jelovec/8281');"><img class="slikagm" alt="Jelovec" src="//www.hribi.net/slike1/Komen 0150.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kriska_planina/11249" onclick="event.preventDefault(); window.open('/slika_gora/kriska_planina/11249');"><img class="slikagm" alt="Kriška planina" src="//www.hribi.net/slike1/Zvoh 0211058148.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jelovec/8282" onclick="event.preventDefault(); window.open('/slika_gora/jelovec/8282');"><img class="slikagm" alt="Jelovec" src="//www.hribi.net/slike1/Komen 0170.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kriska_planina/11250" onclick="event.preventDefault(); window.open('/slika_gora/kriska_planina/11250');"><img class="slikagm" alt="Kriška planina" src="//www.hribi.net/slike1/Zvoh 2231182636.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jelovec/8283" onclick="event.preventDefault(); window.open('/slika_gora/jelovec/8283');"><img class="slikagm" alt="Jelovec" src="//www.hribi.net/slike1/Raduha07%20354689920.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kriska_planina/11251" onclick="event.preventDefault(); window.open('/slika_gora/kriska_planina/11251');"><img class="slikagm" alt="Kriška planina" src="//www.hribi.net/slike1/Zvoh 2211182636.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jelovec/8328" onclick="event.preventDefault(); window.open('/slika_gora/jelovec/8328');"><img class="slikagm" alt="Jelovec" src="//www.hribi.net/slike1/raduha%202176136324.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kriska_planina/11252" onclick="event.preventDefault(); window.open('/slika_gora/kriska_planina/11252');"><img class="slikagm" alt="Kriška planina" src="//www.hribi.net/slike1/Zvoh 2201182636.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jelovec/8329" onclick="event.preventDefault(); window.open('/slika_gora/jelovec/8329');"><img class="slikagm" alt="Jelovec" src="//www.hribi.net/slike1/raduha%202206136324.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kriska_planina/14670" onclick="event.preventDefault(); window.open('/slika_gora/kriska_planina/14670');"><img class="slikagm" alt="Kriška planina" src="//slike.hribi.net/slike4/2_0638520245216_DSCN9352.JPG" /></a>
     
 </div>
 
 
 
-
+<div style="padding-top:8px;"><b>Video:</b></div><div>
+        <a target="_blank" href="/video_posnetek/Letenje z gora/tandemski_polet_kriska_gora/8/870"><img class="slikagmv" alt="Tandemski polet Kriška gora" src="https://img.youtube.com/vi/cGpCbdnB8t8/0.jpg" /></a>
+    </div>
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -921,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1817&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2201&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,9 +930,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_loka_jelovec/3/1817/3380">Planina Loka - Jelovec</a></td><td class="tdG"><a href="/izlet/planina_loka_jelovec/3/1817/3380">1 h 20 min</a></td><td class="tdG"><a href="/izlet/planina_loka_jelovec/3/1817/3380">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_jezerca_kriska_planina/3/2201/4560">Planina Jezerca - Kriška planina</a></td><td class="tdG"><a href="/izlet/planina_jezerca_kriska_planina/3/2201/4560"> 15 min</a></td><td class="tdG"><a href="/izlet/planina_jezerca_kriska_planina/3/2201/4560">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/luce_jelovec/3/1817/6267">Luče - Jelovec</a></td><td class="tdG"><a href="/izlet/luce_jelovec/3/1817/6267">4 h 5 min</a></td><td class="tdG"><a href="/izlet/luce_jelovec/3/1817/6267">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ambroz_pod_krvavcem_kriska_planina/3/2201/5945">Ambrož pod Krvavcem - Kriška planina</a></td><td class="tdG"><a href="/izlet/ambroz_pod_krvavcem_kriska_planina/3/2201/5945">1 h 15 min</a></td><td class="tdG"><a href="/izlet/ambroz_pod_krvavcem_kriska_planina/3/2201/5945">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_postaja_zicnice_na_krvavec_kriska_planina_skozi_lukenjski_graben/3/2201/5930">Spodnja postaja žičnice na Krvavec - Kriška planina (skozi Lukenjski graben)</a></td><td class="tdG"><a href="/izlet/spodnja_postaja_zicnice_na_krvavec_kriska_planina_skozi_lukenjski_graben/3/2201/5930">2 h 45 min</a></td><td class="tdG"><a href="/izlet/spodnja_postaja_zicnice_na_krvavec_kriska_planina_skozi_lukenjski_graben/3/2201/5930">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnja_postaja_zicnice_na_krvavec_kriska_planina_cez_davovec_in_po_grebenu_trdovnika/3/2201/5936">Spodnja postaja žičnice na Krvavec - Kriška planina (čez Davovec in po grebenu Trdovnika)</a></td><td class="tdG"><a href="/izlet/spodnja_postaja_zicnice_na_krvavec_kriska_planina_cez_davovec_in_po_grebenu_trdovnika/3/2201/5936">3 h</a></td><td class="tdG"><a href="/izlet/spodnja_postaja_zicnice_na_krvavec_kriska_planina_cez_davovec_in_po_grebenu_trdovnika/3/2201/5936">delno zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_kokra_kriska_planina_cez_davovec_in_po_grebenu_trdovnika/3/2201/5937">Spodnja Kokra - Kriška planina (čez Davovec in po grebenu Trdovnika)</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_kriska_planina_cez_davovec_in_po_grebenu_trdovnika/3/2201/5937">3 h 15 min</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_kriska_planina_cez_davovec_in_po_grebenu_trdovnika/3/2201/5937">delno zahtevna označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planina Tamar</title>
-        <meta name="description" content="Natančen opis planine Planina Tamar in vseh pristopov na Planina Tamar. Planina Tamar tudi Povšinova planina je večja planina, ki se nahaja na zahodnem ." />
+        <title>Sveti Mohor (Zabrekve)</title>
+        <meta name="description" content="Natančen opis gore Sveti Mohor (Zabrekve) in vseh pristopov na Sveti Mohor (Zabrekve). Cerkev svetega Mohorja, se nahaja na 952 m visokem hribu, le ta pa med Zgornjo B." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2000?gorovjeid=21&amp;id=2000" id="form1">
+    <form method="post" action="./1686?gorovjeid=21&amp;id=1686" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_tamar/21/2000"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=2000"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_mohor_zabrekve/21/1686"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1686"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Planina Tamar
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Sveti Mohor (Zabrekve)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2000);
+    gorast(1686);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planina Tamar</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Mohor (Zabrekve)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1124&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 952&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;18,780'N&nbsp;/&nbsp;14°&nbsp;4,7760'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;14,1480'N&nbsp;/&nbsp;14°&nbsp;14,4180'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;18'&nbsp;46,80''N&nbsp;/&nbsp;14°&nbsp;4'&nbsp;46,56''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;14'&nbsp;8,88''N&nbsp;/&nbsp;14°&nbsp;14'&nbsp;25,08''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.313°N&nbsp;/&nbsp;14.0796°E";
+                        document.getElementById("kf0").innerHTML = "46.2358°N&nbsp;/&nbsp;14.2403°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,313°N,&nbsp;14,0796°E";
+                    document.getElementById("kf0").innerHTML = "46,2358°N,&nbsp;14,2403°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,313°N&nbsp;14,0796°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_tamar/2000"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2358°N&nbsp;14,2403°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_mohor_zabrekve/1686"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> planina</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Mohor (Zabrekve) - Torek" href="/vreme_gora/sveti_mohor_zabrekve/21/1686#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Mohor (Zabrekve) - Sreda" href="/vreme_gora/sveti_mohor_zabrekve/21/1686#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Mohor (Zabrekve) - Četrtek" href="/vreme_gora/sveti_mohor_zabrekve/21/1686#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Tamar - Petek" href="/vreme_gora/planina_tamar/21/2000#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Mohor (Zabrekve) - Petek" href="/vreme_gora/sveti_mohor_zabrekve/21/1686#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Tamar - Sobota" href="/vreme_gora/planina_tamar/21/2000#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Tamar - Nedelja" href="/vreme_gora/planina_tamar/21/2000#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Tamar - Ponedeljek" href="/vreme_gora/planina_tamar/21/2000#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Tamar - Torek" href="/vreme_gora/planina_tamar/21/2000#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Mohor (Zabrekve) - Sobota" href="/vreme_gora/sveti_mohor_zabrekve/21/1686#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 401.811</div>
-<div class="g2"><b>Priljubljenost:</b> 81%&nbsp;(635.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 449.412</div>
+<div class="g2"><b>Priljubljenost:</b> 86%&nbsp;(468.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">16</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1686" title="Število vpisov v vpisni knjigi">7</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Tamar tudi Povšinova planina je večja planina, ki se nahaja na zahodnem robu Jelovice. S še žive planine, na kateri stoji nekaj pastirskih koč, se nam odpre lep razgled proti Triglavu in delu Julijskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev svetega Mohorja, se nahaja na 952 m visokem hribu, le ta pa med Zgornjo Besnico in Selcami. Od cerkve, oz. njene bližnje okolice, se nam odpre lep razgled na Škofjeloško in Cerkljansko hribovje, Ratitovec, Karavanke in Kamniško Savinjske Alpe. Nekaj metrov pod vrhom, točneje na zidu bližnje hiše, pa se nahaja vpisna skrinjica z vpisno knjigo.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2000&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1686&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/babji_zob/21/523">Babji zob (1128m)</a>, <a class="moder" href="/gora/danejeva_planina/21/524">Danejeva planina (1090m)</a>, <a class="moder" href="/gora/oblakova_planina/21/1999">Oblakova planina (1100m)</a>, <a class="moder" href="/gora/pocitniski_dom_goricane/21/1997">Počitniški dom Goričane (1145m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,35 +835,51 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_tamar%2f21%2f2000"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_tamar%2f21%2f2000"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_tamar%2f21%2f2000"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_mohor_zabrekve%2f21%2f1686"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_mohor_zabrekve%2f21%2f1686"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_mohor_zabrekve%2f21%2f1686"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/planina_tamar/2000" title="Planina Tamar 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninaTamar.jpg" /></a></div>
+<div><a href="/panorama/360/sveti_mohor_zabrekve/1686" title="Sveti Mohor (Zabrekve) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SvetiMohor.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planina_tamar/9738" onclick="event.preventDefault(); window.open('/slika_gora/planina_tamar/9738');"><img class="slikagm" alt="Planina Tamar" src="//slike.hribi.net/slike4/2_0278395566643_BabjiZob_320.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/7418" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/7418');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//www.hribi.net/slike1/SvetiMohor 11287318.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_tamar/9746" onclick="event.preventDefault(); window.open('/slika_gora/planina_tamar/9746');"><img class="slikagm" alt="Planina Tamar" src="//www.hribi.net/slike1/BabjiZob 316334800.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/7419" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/7419');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//www.hribi.net/slike1/SvetiMohor 11487318.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_tamar/9747" onclick="event.preventDefault(); window.open('/slika_gora/planina_tamar/9747');"><img class="slikagm" alt="Planina Tamar" src="//www.hribi.net/slike1/BabjiZob 313334800.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/7420" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/7420');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//www.hribi.net/slike1/SvetiMohor 11591476.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_tamar/9748" onclick="event.preventDefault(); window.open('/slika_gora/planina_tamar/9748');"><img class="slikagm" alt="Planina Tamar" src="//www.hribi.net/slike1/BabjiZob 276334800.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/7421" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/7421');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//www.hribi.net/slike1/SvetiMohor 11691476.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_tamar/9749" onclick="event.preventDefault(); window.open('/slika_gora/planina_tamar/9749');"><img class="slikagm" alt="Planina Tamar" src="//slike.hribi.net/slike4/2_1811395566645_BabjiZob_335.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/7422" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/7422');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//www.hribi.net/slike1/SvetiMohor 11891476.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_tamar/9750" onclick="event.preventDefault(); window.open('/slika_gora/planina_tamar/9750');"><img class="slikagm" alt="Planina Tamar" src="//www.hribi.net/slike1/BabjiZob 326474300.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/7423" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/7423');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//www.hribi.net/slike1/SvetiMohor 12091476.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_tamar/9751" onclick="event.preventDefault(); window.open('/slika_gora/planina_tamar/9751');"><img class="slikagm" alt="Planina Tamar" src="//www.hribi.net/slike1/BabjiZob 333474300.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/7426" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/7426');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//www.hribi.net/slike1/SvetiMohor%2017725872.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_tamar/9752" onclick="event.preventDefault(); window.open('/slika_gora/planina_tamar/9752');"><img class="slikagm" alt="Planina Tamar" src="//www.hribi.net/slike1/BabjiZob 339502200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/10553" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/10553');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//www.hribi.net/slike1/SvetiMohor 08570070.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/10555" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/10555');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//www.hribi.net/slike1/SvetiMohor 08270070.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/16736" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/16736');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//slike.hribi.net/slike4/2_0652578043880_DSCN9011.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/16737" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/16737');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//slike.hribi.net/slike4/2_1669578149185_DSCN9006.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/16738" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/16738');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//slike.hribi.net/slike4/2_0138578149182_DSCN9004.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/16739" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/16739');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//slike.hribi.net/slike4/2_2179578043820_DSCN9005.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/16740" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/16740');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//slike.hribi.net/slike4/2_0933578148995_DSCN8996.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/16741" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/16741');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//slike.hribi.net/slike4/2_4410578146665_DSCN8923.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_mohor_zabrekve/16742" onclick="event.preventDefault(); window.open('/slika_gora/sveti_mohor_zabrekve/16742');"><img class="slikagm" alt="Sveti Mohor (Zabrekve)" src="//slike.hribi.net/slike4/2_139578043922_DSCN9075.JPG" /></a>
     
 </div>
 
@@ -927,7 +943,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2000&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1686&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,9 +953,21 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_planina_tamar_skozi_gladko_dolino/21/2000/3903">Gozdarska koča Rovtarica - Planina Tamar (skozi Gladko dolino)</a></td><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_planina_tamar_skozi_gladko_dolino/21/2000/3903">2 h</a></td><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_planina_tamar_skozi_gladko_dolino/21/2000/3903">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/cepulje_sveti_mohor_zabrekve/21/1686/3045">Čepulje - Sveti Mohor (Zabrekve)</a></td><td class="tdG"><a href="/izlet/cepulje_sveti_mohor_zabrekve/21/1686/3045">1 h 30 min</a></td><td class="tdG"><a href="/izlet/cepulje_sveti_mohor_zabrekve/21/1686/3045">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_planina_tamar_cez_zontarico/21/2000/3907">Gozdarska koča Rovtarica - Planina Tamar (čez Žontarico)</a></td><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_planina_tamar_cez_zontarico/21/2000/3907">2 h 20 min</a></td><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_planina_tamar_cez_zontarico/21/2000/3907">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornja_besnica_podrovnik_sveti_mohor_zabrekve/21/1686/3039">Zgornja Besnica (Podrovnik) - Sveti Mohor (Zabrekve)</a></td><td class="tdG"><a href="/izlet/zgornja_besnica_podrovnik_sveti_mohor_zabrekve/21/1686/3039">1 h 45 min</a></td><td class="tdG"><a href="/izlet/zgornja_besnica_podrovnik_sveti_mohor_zabrekve/21/1686/3039">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/nemilje_sveti_mohor_zabrekve/21/1686/3038">Nemilje - Sveti Mohor (Zabrekve)</a></td><td class="tdG"><a href="/izlet/nemilje_sveti_mohor_zabrekve/21/1686/3038">1 h 20 min</a></td><td class="tdG"><a href="/izlet/nemilje_sveti_mohor_zabrekve/21/1686/3038">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/sveta_jedert_lajse_sveti_mohor_zabrekve/21/1686/4299">Sveta Jedert (Lajše) - Sveti Mohor (Zabrekve)</a></td><td class="tdG"><a href="/izlet/sveta_jedert_lajse_sveti_mohor_zabrekve/21/1686/4299">1 h 30 min</a></td><td class="tdG"><a href="/izlet/sveta_jedert_lajse_sveti_mohor_zabrekve/21/1686/4299">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/selca_sveti_mohor_zabrekve/21/1686/6747">Selca - Sveti Mohor (Zabrekve)</a></td><td class="tdG"><a href="/izlet/selca_sveti_mohor_zabrekve/21/1686/6747">1 h 40 min</a></td><td class="tdG"><a href="/izlet/selca_sveti_mohor_zabrekve/21/1686/6747">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podblica_sveti_mohor_zabrekve/21/1686/6612">Podblica - Sveti Mohor (Zabrekve)</a></td><td class="tdG"><a href="/izlet/podblica_sveti_mohor_zabrekve/21/1686/6612">1 h 40 min</a></td><td class="tdG"><a href="/izlet/podblica_sveti_mohor_zabrekve/21/1686/6612">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/knape_sveti_mohor_zabrekve_cez_hudi_laz_flandrova_pot/21/1686/6748">Knape - Sveti Mohor (Zabrekve) (čez Hudi Laz, Flandrova pot)</a></td><td class="tdG"><a href="/izlet/knape_sveti_mohor_zabrekve_cez_hudi_laz_flandrova_pot/21/1686/6748">1 h 40 min</a></td><td class="tdG"><a href="/izlet/knape_sveti_mohor_zabrekve_cez_hudi_laz_flandrova_pot/21/1686/6748">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/nemilje_sveti_mohor_zabrekve_cez_prevoje/21/1686/8037">Nemilje - Sveti Mohor (Zabrekve) (čez Prevoje)</a></td><td class="tdG"><a href="/izlet/nemilje_sveti_mohor_zabrekve_cez_prevoje/21/1686/8037">1 h 35 min</a></td><td class="tdG"><a href="/izlet/nemilje_sveti_mohor_zabrekve_cez_prevoje/21/1686/8037">lahka neoznačena steza</a></td></tr>
 
 </table>
 

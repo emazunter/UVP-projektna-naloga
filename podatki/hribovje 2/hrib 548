@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Svete Višarje / Monte Lussari</title>
-        <meta name="description" content="Natančen opis gore Svete Višarje / Monte Lussari in vseh pristopov na Svete Višarje / Monte Lussari. Svete Višarje so romarski kraj Slovanov, Germanov in Romanov. Že v 16. stoletju ." />
+        <title>Javorca</title>
+        <meta name="description" content="Natančen opis planine Javorca in vseh pristopov na Javorca. Javorca je razgledna vzpetina, ki se nahaja na zahodni strani reke Tolminke. Na ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./655?gorovjeid=1&amp;id=655" id="form1">
+    <form method="post" action="./411?gorovjeid=1&amp;id=411" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/svete_visarje___monte_lussari/1/655"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=655"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/javorca/1/411"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=411"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Svete Višarje / Monte Lussari
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Javorca
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(655);
+    gorast(411);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Svete Višarje / Monte Lussari</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Javorca</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1766&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 571&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;28,7988'N&nbsp;/&nbsp;13°&nbsp;31,380'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;14,0946'N&nbsp;/&nbsp;13°&nbsp;43,1856'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;28'&nbsp;47,93''N&nbsp;/&nbsp;13°&nbsp;31'&nbsp;22,80''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;14'&nbsp;5,68''N&nbsp;/&nbsp;13°&nbsp;43'&nbsp;11,14''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.47998°N&nbsp;/&nbsp;13.523°E";
+                        document.getElementById("kf0").innerHTML = "46.23491°N&nbsp;/&nbsp;13.71976°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,47998°N,&nbsp;13,523°E";
+                    document.getElementById("kf0").innerHTML = "46,23491°N,&nbsp;13,71976°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,47998°N&nbsp;13,523°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/svete_visarje___monte_lussari/655"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,23491°N&nbsp;13,71976°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/javorca/411"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> planina, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Javorca - Torek" href="/vreme_gora/javorca/1/411#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Javorca - Sreda" href="/vreme_gora/javorca/1/411#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Javorca - Četrtek" href="/vreme_gora/javorca/1/411#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Svete Višarje / Monte Lussari - Petek" href="/vreme_gora/svete_visarje___monte_lussari/1/655#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Javorca - Petek" href="/vreme_gora/javorca/1/411#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Svete Višarje / Monte Lussari - Sobota" href="/vreme_gora/svete_visarje___monte_lussari/1/655#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Svete Višarje / Monte Lussari - Nedelja" href="/vreme_gora/svete_visarje___monte_lussari/1/655#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Svete Višarje / Monte Lussari - Ponedeljek" href="/vreme_gora/svete_visarje___monte_lussari/1/655#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Svete Višarje / Monte Lussari - Torek" href="/vreme_gora/svete_visarje___monte_lussari/1/655#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Javorca - Sobota" href="/vreme_gora/javorca/1/411#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 690.345</div>
-<div class="g2"><b>Priljubljenost:</b> 98%&nbsp;(72.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 485.317</div>
+<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(360.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=655" title="Število vpisov v vpisni knjigi">4</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=411" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Svete Višarje so romarski kraj Slovanov, Germanov in Romanov. Že v 16. stoletju so goro imenovali božjo pot treh narodov, danes pa jim pravijo božja pot Evrope. Cerkev, ki je posvečena Višarski Kraljici je bila v letu 2000 prenovljena. Le nekaj let pozneje pa so na Svete Višarje postavili novo krožno kabinsko žičnico. S pomočjo žičnice lahko tako na Višarje pridejo tudi bolni in ostareli. Sicer pa je bila žičnica postavljena za potrebe zimskega smučarskega centra. V okolici Višarij je namreč veliko smučarskih prog, ki nudijo idilično smuko. Višarje pa niso le romarsko središče saj razgled in gostinski lokali privabijo na vrh tudi številne turiste. Planinci pa za svoj cilj radi izberejo pol drugo uro oddaljen vrh Kamnitega lovca, ki nudi lep razgled na najvišje vrhove zahodnih Julijskih Alp. Svete Maše so ob delavnikih ob 10, 11 in 12, ob nedeljah in praznikih pa še ob 15h.</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Javorca je razgledna vzpetina, ki se nahaja na zahodni strani reke Tolminke. Na vzpetini stoji spominska cerkev sv. Duha, ki je posvečena padlim avstro-ogrskim vojakom. Od cerkve, v kateri so na lesenih ploščah tudi imena padlih vojakov, se nam odpre lep razgled na vrhove, ki obdajajo dolino reke Tolminke.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=655&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=411&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/florjanka___monte_florianca/1/2797">Florjanka / Monte Florianca (1653m)</a>, <a class="moder" href="/gora/kamniti_lovec___cima_del_cacciatore/1/662">Kamniti lovec / Cima del Cacciatore (2071m)</a>, <a class="moder" href="/gora/visarska_planina___malga_di_lussari/1/822">Višarska planina / Malga di Lussari (1570m)</a>
+<a class="moder" href="/gora/planina_crca/1/1591">Planina Črča (800m)</a>, <a class="moder" href="/gora/planina_laska_sec/1/1592">Planina Laška seč (1000m)</a>, <a class="moder" href="/gora/planina_medrja/1/1593">Planina Medrja (1133m)</a>, <a class="moder" href="/gora/zicnica_cez_tolminko/1/413">Žičnica čez Tolminko (500m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,51 +835,45 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/kanin/3">Kanin</a>, <a class="moder" href="/spletna_kamera/kanin_graben/4412">Kanin (Graben)</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/montaz___jof_di_montasio/22">Montaž / Jôf di Montasio</a>, <a class="moder" href="/spletna_kamera/nevejski_preval_-_na_zlebeh___sella_nevea/1977">Nevejski preval - Na Žlebeh / Sella Nevea</a>, <a class="moder" href="/spletna_kamera/ovcja_vas___valbruna/1364">Ovčja vas / Valbruna</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/prevala/1361">Prevala</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/rifugio_gilberti/4020">Rifugio Gilberti</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/zabnice___camporosso_in_valcanale/1975">Žabnice / Camporosso in Valcanale</a>, <a class="moder" href="/spletna_kamera/zahomec___monte_acomizza___schonwipfel/1840">Zahomec / Monte Acomizza / Schönwipfel</a>
+<a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsvete_visarje___monte_lussari%2f1%2f655"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsvete_visarje___monte_lussari%2f1%2f655"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsvete_visarje___monte_lussari%2f1%2f655"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fjavorca%2f1%2f411"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjavorca%2f1%2f411"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjavorca%2f1%2f411"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/svete_visarje___monte_lussari/655" title="Svete Višarje / Monte Lussari 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Visarje.jpg" /></a></div>
+<div><a href="/panorama/360/javorca/411" title="Javorca 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Javorca.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/1989" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/1989');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P801006182656.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/javorca/546" onclick="event.preventDefault(); window.open('/slika_gora/javorca/546');"><img class="slikagm" alt="Javorca" src="//www.hribi.net/Gora/p7180124mediumpx0.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/1990" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/1990');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P801007182656.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/javorca/547" onclick="event.preventDefault(); window.open('/slika_gora/javorca/547');"><img class="slikagm" alt="Javorca" src="//www.hribi.net/Gora/p7180125mediumdt2.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/1991" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/1991');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P801010490720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/javorca/548" onclick="event.preventDefault(); window.open('/slika_gora/javorca/548');"><img class="slikagm" alt="Javorca" src="//www.hribi.net/Gora/p7180126mediumeh2.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/1992" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/1992');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P801005790720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/javorca/549" onclick="event.preventDefault(); window.open('/slika_gora/javorca/549');"><img class="slikagm" alt="Javorca" src="//www.hribi.net/Gora/p7180127mediumlw2.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/1993" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/1993');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P801005990720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/javorca/6573" onclick="event.preventDefault(); window.open('/slika_gora/javorca/6573');"><img class="slikagm" alt="Javorca" src="//www.hribi.net/slike1/P901059868040.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/1994" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/1994');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P801006390720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/javorca/6574" onclick="event.preventDefault(); window.open('/slika_gora/javorca/6574');"><img class="slikagm" alt="Javorca" src="//www.hribi.net/slike1/P901062168040.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/1995" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/1995');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P801006590720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/javorca/6575" onclick="event.preventDefault(); window.open('/slika_gora/javorca/6575');"><img class="slikagm" alt="Javorca" src="//www.hribi.net/slike1/P901062668040.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/1996" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/1996');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P801006690720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/javorca/6576" onclick="event.preventDefault(); window.open('/slika_gora/javorca/6576');"><img class="slikagm" alt="Javorca" src="//www.hribi.net/slike1/P901062971280.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/1997" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/1997');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P801007492736.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/javorca/6577" onclick="event.preventDefault(); window.open('/slika_gora/javorca/6577');"><img class="slikagm" alt="Javorca" src="//www.hribi.net/slike1/P901062871280.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/2722" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/2722');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P208002666816.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/2723" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/2723');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike1/P208006766816.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/svete_visarje___monte_lussari/15954" onclick="event.preventDefault(); window.open('/slika_gora/svete_visarje___monte_lussari/15954');"><img class="slikagm" alt="Svete Višarje / Monte Lussari" src="//www.hribi.net/slike11/DSCN2104710749700.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/javorca/6580" onclick="event.preventDefault(); window.open('/slika_gora/javorca/6580');"><img class="slikagm" alt="Javorca" src="//www.hribi.net/slike1/P901058497200.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/na_visarje/3/94"><img class="slikagmv" alt="Na Višarje" src="https://img.youtube.com/vi/T-z7JhxlB6o/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -937,7 +931,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=655&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=411&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -947,13 +941,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zabnice___camporosso_in_valcanale_svete_visarje___monte_lussari/1/655/1459">Žabnice / Camporosso in Valcanale - Svete Višarje / Monte Lussari</a></td><td class="tdG"><a href="/izlet/zabnice___camporosso_in_valcanale_svete_visarje___monte_lussari/1/655/1459">2 h 30 min</a></td><td class="tdG"><a href="/izlet/zabnice___camporosso_in_valcanale_svete_visarje___monte_lussari/1/655/1459">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zajzera_svete_visarje___monte_lussari_po_cesti/1/655/1171">Zajzera - Svete Višarje / Monte Lussari (po cesti)</a></td><td class="tdG"><a href="/izlet/zajzera_svete_visarje___monte_lussari_po_cesti/1/655/1171">3 h</a></td><td class="tdG"><a href="/izlet/zajzera_svete_visarje___monte_lussari_po_cesti/1/655/1171">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ovcja_vas_valbruna_svete_visarje___monte_lussari/1/655/1166">Ovčja vas/Valbruna - Svete Višarje / Monte Lussari</a></td><td class="tdG"><a href="/izlet/ovcja_vas_valbruna_svete_visarje___monte_lussari/1/655/1166">2 h 30 min</a></td><td class="tdG"><a href="/izlet/ovcja_vas_valbruna_svete_visarje___monte_lussari/1/655/1166">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/trbiz___tarviso_svete_visarje___monte_lussari_po_servisni_cesti/1/655/6473">Trbiž / Tarviso - Svete Višarje / Monte Lussari (po servisni cesti)</a></td><td class="tdG"><a href="/izlet/trbiz___tarviso_svete_visarje___monte_lussari_po_servisni_cesti/1/655/6473">3 h 25 min</a></td><td class="tdG"><a href="/izlet/trbiz___tarviso_svete_visarje___monte_lussari_po_servisni_cesti/1/655/6473">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_polog_javorca_po_cesti/1/411/579">Planina Polog - Javorca (po cesti)</a></td><td class="tdG"><a href="/izlet/planina_polog_javorca_po_cesti/1/411/579"> 20 min</a></td><td class="tdG"><a href="/izlet/planina_polog_javorca_po_cesti/1/411/579">lahka označena pot</a></td></tr>
 
 </table>
 

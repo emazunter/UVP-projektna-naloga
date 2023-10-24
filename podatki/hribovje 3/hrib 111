@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Srednji vrh</title>
-        <meta name="description" content="Natančen opis gore Srednji vrh in vseh pristopov na Srednji vrh. Srednji vrh je 1853 m visoka gora, ki se nahaja vzhodno od Storžiča. Z vrha, na ." />
+        <title>Domžalski dom na Mali planini</title>
+        <meta name="description" content="Natančen opis koče Domžalski dom na Mali planini in vseh pristopov na Domžalski dom na Mali planini. Domžalski dom na Mali planini se nahaja med Poljanskim robom (1569 m) in Bukovce." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./244?gorovjeid=3&amp;id=244" id="form1">
+    <form method="post" action="./170?gorovjeid=3&amp;id=170" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/srednji_vrh/3/244"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=244"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/domzalski_dom_na_mali_planini/3/170"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=170"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Srednji vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Domžalski dom na Mali planini
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(244);
+    gorast(170);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Srednji vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Domžalski dom na Mali planini</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1853&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1534&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,3634'N&nbsp;/&nbsp;14°&nbsp;26,3460'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,3496'N&nbsp;/&nbsp;14°&nbsp;39,3960'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;21,80''N&nbsp;/&nbsp;14°&nbsp;26'&nbsp;20,76''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;20,98''N&nbsp;/&nbsp;14°&nbsp;39'&nbsp;23,76''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.33939°N&nbsp;/&nbsp;14.4391°E";
+                        document.getElementById("kf0").innerHTML = "46.28916°N&nbsp;/&nbsp;14.6566°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,33939°N,&nbsp;14,4391°E";
+                    document.getElementById("kf0").innerHTML = "46,28916°N,&nbsp;14,6566°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,33939°N&nbsp;14,4391°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/srednji_vrh/244"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,28916°N&nbsp;14,6566°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/domzalski_dom_na_mali_planini/170"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča, planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Domžalski dom na Mali planini - Torek" href="/vreme_gora/domzalski_dom_na_mali_planini/3/170#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Domžalski dom na Mali planini - Sreda" href="/vreme_gora/domzalski_dom_na_mali_planini/3/170#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Domžalski dom na Mali planini - Četrtek" href="/vreme_gora/domzalski_dom_na_mali_planini/3/170#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji vrh - Petek" href="/vreme_gora/srednji_vrh/3/244#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Domžalski dom na Mali planini - Petek" href="/vreme_gora/domzalski_dom_na_mali_planini/3/170#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji vrh - Sobota" href="/vreme_gora/srednji_vrh/3/244#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji vrh - Nedelja" href="/vreme_gora/srednji_vrh/3/244#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji vrh - Ponedeljek" href="/vreme_gora/srednji_vrh/3/244#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji vrh - Torek" href="/vreme_gora/srednji_vrh/3/244#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Domžalski dom na Mali planini - Sobota" href="/vreme_gora/domzalski_dom_na_mali_planini/3/170#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 542.064</div>
-<div class="g2"><b>Priljubljenost:</b> 93%&nbsp;(231.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
+<div class="g2"><b>Ogledov:</b> 621.016</div>
+<div class="g2"><b>Priljubljenost:</b> 96%&nbsp;(124.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=244" title="Število vpisov v vpisni knjigi">14</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=170" title="Število vpisov v vpisni knjigi">6</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Srednji vrh je 1853 m visoka gora, ki se nahaja vzhodno od Storžiča. Z vrha, na katerem je klop, vpisna skrinjica in žig, se nam odpre lep pogled na Storžič, greben Košute, Kočno, Grintovec, Kalški greben in Gorenjsko.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Domžalski dom na Mali planini se nahaja med Poljanskim robom (1569 m) in Bukovcem (1552 m). Od doma, ki je odprt preko celega leta, se nam odpre lep razgled na že omenjena dva vrhova, ter na bližnje pašnike, kateri so v poletni sezoni polni živine.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=244&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=170&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/baseljski_vrh/3/274">Bašeljski vrh (1744m)</a>, <a class="moder" href="/gora/cjanovca/3/499">Cjanovca (1820m)</a>, <a class="moder" href="/gora/dom_na_kaliscu/3/134">Dom na Kališču (1534m)</a>, <a class="moder" href="/gora/licjanovec/3/2582">Licjanovec (1733m)</a>, <a class="moder" href="/gora/mali_grintovec/3/356">Mali Grintovec (1813m)</a>, <a class="moder" href="/gora/planina_dolga_njiva/3/245">Planina Dolga njiva (1600m)</a>, <a class="moder" href="/gora/planina_kalisce/3/467">Planina Kališče (1450m)</a>, <a class="moder" href="/gora/praprotnikova_koca/3/337">Praprotnikova koča (1380m)</a>, <a class="moder" href="/gora/zavetisce_v_hudicevem_borstu/3/1285">Zavetišče v Hudičevem borštu (1328m)</a>
+<a class="moder" href="/gora/crnuski_dom_na_mali_planini/3/470">Črnuški dom na Mali planini (1526m)</a>, <a class="moder" href="/gora/dom_na_kisovcu/3/189">Dom na Kisovcu (1275m)</a>, <a class="moder" href="/gora/gostisce_zeleni_rob/3/947">Gostišče Zeleni Rob (1612m)</a>, <a class="moder" href="/gora/gradisce_velika_planina/3/169">Gradišče (Velika planina) (1666m)</a>, <a class="moder" href="/gora/jarski_dom_na_mali_planini/3/237">Jarški dom na Mali planini (1520m)</a>, <a class="moder" href="/gora/kapela_marije_snezne_velika_planina/3/168">Kapela Marije Snežne (Velika planina) (1560m)</a>, <a class="moder" href="/gora/planina_marjanine_njive/3/2384">Planina Marjanine njive (1220m)</a>, <a class="moder" href="/gora/poljanski_rob/3/1488">Poljanski rob (1569m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,45 +835,53 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednji_vrh%2f3%2f244"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednji_vrh%2f3%2f244"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednji_vrh%2f3%2f244"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdomzalski_dom_na_mali_planini%2f3%2f170"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdomzalski_dom_na_mali_planini%2f3%2f170"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdomzalski_dom_na_mali_planini%2f3%2f170"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/srednji_vrh/244" title="Srednji vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.srednjiVrhKalisce.jpg" /></a></div>
+<div><a href="/panorama/360/domzalski_dom_na_mali_planini/170" title="Domžalski dom na Mali planini 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.domzalskiDom.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/srednji_vrh/304" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh/304');"><img class="slikagm" alt="Srednji vrh" src="//www.hribi.net/Gora/pb210045medium6bk.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/436" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/436');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/Gora/p7040135medium3fi.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh/1108" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh/1108');"><img class="slikagm" alt="Srednji vrh" src="//www.hribi.net/Gora/pa160119mediumkg2.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/437" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/437');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/Gora/p7040136medium8po.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh/1119" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh/1119');"><img class="slikagm" alt="Srednji vrh" src="//www.hribi.net/Gora/pa160178mediumbe9.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5334" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5334');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlanina 096199680.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh/1120" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh/1120');"><img class="slikagm" alt="Srednji vrh" src="//www.hribi.net/Gora/pa160201mediumac2.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5335" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5335');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlanina 091199680.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh/1267" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh/1267');"><img class="slikagm" alt="Srednji vrh" src="//www.hribi.net/Gora/pb260010mediumah4.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5791" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5791');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlaninaLovska 20858500.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh/1346" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh/1346');"><img class="slikagm" alt="Srednji vrh" src="//www.hribi.net/Gora/pc160023mediumxy0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5792" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5792');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlaninaLovska 20558500.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh/1347" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh/1347');"><img class="slikagm" alt="Srednji vrh" src="//www.hribi.net/Gora/pc160049mediumma2.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5793" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5793');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlaninaLovska 21495550.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh/1348" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh/1348');"><img class="slikagm" alt="Srednji vrh" src="//www.hribi.net/Pot/pc160086mediumdk2.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5794" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5794');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlaninaLovska 20295550.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh/5171" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh/5171');"><img class="slikagm" alt="Srednji vrh" src="//www.hribi.net/slike1/Cjanovca 188590733.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/8935" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/8935');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlanina 1191667952.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh/5172" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh/5172');"><img class="slikagm" alt="Srednji vrh" src="//slike.hribi.net/sliketemp/Cjanovca%201765271395.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/12743" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/12743');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/PoljanskiRob 2041474200.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/12744" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/12744');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/PoljanskiRob 2021474200.th.jpg" /></a>
     
 </div>
 
 
 
-
+<div style="padding-top:8px;"><b>Video:</b></div><div>
+        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_z_gojske_planine/8/507"><img class="slikagmv" alt="Polet z Gojške planine" src="https://img.youtube.com/vi/w_49277r2iI/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/projekt_8800/8/453"><img class="slikagmv" alt="Projekt 8800+" src="https://img.youtube.com/vi/DYVfjTA_Nkw/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/prva_pomladanska_termika_na_veliki_planini/8/419"><img class="slikagmv" alt="Prva pomladanska termika na Veliki planini" src="https://img.youtube.com/vi/aTT1ZsFsGfc/0.jpg" /></a>
+    </div>
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -931,7 +939,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=244&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=170&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -941,19 +949,19 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_srednji_vrh_cez_kozjek_in_dolgo_njivo/3/244/352">Mače - Srednji vrh (čez Kozjek in Dolgo njivo)</a></td><td class="tdG"><a href="/izlet/mace_srednji_vrh_cez_kozjek_in_dolgo_njivo/3/244/352">3 h 30 min</a></td><td class="tdG"><a href="/izlet/mace_srednji_vrh_cez_kozjek_in_dolgo_njivo/3/244/352">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_spodaj_po_cesti/3/170/345">Kranjski Rak - Domžalski dom na Mali planini (spodaj po cesti)</a></td><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_spodaj_po_cesti/3/170/345">1 h 45 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_spodaj_po_cesti/3/170/345">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mace_srednji_vrh_macenska_pot_in_cez_dolgo_njivo/3/244/2376"> Mače - Srednji vrh (Mačenska pot in čez Dolgo njivo)</a></td><td class="tdG"><a href="/izlet/mace_srednji_vrh_macenska_pot_in_cez_dolgo_njivo/3/244/2376">3 h 35 min</a></td><td class="tdG"><a href="/izlet/mace_srednji_vrh_macenska_pot_in_cez_dolgo_njivo/3/244/2376">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/hotel_simnovec_domzalski_dom_na_mali_planini_over_gradisce/3/170/243">Hotel Šimnovec - Domžalski dom na Mali planini (over Gradišče)</a></td><td class="tdG"><a href="/izlet/hotel_simnovec_domzalski_dom_na_mali_planini_over_gradisce/3/170/243">1 h 15 min</a></td><td class="tdG"><a href="/izlet/hotel_simnovec_domzalski_dom_na_mali_planini_over_gradisce/3/170/243">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_srednji_vrh_macenska_pot_in_cez_cjanovco/3/244/2334">Mače - Srednji vrh (Mačenska pot in čez Cjanovco)</a></td><td class="tdG"><a href="/izlet/mace_srednji_vrh_macenska_pot_in_cez_cjanovco/3/244/2334">3 h 50 min</a></td><td class="tdG"><a href="/izlet/mace_srednji_vrh_macenska_pot_in_cez_cjanovco/3/244/2334">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/stahovica_domzalski_dom_na_mali_planini/3/170/2512">Stahovica - Domžalski dom na Mali planini</a></td><td class="tdG"><a href="/izlet/stahovica_domzalski_dom_na_mali_planini/3/170/2512">3 h 10 min</a></td><td class="tdG"><a href="/izlet/stahovica_domzalski_dom_na_mali_planini/3/170/2512">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnja_kokra_srednji_vrh/3/244/846">Spodnja Kokra - Srednji vrh</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_srednji_vrh/3/244/846">4 h</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_srednji_vrh/3/244/846">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/za_usivcem_domzalski_dom_na_mali_planini/3/170/3493">Za Ušivcem - Domžalski dom na Mali planini</a></td><td class="tdG"><a href="/izlet/za_usivcem_domzalski_dom_na_mali_planini/3/170/3493">1 h 30 min</a></td><td class="tdG"><a href="/izlet/za_usivcem_domzalski_dom_na_mali_planini/3/170/3493">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/potoce_srednji_vrh_mimo_sv_jakoba_pod_potosko_goro_in_cez_babo/3/244/5357">Potoče - Srednji vrh (mimo sv. Jakoba, pod Potoško goro in čez Babo)</a></td><td class="tdG"><a href="/izlet/potoce_srednji_vrh_mimo_sv_jakoba_pod_potosko_goro_in_cez_babo/3/244/5357">4 h 45 min</a></td><td class="tdG"><a href="/izlet/potoce_srednji_vrh_mimo_sv_jakoba_pod_potosko_goro_in_cez_babo/3/244/5357">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjski_rak__domzalski_dom_na_mali_planini_pespot/3/170/4979">Kranjski Rak  - Domžalski dom na Mali planini (pešpot)</a></td><td class="tdG"><a href="/izlet/kranjski_rak__domzalski_dom_na_mali_planini_pespot/3/170/4979">1 h 40 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak__domzalski_dom_na_mali_planini_pespot/3/170/4979">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mace_srednji_vrh_cez_kozjek_in_cjanovco/3/244/5370">Mače - Srednji vrh (čez Kozjek in Cjanovco)</a></td><td class="tdG"><a href="/izlet/mace_srednji_vrh_cez_kozjek_in_cjanovco/3/244/5370">4 h</a></td><td class="tdG"><a href="/izlet/mace_srednji_vrh_cez_kozjek_in_cjanovco/3/244/5370">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kraljev_hrib_domzalski_dom_na_mali_planini_preko_skorence_kacjeka_in_gamsovih_strez/3/170/2516">Kraljev hrib - Domžalski dom na Mali planini (preko Škorence, Kačjeka in Gamsovih strež)</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_domzalski_dom_na_mali_planini_preko_skorence_kacjeka_in_gamsovih_strez/3/170/2516">4 h 10 min</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_domzalski_dom_na_mali_planini_preko_skorence_kacjeka_in_gamsovih_strez/3/170/2516">delno zahtevna neoznačena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_kokra_srednji_vrh_cez_babo/3/244/5362">Spodnja Kokra - Srednji vrh (čez Babo)</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_srednji_vrh_cez_babo/3/244/5362">4 h 10 min</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_srednji_vrh_cez_babo/3/244/5362">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_cez_seliski_rob/3/170/4973"> Kranjski Rak - Domžalski dom na Mali planini (čez Seliški rob)</a></td><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_cez_seliski_rob/3/170/4973">1 h 50 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_cez_seliski_rob/3/170/4973">lahka neoznačena steza, lahka označena pot</a></td></tr>
 
 </table>
 

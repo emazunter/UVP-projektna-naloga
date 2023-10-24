@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Ulovka</title>
-        <meta name="description" content="Natančen opis gore Ulovka in vseh pristopov na Ulovka. Ulovka je vrh med Zaplano in Zavetiščem na Planini nad Vrhniko. Z vrha, do kater." />
+        <title>Sveti Štefan (Zanigrad)</title>
+        <meta name="description" content="Natančen opis cerkve Sveti Štefan (Zanigrad) in vseh pristopov na Sveti Štefan (Zanigrad). Cerkev sv. Štefana se nahaja v deloma opuščeni vasici Zanigrad (vas brez stalnih." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./744?gorovjeid=26&amp;id=744" id="form1">
+    <form method="post" action="./1706?gorovjeid=26&amp;id=1706" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ulovka/26/744"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=744"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_stefan_zanigrad/26/1706"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1706"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Ulovka
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Sveti Štefan (Zanigrad)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(744);
+    gorast(1706);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Ulovka</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Štefan (Zanigrad)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 801&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 246&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;58,5426'N&nbsp;/&nbsp;14°&nbsp;14,3934'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;30,8880'N&nbsp;/&nbsp;13°&nbsp;54,4080'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;58'&nbsp;32,56''N&nbsp;/&nbsp;14°&nbsp;14'&nbsp;23,60''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;30'&nbsp;53,28''N&nbsp;/&nbsp;13°&nbsp;54'&nbsp;24,48''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.97571°N&nbsp;/&nbsp;14.23989°E";
+                        document.getElementById("kf0").innerHTML = "45.5148°N&nbsp;/&nbsp;13.9068°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,97571°N,&nbsp;14,23989°E";
+                    document.getElementById("kf0").innerHTML = "45,5148°N,&nbsp;13,9068°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,97571°N&nbsp;14,23989°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ulovka/744"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,5148°N&nbsp;13,9068°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_stefan_zanigrad/1706"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Štefan (Zanigrad) - Torek" href="/vreme_gora/sveti_stefan_zanigrad/26/1706#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Štefan (Zanigrad) - Sreda" href="/vreme_gora/sveti_stefan_zanigrad/26/1706#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Štefan (Zanigrad) - Četrtek" href="/vreme_gora/sveti_stefan_zanigrad/26/1706#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Ulovka - Petek" href="/vreme_gora/ulovka/26/744#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Štefan (Zanigrad) - Petek" href="/vreme_gora/sveti_stefan_zanigrad/26/1706#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Ulovka - Sobota" href="/vreme_gora/ulovka/26/744#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Ulovka - Nedelja" href="/vreme_gora/ulovka/26/744#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Ulovka - Ponedeljek" href="/vreme_gora/ulovka/26/744#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Ulovka - Torek" href="/vreme_gora/ulovka/26/744#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Štefan (Zanigrad) - Sobota" href="/vreme_gora/sveti_stefan_zanigrad/26/1706#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 420.733</div>
-<div class="g2"><b>Priljubljenost:</b> 83%&nbsp;(568.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=744" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 212.410</div>
+<div class="g2"><b>Priljubljenost:</b> 59%&nbsp;(1339.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Ulovka je vrh med Zaplano in Zavetiščem na Planini nad Vrhniko. Z vrha, do katerega so speljane vlečnice je lep razgled proti severu, kjer se lepo vidijo Kamniško Savinjske Alpe in okoliško hribovje, na ostale strani pa razgled ovira gozd.</div>
+<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev sv. Štefana se nahaja v deloma opuščeni vasici Zanigrad (vas brez stalnih prebivalcev) nad Hrastovljami. Od cerkve v kateri je vsako leto na god sv. Štefana blagoslov konj, se nam odpre lep razgled na Lačno, Hrastovlje in Kraški rob.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=744&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1706&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/koca_na_planini_nad_vrhniko/26/669">Koča na Planini nad Vrhniko (733m)</a>, <a class="moder" href="/gora/rajna_pec/26/2750">Rajna peč (656m)</a>
+<a class="moder" href="/gora/lacna/26/1705">Lačna (451m)</a>, <a class="moder" href="/gora/zjat/26/1707">Zjat (449m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,29 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/logatec/186">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec/326">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec_blekova_vas/1954">Logatec (Blekova vas)</a>, <a class="moder" href="/spletna_kamera/logatec_gorenja_vas/1868">Logatec (Gorenja vas)</a>, <a class="moder" href="/spletna_kamera/lom/327">Lom</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/tankovski_most/4915">Tankovski most</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
+<a class="moder" href="/spletna_kamera/bazovica___basovizza/1649">Bazovica / Basovizza</a>, <a class="moder" href="/spletna_kamera/bertoki/4921">Bertoki</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kokos/4324">Kokoš</a>, <a class="moder" href="/spletna_kamera/koper/3504">Koper</a>, <a class="moder" href="/spletna_kamera/koper_marina/4335">Koper (marina)</a>, <a class="moder" href="/spletna_kamera/koper_markovec/300">Koper (Markovec)</a>, <a class="moder" href="/spletna_kamera/koper_panoramski_pogled/4268">Koper (panoramski pogled)</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/luka_koper/4329">Luka Koper</a>, <a class="moder" href="/spletna_kamera/milje___muggia/1639">Milje / Muggia</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/spodnje_skofije/1080">Spodnje Škofije</a>, <a class="moder" href="/spletna_kamera/sveti_martin/3717">Sveti Martin</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fulovka%2f26%2f744"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fulovka%2f26%2f744"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fulovka%2f26%2f744"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_stefan_zanigrad%2f26%2f1706"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_stefan_zanigrad%2f26%2f1706"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_stefan_zanigrad%2f26%2f1706"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/ulovka/744" title="Ulovka 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Ulovka.jpg" /></a></div>
+<div><a href="/panorama/360/sveti_stefan_zanigrad/1706" title="Sveti Štefan (Zanigrad) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SvetiStefanZanigrad.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/ulovka/2503" onclick="event.preventDefault(); window.open('/slika_gora/ulovka/2503');"><img class="slikagm" alt="Ulovka" src="//www.hribi.net/slike1/PB110117282744.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_stefan_zanigrad/7548" onclick="event.preventDefault(); window.open('/slika_gora/sveti_stefan_zanigrad/7548');"><img class="slikagm" alt="Sveti Štefan (Zanigrad)" src="//www.hribi.net/slike1/Zjat 283150040.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ulovka/10902" onclick="event.preventDefault(); window.open('/slika_gora/ulovka/10902');"><img class="slikagm" alt="Ulovka" src="//www.hribi.net/slike1/Ulovka 065280800.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_stefan_zanigrad/7549" onclick="event.preventDefault(); window.open('/slika_gora/sveti_stefan_zanigrad/7549');"><img class="slikagm" alt="Sveti Štefan (Zanigrad)" src="//www.hribi.net/slike1/Zjat 285150040.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ulovka/10903" onclick="event.preventDefault(); window.open('/slika_gora/ulovka/10903');"><img class="slikagm" alt="Ulovka" src="//www.hribi.net/slike1/Ulovka 068280800.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_stefan_zanigrad/7550" onclick="event.preventDefault(); window.open('/slika_gora/sveti_stefan_zanigrad/7550');"><img class="slikagm" alt="Sveti Štefan (Zanigrad)" src="//www.hribi.net/slike1/Zjat 286150040.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ulovka/20029" onclick="event.preventDefault(); window.open('/slika_gora/ulovka/20029');"><img class="slikagm" alt="Ulovka" src="//slike.hribi.net/slike4/2_1325539789520_DSCN4994.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveti_stefan_zanigrad/7551" onclick="event.preventDefault(); window.open('/slika_gora/sveti_stefan_zanigrad/7551');"><img class="slikagm" alt="Sveti Štefan (Zanigrad)" src="//www.hribi.net/slike1/Zjat 290150040.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_stefan_zanigrad/7554" onclick="event.preventDefault(); window.open('/slika_gora/sveti_stefan_zanigrad/7554');"><img class="slikagm" alt="Sveti Štefan (Zanigrad)" src="//www.hribi.net/slike1/Zjat%20257116160.th.jpg" /></a>
     
 </div>
 
@@ -919,7 +921,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=744&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1706&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,11 +931,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kuren_ulovka/26/744/1343">Kuren - Ulovka</a></td><td class="tdG"><a href="/izlet/kuren_ulovka/26/744/1343"> 50 min</a></td><td class="tdG"><a href="/izlet/kuren_ulovka/26/744/1343">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/hrastovlje_sveti_stefan_zanigrad/26/1706/3080">Hrastovlje - Sveti Štefan (Zanigrad)</a></td><td class="tdG"><a href="/izlet/hrastovlje_sveti_stefan_zanigrad/26/1706/3080"> 40 min</a></td><td class="tdG"><a href="/izlet/hrastovlje_sveti_stefan_zanigrad/26/1706/3080">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zaplana_prezid_ulovka/26/744/4431">Zaplana (Prezid) - Ulovka</a></td><td class="tdG"><a href="/izlet/zaplana_prezid_ulovka/26/744/4431">1 h 45 min</a></td><td class="tdG"><a href="/izlet/zaplana_prezid_ulovka/26/744/4431">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zaplana_sv_urh_in_sv_martin_ulovka/26/744/4430">Zaplana (sv. Urh in sv. Martin) - Ulovka</a></td><td class="tdG"><a href="/izlet/zaplana_sv_urh_in_sv_martin_ulovka/26/744/4430"> 50 min</a></td><td class="tdG"><a href="/izlet/zaplana_sv_urh_in_sv_martin_ulovka/26/744/4430">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/slacka_baba_sveti_stefan_zanigrad/26/1706/3084">Slačka baba - Sveti Štefan (Zanigrad)</a></td><td class="tdG"><a href="/izlet/slacka_baba_sveti_stefan_zanigrad/26/1706/3084"> 50 min</a></td><td class="tdG"><a href="/izlet/slacka_baba_sveti_stefan_zanigrad/26/1706/3084">lahka neoznačena steza</a></td></tr>
 
 </table>
 

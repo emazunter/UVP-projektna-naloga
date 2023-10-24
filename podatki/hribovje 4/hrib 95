@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kresišče</title>
-        <meta name="description" content="Natančen opis gore Kresišče in vseh pristopov na Kresišče. Kresišče je 1839 m visok vrh, ki se nahaja v glavnem grebenu Karavank, točneje m." />
+        <title>Kosmatica / Kosmatitza</title>
+        <meta name="description" content="Natančen opis gore Kosmatica / Kosmatitza in vseh pristopov na Kosmatica / Kosmatitza. Kosmatica / Kosmatitza je 1659 metrov visok vrh, ki se v celoti nahaja na avstri." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./367?gorovjeid=11&amp;id=367" id="form1">
+    <form method="post" action="./3023?gorovjeid=11&amp;id=3023" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kresisce/11/367"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=367"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kosmatica___kosmatitza/11/3023"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=3023"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Kresišče
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Kosmatica / Kosmatitza
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(367);
+    gorast(3023);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kresišče</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kosmatica / Kosmatitza</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1839&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1659&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;31,1892'N&nbsp;/&nbsp;13°&nbsp;53,7102'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;27,5760'N&nbsp;/&nbsp;14°&nbsp;11,8860'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;31'&nbsp;11,35''N&nbsp;/&nbsp;13°&nbsp;53'&nbsp;42,61''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;27'&nbsp;34,56''N&nbsp;/&nbsp;14°&nbsp;11'&nbsp;53,16''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.51982°N&nbsp;/&nbsp;13.89517°E";
+                        document.getElementById("kf0").innerHTML = "46.4596°N&nbsp;/&nbsp;14.1981°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,51982°N,&nbsp;13,89517°E";
+                    document.getElementById("kf0").innerHTML = "46,4596°N,&nbsp;14,1981°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,51982°N&nbsp;13,89517°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kresisce/367"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4596°N&nbsp;14,1981°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kosmatica___kosmatitza/3023"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kosmatica / Kosmatitza - Torek" href="/vreme_gora/kosmatica___kosmatitza/11/3023#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kosmatica / Kosmatitza - Sreda" href="/vreme_gora/kosmatica___kosmatitza/11/3023#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kosmatica / Kosmatitza - Četrtek" href="/vreme_gora/kosmatica___kosmatitza/11/3023#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kresišče - Petek" href="/vreme_gora/kresisce/11/367#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kosmatica / Kosmatitza - Petek" href="/vreme_gora/kosmatica___kosmatitza/11/3023#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kresišče - Sobota" href="/vreme_gora/kresisce/11/367#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kresišče - Nedelja" href="/vreme_gora/kresisce/11/367#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kresišče - Ponedeljek" href="/vreme_gora/kresisce/11/367#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kresišče - Torek" href="/vreme_gora/kresisce/11/367#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kosmatica / Kosmatitza - Sobota" href="/vreme_gora/kosmatica___kosmatitza/11/3023#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 423.819</div>
-<div class="g2"><b>Priljubljenost:</b> 83%&nbsp;(560.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 3.116</div>
+<div class="g2"><b>Priljubljenost:</b> 31%&nbsp;(2260.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=367" title="Število vpisov v vpisni knjigi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kresišče je 1839 m visok vrh, ki se nahaja v glavnem grebenu Karavank, točneje med Kepo in Trupejevim poldnevom. Z vrha, na katerem stoji lesen križ, se nam odpre lep razgled proti Avstriji, zahodnim Karavankam in Julijskim Alpam, od slednjih najbolj izstopa Martuljkova skupina.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Kosmatica / Kosmatitza je 1659 metrov visok vrh, ki se v celoti nahaja na avstrijski strani Karavank in sicer severno od Vrtače. Z vrha, ki ga deloma prerašča gozd, se nam odpre lep pogled proti Žingarici / Singerberg in goram nad dolino Poden / Bodental.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=367&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3023&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/malosko_poldne___mallestiger_mittagskogel/11/1494">Maloško poldne / Mallestiger Mittagskogel (1823m)</a>, <a class="moder" href="/gora/mojstrovica/11/368">Mojstrovica (1816m)</a>, <a class="moder" href="/gora/murnovc/11/1911">Murnovc (1866m)</a>, <a class="moder" href="/gora/ostra_pec___mallestiger_mittagskogel/11/472">Ostra peč / Mallestiger Mittagskogel (1801m)</a>
+<a class="moder" href="/gora/celovska_koca___klagenfurter_hutte/11/582">Celovška koča / Klagenfurter Hutte (1664m)</a>, <a class="moder" href="/gora/ovcji_vrh_kozjak___geissberg_kosiak/11/581">Ovčji vrh (Kozjak) / Geissberg (Kosiak) (2024m)</a>, <a class="moder" href="/gora/pozgani_rob/11/1782">Požgani rob (1513m)</a>, <a class="moder" href="/gora/svacica/11/586">Svačica (1953m)</a>, <a class="moder" href="/gora/veliki_rob___grosser_rain/11/3160">Veliki Rob / Großer Rain (1464m)</a>, <a class="moder" href="/gora/vgrizeva_planina___ogrisalm/11/583">Vgrizeva planina / Ogrisalm (1569m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/basko_jezero___faakersee/253">Baško jezero / Faakersee</a>, <a class="moder" href="/spletna_kamera/beljak___villach/254">Beljak / Villach</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/wernberg_-_duel/4621">Wernberg - Duel</a>
+<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkresisce%2f11%2f367"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkresisce%2f11%2f367"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkresisce%2f11%2f367"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkosmatica___kosmatitza%2f11%2f3023"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkosmatica___kosmatitza%2f11%2f3023"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkosmatica___kosmatitza%2f11%2f3023"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kresisce/367" title="Kresišče 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Kresisce.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kresisce/1162" onclick="event.preventDefault(); window.open('/slika_gora/kresisce/1162');"><img class="slikagm" alt="Kresišče" src="//www.hribi.net/Gora/pa290129mediumyf1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kosmatica___kosmatitza/17771" onclick="event.preventDefault(); window.open('/slika_gora/kosmatica___kosmatitza/17771');"><img class="slikagm" alt="Kosmatica / Kosmatitza" src="//slike.hribi.net/slike4/2_0151600450424_DSCN0321.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kresisce/1163" onclick="event.preventDefault(); window.open('/slika_gora/kresisce/1163');"><img class="slikagm" alt="Kresišče" src="//www.hribi.net/Gora/pa290137mediumvb4.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kosmatica___kosmatitza/17777" onclick="event.preventDefault(); window.open('/slika_gora/kosmatica___kosmatitza/17777');"><img class="slikagm" alt="Kosmatica / Kosmatitza" src="//slike.hribi.net/slike4/2_1766600455567_DSCN0424.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kresisce/1170" onclick="event.preventDefault(); window.open('/slika_gora/kresisce/1170');"><img class="slikagm" alt="Kresišče" src="//www.hribi.net/Gora/pa290221mediumnv7.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kosmatica___kosmatitza/17778" onclick="event.preventDefault(); window.open('/slika_gora/kosmatica___kosmatitza/17778');"><img class="slikagm" alt="Kosmatica / Kosmatitza" src="//slike.hribi.net/slike4/2_3237600455573_DSCN0429.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kresisce/2321" onclick="event.preventDefault(); window.open('/slika_gora/kresisce/2321');"><img class="slikagm" alt="Kresišče" src="//www.hribi.net/slike1/P930015032480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kosmatica___kosmatitza/17779" onclick="event.preventDefault(); window.open('/slika_gora/kosmatica___kosmatitza/17779');"><img class="slikagm" alt="Kosmatica / Kosmatitza" src="//slike.hribi.net/slike4/2_0162599757059_DSCN0430.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/kosmatica___kosmatitza/17780" onclick="event.preventDefault(); window.open('/slika_gora/kosmatica___kosmatitza/17780');"><img class="slikagm" alt="Kosmatica / Kosmatitza" src="//slike.hribi.net/slike4/2_1900585834017_DSCN7248.JPG" /></a>
     
 </div>
 
@@ -919,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=367&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3023&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,13 +928,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/srednji_vrh_kresisce_cez_grajsco/11/367/1276">Srednji Vrh - Kresišče (čez Grajšco)</a></td><td class="tdG"><a href="/izlet/srednji_vrh_kresisce_cez_grajsco/11/367/1276">2 h 50 min</a></td><td class="tdG"><a href="/izlet/srednji_vrh_kresisce_cez_grajsco/11/367/1276">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podnar___bodenbauer_kosmatica___kosmatitza/11/3023/7301">Podnar / Bodenbauer - Kosmatica / Kosmatitza</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_kosmatica___kosmatitza/11/3023/7301">1 h 45 min</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_kosmatica___kosmatitza/11/3023/7301">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baumgartnerhof_kresisce_plezalna_pot/11/367/3326"> Baumgartnerhof - Kresišče (plezalna pot)</a></td><td class="tdG"><a href="/izlet/baumgartnerhof_kresisce_plezalna_pot/11/367/3326">3 h 15 min</a></td><td class="tdG"><a href="/izlet/baumgartnerhof_kresisce_plezalna_pot/11/367/3326">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zabnica___bodental_kosmatica___kosmatitza/11/3023/7142">Žabnica / Bodental - Kosmatica / Kosmatitza</a></td><td class="tdG"><a href="/izlet/zabnica___bodental_kosmatica___kosmatitza/11/3023/7142">2 h 40 min</a></td><td class="tdG"><a href="/izlet/zabnica___bodental_kosmatica___kosmatitza/11/3023/7142">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zapornica_belca_kresisce_po_cesti/11/367/513">Zapornica (Belca) - Kresišče (po cesti)</a></td><td class="tdG"><a href="/izlet/zapornica_belca_kresisce_po_cesti/11/367/513">3 h</a></td><td class="tdG"><a href="/izlet/zapornica_belca_kresisce_po_cesti/11/367/513">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baumgartnerhof_kresisce/11/367/3327">Baumgartnerhof - Kresišče</a></td><td class="tdG"><a href="/izlet/baumgartnerhof_kresisce/11/367/3327">3 h</a></td><td class="tdG"><a href="/izlet/baumgartnerhof_kresisce/11/367/3327">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_kosmatica___kosmatitza/11/3023/7140">Slovenji Plajberk / Windisch Bleiberg - Kosmatica / Kosmatitza</a></td><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_kosmatica___kosmatitza/11/3023/7140">3 h</a></td><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_kosmatica___kosmatitza/11/3023/7140">lahka neoznačena steza</a></td></tr>
 
 </table>
 

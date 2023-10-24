@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Trinški vrh</title>
-        <meta name="description" content="Natančen opis gore Trinški vrh in vseh pristopov na Trinški vrh. Trinški vrh (ponekod je zapisano tudi ime Trniški vrh) je 1138 m visoka gora, ki." />
+        <title>Rotovc</title>
+        <meta name="description" content="Natančen opis gore Rotovc in vseh pristopov na Rotovc. Rotovc je 964 m visok vrh, ki se nahaja severovzhodno od Rakitne. Z vrha, na kat." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1768?gorovjeid=26&amp;id=1768" id="form1">
+    <form method="post" action="./1673?gorovjeid=26&amp;id=1673" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/trinski_vrh/26/1768"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1768"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rotovc/26/1673"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1673"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Trinški vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Rotovc
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1768);
+    gorast(1673);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Trinški vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Rotovc</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1138&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 964&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;11,2320'N&nbsp;/&nbsp;13°&nbsp;39,0714'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;53,6460'N&nbsp;/&nbsp;14°&nbsp;27,3540'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;11'&nbsp;13,92''N&nbsp;/&nbsp;13°&nbsp;39'&nbsp;4,28''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;53'&nbsp;38,76''N&nbsp;/&nbsp;14°&nbsp;27'&nbsp;21,24''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.1872°N&nbsp;/&nbsp;13.65119°E";
+                        document.getElementById("kf0").innerHTML = "45.8941°N&nbsp;/&nbsp;14.4559°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,1872°N,&nbsp;13,65119°E";
+                    document.getElementById("kf0").innerHTML = "45,8941°N,&nbsp;14,4559°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1872°N&nbsp;13,65119°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/trinski_vrh/1768"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,8941°N&nbsp;14,4559°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rotovc/1673"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Rotovc - Torek" href="/vreme_gora/rotovc/26/1673#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Rotovc - Sreda" href="/vreme_gora/rotovc/26/1673#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Rotovc - Četrtek" href="/vreme_gora/rotovc/26/1673#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Trinški vrh - Petek" href="/vreme_gora/trinski_vrh/26/1768#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Rotovc - Petek" href="/vreme_gora/rotovc/26/1673#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Trinški vrh - Sobota" href="/vreme_gora/trinski_vrh/26/1768#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Trinški vrh - Nedelja" href="/vreme_gora/trinski_vrh/26/1768#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Trinški vrh - Ponedeljek" href="/vreme_gora/trinski_vrh/26/1768#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Trinški vrh - Torek" href="/vreme_gora/trinski_vrh/26/1768#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Rotovc - Sobota" href="/vreme_gora/rotovc/26/1673#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 179.279</div>
-<div class="g2"><b>Priljubljenost:</b> 55%&nbsp;(1467.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Ogledov:</b> 287.761</div>
+<div class="g2"><b>Priljubljenost:</b> 68%&nbsp;(1057.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Trinški vrh (ponekod je zapisano tudi ime Trniški vrh) je 1138 m visoka gora, ki se nahaja na neporaščenem delu Kolovrata, točneje med vrhovoma Na gradu in Nagnoj. Z vrha, na katerem stoji tabla, ki označuje vrh, se nam odpre lep razgled na Kolovrat, Matajur, Krnsko pogorje in Beneško Slovenijo.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Rotovc je 964 m visok vrh, ki se nahaja severovzhodno od Rakitne. Z vrha, na katerem stoji lesena klop, se nam odpre lep razgled proti že omenjeni Rakitni, Novaški gori in Krimščku.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1768&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1673&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_zanuso_na_kolovratu/26/1769">Bivak Zanuso na Kolovratu (1065m)</a>, <a class="moder" href="/gora/na_gradu/26/1767">Na gradu (1115m)</a>, <a class="moder" href="/gora/nagnoj/26/1770">Nagnoj (1193m)</a>
+<a class="moder" href="/gora/misnice/26/2622">Mišnice (961m)</a>, <a class="moder" href="/gora/zupanov_vrh/26/2342">Županov vrh (999m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,25 +835,30 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/ravna_pri_ligu/1589">Ravna pri Ligu</a>, <a class="moder" href="/spletna_kamera/robic/1781">Robič</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>
+<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/ivanje_selo/328">Ivanje selo</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/krim/489">Krim</a>, <a class="moder" href="/spletna_kamera/lavrica/3607">Lavrica</a>, <a class="moder" href="/spletna_kamera/ljubljana_izanska_cesta/1963">Ljubljana (Ižanska cesta)</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/pijava_gorica/454">Pijava Gorica</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/rakitna/1823">Rakitna</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/skofljica/3606">Škofljica</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/tankovski_most/4915">Tankovski most</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ftrinski_vrh%2f26%2f1768"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftrinski_vrh%2f26%2f1768"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftrinski_vrh%2f26%2f1768"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frotovc%2f26%2f1673"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frotovc%2f26%2f1673"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frotovc%2f26%2f1673"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/trinski_vrh/1768" title="Trinški vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.TrinskiVrh.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/trinski_vrh/7925" onclick="event.preventDefault(); window.open('/slika_gora/trinski_vrh/7925');"><img class="slikagm" alt="Trinški vrh" src="//www.hribi.net/slike1/Kolovrat 144665280.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rotovc/7311" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/7311');"><img class="slikagm" alt="Rotovc" src="//slike.hribi.net/sliketemp/KraljiKrim%202485845568.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/trinski_vrh/7926" onclick="event.preventDefault(); window.open('/slika_gora/trinski_vrh/7926');"><img class="slikagm" alt="Trinški vrh" src="//www.hribi.net/slike1/Kolovrat 145665280.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rotovc/7312" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/7312');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/KraljiKrim 2512096640.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/trinski_vrh/7927" onclick="event.preventDefault(); window.open('/slika_gora/trinski_vrh/7927');"><img class="slikagm" alt="Trinški vrh" src="//www.hribi.net/slike1/Kolovrat 147665280.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rotovc/7313" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/7313');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/KraljiKrim 2532096640.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rotovc/11333" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/11333');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/Rotovc 081802256.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rotovc/11334" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/11334');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/Rotovc 084802256.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rotovc/11335" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/11335');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/Rotovc 086802256.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/rotovc/12454" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/12454');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/ZupanovVrh 143266112.th.jpg" /></a>
     
 </div>
 
@@ -917,7 +922,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1768&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1673&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -927,9 +932,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/livske_ravne_trinski_vrh/26/1768/3220">Livške Ravne - Trinški vrh</a></td><td class="tdG"><a href="/izlet/livske_ravne_trinski_vrh/26/1768/3220">1 h</a></td><td class="tdG"><a href="/izlet/livske_ravne_trinski_vrh/26/1768/3220">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/rakitna_rotovc/26/1673/3003">Rakitna - Rotovc</a></td><td class="tdG"><a href="/izlet/rakitna_rotovc/26/1673/3003"> 30 min</a></td><td class="tdG"><a href="/izlet/rakitna_rotovc/26/1673/3003">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/solarji_trinski_vrh/26/1768/3213">Solarji - Trinški vrh</a></td><td class="tdG"><a href="/izlet/solarji_trinski_vrh/26/1768/3213"> 55 min</a></td><td class="tdG"><a href="/izlet/solarji_trinski_vrh/26/1768/3213">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/brancljeva_senozet_rotovc/26/1673/4840">Brancljeva senožet - Rotovc</a></td><td class="tdG"><a href="/izlet/brancljeva_senozet_rotovc/26/1673/4840"> 45 min</a></td><td class="tdG"><a href="/izlet/brancljeva_senozet_rotovc/26/1673/4840">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mesnice_rotovc/26/1673/4603">Mesnice - Rotovc</a></td><td class="tdG"><a href="/izlet/mesnice_rotovc/26/1673/4603"> 55 min</a></td><td class="tdG"><a href="/izlet/mesnice_rotovc/26/1673/4603">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/mesnice_rotovc_cez_zupanov_vrh/26/1673/5219">Mesnice - Rotovc (čez Županov vrh)</a></td><td class="tdG"><a href="/izlet/mesnice_rotovc_cez_zupanov_vrh/26/1673/5219">1 h 15 min</a></td><td class="tdG"><a href="/izlet/mesnice_rotovc_cez_zupanov_vrh/26/1673/5219">lahka neoznačena steza</a></td></tr>
 
 </table>
 

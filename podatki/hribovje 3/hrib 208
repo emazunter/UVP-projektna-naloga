@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kapela Marije Snežne (Velika planina)</title>
-        <meta name="description" content="Natančen opis gore Kapela Marije Snežne (Velika planina) in vseh pristopov na Kapela Marije Snežne (Velika planina). Kapela Marije Snežne na Veliki planini je bila postavljena leta 1938. Kapelo, ki." />
+        <title>Sveti Ahac (Kališe)</title>
+        <meta name="description" content="Natančen opis cerkve Sveti Ahac (Kališe) in vseh pristopov na Sveti Ahac (Kališe). Cerkev sv. Ahaca, se nahaja na razgledni vzpetini zahodno od vasi Kališe. Od cer." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./168?gorovjeid=3&amp;id=168" id="form1">
+    <form method="post" action="./1450?gorovjeid=3&amp;id=1450" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/chapel_of_marija_snezna_velika_planina/3/168"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=168"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_ahac_kalise/3/1450"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1450"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Kapela Marije Snežne (Velika planina)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Sveti Ahac (Kališe)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(168);
+    gorast(1450);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kapela Marije Snežne (Velika planina)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Ahac (Kališe)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1560&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 941&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,7090'N&nbsp;/&nbsp;14°&nbsp;39,2160'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,8760'N&nbsp;/&nbsp;14°&nbsp;40,9020'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;42,54''N&nbsp;/&nbsp;14°&nbsp;39'&nbsp;12,96''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;52,56''N&nbsp;/&nbsp;14°&nbsp;40'&nbsp;54,12''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.29515°N&nbsp;/&nbsp;14.6536°E";
+                        document.getElementById("kf0").innerHTML = "46.2646°N&nbsp;/&nbsp;14.6817°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,29515°N,&nbsp;14,6536°E";
+                    document.getElementById("kf0").innerHTML = "46,2646°N,&nbsp;14,6817°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,29515°N&nbsp;14,6536°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kapela_marije_snezne_velika_planina/168"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2646°N&nbsp;14,6817°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_ahac_kalise/1450"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, planina, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Ahac (Kališe) - Torek" href="/vreme_gora/sveti_ahac_kalise/3/1450#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Ahac (Kališe) - Sreda" href="/vreme_gora/sveti_ahac_kalise/3/1450#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Ahac (Kališe) - Četrtek" href="/vreme_gora/sveti_ahac_kalise/3/1450#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kapela Marije Snežne (Velika planina) - Petek" href="/vreme_gora/kapela_marije_snezne_velika_planina/3/168#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Ahac (Kališe) - Petek" href="/vreme_gora/sveti_ahac_kalise/3/1450#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kapela Marije Snežne (Velika planina) - Sobota" href="/vreme_gora/kapela_marije_snezne_velika_planina/3/168#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kapela Marije Snežne (Velika planina) - Nedelja" href="/vreme_gora/kapela_marije_snezne_velika_planina/3/168#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kapela Marije Snežne (Velika planina) - Ponedeljek" href="/vreme_gora/kapela_marije_snezne_velika_planina/3/168#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kapela Marije Snežne (Velika planina) - Torek" href="/vreme_gora/kapela_marije_snezne_velika_planina/3/168#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Ahac (Kališe) - Sobota" href="/vreme_gora/sveti_ahac_kalise/3/1450#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 533.549</div>
-<div class="g2"><b>Priljubljenost:</b> 92%&nbsp;(248.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
+<div class="g2"><b>Ogledov:</b> 211.098</div>
+<div class="g2"><b>Priljubljenost:</b> 59%&nbsp;(1344.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">0</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=168" title="Število vpisov v vpisni knjigi">5</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1450" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kapela Marije Snežne na Veliki planini je bila postavljena leta 1938. Kapelo, ki je bila pozneje požgana, so ponovno postavili leta 1988. <br>Od kapele, v kateri je vsako nedeljo v avgustu sveta maša, se nam odpre lep pogled po osrednjem delu Velike planine.</div>
+<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev sv. Ahaca, se nahaja na razgledni vzpetini zahodno od vasi Kališe. Od cerkve oz. njene bližnje okolice se nam odpre lep razgled na pobočja od bližnje Velike planine pa do Menine planine.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=168&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1450&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/crnuski_dom_na_mali_planini/3/470">Črnuški dom na Mali planini (1526m)</a>, <a class="moder" href="/gora/domzalski_dom_na_mali_planini/3/170">Domžalski dom na Mali planini (1534m)</a>, <a class="moder" href="/gora/gostisce_zeleni_rob/3/947">Gostišče Zeleni Rob (1612m)</a>, <a class="moder" href="/gora/gradisce_velika_planina/3/169">Gradišče (Velika planina) (1666m)</a>, <a class="moder" href="/gora/jarski_dom_na_mali_planini/3/237">Jarški dom na Mali planini (1520m)</a>, <a class="moder" href="/gora/koritni_vrh_velika_planina/3/372">Koritni vrh (Velika planina) (1648m)</a>, <a class="moder" href="/gora/planina_marjanine_njive/3/2384">Planina Marjanine njive (1220m)</a>, <a class="moder" href="/gora/poljanski_rob/3/1488">Poljanski rob (1569m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,45 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>
+<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/krtina/3453">Krtina</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkapela_marije_snezne_velika_planina%2f3%2f168"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkapela_marije_snezne_velika_planina%2f3%2f168"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkapela_marije_snezne_velika_planina%2f3%2f168"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_ahac_kalise%2f3%2f1450"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_ahac_kalise%2f3%2f1450"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_ahac_kalise%2f3%2f1450"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kapela_marije_snezne_velika_planina/168" title="Kapela Marije Snežne (Velika planina) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VPlaninaCerkev.jpg" /></a></div>
+<div><a href="/panorama/360/sveti_ahac_kalise/1450" title="Sveti Ahac (Kališe) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SvetiAhacKalise.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kapela_marije_snezne_velika_planina/438" onclick="event.preventDefault(); window.open('/slika_gora/kapela_marije_snezne_velika_planina/438');"><img class="slikagm" alt="Kapela Marije Snežne (Velika planina)" src="//www.hribi.net/Gora/p7040138medium3jy.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_ahac_kalise/5447" onclick="event.preventDefault(); window.open('/slika_gora/sveti_ahac_kalise/5447');"><img class="slikagm" alt="Sveti Ahac (Kališe)" src="//www.hribi.net/slike1/KranjskaReber 319324480.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kapela_marije_snezne_velika_planina/441" onclick="event.preventDefault(); window.open('/slika_gora/kapela_marije_snezne_velika_planina/441');"><img class="slikagm" alt="Kapela Marije Snežne (Velika planina)" src="//www.hribi.net/Gora/p7040169medium9sw.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_ahac_kalise/5448" onclick="event.preventDefault(); window.open('/slika_gora/sveti_ahac_kalise/5448');"><img class="slikagm" alt="Sveti Ahac (Kališe)" src="//www.hribi.net/slike1/KranjskaReber 324324480.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kapela_marije_snezne_velika_planina/442" onclick="event.preventDefault(); window.open('/slika_gora/kapela_marije_snezne_velika_planina/442');"><img class="slikagm" alt="Kapela Marije Snežne (Velika planina)" src="//www.hribi.net/Gora/p7040170medium4ol.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kapela_marije_snezne_velika_planina/443" onclick="event.preventDefault(); window.open('/slika_gora/kapela_marije_snezne_velika_planina/443');"><img class="slikagm" alt="Kapela Marije Snežne (Velika planina)" src="//www.hribi.net/Gora/p7040188medium1ib.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kapela_marije_snezne_velika_planina/4312" onclick="event.preventDefault(); window.open('/slika_gora/kapela_marije_snezne_velika_planina/4312');"><img class="slikagm" alt="Kapela Marije Snežne (Velika planina)" src="//www.hribi.net/slike1/P5210296347760.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kapela_marije_snezne_velika_planina/4313" onclick="event.preventDefault(); window.open('/slika_gora/kapela_marije_snezne_velika_planina/4313');"><img class="slikagm" alt="Kapela Marije Snežne (Velika planina)" src="//www.hribi.net/sliketemp/P52102974997680.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kapela_marije_snezne_velika_planina/5336" onclick="event.preventDefault(); window.open('/slika_gora/kapela_marije_snezne_velika_planina/5336');"><img class="slikagm" alt="Kapela Marije Snežne (Velika planina)" src="//www.hribi.net/slike1/VelikaPlanina 144109620.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kapela_marije_snezne_velika_planina/5795" onclick="event.preventDefault(); window.open('/slika_gora/kapela_marije_snezne_velika_planina/5795');"><img class="slikagm" alt="Kapela Marije Snežne (Velika planina)" src="//www.hribi.net/slike1/VelikaPlaninaLovska 31966300.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kapela_marije_snezne_velika_planina/8877" onclick="event.preventDefault(); window.open('/slika_gora/kapela_marije_snezne_velika_planina/8877');"><img class="slikagm" alt="Kapela Marije Snežne (Velika planina)" src="//www.hribi.net/slike1/VelikaPlanina 059216216.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_ahac_kalise/5449" onclick="event.preventDefault(); window.open('/slika_gora/sveti_ahac_kalise/5449');"><img class="slikagm" alt="Sveti Ahac (Kališe)" src="//www.hribi.net/slike1/KranjskaReber 330324480.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Letenje z gora/nad_meglicami/8/492"><img class="slikagmv" alt="Nad Meglicami" src="https://img.youtube.com/vi/bV6tjSGDeQQ/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -931,7 +917,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=168&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1450&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -940,22 +926,6 @@ var sortT = 0;
     </script>
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjski_rak_kapela_marije_snezne_velika_planina_spodaj_po_cesti/3/168/558">Kranjski Rak - Kapela Marije Snežne (Velika planina) (spodaj po cesti)</a></td><td class="tdG"><a href="/izlet/kranjski_rak_kapela_marije_snezne_velika_planina_spodaj_po_cesti/3/168/558">2 h</a></td><td class="tdG"><a href="/izlet/kranjski_rak_kapela_marije_snezne_velika_planina_spodaj_po_cesti/3/168/558">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/za_usivcem_kapela_marije_snezne_velika_planina/3/168/3488">Za Ušivcem - Kapela Marije Snežne (Velika planina)</a></td><td class="tdG"><a href="/izlet/za_usivcem_kapela_marije_snezne_velika_planina/3/168/3488"> 50 min</a></td><td class="tdG"><a href="/izlet/za_usivcem_kapela_marije_snezne_velika_planina/3/168/3488">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/hotel_simnovec_kapela_marije_snezne_velika_planina/3/168/238">Hotel Šimnovec - Kapela Marije Snežne (Velika planina)</a></td><td class="tdG"><a href="/izlet/hotel_simnovec_kapela_marije_snezne_velika_planina/3/168/238">1 h</a></td><td class="tdG"><a href="/izlet/hotel_simnovec_kapela_marije_snezne_velika_planina/3/168/238">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/stahovica_kapela_marije_snezne_velika_planina/3/168/2514">Stahovica - Kapela Marije Snežne (Velika planina)</a></td><td class="tdG"><a href="/izlet/stahovica_kapela_marije_snezne_velika_planina/3/168/2514">3 h 25 min</a></td><td class="tdG"><a href="/izlet/stahovica_kapela_marije_snezne_velika_planina/3/168/2514">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/za_usivcem_kapela_marije_snezne_velika_planina_cez_malo_planino/3/168/3495">Za Ušivcem - Kapela Marije Snežne (Velika planina) (čez Malo planino)</a></td><td class="tdG"><a href="/izlet/za_usivcem_kapela_marije_snezne_velika_planina_cez_malo_planino/3/168/3495">1 h 45 min</a></td><td class="tdG"><a href="/izlet/za_usivcem_kapela_marije_snezne_velika_planina_cez_malo_planino/3/168/3495">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kraljev_hrib_kapela_marije_snezne_velika_planina_preko_skorence_kacjeka_in_gamsovih_strez/3/168/2517">Kraljev hrib - Kapela Marije Snežne (Velika planina) (preko Škorence, Kačjeka in Gamsovih strež)</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_kapela_marije_snezne_velika_planina_preko_skorence_kacjeka_in_gamsovih_strez/3/168/2517">4 h 25 min</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_kapela_marije_snezne_velika_planina_preko_skorence_kacjeka_in_gamsovih_strez/3/168/2517">delno zahtevna neoznačena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjski_rak__kapela_marije_snezne_velika_planina_pespot/3/168/4978">Kranjski Rak  - Kapela Marije Snežne (Velika planina) (pešpot)</a></td><td class="tdG"><a href="/izlet/kranjski_rak__kapela_marije_snezne_velika_planina_pespot/3/168/4978">1 h 55 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak__kapela_marije_snezne_velika_planina_pespot/3/168/4978">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kranjski_rak_kapela_marije_snezne_velika_planina_cez_seliski_rob/3/168/4975">Kranjski Rak - Kapela Marije Snežne (Velika planina) (čez Seliški rob)</a></td><td class="tdG"><a href="/izlet/kranjski_rak_kapela_marije_snezne_velika_planina_cez_seliski_rob/3/168/4975">2 h 5 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak_kapela_marije_snezne_velika_planina_cez_seliski_rob/3/168/4975">lahka neoznačena steza, lahka označena pot</a></td></tr>
 
 </table>
 

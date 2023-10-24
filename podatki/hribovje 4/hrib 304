@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planina Spodnja Konjščica</title>
-        <meta name="description" content="Natančen opis planine Planina Spodnja Konjščica in vseh pristopov na Planina Spodnja Konjščica. Planina Spodnja Konjščica (tudi Konšca) se nahaja na severozahodnih pobočjih man." />
+        <title>Grobnica barona Borna</title>
+        <meta name="description" content="Natančen opis gore Grobnica barona Borna in vseh pristopov na Grobnica barona Borna. Grobnica barona Borna se nahaja nad Jeledolom, le nekaj minut stran od graščine ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./347?gorovjeid=11&amp;id=347" id="form1">
+    <form method="post" action="./3261?gorovjeid=11&amp;id=3261" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_spodnja_konjscica/11/347"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=347"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vault_of_baron_born/11/3261"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=3261"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Planina Spodnja Konjščica
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Grobnica barona Borna
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(347);
+    gorast(3261);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planina Spodnja Konjščica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Grobnica barona Borna</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1451&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 800&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,9830'N&nbsp;/&nbsp;14°&nbsp;21,9660'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;23,9700'N&nbsp;/&nbsp;14°&nbsp;20,8560'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;58,98''N&nbsp;/&nbsp;14°&nbsp;21'&nbsp;57,96''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;23'&nbsp;58,20''N&nbsp;/&nbsp;14°&nbsp;20'&nbsp;51,36''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.38305°N&nbsp;/&nbsp;14.3661°E";
+                        document.getElementById("kf0").innerHTML = "46.3995°N&nbsp;/&nbsp;14.3476°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,38305°N,&nbsp;14,3661°E";
+                    document.getElementById("kf0").innerHTML = "46,3995°N,&nbsp;14,3476°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,38305°N&nbsp;14,3661°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_spodnja_konjscica/347"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3995°N&nbsp;14,3476°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/grobnica_barona_borna/3261"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> planina</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Grobnica barona Borna - Torek" href="/vreme_gora/grobnica_barona_borna/11/3261#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Grobnica barona Borna - Sreda" href="/vreme_gora/grobnica_barona_borna/11/3261#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Grobnica barona Borna - Četrtek" href="/vreme_gora/grobnica_barona_borna/11/3261#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Spodnja Konjščica - Petek" href="/vreme_gora/planina_spodnja_konjscica/11/347#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grobnica barona Borna - Petek" href="/vreme_gora/grobnica_barona_borna/11/3261#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Spodnja Konjščica - Sobota" href="/vreme_gora/planina_spodnja_konjscica/11/347#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Spodnja Konjščica - Nedelja" href="/vreme_gora/planina_spodnja_konjscica/11/347#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Spodnja Konjščica - Ponedeljek" href="/vreme_gora/planina_spodnja_konjscica/11/347#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Spodnja Konjščica - Torek" href="/vreme_gora/planina_spodnja_konjscica/11/347#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grobnica barona Borna - Sobota" href="/vreme_gora/grobnica_barona_borna/11/3261#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 364.551</div>
-<div class="g2"><b>Priljubljenost:</b> 77%&nbsp;(760.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">30</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Ogledov:</b> 1.850</div>
+<div class="g2"><b>Priljubljenost:</b> 26%&nbsp;(2434.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=347" title="Število vpisov v vpisni knjigi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Spodnja Konjščica (tudi Konšca) se nahaja na severozahodnih pobočjih manjšega pogorja imenovanega Konjščica (pogorje med Storžičem in Košuto). S planine na kateri se nahajata dve pastirski koči, se nam odpre lep pogled le na zahodni del Košute, kjer izstopa Veliki vrh.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Grobnica barona Borna se nahaja nad Jeledolom, le nekaj minut stran od graščine Puterhof.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=347&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3261&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bela_pec/11/346">Bela peč (1583m)</a>, <a class="moder" href="/gora/javorce/11/3342">Javorče (1667m)</a>, <a class="moder" href="/gora/koca_pr_zdravc/11/251">Koča Pr Zdravc (1448m)</a>, <a class="moder" href="/gora/planina_zgornja_konjscica/11/1245">Planina Zgornja Konjščica (1578m)</a>, <a class="moder" href="/gora/spominska_plosca_jozeta_rozmana/11/508">Spominska plošča Jožeta Rozmana (1450m)</a>
+<a class="moder" href="/gora/kapelica_srca_jezusovega_jelendol/11/3255">Kapelica Srca Jezusovega (Jelendol) (807m)</a>, <a class="moder" href="/gora/mali_juhej/11/3256">Mali Juhej (820m)</a>, <a class="moder" href="/gora/planina_dolzanka/11/1620">Planina Dolžanka (1090m)</a>, <a class="moder" href="/gora/primozkovi_hribi/11/3254">Primožkovi hribi (1326m)</a>, <a class="moder" href="/gora/ris_dolina_dovzanova_soteska/11/2809">RIS Dolina (Dovžanova soteska) (720m)</a>, <a class="moder" href="/gora/robic/11/3174">Robič (1384m)</a>, <a class="moder" href="/gora/veliki_juhej/11/3259">Veliki Juhej (865m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,79 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_spodnja_konjscica%2f11%2f347"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_spodnja_konjscica%2f11%2f347"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_spodnja_konjscica%2f11%2f347"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgrobnica_barona_borna%2f11%2f3261"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrobnica_barona_borna%2f11%2f3261"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrobnica_barona_borna%2f11%2f3261"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/planina_spodnja_konjscica/347" title="Planina Spodnja Konjščica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlSpKonj.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/1656" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/1656');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//www.hribi.net/slike1/P4290026120960.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grobnica_barona_borna/19347" onclick="event.preventDefault(); window.open('/slika_gora/grobnica_barona_borna/19347');"><img class="slikagm" alt="Grobnica barona Borna" src="//slike.hribi.net/slike4/2_367644765622_DSCN0945.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/4270" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/4270');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//www.hribi.net/slike1/P505029759400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grobnica_barona_borna/19348" onclick="event.preventDefault(); window.open('/slika_gora/grobnica_barona_borna/19348');"><img class="slikagm" alt="Grobnica barona Borna" src="//slike.hribi.net/slike4/2_1136643879293_DSCN0948.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/4271" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/4271');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//www.hribi.net/slike1/P505028959400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grobnica_barona_borna/19349" onclick="event.preventDefault(); window.open('/slika_gora/grobnica_barona_borna/19349');"><img class="slikagm" alt="Grobnica barona Borna" src="//slike.hribi.net/slike4/2_0533643900593_DSCN0949.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/4272" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/4272');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//www.hribi.net/slike1/P505028659400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/7242" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/7242');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike.hribi.net/sliketemp/BelaPec%200255815404.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/7243" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/7243');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike.hribi.net/sliketemp/BelaPec%200495815404.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/7244" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/7244');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike.hribi.net/sliketemp/BelaPec%200525815405.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/7245" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/7245');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike.hribi.net/sliketemp/BelaPec%200545815406.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/13729" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/13729');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike.hribi.net/slike4/2_1468493738230_P6050222.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/13730" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/13730');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike.hribi.net/slike4/2_0437493738295_P6050223.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20705" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20705');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_047697034105_19_933.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20706" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20706');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_1204697034105_18_625.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20707" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20707');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_2131697034106_17_271.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20708" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20708');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_3733697034107_0_172.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20709" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20709');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_4967697034107_4_947.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20710" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20710');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_5622697034108_6_413.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20711" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20711');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_6334697034109_1_895.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20712" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20712');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_7817697034109_7_785.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20713" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20713');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_8832697034110_16_944.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20714" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20714');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_9153697034111_8_236.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20715" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20715');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_10557697034112_10_587.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20716" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20716');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_11237697034112_11_573.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20717" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20717');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_12550697034113_12_956.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20718" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20718');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_13530697034114_5_166.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20719" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20719');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_14492697034115_15_762.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20720" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20720');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_15617697034116_14_956.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20721" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20721');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_16523697034116_9_535.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20722" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20722');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_17342697034117_13_599.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20723" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20723');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_18468697034118_3_793.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_spodnja_konjscica/20724" onclick="event.preventDefault(); window.open('/slika_gora/planina_spodnja_konjscica/20724');"><img class="slikagm" alt="Planina Spodnja Konjščica" src="//slike2.hribi.net/slike14/2_1936697034118_2_744.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grobnica_barona_borna/19350" onclick="event.preventDefault(); window.open('/slika_gora/grobnica_barona_borna/19350');"><img class="slikagm" alt="Grobnica barona Borna" src="//slike.hribi.net/slike4/2_1562643900596_DSCN0950.JPG" /></a>
     
 </div>
 
@@ -971,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=347&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3261&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -981,15 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/grahovse_planina_spodnja_konjscica_mimo_pavslna/11/347/483">Grahovše - Planina Spodnja Konjščica (mimo Pavšlna)</a></td><td class="tdG"><a href="/izlet/grahovse_planina_spodnja_konjscica_mimo_pavslna/11/347/483">1 h 45 min</a></td><td class="tdG"><a href="/izlet/grahovse_planina_spodnja_konjscica_mimo_pavslna/11/347/483">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/grahovse_planina_spodnja_konjscica_mimo_uskovca/11/347/2978">Grahovše - Planina Spodnja Konjščica (mimo Uskovca)</a></td><td class="tdG"><a href="/izlet/grahovse_planina_spodnja_konjscica_mimo_uskovca/11/347/2978">1 h 45 min</a></td><td class="tdG"><a href="/izlet/grahovse_planina_spodnja_konjscica_mimo_uskovca/11/347/2978">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/na_kopis_planina_spodnja_konjscica_po_cesti/11/347/5462">Na kopiš - Planina Spodnja Konjščica (po cesti)</a></td><td class="tdG"><a href="/izlet/na_kopis_planina_spodnja_konjscica_po_cesti/11/347/5462">2 h</a></td><td class="tdG"><a href="/izlet/na_kopis_planina_spodnja_konjscica_po_cesti/11/347/5462">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/na_kopis_planina_spodnja_konjscica_mimo_tica/11/347/8410">Na kopiš - Planina Spodnja Konjščica (mimo Tiča)</a></td><td class="tdG"><a href="/izlet/na_kopis_planina_spodnja_konjscica_mimo_tica/11/347/8410">1 h 15 min</a></td><td class="tdG"><a href="/izlet/na_kopis_planina_spodnja_konjscica_mimo_tica/11/347/8410">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trzic_planina_spodnja_konjscica_cez_potarje/11/347/8411">Tržič - Planina Spodnja Konjščica (čez Potarje)</a></td><td class="tdG"><a href="/izlet/trzic_planina_spodnja_konjscica_cez_potarje/11/347/8411">3 h 10 min</a></td><td class="tdG"><a href="/izlet/trzic_planina_spodnja_konjscica_cez_potarje/11/347/8411">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/jelendol_grascina_puterhof_grobnica_barona_borna/11/3261/7772">Jelendol (graščina Puterhof) - Grobnica barona Borna</a></td><td class="tdG"><a href="/izlet/jelendol_grascina_puterhof_grobnica_barona_borna/11/3261/7772"> 7 min</a></td><td class="tdG"><a href="/izlet/jelendol_grascina_puterhof_grobnica_barona_borna/11/3261/7772">lahka neoznačena steza</a></td></tr>
 
 </table>
 

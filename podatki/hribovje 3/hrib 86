@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Veliki Zvoh</title>
-        <meta name="description" content="Natančen opis gore Veliki Zvoh in vseh pristopov na Veliki Zvoh. Veliki Zvoh je najvišja točka smučišča Krvavec. Žičnica sicer ne pride povsem na." />
+        <title>Veliki Travnik</title>
+        <meta name="description" content="Natančen opis gore Veliki Travnik in vseh pristopov na Veliki Travnik. Veliki Travnik ali Turnovka kot ga imenujejo domačini, se nahaja na zahodnem rob." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./73?gorovjeid=3&amp;id=73" id="form1">
+    <form method="post" action="./488?gorovjeid=3&amp;id=488" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_zvoh/3/73"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=73"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_travnik/3/488"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=488"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Veliki Zvoh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Veliki Travnik
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(73);
+    gorast(488);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Veliki Zvoh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Veliki Travnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1971&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1637&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;18,5220'N&nbsp;/&nbsp;14°&nbsp;32,4990'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,3866'N&nbsp;/&nbsp;14°&nbsp;48,8214'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;18'&nbsp;31,32''N&nbsp;/&nbsp;14°&nbsp;32'&nbsp;29,94''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;23,20''N&nbsp;/&nbsp;14°&nbsp;48'&nbsp;49,28''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.3087°N&nbsp;/&nbsp;14.54165°E";
+                        document.getElementById("kf0").innerHTML = "46.42311°N&nbsp;/&nbsp;14.81369°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,3087°N,&nbsp;14,54165°E";
+                    document.getElementById("kf0").innerHTML = "46,42311°N,&nbsp;14,81369°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3087°N&nbsp;14,54165°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_zvoh/73"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,42311°N&nbsp;14,81369°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_travnik/488"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, jezero</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Travnik - Torek" href="/vreme_gora/veliki_travnik/3/488#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Travnik - Sreda" href="/vreme_gora/veliki_travnik/3/488#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Travnik - Četrtek" href="/vreme_gora/veliki_travnik/3/488#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Zvoh - Petek" href="/vreme_gora/veliki_zvoh/3/73#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Travnik - Petek" href="/vreme_gora/veliki_travnik/3/488#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Zvoh - Sobota" href="/vreme_gora/veliki_zvoh/3/73#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Zvoh - Nedelja" href="/vreme_gora/veliki_zvoh/3/73#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Zvoh - Ponedeljek" href="/vreme_gora/veliki_zvoh/3/73#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Zvoh - Torek" href="/vreme_gora/veliki_zvoh/3/73#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Travnik - Sobota" href="/vreme_gora/veliki_travnik/3/488#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 588.267</div>
-<div class="g2"><b>Priljubljenost:</b> 95%&nbsp;(152.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=73" title="Število vpisov v vpisni knjigi">11</a></div>
+<div class="g2"><b>Ogledov:</b> 423.421</div>
+<div class="g2"><b>Priljubljenost:</b> 83%&nbsp;(561.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=488" title="Število vpisov v vpisni knjigi">5</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki Zvoh je najvišja točka smučišča Krvavec. Žičnica sicer ne pride povsem na vrh a do vrha ji manjka le nekaj metrov. Nekaj metrov pod vrhom so naredili jezero, ki je namenjeno umetnemu zasneževanju smučišča. Vrh, ki ima vpisno skrinjico ima lep pogled proti Kalškemu grebenu in okoliškim vrhom. Tudi Storžič in del Julijskih Alp se lepo vidi.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki Travnik ali Turnovka kot ga imenujejo domačini, se nahaja na zahodnem robu Smrekovškega pogorja. Z vrha na katerem stoji lesen razgledni stolp, se nam odpre lep pogled na Raduho, Peco, Uršljo goro, Komen, hribovje nad osrednjim delom reke Savinje ter delu Kamniško Savinjskih Alp, kjer izstopa Ojstrica. Vrh ima vpisno skrinjico z vpisno knjigo, žig pa se nahaja v koči na Travniku.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=73&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=488&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dom_na_krvavcu/3/179">Dom na Krvavcu (1684m)</a>, <a class="moder" href="/gora/hotel_krvavec/3/2512">Hotel Krvavec (1600m)</a>, <a class="moder" href="/gora/kompotela/3/319">Kompotela (1989m)</a>, <a class="moder" href="/gora/kosutna/3/447">Košutna (1974m)</a>, <a class="moder" href="/gora/kriska_planina/3/2201">Kriška planina (1480m)</a>, <a class="moder" href="/gora/krvavec/3/1068">Krvavec (1853m)</a>, <a class="moder" href="/gora/planina_dolga_njiva_krvavec/3/446">Planina Dolga njiva (Krvavec) (1688m)</a>, <a class="moder" href="/gora/planina_koren/3/317">Planina Koren (1675m)</a>, <a class="moder" href="/gora/planina_kosutna/3/338">Planina Košutna (1778m)</a>, <a class="moder" href="/gora/vrh_korena/3/316">Vrh Korena (1999m)</a>
+<a class="moder" href="/gora/koca_na_travniku/3/489">Koča na Travniku (1548m)</a>, <a class="moder" href="/gora/mali_travnik/3/1235">Mali Travnik (1532m)</a>, <a class="moder" href="/gora/partizanska_bolnica_mrzle_vode/3/1234">Partizanska bolnica Mrzle vode (1226m)</a>, <a class="moder" href="/gora/planina_mali_travnik/3/1236">Planina Mali Travnik (1500m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,41 +835,49 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_zvoh%2f3%2f73"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_zvoh%2f3%2f73"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_zvoh%2f3%2f73"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_travnik%2f3%2f488"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_travnik%2f3%2f488"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_travnik%2f3%2f488"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/veliki_zvoh/73" title="Veliki Zvoh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.velikiZvoh.jpg" /></a></div>
+<div><a href="/panorama/360/veliki_travnik/488" title="Veliki Travnik 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VTravnik.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/veliki_zvoh/804" onclick="event.preventDefault(); window.open('/slika_gora/veliki_zvoh/804');"><img class="slikagm" alt="Veliki Zvoh" src="//www.hribi.net/Gora/p8260030mediumkp9.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_travnik/1287" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/1287');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/Gora/pc030141mediumyt5.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_zvoh/3489" onclick="event.preventDefault(); window.open('/slika_gora/veliki_zvoh/3489');"><img class="slikagm" alt="Veliki Zvoh" src="//www.hribi.net/slike1/P8120146313664.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_travnik/1292" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/1292');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/Gora/pc030204mediumxv5.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_zvoh/3490" onclick="event.preventDefault(); window.open('/slika_gora/veliki_zvoh/3490');"><img class="slikagm" alt="Veliki Zvoh" src="//www.hribi.net/slike1/P8120140313664.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_travnik/1293" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/1293');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/Gora/pc030201mediumub8.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_zvoh/11277" onclick="event.preventDefault(); window.open('/slika_gora/veliki_zvoh/11277');"><img class="slikagm" alt="Veliki Zvoh" src="//www.hribi.net/slike1/Zvoh 1461469650.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_travnik/1294" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/1294');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/Gora/pc030200mediumee0.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_zvoh/11278" onclick="event.preventDefault(); window.open('/slika_gora/veliki_zvoh/11278');"><img class="slikagm" alt="Veliki Zvoh" src="//www.hribi.net/slike1/Zvoh 1571469650.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_travnik/4180" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/4180');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/slike1/P4220289695520.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_zvoh/11302" onclick="event.preventDefault(); window.open('/slika_gora/veliki_zvoh/11302');"><img class="slikagm" alt="Veliki Zvoh" src="//www.hribi.net/slike1/Zvoh 0461093092.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_travnik/4181" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/4181');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/sliketemp/P42203064954668.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_zvoh/11303" onclick="event.preventDefault(); window.open('/slika_gora/veliki_zvoh/11303');"><img class="slikagm" alt="Veliki Zvoh" src="//www.hribi.net/slike1/Zvoh 1631569568.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_travnik/4182" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/4182');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/slike1/P4220284707940.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_travnik/4183" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/4183');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/sliketemp/P42201724954663.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_travnik/8296" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/8296');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/slike1/Komen 103965888.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_travnik/8298" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/8298');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/slike1/Komen 1091297912.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_travnik/8299" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/8299');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/slike1/Komen 1061297912.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_travnik/8300" onclick="event.preventDefault(); window.open('/slika_gora/veliki_travnik/8300');"><img class="slikagm" alt="Veliki Travnik" src="//www.hribi.net/slike1/Komen 1051297912.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_z_zvoha/8/549"><img class="slikagmv" alt="Polet z Zvoha" src="https://img.youtube.com/vi/ncy9Bj9s2j4/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -927,7 +935,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=73&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=488&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,15 +945,17 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kriska_planina_veliki_zvoh/3/73/234">Kriška planina - Veliki Zvoh</a></td><td class="tdG"><a href="/izlet/kriska_planina_veliki_zvoh/3/73/234">1 h 25 min</a></td><td class="tdG"><a href="/izlet/kriska_planina_veliki_zvoh/3/73/234">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/hlipovec_veliki_travnik/3/488/824"> Hlipovec - Veliki Travnik</a></td><td class="tdG"><a href="/izlet/hlipovec_veliki_travnik/3/488/824"> 45 min</a></td><td class="tdG"><a href="/izlet/hlipovec_veliki_travnik/3/488/824">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_jezerca_veliki_zvoh_mimo_doma_na_krvavcu/3/73/4567">Planina Jezerca - Veliki Zvoh (mimo Doma na Krvavcu)</a></td><td class="tdG"><a href="/izlet/planina_jezerca_veliki_zvoh_mimo_doma_na_krvavcu/3/73/4567">1 h 40 min</a></td><td class="tdG"><a href="/izlet/planina_jezerca_veliki_zvoh_mimo_doma_na_krvavcu/3/73/4567">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dolina_potoka_zep_veliki_travnik/3/488/2069">Dolina potoka Žep - Veliki Travnik</a></td><td class="tdG"><a href="/izlet/dolina_potoka_zep_veliki_travnik/3/488/2069">2 h 45 min</a></td><td class="tdG"><a href="/izlet/dolina_potoka_zep_veliki_travnik/3/488/2069">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_na_gospincu_veliki_zvoh/3/73/231">Dom na Gospincu - Veliki Zvoh</a></td><td class="tdG"><a href="/izlet/dom_na_gospincu_veliki_zvoh/3/73/231">1 h 25 min</a></td><td class="tdG"><a href="/izlet/dom_na_gospincu_veliki_zvoh/3/73/231">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubno_ob_savinji_veliki_travnik/3/488/3392">Ljubno ob Savinji - Veliki Travnik</a></td><td class="tdG"><a href="/izlet/ljubno_ob_savinji_veliki_travnik/3/488/3392">4 h</a></td><td class="tdG"><a href="/izlet/ljubno_ob_savinji_veliki_travnik/3/488/3392">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_jezerca_veliki_zvoh_po_nemarkirani_poti_cez_razor/3/73/4573">Planina Jezerca - Veliki Zvoh (po nemarkirani poti čez Razor)</a></td><td class="tdG"><a href="/izlet/planina_jezerca_veliki_zvoh_po_nemarkirani_poti_cez_razor/3/73/4573">2 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_jezerca_veliki_zvoh_po_nemarkirani_poti_cez_razor/3/73/4573">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_vodol_veliki_travnik/3/488/3384">Planina Vodol - Veliki Travnik</a></td><td class="tdG"><a href="/izlet/planina_vodol_veliki_travnik/3/488/3384">2 h</a></td><td class="tdG"><a href="/izlet/planina_vodol_veliki_travnik/3/488/3384">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/markova_raven_veliki_zvoh_po_nemarkirani_poti_cez_razor/3/73/4591">Markova raven - Veliki Zvoh (po nemarkirani poti čez Razor)</a></td><td class="tdG"><a href="/izlet/markova_raven_veliki_zvoh_po_nemarkirani_poti_cez_razor/3/73/4591">3 h</a></td><td class="tdG"><a href="/izlet/markova_raven_veliki_zvoh_po_nemarkirani_poti_cez_razor/3/73/4591">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dolina_potoka_zep_veliki_travnik_mimo_partizanske_bolnice/3/488/826">Dolina potoka Žep - Veliki Travnik (mimo partizanske bolnice)</a></td><td class="tdG"><a href="/izlet/dolina_potoka_zep_veliki_travnik_mimo_partizanske_bolnice/3/488/826">2 h 25 min</a></td><td class="tdG"><a href="/izlet/dolina_potoka_zep_veliki_travnik_mimo_partizanske_bolnice/3/488/826">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/bistra_veliki_travnik/3/488/3388"> Bistra - Veliki Travnik</a></td><td class="tdG"><a href="/izlet/bistra_veliki_travnik/3/488/3388">3 h 45 min</a></td><td class="tdG"><a href="/izlet/bistra_veliki_travnik/3/488/3388">lahka označena pot</a></td></tr>
 
 </table>
 

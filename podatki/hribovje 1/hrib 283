@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Zavetišče na Koradi</title>
-        <meta name="description" content="Natančen opis koče Zavetišče na Koradi in vseh pristopov na Zavetišče na Koradi. Zavetišče na Koradi se nahaja le nekaj metrov pod istoimenskim vrhom. Od zavetiš." />
+        <title>Marezige</title>
+        <meta name="description" content="Natančen opis gore Marezige in vseh pristopov na Marezige. Marezige se nahajajo na razglednem hribu nad Vanganelsko dolino. Z razgledišča n." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./869?gorovjeid=26&amp;id=869" id="form1">
+    <form method="post" action="./2912?gorovjeid=26&amp;id=2912" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/zavetisce_na_koradi/26/869"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=869"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/marezige/26/2912"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2912"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Zavetišče na Koradi
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Marezige
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(869);
+    gorast(2912);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Zavetišče na Koradi</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Marezige</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 803&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 284&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;3,9390'N&nbsp;/&nbsp;13°&nbsp;33,5004'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;30,4440'N&nbsp;/&nbsp;13°&nbsp;47,9220'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;3'&nbsp;56,34''N&nbsp;/&nbsp;13°&nbsp;33'&nbsp;30,02''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;30'&nbsp;26,64''N&nbsp;/&nbsp;13°&nbsp;47'&nbsp;55,32''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.06565°N&nbsp;/&nbsp;13.55834°E";
+                        document.getElementById("kf0").innerHTML = "45.5074°N&nbsp;/&nbsp;13.7987°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,06565°N,&nbsp;13,55834°E";
+                    document.getElementById("kf0").innerHTML = "45,5074°N,&nbsp;13,7987°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,06565°N&nbsp;13,55834°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zavetisce_na_koradi/869"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,5074°N&nbsp;13,7987°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/marezige/2912"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> vrh, koča, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Marezige - Torek" href="/vreme_gora/marezige/26/2912#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Marezige - Sreda" href="/vreme_gora/marezige/26/2912#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Marezige - Četrtek" href="/vreme_gora/marezige/26/2912#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Zavetišče na Koradi - Petek" href="/vreme_gora/zavetisce_na_koradi/26/869#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Marezige - Petek" href="/vreme_gora/marezige/26/2912#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Zavetišče na Koradi - Sobota" href="/vreme_gora/zavetisce_na_koradi/26/869#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Zavetišče na Koradi - Nedelja" href="/vreme_gora/zavetisce_na_koradi/26/869#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Zavetišče na Koradi - Ponedeljek" href="/vreme_gora/zavetisce_na_koradi/26/869#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Zavetišče na Koradi - Torek" href="/vreme_gora/zavetisce_na_koradi/26/869#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Marezige - Sobota" href="/vreme_gora/marezige/26/2912#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 331.877</div>
-<div class="g2"><b>Priljubljenost:</b> 73%&nbsp;(885.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
+<div class="g2"><b>Ogledov:</b> 6.880</div>
+<div class="g2"><b>Priljubljenost:</b> 36%&nbsp;(2092.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=869" title="Število vpisov v vpisni knjigi">2</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2912" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Zavetišče na Koradi se nahaja le nekaj metrov pod istoimenskim vrhom. Od zavetišča, ki je običajno odprto ob sobotah, nedeljah in praznikih, zaradi gozda ni razgleda.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Marezige se nahajajo na razglednem hribu nad Vanganelsko dolino. Z razgledišča nasproti Gostilne Karjola, se nam odpre lep razgled na Koprski zaliv, ob dobri vidljivosti pa razglede seže vse do Alp. V bližini razgledne točke se nahaja še cerkev Sv. Križa in ekološka kmetija Plahuta.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=869&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2912&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/korada/26/870">Korada (812m)</a>
+<a class="moder" href="/gora/lopar/26/2944">Lopar (303m)</a>, <a class="moder" href="/gora/vanganelsko_jezero/26/2913">Vanganelsko jezero (55m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,18 +835,39 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/biljana/1064">Biljana</a>, <a class="moder" href="/spletna_kamera/cedad___cividale_del_friuli/1650">Čedad / Cividale del Friuli</a>, <a class="moder" href="/spletna_kamera/deskle/2025">Deskle</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/gorica/484">Gorica</a>, <a class="moder" href="/spletna_kamera/gorica/1670">Gorica</a>, <a class="moder" href="/spletna_kamera/goriski_grad___comune_di_gorizia/2056">Goriški grad / Comune di Gorizia</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kojsko/3396">Kojsko</a>, <a class="moder" href="/spletna_kamera/korada/2146">Korada</a>, <a class="moder" href="/spletna_kamera/kostanjevica_pri_novi_gorici/3510">Kostanjevica pri Novi Gorici</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/neblo/1707">Neblo</a>, <a class="moder" href="/spletna_kamera/nova_gorica/1012">Nova Gorica</a>, <a class="moder" href="/spletna_kamera/nova_gorica_sportni_park_nova_gorica/4298">Nova Gorica (Športni park Nova Gorica)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_trg_edvarda_kardelja/4097">Nova Gorica (Trg Edvarda Kardelja)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_-_rolkarski_park/1996">Nova Gorica - rolkarski park</a>, <a class="moder" href="/spletna_kamera/nova_gorica_center/1697">Nova Gorica center</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/podgora___piedimonte_del_calvario/1680">Podgora / Piedimonte del Calvario</a>, <a class="moder" href="/spletna_kamera/rafut/1884">Rafut</a>, <a class="moder" href="/spletna_kamera/ravna_pri_ligu/1589">Ravna pri Ligu</a>, <a class="moder" href="/spletna_kamera/smartno/4083">Šmartno</a>, <a class="moder" href="/spletna_kamera/solkan/1663">Solkan</a>, <a class="moder" href="/spletna_kamera/solkan_brv_cez_soco/4065">Solkan (brv čez Sočo)</a>, <a class="moder" href="/spletna_kamera/solkanski_most/3326">Solkanski most</a>, <a class="moder" href="/spletna_kamera/sveta_gora/1882">Sveta Gora</a>, <a class="moder" href="/spletna_kamera/visnjevik/4230">Višnjevik</a>
+<a class="moder" href="/spletna_kamera/ankaran/4356">Ankaran</a>, <a class="moder" href="/spletna_kamera/bertoki/4921">Bertoki</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/izola/1000">Izola</a>, <a class="moder" href="/spletna_kamera/izola_belvedere/3451">Izola (Belvedere)</a>, <a class="moder" href="/spletna_kamera/jagodje/4923">Jagodje</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/koper/3504">Koper</a>, <a class="moder" href="/spletna_kamera/koper_marina/4335">Koper (marina)</a>, <a class="moder" href="/spletna_kamera/koper_markovec/300">Koper (Markovec)</a>, <a class="moder" href="/spletna_kamera/koper_panoramski_pogled/4268">Koper (panoramski pogled)</a>, <a class="moder" href="/spletna_kamera/lazaret/1699">Lazaret</a>, <a class="moder" href="/spletna_kamera/letalisce_portoroz/2082">Letališče Portorož</a>, <a class="moder" href="/spletna_kamera/luka_koper/4329">Luka Koper</a>, <a class="moder" href="/spletna_kamera/milje___muggia/1639">Milje / Muggia</a>, <a class="moder" href="/spletna_kamera/secoveljske_soline/1725">Sečoveljske soline</a>, <a class="moder" href="/spletna_kamera/secovlje/1629">Sečovlje</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/spodnje_skofije/1080">Spodnje Škofije</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzavetisce_na_koradi%2f26%2f869"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzavetisce_na_koradi%2f26%2f869"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzavetisce_na_koradi%2f26%2f869"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmarezige%2f26%2f2912"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmarezige%2f26%2f2912"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmarezige%2f26%2f2912"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/marezige/2912" title="Marezige 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.2659714103marezige.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/zavetisce_na_koradi/2843" onclick="event.preventDefault(); window.open('/slika_gora/zavetisce_na_koradi/2843');"><img class="slikagm" alt="Zavetišče na Koradi" src="//www.hribi.net/slike1/P3260332414720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/marezige/16826" onclick="event.preventDefault(); window.open('/slika_gora/marezige/16826');"><img class="slikagm" alt="Marezige" src="//slike.hribi.net/slike4/2_2234582216676_DSCN2534.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/marezige/16827" onclick="event.preventDefault(); window.open('/slika_gora/marezige/16827');"><img class="slikagm" alt="Marezige" src="//slike.hribi.net/slike4/2_0685582216865_DSCN2540.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/marezige/16828" onclick="event.preventDefault(); window.open('/slika_gora/marezige/16828');"><img class="slikagm" alt="Marezige" src="//slike.hribi.net/slike4/2_1687582216868_DSCN2541.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/marezige/16829" onclick="event.preventDefault(); window.open('/slika_gora/marezige/16829');"><img class="slikagm" alt="Marezige" src="//slike.hribi.net/slike4/2_2720582216871_DSCN2545.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/marezige/16830" onclick="event.preventDefault(); window.open('/slika_gora/marezige/16830');"><img class="slikagm" alt="Marezige" src="//slike.hribi.net/slike4/2_3840582216874_DSCN2550.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/marezige/16831" onclick="event.preventDefault(); window.open('/slika_gora/marezige/16831');"><img class="slikagm" alt="Marezige" src="//slike.hribi.net/slike4/2_4678582216877_DSCN2552.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/marezige/16832" onclick="event.preventDefault(); window.open('/slika_gora/marezige/16832');"><img class="slikagm" alt="Marezige" src="//slike.hribi.net/slike4/2_549582216881_DSCN2553.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/marezige/16833" onclick="event.preventDefault(); window.open('/slika_gora/marezige/16833');"><img class="slikagm" alt="Marezige" src="//slike.hribi.net/slike4/2_6249582216884_DSCN2554.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/marezige/16834" onclick="event.preventDefault(); window.open('/slika_gora/marezige/16834');"><img class="slikagm" alt="Marezige" src="//slike.hribi.net/slike4/2_1203581230059_DSCN2536.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/marezige/16835" onclick="event.preventDefault(); window.open('/slika_gora/marezige/16835');"><img class="slikagm" alt="Marezige" src="//slike.hribi.net/slike4/2_0128581230056_DSCN2530.JPG" /></a>
     
 </div>
 
@@ -910,7 +931,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=869&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2912&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -920,9 +941,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/plave_zavetisce_na_koradi/26/869/1541">Plave - Zavetišče na Koradi</a></td><td class="tdG"><a href="/izlet/plave_zavetisce_na_koradi/26/869/1541">2 h 20 min</a></td><td class="tdG"><a href="/izlet/plave_zavetisce_na_koradi/26/869/1541">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/vanganel_marezige_mimo_vanganelskega_jezera/26/2912/6816">Vanganel - Marezige (mimo Vanganelskega jezera)</a></td><td class="tdG"><a href="/izlet/vanganel_marezige_mimo_vanganelskega_jezera/26/2912/6816">1 h 45 min</a></td><td class="tdG"><a href="/izlet/vanganel_marezige_mimo_vanganelskega_jezera/26/2912/6816">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zamedveje_zavetisce_na_koradi/26/869/1542">Zamedveje - Zavetišče na Koradi</a></td><td class="tdG"><a href="/izlet/zamedveje_zavetisce_na_koradi/26/869/1542">2 h 20 min</a></td><td class="tdG"><a href="/izlet/zamedveje_zavetisce_na_koradi/26/869/1542">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/vanganel_marezige/26/2912/6815">Vanganel - Marezige</a></td><td class="tdG"><a href="/izlet/vanganel_marezige/26/2912/6815">1 h</a></td><td class="tdG"><a href="/izlet/vanganel_marezige/26/2912/6815">lahka označena pot</a></td></tr>
 
 </table>
 

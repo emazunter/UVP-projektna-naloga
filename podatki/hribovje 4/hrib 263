@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveta Ana (Macna) / St. Anna (Matzen)</title>
-        <meta name="description" content="Natančen opis cerkve Sveta Ana (Macna) / St. Anna (Matzen) in vseh pristopov na Sveta Ana (Macna) / St. Anna (Matzen). Cerkev sv. Ane se nahaja severno od vrha Macna / Matzen, na avstrijski strani Ka." />
+        <title>Visoko</title>
+        <meta name="description" content="Natančen opis gore Visoko in vseh pristopov na Visoko. Visoko je lahko dostopna travnata planota in leži južno od Paškega Kozjaka. Na v." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2127?gorovjeid=11&amp;id=2127" id="form1">
+    <form method="post" action="./2878?gorovjeid=11&amp;id=2878" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/st_anna_matzen/11/2127"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=2127"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/visoko/11/2878"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=2878"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Sveta Ana (Macna) / St. Anna (Matzen)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Visoko
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2127);
+    gorast(2878);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveta Ana (Macna) / St. Anna (Matzen)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Visoko</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1536&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 991&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,8100'N&nbsp;/&nbsp;14°&nbsp;21,6840'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,5660'N&nbsp;/&nbsp;15°&nbsp;11,3880'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;48,60''N&nbsp;/&nbsp;14°&nbsp;21'&nbsp;41,04''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;33,96''N&nbsp;/&nbsp;15°&nbsp;11'&nbsp;23,28''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.5135°N&nbsp;/&nbsp;14.3614°E";
+                        document.getElementById("kf0").innerHTML = "46.3761°N&nbsp;/&nbsp;15.1898°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,5135°N,&nbsp;14,3614°E";
+                    document.getElementById("kf0").innerHTML = "46,3761°N,&nbsp;15,1898°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,5135°N&nbsp;14,3614°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveta_ana_macna___st_anna_matzen/2127"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3761°N&nbsp;15,1898°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/visoko/2878"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Visoko - Torek" href="/vreme_gora/visoko/11/2878#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Visoko - Sreda" href="/vreme_gora/visoko/11/2878#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Visoko - Četrtek" href="/vreme_gora/visoko/11/2878#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Ana (Macna) / St. Anna (Matzen) - Petek" href="/vreme_gora/sveta_ana_macna___st_anna_matzen/11/2127#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Visoko - Petek" href="/vreme_gora/visoko/11/2878#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Ana (Macna) / St. Anna (Matzen) - Sobota" href="/vreme_gora/sveta_ana_macna___st_anna_matzen/11/2127#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Ana (Macna) / St. Anna (Matzen) - Nedelja" href="/vreme_gora/sveta_ana_macna___st_anna_matzen/11/2127#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Ana (Macna) / St. Anna (Matzen) - Ponedeljek" href="/vreme_gora/sveta_ana_macna___st_anna_matzen/11/2127#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Ana (Macna) / St. Anna (Matzen) - Torek" href="/vreme_gora/sveta_ana_macna___st_anna_matzen/11/2127#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Visoko - Sobota" href="/vreme_gora/visoko/11/2878#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 146.364</div>
-<div class="g2"><b>Priljubljenost:</b> 52%&nbsp;(1592.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Ogledov:</b> 2.290</div>
+<div class="g2"><b>Priljubljenost:</b> 28%&nbsp;(2361.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev sv. Ane se nahaja severno od vrha Macna / Matzen, na avstrijski strani Karavank. Od cerkvice se nam odpre lep razgled predvsem proti zahodu in vzhodu, na ostale strani razgled ovira gozd. Pri cerkvi so tudi vpisna skrinjica, vpisna knjiga in žig.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Visoko je lahko dostopna travnata planota in leži južno od Paškega Kozjaka. Na vrhu stoji spomenik padlim borcem 14. divizije NOV, ki je tukaj v noči od 18. na 19. februar 1944 prebila sovražnikov obroč ter se pomaknila čez Pako. Proti severu je lep razgled na Paški Kozjak s cerkvijo sv. Jošta, proti vzhodu na Štrukljev vrh, proti jugu na Celjsko kotlino z delom Posavskega hribovja, proti zahodu pa na Velenje, Šoštanj, Uršljo goro, Peco, Smrekovec, Golte ter Raduho, v ozadju pa vidimo še del Savinjskih Alp.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2127&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2878&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/macna___matzen/11/2126">Macna / Matzen (1627m)</a>
+<a class="moder" href="/gora/dom_na_paskem_kozjaku/11/740">Dom na Paškem Kozjaku (960m)</a>, <a class="moder" href="/gora/ostrica/11/2897">Ostrica (1182m)</a>, <a class="moder" href="/gora/plakopec_brezejec/11/2892">Plakopec (Brezejec) (1005m)</a>, <a class="moder" href="/gora/ramsakov_vrh/11/1747">Ramšakov vrh (970m)</a>, <a class="moder" href="/gora/spik_paski_kozjak/11/741">Špik (Paški Kozjak) (1108m)</a>, <a class="moder" href="/gora/sveti_jost_na_paskem_kozjaku/11/2896">Sveti Jošt na Paškem Kozjaku (1063m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,31 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
+<a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/medlog/1164">Medlog</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/smartno_pri_slovenj_gradcu/2963">Šmartno pri Slovenj Gradcu</a>, <a class="moder" href="/spletna_kamera/spodnje_stranice/4444">Spodnje Stranice</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_ana_macna___st_anna_matzen%2f11%2f2127"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_ana_macna___st_anna_matzen%2f11%2f2127"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_ana_macna___st_anna_matzen%2f11%2f2127"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvisoko%2f11%2f2878"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvisoko%2f11%2f2878"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvisoko%2f11%2f2878"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/sveta_ana_macna___st_anna_matzen/2127" title="Sveta Ana (Macna) / St. Anna (Matzen) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SvetaAnaMacna.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveta_ana_macna___st_anna_matzen/10493" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_macna___st_anna_matzen/10493');"><img class="slikagm" alt="Sveta Ana (Macna) / St. Anna (Matzen)" src="//www.hribi.net/slike1/Macna 2511867008.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/visoko/16605" onclick="event.preventDefault(); window.open('/slika_gora/visoko/16605');"><img class="slikagm" alt="Visoko" src="//slike.hribi.net/slike8/2_9568725Visoko___1.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveta_ana_macna___st_anna_matzen/10494" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_macna___st_anna_matzen/10494');"><img class="slikagm" alt="Sveta Ana (Macna) / St. Anna (Matzen)" src="//www.hribi.net/slike1/Macna 2211867008.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/visoko/16606" onclick="event.preventDefault(); window.open('/slika_gora/visoko/16606');"><img class="slikagm" alt="Visoko" src="//slike.hribi.net/slike8/2_9568725Visoko___2.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveta_ana_macna___st_anna_matzen/18395" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_macna___st_anna_matzen/18395');"><img class="slikagm" alt="Sveta Ana (Macna) / St. Anna (Matzen)" src="//slike.hribi.net/slike4/2_0549616948270_DSCN7422.JPG" /></a>
+        <a target="_blank" href="/slika_gora/visoko/16607" onclick="event.preventDefault(); window.open('/slika_gora/visoko/16607');"><img class="slikagm" alt="Visoko" src="//slike.hribi.net/slike8/2_9568725Visoko___3.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveta_ana_macna___st_anna_matzen/18396" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_macna___st_anna_matzen/18396');"><img class="slikagm" alt="Sveta Ana (Macna) / St. Anna (Matzen)" src="//slike.hribi.net/slike4/2_8967617390498_DSCN7421.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveta_ana_macna___st_anna_matzen/18397" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_macna___st_anna_matzen/18397');"><img class="slikagm" alt="Sveta Ana (Macna) / St. Anna (Matzen)" src="//slike.hribi.net/slike4/2_1636617390688_DSCN7436.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveta_ana_macna___st_anna_matzen/18398" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ana_macna___st_anna_matzen/18398');"><img class="slikagm" alt="Sveta Ana (Macna) / St. Anna (Matzen)" src="//slike.hribi.net/slike4/2_2606617390691_DSCN7439.JPG" /></a>
+        <a target="_blank" href="/slika_gora/visoko/16608" onclick="event.preventDefault(); window.open('/slika_gora/visoko/16608');"><img class="slikagm" alt="Visoko" src="//slike.hribi.net/slike8/2_9568726Visoko___4.jpg" /></a>
     
 </div>
 
@@ -923,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2127&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2878&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -933,11 +926,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zavrh___hintergupf_sveta_ana_macna___st_anna_matzen/11/2127/4251">Zavrh / Hintergupf - Sveta Ana (Macna) / St. Anna (Matzen)</a></td><td class="tdG"><a href="/izlet/zavrh___hintergupf_sveta_ana_macna___st_anna_matzen/11/2127/4251">2 h 30 min</a></td><td class="tdG"><a href="/izlet/zavrh___hintergupf_sveta_ana_macna___st_anna_matzen/11/2127/4251">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/paka_pri_velenju_visoko/11/2878/6706">Paka pri Velenju - Visoko</a></td><td class="tdG"><a href="/izlet/paka_pri_velenju_visoko/11/2878/6706">1 h 45 min</a></td><td class="tdG"><a href="/izlet/paka_pri_velenju_visoko/11/2878/6706">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/borovlje___ferlach_sveta_ana_macna___st_anna_matzen/11/2127/7393">Borovlje / Ferlach - Sveta Ana (Macna) / St. Anna (Matzen)</a></td><td class="tdG"><a href="/izlet/borovlje___ferlach_sveta_ana_macna___st_anna_matzen/11/2127/7393">3 h 30 min</a></td><td class="tdG"><a href="/izlet/borovlje___ferlach_sveta_ana_macna___st_anna_matzen/11/2127/7393">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bajdise_gozdar___waidisch_forsthaus_sveta_ana_macna___st_anna_matzen/11/2127/7400">Bajdiše (Gozdar) / Waidisch (forsthaus) - Sveta Ana (Macna) / St. Anna (Matzen)</a></td><td class="tdG"><a href="/izlet/bajdise_gozdar___waidisch_forsthaus_sveta_ana_macna___st_anna_matzen/11/2127/7400">3 h</a></td><td class="tdG"><a href="/izlet/bajdise_gozdar___waidisch_forsthaus_sveta_ana_macna___st_anna_matzen/11/2127/7400">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_na_paskem_kozjaku_visoko/11/2878/6734">Dom na Paškem Kozjaku - Visoko</a></td><td class="tdG"><a href="/izlet/dom_na_paskem_kozjaku_visoko/11/2878/6734"> 20 min</a></td><td class="tdG"><a href="/izlet/dom_na_paskem_kozjaku_visoko/11/2878/6734">lahka označena pot</a></td></tr>
 
 </table>
 

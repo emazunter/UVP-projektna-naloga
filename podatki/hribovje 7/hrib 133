@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planinski dom na Zasavski Sveti gori</title>
-        <meta name="description" content="Natančen opis koče Planinski dom na Zasavski Sveti gori in vseh pristopov na Planinski dom na Zasavski Sveti gori. Planinski dom se nahaja le nekaj 10 m pod vrhom Zasavske Svete gore. Od doma oz.." />
+        <title>Veliki Bojanski vrh</title>
+        <meta name="description" content="Natančen opis gore Veliki Bojanski vrh in vseh pristopov na Veliki Bojanski vrh. Veliki Bojanski vrh je poraščen vrh, ki se nahaja južno od Celja in Štor v Posav." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1947?gorovjeid=25&amp;id=1947" id="form1">
+    <form method="post" action="./3335?gorovjeid=25&amp;id=3335" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planinski_dom_na_zasavski_sveti_gori/25/1947"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1947"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_bojanski_vrh/25/3335"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3335"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Planinski dom na Zasavski Sveti gori
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Veliki Bojanski vrh
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1947);
+    gorast(3335);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planinski dom na Zasavski Sveti gori</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Veliki Bojanski vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 822&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 627&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;7,6620'N&nbsp;/&nbsp;14°&nbsp;53,8320'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;12,1356'N&nbsp;/&nbsp;15°&nbsp;18,3852'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;7'&nbsp;39,72''N&nbsp;/&nbsp;14°&nbsp;53'&nbsp;49,92''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;12'&nbsp;8,14''N&nbsp;/&nbsp;15°&nbsp;18'&nbsp;23,11''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.1277°N&nbsp;/&nbsp;14.8972°E";
+                        document.getElementById("kf0").innerHTML = "46.20226°N&nbsp;/&nbsp;15.30642°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,1277°N,&nbsp;14,8972°E";
+                    document.getElementById("kf0").innerHTML = "46,20226°N,&nbsp;15,30642°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1277°N&nbsp;14,8972°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planinski_dom_na_zasavski_sveti_gori/1947"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,20226°N&nbsp;15,30642°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_bojanski_vrh/3335"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Bojanski vrh - Torek" href="/vreme_gora/veliki_bojanski_vrh/25/3335#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Bojanski vrh - Sreda" href="/vreme_gora/veliki_bojanski_vrh/25/3335#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Bojanski vrh - Četrtek" href="/vreme_gora/veliki_bojanski_vrh/25/3335#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom na Zasavski Sveti gori - Petek" href="/vreme_gora/planinski_dom_na_zasavski_sveti_gori/25/1947#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Bojanski vrh - Petek" href="/vreme_gora/veliki_bojanski_vrh/25/3335#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom na Zasavski Sveti gori - Sobota" href="/vreme_gora/planinski_dom_na_zasavski_sveti_gori/25/1947#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom na Zasavski Sveti gori - Nedelja" href="/vreme_gora/planinski_dom_na_zasavski_sveti_gori/25/1947#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom na Zasavski Sveti gori - Ponedeljek" href="/vreme_gora/planinski_dom_na_zasavski_sveti_gori/25/1947#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planinski dom na Zasavski Sveti gori - Torek" href="/vreme_gora/planinski_dom_na_zasavski_sveti_gori/25/1947#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Bojanski vrh - Sobota" href="/vreme_gora/veliki_bojanski_vrh/25/3335#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 313.461</div>
-<div class="g2"><b>Priljubljenost:</b> 71%&nbsp;(952.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1947" title="Število vpisov v vpisni knjigi">4</a></div>
+<div class="g2"><b>Ogledov:</b> 1.070</div>
+<div class="g2"><b>Priljubljenost:</b> 22%&nbsp;(2580.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinski dom se nahaja le nekaj 10 m pod vrhom Zasavske Svete gore. Od doma oz. njegove bližnje okolice, se nam odpre lep razgled na del Kamniško Savinjskih Alp ter del Posavskega hribovja, ob lepem vremenu pa razgled seže vse do Snežnika.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki Bojanski vrh je poraščen vrh, ki se nahaja južno od Celja in Štor v Posavskem hribovju. Nedaleč od vrha proti zahodu se odpre lep razgled na Tolsti vrh, Srebotnik in Bavč.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1947&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3335&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/roviskovec/25/1948">Roviškovec (930m)</a>, <a class="moder" href="/gora/zasavska_sveta_gora/25/214">Zasavska Sveta gora (852m)</a>
+<a class="moder" href="/gora/almin_dom_na_svetini/25/880">Almin dom na Svetini (772m)</a>, <a class="moder" href="/gora/babni_vrh/25/3350">Babni vrh (753m)</a>, <a class="moder" href="/gora/bavc/25/3340">Bavč (692m)</a>, <a class="moder" href="/gora/gradise_nad_storami/25/3428">Gradiše (nad Štorami) (540m)</a>, <a class="moder" href="/gora/mali_bojanski_vrh/25/3347">Mali Bojanski vrh (600m)</a>, <a class="moder" href="/gora/srebotnik/25/881">Srebotnik (700m)</a>, <a class="moder" href="/gora/turn_sv_janez_krstnik/25/2320">Turn (Sv. Janez Krstnik) (513m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,23 +835,28 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/kum/2952">Kum</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/sveta_planina_partizanski_vrh/3429">Sveta planina (Partizanski vrh)</a>, <a class="moder" href="/spletna_kamera/trbovlje/317">Trbovlje</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>
+<a class="moder" href="/spletna_kamera/celje_krekov_trg/3511">Celje (Krekov trg)</a>, <a class="moder" href="/spletna_kamera/celje_letno_kopalisce/361">Celje (letno kopališče)</a>, <a class="moder" href="/spletna_kamera/celjska_koca/174">Celjska koča</a>, <a class="moder" href="/spletna_kamera/dramlje/1743">Dramlje</a>, <a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/lahomsek/309">Lahomšek</a>, <a class="moder" href="/spletna_kamera/marno/381">Marno</a>, <a class="moder" href="/spletna_kamera/medlog/1164">Medlog</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/planina_pri_sevnici/4944">Planina pri Sevnici</a>, <a class="moder" href="/spletna_kamera/slatina/363">Slatina</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>, <a class="moder" href="/spletna_kamera/zegar/4945">Žegar</a>, <a class="moder" href="/spletna_kamera/zima/362">Zima</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_na_zasavski_sveti_gori%2f25%2f1947"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_na_zasavski_sveti_gori%2f25%2f1947"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_na_zasavski_sveti_gori%2f25%2f1947"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_bojanski_vrh%2f25%2f3335"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_bojanski_vrh%2f25%2f3335"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_bojanski_vrh%2f25%2f3335"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/planinski_dom_na_zasavski_sveti_gori/1947" title="Planinski dom na Zasavski Sveti gori 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninskidomnaZasavskiSvgori.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planinski_dom_na_zasavski_sveti_gori/9457" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_na_zasavski_sveti_gori/9457');"><img class="slikagm" alt="Planinski dom na Zasavski Sveti gori" src="//www.hribi.net/Gora/pb190050mediumgy9.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_bojanski_vrh/19869" onclick="event.preventDefault(); window.open('/slika_gora/veliki_bojanski_vrh/19869');"><img class="slikagm" alt="Veliki Bojanski vrh" src="//slike.hribi.net/slike8/2_11003765Veliki_Bojanski_vrh.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planinski_dom_na_zasavski_sveti_gori/9463" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_na_zasavski_sveti_gori/9463');"><img class="slikagm" alt="Planinski dom na Zasavski Sveti gori" src="//www.hribi.net/slike1/ZasavskaSvetaGora 137101088.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_bojanski_vrh/19870" onclick="event.preventDefault(); window.open('/slika_gora/veliki_bojanski_vrh/19870');"><img class="slikagm" alt="Veliki Bojanski vrh" src="//slike.hribi.net/slike8/2_11003768Veliki_in_Mali_Bojanski_vrh.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_bojanski_vrh/19871" onclick="event.preventDefault(); window.open('/slika_gora/veliki_bojanski_vrh/19871');"><img class="slikagm" alt="Veliki Bojanski vrh" src="//slike.hribi.net/slike8/2_11003775Sam_vrh_Bojanski_vrh.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_bojanski_vrh/19872" onclick="event.preventDefault(); window.open('/slika_gora/veliki_bojanski_vrh/19872');"><img class="slikagm" alt="Veliki Bojanski vrh" src="//slike.hribi.net/slike8/2_11003776Tovsti_vrh__Srebotni_in_BAv_.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_bojanski_vrh/19929" onclick="event.preventDefault(); window.open('/slika_gora/veliki_bojanski_vrh/19929');"><img class="slikagm" alt="Veliki Bojanski vrh" src="//slike.hribi.net/slike9/2_11064562Trije_vrhovi.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_bojanski_vrh/19935" onclick="event.preventDefault(); window.open('/slika_gora/veliki_bojanski_vrh/19935');"><img class="slikagm" alt="Veliki Bojanski vrh" src="//slike.hribi.net/slike9/2_11064596Velik_BV.jpg" /></a>
     
 </div>
 
@@ -915,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1947&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3335&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -925,21 +930,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/krace_planinski_dom_na_zasavski_sveti_gori/25/1947/3647">Krače - Planinski dom na Zasavski Sveti gori</a></td><td class="tdG"><a href="/izlet/krace_planinski_dom_na_zasavski_sveti_gori/25/1947/3647">1 h 10 min</a></td><td class="tdG"><a href="/izlet/krace_planinski_dom_na_zasavski_sveti_gori/25/1947/3647">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__veliki_bojanski_vrh_skozi_bojanski_graben/25/3335/7954">Kozolec (Laška vas - Pečovje)  - Veliki Bojanski vrh (skozi Bojanski graben)</a></td><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__veliki_bojanski_vrh_skozi_bojanski_graben/25/3335/7954"> 45 min</a></td><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__veliki_bojanski_vrh_skozi_bojanski_graben/25/3335/7954">lahka označena pot, lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mlinse_planinski_dom_na_zasavski_sveti_gori/25/1947/3642">Mlinše - Planinski dom na Zasavski Sveti gori</a></td><td class="tdG"><a href="/izlet/mlinse_planinski_dom_na_zasavski_sveti_gori/25/1947/3642">1 h 30 min</a></td><td class="tdG"><a href="/izlet/mlinse_planinski_dom_na_zasavski_sveti_gori/25/1947/3642">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__veliki_bojanski_vrh_cez_zlajfo/25/3335/8011">Kozolec (Laška vas - Pečovje)  - Veliki Bojanski vrh (čez Žlajfo)</a></td><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__veliki_bojanski_vrh_cez_zlajfo/25/3335/8011"> 40 min</a></td><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__veliki_bojanski_vrh_cez_zlajfo/25/3335/8011">lahka označena pot, lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rovisce_planinski_dom_na_zasavski_sveti_gori_pespot/25/1947/3643">Rovišče - Planinski dom na Zasavski Sveti gori (pešpot)</a></td><td class="tdG"><a href="/izlet/rovisce_planinski_dom_na_zasavski_sveti_gori_pespot/25/1947/3643"> 25 min</a></td><td class="tdG"><a href="/izlet/rovisce_planinski_dom_na_zasavski_sveti_gori_pespot/25/1947/3643">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zvodno_veliki_bojanski_vrh_skozi_bojanski_graben/25/3335/8170">Zvodno - Veliki Bojanski vrh (skozi Bojanski graben)</a></td><td class="tdG"><a href="/izlet/zvodno_veliki_bojanski_vrh_skozi_bojanski_graben/25/3335/8170"> 45 min</a></td><td class="tdG"><a href="/izlet/zvodno_veliki_bojanski_vrh_skozi_bojanski_graben/25/3335/8170">lahka označena pot, lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rovisce_planinski_dom_na_zasavski_sveti_gori_po_cesti/25/1947/3644">Rovišče - Planinski dom na Zasavski Sveti gori (po cesti)</a></td><td class="tdG"><a href="/izlet/rovisce_planinski_dom_na_zasavski_sveti_gori_po_cesti/25/1947/3644"> 30 min</a></td><td class="tdG"><a href="/izlet/rovisce_planinski_dom_na_zasavski_sveti_gori_po_cesti/25/1947/3644">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vace_planinski_dom_na_zasavski_sveti_gori_po_pobocju/25/1947/7739">Vače - Planinski dom na Zasavski Sveti gori (po pobočju)</a></td><td class="tdG"><a href="/izlet/vace_planinski_dom_na_zasavski_sveti_gori_po_pobocju/25/1947/7739">2 h 30 min</a></td><td class="tdG"><a href="/izlet/vace_planinski_dom_na_zasavski_sveti_gori_po_pobocju/25/1947/7739">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vace_planinski_dom_na_zasavski_sveti_gori_po_grebenu/25/1947/7741">Vače - Planinski dom na Zasavski Sveti gori (po grebenu)</a></td><td class="tdG"><a href="/izlet/vace_planinski_dom_na_zasavski_sveti_gori_po_grebenu/25/1947/7741">2 h 35 min</a></td><td class="tdG"><a href="/izlet/vace_planinski_dom_na_zasavski_sveti_gori_po_grebenu/25/1947/7741">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vidrga_planinski_dom_na_zasavski_sveti_gori_po_gozdni_stezi/25/1947/7743">Vidrga - Planinski dom na Zasavski Sveti gori (po gozdni stezi)</a></td><td class="tdG"><a href="/izlet/vidrga_planinski_dom_na_zasavski_sveti_gori_po_gozdni_stezi/25/1947/7743">1 h 30 min</a></td><td class="tdG"><a href="/izlet/vidrga_planinski_dom_na_zasavski_sveti_gori_po_gozdni_stezi/25/1947/7743">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vidrga_planinski_dom_na_zasavski_sveti_gori_po_kolovozu/25/1947/7745">Vidrga - Planinski dom na Zasavski Sveti gori (po kolovozu)</a></td><td class="tdG"><a href="/izlet/vidrga_planinski_dom_na_zasavski_sveti_gori_po_kolovozu/25/1947/7745">1 h 30 min</a></td><td class="tdG"><a href="/izlet/vidrga_planinski_dom_na_zasavski_sveti_gori_po_kolovozu/25/1947/7745">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/store_veliki_bojanski_vrh_cez_kompole_in_sentjanz/25/3335/8210">Štore - Veliki Bojanski vrh (čez Kompole in Šentjanž)</a></td><td class="tdG"><a href="/izlet/store_veliki_bojanski_vrh_cez_kompole_in_sentjanz/25/3335/8210">1 h 50 min</a></td><td class="tdG"><a href="/izlet/store_veliki_bojanski_vrh_cez_kompole_in_sentjanz/25/3335/8210">lahka označena pot, lahka neoznačena steza</a></td></tr>
 
 </table>
 

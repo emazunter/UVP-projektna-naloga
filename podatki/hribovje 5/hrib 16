@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Ostruščica</title>
-        <meta name="description" content="Natančen opis gore Ostruščica in vseh pristopov na Ostruščica. Ostruščica je 1498 metrov visok vrh, ki se nahaja zahodno od smučarskih prog na ." />
+        <title>Izvir reke Pake</title>
+        <meta name="description" content="Natančen opis gore Izvir reke Pake in vseh pristopov na Izvir reke Pake. Na Pohorju pod 1455 m visokim vrhom Volovica je izvir reke Pake. To je trajen iz." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2740?gorovjeid=4&amp;id=2740" id="form1">
+    <form method="post" action="./2643?gorovjeid=4&amp;id=2643" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ostruscica/4/2740"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=2740"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/source_of_river_paka/4/2643"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=2643"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Ostruščica
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Izvir reke Pake
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2740);
+    gorast(2643);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Ostruščica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Izvir reke Pake</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,109 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 1498&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1412&nbsp;m</div>
     
-        <script>
-            var kfi = 1;
-            function koordinateFormat() {
-                if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;27,5112'N&nbsp;/&nbsp;15°&nbsp;19,4100'E";
-                        kfi = 2;
-                    }
-                    else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;27'&nbsp;30,67''N&nbsp;/&nbsp;15°&nbsp;19'&nbsp;24,60''E";
-                        kfi = 3;
-                    }
-                    else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.45852°N&nbsp;/&nbsp;15.3235°E";
-                    kfi = 4;
-                }
-                else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,45852°N,&nbsp;15,3235°E";
-                        kfi = 1;
-                    }
-    }
-
-            function kopiraj() {
-                var tempInput = document.createElement("textarea");
-                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
-                document.body.appendChild(tempInput);
-                tempInput.select();
-                tempInput.setSelectionRange(0, 99999);
-                document.execCommand("copy");
-                document.body.removeChild(tempInput);
-                tooltip("Kopirano v odložišče...");
-
-            }
-
-    
-</script>
-        
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,45852°N&nbsp;15,3235°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ostruscica/2740"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
-    
-    <div class="g2"><b>Vrsta:</b> vrh</div>
-  
-        <div class="g2"><b>Vremenska napoved:</b></div>
-        <div class="g2">
-<table><tr>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Ostruščica - Petek" href="/vreme_gora/ostruscica/4/2740#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Ostruščica - Sobota" href="/vreme_gora/ostruscica/4/2740#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Ostruščica - Nedelja" href="/vreme_gora/ostruscica/4/2740#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Ostruščica - Ponedeljek" href="/vreme_gora/ostruscica/4/2740#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Ostruščica - Torek" href="/vreme_gora/ostruscica/4/2740#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    </tr></table>
-        </div>
+    <div class="g2"><b>Vrsta:</b> </div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 8.120</div>
-<div class="g2"><b>Priljubljenost:</b> 37%&nbsp;(2071.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Ogledov:</b> 9.510</div>
+<div class="g2"><b>Priljubljenost:</b> 38%&nbsp;(2053.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">0</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2740" title="Število vpisov v vpisni knjigi">22</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Ostruščica je 1498 metrov visok vrh, ki se nahaja zahodno od smučarskih prog na Rogli.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Na Pohorju pod 1455 m visokim vrhom Volovica je izvir reke Pake. To je trajen izvir, okoli katerega je močvirnato območje poraščeno z značilnimi rastlinjem.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +704,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2740&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2643&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -797,59 +713,12 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><b>Gore v okolici</b>
-<select onchange="radiusf(this.value,1);">
-<option value="0,5">0,5</option>
-<option value="1">1</option>
-<option value="1,5">1,5</option>
-<option selected value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="6">6</option>
-<option value="8">8</option>
-<option value="10">10</option>
-<option value="15">15</option>
-<option value="20">20</option>
-<option value="30">30</option>
-</select> <b>km:</b><br />
-</div>
-<div id="radiusseznam1">
-<a class="moder" href="/gora/cerkev_jezusove_spremenitve_na_gori_rogla/4/3852">Cerkev Jezusove spremenitve na gori (Rogla) (1474m)</a>, <a class="moder" href="/gora/izvir_dravinje/4/3851">Izvir Dravinje (1460m)</a>, <a class="moder" href="/gora/koca_na_pesku/4/513">Koča na Pesku (1386m)</a>, <a class="moder" href="/gora/lukov_slap/4/2741">Lukov slap (1240m)</a>, <a class="moder" href="/gora/pesek/4/3468">Pesek (1423m)</a>, <a class="moder" href="/gora/pot_med_krosnjami_pohorje/4/3183">Pot med krošnjami Pohorje (1460m)</a>, <a class="moder" href="/gora/rogla/4/512">Rogla (1517m)</a>
-</div>
-
-<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
-<select onchange="radiusf(this.value,2);">
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="5">5</option>
-<option value="7">7</option>
-<option value="10">10</option>
-<option selected value="15">15</option>
-<option value="20">20</option>
-<option value="25">25</option>
-<option value="30">30</option>
-<option value="35">35</option>
-<option value="40">40</option>
-<option value="50">50</option>
-<option value="60">60</option>
-</select> <b>km:</b><br></div>
-<div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/spodnje_stranice/4444">Spodnje Stranice</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>
-</div>
-
-
-
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fostruscica%2f4%2f2740"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fostruscica%2f4%2f2740"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fostruscica%2f4%2f2740"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fizvir_reke_pake%2f4%2f2643"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fizvir_reke_pake%2f4%2f2643"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fizvir_reke_pake%2f4%2f2643"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/ostruscica/15387" onclick="event.preventDefault(); window.open('/slika_gora/ostruscica/15387');"><img class="slikagm" alt="Ostruščica" src="//slike.hribi.net/slike4/2_0246537607517_DSCN3672.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/ostruscica/15388" onclick="event.preventDefault(); window.open('/slika_gora/ostruscica/15388');"><img class="slikagm" alt="Ostruščica" src="//www.hribi.net/slike1/DSCN36671388288.th.jpg" /></a>
-    
 </div>
 
 
@@ -912,7 +781,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2740&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2643&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,15 +791,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rogla_hotel_planja_ostruscica/4/2740/6231">Rogla (Hotel Planja) - Ostruščica</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_ostruscica/4/2740/6231"> 15 min</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_ostruscica/4/2740/6231">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mislinja_ostruscica_cez_tolsti_vrh/4/2740/6229">Mislinja - Ostruščica (čez Tolsti Vrh)</a></td><td class="tdG"><a href="/izlet/mislinja_ostruscica_cez_tolsti_vrh/4/2740/6229">4 h 15 min</a></td><td class="tdG"><a href="/izlet/mislinja_ostruscica_cez_tolsti_vrh/4/2740/6229">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mislinjski_graben_pestotnik_ostruscica/4/2740/6225">Mislinjski graben (Pestotnik) - Ostruščica</a></td><td class="tdG"><a href="/izlet/mislinjski_graben_pestotnik_ostruscica/4/2740/6225">2 h 30 min</a></td><td class="tdG"><a href="/izlet/mislinjski_graben_pestotnik_ostruscica/4/2740/6225">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ribniska_koca_ostruscica/4/2740/8847"> Ribniška koča - Ostruščica</a></td><td class="tdG"><a href="/izlet/ribniska_koca_ostruscica/4/2740/8847">3 h 5 min</a></td><td class="tdG"><a href="/izlet/ribniska_koca_ostruscica/4/2740/8847">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ribniska_koca_ostruscica_mimo_lovrenskih_jezer/4/2740/8845">Ribniška koča - Ostruščica (mimo Lovrenških jezer)</a></td><td class="tdG"><a href="/izlet/ribniska_koca_ostruscica_mimo_lovrenskih_jezer/4/2740/8845">3 h 15 min</a></td><td class="tdG"><a href="/izlet/ribniska_koca_ostruscica_mimo_lovrenskih_jezer/4/2740/8845">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/srednji_dolic_gostisce_repolusk_izvir_reke_pake_tematska_pot_od_hude_luknje_do_izvira_reke_pake/4/2643/5934">Srednji Dolič (gostišče Repolusk) - Izvir reke Pake (Tematska pot od Hude luknje do izvira Reke Pake)</a></td><td class="tdG"><a href="/izlet/srednji_dolic_gostisce_repolusk_izvir_reke_pake_tematska_pot_od_hude_luknje_do_izvira_reke_pake/4/2643/5934">3 h</a></td><td class="tdG"><a href="/izlet/srednji_dolic_gostisce_repolusk_izvir_reke_pake_tematska_pot_od_hude_luknje_do_izvira_reke_pake/4/2643/5934">lahka označena pot</a></td></tr>
 
 </table>
 

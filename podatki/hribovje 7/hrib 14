@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Veliki Rog</title>
-        <meta name="description" content="Natančen opis gore Veliki Rog in vseh pristopov na Veliki Rog. Veliki Rog se nahaja na sredi neskončnih gozdov kraške planote Kočevki Rog in je." />
+        <title>Veliki Javornik (Bohor)</title>
+        <meta name="description" content="Natančen opis gore Veliki Javornik (Bohor) in vseh pristopov na Veliki Javornik (Bohor). Veliki Javornik je s 1023m najvišji vrh Bohorja. Čeprav je vrh neporaščen in dal." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./901?gorovjeid=25&amp;id=901" id="form1">
+    <form method="post" action="./888?gorovjeid=25&amp;id=888" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_rog/25/901"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=901"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_javornik_bohor/25/888"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=888"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Veliki Rog
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Veliki Javornik (Bohor)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(901);
+    gorast(888);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Veliki Rog</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Veliki Javornik (Bohor)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 1099&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1023&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;41,1126'N&nbsp;/&nbsp;14°&nbsp;59,7168'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;4,0650'N&nbsp;/&nbsp;15°&nbsp;25,7046'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;41'&nbsp;6,76''N&nbsp;/&nbsp;14°&nbsp;59'&nbsp;43,01''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;4'&nbsp;3,90''N&nbsp;/&nbsp;15°&nbsp;25'&nbsp;42,28''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.68521°N&nbsp;/&nbsp;14.99528°E";
+                        document.getElementById("kf0").innerHTML = "46.06775°N&nbsp;/&nbsp;15.42841°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,68521°N,&nbsp;14,99528°E";
+                    document.getElementById("kf0").innerHTML = "46,06775°N,&nbsp;15,42841°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,68521°N&nbsp;14,99528°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_rog/901"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,06775°N&nbsp;15,42841°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_javornik_bohor/888"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Javornik (Bohor) - Torek" href="/vreme_gora/veliki_javornik_bohor/25/888#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Javornik (Bohor) - Sreda" href="/vreme_gora/veliki_javornik_bohor/25/888#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Javornik (Bohor) - Četrtek" href="/vreme_gora/veliki_javornik_bohor/25/888#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rog - Petek" href="/vreme_gora/veliki_rog/25/901#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Javornik (Bohor) - Petek" href="/vreme_gora/veliki_javornik_bohor/25/888#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rog - Sobota" href="/vreme_gora/veliki_rog/25/901#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rog - Nedelja" href="/vreme_gora/veliki_rog/25/901#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rog - Ponedeljek" href="/vreme_gora/veliki_rog/25/901#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rog - Torek" href="/vreme_gora/veliki_rog/25/901#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Javornik (Bohor) - Sobota" href="/vreme_gora/veliki_javornik_bohor/25/888#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 360.658</div>
-<div class="g2"><b>Priljubljenost:</b> 76%&nbsp;(781.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=901" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 517.882</div>
+<div class="g2"><b>Priljubljenost:</b> 91%&nbsp;(281.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=888" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki Rog se nahaja na sredi neskončnih gozdov kraške planote Kočevki Rog in je s svojimi 1099m nadmorske višine najvišji vrh. Vrh je sicer poraščen vendar na njemu stoji razgledni stolp, ki ob lepem vremenu omogoča razgled po celi Sloveniji. Na vrhu je tudi skrinjica z vpisno knjigo in žigom. Pod samim vrhom Velikega Roga so ostanki Auerspergove žage, opuščene pred 2. svetovno vojno. V bližnji okolici pa lahko najdemo še ostale znamenitosti: partizanske bolnišnice (Baza 20, Jelendol), črmošnjiško jelko, ledeno jamo na Kunču, brezna povojnih pobojev.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki Javornik je s 1023m najvišji vrh Bohorja. Čeprav je vrh neporaščen in daleč okrog ni višjih hribov pa z vrha ni razgleda, saj bližino vrha obdaja strnjen gozd. Na travnatem vrhu pa je v bližini vpisne skrinjice tudi lovska opazovalnica (od skrinjice oddaljena 30m).</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=901&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=888&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/grmada_bohor/25/3092">Grmada (Bohor) (890m)</a>, <a class="moder" href="/gora/koca_na_bohorju/25/890">Koča na Bohorju (896m)</a>, <a class="moder" href="/gora/koprivnik_bohor/25/889">Koprivnik (Bohor) (984m)</a>, <a class="moder" href="/gora/lovski_dom_bohor/25/3522">Lovski dom Bohor (842m)</a>, <a class="moder" href="/gora/naravno_bohorsko_okno/25/3525">Naravno bohorsko okno (883m)</a>, <a class="moder" href="/gora/petrova_skala_na_bohorju/25/3524">Petrova skala na Bohorju (913m)</a>, <a class="moder" href="/gora/skalica_bohor/25/887">Skalica (Bohor) (951m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,22 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crmosnjice/4124">Črmošnjice</a>, <a class="moder" href="/spletna_kamera/dom_na_mirni_gori/1766">Dom na Mirni gori</a>, <a class="moder" href="/spletna_kamera/gace/999">Gače</a>, <a class="moder" href="/spletna_kamera/kocevje/998">Kočevje</a>, <a class="moder" href="/spletna_kamera/rudnisko_jezero/4234">Rudniško jezero</a>
+<a class="moder" href="/spletna_kamera/bostanj/3586">Boštanj</a>, <a class="moder" href="/spletna_kamera/koca_na_bohorju/3373">Koča na Bohorju</a>, <a class="moder" href="/spletna_kamera/krsko/3271">Krško</a>, <a class="moder" href="/spletna_kamera/leskovec_pri_krskem/1025">Leskovec pri Krškem</a>, <a class="moder" href="/spletna_kamera/lisca/506">Lisca</a>, <a class="moder" href="/spletna_kamera/planina_pri_sevnici/4944">Planina pri Sevnici</a>, <a class="moder" href="/spletna_kamera/poklek_pri_podsredi/4946">Poklek pri Podsredi</a>, <a class="moder" href="/spletna_kamera/senovo/3588">Senovo</a>, <a class="moder" href="/spletna_kamera/sevnica/3589">Sevnica</a>, <a class="moder" href="/spletna_kamera/zegar/4945">Žegar</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_rog%2f25%2f901"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_rog%2f25%2f901"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_rog%2f25%2f901"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_javornik_bohor%2f25%2f888"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_javornik_bohor%2f25%2f888"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_javornik_bohor%2f25%2f888"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/veliki_javornik_bohor/888" title="Veliki Javornik (Bohor) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.JavornikBohor.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/veliki_rog/3724" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rog/3724');"><img class="slikagm" alt="Veliki Rog" src="//www.hribi.net/sliketemp/PB0100484709928.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_javornik_bohor/2888" onclick="event.preventDefault(); window.open('/slika_gora/veliki_javornik_bohor/2888');"><img class="slikagm" alt="Veliki Javornik (Bohor)" src="//www.hribi.net/sliketemp/P40401414404146.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_rog/3725" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rog/3725');"><img class="slikagm" alt="Veliki Rog" src="//www.hribi.net/sliketemp/PB0100574709930.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_javornik_bohor/2889" onclick="event.preventDefault(); window.open('/slika_gora/veliki_javornik_bohor/2889');"><img class="slikagm" alt="Veliki Javornik (Bohor)" src="//www.hribi.net/slike1/P404017330240.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_rog/5077" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rog/5077');"><img class="slikagm" alt="Veliki Rog" src="//www.hribi.net/slike1/Gace 1720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_javornik_bohor/20922" onclick="event.preventDefault(); window.open('/slika_gora/veliki_javornik_bohor/20922');"><img class="slikagm" alt="Veliki Javornik (Bohor)" src="//slike2.hribi.net/slike14/2_0279704446389_0dscn5764.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_javornik_bohor/20923" onclick="event.preventDefault(); window.open('/slika_gora/veliki_javornik_bohor/20923');"><img class="slikagm" alt="Veliki Javornik (Bohor)" src="//slike2.hribi.net/slike14/2_0427704978104_0dscn5768.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_javornik_bohor/20924" onclick="event.preventDefault(); window.open('/slika_gora/veliki_javornik_bohor/20924');"><img class="slikagm" alt="Veliki Javornik (Bohor)" src="//slike2.hribi.net/slike14/2_1225704978104_1dscn5773.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/veliki_javornik_bohor/20931" onclick="event.preventDefault(); window.open('/slika_gora/veliki_javornik_bohor/20931');"><img class="slikagm" alt="Veliki Javornik (Bohor)" src="//slike2.hribi.net/slike14/2_2921705235066_2dscn5848.jpg" /></a>
     
 </div>
 
@@ -914,7 +923,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=901&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=888&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -924,9 +933,21 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/stufna_veliki_rog/25/901/1891">Štufna - Veliki Rog</a></td><td class="tdG"><a href="/izlet/stufna_veliki_rog/25/901/1891"> 50 min</a></td><td class="tdG"><a href="/izlet/stufna_veliki_rog/25/901/1891">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/jablance_veliki_javornik_bohor_cez_koprivnik/25/888/1567">Jablance - Veliki Javornik (Bohor) (čez Koprivnik)</a></td><td class="tdG"><a href="/izlet/jablance_veliki_javornik_bohor_cez_koprivnik/25/888/1567">2 h</a></td><td class="tdG"><a href="/izlet/jablance_veliki_javornik_bohor_cez_koprivnik/25/888/1567">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kocevsko_rudnisko_jezero_veliki_rog_po_medvedovih_stopinjah/25/901/7915">Kočevsko (Rudniško) jezero - Veliki Rog (Po medvedovih stopinjah)</a></td><td class="tdG"><a href="/izlet/kocevsko_rudnisko_jezero_veliki_rog_po_medvedovih_stopinjah/25/901/7915">7 h 30 min</a></td><td class="tdG"><a href="/izlet/kocevsko_rudnisko_jezero_veliki_rog_po_medvedovih_stopinjah/25/901/7915">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/jablance_veliki_javornik_bohor_cez_travni_laz/25/888/1568">Jablance - Veliki Javornik (Bohor) (čez Travni laz)</a></td><td class="tdG"><a href="/izlet/jablance_veliki_javornik_bohor_cez_travni_laz/25/888/1568">1 h 40 min</a></td><td class="tdG"><a href="/izlet/jablance_veliki_javornik_bohor_cez_travni_laz/25/888/1568">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kozje_veliki_javornik_bohor_cez_koprivnik/25/888/4712">Kozje - Veliki Javornik (Bohor) (čez Koprivnik)</a></td><td class="tdG"><a href="/izlet/kozje_veliki_javornik_bohor_cez_koprivnik/25/888/4712">2 h 45 min</a></td><td class="tdG"><a href="/izlet/kozje_veliki_javornik_bohor_cez_koprivnik/25/888/4712">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lesicno_veliki_javornik_bohor/25/888/4651">Lesično - Veliki Javornik (Bohor)</a></td><td class="tdG"><a href="/izlet/lesicno_veliki_javornik_bohor/25/888/4651">3 h 45 min</a></td><td class="tdG"><a href="/izlet/lesicno_veliki_javornik_bohor/25/888/4651">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/stara_zaga_veliki_javornik_bohor_preko_skalice/25/888/8055">Stara Žaga - Veliki Javornik (Bohor) (preko Skalice)</a></td><td class="tdG"><a href="/izlet/stara_zaga_veliki_javornik_bohor_preko_skalice/25/888/8055">2 h 10 min</a></td><td class="tdG"><a href="/izlet/stara_zaga_veliki_javornik_bohor_preko_skalice/25/888/8055">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/jablance_veliki_javornik_bohor_mimo_koce_na_bohorju/25/888/8577">Jablance - Veliki Javornik (Bohor) (mimo Koče na Bohorju)</a></td><td class="tdG"><a href="/izlet/jablance_veliki_javornik_bohor_mimo_koce_na_bohorju/25/888/8577">1 h 50 min</a></td><td class="tdG"><a href="/izlet/jablance_veliki_javornik_bohor_mimo_koce_na_bohorju/25/888/8577">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_pri_sevnici_veliki_javornik_bohor_mimo_lovskega_doma_bohor/25/888/8525">Planina pri Sevnici - Veliki Javornik (Bohor) (mimo Lovskega doma Bohor)</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_veliki_javornik_bohor_mimo_lovskega_doma_bohor/25/888/8525">2 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_veliki_javornik_bohor_mimo_lovskega_doma_bohor/25/888/8525">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_pri_sevnici_veliki_javornik_bohor/25/888/8541">Planina pri Sevnici - Veliki Javornik (Bohor)</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_veliki_javornik_bohor/25/888/8541">2 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_veliki_javornik_bohor/25/888/8541">lahka označena pot</a></td></tr>
 
 </table>
 

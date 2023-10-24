@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Veliki Draški vrh</title>
-        <meta name="description" content="Natančen opis gore Veliki Draški vrh in vseh pristopov na Veliki Draški vrh. Veliki Draški vrh je 2243 m visoka gora, ki se strmo dviga nad dolino Krme. Z vr." />
+        <title>Bivak Gorizia</title>
+        <meta name="description" content="Natančen opis bivaka Bivak Gorizia in vseh pristopov na Bivak Gorizia. Bivak Gorizia se nahaja pod ostenji zahodnih Julijskih Alp, točneje pod Krniško ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./397?gorovjeid=1&amp;id=397" id="form1">
+    <form method="post" action="./1043?gorovjeid=1&amp;id=1043" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_draski_vrh/1/397"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=397"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bivouac_gorizia/1/1043"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1043"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Veliki Draški vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Bivak Gorizia
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(397);
+    gorast(1043);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Veliki Draški vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bivak Gorizia</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2243&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1950&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,6102'N&nbsp;/&nbsp;13°&nbsp;52,5504'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,5426'N&nbsp;/&nbsp;13°&nbsp;31,0776'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;36,61''N&nbsp;/&nbsp;13°&nbsp;52'&nbsp;33,02''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;32,56''N&nbsp;/&nbsp;13°&nbsp;31'&nbsp;4,66''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.36017°N&nbsp;/&nbsp;13.87584°E";
+                        document.getElementById("kf0").innerHTML = "46.42571°N&nbsp;/&nbsp;13.51796°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,36017°N,&nbsp;13,87584°E";
+                    document.getElementById("kf0").innerHTML = "46,42571°N,&nbsp;13,51796°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,36017°N&nbsp;13,87584°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_draski_vrh/397"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,42571°N&nbsp;13,51796°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bivak_gorizia/1043"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> bivak</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak Gorizia - Torek" href="/vreme_gora/bivak_gorizia/1/1043#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak Gorizia - Sreda" href="/vreme_gora/bivak_gorizia/1/1043#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak Gorizia - Četrtek" href="/vreme_gora/bivak_gorizia/1/1043#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Draški vrh - Petek" href="/vreme_gora/veliki_draski_vrh/1/397#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak Gorizia - Petek" href="/vreme_gora/bivak_gorizia/1/1043#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_1_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Draški vrh - Sobota" href="/vreme_gora/veliki_draski_vrh/1/397#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Draški vrh - Nedelja" href="/vreme_gora/veliki_draski_vrh/1/397#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Draški vrh - Ponedeljek" href="/vreme_gora/veliki_draski_vrh/1/397#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Draški vrh - Torek" href="/vreme_gora/veliki_draski_vrh/1/397#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak Gorizia - Sobota" href="/vreme_gora/bivak_gorizia/1/1043#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 631.085</div>
-<div class="g2"><b>Priljubljenost:</b> 97%&nbsp;(114.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">10</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=397" title="Število vpisov v vpisni knjigi">6</a></div>
+<div class="g2"><b>Ogledov:</b> 295.287</div>
+<div class="g2"><b>Priljubljenost:</b> 69%&nbsp;(1022.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1043" title="Število vpisov v vpisni knjigi">3</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki Draški vrh je 2243 m visoka gora, ki se strmo dviga nad dolino Krme. Z vrha, na katerem je vpisna skrinjica in žig, se nam odpre lep razgled na najvišje vrhove Julijskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis bivaka:</b><br />Bivak Gorizia se nahaja pod ostenji zahodnih Julijskih Alp, točneje pod Krniško špico. Ker je bil bivak pogosto polno zaseden so v neposredni bližini postavili še enega, ki služi enakemu namenu. Zaradi bližnjih sten se nam odpre pogled le proti vzhodu, kjer nam v oči padeta Mangart in Jalovec.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=397&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1043&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/ablanca/1/461">Ablanca (2004m)</a>, <a class="moder" href="/gora/cesar/1/610">Cesar (2098m)</a>, <a class="moder" href="/gora/draski_rob/1/1788">Draški rob (1979m)</a>, <a class="moder" href="/gora/mali_draski_vrh/1/256">Mali Draški vrh (2132m)</a>, <a class="moder" href="/gora/planina_zgornja_krma/1/253">Planina Zgornja Krma (1720m)</a>, <a class="moder" href="/gora/studorski_preval/1/138">Studorski preval (1892m)</a>, <a class="moder" href="/gora/tosc/1/83">Tosc (2275m)</a>, <a class="moder" href="/gora/velo_polje/1/99">Velo polje (1680m)</a>, <a class="moder" href="/gora/vernar/1/1388">Vernar (2225m)</a>, <a class="moder" href="/gora/visevnik/1/77">Viševnik (2050m)</a>, <a class="moder" href="/gora/vodnikov_dom_na_velem_polju/1/139">Vodnikov dom na Velem polju (1817m)</a>
+<a class="moder" href="/gora/rifugio_brunner/1/3111">Rifugio Brunner (1432m)</a>, <a class="moder" href="/gora/rifugio_corsi/1/1042">Rifugio Corsi (1874m)</a>, <a class="moder" href="/gora/rifugio_pellarini/1/1530">Rifugio Pellarini (1499m)</a>, <a class="moder" href="/gora/viska_planina/1/1283">Viška planina (1530m)</a>, <a class="moder" href="/gora/visoka_bela_spica___cima_alta_di_riobianco/1/2820">Visoka Bela Špica / Cima Alta di Riobianco (2257m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,47 +835,33 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
+<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kanin/3">Kanin</a>, <a class="moder" href="/spletna_kamera/kanin_graben/4412">Kanin (Graben)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/montaz___jof_di_montasio/22">Montaž / Jôf di Montasio</a>, <a class="moder" href="/spletna_kamera/nevejski_preval_-_na_zlebeh___sella_nevea/1977">Nevejski preval - Na Žlebeh / Sella Nevea</a>, <a class="moder" href="/spletna_kamera/ovcja_vas___valbruna/1364">Ovčja vas / Valbruna</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/prevala/1361">Prevala</a>, <a class="moder" href="/spletna_kamera/rifugio_gilberti/4020">Rifugio Gilberti</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/veliki_babanski_skedenj/1464">Veliki Babanski skedenj</a>, <a class="moder" href="/spletna_kamera/zabnice___camporosso_in_valcanale/1975">Žabnice / Camporosso in Valcanale</a>, <a class="moder" href="/spletna_kamera/zahomec___monte_acomizza___schonwipfel/1840">Zahomec / Monte Acomizza / Schönwipfel</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_draski_vrh%2f1%2f397"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_draski_vrh%2f1%2f397"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_draski_vrh%2f1%2f397"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_gorizia%2f1%2f1043"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_gorizia%2f1%2f1043"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_gorizia%2f1%2f1043"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/veliki_draski_vrh/397" title="Veliki Draški vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VDraskiVrh.jpg" /></a></div>
+<div><a href="/panorama/360/bivak_gorizia/1043" title="Bivak Gorizia 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.BivakGorizia.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/veliki_draski_vrh/480" onclick="event.preventDefault(); window.open('/slika_gora/veliki_draski_vrh/480');"><img class="slikagm" alt="Veliki Draški vrh" src="//www.hribi.net/Gora/p7050255medium7qf.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bivak_gorizia/3342" onclick="event.preventDefault(); window.open('/slika_gora/bivak_gorizia/3342');"><img class="slikagm" alt="Bivak Gorizia" src="//www.hribi.net/sliketemp/P7160354Medium4553269.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_draski_vrh/669" onclick="event.preventDefault(); window.open('/slika_gora/veliki_draski_vrh/669');"><img class="slikagm" alt="Veliki Draški vrh" src="//www.hribi.net/Gora/p8090031mediumer8.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bivak_gorizia/3353" onclick="event.preventDefault(); window.open('/slika_gora/bivak_gorizia/3353');"><img class="slikagm" alt="Bivak Gorizia" src="//www.hribi.net/slike1/P7160352776160.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_draski_vrh/1021" onclick="event.preventDefault(); window.open('/slika_gora/veliki_draski_vrh/1021');"><img class="slikagm" alt="Veliki Draški vrh" src="//www.hribi.net/Gora/p9240053mediumpi2.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bivak_gorizia/3354" onclick="event.preventDefault(); window.open('/slika_gora/bivak_gorizia/3354');"><img class="slikagm" alt="Bivak Gorizia" src="//www.hribi.net/slike1/P7160327776160.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_draski_vrh/1022" onclick="event.preventDefault(); window.open('/slika_gora/veliki_draski_vrh/1022');"><img class="slikagm" alt="Veliki Draški vrh" src="//www.hribi.net/Gora/p9240052mediumnu2.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/veliki_draski_vrh/1045" onclick="event.preventDefault(); window.open('/slika_gora/veliki_draski_vrh/1045');"><img class="slikagm" alt="Veliki Draški vrh" src="//www.hribi.net/Gora/p9240142mediumct0.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/veliki_draski_vrh/1046" onclick="event.preventDefault(); window.open('/slika_gora/veliki_draski_vrh/1046');"><img class="slikagm" alt="Veliki Draški vrh" src="//www.hribi.net/Gora/p9240162mediumjd4.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/veliki_draski_vrh/3200" onclick="event.preventDefault(); window.open('/slika_gora/veliki_draski_vrh/3200');"><img class="slikagm" alt="Veliki Draški vrh" src="//www.hribi.net/slike1/P6250104506880.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/veliki_draski_vrh/4968" onclick="event.preventDefault(); window.open('/slika_gora/veliki_draski_vrh/4968');"><img class="slikagm" alt="Veliki Draški vrh" src="//www.hribi.net/slike1/Vernar 10812600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/veliki_draski_vrh/4980" onclick="event.preventDefault(); window.open('/slika_gora/veliki_draski_vrh/4980');"><img class="slikagm" alt="Veliki Draški vrh" src="//www.hribi.net/slike1/P930004573080.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/veliki_draski_vrh/4981" onclick="event.preventDefault(); window.open('/slika_gora/veliki_draski_vrh/4981');"><img class="slikagm" alt="Veliki Draški vrh" src="//www.hribi.net/slike1/P930002873080.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bivak_gorizia/3355" onclick="event.preventDefault(); window.open('/slika_gora/bivak_gorizia/3355');"><img class="slikagm" alt="Bivak Gorizia" src="//www.hribi.net/slike1/P7160350776160.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Letenje z gora/veliki_draski_vrh/8/249"><img class="slikagmv" alt="Veliki Draški vrh" src="https://img.youtube.com/vi/ZK7ywbQ1oJE/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -933,7 +919,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=397&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1043&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -943,25 +929,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/konec_ceste_na_pokljuki_veliki_draski_vrh/1/397/546">Konec ceste na Pokljuki - Veliki Draški vrh</a></td><td class="tdG"><a href="/izlet/konec_ceste_na_pokljuki_veliki_draski_vrh/1/397/546">3 h</a></td><td class="tdG"><a href="/izlet/konec_ceste_na_pokljuki_veliki_draski_vrh/1/397/546">delno zahtevna neoznačena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rudno_polje_veliki_draski_vrh_cez_kacji_rob/1/397/3266">Rudno polje - Veliki Draški vrh (čez Kačji rob)</a></td><td class="tdG"><a href="/izlet/rudno_polje_veliki_draski_vrh_cez_kacji_rob/1/397/3266">3 h 30 min</a></td><td class="tdG"><a href="/izlet/rudno_polje_veliki_draski_vrh_cez_kacji_rob/1/397/3266">zahtevna označena pot, delno zahtevna neoznačena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rudno_polje_veliki_draski_vrh_cez_jezerce_in_studorski_preval/1/397/5069">Rudno polje - Veliki Draški vrh (čez Jezerce in Studorski preval)</a></td><td class="tdG"><a href="/izlet/rudno_polje_veliki_draski_vrh_cez_jezerce_in_studorski_preval/1/397/5069">3 h 20 min</a></td><td class="tdG"><a href="/izlet/rudno_polje_veliki_draski_vrh_cez_jezerce_in_studorski_preval/1/397/5069">delno zahtevna neoznačena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/uskovnica_razpotje_veliki_draski_vrh_cez_planino_spodnji_tosc/1/397/805">Uskovnica (Razpotje) - Veliki Draški vrh (čez planino Spodnji Tosc)</a></td><td class="tdG"><a href="/izlet/uskovnica_razpotje_veliki_draski_vrh_cez_planino_spodnji_tosc/1/397/805">4 h 15 min</a></td><td class="tdG"><a href="/izlet/uskovnica_razpotje_veliki_draski_vrh_cez_planino_spodnji_tosc/1/397/805">zahtevna označena pot, delno zahtevna neoznačena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/konec_ceste_na_pokljuki__veliki_draski_vrh_pot_cez_severni_raz/1/397/2827">Konec ceste na Pokljuki  - Veliki Draški vrh (pot čez severni raz)</a></td><td class="tdG"><a href="/izlet/konec_ceste_na_pokljuki__veliki_draski_vrh_pot_cez_severni_raz/1/397/2827">3 h 15 min</a></td><td class="tdG"><a href="/izlet/konec_ceste_na_pokljuki__veliki_draski_vrh_pot_cez_severni_raz/1/397/2827">zahtevno brezpotje</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/uskovnica_razpotje_veliki_draski_vrh_cez_jezerce_in_studorski_preval/1/397/5616">Uskovnica (Razpotje) - Veliki Draški vrh (čez Jezerce in Studorski preval)</a></td><td class="tdG"><a href="/izlet/uskovnica_razpotje_veliki_draski_vrh_cez_jezerce_in_studorski_preval/1/397/5616">3 h 35 min</a></td><td class="tdG"><a href="/izlet/uskovnica_razpotje_veliki_draski_vrh_cez_jezerce_in_studorski_preval/1/397/5616">delno zahtevna neoznačena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/uskovnica_lom_veliki_draski_vrh_cez_jezerce_in_studorski_preval/1/397/5617">Uskovnica (Lom) - Veliki Draški vrh (čez Jezerce in Studorski preval)</a></td><td class="tdG"><a href="/izlet/uskovnica_lom_veliki_draski_vrh_cez_jezerce_in_studorski_preval/1/397/5617">3 h 55 min</a></td><td class="tdG"><a href="/izlet/uskovnica_lom_veliki_draski_vrh_cez_jezerce_in_studorski_preval/1/397/5617">delno zahtevna neoznačena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/uskovnica_lom_veliki_draski_vrh_cez_planino_spodnji_tosc/1/397/5618">Uskovnica (Lom) - Veliki Draški vrh (čez planino Spodnji Tosc)</a></td><td class="tdG"><a href="/izlet/uskovnica_lom_veliki_draski_vrh_cez_planino_spodnji_tosc/1/397/5618">4 h 15 min</a></td><td class="tdG"><a href="/izlet/uskovnica_lom_veliki_draski_vrh_cez_planino_spodnji_tosc/1/397/5618">zahtevna označena pot, delno zahtevna neoznačena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/srednja_vas_veliki_draski_vrh_za_ribnico_in_cez_planino_spodnji_tosc/1/397/5619">Srednja vas - Veliki Draški vrh (Za Ribnico in čez planino Spodnji Tosc)</a></td><td class="tdG"><a href="/izlet/srednja_vas_veliki_draski_vrh_za_ribnico_in_cez_planino_spodnji_tosc/1/397/5619">5 h 40 min</a></td><td class="tdG"><a href="/izlet/srednja_vas_veliki_draski_vrh_za_ribnico_in_cez_planino_spodnji_tosc/1/397/5619">zahtevna označena pot, delno zahtevna neoznačena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/srednja_vas_veliki_draski_vrh_za_ribnico_cez_jezerce_in_studorski_preval/1/397/5620">Srednja vas - Veliki Draški vrh (Za Ribnico, čez Jezerce in Studorski preval)</a></td><td class="tdG"><a href="/izlet/srednja_vas_veliki_draski_vrh_za_ribnico_cez_jezerce_in_studorski_preval/1/397/5620">5 h 20 min</a></td><td class="tdG"><a href="/izlet/srednja_vas_veliki_draski_vrh_za_ribnico_cez_jezerce_in_studorski_preval/1/397/5620">delno zahtevna neoznačena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/bele_vode_bivak_gorizia/1/1043/1739">Bele vode - Bivak Gorizia</a></td><td class="tdG"><a href="/izlet/bele_vode_bivak_gorizia/1/1043/1739">2 h 30 min</a></td><td class="tdG"><a href="/izlet/bele_vode_bivak_gorizia/1/1043/1739">lahka označena pot</a></td></tr>
 
 </table>
 

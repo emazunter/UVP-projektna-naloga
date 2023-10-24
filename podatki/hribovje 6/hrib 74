@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Florijan (Tehovec)</title>
-        <meta name="description" content="Natančen opis gore Sveti Florijan (Tehovec) in vseh pristopov na Sveti Florijan (Tehovec). Cerkev sv. Florijana je podružnična cerkev, ki se nahaja v vasi Tehovec nad Medv." />
+        <title>Mengeška koča na Gobavici</title>
+        <meta name="description" content="Natančen opis gore Mengeška koča na Gobavici in vseh pristopov na Mengeška koča na Gobavici. Gobavica je grič, ki se dviga nad Mengšem. Na njem stoji Mengeška koča, imajo pa." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1611?gorovjeid=5&amp;id=1611" id="form1">
+    <form method="post" action="./1785?gorovjeid=5&amp;id=1785" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_florijan_tehovec/5/1611"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=5&id=1611"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mengeska_koca_on_gobavica/5/1785"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=5&id=1785"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a> / Sveti Florijan (Tehovec)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a> / Mengeška koča na Gobavici
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1611);
+    gorast(1785);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Florijan (Tehovec)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Mengeška koča na Gobavici</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a></div>
-    <div class="g2"><b>Višina:</b> 685&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 433&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;6,8160'N&nbsp;/&nbsp;14°&nbsp;21,960'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;9,9414'N&nbsp;/&nbsp;14°&nbsp;33,6834'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;6'&nbsp;48,96''N&nbsp;/&nbsp;14°&nbsp;21'&nbsp;57,60''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;9'&nbsp;56,48''N&nbsp;/&nbsp;14°&nbsp;33'&nbsp;41,00''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.1136°N&nbsp;/&nbsp;14.366°E";
+                        document.getElementById("kf0").innerHTML = "46.16569°N&nbsp;/&nbsp;14.56139°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,1136°N,&nbsp;14,366°E";
+                    document.getElementById("kf0").innerHTML = "46,16569°N,&nbsp;14,56139°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1136°N&nbsp;14,366°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_florijan_tehovec/1611"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,16569°N&nbsp;14,56139°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mengeska_koca_na_gobavici/1785"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh, koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Mengeška koča na Gobavici - Torek" href="/vreme_gora/mengeska_koca_na_gobavici/5/1785#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Mengeška koča na Gobavici - Sreda" href="/vreme_gora/mengeska_koca_na_gobavici/5/1785#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Mengeška koča na Gobavici - Četrtek" href="/vreme_gora/mengeska_koca_na_gobavici/5/1785#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Florijan (Tehovec) - Petek" href="/vreme_gora/sveti_florijan_tehovec/5/1611#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mengeška koča na Gobavici - Petek" href="/vreme_gora/mengeska_koca_na_gobavici/5/1785#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Florijan (Tehovec) - Sobota" href="/vreme_gora/sveti_florijan_tehovec/5/1611#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Florijan (Tehovec) - Nedelja" href="/vreme_gora/sveti_florijan_tehovec/5/1611#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Florijan (Tehovec) - Ponedeljek" href="/vreme_gora/sveti_florijan_tehovec/5/1611#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Florijan (Tehovec) - Torek" href="/vreme_gora/sveti_florijan_tehovec/5/1611#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mengeška koča na Gobavici - Sobota" href="/vreme_gora/mengeska_koca_na_gobavici/5/1785#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 262.198</div>
-<div class="g2"><b>Priljubljenost:</b> 65%&nbsp;(1149.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 437.120</div>
+<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(520.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1611" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1785" title="Število vpisov v vpisni knjigi">4</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev sv. Florijana je podružnična cerkev, ki se nahaja v vasi Tehovec nad Medvodami. Od cerkve, ki je prvič omenjena leta 1548, se nam odpre lep razgled na Polhograjsko Grmado, Tošč, Gontarsko planino in Osolnik.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Gobavica je grič, ki se dviga nad Mengšem. Na njem stoji Mengeška koča, imajo pa tudi stajo s kozami. Je eno od izhodišč za izlet na Rašico. Z jase malo pred vrhom, kjer stoji kapelica je tudi lep razgled na Kamniške Alpe s Kamniškim sedlom.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1611&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1785&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dom_na_govejku/5/118">Dom na Govejku (734m)</a>, <a class="moder" href="/gora/dominov_dom/5/596">Dominov dom (670m)</a>, <a class="moder" href="/gora/rog/5/1110">Rog (798m)</a>, <a class="moder" href="/gora/sveti_jakob/5/119">Sveti Jakob (806m)</a>
+<a class="moder" href="/gora/debeli_vrh_nad_topolami/5/2781">Debeli vrh (nad Topolami) (446m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,30 +835,32 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica/318">Brezovica</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/golovec_astronomski_observatorij_fmf/4305">Golovec (Astronomski observatorij FMF)</a>, <a class="moder" href="/spletna_kamera/katarina_nad_ljubljano/314">Katarina nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/ljubljana_cankarjevo_nabrezje/2154">Ljubljana (Cankarjevo nabrežje)</a>, <a class="moder" href="/spletna_kamera/ljubljana_kongresni_trg/297">Ljubljana (Kongresni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_mestni_trg/2149">Ljubljana (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_ukc_ljubljana/3385">Ljubljana (UKC Ljubljana)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/ljubljana_bezigrad/1708">Ljubljana Bežigrad</a>, <a class="moder" href="/spletna_kamera/ljubljana_brdo/465">Ljubljana Brdo</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_kozarje/467">Ljubljana Kozarje</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/ljubljana_tomacevo/479">Ljubljana Tomačevo</a>, <a class="moder" href="/spletna_kamera/ljubljanski_grad/179">Ljubljanski grad</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/medvode/184">Medvode</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/rasica_nad_ljubljano/2418">Rašica nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zbiljsko_jezero/2165">Zbiljsko jezero</a>
+<a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/domzale/1008">Domžale</a>, <a class="moder" href="/spletna_kamera/golovec_astronomski_observatorij_fmf/4305">Golovec (Astronomski observatorij FMF)</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/krtina/3453">Krtina</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ljubljana_cankarjevo_nabrezje/2154">Ljubljana (Cankarjevo nabrežje)</a>, <a class="moder" href="/spletna_kamera/ljubljana_mestni_trg/2149">Ljubljana (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_ukc_ljubljana/3385">Ljubljana (UKC Ljubljana)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_bezigrad/1708">Ljubljana Bežigrad</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_nove_jarse/480">Ljubljana Nove Jarše</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/ljubljana_tomacevo/479">Ljubljana Tomačevo</a>, <a class="moder" href="/spletna_kamera/ljubljana_zadobrova/459">Ljubljana Zadobrova</a>, <a class="moder" href="/spletna_kamera/ljubljanski_grad/179">Ljubljanski grad</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/medvode/184">Medvode</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rasica_nad_ljubljano/2418">Rašica nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/sentjakob/354">Šentjakob</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zbiljsko_jezero/2165">Zbiljsko jezero</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_florijan_tehovec%2f5%2f1611"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_florijan_tehovec%2f5%2f1611"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_florijan_tehovec%2f5%2f1611"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmengeska_koca_na_gobavici%2f5%2f1785"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmengeska_koca_na_gobavici%2f5%2f1785"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmengeska_koca_na_gobavici%2f5%2f1785"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_florijan_tehovec/6737" onclick="event.preventDefault(); window.open('/slika_gora/sveti_florijan_tehovec/6737');"><img class="slikagm" alt="Sveti Florijan (Tehovec)" src="//www.hribi.net/slike1/SvetiJakob 0891156680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mengeska_koca_na_gobavici/8031" onclick="event.preventDefault(); window.open('/slika_gora/mengeska_koca_na_gobavici/8031');"><img class="slikagm" alt="Mengeška koča na Gobavici" src="//www.hribi.net/sliketemp/IMG_00086073651.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_florijan_tehovec/6738" onclick="event.preventDefault(); window.open('/slika_gora/sveti_florijan_tehovec/6738');"><img class="slikagm" alt="Sveti Florijan (Tehovec)" src="//www.hribi.net/slike1/SvetiJakob 0901156680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mengeska_koca_na_gobavici/8032" onclick="event.preventDefault(); window.open('/slika_gora/mengeska_koca_na_gobavici/8032');"><img class="slikagm" alt="Mengeška koča na Gobavici" src="//www.hribi.net/sliketemp/IMG_00186073652.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_florijan_tehovec/6739" onclick="event.preventDefault(); window.open('/slika_gora/sveti_florijan_tehovec/6739');"><img class="slikagm" alt="Sveti Florijan (Tehovec)" src="//www.hribi.net/slike1/SvetiJakob 1301156680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mengeska_koca_na_gobavici/8033" onclick="event.preventDefault(); window.open('/slika_gora/mengeska_koca_na_gobavici/8033');"><img class="slikagm" alt="Mengeška koča na Gobavici" src="//www.hribi.net/sliketemp/IMG_00196073653.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_florijan_tehovec/6740" onclick="event.preventDefault(); window.open('/slika_gora/sveti_florijan_tehovec/6740');"><img class="slikagm" alt="Sveti Florijan (Tehovec)" src="//www.hribi.net/slike1/SvetiJakob 0851122660.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mengeska_koca_na_gobavici/9659" onclick="event.preventDefault(); window.open('/slika_gora/mengeska_koca_na_gobavici/9659');"><img class="slikagm" alt="Mengeška koča na Gobavici" src="//www.hribi.net/slike1/Gobavica 026265200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_florijan_tehovec/6741" onclick="event.preventDefault(); window.open('/slika_gora/sveti_florijan_tehovec/6741');"><img class="slikagm" alt="Sveti Florijan (Tehovec)" src="//www.hribi.net/slike1/SvetiJakob 0871156680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mengeska_koca_na_gobavici/9660" onclick="event.preventDefault(); window.open('/slika_gora/mengeska_koca_na_gobavici/9660');"><img class="slikagm" alt="Mengeška koča na Gobavici" src="//www.hribi.net/slike1/Gobavica 027265200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_florijan_tehovec/6742" onclick="event.preventDefault(); window.open('/slika_gora/sveti_florijan_tehovec/6742');"><img class="slikagm" alt="Sveti Florijan (Tehovec)" src="//www.hribi.net/slike1/SvetiJakob 0781122660.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mengeska_koca_na_gobavici/15943" onclick="event.preventDefault(); window.open('/slika_gora/mengeska_koca_na_gobavici/15943');"><img class="slikagm" alt="Mengeška koča na Gobavici" src="//slike.hribi.net/slike4/2_0665556015551_DSCN1280.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_florijan_tehovec/6743" onclick="event.preventDefault(); window.open('/slika_gora/sveti_florijan_tehovec/6743');"><img class="slikagm" alt="Sveti Florijan (Tehovec)" src="//www.hribi.net/slike1/SvetiJakob 1331156680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mengeska_koca_na_gobavici/15944" onclick="event.preventDefault(); window.open('/slika_gora/mengeska_koca_na_gobavici/15944');"><img class="slikagm" alt="Mengeška koča na Gobavici" src="//slike.hribi.net/slike4/2_1893556015554_DSCN1285.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/mengeska_koca_na_gobavici/15945" onclick="event.preventDefault(); window.open('/slika_gora/mengeska_koca_na_gobavici/15945');"><img class="slikagm" alt="Mengeška koča na Gobavici" src="//slike.hribi.net/slike4/2_0610556015603_DSCN1295.JPG" /></a>
     
 </div>
 
@@ -922,7 +924,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1611&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1785&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -932,13 +934,19 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/preska_sveti_florijan_tehovec/5/1611/2830">Preska - Sveti Florijan (Tehovec)</a></td><td class="tdG"><a href="/izlet/preska_sveti_florijan_tehovec/5/1611/2830">1 h 15 min</a></td><td class="tdG"><a href="/izlet/preska_sveti_florijan_tehovec/5/1611/2830">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/menges_mengeska_koca_na_gobavici_po_trim_stezi/5/1785/3834">Mengeš - Mengeška koča na Gobavici (po trim stezi)</a></td><td class="tdG"><a href="/izlet/menges_mengeska_koca_na_gobavici_po_trim_stezi/5/1785/3834"> 30 min</a></td><td class="tdG"><a href="/izlet/menges_mengeska_koca_na_gobavici_po_trim_stezi/5/1785/3834">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sora_sveti_florijan_tehovec/5/1611/2832">Sora - Sveti Florijan (Tehovec)</a></td><td class="tdG"><a href="/izlet/sora_sveti_florijan_tehovec/5/1611/2832">1 h 15 min</a></td><td class="tdG"><a href="/izlet/sora_sveti_florijan_tehovec/5/1611/2832">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/menges_mengeska_koca_na_gobavici/5/1785/3295">Mengeš - Mengeška koča na Gobavici</a></td><td class="tdG"><a href="/izlet/menges_mengeska_koca_na_gobavici/5/1785/3295"> 20 min</a></td><td class="tdG"><a href="/izlet/menges_mengeska_koca_na_gobavici/5/1785/3295">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/legastja_sveti_florijan_tehovec/5/1611/4521">Legastja - Sveti Florijan (Tehovec)</a></td><td class="tdG"><a href="/izlet/legastja_sveti_florijan_tehovec/5/1611/4521"> 50 min</a></td><td class="tdG"><a href="/izlet/legastja_sveti_florijan_tehovec/5/1611/4521">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/phliski_bajer_mengeska_koca_na_gobavici_grebenska_pot/5/1785/3835">Phliški bajer - Mengeška koča na Gobavici (grebenska pot)</a></td><td class="tdG"><a href="/izlet/phliski_bajer_mengeska_koca_na_gobavici_grebenska_pot/5/1785/3835">1 h 10 min</a></td><td class="tdG"><a href="/izlet/phliski_bajer_mengeska_koca_na_gobavici_grebenska_pot/5/1785/3835">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rakovnik_sveti_florijan_tehovec_cez_breznik/5/1611/7831">Rakovnik - Sveti Florijan (Tehovec) (čez Breznik)</a></td><td class="tdG"><a href="/izlet/rakovnik_sveti_florijan_tehovec_cez_breznik/5/1611/7831">1 h 20 min</a></td><td class="tdG"><a href="/izlet/rakovnik_sveti_florijan_tehovec_cez_breznik/5/1611/7831">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/phliski_bajer_mengeska_koca_na_gobavici_spodnja_pot/5/1785/6465">Phliški bajer - Mengeška koča na Gobavici (spodnja pot)</a></td><td class="tdG"><a href="/izlet/phliski_bajer_mengeska_koca_na_gobavici_spodnja_pot/5/1785/6465">1 h</a></td><td class="tdG"><a href="/izlet/phliski_bajer_mengeska_koca_na_gobavici_spodnja_pot/5/1785/6465">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grad_jablje_mengeska_koca_na_gobavici_grebenska_pot/5/1785/6829">Grad Jablje - Mengeška koča na Gobavici (grebenska pot)</a></td><td class="tdG"><a href="/izlet/grad_jablje_mengeska_koca_na_gobavici_grebenska_pot/5/1785/6829">2 h 5 min</a></td><td class="tdG"><a href="/izlet/grad_jablje_mengeska_koca_na_gobavici_grebenska_pot/5/1785/6829">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/topole_mengeska_koca_na_gobavici/5/1785/6626">Topole - Mengeška koča na Gobavici</a></td><td class="tdG"><a href="/izlet/topole_mengeska_koca_na_gobavici/5/1785/6626"> 45 min</a></td><td class="tdG"><a href="/izlet/topole_mengeska_koca_na_gobavici/5/1785/6626">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grad_jablje_mengeska_koca_na_gobavici_spodnja_pot/5/1785/6830">Grad Jablje - Mengeška koča na Gobavici (spodnja pot)</a></td><td class="tdG"><a href="/izlet/grad_jablje_mengeska_koca_na_gobavici_spodnja_pot/5/1785/6830">1 h 55 min</a></td><td class="tdG"><a href="/izlet/grad_jablje_mengeska_koca_na_gobavici_spodnja_pot/5/1785/6830">lahka označena pot</a></td></tr>
 
 </table>
 

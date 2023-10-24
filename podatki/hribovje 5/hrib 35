@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Grmovškov dom pod Veliko Kopo</title>
-        <meta name="description" content="Natančen opis koče Grmovškov dom pod Veliko Kopo in vseh pristopov na Grmovškov dom pod Veliko Kopo. Grmovškov dom pod Veliko Kopo se nahaja pod sedlom Pungart, le to pa med Veliko ." />
+        <title>Kremžarjev vrh</title>
+        <meta name="description" content="Natančen opis gore Kremžarjev vrh in vseh pristopov na Kremžarjev vrh. Kremžarjev vrh je najbolj zahodni tisočak na Pohorju. Nahaja se severovzhodno od." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./520?gorovjeid=4&amp;id=520" id="form1">
+    <form method="post" action="./753?gorovjeid=4&amp;id=753" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/grmovskov_dom_pod_veliko_kopo/4/520"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=520"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kremzarjev_vrh/4/753"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=753"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Grmovškov dom pod Veliko Kopo
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Kremžarjev vrh
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(520);
+    gorast(753);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Grmovškov dom pod Veliko Kopo</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kremžarjev vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 1371&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1164&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,1632'N&nbsp;/&nbsp;15°&nbsp;12,6204'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;31,7790'N&nbsp;/&nbsp;15°&nbsp;8,0496'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;9,79''N&nbsp;/&nbsp;15°&nbsp;12'&nbsp;37,22''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;31'&nbsp;46,74''N&nbsp;/&nbsp;15°&nbsp;8'&nbsp;2,98''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.50272°N&nbsp;/&nbsp;15.21034°E";
+                        document.getElementById("kf0").innerHTML = "46.52965°N&nbsp;/&nbsp;15.13416°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,50272°N,&nbsp;15,21034°E";
+                    document.getElementById("kf0").innerHTML = "46,52965°N,&nbsp;15,13416°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,50272°N&nbsp;15,21034°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/grmovskov_dom_pod_veliko_kopo/520"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,52965°N&nbsp;15,13416°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kremzarjev_vrh/753"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, sedlo</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kremžarjev vrh - Torek" href="/vreme_gora/kremzarjev_vrh/4/753#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kremžarjev vrh - Sreda" href="/vreme_gora/kremzarjev_vrh/4/753#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kremžarjev vrh - Četrtek" href="/vreme_gora/kremzarjev_vrh/4/753#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Grmovškov dom pod Veliko Kopo - Petek" href="/vreme_gora/grmovskov_dom_pod_veliko_kopo/4/520#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kremžarjev vrh - Petek" href="/vreme_gora/kremzarjev_vrh/4/753#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Grmovškov dom pod Veliko Kopo - Sobota" href="/vreme_gora/grmovskov_dom_pod_veliko_kopo/4/520#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Grmovškov dom pod Veliko Kopo - Nedelja" href="/vreme_gora/grmovskov_dom_pod_veliko_kopo/4/520#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Grmovškov dom pod Veliko Kopo - Ponedeljek" href="/vreme_gora/grmovskov_dom_pod_veliko_kopo/4/520#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Grmovškov dom pod Veliko Kopo - Torek" href="/vreme_gora/grmovskov_dom_pod_veliko_kopo/4/520#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kremžarjev vrh - Sobota" href="/vreme_gora/kremzarjev_vrh/4/753#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 494.442</div>
-<div class="g2"><b>Priljubljenost:</b> 90%&nbsp;(335.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=520" title="Število vpisov v vpisni knjigi">5</a></div>
+<div class="g2"><b>Ogledov:</b> 493.315</div>
+<div class="g2"><b>Priljubljenost:</b> 90%&nbsp;(343.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=753" title="Število vpisov v vpisni knjigi">7</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Grmovškov dom pod Veliko Kopo se nahaja pod sedlom Pungart, le to pa med Veliko Kopo (1542 m) in manj izrazitim vrhom Otiše (1416 m). Grmovškov dom pod Veliko Kopo je tudi točka SPP, od doma pa se nam odpre nekaj razgleda po bližnji okolici.<br> <br> Grmovškov dom je zaradi obnove zaprt (oktober 2022), za goste ostaja odprt Lukov dom Kope, kjer nudijo ugodnosti s Planinsko kartico in kjer se nahaja tudi žig SPP.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Kremžarjev vrh je najbolj zahodni tisočak na Pohorju. Nahaja se severovzhodno od Slovenj Gradca. Z vrha, ki ima vpisno skrinjico in termometer zaradi gozda ni razgleda.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=520&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=753&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/velika_kopa/4/521">Velika Kopa (1542m)</a>
+<a class="moder" href="/gora/koca_pod_kremzarjevim_vrhom/4/754">Koča pod Kremžarjevim vrhom (1102m)</a>, <a class="moder" href="/gora/lovski_dom_ld_gradisce/4/3096">Lovski dom LD Gradišče (880m)</a>, <a class="moder" href="/gora/sveta_barbara_nad_slovenj_gradcem/4/755">Sveta Barbara nad Slovenj Gradcem (829m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,25 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/koca_pod_kremzarjevim_vrhom/2192">Koča pod Kremžarjevim vrhom</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/radlje_ob_dravi/4445">Radlje ob Dravi</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/slovenj_gradec/1600">Slovenj Gradec</a>, <a class="moder" href="/spletna_kamera/smartno_pri_slovenj_gradcu/2963">Šmartno pri Slovenj Gradcu</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>
+<a class="moder" href="/spletna_kamera/bukovnik/527">Bukovnik</a>, <a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/koca_pod_kremzarjevim_vrhom/2192">Koča pod Kremžarjevim vrhom</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/radeljski_prelaz/2202">Radeljski prelaz</a>, <a class="moder" href="/spletna_kamera/radlje_ob_dravi/4445">Radlje ob Dravi</a>, <a class="moder" href="/spletna_kamera/ravne_na_koroskem/1462">Ravne na Koroškem</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/slovenj_gradec/1600">Slovenj Gradec</a>, <a class="moder" href="/spletna_kamera/smartno_pri_slovenj_gradcu/2963">Šmartno pri Slovenj Gradcu</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgrmovskov_dom_pod_veliko_kopo%2f4%2f520"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrmovskov_dom_pod_veliko_kopo%2f4%2f520"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrmovskov_dom_pod_veliko_kopo%2f4%2f520"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkremzarjev_vrh%2f4%2f753"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkremzarjev_vrh%2f4%2f753"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkremzarjev_vrh%2f4%2f753"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/grmovskov_dom_pod_veliko_kopo/520" title="Grmovškov dom pod Veliko Kopo 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.grmovskovdom.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/grmovskov_dom_pod_veliko_kopo/1459" onclick="event.preventDefault(); window.open('/slika_gora/grmovskov_dom_pod_veliko_kopo/1459');"><img class="slikagm" alt="Grmovškov dom pod Veliko Kopo" src="//www.hribi.net/slike1/P116024414700.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kremzarjev_vrh/2540" onclick="event.preventDefault(); window.open('/slika_gora/kremzarjev_vrh/2540');"><img class="slikagm" alt="Kremžarjev vrh" src="//www.hribi.net/slike1/PB210081284592.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/grmovskov_dom_pod_veliko_kopo/1460" onclick="event.preventDefault(); window.open('/slika_gora/grmovskov_dom_pod_veliko_kopo/1460');"><img class="slikagm" alt="Grmovškov dom pod Veliko Kopo" src="//www.hribi.net/slike1/P116026112600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kremzarjev_vrh/18336" onclick="event.preventDefault(); window.open('/slika_gora/kremzarjev_vrh/18336');"><img class="slikagm" alt="Kremžarjev vrh" src="//slike.hribi.net/slike4/2_0597614940771_DSCN4786.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/grmovskov_dom_pod_veliko_kopo/7568" onclick="event.preventDefault(); window.open('/slika_gora/grmovskov_dom_pod_veliko_kopo/7568');"><img class="slikagm" alt="Grmovškov dom pod Veliko Kopo" src="//www.hribi.net/slike1/VelikaKopa 110264000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kremzarjev_vrh/18337" onclick="event.preventDefault(); window.open('/slika_gora/kremzarjev_vrh/18337');"><img class="slikagm" alt="Kremžarjev vrh" src="//slike.hribi.net/slike4/2_1930614940773_DSCN4789.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/kremzarjev_vrh/22204" onclick="event.preventDefault(); window.open('/slika_gora/kremzarjev_vrh/22204');"><img class="slikagm" alt="Kremžarjev vrh" src="//slike2.hribi.net/slike14/2_1433744545259_1dscn4176.jpg" /></a>
     
 </div>
 
@@ -917,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=520&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=753&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -927,9 +926,21 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ribniska_koca_grmovskov_dom_pod_veliko_kopo/4/520/887">Ribniška koča - Grmovškov dom pod Veliko Kopo</a></td><td class="tdG"><a href="/izlet/ribniska_koca_grmovskov_dom_pod_veliko_kopo/4/520/887">1 h 30 min</a></td><td class="tdG"><a href="/izlet/ribniska_koca_grmovskov_dom_pod_veliko_kopo/4/520/887">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gradisce_kremzarjev_vrh/4/753/1362">Gradišče - Kremžarjev vrh</a></td><td class="tdG"><a href="/izlet/gradisce_kremzarjev_vrh/4/753/1362">1 h 55 min</a></td><td class="tdG"><a href="/izlet/gradisce_kremzarjev_vrh/4/753/1362">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dovze_grmovskov_dom_pod_veliko_kopo/4/520/3091">Dovže - Grmovškov dom pod Veliko Kopo</a></td><td class="tdG"><a href="/izlet/dovze_grmovskov_dom_pod_veliko_kopo/4/520/3091">2 h 45 min</a></td><td class="tdG"><a href="/izlet/dovze_grmovskov_dom_pod_veliko_kopo/4/520/3091">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/oresnik_kremzarjev_vrh/4/753/1361">Orešnik - Kremžarjev vrh</a></td><td class="tdG"><a href="/izlet/oresnik_kremzarjev_vrh/4/753/1361">1 h 30 min</a></td><td class="tdG"><a href="/izlet/oresnik_kremzarjev_vrh/4/753/1361">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/slovenj_gradec_kremzarjev_vrh/4/753/7255">Slovenj Gradec - Kremžarjev vrh</a></td><td class="tdG"><a href="/izlet/slovenj_gradec_kremzarjev_vrh/4/753/7255">2 h 15 min</a></td><td class="tdG"><a href="/izlet/slovenj_gradec_kremzarjev_vrh/4/753/7255">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/vinisnik_kremzarjev_vrh/4/753/6016">Vinišnik - Kremžarjev vrh</a></td><td class="tdG"><a href="/izlet/vinisnik_kremzarjev_vrh/4/753/6016">1 h 35 min</a></td><td class="tdG"><a href="/izlet/vinisnik_kremzarjev_vrh/4/753/6016">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dravograd_na_mezi_kremzarjev_vrh/4/753/7359">Dravograd (na Meži) - Kremžarjev vrh</a></td><td class="tdG"><a href="/izlet/dravograd_na_mezi_kremzarjev_vrh/4/753/7359">5 h 10 min</a></td><td class="tdG"><a href="/izlet/dravograd_na_mezi_kremzarjev_vrh/4/753/7359">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/vinisnik_kremzarjev_vrh_pod_vrhom_/4/753/6009">Vinišnik - Kremžarjev vrh (Pod vrhom )</a></td><td class="tdG"><a href="/izlet/vinisnik_kremzarjev_vrh_pod_vrhom_/4/753/6009">1 h 30 min</a></td><td class="tdG"><a href="/izlet/vinisnik_kremzarjev_vrh_pod_vrhom_/4/753/6009">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/vuzenica_kremzarjev_vrh/4/753/9177">Vuzenica - Kremžarjev vrh</a></td><td class="tdG"><a href="/izlet/vuzenica_kremzarjev_vrh/4/753/9177">3 h 50 min</a></td><td class="tdG"><a href="/izlet/vuzenica_kremzarjev_vrh/4/753/9177">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/vuzenica_kremzarjev_vrh_mimo_koce_planinc/4/753/9183">Vuzenica - Kremžarjev vrh (mimo Koče Planinc)</a></td><td class="tdG"><a href="/izlet/vuzenica_kremzarjev_vrh_mimo_koce_planinc/4/753/9183">4 h 30 min</a></td><td class="tdG"><a href="/izlet/vuzenica_kremzarjev_vrh_mimo_koce_planinc/4/753/9183">lahka označena pot</a></td></tr>
 
 </table>
 

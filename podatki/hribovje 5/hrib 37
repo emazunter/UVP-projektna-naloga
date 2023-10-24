@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Žigartov vrh</title>
-        <meta name="description" content="Natančen opis gore Žigartov vrh in vseh pristopov na Žigartov vrh. Žigartov vrh je s 1346m najvišji vrh vzhodnega dela Pohorja. Na vrhu je včasih s." />
+        <title>Planinski dom Zarja (Hotel Zarja)</title>
+        <meta name="description" content="Natančen opis koče Planinski dom Zarja (Hotel Zarja) in vseh pristopov na Planinski dom Zarja (Hotel Zarja). Planinski dom Zarja, oz. Hotel Zarja se nahaja na južnih do jugovzhodnih pobočji." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./894?gorovjeid=4&amp;id=894" id="form1">
+    <form method="post" action="./3534?gorovjeid=4&amp;id=3534" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/zigartov_vrh/4/894"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=894"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planinski_dom_zarja_hotel_zarja/4/3534"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3534"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Žigartov vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Planinski dom Zarja (Hotel Zarja)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(894);
+    gorast(3534);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Žigartov vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planinski dom Zarja (Hotel Zarja)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 1346&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1113&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,6676'N&nbsp;/&nbsp;15°&nbsp;29,2272'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,5284'N&nbsp;/&nbsp;15°&nbsp;32,100'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;40,06''N&nbsp;/&nbsp;15°&nbsp;29'&nbsp;13,63''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;31,70''N&nbsp;/&nbsp;15°&nbsp;32'&nbsp;6,00''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.49446°N&nbsp;/&nbsp;15.48712°E";
+                        document.getElementById("kf0").innerHTML = "46.49214°N&nbsp;/&nbsp;15.535°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,49446°N,&nbsp;15,48712°E";
+                    document.getElementById("kf0").innerHTML = "46,49214°N,&nbsp;15,535°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,49446°N&nbsp;15,48712°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zigartov_vrh/894"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,49214°N&nbsp;15,535°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planinski_dom_zarja_hotel_zarja/3534"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planinski dom Zarja (Hotel Zarja) - Torek" href="/vreme_gora/planinski_dom_zarja_hotel_zarja/4/3534#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planinski dom Zarja (Hotel Zarja) - Sreda" href="/vreme_gora/planinski_dom_zarja_hotel_zarja/4/3534#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planinski dom Zarja (Hotel Zarja) - Četrtek" href="/vreme_gora/planinski_dom_zarja_hotel_zarja/4/3534#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Žigartov vrh - Petek" href="/vreme_gora/zigartov_vrh/4/894#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planinski dom Zarja (Hotel Zarja) - Petek" href="/vreme_gora/planinski_dom_zarja_hotel_zarja/4/3534#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Žigartov vrh - Sobota" href="/vreme_gora/zigartov_vrh/4/894#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Žigartov vrh - Nedelja" href="/vreme_gora/zigartov_vrh/4/894#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Žigartov vrh - Ponedeljek" href="/vreme_gora/zigartov_vrh/4/894#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Žigartov vrh - Torek" href="/vreme_gora/zigartov_vrh/4/894#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planinski dom Zarja (Hotel Zarja) - Sobota" href="/vreme_gora/planinski_dom_zarja_hotel_zarja/4/3534#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 385.982</div>
-<div class="g2"><b>Priljubljenost:</b> 79%&nbsp;(690.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">13</a></div>
+<div class="g2"><b>Ogledov:</b> 807</div>
+<div class="g2"><b>Priljubljenost:</b> 19%&nbsp;(2653.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=894" title="Število vpisov v vpisni knjigi">3</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Žigartov vrh je s 1346m najvišji vrh vzhodnega dela Pohorja. Na vrhu je včasih stal "opazovalni" stolp, ki je bil postavljen samo za potrebe zemljemerstva. Z vrha, ki ima vpisno skrinjico (brez žiga, tega se dobi v Ruški koči) zaradi gozda ni razgleda.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinski dom Zarja, oz. Hotel Zarja se nahaja na južnih do jugovzhodnih pobočjih vrha Sedovec, le ta pa med Ruško kočo na Arehu in Mariborsko kočo na Pohorju.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=894&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3534&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/izvir_polskave/4/3497">Izvir Polskave (1180m)</a>, <a class="moder" href="/gora/ruska_koca_na_arehu/4/842">Ruška koča na Arehu (1246m)</a>
+<a class="moder" href="/gora/framski_slap/4/892">Framski slap (925m)</a>, <a class="moder" href="/gora/mariborska_koca/4/841">Mariborska koča (1086m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,24 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/fram/371">Fram</a>, <a class="moder" href="/spletna_kamera/gramoznica/372">Gramoznica</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/kamnica/2138">Kamnica</a>, <a class="moder" href="/spletna_kamera/letalisce_maribor/1040">Letališče Maribor</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/maribor_radvanje/2098">Maribor (Radvanje)</a>, <a class="moder" href="/spletna_kamera/mariborski_otok/4956">Mariborski otok</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/razcep_slivnica/4907">Razcep Slivnica</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/slovenska_bistrica/369">Slovenska Bistrica</a>, <a class="moder" href="/spletna_kamera/sportni_park_tabor_maribor/3695">Športni park Tabor Maribor</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/viadukt_slivnica/4828">Viadukt Slivnica</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
+<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/dogose/1747">Dogoše</a>, <a class="moder" href="/spletna_kamera/fram/371">Fram</a>, <a class="moder" href="/spletna_kamera/gramoznica/372">Gramoznica</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/kamnica/2138">Kamnica</a>, <a class="moder" href="/spletna_kamera/letalisce_maribor/1040">Letališče Maribor</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/maribor/374">Maribor</a>, <a class="moder" href="/spletna_kamera/maribor_radvanje/2098">Maribor (Radvanje)</a>, <a class="moder" href="/spletna_kamera/mariborski_otok/4956">Mariborski otok</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/miklavz/383">Miklavž</a>, <a class="moder" href="/spletna_kamera/pragersko_pocivalisce/4908">Pragersko (počivališče)</a>, <a class="moder" href="/spletna_kamera/razcep_slivnica/4907">Razcep Slivnica</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/slovenska_bistrica/369">Slovenska Bistrica</a>, <a class="moder" href="/spletna_kamera/sportni_park_tabor_maribor/3695">Športni park Tabor Maribor</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/viadukt_slivnica/4828">Viadukt Slivnica</a>, <a class="moder" href="/spletna_kamera/vrhole_pri_slovenskih_konjicah/1428">Vrhole pri Slovenskih Konjicah</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzigartov_vrh%2f4%2f894"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzigartov_vrh%2f4%2f894"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzigartov_vrh%2f4%2f894"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_zarja_hotel_zarja%2f4%2f3534"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_zarja_hotel_zarja%2f4%2f3534"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_zarja_hotel_zarja%2f4%2f3534"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/zigartov_vrh/2910" onclick="event.preventDefault(); window.open('/slika_gora/zigartov_vrh/2910');"><img class="slikagm" alt="Žigartov vrh" src="//www.hribi.net/sliketemp/P40904084408976.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planinski_dom_zarja_hotel_zarja/21000" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_zarja_hotel_zarja/21000');"><img class="slikagm" alt="Planinski dom Zarja (Hotel Zarja)" src="//slike2.hribi.net/slike14/2_1450706445284_14dscn6448.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/zigartov_vrh/2911" onclick="event.preventDefault(); window.open('/slika_gora/zigartov_vrh/2911');"><img class="slikagm" alt="Žigartov vrh" src="//www.hribi.net/sliketemp/P40904154408978.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zigartov_vrh/21106" onclick="event.preventDefault(); window.open('/slika_gora/zigartov_vrh/21106');"><img class="slikagm" alt="Žigartov vrh" src="//slike2.hribi.net/slike14/2_4932710679592_4dscn9262.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zigartov_vrh/21107" onclick="event.preventDefault(); window.open('/slika_gora/zigartov_vrh/21107');"><img class="slikagm" alt="Žigartov vrh" src="//slike2.hribi.net/slike14/2_0161710061395_0dscn9263.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planinski_dom_zarja_hotel_zarja/21001" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_zarja_hotel_zarja/21001');"><img class="slikagm" alt="Planinski dom Zarja (Hotel Zarja)" src="//slike2.hribi.net/slike14/2_1401705140020_1dscn6450.jpg" /></a>
     
 </div>
 
@@ -916,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=894&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3534&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -926,31 +922,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_zigartov_vrh/4/894/1579">Ruška koča na Arehu - Žigartov vrh</a></td><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_zigartov_vrh/4/894/1579"> 30 min</a></td><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_zigartov_vrh/4/894/1579">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/fram_planinski_dom_zarja_hotel_zarja/4/3534/8560">Fram - Planinski dom Zarja (Hotel Zarja)</a></td><td class="tdG"><a href="/izlet/fram_planinski_dom_zarja_hotel_zarja/4/3534/8560">3 h 30 min</a></td><td class="tdG"><a href="/izlet/fram_planinski_dom_zarja_hotel_zarja/4/3534/8560">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ruse_zigartov_vrh/4/894/4752">Ruše - Žigartov vrh</a></td><td class="tdG"><a href="/izlet/ruse_zigartov_vrh/4/894/4752">3 h 15 min</a></td><td class="tdG"><a href="/izlet/ruse_zigartov_vrh/4/894/4752">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/fram_zigartov_vrh/4/894/8562">Fram - Žigartov vrh</a></td><td class="tdG"><a href="/izlet/fram_zigartov_vrh/4/894/8562">4 h 30 min</a></td><td class="tdG"><a href="/izlet/fram_zigartov_vrh/4/894/8562">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_na_sumiku_zigartov_vrh/4/894/8773">Koča na Šumiku - Žigartov vrh</a></td><td class="tdG"><a href="/izlet/koca_na_sumiku_zigartov_vrh/4/894/8773">1 h 55 min</a></td><td class="tdG"><a href="/izlet/koca_na_sumiku_zigartov_vrh/4/894/8773">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/smartno_na_pohorju_zigartov_vrh_cez_bojtino/4/894/8453">Šmartno na Pohorju - Žigartov vrh (čez Bojtino)</a></td><td class="tdG"><a href="/izlet/smartno_na_pohorju_zigartov_vrh_cez_bojtino/4/894/8453">3 h 15 min</a></td><td class="tdG"><a href="/izlet/smartno_na_pohorju_zigartov_vrh_cez_bojtino/4/894/8453">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mariborska_koca_zigartov_vrh/4/894/8906">Mariborska koča - Žigartov vrh</a></td><td class="tdG"><a href="/izlet/mariborska_koca_zigartov_vrh/4/894/8906">1 h 40 min</a></td><td class="tdG"><a href="/izlet/mariborska_koca_zigartov_vrh/4/894/8906">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sveti_trije_kralji_zigartov_vrh/4/894/8759">Sveti Trije kralji - Žigartov vrh</a></td><td class="tdG"><a href="/izlet/sveti_trije_kralji_zigartov_vrh/4/894/8759">2 h 45 min</a></td><td class="tdG"><a href="/izlet/sveti_trije_kralji_zigartov_vrh/4/894/8759">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sveti_kriz_planica_zigartov_vrh/4/894/8590">Sveti Križ (Planica) - Žigartov vrh</a></td><td class="tdG"><a href="/izlet/sveti_kriz_planica_zigartov_vrh/4/894/8590">2 h 45 min</a></td><td class="tdG"><a href="/izlet/sveti_kriz_planica_zigartov_vrh/4/894/8590">lahka neoznačena steza, lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornja_postaja_vzpenjace_zigartov_vrh_cez_razglednik/4/894/8899">Zgornja postaja vzpenjače - Žigartov vrh (čez Razglednik)</a></td><td class="tdG"><a href="/izlet/zgornja_postaja_vzpenjace_zigartov_vrh_cez_razglednik/4/894/8899">2 h 15 min</a></td><td class="tdG"><a href="/izlet/zgornja_postaja_vzpenjace_zigartov_vrh_cez_razglednik/4/894/8899">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/log_zigartov_vrh/4/894/8677">Log - Žigartov vrh</a></td><td class="tdG"><a href="/izlet/log_zigartov_vrh/4/894/8677">3 h 35 min</a></td><td class="tdG"><a href="/izlet/log_zigartov_vrh/4/894/8677">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornja_postaja_vzpenjace_zigartov_vrh_mimo_mariborske_koce/4/894/8900">Zgornja postaja vzpenjače - Žigartov vrh (mimo Mariborske koče)</a></td><td class="tdG"><a href="/izlet/zgornja_postaja_vzpenjace_zigartov_vrh_mimo_mariborske_koce/4/894/8900">2 h 20 min</a></td><td class="tdG"><a href="/izlet/zgornja_postaja_vzpenjace_zigartov_vrh_mimo_mariborske_koce/4/894/8900">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_zigartov_vrh_skozi_bistriski_vintgar_in_mimo_ruske_koce/4/894/9131">Zgornja Bistrica (Center Vintgar) - Žigartov vrh (skozi Bistriški vintgar in mimo Ruške koče)</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_zigartov_vrh_skozi_bistriski_vintgar_in_mimo_ruske_koce/4/894/9131">5 h 15 min</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_zigartov_vrh_skozi_bistriski_vintgar_in_mimo_ruske_koce/4/894/9131">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pivola_reka_zigartov_vrh_cez_petkovo_sedlo/4/894/9353">Pivola (Reka) - Žigartov vrh (čez Petkovo sedlo)</a></td><td class="tdG"><a href="/izlet/pivola_reka_zigartov_vrh_cez_petkovo_sedlo/4/894/9353">3 h 55 min</a></td><td class="tdG"><a href="/izlet/pivola_reka_zigartov_vrh_cez_petkovo_sedlo/4/894/9353">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/sveti_kriz_planica_planinski_dom_zarja_hotel_zarja/4/3534/8587">Sveti Križ (Planica) - Planinski dom Zarja (Hotel Zarja)</a></td><td class="tdG"><a href="/izlet/sveti_kriz_planica_planinski_dom_zarja_hotel_zarja/4/3534/8587">1 h 45 min</a></td><td class="tdG"><a href="/izlet/sveti_kriz_planica_planinski_dom_zarja_hotel_zarja/4/3534/8587">lahka neoznačena steza, lahka označena pot</a></td></tr>
 
 </table>
 

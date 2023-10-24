@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Na Križu (Kokrska Kočna)</title>
-        <meta name="description" content="Natančen opis gore Na Križu (Kokrska Kočna) in vseh pristopov na Na Križu (Kokrska Kočna). Vrh, ki se danes uradno imenuje Na Križu, se je včasih imenoval Kokrska Kočna,." />
+        <title>Koroška Rinka (Križ)</title>
+        <meta name="description" content="Natančen opis gore Koroška Rinka (Križ) in vseh pristopov na Koroška Rinka (Križ). Koroška Rinka (tudi Križ) je 2433 m visoka gora, ki se strmo dviga nad Ledinami ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2559?gorovjeid=3&amp;id=2559" id="form1">
+    <form method="post" action="./387?gorovjeid=3&amp;id=387" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/na_krizu_kokrska_kocna/3/2559"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2559"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koroska_rinka/3/387"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=387"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Na Križu (Kokrska Kočna)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Koroška Rinka (Križ)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2559);
+    gorast(387);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Na Križu (Kokrska Kočna)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Koroška Rinka (Križ)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2484&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2433&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,4068'N&nbsp;/&nbsp;14°&nbsp;30,9372'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,0656'N&nbsp;/&nbsp;14°&nbsp;33,9114'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;24,41''N&nbsp;/&nbsp;14°&nbsp;30'&nbsp;56,23''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;3,94''N&nbsp;/&nbsp;14°&nbsp;33'&nbsp;54,68''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.35678°N&nbsp;/&nbsp;14.51562°E";
+                        document.getElementById("kf0").innerHTML = "46.36776°N&nbsp;/&nbsp;14.56519°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,35678°N,&nbsp;14,51562°E";
+                    document.getElementById("kf0").innerHTML = "46,36776°N,&nbsp;14,56519°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35678°N&nbsp;14,51562°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/na_krizu_kokrska_kocna/2559"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,36776°N&nbsp;14,56519°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koroska_rinka_kriz/387"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Koroška Rinka (Križ) - Torek" href="/vreme_gora/koroska_rinka_kriz/3/387#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Koroška Rinka (Križ) - Sreda" href="/vreme_gora/koroska_rinka_kriz/3/387#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Koroška Rinka (Križ) - Četrtek" href="/vreme_gora/koroska_rinka_kriz/3/387#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Na Križu (Kokrska Kočna) - Petek" href="/vreme_gora/na_krizu_kokrska_kocna/3/2559#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Koroška Rinka (Križ) - Petek" href="/vreme_gora/koroska_rinka_kriz/3/387#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Na Križu (Kokrska Kočna) - Sobota" href="/vreme_gora/na_krizu_kokrska_kocna/3/2559#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Na Križu (Kokrska Kočna) - Nedelja" href="/vreme_gora/na_krizu_kokrska_kocna/3/2559#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Na Križu (Kokrska Kočna) - Ponedeljek" href="/vreme_gora/na_krizu_kokrska_kocna/3/2559#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Na Križu (Kokrska Kočna) - Torek" href="/vreme_gora/na_krizu_kokrska_kocna/3/2559#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Koroška Rinka (Križ) - Sobota" href="/vreme_gora/koroska_rinka_kriz/3/387#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 19.170</div>
-<div class="g2"><b>Priljubljenost:</b> 39%&nbsp;(1996.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">0</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 623.058</div>
+<div class="g2"><b>Priljubljenost:</b> 96%&nbsp;(123.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=387" title="Število vpisov v vpisni knjigi">5</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Vrh, ki se danes "uradno" imenuje Na Križu, se je včasih imenoval Kokrska Kočna, vrh Kokrske Kočne pa je "premaknjen" nekoliko proti severovzhodu, na koto z višin0 2520 m.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Koroška Rinka (tudi Križ) je 2433 m visoka gora, ki se strmo dviga nad Ledinami in Okrešljem. Z vrha, ki ima vpisno skrinjico in žig je lep pogled na osrednje Kamniško Savinjske Alpe in na del Karavank, kjer lepo vidimo greben Košute.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2559&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=387&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_v_kocni/3/1064">Bivak v Kočni (1952m)</a>, <a class="moder" href="/gora/grintovec/3/16">Grintovec (2558m)</a>, <a class="moder" href="/gora/jezerska_kocna/3/25">Jezerska Kočna (2540m)</a>, <a class="moder" href="/gora/kokrska_kocna/3/31">Kokrska Kočna (2520m)</a>, <a class="moder" href="/gora/povsnarjeva_planina/3/2636">Povšnarjeva planina (1330m)</a>, <a class="moder" href="/gora/slap_cedca/3/370">Slap Čedca (1350m)</a>, <a class="moder" href="/gora/vratca/3/284">Vratca (1802m)</a>
+<a class="moder" href="/gora/bivak_pod_mrzlim_vrhom/3/618">Bivak pod Mrzlim vrhom (1980m)</a>, <a class="moder" href="/gora/bivak_pod_skuto/3/389">Bivak pod Skuto (2070m)</a>, <a class="moder" href="/gora/dolgi_hrbet/3/42">Dolgi hrbet (2473m)</a>, <a class="moder" href="/gora/dom_na_okreslju/3/167">Dom na Okrešlju (1396m)</a>, <a class="moder" href="/gora/kogel/3/1525">Kogel (2100m)</a>, <a class="moder" href="/gora/kranjska_koca_na_ledinah/3/225">Kranjska koča na Ledinah (1700m)</a>, <a class="moder" href="/gora/kranjska_rinka/3/50">Kranjska Rinka (2453m)</a>, <a class="moder" href="/gora/ledinski_vrh/3/336">Ledinski vrh (2108m)</a>, <a class="moder" href="/gora/mala_rinka/3/1323">Mala Rinka (2289m)</a>, <a class="moder" href="/gora/mrzla_gora/3/433">Mrzla gora (2203m)</a>, <a class="moder" href="/gora/skuta/3/28">Skuta (2532m)</a>, <a class="moder" href="/gora/stajerska_rinka/3/388">Štajerska Rinka (2374m)</a>, <a class="moder" href="/gora/storzek/3/1289">Storžek (2110m)</a>, <a class="moder" href="/gora/struca/3/49">Štruca (2457m)</a>, <a class="moder" href="/gora/turska_gora/3/391">Turska gora (2251m)</a>, <a class="moder" href="/gora/velika_koroska_baba/3/666">Velika (Koroška) Baba (2127m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,22 +835,39 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fna_krizu_kokrska_kocna%2f3%2f2559"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fna_krizu_kokrska_kocna%2f3%2f2559"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fna_krizu_kokrska_kocna%2f3%2f2559"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoroska_rinka_kriz%2f3%2f387"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoroska_rinka_kriz%2f3%2f387"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoroska_rinka_kriz%2f3%2f387"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/koroska_rinka_kriz/387" title="Koroška Rinka (Križ) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.koroskaRinka.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
+        <a target="_blank" href="/slika_gora/koroska_rinka_kriz/497" onclick="event.preventDefault(); window.open('/slika_gora/koroska_rinka_kriz/497');"><img class="slikagm" alt="Koroška Rinka (Križ)" src="//www.hribi.net/Gora/p7090079medium1oc.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/koroska_rinka_kriz/500" onclick="event.preventDefault(); window.open('/slika_gora/koroska_rinka_kriz/500');"><img class="slikagm" alt="Koroška Rinka (Križ)" src="//www.hribi.net/Gora/p7090101medium1ub.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/koroska_rinka_kriz/524" onclick="event.preventDefault(); window.open('/slika_gora/koroska_rinka_kriz/524');"><img class="slikagm" alt="Koroška Rinka (Križ)" src="//www.hribi.net/Gora/p7150215mediumcd9.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/koroska_rinka_kriz/6070" onclick="event.preventDefault(); window.open('/slika_gora/koroska_rinka_kriz/6070');"><img class="slikagm" alt="Koroška Rinka (Križ)" src="//www.hribi.net/slike1/Rinke%20148983178.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/koroska_rinka_kriz/6071" onclick="event.preventDefault(); window.open('/slika_gora/koroska_rinka_kriz/6071');"><img class="slikagm" alt="Koroška Rinka (Križ)" src="//www.hribi.net/slike1/Rinke%203021524096.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/koroska_rinka_kriz/6072" onclick="event.preventDefault(); window.open('/slika_gora/koroska_rinka_kriz/6072');"><img class="slikagm" alt="Koroška Rinka (Križ)" src="//www.hribi.net/slike1/P71901174548672.th.jpg" /></a>
+    
 </div>
 
 
 
-
+<div style="padding-top:8px;"><b>Video:</b></div><div>
+        <a target="_blank" href="/video_posnetek/Smučanje/koroska_rinka_skozi_turski_zleb_142017/1/818"><img class="slikagmv" alt="Koroška Rinka skozi Turski žleb, 1.4.2017" src="https://img.youtube.com/vi/mz85T1oppcU/0.jpg" /></a>
+    </div>
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -908,7 +925,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2559&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=387&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -918,7 +935,19 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/murijeva_planina_pod_mlinarjevim_sedlom_na_krizu_kokrska_kocna_po_sz_grebenu_na_kocno_oz_vrh_na_krizu/3/2559/5610">Murijeva planina pod Mlinarjevim sedlom - Na Križu (Kokrska Kočna) (po SZ grebenu na Kočno oz. vrh Na Križu)</a></td><td class="tdG"><a href="/izlet/murijeva_planina_pod_mlinarjevim_sedlom_na_krizu_kokrska_kocna_po_sz_grebenu_na_kocno_oz_vrh_na_krizu/3/2559/5610">8 h</a></td><td class="tdG"><a href="/izlet/murijeva_planina_pod_mlinarjevim_sedlom_na_krizu_kokrska_kocna_po_sz_grebenu_na_kocno_oz_vrh_na_krizu/3/2559/5610">alpinistični vzpon</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_koroska_rinka_kriz/3/387/1741">Koča pod slapom Rinka - Koroška Rinka (Križ)</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_koroska_rinka_kriz/3/387/1741">5 h</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_koroska_rinka_kriz/3/387/1741">zelo zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ravenska_kocna_koroska_rinka_kriz_slovenska_pot/3/387/2599">Ravenska Kočna - Koroška Rinka (Križ) (Slovenska pot)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_koroska_rinka_kriz_slovenska_pot/3/387/2599">4 h 15 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_koroska_rinka_kriz_slovenska_pot/3/387/2599">zelo zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/v_koncu_koroska_rinka_kriz_cez_zmavcarje/3/387/535">V Koncu - Koroška Rinka (Križ) (čez Žmavčarje)</a></td><td class="tdG"><a href="/izlet/v_koncu_koroska_rinka_kriz_cez_zmavcarje/3/387/535">4 h 30 min</a></td><td class="tdG"><a href="/izlet/v_koncu_koroska_rinka_kriz_cez_zmavcarje/3/387/535">zahtevna neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_koroska_rinka_kriz_skozi_turski_zleb/3/387/1742">Koča pod slapom Rinka - Koroška Rinka (Križ) (skozi Turski žleb)</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_koroska_rinka_kriz_skozi_turski_zleb/3/387/1742">5 h</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_koroska_rinka_kriz_skozi_turski_zleb/3/387/1742">zelo zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/belska_kocna_koroska_rinka_kriz/3/387/2600">Belska Kočna - Koroška Rinka (Križ)</a></td><td class="tdG"><a href="/izlet/belska_kocna_koroska_rinka_kriz/3/387/2600">4 h 45 min</a></td><td class="tdG"><a href="/izlet/belska_kocna_koroska_rinka_kriz/3/387/2600">zelo zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ravenska_kocna_koroska_rinka_kriz_skozi_zrelo/3/387/5504">Ravenska Kočna - Koroška Rinka (Križ) (skozi Žrelo)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_koroska_rinka_kriz_skozi_zrelo/3/387/5504">4 h 15 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_koroska_rinka_kriz_skozi_zrelo/3/387/5504">zelo zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ravenska_kocna_koroska_rinka_kriz_lovska_pot/3/387/5505">Ravenska Kočna - Koroška Rinka (Križ) (lovska pot)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_koroska_rinka_kriz_lovska_pot/3/387/5505">4 h 30 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_koroska_rinka_kriz_lovska_pot/3/387/5505">zelo zahtevna označena pot</a></td></tr>
 
 </table>
 

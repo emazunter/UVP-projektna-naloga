@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vršaki (Srednji vrh)</title>
-        <meta name="description" content="Natančen opis gore Vršaki (Srednji vrh) in vseh pristopov na Vršaki (Srednji vrh). Srednji vrh Vršakov je manj izrazit vrh, ki se nahaja med vzhodnim in zahodnim V." />
+        <title>Frdamane police</title>
+        <meta name="description" content="Natančen opis gore Frdamane police in vseh pristopov na Frdamane police. Dvoglave Frdamane police so prvi vrh grebena, ki poteka s Špika v severozahodni ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1541?gorovjeid=1&amp;id=1541" id="form1">
+    <form method="post" action="./2003?gorovjeid=1&amp;id=2003" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrsaki_srednji_vrh/1/1541"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1541"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/frdamane_police/1/2003"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=2003"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Vršaki (Srednji vrh)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Frdamane police
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1541);
+    gorast(2003);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vršaki (Srednji vrh)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Frdamane police</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,109 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2424&nbsp;m</div>
-    
-        <script>
-            var kfi = 1;
-            function koordinateFormat() {
-                if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,9760'N&nbsp;/&nbsp;13°&nbsp;48,3180'E";
-                        kfi = 2;
-                    }
-                    else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;58,56''N&nbsp;/&nbsp;13°&nbsp;48'&nbsp;19,08''E";
-                        kfi = 3;
-                    }
-                    else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.3496°N&nbsp;/&nbsp;13.8053°E";
-                    kfi = 4;
-                }
-                else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,3496°N,&nbsp;13,8053°E";
-                        kfi = 1;
-                    }
-    }
-
-            function kopiraj() {
-                var tempInput = document.createElement("textarea");
-                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
-                document.body.appendChild(tempInput);
-                tempInput.select();
-                tempInput.setSelectionRange(0, 99999);
-                document.execCommand("copy");
-                document.body.removeChild(tempInput);
-                tooltip("Kopirano v odložišče...");
-
-            }
-
-    
-</script>
-        
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3496°N&nbsp;13,8053°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrsaki_srednji_vrh/1541"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><b>Višina:</b> 2284&nbsp;m</div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
-  
-        <div class="g2"><b>Vremenska napoved:</b></div>
-        <div class="g2">
-<table><tr>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vršaki (Srednji vrh) - Petek" href="/vreme_gora/vrsaki_srednji_vrh/1/1541#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vršaki (Srednji vrh) - Sobota" href="/vreme_gora/vrsaki_srednji_vrh/1/1541#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vršaki (Srednji vrh) - Nedelja" href="/vreme_gora/vrsaki_srednji_vrh/1/1541#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vršaki (Srednji vrh) - Ponedeljek" href="/vreme_gora/vrsaki_srednji_vrh/1/1541#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vršaki (Srednji vrh) - Torek" href="/vreme_gora/vrsaki_srednji_vrh/1/1541#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    </tr></table>
-        </div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 310.403</div>
-<div class="g2"><b>Priljubljenost:</b> 71%&nbsp;(962.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 393.597</div>
+<div class="g2"><b>Priljubljenost:</b> 80%&nbsp;(666.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">0</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1541" title="Število vpisov v vpisni knjigi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Srednji vrh Vršakov je manj izrazit vrh, ki se nahaja med vzhodnim in zahodnim Vršakom. Z vrha, se nam odpre lep razgled na Debeli vrh, greben Voglov in Kanjavec.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Dvoglave Frdamane police so prvi vrh grebena, ki poteka s Špika v severozahodni smeri preko Ruse peči, Riglice in Rušice ter nižjega Kurjega in Črnega vrha do Kranjske Gore. So del Martuljkove skupine Julijskih Alp. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +704,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1541&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2003&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -797,63 +713,37 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><b>Gore v okolici</b>
-<select onchange="radiusf(this.value,1);">
-<option value="0,5">0,5</option>
-<option value="1">1</option>
-<option value="1,5">1,5</option>
-<option selected value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="6">6</option>
-<option value="8">8</option>
-<option value="10">10</option>
-<option value="15">15</option>
-<option value="20">20</option>
-<option value="30">30</option>
-</select> <b>km:</b><br />
-</div>
-<div id="radiusseznam1">
-<a class="moder" href="/gora/debeli_vrh/1/383">Debeli vrh (2390m)</a>, <a class="moder" href="/gora/kanjavec/1/14">Kanjavec (2569m)</a>, <a class="moder" href="/gora/kanjavec_zahodni_vrh/1/1544">Kanjavec (Zahodni vrh) (2569m)</a>, <a class="moder" href="/gora/mala_zelnarica/1/456">Mala Zelnarica (2310m)</a>, <a class="moder" href="/gora/malo_spicje/1/453">Malo Špičje (2312m)</a>, <a class="moder" href="/gora/miseljski_konec/1/46">Mišeljski Konec (2464m)</a>, <a class="moder" href="/gora/poprovec/1/1546">Poprovec (2496m)</a>, <a class="moder" href="/gora/rjavo_jezero/1/172">Rjavo jezero (2006m)</a>, <a class="moder" href="/gora/skednjovec/1/1639">Škednjovec (2309m)</a>, <a class="moder" href="/gora/srednji_vogel/1/714">Srednji Vogel (2226m)</a>, <a class="moder" href="/gora/teme_hribarice/1/1545">Teme (Hribarice) (2495m)</a>, <a class="moder" href="/gora/velika_zelnarica/1/385">Velika Zelnarica (2320m)</a>, <a class="moder" href="/gora/vodnikov_vrsac_vrsac_nad_zadnjico/1/2072">Vodnikov Vršac (Vršac nad Zadnjico) (2194m)</a>, <a class="moder" href="/gora/vrh_hribaric/1/1539">Vrh Hribaric (2388m)</a>, <a class="moder" href="/gora/vrsaki_juzni_vrh/1/1543">Vršaki (Južni vrh) (2431m)</a>, <a class="moder" href="/gora/vrsaki_vrh_za_koritami/1/1542">Vršaki (Vrh za Koritami) (2422m)</a>, <a class="moder" href="/gora/vrsaki_vzhodni_vrh/1/1540">Vršaki (Vzhodni vrh) (2448m)</a>, <a class="moder" href="/gora/zadnji_vogel/1/384">Zadnji Vogel (2327m)</a>, <a class="moder" href="/gora/zasavska_koca_na_prehodavcih/1/175">Zasavska koča na Prehodavcih (2071m)</a>, <a class="moder" href="/gora/zeleno_jezero/1/173">Zeleno jezero (1988m)</a>
-</div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ffrdamane_police%2f1%2f2003"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ffrdamane_police%2f1%2f2003"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ffrdamane_police%2f1%2f2003"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
-<select onchange="radiusf(this.value,2);">
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="5">5</option>
-<option value="7">7</option>
-<option value="10">10</option>
-<option selected value="15">15</option>
-<option value="20">20</option>
-<option value="25">25</option>
-<option value="30">30</option>
-<option value="35">35</option>
-<option value="40">40</option>
-<option value="50">50</option>
-<option value="60">60</option>
-</select> <b>km:</b><br></div>
-<div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
-</div>
-
-
-
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrsaki_srednji_vrh%2f1%2f1541"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrsaki_srednji_vrh%2f1%2f1541"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrsaki_srednji_vrh%2f1%2f1541"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
-
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vrsaki_srednji_vrh/1541" title="Vršaki (Srednji vrh) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VrsakiSrednjiVrh.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vrsaki_srednji_vrh/6303" onclick="event.preventDefault(); window.open('/slika_gora/vrsaki_srednji_vrh/6303');"><img class="slikagm" alt="Vršaki (Srednji vrh)" src="//www.hribi.net/slike1/hribarice%203595619887.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/frdamane_police/9778" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9778');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/photo_66617941.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrsaki_srednji_vrh/6304" onclick="event.preventDefault(); window.open('/slika_gora/vrsaki_srednji_vrh/6304');"><img class="slikagm" alt="Vršaki (Srednji vrh)" src="//www.hribi.net/slike1/hribarice%203685619887.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/frdamane_police/9779" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9779');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44796617945.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrsaki_srednji_vrh/6306" onclick="event.preventDefault(); window.open('/slika_gora/vrsaki_srednji_vrh/6306');"><img class="slikagm" alt="Vršaki (Srednji vrh)" src="//www.hribi.net/slike1/hribarice%203735619887.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/frdamane_police/9780" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9780');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44736617955.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/frdamane_police/9781" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9781');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44696617956.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/frdamane_police/9782" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9782');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44586617957.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/frdamane_police/9783" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9783');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44556617958.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/frdamane_police/9784" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9784');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44546617959.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/frdamane_police/9785" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9785');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44346617960.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/frdamane_police/9786" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9786');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44296617961.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/frdamane_police/9787" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9787');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44186617962.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/frdamane_police/9788" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9788');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44336617963.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/frdamane_police/9789" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9789');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44326617964.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/frdamane_police/9790" onclick="event.preventDefault(); window.open('/slika_gora/frdamane_police/9790');"><img class="slikagm" alt="Frdamane police" src="//www.hribi.net/slike5/IMG_44156617965.th.jpg" /></a>
     
 </div>
 
@@ -917,7 +807,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1541&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2003&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -926,10 +816,6 @@ var sortT = 0;
     </script>
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_blato_vrsaki_srednji_vrh_cez_planino_krstenico_in_po_dolini_za_debelim_vrhom/1/1541/2687"> Planina Blato - Vršaki (Srednji vrh) (čez Planino Krstenico in po Dolini za Debelim vrhom)</a></td><td class="tdG"><a href="/izlet/planina_blato_vrsaki_srednji_vrh_cez_planino_krstenico_in_po_dolini_za_debelim_vrhom/1/1541/2687">5 h 35 min</a></td><td class="tdG"><a href="/izlet/planina_blato_vrsaki_srednji_vrh_cez_planino_krstenico_in_po_dolini_za_debelim_vrhom/1/1541/2687">lahko brezpotje</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_blato_vrsaki_srednji_vrh_cez_planino_v_lazu_in_po_dolini_za_debelim_vrhom/1/1541/2686">Planina Blato - Vršaki (Srednji vrh) (čez Planino v Lazu in po Dolini za Debelim vrhom)</a></td><td class="tdG"><a href="/izlet/planina_blato_vrsaki_srednji_vrh_cez_planino_v_lazu_in_po_dolini_za_debelim_vrhom/1/1541/2686">5 h 20 min</a></td><td class="tdG"><a href="/izlet/planina_blato_vrsaki_srednji_vrh_cez_planino_v_lazu_in_po_dolini_za_debelim_vrhom/1/1541/2686">lahko brezpotje</a></td></tr>
 
 </table>
 

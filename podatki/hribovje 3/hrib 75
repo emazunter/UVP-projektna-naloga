@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kompotela</title>
-        <meta name="description" content="Natančen opis gore Kompotela in vseh pristopov na Kompotela. Kompotela je vrh v bližini Mokrice in vrha Korena. S travo in rušjem poraščen vr." />
+        <title>Tolsti vrh</title>
+        <meta name="description" content="Natančen opis gore Tolsti vrh in vseh pristopov na Tolsti vrh. Tolsti vrh, ki se nahaja zahodno od Storžiča, je s svojimi 1715 m tudi najvišji ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./319?gorovjeid=3&amp;id=319" id="form1">
+    <form method="post" action="./125?gorovjeid=3&amp;id=125" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kompotela/3/319"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=319"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/tolsti_vrh/3/125"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=125"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Kompotela
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Tolsti vrh
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(319);
+    gorast(125);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kompotela</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Tolsti vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1989&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1715&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;18,9132'N&nbsp;/&nbsp;14°&nbsp;33,7476'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,9190'N&nbsp;/&nbsp;14°&nbsp;21,7932'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;18'&nbsp;54,79''N&nbsp;/&nbsp;14°&nbsp;33'&nbsp;44,86''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;55,14''N&nbsp;/&nbsp;14°&nbsp;21'&nbsp;47,59''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.31522°N&nbsp;/&nbsp;14.56246°E";
+                        document.getElementById("kf0").innerHTML = "46.34865°N&nbsp;/&nbsp;14.36322°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,31522°N,&nbsp;14,56246°E";
+                    document.getElementById("kf0").innerHTML = "46,34865°N,&nbsp;14,36322°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,31522°N&nbsp;14,56246°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kompotela/319"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,34865°N&nbsp;14,36322°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/tolsti_vrh/125"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Tolsti vrh - Torek" href="/vreme_gora/tolsti_vrh/3/125#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Tolsti vrh - Sreda" href="/vreme_gora/tolsti_vrh/3/125#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Tolsti vrh - Četrtek" href="/vreme_gora/tolsti_vrh/3/125#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kompotela - Petek" href="/vreme_gora/kompotela/3/319#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Tolsti vrh - Petek" href="/vreme_gora/tolsti_vrh/3/125#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kompotela - Sobota" href="/vreme_gora/kompotela/3/319#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kompotela - Nedelja" href="/vreme_gora/kompotela/3/319#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kompotela - Ponedeljek" href="/vreme_gora/kompotela/3/319#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kompotela - Torek" href="/vreme_gora/kompotela/3/319#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Tolsti vrh - Sobota" href="/vreme_gora/tolsti_vrh/3/125#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 619.112</div>
-<div class="g2"><b>Priljubljenost:</b> 96%&nbsp;(129.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=319" title="Število vpisov v vpisni knjigi">4</a></div>
+<div class="g2"><b>Ogledov:</b> 705.406</div>
+<div class="g2"><b>Priljubljenost:</b> 98%&nbsp;(66.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">16</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">10</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=125" title="Število vpisov v vpisni knjigi">17</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kompotela je vrh v bližini Mokrice in vrha Korena. S travo in rušjem poraščen vrh ima lep pogled proti Grintovcu, Skuti, Brani, Planjavi in bližnjima vrhu Korena in Kalškemu grebenu.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Tolsti vrh, ki se nahaja zahodno od Storžiča, je s svojimi 1715 m tudi najvišji vrh Kriške gore, pogorja, ki se strmo dviga nad osrednjo Gorenjsko. Z vrha, ki ima vpisno skrinjico in žig se nam odpre lep pogled na osrednje Karavanke, kjer lepo vidimo celoten greben Košute, Storžič, Gorenjsko ravnino in Julijske Alpe.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=319&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=125&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kosutna/3/447">Košutna (1974m)</a>, <a class="moder" href="/gora/mokrica/3/320">Mokrica (1853m)</a>, <a class="moder" href="/gora/planina_dolga_njiva_krvavec/3/446">Planina Dolga njiva (Krvavec) (1688m)</a>, <a class="moder" href="/gora/planina_koren/3/317">Planina Koren (1675m)</a>, <a class="moder" href="/gora/planina_kosutna/3/338">Planina Košutna (1778m)</a>, <a class="moder" href="/gora/spominski_park_v_kamniski_bistrici/3/3447">Spominski park v Kamniški Bistrici (680m)</a>, <a class="moder" href="/gora/veliki_zvoh/3/73">Veliki Zvoh (1971m)</a>, <a class="moder" href="/gora/vrh_korena/3/316">Vrh Korena (1999m)</a>
+<a class="moder" href="/gora/grebenc/3/1233">Grebenc (1479m)</a>, <a class="moder" href="/gora/mala_poljana/3/208">Mala Poljana (1325m)</a>, <a class="moder" href="/gora/velika_poljana/3/207">Velika Poljana (1410m)</a>, <a class="moder" href="/gora/vrata/3/124">Vrata (1591m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,38 +835,52 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkompotela%2f3%2f319"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkompotela%2f3%2f319"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkompotela%2f3%2f319"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ftolsti_vrh%2f3%2f125"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftolsti_vrh%2f3%2f125"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftolsti_vrh%2f3%2f125"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kompotela/319" title="Kompotela 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Kompotela.jpg" /></a></div>
+<div><a href="/panorama/360/tolsti_vrh/125" title="Tolsti vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.tolstiVrh.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kompotela/813" onclick="event.preventDefault(); window.open('/slika_gora/kompotela/813');"><img class="slikagm" alt="Kompotela" src="//www.hribi.net/Gora/p8270034mediumfp9.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh/93" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/93');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/Gora/pa230347medium2tw.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kompotela/1816" onclick="event.preventDefault(); window.open('/slika_gora/kompotela/1816');"><img class="slikagm" alt="Kompotela" src="//www.hribi.net/slike1/P6110131149688.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh/418" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/418');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/Gora/p7020053medium3kj.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kompotela/1820" onclick="event.preventDefault(); window.open('/slika_gora/kompotela/1820');"><img class="slikagm" alt="Kompotela" src="//www.hribi.net/slike1/P611019577616.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh/419" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/419');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/Gora/p7020058medium7jk.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kompotela/6141" onclick="event.preventDefault(); window.open('/slika_gora/kompotela/6141');"><img class="slikagm" alt="Kompotela" src="//www.hribi.net/slike1/P702008581270.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh/420" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/420');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/Gora/p7020059medium6vw.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/tolsti_vrh/423" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/423');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/Gora/p7020079medium0xz.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/tolsti_vrh/1414" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/1414');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/slike1/P105001317325.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/tolsti_vrh/1500" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/1500');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/slike1/P204007621252.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/tolsti_vrh/4161" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/4161');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/sliketemp/P41601614945836.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/tolsti_vrh/4162" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/4162');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/sliketemp/P41602834945841.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/tolsti_vrh/5835" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/5835');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/slike1/TolstiVrh 252331500.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/tolsti_vrh/12606" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/12606');"><img class="slikagm" alt="Tolsti vrh" src="//slike.hribi.net/slike4/2_1133457188352_KrizeTolstiVrh_265.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/tolsti_vrh/12607" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/12607');"><img class="slikagm" alt="Tolsti vrh" src="//www.hribi.net/slike1/KrizeTolstiVrh 263682500.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/tolsti_vrh/13314" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh/13314');"><img class="slikagm" alt="Tolsti vrh" src="//slike.hribi.net/slike4/2_0983477925700_DSCN9715.JPG" /></a>
     
 </div>
 
 
 
 <div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Letenje z gora/silvestrska_kompotela_2015/8/777"><img class="slikagmv" alt="Silvestrska Kompotela 2015" src="https://img.youtube.com/vi/eNZ4fpb4k6Q/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/grintovci/8/665"><img class="slikagmv" alt="Grintovci" src="https://img.youtube.com/vi/_62YixTN2WU/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/silvesterski_vzpon_na_kompotelo/8/557"><img class="slikagmv" alt="Silvesterski vzpon na Kompotelo" src="https://img.youtube.com/vi/ecuWd8A7Cos/0.jpg" /></a>
+        <a target="_blank" href="/video_posnetek/Letenje z gora/spust_tolsti_vrh/8/537"><img class="slikagmv" alt="Spust Tolsti vrh" src="https://img.youtube.com/vi/_f-UQSYC8CA/0.jpg" /></a>
     </div>
 <script>
 var sortT = 0;
@@ -925,7 +939,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=319&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=125&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,11 +949,37 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kriska_planina_kompotela/3/319/449">Kriška planina - Kompotela</a></td><td class="tdG"><a href="/izlet/kriska_planina_kompotela/3/319/449">2 h 15 min</a></td><td class="tdG"><a href="/izlet/kriska_planina_kompotela/3/319/449">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_lazja_pot_cez_krisko_goro/3/125/93">Gozd - Tolsti vrh (lažja pot čez Kriško goro)</a></td><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_lazja_pot_cez_krisko_goro/3/125/93">2 h 30 min</a></td><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_lazja_pot_cez_krisko_goro/3/125/93">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_jezerca_kompotela/3/319/4584">Planina Jezerca - Kompotela</a></td><td class="tdG"><a href="/izlet/planina_jezerca_kompotela/3/319/4584">2 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_jezerca_kompotela/3/319/4584">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_skozi_jezo/3/125/92">Gozd - Tolsti vrh (skozi Ježo)</a></td><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_skozi_jezo/3/125/92">2 h 15 min</a></td><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_skozi_jezo/3/125/92">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/markova_raven_kompotela_po_oznaceni_poti/3/319/1080">Markova raven - Kompotela (po označeni poti)</a></td><td class="tdG"><a href="/izlet/markova_raven_kompotela_po_oznaceni_poti/3/319/1080">3 h</a></td><td class="tdG"><a href="/izlet/markova_raven_kompotela_po_oznaceni_poti/3/319/1080">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_pod_storzicem_tolsti_vrh/3/125/1294">Dom pod Storžičem - Tolsti vrh</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_tolsti_vrh/3/125/1294">2 h</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_tolsti_vrh/3/125/1294">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/golnik_tolsti_vrh_cez_krisko_goro/3/125/2530">Golnik - Tolsti vrh (čez Kriško goro)</a></td><td class="tdG"><a href="/izlet/golnik_tolsti_vrh_cez_krisko_goro/3/125/2530">3 h 30 min</a></td><td class="tdG"><a href="/izlet/golnik_tolsti_vrh_cez_krisko_goro/3/125/2530">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/trzic_tolsti_vrh/3/125/2173">Tržič - Tolsti vrh</a></td><td class="tdG"><a href="/izlet/trzic_tolsti_vrh/3/125/2173">3 h 15 min</a></td><td class="tdG"><a href="/izlet/trzic_tolsti_vrh/3/125/2173">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zalog_tolsti_vrh/3/125/2060">Zalog - Tolsti vrh</a></td><td class="tdG"><a href="/izlet/zalog_tolsti_vrh/3/125/2060">3 h</a></td><td class="tdG"><a href="/izlet/zalog_tolsti_vrh/3/125/2060">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/golnik_tolsti_vrh_skozi_jezo/3/125/2531">Golnik - Tolsti vrh (skozi Ježo)</a></td><td class="tdG"><a href="/izlet/golnik_tolsti_vrh_skozi_jezo/3/125/2531">3 h 15 min</a></td><td class="tdG"><a href="/izlet/golnik_tolsti_vrh_skozi_jezo/3/125/2531">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/povlje_tolsti_vrh/3/125/5182">Povlje - Tolsti vrh</a></td><td class="tdG"><a href="/izlet/povlje_tolsti_vrh/3/125/5182">2 h 45 min</a></td><td class="tdG"><a href="/izlet/povlje_tolsti_vrh/3/125/5182">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_strma_pot_cez_krisko_goro/3/125/4926">Gozd - Tolsti vrh (strma pot čez Kriško goro)</a></td><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_strma_pot_cez_krisko_goro/3/125/4926">2 h 30 min</a></td><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_strma_pot_cez_krisko_goro/3/125/4926">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_pod_storzicem_tolsti_vrh_po_lovski_poti/3/125/3899">Dom pod Storžičem - Tolsti vrh (po lovski poti)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_tolsti_vrh_po_lovski_poti/3/125/3899">2 h</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_tolsti_vrh_po_lovski_poti/3/125/3899">lahko brezpotje</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grahovse_tolsti_vrh_cez_plaz_pod_vrati/3/125/3891">Grahovše - Tolsti vrh (čez Plaz pod Vrati)</a></td><td class="tdG"><a href="/izlet/grahovse_tolsti_vrh_cez_plaz_pod_vrati/3/125/3891">3 h</a></td><td class="tdG"><a href="/izlet/grahovse_tolsti_vrh_cez_plaz_pod_vrati/3/125/3891">zahtevno brezpotje</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_ovcja_pot_cez_krisko_goro/3/125/4927">Gozd - Tolsti vrh (Ovčja pot čez Kriško goro)</a></td><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_ovcja_pot_cez_krisko_goro/3/125/4927">2 h 30 min</a></td><td class="tdG"><a href="/izlet/gozd_tolsti_vrh_ovcja_pot_cez_krisko_goro/3/125/4927">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/krize_tolsti_vrh_strma_pot_cez_krisko_goro/3/125/4913">Križe - Tolsti vrh (strma pot čez Kriško goro)</a></td><td class="tdG"><a href="/izlet/krize_tolsti_vrh_strma_pot_cez_krisko_goro/3/125/4913">3 h 30 min</a></td><td class="tdG"><a href="/izlet/krize_tolsti_vrh_strma_pot_cez_krisko_goro/3/125/4913">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/krize_tolsti_vrh_lazja_pot_cez_krisko_goro/3/125/4919">Križe - Tolsti vrh (lažja pot čez Kriško goro)</a></td><td class="tdG"><a href="/izlet/krize_tolsti_vrh_lazja_pot_cez_krisko_goro/3/125/4919">3 h 45 min</a></td><td class="tdG"><a href="/izlet/krize_tolsti_vrh_lazja_pot_cez_krisko_goro/3/125/4919">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/krize_tolsti_vrh_skozi_jezo/3/125/4920">Križe - Tolsti vrh (skozi Ježo)</a></td><td class="tdG"><a href="/izlet/krize_tolsti_vrh_skozi_jezo/3/125/4920">3 h 30 min</a></td><td class="tdG"><a href="/izlet/krize_tolsti_vrh_skozi_jezo/3/125/4920">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/krize_tolsti_vrh_ovcja_pot_cez_krisko_goro/3/125/4918">Križe - Tolsti vrh (Ovčja pot čez Kriško goro)</a></td><td class="tdG"><a href="/izlet/krize_tolsti_vrh_ovcja_pot_cez_krisko_goro/3/125/4918">3 h 45 min</a></td><td class="tdG"><a href="/izlet/krize_tolsti_vrh_ovcja_pot_cez_krisko_goro/3/125/4918">lahka neoznačena steza</a></td></tr>
 
 </table>
 

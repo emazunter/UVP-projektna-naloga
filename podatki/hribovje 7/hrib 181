@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Ilija (Planina)</title>
-        <meta name="description" content="Natančen opis cerkve Sveti Ilija (Planina) in vseh pristopov na Sveti Ilija (Planina). Cerkev sv. Ilija, se nahaja na obrobju nekdanje kočevarske vasi Planina / Stocke." />
+        <title>Kapelica pri Mariji pod Srebotnikom</title>
+        <meta name="description" content="Natančen opis cerkve Kapelica pri Mariji pod Srebotnikom in vseh pristopov na Kapelica pri Mariji pod Srebotnikom. Kapelica pri Mariji vklesana v steno 700 metrov visokega Srebotnika. Prijetna to." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1920?gorovjeid=25&amp;id=1920" id="form1">
+    <form method="post" action="./2470?gorovjeid=25&amp;id=2470" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_ilija_planina/25/1920"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1920"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/chapel_at_marys_below_srebotnik/25/2470"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2470"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Sveti Ilija (Planina)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Kapelica pri Mariji pod Srebotnikom
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1920);
+    gorast(2470);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Ilija (Planina)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kapelica pri Mariji pod Srebotnikom</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,100 +653,16 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 747&nbsp;m</div>
-    
-        <script>
-            var kfi = 1;
-            function koordinateFormat() {
-                if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;37,3818'N&nbsp;/&nbsp;15°&nbsp;6,6690'E";
-                        kfi = 2;
-                    }
-                    else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;37'&nbsp;22,91''N&nbsp;/&nbsp;15°&nbsp;6'&nbsp;40,14''E";
-                        kfi = 3;
-                    }
-                    else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.62303°N&nbsp;/&nbsp;15.11115°E";
-                    kfi = 4;
-                }
-                else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,62303°N,&nbsp;15,11115°E";
-                        kfi = 1;
-                    }
-    }
-
-            function kopiraj() {
-                var tempInput = document.createElement("textarea");
-                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
-                document.body.appendChild(tempInput);
-                tempInput.select();
-                tempInput.setSelectionRange(0, 99999);
-                document.execCommand("copy");
-                document.body.removeChild(tempInput);
-                tooltip("Kopirano v odložišče...");
-
-            }
-
-    
-</script>
-        
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,62303°N&nbsp;15,11115°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_ilija_planina/1920"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><b>Višina:</b> 500&nbsp;m</div>
     
     <div class="g2"><b>Vrsta:</b> cerkev</div>
-  
-        <div class="g2"><b>Vremenska napoved:</b></div>
-        <div class="g2">
-<table><tr>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Ilija (Planina) - Petek" href="/vreme_gora/sveti_ilija_planina/25/1920#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Ilija (Planina) - Sobota" href="/vreme_gora/sveti_ilija_planina/25/1920#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Ilija (Planina) - Nedelja" href="/vreme_gora/sveti_ilija_planina/25/1920#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Ilija (Planina) - Ponedeljek" href="/vreme_gora/sveti_ilija_planina/25/1920#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Ilija (Planina) - Torek" href="/vreme_gora/sveti_ilija_planina/25/1920#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    </tr></table>
-        </div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 231.638</div>
-<div class="g2"><b>Priljubljenost:</b> 62%&nbsp;(1263.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 1.180</div>
+<div class="g2"><b>Priljubljenost:</b> 22%&nbsp;(2563.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +671,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev sv. Ilija, se nahaja na obrobju nekdanje kočevarske vasi Planina / Stockendorf. Ob cerkvi je staro, večinoma kočevarsko pokopališče, katero pa je bilo pred leti delno obnovljeno.</div>
+<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Kapelica pri Mariji vklesana v steno 700 metrov visokega Srebotnika. Prijetna točka nad Štorami. Tukaj je bilo nekoč počivališče za tovorne živali, kjer so napajali živino. Zgodila se je nesreča, vprega je zdrsnila v dolino potoka in vsi so po veliki sreči preživeli. V zahvalo so preživeli dali vklesati Marijo v skalo in še danes jo obiskujejo od blizu in daleč.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +704,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1920&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2470&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -797,58 +713,17 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><b>Gore v okolici</b>
-<select onchange="radiusf(this.value,1);">
-<option value="0,5">0,5</option>
-<option value="1">1</option>
-<option value="1,5">1,5</option>
-<option selected value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="6">6</option>
-<option value="8">8</option>
-<option value="10">10</option>
-<option value="15">15</option>
-<option value="20">20</option>
-<option value="30">30</option>
-</select> <b>km:</b><br />
-</div>
-<div id="radiusseznam1">
-<a class="moder" href="/gora/dom_na_mirni_gori/25/215">Dom na Mirni gori (1000m)</a>, <a class="moder" href="/gora/mirna_gora/25/475">Mirna gora (1047m)</a>
-</div>
-
-<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
-<select onchange="radiusf(this.value,2);">
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="5">5</option>
-<option value="7">7</option>
-<option value="10">10</option>
-<option selected value="15">15</option>
-<option value="20">20</option>
-<option value="25">25</option>
-<option value="30">30</option>
-<option value="35">35</option>
-<option value="40">40</option>
-<option value="50">50</option>
-<option value="60">60</option>
-</select> <b>km:</b><br></div>
-<div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crmosnjice/4124">Črmošnjice</a>, <a class="moder" href="/spletna_kamera/doblicka_gora/1734">Doblička Gora</a>, <a class="moder" href="/spletna_kamera/dom_na_mirni_gori/1766">Dom na Mirni gori</a>, <a class="moder" href="/spletna_kamera/dragatus/1074">Dragatuš</a>, <a class="moder" href="/spletna_kamera/gace/999">Gače</a>, <a class="moder" href="/spletna_kamera/vahta/148">Vahta</a>
-</div>
-
-
-
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_ilija_planina%2f25%2f1920"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_ilija_planina%2f25%2f1920"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_ilija_planina%2f25%2f1920"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkapelica_pri_mariji_pod_srebotnikom%2f25%2f2470"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkapelica_pri_mariji_pod_srebotnikom%2f25%2f2470"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkapelica_pri_mariji_pod_srebotnikom%2f25%2f2470"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_ilija_planina/9181" onclick="event.preventDefault(); window.open('/slika_gora/sveti_ilija_planina/9181');"><img class="slikagm" alt="Sveti Ilija (Planina)" src="//www.hribi.net/slike1/MirnaGora 194106722.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kapelica_pri_mariji_pod_srebotnikom/13336" onclick="event.preventDefault(); window.open('/slika_gora/kapelica_pri_mariji_pod_srebotnikom/13336');"><img class="slikagm" alt="Kapelica pri Mariji pod Srebotnikom" src="//www.hribi.net/slike5/PA2700607994428.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_ilija_planina/9183" onclick="event.preventDefault(); window.open('/slika_gora/sveti_ilija_planina/9183');"><img class="slikagm" alt="Sveti Ilija (Planina)" src="//www.hribi.net/Pot/pb010013mediumfl9.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kapelica_pri_mariji_pod_srebotnikom/13337" onclick="event.preventDefault(); window.open('/slika_gora/kapelica_pri_mariji_pod_srebotnikom/13337');"><img class="slikagm" alt="Kapelica pri Mariji pod Srebotnikom" src="//www.hribi.net/slike5/PA2700617994429.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kapelica_pri_mariji_pod_srebotnikom/13338" onclick="event.preventDefault(); window.open('/slika_gora/kapelica_pri_mariji_pod_srebotnikom/13338');"><img class="slikagm" alt="Kapelica pri Mariji pod Srebotnikom" src="//www.hribi.net/slike5/PA2700597994430.th.jpg" /></a>
     
 </div>
 
@@ -912,7 +787,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1920&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2470&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,7 +797,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vrcice_sveti_ilija_planina/25/1920/3547">Vrčice - Sveti Ilija (Planina)</a></td><td class="tdG"><a href="/izlet/vrcice_sveti_ilija_planina/25/1920/3547">1 h 15 min</a></td><td class="tdG"><a href="/izlet/vrcice_sveti_ilija_planina/25/1920/3547">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/store_kapelica_pri_mariji_pod_srebotnikom_barbarina_pot/25/2470/5201">Štore - Kapelica pri Mariji pod Srebotnikom (Barbarina pot)</a></td><td class="tdG"><a href="/izlet/store_kapelica_pri_mariji_pod_srebotnikom_barbarina_pot/25/2470/5201">1 h 15 min</a></td><td class="tdG"><a href="/izlet/store_kapelica_pri_mariji_pod_srebotnikom_barbarina_pot/25/2470/5201">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/celje_kapelica_pri_mariji_pod_srebotnikom_po_celjski_planinski_poti/25/2470/5207">Celje - Kapelica pri Mariji pod Srebotnikom (po Celjski planinski poti)</a></td><td class="tdG"><a href="/izlet/celje_kapelica_pri_mariji_pod_srebotnikom_po_celjski_planinski_poti/25/2470/5207">2 h 15 min</a></td><td class="tdG"><a href="/izlet/celje_kapelica_pri_mariji_pod_srebotnikom_po_celjski_planinski_poti/25/2470/5207">lahka označena pot</a></td></tr>
 
 </table>
 

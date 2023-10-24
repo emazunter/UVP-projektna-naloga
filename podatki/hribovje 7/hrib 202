@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kmečki turizem Obolno</title>
-        <meta name="description" content="Natančen opis koče Kmečki turizem Obolno in vseh pristopov na Kmečki turizem Obolno. Kmečki turizem Obolno se nahaja severno do severovzhodno od vrha Obolno.." />
+        <title>Črni hrib (Golovec)</title>
+        <meta name="description" content="Natančen opis gore Črni hrib (Golovec) in vseh pristopov na Črni hrib (Golovec). Črni hrib je 440 m visok hrib, ki se nahaja v osrednjem delu Golovca. Preko vrha." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2508?gorovjeid=25&amp;id=2508" id="form1">
+    <form method="post" action="./1431?gorovjeid=25&amp;id=1431" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/agrotourism_obolno/25/2508"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2508"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/crni_hrib_golovec/25/1431"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1431"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Kmečki turizem Obolno
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Črni hrib (Golovec)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2508);
+    gorast(1431);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kmečki turizem Obolno</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Črni hrib (Golovec)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 722&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 440&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;0,2580'N&nbsp;/&nbsp;14°&nbsp;46,8060'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;1,9608'N&nbsp;/&nbsp;14°&nbsp;33,0270'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;0'&nbsp;15,48''N&nbsp;/&nbsp;14°&nbsp;46'&nbsp;48,36''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;1'&nbsp;57,65''N&nbsp;/&nbsp;14°&nbsp;33'&nbsp;1,62''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.0043°N&nbsp;/&nbsp;14.7801°E";
+                        document.getElementById("kf0").innerHTML = "46.03268°N&nbsp;/&nbsp;14.55045°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,0043°N,&nbsp;14,7801°E";
+                    document.getElementById("kf0").innerHTML = "46,03268°N,&nbsp;14,55045°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,0043°N&nbsp;14,7801°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kmecki_turizem_obolno/2508"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,03268°N&nbsp;14,55045°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/crni_hrib_golovec/1431"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Črni hrib (Golovec) - Torek" href="/vreme_gora/crni_hrib_golovec/25/1431#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Črni hrib (Golovec) - Sreda" href="/vreme_gora/crni_hrib_golovec/25/1431#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Črni hrib (Golovec) - Četrtek" href="/vreme_gora/crni_hrib_golovec/25/1431#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kmečki turizem Obolno - Petek" href="/vreme_gora/kmecki_turizem_obolno/25/2508#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Črni hrib (Golovec) - Petek" href="/vreme_gora/crni_hrib_golovec/25/1431#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kmečki turizem Obolno - Sobota" href="/vreme_gora/kmecki_turizem_obolno/25/2508#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kmečki turizem Obolno - Nedelja" href="/vreme_gora/kmecki_turizem_obolno/25/2508#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kmečki turizem Obolno - Ponedeljek" href="/vreme_gora/kmecki_turizem_obolno/25/2508#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kmečki turizem Obolno - Torek" href="/vreme_gora/kmecki_turizem_obolno/25/2508#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Črni hrib (Golovec) - Sobota" href="/vreme_gora/crni_hrib_golovec/25/1431#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 3.690</div>
-<div class="g2"><b>Priljubljenost:</b> 33%&nbsp;(2209.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2508" title="Število vpisov v vpisni knjigi">2</a></div>
+<div class="g2"><b>Ogledov:</b> 272.351</div>
+<div class="g2"><b>Priljubljenost:</b> 66%&nbsp;(1108.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1431" title="Število vpisov v vpisni knjigi">4</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Kmečki turizem Obolno se nahaja severno do severovzhodno od vrha Obolno.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Črni hrib je 440 m visok hrib, ki se nahaja v osrednjem delu Golovca. Preko vrha, na katerem se nahaja spomenik NOB in klop z mizo, vodi t.i. Pot spominov in tovarištva.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2508&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1431&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/obolno/25/1137">Obolno (776m)</a>
+<a class="moder" href="/gora/luknje/25/3513">Luknje (438m)</a>, <a class="moder" href="/gora/mazovnik_golovec/25/1430">Mazovnik (Golovec) (450m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,18 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/dob/433">Dob</a>, <a class="moder" href="/spletna_kamera/grosuplje/303">Grosuplje</a>, <a class="moder" href="/spletna_kamera/grosuplje/1964">Grosuplje</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sevno/2378">Sevno</a>, <a class="moder" href="/spletna_kamera/visnja_gora/429">Višnja Gora</a>, <a class="moder" href="/spletna_kamera/zagarski_vrh/3123">Žagarski vrh</a>
+<a class="moder" href="/spletna_kamera/brezovica/318">Brezovica</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/debeli_hrib/422">Debeli hrib</a>, <a class="moder" href="/spletna_kamera/domzale/1008">Domžale</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/golovec_astronomski_observatorij_fmf/4305">Golovec (Astronomski observatorij FMF)</a>, <a class="moder" href="/spletna_kamera/grosuplje/1964">Grosuplje</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/krim/489">Krim</a>, <a class="moder" href="/spletna_kamera/lavrica/3607">Lavrica</a>, <a class="moder" href="/spletna_kamera/ljubljana_cankarjevo_nabrezje/2154">Ljubljana (Cankarjevo nabrežje)</a>, <a class="moder" href="/spletna_kamera/ljubljana_izanska_cesta/1963">Ljubljana (Ižanska cesta)</a>, <a class="moder" href="/spletna_kamera/ljubljana_kongresni_trg/297">Ljubljana (Kongresni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_mestni_trg/2149">Ljubljana (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_ukc_ljubljana/3385">Ljubljana (UKC Ljubljana)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/ljubljana_bezigrad/1708">Ljubljana Bežigrad</a>, <a class="moder" href="/spletna_kamera/ljubljana_brdo/465">Ljubljana Brdo</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_golovec/463">Ljubljana Golovec</a>, <a class="moder" href="/spletna_kamera/ljubljana_jug/457">Ljubljana jug</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_kozarje/467">Ljubljana Kozarje</a>, <a class="moder" href="/spletna_kamera/ljubljana_malence/455">Ljubljana Malence</a>, <a class="moder" href="/spletna_kamera/ljubljana_nove_jarse/480">Ljubljana Nove Jarše</a>, <a class="moder" href="/spletna_kamera/ljubljana_rudnik/1759">Ljubljana Rudnik</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/ljubljana_tomacevo/479">Ljubljana Tomačevo</a>, <a class="moder" href="/spletna_kamera/ljubljana_zadobrova/459">Ljubljana Zadobrova</a>, <a class="moder" href="/spletna_kamera/ljubljanski_grad/179">Ljubljanski grad</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/orle/4000">Orle</a>, <a class="moder" href="/spletna_kamera/pijava_gorica/454">Pijava Gorica</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/rasica_nad_ljubljano/2418">Rašica nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sentjakob/354">Šentjakob</a>, <a class="moder" href="/spletna_kamera/skofljica/3606">Škofljica</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/zagarski_vrh/3123">Žagarski vrh</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkmecki_turizem_obolno%2f25%2f2508"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkmecki_turizem_obolno%2f25%2f2508"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkmecki_turizem_obolno%2f25%2f2508"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fcrni_hrib_golovec%2f25%2f1431"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fcrni_hrib_golovec%2f25%2f1431"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fcrni_hrib_golovec%2f25%2f1431"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kmecki_turizem_obolno/13536" onclick="event.preventDefault(); window.open('/slika_gora/kmecki_turizem_obolno/13536');"><img class="slikagm" alt="Kmečki turizem Obolno" src="//slike.hribi.net/slike4/2_1605490085249_DSCN6440.JPG" /></a>
+        <a target="_blank" href="/slika_gora/crni_hrib_golovec/5239" onclick="event.preventDefault(); window.open('/slika_gora/crni_hrib_golovec/5239');"><img class="slikagm" alt="Črni hrib (Golovec)" src="//www.hribi.net/slike1/Golovec 074133380.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/crni_hrib_golovec/16510" onclick="event.preventDefault(); window.open('/slika_gora/crni_hrib_golovec/16510');"><img class="slikagm" alt="Črni hrib (Golovec)" src="//www.hribi.net/slike1/DSCN5266161280.th.jpg" /></a>
     
 </div>
 
@@ -910,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2508&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1431&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -920,9 +922,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_cez_obolno/25/2508/5347">Mala Goričica - Kmečki turizem Obolno (čez Obolno)</a></td><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_cez_obolno/25/2508/5347">1 h 15 min</a></td><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_cez_obolno/25/2508/5347">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubljana_botanicni_vrt_crni_hrib_golovec/25/1431/2407">Ljubljana (Botanični vrt) - Črni hrib (Golovec)</a></td><td class="tdG"><a href="/izlet/ljubljana_botanicni_vrt_crni_hrib_golovec/25/1431/2407"> 55 min</a></td><td class="tdG"><a href="/izlet/ljubljana_botanicni_vrt_crni_hrib_golovec/25/1431/2407">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_po_cesti/25/2508/5348">Mala Goričica - Kmečki turizem Obolno (po cesti)</a></td><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_po_cesti/25/2508/5348">1 h 10 min</a></td><td class="tdG"><a href="/izlet/mala_goricica_kmecki_turizem_obolno_po_cesti/25/2508/5348">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubljana_london_crni_hrib_golovec/25/1431/2408">Ljubljana (London) - Črni hrib (Golovec)</a></td><td class="tdG"><a href="/izlet/ljubljana_london_crni_hrib_golovec/25/1431/2408"> 30 min</a></td><td class="tdG"><a href="/izlet/ljubljana_london_crni_hrib_golovec/25/1431/2408">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubljana_rakovnik_crni_hrib_golovec/25/1431/4389">Ljubljana (Rakovnik) - Črni hrib (Golovec)</a></td><td class="tdG"><a href="/izlet/ljubljana_rakovnik_crni_hrib_golovec/25/1431/4389"> 50 min</a></td><td class="tdG"><a href="/izlet/ljubljana_rakovnik_crni_hrib_golovec/25/1431/4389">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubljana_stepanja_vas_crni_hrib_golovec/25/1431/6645">Ljubljana (Štepanja vas) - Črni hrib (Golovec)</a></td><td class="tdG"><a href="/izlet/ljubljana_stepanja_vas_crni_hrib_golovec/25/1431/6645"> 50 min</a></td><td class="tdG"><a href="/izlet/ljubljana_stepanja_vas_crni_hrib_golovec/25/1431/6645">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubljana_gruberjeva_brv_crni_hrib_golovec/25/1431/6643">Ljubljana (Gruberjeva brv) - Črni hrib (Golovec)</a></td><td class="tdG"><a href="/izlet/ljubljana_gruberjeva_brv_crni_hrib_golovec/25/1431/6643"> 50 min</a></td><td class="tdG"><a href="/izlet/ljubljana_gruberjeva_brv_crni_hrib_golovec/25/1431/6643">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Srebotnik</title>
-        <meta name="description" content="Natančen opis gore Srebotnik in vseh pristopov na Srebotnik. Srebotnik je rahlo poraščen vrh, ki se nahaja južno od Celja in Štor v Posavskem." />
+        <title>Oljska gora</title>
+        <meta name="description" content="Natančen opis gore Oljska gora in vseh pristopov na Oljska gora. Oljska gora je 401 meter visok hrib na severu Ljubljane, točneje med Nadgorico, ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./881?gorovjeid=25&amp;id=881" id="form1">
+    <form method="post" action="./2877?gorovjeid=25&amp;id=2877" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/srebotnik/25/881"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=881"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/oljska_gora/25/2877"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2877"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Srebotnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Oljska gora
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(881);
+    gorast(2877);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Srebotnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Oljska gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 700&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 401&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;12,0174'N&nbsp;/&nbsp;15°&nbsp;17,7510'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;5,9220'N&nbsp;/&nbsp;14°&nbsp;34,3320'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;12'&nbsp;1,04''N&nbsp;/&nbsp;15°&nbsp;17'&nbsp;45,06''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;5'&nbsp;55,32''N&nbsp;/&nbsp;14°&nbsp;34'&nbsp;19,92''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.20029°N&nbsp;/&nbsp;15.29585°E";
+                        document.getElementById("kf0").innerHTML = "46.0987°N&nbsp;/&nbsp;14.5722°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,20029°N,&nbsp;15,29585°E";
+                    document.getElementById("kf0").innerHTML = "46,0987°N,&nbsp;14,5722°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,20029°N&nbsp;15,29585°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/srebotnik/881"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,0987°N&nbsp;14,5722°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/oljska_gora/2877"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Oljska gora - Torek" href="/vreme_gora/oljska_gora/25/2877#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Oljska gora - Sreda" href="/vreme_gora/oljska_gora/25/2877#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Oljska gora - Četrtek" href="/vreme_gora/oljska_gora/25/2877#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Srebotnik - Petek" href="/vreme_gora/srebotnik/25/881#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Oljska gora - Petek" href="/vreme_gora/oljska_gora/25/2877#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Srebotnik - Sobota" href="/vreme_gora/srebotnik/25/881#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Srebotnik - Nedelja" href="/vreme_gora/srebotnik/25/881#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Srebotnik - Ponedeljek" href="/vreme_gora/srebotnik/25/881#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Srebotnik - Torek" href="/vreme_gora/srebotnik/25/881#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Oljska gora - Sobota" href="/vreme_gora/oljska_gora/25/2877#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 406.569</div>
-<div class="g2"><b>Priljubljenost:</b> 81%&nbsp;(616.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=881" title="Število vpisov v vpisni knjigi">4</a></div>
+<div class="g2"><b>Ogledov:</b> 7.840</div>
+<div class="g2"><b>Priljubljenost:</b> 37%&nbsp;(2075.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2877" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Srebotnik je rahlo poraščen vrh, ki se nahaja južno od Celja in Štor v Posavskem hribovju. Z vrha, ki ima vpisno skrinjico in manjšo klop je lep razgled na bližnji Tolsti vrh. Srebotnik pa je kljub skromni višini, strma in na eno stran prepadna gora.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Oljska gora je 401 meter visok hrib na severu Ljubljane, točneje med Nadgorico, Podgorico in Dragomljem. Na vrhu se nahaja vpisna skrinjica z vpisno knjigo, nekaj klopi, gugalnica in še kaj.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=881&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2877&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/almin_dom_na_svetini/25/880">Almin dom na Svetini (772m)</a>, <a class="moder" href="/gora/bavc/25/3340">Bavč (692m)</a>, <a class="moder" href="/gora/celjska_koca/25/878">Celjska koča (652m)</a>, <a class="moder" href="/gora/gradise_nad_storami/25/3428">Gradiše (nad Štorami) (540m)</a>, <a class="moder" href="/gora/grmada_nad_celjem/25/877">Grmada nad Celjem (718m)</a>, <a class="moder" href="/gora/mali_bojanski_vrh/25/3347">Mali Bojanski vrh (600m)</a>, <a class="moder" href="/gora/pecovniska_koca_na_grmadi/25/876">Pečovniška koča na Grmadi (620m)</a>, <a class="moder" href="/gora/tolsti_vrh_nad_celjsko_koco/25/879">Tolsti vrh nad Celjsko kočo (834m)</a>, <a class="moder" href="/gora/veliki_bojanski_vrh/25/3335">Veliki Bojanski vrh (627m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,22 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/celje_krekov_trg/3511">Celje (Krekov trg)</a>, <a class="moder" href="/spletna_kamera/celje_letno_kopalisce/361">Celje (letno kopališče)</a>, <a class="moder" href="/spletna_kamera/celjska_koca/174">Celjska koča</a>, <a class="moder" href="/spletna_kamera/dramlje/1743">Dramlje</a>, <a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/lahomsek/309">Lahomšek</a>, <a class="moder" href="/spletna_kamera/lisca/506">Lisca</a>, <a class="moder" href="/spletna_kamera/marno/381">Marno</a>, <a class="moder" href="/spletna_kamera/medlog/1164">Medlog</a>, <a class="moder" href="/spletna_kamera/mrzlica/1360">Mrzlica</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/planina_pri_sevnici/4944">Planina pri Sevnici</a>, <a class="moder" href="/spletna_kamera/slatina/363">Slatina</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>, <a class="moder" href="/spletna_kamera/zegar/4945">Žegar</a>, <a class="moder" href="/spletna_kamera/zima/362">Zima</a>
+<a class="moder" href="/spletna_kamera/brezovica/318">Brezovica</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/debeli_hrib/422">Debeli hrib</a>, <a class="moder" href="/spletna_kamera/domzale/1008">Domžale</a>, <a class="moder" href="/spletna_kamera/golovec_astronomski_observatorij_fmf/4305">Golovec (Astronomski observatorij FMF)</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/krtina/3453">Krtina</a>, <a class="moder" href="/spletna_kamera/lavrica/3607">Lavrica</a>, <a class="moder" href="/spletna_kamera/ljubljana_cankarjevo_nabrezje/2154">Ljubljana (Cankarjevo nabrežje)</a>, <a class="moder" href="/spletna_kamera/ljubljana_izanska_cesta/1963">Ljubljana (Ižanska cesta)</a>, <a class="moder" href="/spletna_kamera/ljubljana_kongresni_trg/297">Ljubljana (Kongresni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_mestni_trg/2149">Ljubljana (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_ukc_ljubljana/3385">Ljubljana (UKC Ljubljana)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/ljubljana_bezigrad/1708">Ljubljana Bežigrad</a>, <a class="moder" href="/spletna_kamera/ljubljana_brdo/465">Ljubljana Brdo</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_golovec/463">Ljubljana Golovec</a>, <a class="moder" href="/spletna_kamera/ljubljana_jug/457">Ljubljana jug</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_kozarje/467">Ljubljana Kozarje</a>, <a class="moder" href="/spletna_kamera/ljubljana_malence/455">Ljubljana Malence</a>, <a class="moder" href="/spletna_kamera/ljubljana_nove_jarse/480">Ljubljana Nove Jarše</a>, <a class="moder" href="/spletna_kamera/ljubljana_rudnik/1759">Ljubljana Rudnik</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/ljubljana_tomacevo/479">Ljubljana Tomačevo</a>, <a class="moder" href="/spletna_kamera/ljubljana_zadobrova/459">Ljubljana Zadobrova</a>, <a class="moder" href="/spletna_kamera/ljubljanski_grad/179">Ljubljanski grad</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/medvode/184">Medvode</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/orle/4000">Orle</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rasica_nad_ljubljano/2418">Rašica nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sentjakob/354">Šentjakob</a>, <a class="moder" href="/spletna_kamera/skofljica/3606">Škofljica</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/zagarski_vrh/3123">Žagarski vrh</a>, <a class="moder" href="/spletna_kamera/zbiljsko_jezero/2165">Zbiljsko jezero</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsrebotnik%2f25%2f881"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsrebotnik%2f25%2f881"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsrebotnik%2f25%2f881"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2foljska_gora%2f25%2f2877"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2foljska_gora%2f25%2f2877"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2foljska_gora%2f25%2f2877"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/srebotnik/2871" onclick="event.preventDefault(); window.open('/slika_gora/srebotnik/2871');"><img class="slikagm" alt="Srebotnik" src="//www.hribi.net/slike1/P33007977680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/oljska_gora/16610" onclick="event.preventDefault(); window.open('/slika_gora/oljska_gora/16610');"><img class="slikagm" alt="Oljska gora" src="//slike.hribi.net/slike4/2_0407573898050_DSCN6637.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/srebotnik/2872" onclick="event.preventDefault(); window.open('/slika_gora/srebotnik/2872');"><img class="slikagm" alt="Srebotnik" src="//www.hribi.net/slike1/P330078433600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/oljska_gora/16611" onclick="event.preventDefault(); window.open('/slika_gora/oljska_gora/16611');"><img class="slikagm" alt="Oljska gora" src="//slike.hribi.net/slike4/2_3410574192428_DSCN6636.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/srebotnik/5493" onclick="event.preventDefault(); window.open('/slika_gora/srebotnik/5493');"><img class="slikagm" alt="Srebotnik" src="//www.hribi.net/slike1/CeljskaKoca 15621120.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/oljska_gora/16612" onclick="event.preventDefault(); window.open('/slika_gora/oljska_gora/16612');"><img class="slikagm" alt="Oljska gora" src="//slike.hribi.net/slike4/2_1778573898053_DSCN6638.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/oljska_gora/16613" onclick="event.preventDefault(); window.open('/slika_gora/oljska_gora/16613');"><img class="slikagm" alt="Oljska gora" src="//slike.hribi.net/slike4/2_0171573898085_DSCN6641.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/oljska_gora/16614" onclick="event.preventDefault(); window.open('/slika_gora/oljska_gora/16614');"><img class="slikagm" alt="Oljska gora" src="//slike.hribi.net/slike4/2_1562573898088_DSCN6646.JPG" /></a>
     
 </div>
 
@@ -914,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=881&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2877&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -924,21 +928,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pecovje_srebotnik/25/881/1556">Pečovje - Srebotnik</a></td><td class="tdG"><a href="/izlet/pecovje_srebotnik/25/881/1556"> 50 min</a></td><td class="tdG"><a href="/izlet/pecovje_srebotnik/25/881/1556">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubljana_podgorica_pri_crnucah_oljska_gora/25/2877/6694">Ljubljana (Podgorica pri Črnučah) - Oljska gora</a></td><td class="tdG"><a href="/izlet/ljubljana_podgorica_pri_crnucah_oljska_gora/25/2877/6694"> 20 min</a></td><td class="tdG"><a href="/izlet/ljubljana_podgorica_pri_crnucah_oljska_gora/25/2877/6694">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/celje_srebotnik_po_celjski_planinski_poti/25/881/4828">Celje - Srebotnik (po Celjski planinski poti)</a></td><td class="tdG"><a href="/izlet/celje_srebotnik_po_celjski_planinski_poti/25/881/4828">2 h 45 min</a></td><td class="tdG"><a href="/izlet/celje_srebotnik_po_celjski_planinski_poti/25/881/4828">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubljana_soteska_pot_oljska_gora/25/2877/6693">Ljubljana (Soteška pot) - Oljska gora</a></td><td class="tdG"><a href="/izlet/ljubljana_soteska_pot_oljska_gora/25/2877/6693"> 25 min</a></td><td class="tdG"><a href="/izlet/ljubljana_soteska_pot_oljska_gora/25/2877/6693">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/store_srebotnik_mimo_marije_in_juzni_pristop/25/881/4845">Štore - Srebotnik (mimo Marije in južni pristop)</a></td><td class="tdG"><a href="/izlet/store_srebotnik_mimo_marije_in_juzni_pristop/25/881/4845">1 h 45 min</a></td><td class="tdG"><a href="/izlet/store_srebotnik_mimo_marije_in_juzni_pristop/25/881/4845">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/store_srebotnik/25/881/4825">Štore - Srebotnik</a></td><td class="tdG"><a href="/izlet/store_srebotnik/25/881/4825">1 h 30 min</a></td><td class="tdG"><a href="/izlet/store_srebotnik/25/881/4825">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zvodno_srebotnik_skozi_hudicev_graben/25/881/8022">Zvodno - Srebotnik (skozi Hudičev graben)</a></td><td class="tdG"><a href="/izlet/zvodno_srebotnik_skozi_hudicev_graben/25/881/8022">1 h</a></td><td class="tdG"><a href="/izlet/zvodno_srebotnik_skozi_hudicev_graben/25/881/8022">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zvodno_srebotnik_po_celjski_planinski_poti/25/881/8114">Zvodno - Srebotnik (po Celjski planinski poti)</a></td><td class="tdG"><a href="/izlet/zvodno_srebotnik_po_celjski_planinski_poti/25/881/8114">1 h 15 min</a></td><td class="tdG"><a href="/izlet/zvodno_srebotnik_po_celjski_planinski_poti/25/881/8114">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__srebotnik_severni_pristop/25/881/8033">Kozolec (Laška vas - Pečovje)  - Srebotnik (severni pristop)</a></td><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__srebotnik_severni_pristop/25/881/8033">1 h 15 min</a></td><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__srebotnik_severni_pristop/25/881/8033">lahka označena pot, lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/teharje_srebotnik_pot_i_celjske_cete/25/881/8187">Teharje - Srebotnik (Pot I. Celjske čete)</a></td><td class="tdG"><a href="/izlet/teharje_srebotnik_pot_i_celjske_cete/25/881/8187">2 h</a></td><td class="tdG"><a href="/izlet/teharje_srebotnik_pot_i_celjske_cete/25/881/8187">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubljana_ocvirkova_ulica_oljska_gora/25/2877/6695">Ljubljana (Ocvirkova ulica) - Oljska gora</a></td><td class="tdG"><a href="/izlet/ljubljana_ocvirkova_ulica_oljska_gora/25/2877/6695"> 20 min</a></td><td class="tdG"><a href="/izlet/ljubljana_ocvirkova_ulica_oljska_gora/25/2877/6695">lahka neoznačena steza</a></td></tr>
 
 </table>
 

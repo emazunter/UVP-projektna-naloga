@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Primož nad Muto</title>
-        <meta name="description" content="Natančen opis sedla Sveti Primož nad Muto in vseh pristopov na Sveti Primož nad Muto. Sveti Primož nad Muto je raztreseno naselje, ki se dviga severno od Mute. Cerkev." />
+        <title>Kalvarija (cerkev svete Barbare)</title>
+        <meta name="description" content="Natančen opis gore Kalvarija (cerkev svete Barbare) in vseh pristopov na Kalvarija (cerkev svete Barbare). Kalvarija je hrib nad mestom Maribor, ki je v večji meri zasajen z vinogradi. Na." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3010?gorovjeid=162&amp;id=3010" id="form1">
+    <form method="post" action="./3444?gorovjeid=162&amp;id=3444" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_primoz_above_muta/162/3010"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=162&id=3010"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kalvarija_church_of_st_barbara/162/3444"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=162&id=3444"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/strojna_kosenjak_kozjak_in_slovenske_gorice/162">Strojna, Košenjak, Kozjak in Slovenske gorice</a> / Sveti Primož nad Muto
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/strojna_kosenjak_kozjak_in_slovenske_gorice/162">Strojna, Košenjak, Kozjak in Slovenske gorice</a> / Kalvarija (cerkev svete Barbare)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3010);
+    gorast(3444);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Primož nad Muto</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kalvarija (cerkev svete Barbare)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/strojna_kosenjak_kozjak_in_slovenske_gorice/162">Strojna, Košenjak, Kozjak in Slovenske gorice</a></div>
-    <div class="g2"><b>Višina:</b> 806&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 375&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;37,8360'N&nbsp;/&nbsp;15°&nbsp;9,5040'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;34,1430'N&nbsp;/&nbsp;15°&nbsp;38,3844'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;37'&nbsp;50,16''N&nbsp;/&nbsp;15°&nbsp;9'&nbsp;30,24''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;34'&nbsp;8,58''N&nbsp;/&nbsp;15°&nbsp;38'&nbsp;23,06''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.6306°N&nbsp;/&nbsp;15.1584°E";
+                        document.getElementById("kf0").innerHTML = "46.56905°N&nbsp;/&nbsp;15.63974°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,6306°N,&nbsp;15,1584°E";
+                    document.getElementById("kf0").innerHTML = "46,56905°N,&nbsp;15,63974°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,6306°N&nbsp;15,1584°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_primoz_nad_muto/3010"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,56905°N&nbsp;15,63974°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kalvarija_cerkev_svete_barbare/3444"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> sedlo, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kalvarija (cerkev svete Barbare) - Torek" href="/vreme_gora/kalvarija_cerkev_svete_barbare/162/3444#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kalvarija (cerkev svete Barbare) - Sreda" href="/vreme_gora/kalvarija_cerkev_svete_barbare/162/3444#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kalvarija (cerkev svete Barbare) - Četrtek" href="/vreme_gora/kalvarija_cerkev_svete_barbare/162/3444#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Primož nad Muto - Petek" href="/vreme_gora/sveti_primoz_nad_muto/162/3010#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kalvarija (cerkev svete Barbare) - Petek" href="/vreme_gora/kalvarija_cerkev_svete_barbare/162/3444#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Primož nad Muto - Sobota" href="/vreme_gora/sveti_primoz_nad_muto/162/3010#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Primož nad Muto - Nedelja" href="/vreme_gora/sveti_primoz_nad_muto/162/3010#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Primož nad Muto - Ponedeljek" href="/vreme_gora/sveti_primoz_nad_muto/162/3010#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Primož nad Muto - Torek" href="/vreme_gora/sveti_primoz_nad_muto/162/3010#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kalvarija (cerkev svete Barbare) - Sobota" href="/vreme_gora/kalvarija_cerkev_svete_barbare/162/3444#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 2.200</div>
-<div class="g2"><b>Priljubljenost:</b> 28%&nbsp;(2377.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Ogledov:</b> 1.840</div>
+<div class="g2"><b>Priljubljenost:</b> 26%&nbsp;(2437.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">14</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=3444" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis sedla:</b><br />Sveti Primož nad Muto je raztreseno naselje, ki se dviga severno od Mute. Cerkev sv. Primoža in Felicijana, ki se nahaja v grebenu med Primoškim vrhom in Bricnikom, se prvič omenja leta 1425, od nje pa se odpre lep razgled proti dolini, kjer se lepo vidita Vuzenica in Muta, reki Dravi in Pohorju.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Kalvarija je hrib nad mestom Maribor, ki je v večji meri zasajen z vinogradi. Na vrh hriba nas vodi 454 kamnitih stopnic ("štenge" na Kalvarijo). V bližini stopnic se nahaja cerkev svete Barbare. Cerkev je bila zgrajena v namen zahvale prenehanju razhajanja bolezni kuge (1681).<br> Z vrha hriba (375 mnv) je lep razgled na celotno mesto Maribor, reko Dravo in mariborsko Pohorje. Po hribu je speljana lepa pohodniška pot, ki nas vodi med tamkajšnjimi vinogradi in lepimi razgledi!</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3010&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3444&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bricnik/162/3011">Bricnik (1017m)</a>, <a class="moder" href="/gora/zavetisce_onuk_-_glavar/162/3014">Zavetišče Onuk - Glavar (790m)</a>
+<a class="moder" href="/gora/kapela_sv_rozalije_na_samotnem_boru/162/3218">Kapela sv. Rozalije na Samotnem boru (370m)</a>, <a class="moder" href="/gora/samotni_bor/162/2344">Samotni bor (426m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,28 +835,44 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bukovnik/527">Bukovnik</a>, <a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/jez_golica___stausee_soboth/1851">Jez Golica / Stausee Soboth</a>, <a class="moder" href="/spletna_kamera/kapunar/1072">Kapunar</a>, <a class="moder" href="/spletna_kamera/koca_pod_kremzarjevim_vrhom/2192">Koča pod Kremžarjevim vrhom</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/radeljski_prelaz/2202">Radeljski prelaz</a>, <a class="moder" href="/spletna_kamera/radlje_ob_dravi/4445">Radlje ob Dravi</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/slovenj_gradec/1600">Slovenj Gradec</a>, <a class="moder" href="/spletna_kamera/soboth/3415">Soboth</a>
+<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/dogose/1747">Dogoše</a>, <a class="moder" href="/spletna_kamera/eorykogel_-_leutschach_an_der_weinstrasse/3799">Eorykogel - Leutschach an der Weinstraße</a>, <a class="moder" href="/spletna_kamera/fram/371">Fram</a>, <a class="moder" href="/spletna_kamera/gramoznica/372">Gramoznica</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/kamnica/2138">Kamnica</a>, <a class="moder" href="/spletna_kamera/kresnica/1436">Kresnica</a>, <a class="moder" href="/spletna_kamera/letalisce_maribor/1040">Letališče Maribor</a>, <a class="moder" href="/spletna_kamera/maribor/374">Maribor</a>, <a class="moder" href="/spletna_kamera/maribor_radvanje/2098">Maribor (Radvanje)</a>, <a class="moder" href="/spletna_kamera/mariborski_otok/4956">Mariborski otok</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/miklavz/383">Miklavž</a>, <a class="moder" href="/spletna_kamera/mocna/1753">Močna</a>, <a class="moder" href="/spletna_kamera/pernica/4836">Pernica</a>, <a class="moder" href="/spletna_kamera/pesnica/375">Pesnica</a>, <a class="moder" href="/spletna_kamera/razcep_slivnica/4907">Razcep Slivnica</a>, <a class="moder" href="/spletna_kamera/sentilj/189">Šentilj</a>, <a class="moder" href="/spletna_kamera/sentilj/378">Šentilj</a>, <a class="moder" href="/spletna_kamera/sportni_park_tabor_maribor/3695">Športni park Tabor Maribor</a>, <a class="moder" href="/spletna_kamera/sulztal_an_der_weinstrasse/4861">Sulztal an der Weinstrasse</a>, <a class="moder" href="/spletna_kamera/viadukt_dragucova/4900">Viadukt Dragučova</a>, <a class="moder" href="/spletna_kamera/viadukt_slivnica/4828">Viadukt Slivnica</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_nad_muto%2f162%2f3010"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_nad_muto%2f162%2f3010"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_nad_muto%2f162%2f3010"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkalvarija_cerkev_svete_barbare%2f162%2f3444"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkalvarija_cerkev_svete_barbare%2f162%2f3444"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkalvarija_cerkev_svete_barbare%2f162%2f3444"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_primoz_nad_muto/17709" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_nad_muto/17709');"><img class="slikagm" alt="Sveti Primož nad Muto" src="//slike.hribi.net/slike4/2_0986598730912_DSCN9027.JPG" /></a>
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20482" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20482');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_0395687178995_1.1.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_primoz_nad_muto/17710" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_nad_muto/17710');"><img class="slikagm" alt="Sveti Primož nad Muto" src="//slike.hribi.net/slike4/2_4468599145956_DSCN9540.JPG" /></a>
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20483" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20483');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_1620687178998_1.2.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_primoz_nad_muto/17711" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_nad_muto/17711');"><img class="slikagm" alt="Sveti Primož nad Muto" src="//slike.hribi.net/slike4/2_0943598731515_DSCN9531.JPG" /></a>
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20484" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20484');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_2662687179000_2.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_primoz_nad_muto/17712" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_nad_muto/17712');"><img class="slikagm" alt="Sveti Primož nad Muto" src="//slike.hribi.net/slike4/2_3856599145953_DSCN9539.JPG" /></a>
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20485" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20485');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_3594687179005_3.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_primoz_nad_muto/17713" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_nad_muto/17713');"><img class="slikagm" alt="Sveti Primož nad Muto" src="//slike.hribi.net/slike4/2_0225599145945_DSCN9533.JPG" /></a>
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20486" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20486');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_4298687179008_4.1.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_primoz_nad_muto/17714" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_nad_muto/17714');"><img class="slikagm" alt="Sveti Primož nad Muto" src="//slike.hribi.net/slike4/2_2277599145951_DSCN9538.JPG" /></a>
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20487" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20487');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_5357687179010_4.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20488" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20488');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_6739687179013_5.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20489" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20489');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_7411687179016_6.1.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20490" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20490');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_8470687179017_6.2.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20491" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20491');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_0971687179095_6.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20492" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20492');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_1859687179098_7.1.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20493" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20493');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_2308687179099_7.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20494" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20494');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_0650687179495_8.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/kalvarija_cerkev_svete_barbare/20495" onclick="event.preventDefault(); window.open('/slika_gora/kalvarija_cerkev_svete_barbare/20495');"><img class="slikagm" alt="Kalvarija (cerkev svete Barbare)" src="//slike2.hribi.net/slike016/2_1782687179497_9.JPG" /></a>
     
 </div>
 
@@ -920,7 +936,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3010&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3444&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -930,15 +946,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/muta_spodnja_muta_sveti_primoz_nad_muto/162/3010/7096">Muta (Spodnja Muta) - Sveti Primož nad Muto</a></td><td class="tdG"><a href="/izlet/muta_spodnja_muta_sveti_primoz_nad_muto/162/3010/7096">1 h 20 min</a></td><td class="tdG"><a href="/izlet/muta_spodnja_muta_sveti_primoz_nad_muto/162/3010/7096">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/radlje_ob_dravi_sveti_primoz_nad_muto/162/3010/7292">Radlje ob Dravi - Sveti Primož nad Muto</a></td><td class="tdG"><a href="/izlet/radlje_ob_dravi_sveti_primoz_nad_muto/162/3010/7292">2 h 30 min</a></td><td class="tdG"><a href="/izlet/radlje_ob_dravi_sveti_primoz_nad_muto/162/3010/7292">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bistriski_jarek_glasbeni_dom_sveti_primoz_nad_muto/162/3010/7117">Bistriški jarek (Glasbeni dom) - Sveti Primož nad Muto</a></td><td class="tdG"><a href="/izlet/bistriski_jarek_glasbeni_dom_sveti_primoz_nad_muto/162/3010/7117">3 h</a></td><td class="tdG"><a href="/izlet/bistriski_jarek_glasbeni_dom_sveti_primoz_nad_muto/162/3010/7117">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bistriski_jarek_verdinek_sveti_primoz_nad_muto/162/3010/7112">Bistriški jarek (Verdinek) - Sveti Primož nad Muto</a></td><td class="tdG"><a href="/izlet/bistriski_jarek_verdinek_sveti_primoz_nad_muto/162/3010/7112">3 h</a></td><td class="tdG"><a href="/izlet/bistriski_jarek_verdinek_sveti_primoz_nad_muto/162/3010/7112">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dolina_radeljskega_potoka_razdevsek_sveti_primoz_nad_muto/162/3010/7297">Dolina Radeljskega potoka (Razdevšek) - Sveti Primož nad Muto</a></td><td class="tdG"><a href="/izlet/dolina_radeljskega_potoka_razdevsek_sveti_primoz_nad_muto/162/3010/7297">2 h 20 min</a></td><td class="tdG"><a href="/izlet/dolina_radeljskega_potoka_razdevsek_sveti_primoz_nad_muto/162/3010/7297">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mariborski_otok_kalvarija_cerkev_svete_barbare/162/3444/8302">Mariborski otok - Kalvarija (cerkev svete Barbare)</a></td><td class="tdG"><a href="/izlet/mariborski_otok_kalvarija_cerkev_svete_barbare/162/3444/8302"> 45 min</a></td><td class="tdG"><a href="/izlet/mariborski_otok_kalvarija_cerkev_svete_barbare/162/3444/8302">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Mala Peca</title>
-        <meta name="description" content="Natančen opis gore Mala Peca in vseh pristopov na Mala Peca. Mala Peca je vrh nad domom na Peci na njenih vzhodnih pobočjih. Z vrha, kjer sto." />
+        <title>Polna peč</title>
+        <meta name="description" content="Natančen opis gore Polna peč in vseh pristopov na Polna peč. Polna peč, na zemljevidih označena tudi kot Ravna peč se nahaja nad ljubeljskim ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./672?gorovjeid=11&amp;id=672" id="form1">
+    <form method="post" action="./805?gorovjeid=11&amp;id=805" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mala_peca/11/672"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=672"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/polna_pec/11/805"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=805"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Mala Peca
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Polna peč
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(672);
+    gorast(805);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Mala Peca</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Polna peč</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1731&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1503&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,5374'N&nbsp;/&nbsp;14°&nbsp;47,5092'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,3340'N&nbsp;/&nbsp;14°&nbsp;15,3702'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;32,24''N&nbsp;/&nbsp;14°&nbsp;47'&nbsp;30,55''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;20,04''N&nbsp;/&nbsp;14°&nbsp;15'&nbsp;22,21''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.49229°N&nbsp;/&nbsp;14.79182°E";
+                        document.getElementById("kf0").innerHTML = "46.4389°N&nbsp;/&nbsp;14.25617°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,49229°N,&nbsp;14,79182°E";
+                    document.getElementById("kf0").innerHTML = "46,4389°N,&nbsp;14,25617°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,49229°N&nbsp;14,79182°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mala_peca/672"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4389°N&nbsp;14,25617°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/polna_pec/805"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Polna peč - Torek" href="/vreme_gora/polna_pec/11/805#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Polna peč - Sreda" href="/vreme_gora/polna_pec/11/805#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Polna peč - Četrtek" href="/vreme_gora/polna_pec/11/805#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Mala Peca - Petek" href="/vreme_gora/mala_peca/11/672#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Polna peč - Petek" href="/vreme_gora/polna_pec/11/805#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Mala Peca - Sobota" href="/vreme_gora/mala_peca/11/672#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Mala Peca - Nedelja" href="/vreme_gora/mala_peca/11/672#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Mala Peca - Ponedeljek" href="/vreme_gora/mala_peca/11/672#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Mala Peca - Torek" href="/vreme_gora/mala_peca/11/672#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Polna peč - Sobota" href="/vreme_gora/polna_pec/11/805#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 358.035</div>
-<div class="g2"><b>Priljubljenost:</b> 76%&nbsp;(790.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=672" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 333.881</div>
+<div class="g2"><b>Priljubljenost:</b> 73%&nbsp;(879.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=805" title="Število vpisov v vpisni knjigi">5</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Mala Peca je vrh nad domom na Peci na njenih vzhodnih pobočjih. Z vrha, kjer stoji razgledna plošča je lep razgled na vzhodna pobočja Pece in okoliške vrhove. Razgled z vrha pa zaradi pasu gozda ob vrhu ni popoln.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Polna peč, na zemljevidih označena tudi kot Ravna peč se nahaja nad ljubeljskim predorom. Z vrha, ki je nekoliko prepaden je lep razgled na osrednje Karavanke, kjer so najbližji Košutica, Veliki vrh, Begunjščica, greben Na Možeh, Vrtača in pod njo Zelenjak in Palec ter bližnji vrhovi na avstrijski strani Karavank, kjer izstopa Grlovec/Ferlacher Horn. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=672&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=805&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dom_na_peci/11/670">Dom na Peci (1665m)</a>, <a class="moder" href="/gora/kordezeva_glava_peca/11/665">Kordeževa glava (Peca) (2125m)</a>, <a class="moder" href="/gora/votlina_kralja_matjaza/11/671">Votlina Kralja Matjaža (1670m)</a>
+<a class="moder" href="/gora/koca_na_ljubelju/11/322">Koča na Ljubelju (1370m)</a>, <a class="moder" href="/gora/koca_vrtaca/11/236">Koča Vrtača (1288m)</a>, <a class="moder" href="/gora/na_mozeh/11/542">Na Možeh (1784m)</a>, <a class="moder" href="/gora/spodnji_plot/11/1439">Spodnji Plot (1682m)</a>, <a class="moder" href="/gora/sveta_ana_ljubelj/11/2719">Sveta Ana (Ljubelj) (1032m)</a>, <a class="moder" href="/gora/vrh_ljubeljscice_triangel/11/92">Vrh Ljubeljščice (Triangel) (1704m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,25 +835,33 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/ravne_na_koroskem/1462">Ravne na Koroškem</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
+<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmala_peca%2f11%2f672"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmala_peca%2f11%2f672"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmala_peca%2f11%2f672"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpolna_pec%2f11%2f805"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpolna_pec%2f11%2f805"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpolna_pec%2f11%2f805"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/mala_peca/672" title="Mala Peca 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.MalaPeca.jpg" /></a></div>
+<div><a href="/panorama/360/polna_pec/805" title="Polna peč 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Polnapec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/mala_peca/2096" onclick="event.preventDefault(); window.open('/slika_gora/mala_peca/2096');"><img class="slikagm" alt="Mala Peca" src="//www.hribi.net/slike1/P8190086529760.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/polna_pec/2671" onclick="event.preventDefault(); window.open('/slika_gora/polna_pec/2671');"><img class="slikagm" alt="Polna peč" src="//www.hribi.net/sliketemp/P12001084290782.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/mala_peca/2097" onclick="event.preventDefault(); window.open('/slika_gora/mala_peca/2097');"><img class="slikagm" alt="Mala Peca" src="//www.hribi.net/slike1/P8190107529760.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/polna_pec/2672" onclick="event.preventDefault(); window.open('/slika_gora/polna_pec/2672');"><img class="slikagm" alt="Polna peč" src="//www.hribi.net/sliketemp/IMG_31024194022.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/mala_peca/17121" onclick="event.preventDefault(); window.open('/slika_gora/mala_peca/17121');"><img class="slikagm" alt="Mala Peca" src="//slike.hribi.net/slike4/2_047588840406_DSCN0464.JPG" /></a>
+        <a target="_blank" href="/slika_gora/polna_pec/2673" onclick="event.preventDefault(); window.open('/slika_gora/polna_pec/2673');"><img class="slikagm" alt="Polna peč" src="//www.hribi.net/sliketemp/IMG_31124194022.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/polna_pec/15621" onclick="event.preventDefault(); window.open('/slika_gora/polna_pec/15621');"><img class="slikagm" alt="Polna peč" src="//slike.hribi.net/slike4/2_1810544359566_DSCN8353.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/polna_pec/15622" onclick="event.preventDefault(); window.open('/slika_gora/polna_pec/15622');"><img class="slikagm" alt="Polna peč" src="//slike.hribi.net/slike4/2_1513544359547_DSCN8351.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/polna_pec/15623" onclick="event.preventDefault(); window.open('/slika_gora/polna_pec/15623');"><img class="slikagm" alt="Polna peč" src="//slike.hribi.net/slike4/2_1912544359515_DSCN8341.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/polna_pec/17550" onclick="event.preventDefault(); window.open('/slika_gora/polna_pec/17550');"><img class="slikagm" alt="Polna peč" src="//slike.hribi.net/slike4/2_1798595625411_DSCN6771.JPG" /></a>
     
 </div>
 
@@ -917,7 +925,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=672&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=805&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -927,11 +935,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rudnik_v_topli_mala_peca/11/672/1189">Rudnik v Topli - Mala Peca</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_mala_peca/11/672/1189">2 h 10 min</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_mala_peca/11/672/1189">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_polna_pec/11/805/1433">Ljubelj - Polna peč</a></td><td class="tdG"><a href="/izlet/ljubelj_polna_pec/11/805/1433">1 h 15 min</a></td><td class="tdG"><a href="/izlet/ljubelj_polna_pec/11/805/1433">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/topla_burjak_mala_peca/11/672/6923">Topla (Burjak) - Mala Peca</a></td><td class="tdG"><a href="/izlet/topla_burjak_mala_peca/11/672/6923">2 h 30 min</a></td><td class="tdG"><a href="/izlet/topla_burjak_mala_peca/11/672/6923">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podpeca_helenski_potok_mala_peca_cez_mirjance/11/672/6921">Podpeca (Helenski potok) - Mala Peca (čez Mirjance)</a></td><td class="tdG"><a href="/izlet/podpeca_helenski_potok_mala_peca_cez_mirjance/11/672/6921">3 h 20 min</a></td><td class="tdG"><a href="/izlet/podpeca_helenski_potok_mala_peca_cez_mirjance/11/672/6921">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/bucan_polna_pec/11/805/2982">Bučan - Polna peč</a></td><td class="tdG"><a href="/izlet/bucan_polna_pec/11/805/2982">1 h 30 min</a></td><td class="tdG"><a href="/izlet/bucan_polna_pec/11/805/2982">lahka označena pot</a></td></tr>
 
 </table>
 

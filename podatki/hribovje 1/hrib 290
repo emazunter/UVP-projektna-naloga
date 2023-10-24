@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Otliško okno</title>
-        <meta name="description" content="Natančen opis gore Otliško okno in vseh pristopov na Otliško okno. Otliško okno se nahaja severno od Ajdovščine na robu Trnovske planote. Okno je n." />
+        <title>Goli hrib</title>
+        <meta name="description" content="Natančen opis gore Goli hrib in vseh pristopov na Goli hrib. Goli hrib je 217 metrov visok vrh, ki se nahaja severovzhodno od Dekanov, oz. na." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./816?gorovjeid=26&amp;id=816" id="form1">
+    <form method="post" action="./2909?gorovjeid=26&amp;id=2909" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/otlisko_okno/26/816"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=816"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/goli_hrib/26/2909"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2909"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Otliško okno
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Goli hrib
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(816);
+    gorast(2909);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Otliško okno</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Goli hrib</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 800&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 217&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;54,9882'N&nbsp;/&nbsp;13°&nbsp;54,8040'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;33,120'N&nbsp;/&nbsp;13°&nbsp;49,3680'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;54'&nbsp;59,29''N&nbsp;/&nbsp;13°&nbsp;54'&nbsp;48,24''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;33'&nbsp;7,20''N&nbsp;/&nbsp;13°&nbsp;49'&nbsp;22,08''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.91647°N&nbsp;/&nbsp;13.9134°E";
+                        document.getElementById("kf0").innerHTML = "45.552°N&nbsp;/&nbsp;13.8228°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,91647°N,&nbsp;13,9134°E";
+                    document.getElementById("kf0").innerHTML = "45,552°N,&nbsp;13,8228°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,91647°N&nbsp;13,9134°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/otlisko_okno/816"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,552°N&nbsp;13,8228°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/goli_hrib/2909"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> </div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Goli hrib - Torek" href="/vreme_gora/goli_hrib/26/2909#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Goli hrib - Sreda" href="/vreme_gora/goli_hrib/26/2909#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Goli hrib - Četrtek" href="/vreme_gora/goli_hrib/26/2909#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Otliško okno - Petek" href="/vreme_gora/otlisko_okno/26/816#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Goli hrib - Petek" href="/vreme_gora/goli_hrib/26/2909#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Otliško okno - Sobota" href="/vreme_gora/otlisko_okno/26/816#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Otliško okno - Nedelja" href="/vreme_gora/otlisko_okno/26/816#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Otliško okno - Ponedeljek" href="/vreme_gora/otlisko_okno/26/816#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Otliško okno - Torek" href="/vreme_gora/otlisko_okno/26/816#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Goli hrib - Sobota" href="/vreme_gora/goli_hrib/26/2909#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 568.818</div>
-<div class="g2"><b>Priljubljenost:</b> 95%&nbsp;(176.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=816" title="Število vpisov v vpisni knjigi">5</a></div>
+<div class="g2"><b>Ogledov:</b> 2.430</div>
+<div class="g2"><b>Priljubljenost:</b> 29%&nbsp;(2335.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Otliško okno se nahaja severno od Ajdovščine na robu Trnovske planote. Okno je najbližje vasi Otlica, po katerem je vas tudi dobila ime (Votlica). Do Otliškega okna vodi več poti, najkrajša je iz vasi Otlica, najbolj obiskan pa je dostop od izvira  Hublja (močan kraški izvir nad Ajdovščino). Z zgornje strani okna je lep pogled skozi okno, kjer pod seboj vidimo Vipavsko dolino.<br> Nad oknom je tudi nekaj informativnih tabel, ki nam povedo zanimivosti in pripovedno zgodbo o nastanku okna.<br> V bližini okna, le 100m stran pa se nahaja kamniti polž in nad njim kamnita piramida.<br> Vpisno skrinjico z žigom pa bomo našli 5 minut stran od okna pri manjši kapelici (če se bomo povzpeli od izvira Hublja bomo skrinjico opazili že 5 minut pred Otliškim oknom).</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Goli hrib je 217 metrov visok vrh, ki se nahaja severovzhodno od Dekanov, oz. nad predorom Dekani na primorski avtocesti. Z deloma poraščenega vrha se nam odpre lep pogled na okoliško hribovje in gričevje.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=816&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2909&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/navrse/26/814">Navrše (857m)</a>, <a class="moder" href="/gora/otliski_maj/26/815">Otliški maj (847m)</a>
+<a class="moder" href="/gora/lovsko_zavetisce_kolombar/26/2910">Lovsko zavetišče Kolombar (218m)</a>, <a class="moder" href="/gora/slap_potoka_struga/26/2908">Slap potoka Struga (105m)</a>, <a class="moder" href="/gora/tinjan/26/845">Tinjan (374m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,39 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/stanjel_ferrarijev_vrt/4213">Štanjel (Ferrarijev vrt)</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>
+<a class="moder" href="/spletna_kamera/ankaran/4356">Ankaran</a>, <a class="moder" href="/spletna_kamera/bazovica___basovizza/1649">Bazovica / Basovizza</a>, <a class="moder" href="/spletna_kamera/bertoki/4921">Bertoki</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/izola/1000">Izola</a>, <a class="moder" href="/spletna_kamera/izola_belvedere/3451">Izola (Belvedere)</a>, <a class="moder" href="/spletna_kamera/jagodje/4923">Jagodje</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kokos/4324">Kokoš</a>, <a class="moder" href="/spletna_kamera/koper/3504">Koper</a>, <a class="moder" href="/spletna_kamera/koper_marina/4335">Koper (marina)</a>, <a class="moder" href="/spletna_kamera/koper_markovec/300">Koper (Markovec)</a>, <a class="moder" href="/spletna_kamera/koper_panoramski_pogled/4268">Koper (panoramski pogled)</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/lazaret/1699">Lazaret</a>, <a class="moder" href="/spletna_kamera/lipica/1701">Lipica</a>, <a class="moder" href="/spletna_kamera/luka_koper/4329">Luka Koper</a>, <a class="moder" href="/spletna_kamera/milje___muggia/1639">Milje / Muggia</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/spodnje_skofije/1080">Spodnje Škofije</a>, <a class="moder" href="/spletna_kamera/trst___trieste/172">Trst / Trieste</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fotlisko_okno%2f26%2f816"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fotlisko_okno%2f26%2f816"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fotlisko_okno%2f26%2f816"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgoli_hrib%2f26%2f2909"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgoli_hrib%2f26%2f2909"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgoli_hrib%2f26%2f2909"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/otlisko_okno/816" title="Otliško okno 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.OtliskoOkno.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/otlisko_okno/2698" onclick="event.preventDefault(); window.open('/slika_gora/otlisko_okno/2698');"><img class="slikagm" alt="Otliško okno" src="//www.hribi.net/slike1/P1290028224400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/goli_hrib/16815" onclick="event.preventDefault(); window.open('/slika_gora/goli_hrib/16815');"><img class="slikagm" alt="Goli hrib" src="//slike.hribi.net/slike4/2_3912582039856_DSCN2269.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/otlisko_okno/2699" onclick="event.preventDefault(); window.open('/slika_gora/otlisko_okno/2699');"><img class="slikagm" alt="Otliško okno" src="//www.hribi.net/slike1/P1290121108000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/otlisko_okno/2700" onclick="event.preventDefault(); window.open('/slika_gora/otlisko_okno/2700');"><img class="slikagm" alt="Otliško okno" src="//www.hribi.net/slike1/P1290119112320.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/otlisko_okno/2706" onclick="event.preventDefault(); window.open('/slika_gora/otlisko_okno/2706');"><img class="slikagm" alt="Otliško okno" src="//www.hribi.net/slike1/P129010963488.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/otlisko_okno/2707" onclick="event.preventDefault(); window.open('/slika_gora/otlisko_okno/2707');"><img class="slikagm" alt="Otliško okno" src="//www.hribi.net/slike1/P129010263488.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/otlisko_okno/2709" onclick="event.preventDefault(); window.open('/slika_gora/otlisko_okno/2709');"><img class="slikagm" alt="Otliško okno" src="//www.hribi.net/slike1/P129010095040.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/otlisko_okno/7525" onclick="event.preventDefault(); window.open('/slika_gora/otlisko_okno/7525');"><img class="slikagm" alt="Otliško okno" src="//www.hribi.net/slike1/MaliGolak 41558080.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/otlisko_okno/10582" onclick="event.preventDefault(); window.open('/slika_gora/otlisko_okno/10582');"><img class="slikagm" alt="Otliško okno" src="//www.hribi.net/slike1/Navrse 05787945.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/otlisko_okno/10583" onclick="event.preventDefault(); window.open('/slika_gora/otlisko_okno/10583');"><img class="slikagm" alt="Otliško okno" src="//www.hribi.net/slike1/Navrse 06187945.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/otlisko_okno/10584" onclick="event.preventDefault(); window.open('/slika_gora/otlisko_okno/10584');"><img class="slikagm" alt="Otliško okno" src="//www.hribi.net/slike1/Navrse 05387945.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/goli_hrib/16816" onclick="event.preventDefault(); window.open('/slika_gora/goli_hrib/16816');"><img class="slikagm" alt="Goli hrib" src="//slike.hribi.net/slike4/2_1470581151576_DSCN2270.JPG" /></a>
     
 </div>
 
@@ -931,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=816&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2909&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -941,11 +922,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/izvir_hublja_otlisko_okno/26/816/1446">Izvir Hublja - Otliško okno</a></td><td class="tdG"><a href="/izlet/izvir_hublja_otlisko_okno/26/816/1446">1 h 20 min</a></td><td class="tdG"><a href="/izlet/izvir_hublja_otlisko_okno/26/816/1446">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dekani_goli_hrib_zahodna_pot/26/2909/6809">Dekani - Goli hrib (zahodna pot)</a></td><td class="tdG"><a href="/izlet/dekani_goli_hrib_zahodna_pot/26/2909/6809"> 40 min</a></td><td class="tdG"><a href="/izlet/dekani_goli_hrib_zahodna_pot/26/2909/6809">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/otlica_otlisko_okno/26/816/4308">Otlica - Otliško okno</a></td><td class="tdG"><a href="/izlet/otlica_otlisko_okno/26/816/4308"> 25 min</a></td><td class="tdG"><a href="/izlet/otlica_otlisko_okno/26/816/4308">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/predmeja_otlisko_okno_pot_po_robu/26/816/3070">Predmeja - Otliško okno (Pot po Robu)</a></td><td class="tdG"><a href="/izlet/predmeja_otlisko_okno_pot_po_robu/26/816/3070">2 h</a></td><td class="tdG"><a href="/izlet/predmeja_otlisko_okno_pot_po_robu/26/816/3070">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dekani_goli_hrib_vzhodna_pot/26/2909/6808">Dekani - Goli hrib (vzhodna pot)</a></td><td class="tdG"><a href="/izlet/dekani_goli_hrib_vzhodna_pot/26/2909/6808"> 40 min</a></td><td class="tdG"><a href="/izlet/dekani_goli_hrib_vzhodna_pot/26/2909/6808">lahka označena pot</a></td></tr>
 
 </table>
 

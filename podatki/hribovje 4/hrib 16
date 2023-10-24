@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Bistriška špica/Feistritzer Spitze</title>
-        <meta name="description" content="Natančen opis gore Bistriška špica/Feistritzer Spitze in vseh pristopov na Bistriška špica/Feistritzer Spitze. Bistriška špica je 2113 m visok vrh, ki se nahaja na avstrijski strani Pece. Z v." />
+        <title>Veška kopa/Wackendorfer Spitze</title>
+        <meta name="description" content="Natančen opis gore Veška kopa/Wackendorfer Spitze in vseh pristopov na Veška kopa/Wackendorfer Spitze. Veška kopa je najbolj severni dvatisočak v pogorju Pece. Z neizrazitega vrha se ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1275?gorovjeid=11&amp;id=1275" id="form1">
+    <form method="post" action="./1274?gorovjeid=11&amp;id=1274" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/feistritzer_spitze/11/1275"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1275"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/wackendorfer_spitze/11/1274"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1274"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Bistriška špica/Feistritzer Spitze
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Veška kopa/Wackendorfer Spitze
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1275);
+    gorast(1274);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Bistriška špica/Feistritzer Spitze</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Veška kopa/Wackendorfer Spitze</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 2113&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2074&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,6894'N&nbsp;/&nbsp;14°&nbsp;45,0108'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,9468'N&nbsp;/&nbsp;14°&nbsp;44,6544'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;41,36''N&nbsp;/&nbsp;14°&nbsp;45'&nbsp;0,65''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;56,81''N&nbsp;/&nbsp;14°&nbsp;44'&nbsp;39,26''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.51149°N&nbsp;/&nbsp;14.75018°E";
+                        document.getElementById("kf0").innerHTML = "46.51578°N&nbsp;/&nbsp;14.74424°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,51149°N,&nbsp;14,75018°E";
+                    document.getElementById("kf0").innerHTML = "46,51578°N,&nbsp;14,74424°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,51149°N&nbsp;14,75018°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bistriska_spica_feistritzer_spitze/1275"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,51578°N&nbsp;14,74424°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veska_kopa_wackendorfer_spitze/1274"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Veška kopa/Wackendorfer Spitze - Torek" href="/vreme_gora/veska_kopa_wackendorfer_spitze/11/1274#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Veška kopa/Wackendorfer Spitze - Sreda" href="/vreme_gora/veska_kopa_wackendorfer_spitze/11/1274#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Veška kopa/Wackendorfer Spitze - Četrtek" href="/vreme_gora/veska_kopa_wackendorfer_spitze/11/1274#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Bistriška špica/Feistritzer Spitze - Petek" href="/vreme_gora/bistriska_spica_feistritzer_spitze/11/1275#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veška kopa/Wackendorfer Spitze - Petek" href="/vreme_gora/veska_kopa_wackendorfer_spitze/11/1274#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Bistriška špica/Feistritzer Spitze - Sobota" href="/vreme_gora/bistriska_spica_feistritzer_spitze/11/1275#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Bistriška špica/Feistritzer Spitze - Nedelja" href="/vreme_gora/bistriska_spica_feistritzer_spitze/11/1275#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Bistriška špica/Feistritzer Spitze - Ponedeljek" href="/vreme_gora/bistriska_spica_feistritzer_spitze/11/1275#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Bistriška špica/Feistritzer Spitze - Torek" href="/vreme_gora/bistriska_spica_feistritzer_spitze/11/1275#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veška kopa/Wackendorfer Spitze - Sobota" href="/vreme_gora/veska_kopa_wackendorfer_spitze/11/1274#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 436.379</div>
-<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(522.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
+<div class="g2"><b>Ogledov:</b> 283.323</div>
+<div class="g2"><b>Priljubljenost:</b> 68%&nbsp;(1067.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Bistriška špica je 2113 m visok vrh, ki se nahaja na avstrijski strani Pece. Z vrha na katerem stoji križ je lep razgled na celotne Karavanke, del Kamniško Savinjskih Alp ter goram nad dolino reke Drave.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Veška kopa je najbolj severni dvatisočak v pogorju Pece. Z neizrazitega vrha se nam ob lepem vremenu odpre čudovit razgled na Dravsko dolino, vrhove ki obdajajo omenjeno dolino in velik del vrhov v Karavankah in Kamniško Savinjskih Alpah.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1275&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1274&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/alpengasthof_siebenhutten/11/1807">Alpengasthof Siebenhütten (1693m)</a>, <a class="moder" href="/gora/koncnikov_vrh/11/1276">Končnikov vrh (2109m)</a>, <a class="moder" href="/gora/planina_zgornja_luza/11/1273">Planina Zgornja Luža (1573m)</a>, <a class="moder" href="/gora/velika_glava/11/1277">Velika glava (2077m)</a>, <a class="moder" href="/gora/veska_kopa_wackendorfer_spitze/11/1274">Veška kopa/Wackendorfer Spitze (2074m)</a>
+<a class="moder" href="/gora/bistriska_spica_feistritzer_spitze/11/1275">Bistriška špica/Feistritzer Spitze (2113m)</a>, <a class="moder" href="/gora/koncnikov_vrh/11/1276">Končnikov vrh (2109m)</a>, <a class="moder" href="/gora/planina_zgornja_luza/11/1273">Planina Zgornja Luža (1573m)</a>, <a class="moder" href="/gora/veska_planina___wackendorfer_alm/11/1809">Veška planina / Wackendorfer Alm (1568m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,35 +835,29 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>
+<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbistriska_spica_feistritzer_spitze%2f11%2f1275"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbistriska_spica_feistritzer_spitze%2f11%2f1275"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbistriska_spica_feistritzer_spitze%2f11%2f1275"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveska_kopa_wackendorfer_spitze%2f11%2f1274"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveska_kopa_wackendorfer_spitze%2f11%2f1274"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveska_kopa_wackendorfer_spitze%2f11%2f1274"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/bistriska_spica_feistritzer_spitze/1275" title="Bistriška špica/Feistritzer Spitze 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.BistriskaSpica.jpg" /></a></div>
+<div><a href="/panorama/360/veska_kopa_wackendorfer_spitze/1274" title="Veška kopa/Wackendorfer Spitze 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VeskaKopa.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4378" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4378');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130391534600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veska_kopa_wackendorfer_spitze/4375" onclick="event.preventDefault(); window.open('/slika_gora/veska_kopa_wackendorfer_spitze/4375');"><img class="slikagm" alt="Veška kopa/Wackendorfer Spitze" src="//www.hribi.net/slike1/P6130413221130.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4379" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4379');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130392534600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veska_kopa_wackendorfer_spitze/4376" onclick="event.preventDefault(); window.open('/slika_gora/veska_kopa_wackendorfer_spitze/4376');"><img class="slikagm" alt="Veška kopa/Wackendorfer Spitze" src="//www.hribi.net/slike1/P6130418221130.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4380" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4380');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130393534600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veska_kopa_wackendorfer_spitze/4377" onclick="event.preventDefault(); window.open('/slika_gora/veska_kopa_wackendorfer_spitze/4377');"><img class="slikagm" alt="Veška kopa/Wackendorfer Spitze" src="//www.hribi.net/slike1/P6130407221130.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4381" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4381');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130398534600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veska_kopa_wackendorfer_spitze/8222" onclick="event.preventDefault(); window.open('/slika_gora/veska_kopa_wackendorfer_spitze/8222');"><img class="slikagm" alt="Veška kopa/Wackendorfer Spitze" src="//www.hribi.net/slike1/Bistriska_spica 066121275.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4382" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4382');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130364534600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4413" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4413');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130201313632.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/8221" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/8221');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/Bistriska_spica 076121275.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/8223" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/8223');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/Bistriska_spica 079218295.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veska_kopa_wackendorfer_spitze/8224" onclick="event.preventDefault(); window.open('/slika_gora/veska_kopa_wackendorfer_spitze/8224');"><img class="slikagm" alt="Veška kopa/Wackendorfer Spitze" src="//www.hribi.net/slike1/Bistriska_spica 109243936.th.jpg" /></a>
     
 </div>
 
@@ -927,7 +921,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1275&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1274&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,23 +931,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_peco_koprein-petzen_bistriska_spica_feistritzer_spitze/11/1275/2140">Pod Peco/Koprein-Petzen - Bistriška špica/Feistritzer Spitze</a></td><td class="tdG"><a href="/izlet/pod_peco_koprein-petzen_bistriska_spica_feistritzer_spitze/11/1275/2140">2 h 30 min</a></td><td class="tdG"><a href="/izlet/pod_peco_koprein-petzen_bistriska_spica_feistritzer_spitze/11/1275/2140">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_peco_koprein_petzen_veska_kopa_wackendorfer_spitze/11/1274/2139">Pod Peco/Koprein Petzen - Veška kopa/Wackendorfer Spitze</a></td><td class="tdG"><a href="/izlet/pod_peco_koprein_petzen_veska_kopa_wackendorfer_spitze/11/1274/2139">2 h 30 min</a></td><td class="tdG"><a href="/izlet/pod_peco_koprein_petzen_veska_kopa_wackendorfer_spitze/11/1274/2139">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_plezalna_pot/11/1275/2878">Jakobe - Bistriška špica/Feistritzer Spitze (plezalna pot)</a></td><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_plezalna_pot/11/1275/2878">3 h 45 min</a></td><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_plezalna_pot/11/1275/2878">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/najberz_veska_kopa_wackendorfer_spitze/11/1274/3343">Najberž - Veška kopa/Wackendorfer Spitze</a></td><td class="tdG"><a href="/izlet/najberz_veska_kopa_wackendorfer_spitze/11/1274/3343">5 h</a></td><td class="tdG"><a href="/izlet/najberz_veska_kopa_wackendorfer_spitze/11/1274/3343">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/alpengasthof_siebenhutten_bistriska_spica_feistritzer_spitze/11/1275/3353">Alpengasthof Siebenhütten - Bistriška špica/Feistritzer Spitze</a></td><td class="tdG"><a href="/izlet/alpengasthof_siebenhutten_bistriska_spica_feistritzer_spitze/11/1275/3353">2 h 15 min</a></td><td class="tdG"><a href="/izlet/alpengasthof_siebenhutten_bistriska_spica_feistritzer_spitze/11/1275/3353">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/globasnica___globasnitz_veska_kopa_wackendorfer_spitze/11/1274/3357">Globasnica / Globasnitz - Veška kopa/Wackendorfer Spitze</a></td><td class="tdG"><a href="/izlet/globasnica___globasnitz_veska_kopa_wackendorfer_spitze/11/1274/3357">4 h 45 min</a></td><td class="tdG"><a href="/izlet/globasnica___globasnitz_veska_kopa_wackendorfer_spitze/11/1274/3357">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_avstrijska_pot/11/1275/3917">Koprivna (Kumer) - Bistriška špica/Feistritzer Spitze (avstrijska pot)</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_avstrijska_pot/11/1275/3917">2 h 55 min</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_avstrijska_pot/11/1275/3917">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_slovenska_pot/11/1275/3918">Koprivna (Kumer) - Bistriška špica/Feistritzer Spitze (slovenska pot)</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_slovenska_pot/11/1275/3918">3 h 40 min</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_slovenska_pot/11/1275/3918">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_lahka_pot/11/1275/2877">Jakobe - Bistriška špica/Feistritzer Spitze (lahka pot)</a></td><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_lahka_pot/11/1275/2877">3 h 45 min</a></td><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_lahka_pot/11/1275/2877">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/najberz_bistriska_spica_feistritzer_spitze/11/1275/3342">Najberž - Bistriška špica/Feistritzer Spitze</a></td><td class="tdG"><a href="/izlet/najberz_bistriska_spica_feistritzer_spitze/11/1275/3342">4 h 45 min</a></td><td class="tdG"><a href="/izlet/najberz_bistriska_spica_feistritzer_spitze/11/1275/3342">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/globasnica___globasnitz_bistriska_spica_feistritzer_spitze/11/1275/3356">Globasnica / Globasnitz - Bistriška špica/Feistritzer Spitze</a></td><td class="tdG"><a href="/izlet/globasnica___globasnitz_bistriska_spica_feistritzer_spitze/11/1275/3356">5 h</a></td><td class="tdG"><a href="/izlet/globasnica___globasnitz_bistriska_spica_feistritzer_spitze/11/1275/3356">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rudnik_v_topli_bistriska_spica_feistritzer_spitze/11/1275/4126">Rudnik v Topli - Bistriška špica/Feistritzer Spitze</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_bistriska_spica_feistritzer_spitze/11/1275/4126">3 h 30 min</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_bistriska_spica_feistritzer_spitze/11/1275/4126">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/koprivna_kumer_veska_kopa_wackendorfer_spitze/11/1274/3916">Koprivna (Kumer) - Veška kopa/Wackendorfer Spitze</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_veska_kopa_wackendorfer_spitze/11/1274/3916">2 h 55 min</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_veska_kopa_wackendorfer_spitze/11/1274/3916">lahka označena pot</a></td></tr>
 
 </table>
 

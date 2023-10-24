@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vojsko</title>
-        <meta name="description" content="Natančen opis koče Vojsko in vseh pristopov na Vojsko. Med dolinami Idrijce, Kanomljice in Trebuše, se razprostira Vojskarska planota. ." />
+        <title>Sveti nadangel Gabrijel (Planica)</title>
+        <meta name="description" content="Natančen opis gore Sveti nadangel Gabrijel (Planica) in vseh pristopov na Sveti nadangel Gabrijel (Planica). Planica je 824 m visok vrh, ki se nahaja severno od Škofje Loke, točneje med Kri." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1495?gorovjeid=21&amp;id=1495" id="form1">
+    <form method="post" action="./549?gorovjeid=21&amp;id=549" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vojsko/21/1495"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1495"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/archangel_gabriel_planica/21/549"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=549"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Vojsko
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Sveti nadangel Gabrijel (Planica)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1495);
+    gorast(549);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vojsko</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti nadangel Gabrijel (Planica)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1077&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 824&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;1,4340'N&nbsp;/&nbsp;13°&nbsp;54,1680'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;12,7344'N&nbsp;/&nbsp;14°&nbsp;16,6350'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;1'&nbsp;26,04''N&nbsp;/&nbsp;13°&nbsp;54'&nbsp;10,08''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;12'&nbsp;44,06''N&nbsp;/&nbsp;14°&nbsp;16'&nbsp;38,10''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.0239°N&nbsp;/&nbsp;13.9028°E";
+                        document.getElementById("kf0").innerHTML = "46.21224°N&nbsp;/&nbsp;14.27725°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,0239°N,&nbsp;13,9028°E";
+                    document.getElementById("kf0").innerHTML = "46,21224°N,&nbsp;14,27725°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,0239°N&nbsp;13,9028°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vojsko/1495"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,21224°N&nbsp;14,27725°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_nadangel_gabrijel_planica/549"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, planina, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti nadangel Gabrijel (Planica) - Torek" href="/vreme_gora/sveti_nadangel_gabrijel_planica/21/549#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti nadangel Gabrijel (Planica) - Sreda" href="/vreme_gora/sveti_nadangel_gabrijel_planica/21/549#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti nadangel Gabrijel (Planica) - Četrtek" href="/vreme_gora/sveti_nadangel_gabrijel_planica/21/549#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vojsko - Petek" href="/vreme_gora/vojsko/21/1495#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti nadangel Gabrijel (Planica) - Petek" href="/vreme_gora/sveti_nadangel_gabrijel_planica/21/549#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vojsko - Sobota" href="/vreme_gora/vojsko/21/1495#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vojsko - Nedelja" href="/vreme_gora/vojsko/21/1495#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vojsko - Ponedeljek" href="/vreme_gora/vojsko/21/1495#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vojsko - Torek" href="/vreme_gora/vojsko/21/1495#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti nadangel Gabrijel (Planica) - Sobota" href="/vreme_gora/sveti_nadangel_gabrijel_planica/21/549#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 407.118</div>
-<div class="g2"><b>Priljubljenost:</b> 81%&nbsp;(613.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-
+<div class="g2"><b>Ogledov:</b> 402.144</div>
+<div class="g2"><b>Priljubljenost:</b> 81%&nbsp;(634.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">10</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=549" title="Število vpisov v vpisni knjigi">7</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Med dolinami Idrijce, Kanomljice in Trebuše, se razprostira Vojskarska planota. Na planoti se nahaja vas Vojsko, ki je prijeten izletniški cilj pohodnikov, sprehajalcev, kolesarjev, v zimskem času tudi tekačev na smučeh ter drugih ljubiteljev narave. Središče sicer po celi planoti raztresene vasi, se nahaja ob cerkvi sv. Jožefa in doma Vojsko, v bližini katerih se nahaja tudi gostilna s prenočišči pri Medvedovih in manjše smučišče Vojsko.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Planica je 824 m visok vrh, ki se nahaja severno od Škofje Loke, točneje med Križno goro in Planico. Z vrha, na katerem stoji cerkev sv. nadangela Gabrijela, se nam odpre lep razgled na del Polhograjskega in Škofjeloškega hribovja, Gorenjsko ter Kamniško Savinjske Alpe.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1495&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=549&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -835,29 +835,39 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/medvode/184">Medvode</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zbiljsko_jezero/2165">Zbiljsko jezero</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvojsko%2f21%2f1495"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvojsko%2f21%2f1495"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvojsko%2f21%2f1495"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_nadangel_gabrijel_planica%2f21%2f549"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_nadangel_gabrijel_planica%2f21%2f549"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_nadangel_gabrijel_planica%2f21%2f549"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vojsko/1495" title="Vojsko 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Vojsko.jpg" /></a></div>
+<div><a href="/panorama/360/sveti_nadangel_gabrijel_planica/549" title="Sveti nadangel Gabrijel (Planica) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Planica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vojsko/5871" onclick="event.preventDefault(); window.open('/slika_gora/vojsko/5871');"><img class="slikagm" alt="Vojsko" src="//www.hribi.net/slike1/P5190126418000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_nadangel_gabrijel_planica/1590" onclick="event.preventDefault(); window.open('/slika_gora/sveti_nadangel_gabrijel_planica/1590');"><img class="slikagm" alt="Sveti nadangel Gabrijel (Planica)" src="//www.hribi.net/slike1/P327002279380.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vojsko/5872" onclick="event.preventDefault(); window.open('/slika_gora/vojsko/5872');"><img class="slikagm" alt="Vojsko" src="//www.hribi.net/slike1/P5190118418000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_nadangel_gabrijel_planica/1591" onclick="event.preventDefault(); window.open('/slika_gora/sveti_nadangel_gabrijel_planica/1591');"><img class="slikagm" alt="Sveti nadangel Gabrijel (Planica)" src="//www.hribi.net/slike1/P32700263863203.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vojsko/5873" onclick="event.preventDefault(); window.open('/slika_gora/vojsko/5873');"><img class="slikagm" alt="Vojsko" src="//www.hribi.net/slike1/P5190351495000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_nadangel_gabrijel_planica/7438" onclick="event.preventDefault(); window.open('/slika_gora/sveti_nadangel_gabrijel_planica/7438');"><img class="slikagm" alt="Sveti nadangel Gabrijel (Planica)" src="//www.hribi.net/slike1/Planica 151227106.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vojsko/5874" onclick="event.preventDefault(); window.open('/slika_gora/vojsko/5874');"><img class="slikagm" alt="Vojsko" src="//www.hribi.net/slike1/P5190346495000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_nadangel_gabrijel_planica/7439" onclick="event.preventDefault(); window.open('/slika_gora/sveti_nadangel_gabrijel_planica/7439');"><img class="slikagm" alt="Sveti nadangel Gabrijel (Planica)" src="//www.hribi.net/slike1/Planica 153227106.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vojsko/9629" onclick="event.preventDefault(); window.open('/slika_gora/vojsko/9629');"><img class="slikagm" alt="Vojsko" src="//www.hribi.net/slike1/Vojsko12 228267840.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_nadangel_gabrijel_planica/7440" onclick="event.preventDefault(); window.open('/slika_gora/sveti_nadangel_gabrijel_planica/7440');"><img class="slikagm" alt="Sveti nadangel Gabrijel (Planica)" src="//www.hribi.net/slike1/Planica 156227106.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_nadangel_gabrijel_planica/8037" onclick="event.preventDefault(); window.open('/slika_gora/sveti_nadangel_gabrijel_planica/8037');"><img class="slikagm" alt="Sveti nadangel Gabrijel (Planica)" src="//www.hribi.net/slike1/KriznaGora 079130680.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_nadangel_gabrijel_planica/13393" onclick="event.preventDefault(); window.open('/slika_gora/sveti_nadangel_gabrijel_planica/13393');"><img class="slikagm" alt="Sveti nadangel Gabrijel (Planica)" src="//www.hribi.net/slike1/DSCN2005243360.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_nadangel_gabrijel_planica/16507" onclick="event.preventDefault(); window.open('/slika_gora/sveti_nadangel_gabrijel_planica/16507');"><img class="slikagm" alt="Sveti nadangel Gabrijel (Planica)" src="//slike.hribi.net/slike4/2_0333570721379_DSCN4171.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_nadangel_gabrijel_planica/16508" onclick="event.preventDefault(); window.open('/slika_gora/sveti_nadangel_gabrijel_planica/16508');"><img class="slikagm" alt="Sveti nadangel Gabrijel (Planica)" src="//slike.hribi.net/slike4/2_128570287988_DSCN4190.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_nadangel_gabrijel_planica/16509" onclick="event.preventDefault(); window.open('/slika_gora/sveti_nadangel_gabrijel_planica/16509');"><img class="slikagm" alt="Sveti nadangel Gabrijel (Planica)" src="//slike.hribi.net/slike4/2_0929484186114_DSCN1912.JPG" /></a>
     
 </div>
 
@@ -921,7 +931,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1495&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=549&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,17 +941,25 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/srednja_kanomlja_vojsko/21/1495/2544">Srednja Kanomlja - Vojsko</a></td><td class="tdG"><a href="/izlet/srednja_kanomlja_vojsko/21/1495/2544">2 h 15 min</a></td><td class="tdG"><a href="/izlet/srednja_kanomlja_vojsko/21/1495/2544">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/crngrob_sveti_nadangel_gabrijel_planica/21/549/940">Crngrob - Sveti nadangel Gabrijel (Planica)</a></td><td class="tdG"><a href="/izlet/crngrob_sveti_nadangel_gabrijel_planica/21/549/940">1 h 30 min</a></td><td class="tdG"><a href="/izlet/crngrob_sveti_nadangel_gabrijel_planica/21/549/940">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/idrija_vojsko_cez_kodrov_rovt/21/1495/3859"> Idrija - Vojsko (čez Kodrov rovt)</a></td><td class="tdG"><a href="/izlet/idrija_vojsko_cez_kodrov_rovt/21/1495/3859">4 h 30 min</a></td><td class="tdG"><a href="/izlet/idrija_vojsko_cez_kodrov_rovt/21/1495/3859">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/praprotno_sveti_nadangel_gabrijel_planica/21/549/3252">Praprotno - Sveti nadangel Gabrijel (Planica)</a></td><td class="tdG"><a href="/izlet/praprotno_sveti_nadangel_gabrijel_planica/21/549/3252">1 h 20 min</a></td><td class="tdG"><a href="/izlet/praprotno_sveti_nadangel_gabrijel_planica/21/549/3252">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/idrija_vojsko_lovska_pot/21/1495/3797">Idrija - Vojsko (lovska pot)</a></td><td class="tdG"><a href="/izlet/idrija_vojsko_lovska_pot/21/1495/3797">4 h 15 min</a></td><td class="tdG"><a href="/izlet/idrija_vojsko_lovska_pot/21/1495/3797">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/krizna_gora_sveti_nadangel_gabrijel_planica/21/549/5246">Križna Gora - Sveti nadangel Gabrijel (Planica)</a></td><td class="tdG"><a href="/izlet/krizna_gora_sveti_nadangel_gabrijel_planica/21/549/5246"> 35 min</a></td><td class="tdG"><a href="/izlet/krizna_gora_sveti_nadangel_gabrijel_planica/21/549/5246">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/divje_jezero_vojsko_cez_vrh_struga/21/1495/3795">Divje jezero - Vojsko (čez vrh Struga)</a></td><td class="tdG"><a href="/izlet/divje_jezero_vojsko_cez_vrh_struga/21/1495/3795">4 h 15 min</a></td><td class="tdG"><a href="/izlet/divje_jezero_vojsko_cez_vrh_struga/21/1495/3795">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/moskrin_sveti_nadangel_gabrijel_planica/21/549/944">Moškrin - Sveti nadangel Gabrijel (Planica)</a></td><td class="tdG"><a href="/izlet/moskrin_sveti_nadangel_gabrijel_planica/21/549/944">1 h 30 min</a></td><td class="tdG"><a href="/izlet/moskrin_sveti_nadangel_gabrijel_planica/21/549/944">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/divje_jezero_vojsko_mimo_priznice/21/1495/3794">Divje jezero - Vojsko (mimo Prižnice)</a></td><td class="tdG"><a href="/izlet/divje_jezero_vojsko_mimo_priznice/21/1495/3794">5 h</a></td><td class="tdG"><a href="/izlet/divje_jezero_vojsko_mimo_priznice/21/1495/3794">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/rakovica_sveti_nadangel_gabrijel_planica/21/549/3043">Rakovica - Sveti nadangel Gabrijel (Planica)</a></td><td class="tdG"><a href="/izlet/rakovica_sveti_nadangel_gabrijel_planica/21/549/3043">2 h 30 min</a></td><td class="tdG"><a href="/izlet/rakovica_sveti_nadangel_gabrijel_planica/21/549/3043">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/pri_babi_vojsko/21/1495/3796">Pri Babi - Vojsko</a></td><td class="tdG"><a href="/izlet/pri_babi_vojsko/21/1495/3796">4 h</a></td><td class="tdG"><a href="/izlet/pri_babi_vojsko/21/1495/3796">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/cepulje_sveti_nadangel_gabrijel_planica/21/549/5746">Čepulje - Sveti nadangel Gabrijel (Planica)</a></td><td class="tdG"><a href="/izlet/cepulje_sveti_nadangel_gabrijel_planica/21/549/5746"> 50 min</a></td><td class="tdG"><a href="/izlet/cepulje_sveti_nadangel_gabrijel_planica/21/549/5746">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dorfarje_sveti_nadangel_gabrijel_planica/21/549/5248">Dorfarje - Sveti nadangel Gabrijel (Planica)</a></td><td class="tdG"><a href="/izlet/dorfarje_sveti_nadangel_gabrijel_planica/21/549/5248">2 h</a></td><td class="tdG"><a href="/izlet/dorfarje_sveti_nadangel_gabrijel_planica/21/549/5248">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/skofja_loka_sveti_nadangel_gabrijel_planica/21/549/7325">Škofja Loka - Sveti nadangel Gabrijel (Planica)</a></td><td class="tdG"><a href="/izlet/skofja_loka_sveti_nadangel_gabrijel_planica/21/549/7325">2 h 5 min</a></td><td class="tdG"><a href="/izlet/skofja_loka_sveti_nadangel_gabrijel_planica/21/549/7325">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pevno_sveti_nadangel_gabrijel_planica/21/549/6633">Pevno - Sveti nadangel Gabrijel (Planica)</a></td><td class="tdG"><a href="/izlet/pevno_sveti_nadangel_gabrijel_planica/21/549/6633">1 h 30 min</a></td><td class="tdG"><a href="/izlet/pevno_sveti_nadangel_gabrijel_planica/21/549/6633">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/vester_sveti_nadangel_gabrijel_planica/21/549/7328">Vešter - Sveti nadangel Gabrijel (Planica)</a></td><td class="tdG"><a href="/izlet/vester_sveti_nadangel_gabrijel_planica/21/549/7328">2 h 20 min</a></td><td class="tdG"><a href="/izlet/vester_sveti_nadangel_gabrijel_planica/21/549/7328">lahka neoznačena steza</a></td></tr>
 
 </table>
 

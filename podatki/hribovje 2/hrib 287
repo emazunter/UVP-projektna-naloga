@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Tolminski Kuk</title>
-        <meta name="description" content="Natančen opis gore Tolminski Kuk in vseh pristopov na Tolminski Kuk. Tolminski Kuk je najvišji vrh Bohinjsko - Tolminskih gora. Z vrha, ki ima vpisno." />
+        <title>Veliki Karman / Monte Chiampon</title>
+        <meta name="description" content="Natančen opis gore Veliki Karman / Monte Chiampon in vseh pristopov na Veliki Karman / Monte Chiampon. Najvišji vrh celotnega grebena Veliki Karman - (Breginjski) Stol. Po višini ima ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./153?gorovjeid=1&amp;id=153" id="form1">
+    <form method="post" action="./2372?gorovjeid=1&amp;id=2372" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/tolminski_kuk/1/153"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=153"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_karman___monte_chiampon/1/2372"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=2372"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Tolminski Kuk
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Veliki Karman / Monte Chiampon
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(153);
+    gorast(2372);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Tolminski Kuk</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Veliki Karman / Monte Chiampon</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2085&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1713&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,6300'N&nbsp;/&nbsp;13°&nbsp;45,4080'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,6760'N&nbsp;/&nbsp;13°&nbsp;10,8900'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;37,80''N&nbsp;/&nbsp;13°&nbsp;45'&nbsp;24,48''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;40,56''N&nbsp;/&nbsp;13°&nbsp;10'&nbsp;53,40''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.2605°N&nbsp;/&nbsp;13.7568°E";
+                        document.getElementById("kf0").innerHTML = "46.2946°N&nbsp;/&nbsp;13.1815°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,2605°N,&nbsp;13,7568°E";
+                    document.getElementById("kf0").innerHTML = "46,2946°N,&nbsp;13,1815°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2605°N&nbsp;13,7568°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/tolminski_kuk/153"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2946°N&nbsp;13,1815°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_karman___monte_chiampon/2372"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Karman / Monte Chiampon - Torek" href="/vreme_gora/veliki_karman___monte_chiampon/1/2372#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_2_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Karman / Monte Chiampon - Sreda" href="/vreme_gora/veliki_karman___monte_chiampon/1/2372#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Karman / Monte Chiampon - Četrtek" href="/vreme_gora/veliki_karman___monte_chiampon/1/2372#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_2_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Tolminski Kuk - Petek" href="/vreme_gora/tolminski_kuk/1/153#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Karman / Monte Chiampon - Petek" href="/vreme_gora/veliki_karman___monte_chiampon/1/2372#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_2_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Tolminski Kuk - Sobota" href="/vreme_gora/tolminski_kuk/1/153#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Tolminski Kuk - Nedelja" href="/vreme_gora/tolminski_kuk/1/153#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Tolminski Kuk - Ponedeljek" href="/vreme_gora/tolminski_kuk/1/153#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Tolminski Kuk - Torek" href="/vreme_gora/tolminski_kuk/1/153#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Karman / Monte Chiampon - Sobota" href="/vreme_gora/veliki_karman___monte_chiampon/1/2372#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 550.074</div>
-<div class="g2"><b>Priljubljenost:</b> 93%&nbsp;(216.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">11</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=153" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 259.480</div>
+<div class="g2"><b>Priljubljenost:</b> 65%&nbsp;(1158.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Tolminski Kuk je najvišji vrh Bohinjsko - Tolminskih gora. Z vrha, ki ima vpisno skrinjico je zelo lep razgled. Z vrha se vidi morje, primorska s svojimi hribi. V bližini pa se lepo vidita Batognica in Krn pod njima pa Javorca s cerkvijo Svetega Duha. Proti severu se vidi večina najvišjih gora Julijskih Alp s Triglavom na sredini. Proti vzhodu se lepo vidi veriga Bohinjskih gora proti jugovzhodu pa Cerkljansko hribovje.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Najvišji vrh celotnega grebena Veliki Karman - (Breginjski) Stol. Po višini ima edinega konkurenta v bližnjem Denealu, saj ga presega za pičlih osem metrov. A Deneal je pomaknjen kilometer zahodno in ni dostopen povprečno izurjenemu planincu, tako da ne ogroža njegovega primata. Razgled obsega celotni greben Muzcev na severu in severovzhodu, Stolov greben proti vzhodu, Furlansko nižino vse do morske obale ter široko prodnato strugo Tilmenta in Karnijske Alpe na zahodu. Na vrhu, ki ga dosežemo tako prek zelo strmih južnih pobočij kot prek nekoliko položnejših severnih strmali, stojijo križ, zvonček in triangulacijsko znamenje. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=153&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2372&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kser/1/1372">Kser (1900m)</a>, <a class="moder" href="/gora/planina_dobrenjscica/1/1601">Planina Dobrenjščica (1304m)</a>, <a class="moder" href="/gora/planina_govnjac/1/449">Planina Govnjač (1480m)</a>, <a class="moder" href="/gora/podrta_gora/1/2680">Podrta gora (2061m)</a>, <a class="moder" href="/gora/tolminski_migovec/1/2102">Tolminski Migovec (1868m)</a>, <a class="moder" href="/gora/vrh_nad_skrbino/1/698">Vrh nad Škrbino (2054m)</a>, <a class="moder" href="/gora/vrh_planje/1/448">Vrh Planje (1971m)</a>, <a class="moder" href="/gora/vrh_skrli/1/1371">Vrh Škrli (1926m)</a>, <a class="moder" href="/gora/zeleni_vrh/1/1888">Zeleni vrh (2052m)</a>
+<a class="moder" href="/gora/malga_cuarnan/1/3101">Malga Cuarnan (1070m)</a>, <a class="moder" href="/gora/mali_karman___monte_cuarnan/1/2375">Mali Karman / Monte Cuarnan (1372m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,41 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/artegna/1827">Artegna</a>, <a class="moder" href="/spletna_kamera/centa___tarcento/1655">Čenta / Tarcento</a>, <a class="moder" href="/spletna_kamera/humin___gemona_del_friuli/1594">Humin / Gemona del Friuli</a>, <a class="moder" href="/spletna_kamera/pusja_vas___venzone/1967">Pušja vas / Venzone</a>, <a class="moder" href="/spletna_kamera/rezija_val_resia/483">Rezija/Val Resia</a>, <a class="moder" href="/spletna_kamera/villafredda/1835">Villafredda</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ftolminski_kuk%2f1%2f153"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftolminski_kuk%2f1%2f153"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftolminski_kuk%2f1%2f153"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_karman___monte_chiampon%2f1%2f2372"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_karman___monte_chiampon%2f1%2f2372"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_karman___monte_chiampon%2f1%2f2372"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/tolminski_kuk/153" title="Tolminski Kuk 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.tolminskiKuk.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/tolminski_kuk/116" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/116');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/Gora/p5210087medium9gs.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_karman___monte_chiampon/12666" onclick="event.preventDefault(); window.open('/slika_gora/veliki_karman___monte_chiampon/12666');"><img class="slikagm" alt="Veliki Karman / Monte Chiampon" src="//www.hribi.net/slike5/Muzci3_0417641149.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tolminski_kuk/860" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/860');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/Gora/p9020190mediumzv5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tolminski_kuk/861" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/861');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/Gora/p9020198mediumro1.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tolminski_kuk/862" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/862');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/Gora/p9020220mediumwy5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tolminski_kuk/864" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/864');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/Gora/p9020254mediumsj4.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tolminski_kuk/2249" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/2249');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/slike1/P9140525344736.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tolminski_kuk/8859" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/8859');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/slike1/TolminskiKuk 260368082.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tolminski_kuk/8860" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/8860');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/slike1/TolminskiKuk 253368082.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tolminski_kuk/8861" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/8861');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/slike1/TolminskiKuk 274622908.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tolminski_kuk/8862" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/8862');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/slike1/TolminskiKuk 273622908.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tolminski_kuk/8863" onclick="event.preventDefault(); window.open('/slika_gora/tolminski_kuk/8863');"><img class="slikagm" alt="Tolminski Kuk" src="//www.hribi.net/slike1/TolminskiKuk 266594594.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_karman___monte_chiampon/12667" onclick="event.preventDefault(); window.open('/slika_gora/veliki_karman___monte_chiampon/12667');"><img class="slikagm" alt="Veliki Karman / Monte Chiampon" src="//www.hribi.net/slike5/Muzci3_0937641150.th.jpg" /></a>
     
 </div>
 
@@ -933,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=153&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2372&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -943,27 +922,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_kuk_tolminski_kuk/1/153/282">Planina Kuk - Tolminski Kuk</a></td><td class="tdG"><a href="/izlet/planina_kuk_tolminski_kuk/1/153/282">4 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_kuk_tolminski_kuk/1/153/282">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/scuglielars_veliki_karman___monte_chiampon_cai_713/1/2372/4940">Scuglielârs - Veliki Karman / Monte Chiampon (CAI 713)</a></td><td class="tdG"><a href="/izlet/scuglielars_veliki_karman___monte_chiampon_cai_713/1/2372/4940">3 h 30 min</a></td><td class="tdG"><a href="/izlet/scuglielars_veliki_karman___monte_chiampon_cai_713/1/2372/4940">zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_pri_savici_tolminski_kuk_cez_vrh_planje/1/153/697">Koča pri Savici - Tolminski Kuk (čez Vrh Planje)</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_tolminski_kuk_cez_vrh_planje/1/153/697">6 h 15 min</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_tolminski_kuk_cez_vrh_planje/1/153/697">zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/rivoli_bianchi_veliki_karman___monte_chiampon_cai_708_-_713/1/2372/4941">Rivoli bianchi - Veliki Karman / Monte Chiampon (CAI 708 - 713)</a></td><td class="tdG"><a href="/izlet/rivoli_bianchi_veliki_karman___monte_chiampon_cai_708_-_713/1/2372/4941">5 h</a></td><td class="tdG"><a href="/izlet/rivoli_bianchi_veliki_karman___monte_chiampon_cai_708_-_713/1/2372/4941">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pri_savici_tolminski_kuk_direktna_pot/1/153/700"> Koča pri Savici - Tolminski Kuk (direktna pot)</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_tolminski_kuk_direktna_pot/1/153/700">5 h 45 min</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_tolminski_kuk_direktna_pot/1/153/700">zahtevna neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_pri_savici_tolminski_kuk_mimo_doma_na_komni_in_cez_skrbino/1/153/3473">Koča pri Savici - Tolminski Kuk (mimo Doma na Komni in čez Škrbino)</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_tolminski_kuk_mimo_doma_na_komni_in_cez_skrbino/1/153/3473">6 h 45 min</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_tolminski_kuk_mimo_doma_na_komni_in_cez_skrbino/1/153/3473">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tolminske_ravne_tolminski_kuk_cez_planino_razor/1/153/6194">Tolminske Ravne - Tolminski Kuk (čez planino Razor)</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_tolminski_kuk_cez_planino_razor/1/153/6194">4 h 45 min</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_tolminski_kuk_cez_planino_razor/1/153/6194">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tolminske_ravne_tolminski_kuk_mimo_planine_kal/1/153/7835">Tolminske Ravne - Tolminski Kuk (mimo planine Kal)</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_tolminski_kuk_mimo_planine_kal/1/153/7835">4 h</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_tolminski_kuk_mimo_planine_kal/1/153/7835">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ski_hotel_vogel_tolminski_kuk/1/153/3487">Ski hotel Vogel - Tolminski Kuk</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_tolminski_kuk/1/153/3487">5 h 35 min</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_tolminski_kuk/1/153/3487">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ukanc_tolminski_kuk/1/153/3479">Ukanc - Tolminski Kuk</a></td><td class="tdG"><a href="/izlet/ukanc_tolminski_kuk/1/153/3479">5 h 30 min</a></td><td class="tdG"><a href="/izlet/ukanc_tolminski_kuk/1/153/3479">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_polog_tolminski_kuk_cez_planino_dobrenjscico/1/153/2800">Planina Polog - Tolminski Kuk (čez planino Dobrenjščico)</a></td><td class="tdG"><a href="/izlet/planina_polog_tolminski_kuk_cez_planino_dobrenjscico/1/153/2800">6 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_polog_tolminski_kuk_cez_planino_dobrenjscico/1/153/2800">lahko brezpotje, zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kneske_ravne_tolminski_kuk_cez_skrbino/1/153/6941">Kneške Ravne - Tolminski Kuk (čez Škrbino)</a></td><td class="tdG"><a href="/izlet/kneske_ravne_tolminski_kuk_cez_skrbino/1/153/6941">6 h 15 min</a></td><td class="tdG"><a href="/izlet/kneske_ravne_tolminski_kuk_cez_skrbino/1/153/6941">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tolminske_ravne_tolminski_kuk_po_dolini_pod_plosco/1/153/9304">Tolminske Ravne - Tolminski Kuk (po dolini pod Ploščo)</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_tolminski_kuk_po_dolini_pod_plosco/1/153/9304">4 h 35 min</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_tolminski_kuk_po_dolini_pod_plosco/1/153/9304">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/strada_di_foredor_veliki_karman___monte_chiampon_713/1/2372/7376">Strada di Foredor - Veliki Karman / Monte Chiampon (713)</a></td><td class="tdG"><a href="/izlet/strada_di_foredor_veliki_karman___monte_chiampon_713/1/2372/7376">2 h 10 min</a></td><td class="tdG"><a href="/izlet/strada_di_foredor_veliki_karman___monte_chiampon_713/1/2372/7376">delno zahtevna označena pot</a></td></tr>
 
 </table>
 

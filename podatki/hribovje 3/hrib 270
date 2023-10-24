@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planina Kališče</title>
-        <meta name="description" content="Natančen opis planine Planina Kališče in vseh pristopov na Planina Kališče. Planina Kališče oz. Spodnje Kališče se nahaja približno 100 višinskih metrov pod." />
+        <title>Mokrišče Blata</title>
+        <meta name="description" content="Natančen opis gore Mokrišče Blata in vseh pristopov na Mokrišče Blata. Mokrišče Blata se nahaja med zaselkom Snakovo in Sebenjami. Po mokrišču je spelj." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./467?gorovjeid=3&amp;id=467" id="form1">
+    <form method="post" action="./2841?gorovjeid=3&amp;id=2841" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_kalisce/3/467"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=467"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/blata_wetland/3/2841"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2841"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Planina Kališče
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Mokrišče Blata
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(467);
+    gorast(2841);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planina Kališče</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Mokrišče Blata</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1450&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 505&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,1336'N&nbsp;/&nbsp;14°&nbsp;24,9378'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;19,9260'N&nbsp;/&nbsp;14°&nbsp;18,4020'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;8,02''N&nbsp;/&nbsp;14°&nbsp;24'&nbsp;56,27''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;19'&nbsp;55,56''N&nbsp;/&nbsp;14°&nbsp;18'&nbsp;24,12''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.33556°N&nbsp;/&nbsp;14.41563°E";
+                        document.getElementById("kf0").innerHTML = "46.3321°N&nbsp;/&nbsp;14.3067°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,33556°N,&nbsp;14,41563°E";
+                    document.getElementById("kf0").innerHTML = "46,3321°N,&nbsp;14,3067°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,33556°N&nbsp;14,41563°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_kalisce/467"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3321°N&nbsp;14,3067°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mokrisce_blata/2841"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> planina</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Mokrišče Blata - Torek" href="/vreme_gora/mokrisce_blata/3/2841#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Mokrišče Blata - Sreda" href="/vreme_gora/mokrisce_blata/3/2841#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Mokrišče Blata - Četrtek" href="/vreme_gora/mokrisce_blata/3/2841#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Kališče - Petek" href="/vreme_gora/planina_kalisce/3/467#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mokrišče Blata - Petek" href="/vreme_gora/mokrisce_blata/3/2841#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Kališče - Sobota" href="/vreme_gora/planina_kalisce/3/467#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Kališče - Nedelja" href="/vreme_gora/planina_kalisce/3/467#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Kališče - Ponedeljek" href="/vreme_gora/planina_kalisce/3/467#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Kališče - Torek" href="/vreme_gora/planina_kalisce/3/467#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mokrišče Blata - Sobota" href="/vreme_gora/mokrisce_blata/3/2841#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 463.430</div>
-<div class="g2"><b>Priljubljenost:</b> 87%&nbsp;(426.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=467" title="Število vpisov v vpisni knjigi">4</a></div>
+<div class="g2"><b>Ogledov:</b> 1.570</div>
+<div class="g2"><b>Priljubljenost:</b> 24%&nbsp;(2482.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Kališče oz. Spodnje Kališče se nahaja približno 100 višinskih metrov pod Domom na Kališču. Na Spodnjem Kališču je nekaj lesenih koč, manjše napajališče ter spomenik NOB. S planine se nam odpre lep pogled na Storžič, z roba planine pa še na Gorenjsko, del Ljubljanske kotline in hribovje južno in zahodno od Ljubljanske kotline, sicer pa lepši razgled ovira bližnji gozd.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Mokrišče Blata se nahaja med zaselkom Snakovo in Sebenjami. Po mokrišču je speljana učna pot z enajstimi točkami, ki pa v naravi niso posebej označena.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=467&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2841&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/baseljski_vrh/3/274">Bašeljski vrh (1744m)</a>, <a class="moder" href="/gora/cjanovca/3/499">Cjanovca (1820m)</a>, <a class="moder" href="/gora/dom_na_kaliscu/3/134">Dom na Kališču (1534m)</a>, <a class="moder" href="/gora/gradisce_pustinjak/3/2358">Gradišče (Pustinjak) (871m)</a>, <a class="moder" href="/gora/licjanovec/3/2582">Licjanovec (1733m)</a>, <a class="moder" href="/gora/mali_grintovec/3/356">Mali Grintovec (1813m)</a>, <a class="moder" href="/gora/planina_dolga_njiva/3/245">Planina Dolga njiva (1600m)</a>, <a class="moder" href="/gora/praprotnikova_koca/3/337">Praprotnikova koča (1380m)</a>, <a class="moder" href="/gora/srednji_vrh/3/244">Srednji vrh (1853m)</a>, <a class="moder" href="/gora/storzic/3/85">Storžič (2132m)</a>
+<a class="moder" href="/gora/sebenje/3/2829">Sebenje (500m)</a>, <a class="moder" href="/gora/zavetisce_v_gozdu/3/120">Zavetišče v Gozdu (891m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,32 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_kalisce%2f3%2f467"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_kalisce%2f3%2f467"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_kalisce%2f3%2f467"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmokrisce_blata%2f3%2f2841"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmokrisce_blata%2f3%2f2841"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmokrisce_blata%2f3%2f2841"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planina_kalisce/1101" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisce/1101');"><img class="slikagm" alt="Planina Kališče" src="//www.hribi.net/Gora/pa160022mediumqz4.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mokrisce_blata/16409" onclick="event.preventDefault(); window.open('/slika_gora/mokrisce_blata/16409');"><img class="slikagm" alt="Mokrišče Blata" src="//www.hribi.net/slike11/DSCN1660642917200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_kalisce/1685" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisce/1685');"><img class="slikagm" alt="Planina Kališče" src="//www.hribi.net/slike1/P50100395355.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mokrisce_blata/16410" onclick="event.preventDefault(); window.open('/slika_gora/mokrisce_blata/16410');"><img class="slikagm" alt="Mokrišče Blata" src="//www.hribi.net/slike11/DSCN16619873182400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_kalisce/1686" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisce/1686');"><img class="slikagm" alt="Planina Kališče" src="//www.hribi.net/slike1/P50100415355.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mokrisce_blata/16411" onclick="event.preventDefault(); window.open('/slika_gora/mokrisce_blata/16411');"><img class="slikagm" alt="Mokrišče Blata" src="//www.hribi.net/slike11/DSCN16624033182400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_kalisce/12335" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisce/12335');"><img class="slikagm" alt="Planina Kališče" src="//www.hribi.net/slike1/Kalisce 12276636.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mokrisce_blata/16412" onclick="event.preventDefault(); window.open('/slika_gora/mokrisce_blata/16412');"><img class="slikagm" alt="Mokrišče Blata" src="//www.hribi.net/slike11/DSCN16649813182400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_kalisce/12336" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisce/12336');"><img class="slikagm" alt="Planina Kališče" src="//www.hribi.net/slike1/Kalisce 12076636.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_kalisce/12337" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisce/12337');"><img class="slikagm" alt="Planina Kališče" src="//www.hribi.net/slike1/Kalisce 11876636.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_kalisce/12576" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisce/12576');"><img class="slikagm" alt="Planina Kališče" src="//slike.hribi.net/slike4/2_1847454964863_BaseljskiVrh_102.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_kalisce/12577" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisce/12577');"><img class="slikagm" alt="Planina Kališče" src="//www.hribi.net/slike1/BaseljskiVrh 104752640.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mokrisce_blata/16413" onclick="event.preventDefault(); window.open('/slika_gora/mokrisce_blata/16413');"><img class="slikagm" alt="Mokrišče Blata" src="//www.hribi.net/slike11/DSCN16657523182400.th.jpg" /></a>
     
 </div>
 
@@ -924,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=467&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2841&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -934,21 +928,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_planina_kalisce/3/467/772">Mače - Planina Kališče</a></td><td class="tdG"><a href="/izlet/mace_planina_kalisce/3/467/772">2 h 15 min</a></td><td class="tdG"><a href="/izlet/mace_planina_kalisce/3/467/772">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lasko_planina_kalisce/3/467/985">Laško - Planina Kališče</a></td><td class="tdG"><a href="/izlet/lasko_planina_kalisce/3/467/985">1 h 45 min</a></td><td class="tdG"><a href="/izlet/lasko_planina_kalisce/3/467/985">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/baselj_planina_kalisce/3/467/4772">Bašelj - Planina Kališče</a></td><td class="tdG"><a href="/izlet/baselj_planina_kalisce/3/467/4772">2 h 15 min</a></td><td class="tdG"><a href="/izlet/baselj_planina_kalisce/3/467/4772">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baselj_planina_kalisce_po_gozdni_cesti/3/467/4774">Bašelj - Planina Kališče (po gozdni cesti)</a></td><td class="tdG"><a href="/izlet/baselj_planina_kalisce_po_gozdni_cesti/3/467/4774">2 h 15 min</a></td><td class="tdG"><a href="/izlet/baselj_planina_kalisce_po_gozdni_cesti/3/467/4774">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_planina_kalisce_po_cesti/3/467/4891">Mače - Planina Kališče (po cesti)</a></td><td class="tdG"><a href="/izlet/mace_planina_kalisce_po_cesti/3/467/4891">2 h 15 min</a></td><td class="tdG"><a href="/izlet/mace_planina_kalisce_po_cesti/3/467/4891">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baselj_planina_kalisce_mimo_bolnice_kosuta/3/467/4899">Bašelj - Planina Kališče (mimo bolnice Košuta)</a></td><td class="tdG"><a href="/izlet/baselj_planina_kalisce_mimo_bolnice_kosuta/3/467/4899">2 h 25 min</a></td><td class="tdG"><a href="/izlet/baselj_planina_kalisce_mimo_bolnice_kosuta/3/467/4899">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mace__planina_kalisce_mimo_sv_miklavza/3/467/4895">Mače  - Planina Kališče (mimo sv. Miklavža)</a></td><td class="tdG"><a href="/izlet/mace__planina_kalisce_mimo_sv_miklavza/3/467/4895">2 h 30 min</a></td><td class="tdG"><a href="/izlet/mace__planina_kalisce_mimo_sv_miklavza/3/467/4895">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baselj_planina_kalisce_po_neoznaceni_poti/3/467/7401">Bašelj - Planina Kališče (po neoznačeni poti)</a></td><td class="tdG"><a href="/izlet/baselj_planina_kalisce_po_neoznaceni_poti/3/467/7401">2 h 25 min</a></td><td class="tdG"><a href="/izlet/baselj_planina_kalisce_po_neoznaceni_poti/3/467/7401">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/sebenje_mokrisce_blata/3/2841/6591">Sebenje - Mokrišče Blata</a></td><td class="tdG"><a href="/izlet/sebenje_mokrisce_blata/3/2841/6591"> 10 min</a></td><td class="tdG"><a href="/izlet/sebenje_mokrisce_blata/3/2841/6591">lahka neoznačena steza</a></td></tr>
 
 </table>
 

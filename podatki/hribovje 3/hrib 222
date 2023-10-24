@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Domžalski dom na Mali planini</title>
-        <meta name="description" content="Natančen opis koče Domžalski dom na Mali planini in vseh pristopov na Domžalski dom na Mali planini. Domžalski dom na Mali planini se nahaja med Poljanskim robom (1569 m) in Bukovce." />
+        <title>Dom na Čreti</title>
+        <meta name="description" content="Natančen opis koče Dom na Čreti in vseh pristopov na Dom na Čreti. Dom na Čreti se nahaja severno od Vranskega na osredjem delu Dobroveljske planot." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./170?gorovjeid=3&amp;id=170" id="form1">
+    <form method="post" action="./818?gorovjeid=3&amp;id=818" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/domzalski_dom_na_mali_planini/3/170"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=170"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_na_creti/3/818"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=818"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Domžalski dom na Mali planini
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Dom na Čreti
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(170);
+    gorast(818);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Domžalski dom na Mali planini</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Dom na Čreti</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1534&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 870&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,3496'N&nbsp;/&nbsp;14°&nbsp;39,3960'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;16,6092'N&nbsp;/&nbsp;14°&nbsp;57,5526'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;20,98''N&nbsp;/&nbsp;14°&nbsp;39'&nbsp;23,76''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;16'&nbsp;36,55''N&nbsp;/&nbsp;14°&nbsp;57'&nbsp;33,16''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.28916°N&nbsp;/&nbsp;14.6566°E";
+                        document.getElementById("kf0").innerHTML = "46.27682°N&nbsp;/&nbsp;14.95921°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,28916°N,&nbsp;14,6566°E";
+                    document.getElementById("kf0").innerHTML = "46,27682°N,&nbsp;14,95921°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,28916°N&nbsp;14,6566°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/domzalski_dom_na_mali_planini/170"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,27682°N&nbsp;14,95921°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_na_creti/818"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, planina</div>
+    <div class="g2"><b>Vrsta:</b> koča, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Čreti - Torek" href="/vreme_gora/dom_na_creti/3/818#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Čreti - Sreda" href="/vreme_gora/dom_na_creti/3/818#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Čreti - Četrtek" href="/vreme_gora/dom_na_creti/3/818#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Domžalski dom na Mali planini - Petek" href="/vreme_gora/domzalski_dom_na_mali_planini/3/170#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Čreti - Petek" href="/vreme_gora/dom_na_creti/3/818#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Domžalski dom na Mali planini - Sobota" href="/vreme_gora/domzalski_dom_na_mali_planini/3/170#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Domžalski dom na Mali planini - Nedelja" href="/vreme_gora/domzalski_dom_na_mali_planini/3/170#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Domžalski dom na Mali planini - Ponedeljek" href="/vreme_gora/domzalski_dom_na_mali_planini/3/170#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Domžalski dom na Mali planini - Torek" href="/vreme_gora/domzalski_dom_na_mali_planini/3/170#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Čreti - Sobota" href="/vreme_gora/dom_na_creti/3/818#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 620.946</div>
-<div class="g2"><b>Priljubljenost:</b> 96%&nbsp;(124.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
+<div class="g2"><b>Ogledov:</b> 474.200</div>
+<div class="g2"><b>Priljubljenost:</b> 88%&nbsp;(394.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=170" title="Število vpisov v vpisni knjigi">6</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=818" title="Število vpisov v vpisni knjigi">3</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Domžalski dom na Mali planini se nahaja med Poljanskim robom (1569 m) in Bukovcem (1552 m). Od doma, ki je odprt preko celega leta, se nam odpre lep razgled na že omenjena dva vrhova, ter na bližnje pašnike, kateri so v poletni sezoni polni živine.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Dom na Čreti se nahaja severno od Vranskega na osredjem delu Dobroveljske planote. V bližini doma sta tudi dve cerkvici, ki sta od doma oddaljeni 5 oziroma 10 minut. Prva je posvečena Sveti Materi Božji, druga pa Sveti Katarini.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=170&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=818&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/crnuski_dom_na_mali_planini/3/470">Črnuški dom na Mali planini (1526m)</a>, <a class="moder" href="/gora/dom_na_kisovcu/3/189">Dom na Kisovcu (1275m)</a>, <a class="moder" href="/gora/gostisce_zeleni_rob/3/947">Gostišče Zeleni Rob (1612m)</a>, <a class="moder" href="/gora/gradisce_velika_planina/3/169">Gradišče (Velika planina) (1666m)</a>, <a class="moder" href="/gora/jarski_dom_na_mali_planini/3/237">Jarški dom na Mali planini (1520m)</a>, <a class="moder" href="/gora/kapela_marije_snezne_velika_planina/3/168">Kapela Marije Snežne (Velika planina) (1560m)</a>, <a class="moder" href="/gora/planina_marjanine_njive/3/2384">Planina Marjanine njive (1220m)</a>, <a class="moder" href="/gora/poljanski_rob/3/1488">Poljanski rob (1569m)</a>
+<a class="moder" href="/gora/dom_planincev_farbanca/3/1133">Dom planincev Farbanca (702m)</a>, <a class="moder" href="/gora/sveta_mati_bozja_na_creti/3/1680">Sveta Mati Božja na Čreti (944m)</a>, <a class="moder" href="/gora/vrhe/3/1679">Vrhe (965m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,53 +835,45 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
+<a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/sentrupert/379">Šentrupert</a>, <a class="moder" href="/spletna_kamera/sveta_planina_partizanski_vrh/3429">Sveta planina (Partizanski vrh)</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>, <a class="moder" href="/spletna_kamera/vransko/359">Vransko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdomzalski_dom_na_mali_planini%2f3%2f170"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdomzalski_dom_na_mali_planini%2f3%2f170"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdomzalski_dom_na_mali_planini%2f3%2f170"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_creti%2f3%2f818"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_creti%2f3%2f818"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_creti%2f3%2f818"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/domzalski_dom_na_mali_planini/170" title="Domžalski dom na Mali planini 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.domzalskiDom.jpg" /></a></div>
+<div><a href="/panorama/360/dom_na_creti/818" title="Dom na Čreti 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.DomNaCreti.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/436" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/436');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/Gora/p7040135medium3fi.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_creti/2710" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_creti/2710');"><img class="slikagm" alt="Dom na Čreti" src="//www.hribi.net/slike1/P20300863840.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/437" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/437');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/Gora/p7040136medium8po.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_creti/2711" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_creti/2711');"><img class="slikagm" alt="Dom na Čreti" src="//www.hribi.net/slike1/P20301403840.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5334" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5334');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlanina 096199680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_creti/2712" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_creti/2712');"><img class="slikagm" alt="Dom na Čreti" src="//www.hribi.net/slike1/P20300851920.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5335" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5335');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlanina 091199680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_creti/3784" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_creti/3784');"><img class="slikagm" alt="Dom na Čreti" src="//www.hribi.net/slike1/PC090230870912.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5791" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5791');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlaninaLovska 20858500.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_creti/3785" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_creti/3785');"><img class="slikagm" alt="Dom na Čreti" src="//www.hribi.net/slike1/PC090217870912.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5792" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5792');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlaninaLovska 20558500.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_creti/3786" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_creti/3786');"><img class="slikagm" alt="Dom na Čreti" src="//www.hribi.net/slike1/PC090244870912.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5793" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5793');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlaninaLovska 21495550.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_creti/3787" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_creti/3787');"><img class="slikagm" alt="Dom na Čreti" src="//www.hribi.net/slike1/PC090238870912.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/5794" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/5794');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlaninaLovska 20295550.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_creti/7365" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_creti/7365');"><img class="slikagm" alt="Dom na Čreti" src="//www.hribi.net/slike1/Creta%2021554230.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/8935" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/8935');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/VelikaPlanina 1191667952.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_creti/14383" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_creti/14383');"><img class="slikagm" alt="Dom na Čreti" src="//www.hribi.net/slike1/DSCN3094164864.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/12743" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/12743');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/PoljanskiRob 2041474200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/domzalski_dom_na_mali_planini/12744" onclick="event.preventDefault(); window.open('/slika_gora/domzalski_dom_na_mali_planini/12744');"><img class="slikagm" alt="Domžalski dom na Mali planini" src="//www.hribi.net/slike1/PoljanskiRob 2021474200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_creti/14384" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_creti/14384');"><img class="slikagm" alt="Dom na Čreti" src="//slike.hribi.net/slike4/2_1969511422918_DSCN3092.JPG" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_z_gojske_planine/8/507"><img class="slikagmv" alt="Polet z Gojške planine" src="https://img.youtube.com/vi/w_49277r2iI/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/projekt_8800/8/453"><img class="slikagmv" alt="Projekt 8800+" src="https://img.youtube.com/vi/DYVfjTA_Nkw/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/prva_pomladanska_termika_na_veliki_planini/8/419"><img class="slikagmv" alt="Prva pomladanska termika na Veliki planini" src="https://img.youtube.com/vi/aTT1ZsFsGfc/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -939,7 +931,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=170&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=818&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -949,19 +941,21 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_spodaj_po_cesti/3/170/345">Kranjski Rak - Domžalski dom na Mali planini (spodaj po cesti)</a></td><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_spodaj_po_cesti/3/170/345">1 h 45 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_spodaj_po_cesti/3/170/345">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/vransko_dom_na_creti/3/818/1451">Vransko - Dom na Čreti</a></td><td class="tdG"><a href="/izlet/vransko_dom_na_creti/3/818/1451">1 h 45 min</a></td><td class="tdG"><a href="/izlet/vransko_dom_na_creti/3/818/1451">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/hotel_simnovec_domzalski_dom_na_mali_planini_over_gradisce/3/170/243">Hotel Šimnovec - Domžalski dom na Mali planini (over Gradišče)</a></td><td class="tdG"><a href="/izlet/hotel_simnovec_domzalski_dom_na_mali_planini_over_gradisce/3/170/243">1 h 15 min</a></td><td class="tdG"><a href="/izlet/hotel_simnovec_domzalski_dom_na_mali_planini_over_gradisce/3/170/243">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_planincev_farbanca_dom_na_creti/3/818/919">Dom planincev Farbanca - Dom na Čreti</a></td><td class="tdG"><a href="/izlet/dom_planincev_farbanca_dom_na_creti/3/818/919">1 h</a></td><td class="tdG"><a href="/izlet/dom_planincev_farbanca_dom_na_creti/3/818/919">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/stahovica_domzalski_dom_na_mali_planini/3/170/2512">Stahovica - Domžalski dom na Mali planini</a></td><td class="tdG"><a href="/izlet/stahovica_domzalski_dom_na_mali_planini/3/170/2512">3 h 10 min</a></td><td class="tdG"><a href="/izlet/stahovica_domzalski_dom_na_mali_planini/3/170/2512">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zovnesko_jezero_dom_na_creti/3/818/3015">Žovneško jezero - Dom na Čreti</a></td><td class="tdG"><a href="/izlet/zovnesko_jezero_dom_na_creti/3/818/3015">2 h 30 min</a></td><td class="tdG"><a href="/izlet/zovnesko_jezero_dom_na_creti/3/818/3015">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/za_usivcem_domzalski_dom_na_mali_planini/3/170/3493">Za Ušivcem - Domžalski dom na Mali planini</a></td><td class="tdG"><a href="/izlet/za_usivcem_domzalski_dom_na_mali_planini/3/170/3493">1 h 30 min</a></td><td class="tdG"><a href="/izlet/za_usivcem_domzalski_dom_na_mali_planini/3/170/3493">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/braslovsko_jezero_dom_na_creti/3/818/3778">Braslovško jezero - Dom na Čreti</a></td><td class="tdG"><a href="/izlet/braslovsko_jezero_dom_na_creti/3/818/3778">3 h</a></td><td class="tdG"><a href="/izlet/braslovsko_jezero_dom_na_creti/3/818/3778">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjski_rak__domzalski_dom_na_mali_planini_pespot/3/170/4979">Kranjski Rak  - Domžalski dom na Mali planini (pešpot)</a></td><td class="tdG"><a href="/izlet/kranjski_rak__domzalski_dom_na_mali_planini_pespot/3/170/4979">1 h 40 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak__domzalski_dom_na_mali_planini_pespot/3/170/4979">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/letus_dom_na_creti/3/818/3786">Letuš - Dom na Čreti</a></td><td class="tdG"><a href="/izlet/letus_dom_na_creti/3/818/3786">3 h</a></td><td class="tdG"><a href="/izlet/letus_dom_na_creti/3/818/3786">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kraljev_hrib_domzalski_dom_na_mali_planini_preko_skorence_kacjeka_in_gamsovih_strez/3/170/2516">Kraljev hrib - Domžalski dom na Mali planini (preko Škorence, Kačjeka in Gamsovih strež)</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_domzalski_dom_na_mali_planini_preko_skorence_kacjeka_in_gamsovih_strez/3/170/2516">4 h 10 min</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_domzalski_dom_na_mali_planini_preko_skorence_kacjeka_in_gamsovih_strez/3/170/2516">delno zahtevna neoznačena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kokarje_src_laze_dom_na_creti_preko_tajne/3/818/5820">Kokarje (ŠRC Laze) - Dom na Čreti (preko Tajne)</a></td><td class="tdG"><a href="/izlet/kokarje_src_laze_dom_na_creti_preko_tajne/3/818/5820">1 h 40 min</a></td><td class="tdG"><a href="/izlet/kokarje_src_laze_dom_na_creti_preko_tajne/3/818/5820">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_cez_seliski_rob/3/170/4973"> Kranjski Rak - Domžalski dom na Mali planini (čez Seliški rob)</a></td><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_cez_seliski_rob/3/170/4973">1 h 50 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak_domzalski_dom_na_mali_planini_cez_seliski_rob/3/170/4973">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/potok_mostni_graben_dom_na_creti_mimo_doma_na_farbanci/3/818/5829">Potok (Mostni graben) - Dom na Čreti (mimo Doma na Farbanci)</a></td><td class="tdG"><a href="/izlet/potok_mostni_graben_dom_na_creti_mimo_doma_na_farbanci/3/818/5829">1 h 35 min</a></td><td class="tdG"><a href="/izlet/potok_mostni_graben_dom_na_creti_mimo_doma_na_farbanci/3/818/5829">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kokarje_src_laze_dom_na_creti_mimo_doma_na_farbanci/3/818/5824">Kokarje (ŠRC Laze) - Dom na Čreti (mimo Doma na Farbanci)</a></td><td class="tdG"><a href="/izlet/kokarje_src_laze_dom_na_creti_mimo_doma_na_farbanci/3/818/5824">2 h</a></td><td class="tdG"><a href="/izlet/kokarje_src_laze_dom_na_creti_mimo_doma_na_farbanci/3/818/5824">lahka označena pot</a></td></tr>
 
 </table>
 

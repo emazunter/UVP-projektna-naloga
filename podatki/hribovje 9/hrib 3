@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Gladki vrh (Ratitovec)</title>
-        <meta name="description" content="Natančen opis gore Gladki vrh (Ratitovec) in vseh pristopov na Gladki vrh (Ratitovec). Gladki vrh je z višino 1667 m najbolj obiskan vrh v pogorju Ratitovca. Z neporaš." />
+        <title>Kremant (Ratitovec)</title>
+        <meta name="description" content="Natančen opis gore Kremant (Ratitovec) in vseh pristopov na Kremant (Ratitovec). Kremant je 1654 m visok vrh, ki se nahaja na zahodnem delu Ratitovca. Z vrha, na." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1308?gorovjeid=21&amp;id=1308" id="form1">
+    <form method="post" action="./1803?gorovjeid=21&amp;id=1803" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/gladki_vrh_ratitovec/21/1308"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1308"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kremant_ratitovec/21/1803"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1803"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Gladki vrh (Ratitovec)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Kremant (Ratitovec)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1308);
+    gorast(1803);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Gladki vrh (Ratitovec)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kremant (Ratitovec)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1667&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1654&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;14,2566'N&nbsp;/&nbsp;14°&nbsp;5,5032'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;14,3760'N&nbsp;/&nbsp;14°&nbsp;4,3380'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;14'&nbsp;15,40''N&nbsp;/&nbsp;14°&nbsp;5'&nbsp;30,19''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;14'&nbsp;22,56''N&nbsp;/&nbsp;14°&nbsp;4'&nbsp;20,28''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.23761°N&nbsp;/&nbsp;14.09172°E";
+                        document.getElementById("kf0").innerHTML = "46.2396°N&nbsp;/&nbsp;14.0723°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,23761°N,&nbsp;14,09172°E";
+                    document.getElementById("kf0").innerHTML = "46,2396°N,&nbsp;14,0723°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,23761°N&nbsp;14,09172°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/gladki_vrh_ratitovec/1308"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2396°N&nbsp;14,0723°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kremant_ratitovec/1803"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kremant (Ratitovec) - Torek" href="/vreme_gora/kremant_ratitovec/21/1803#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kremant (Ratitovec) - Sreda" href="/vreme_gora/kremant_ratitovec/21/1803#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kremant (Ratitovec) - Četrtek" href="/vreme_gora/kremant_ratitovec/21/1803#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Gladki vrh (Ratitovec) - Petek" href="/vreme_gora/gladki_vrh_ratitovec/21/1308#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kremant (Ratitovec) - Petek" href="/vreme_gora/kremant_ratitovec/21/1803#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Gladki vrh (Ratitovec) - Sobota" href="/vreme_gora/gladki_vrh_ratitovec/21/1308#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Gladki vrh (Ratitovec) - Nedelja" href="/vreme_gora/gladki_vrh_ratitovec/21/1308#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Gladki vrh (Ratitovec) - Ponedeljek" href="/vreme_gora/gladki_vrh_ratitovec/21/1308#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Gladki vrh (Ratitovec) - Torek" href="/vreme_gora/gladki_vrh_ratitovec/21/1308#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kremant (Ratitovec) - Sobota" href="/vreme_gora/kremant_ratitovec/21/1803#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 503.565</div>
-<div class="g2"><b>Priljubljenost:</b> 91%&nbsp;(311.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">15</a></div>
+<div class="g2"><b>Ogledov:</b> 305.994</div>
+<div class="g2"><b>Priljubljenost:</b> 70%&nbsp;(985.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1308" title="Število vpisov v vpisni knjigi">17</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1803" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Gladki vrh je z višino 1667 m najbolj obiskan vrh v pogorju Ratitovca. Z neporaščenega vrha, na katerem se nahaja razgledna plošča se nam odpre lep razgled po večjem delu zahodne in osrednje Slovenije.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Kremant je 1654 m visok vrh, ki se nahaja na zahodnem delu Ratitovca. Z vrha, na katerem je na kovinski drog pritrjen žig, se nam odpre lep razgled na Altemaver, Porezen, del Spodnjih Bohinjskih gora, Triglav in del Karavank.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1308&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1803&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/altemaver_ratitovec/21/1310">Altemaver (Ratitovec) (1678m)</a>, <a class="moder" href="/gora/kosmati_vrh_ratitovec/21/608">Kosmati vrh (Ratitovec) (1643m)</a>, <a class="moder" href="/gora/krekova_koca_na_ratitovcu/21/147">Krekova koča na Ratitovcu (1642m)</a>, <a class="moder" href="/gora/kremant_ratitovec/21/1803">Kremant (Ratitovec) (1654m)</a>, <a class="moder" href="/gora/lovska_koca_na_toli/21/1960">Lovska koča na Toli (1040m)</a>, <a class="moder" href="/gora/planina_klom/21/1586">Planina Klom (1500m)</a>, <a class="moder" href="/gora/planina_pecana/21/481">Planina Pečana (1472m)</a>, <a class="moder" href="/gora/prtovc/21/1472">Prtovč (1011m)</a>
+<a class="moder" href="/gora/altemaver_ratitovec/21/1310">Altemaver (Ratitovec) (1678m)</a>, <a class="moder" href="/gora/gladki_vrh_ratitovec/21/1308">Gladki vrh (Ratitovec) (1667m)</a>, <a class="moder" href="/gora/kacji_rob/21/1925">Kačji rob (1520m)</a>, <a class="moder" href="/gora/krekova_koca_na_ratitovcu/21/147">Krekova koča na Ratitovcu (1642m)</a>, <a class="moder" href="/gora/planina_pecana/21/481">Planina Pečana (1472m)</a>, <a class="moder" href="/gora/zbajnek/21/1924">Žbajnek (1538m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,49 +835,39 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
+<a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgladki_vrh_ratitovec%2f21%2f1308"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgladki_vrh_ratitovec%2f21%2f1308"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgladki_vrh_ratitovec%2f21%2f1308"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkremant_ratitovec%2f21%2f1803"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkremant_ratitovec%2f21%2f1803"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkremant_ratitovec%2f21%2f1803"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/gladki_vrh_ratitovec/1308" title="Gladki vrh (Ratitovec) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.GladkiVrh.jpg" /></a></div>
+<div><a href="/panorama/360/kremant_ratitovec/1803" title="Kremant (Ratitovec) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Kremant.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/4570" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/4570');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//www.hribi.net/slike1/Slike%20nikon%2053527720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kremant_ratitovec/8154" onclick="event.preventDefault(); window.open('/slika_gora/kremant_ratitovec/8154');"><img class="slikagm" alt="Kremant (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec11 197237600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/4571" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/4571');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//www.hribi.net/Gora/p3260237medium1rr.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kremant_ratitovec/8155" onclick="event.preventDefault(); window.open('/slika_gora/kremant_ratitovec/8155');"><img class="slikagm" alt="Kremant (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec11 111514800.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/5611" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/5611');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//www.hribi.net/slike1/RatitovecPorezen 194574560.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kremant_ratitovec/8160" onclick="event.preventDefault(); window.open('/slika_gora/kremant_ratitovec/8160');"><img class="slikagm" alt="Kremant (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec11 1861663200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/5614" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/5614');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//www.hribi.net/slike1/RatitovecPorezen 220393120.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kremant_ratitovec/8161" onclick="event.preventDefault(); window.open('/slika_gora/kremant_ratitovec/8161');"><img class="slikagm" alt="Kremant (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec11 1491663200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/6551" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/6551');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec10 1441915200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kremant_ratitovec/8162" onclick="event.preventDefault(); window.open('/slika_gora/kremant_ratitovec/8162');"><img class="slikagm" alt="Kremant (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec11 1481663200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/6553" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/6553');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec10 179216000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kremant_ratitovec/9240" onclick="event.preventDefault(); window.open('/slika_gora/kremant_ratitovec/9240');"><img class="slikagm" alt="Kremant (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec1111 193406560.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/9245" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/9245');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec1111 245392040.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/9246" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/9246');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec1111 247392040.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/10603" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/10603');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//slike.hribi.net/slike4/2_1138416504453_GladkiVrh_130.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/10604" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/10604');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//www.hribi.net/slike1/GladkiVrh 137286.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/gladki_vrh_ratitovec/14896" onclick="event.preventDefault(); window.open('/slika_gora/gladki_vrh_ratitovec/14896');"><img class="slikagm" alt="Gladki vrh (Ratitovec)" src="//www.hribi.net/slike1/DSCN376167200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kremant_ratitovec/9242" onclick="event.preventDefault(); window.open('/slika_gora/kremant_ratitovec/9242');"><img class="slikagm" alt="Kremant (Ratitovec)" src="//www.hribi.net/slike1/Ratitovec1111 204598950.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Smučanje/ratitovec_212018/1/859"><img class="slikagmv" alt="Ratitovec, 2.1.2018" src="https://img.youtube.com/vi/hUvPWR1OxV0/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -935,7 +925,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1308&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1803&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -945,35 +935,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/prtovc_gladki_vrh_ratitovec_cez_razor/21/1308/2202">Prtovč - Gladki vrh (Ratitovec) (čez Razor)</a></td><td class="tdG"><a href="/izlet/prtovc_gladki_vrh_ratitovec_cez_razor/21/1308/2202">1 h 35 min</a></td><td class="tdG"><a href="/izlet/prtovc_gladki_vrh_ratitovec_cez_razor/21/1308/2202">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornje_danje_kremant_ratitovec/21/1803/3309">Zgornje Danje - Kremant (Ratitovec)</a></td><td class="tdG"><a href="/izlet/zgornje_danje_kremant_ratitovec/21/1803/3309">1 h 45 min</a></td><td class="tdG"><a href="/izlet/zgornje_danje_kremant_ratitovec/21/1803/3309">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/prtovc_gladki_vrh_ratitovec_cez_povden/21/1308/2203">Prtovč - Gladki vrh (Ratitovec) (čez Po(v)den)</a></td><td class="tdG"><a href="/izlet/prtovc_gladki_vrh_ratitovec_cez_povden/21/1308/2203">1 h 35 min</a></td><td class="tdG"><a href="/izlet/prtovc_gladki_vrh_ratitovec_cez_povden/21/1308/2203">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/bohinjsko_sedlo_kremant_ratitovec/21/1803/3563">Bohinjsko sedlo - Kremant (Ratitovec)</a></td><td class="tdG"><a href="/izlet/bohinjsko_sedlo_kremant_ratitovec/21/1803/3563">2 h 45 min</a></td><td class="tdG"><a href="/izlet/bohinjsko_sedlo_kremant_ratitovec/21/1803/3563">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zali_log_gladki_vrh_ratitovec/21/1308/2491">Zali Log - Gladki vrh (Ratitovec)</a></td><td class="tdG"><a href="/izlet/zali_log_gladki_vrh_ratitovec/21/1308/2491">3 h 5 min</a></td><td class="tdG"><a href="/izlet/zali_log_gladki_vrh_ratitovec/21/1308/2491">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/soriska_pec_kremant_ratitovec/21/1803/3310">Soriška peč - Kremant (Ratitovec)</a></td><td class="tdG"><a href="/izlet/soriska_pec_kremant_ratitovec/21/1803/3310">2 h 30 min</a></td><td class="tdG"><a href="/izlet/soriska_pec_kremant_ratitovec/21/1803/3310">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ledine_gladki_vrh_ratitovec_cez_planino_klom/21/1308/2770">Ledine - Gladki vrh (Ratitovec) (čez planino Klom)</a></td><td class="tdG"><a href="/izlet/ledine_gladki_vrh_ratitovec_cez_planino_klom/21/1308/2770">1 h 55 min</a></td><td class="tdG"><a href="/izlet/ledine_gladki_vrh_ratitovec_cez_planino_klom/21/1308/2770">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/rotek_kremant_ratitovec/21/1803/5661">Rotek - Kremant (Ratitovec)</a></td><td class="tdG"><a href="/izlet/rotek_kremant_ratitovec/21/1803/5661">2 h 30 min</a></td><td class="tdG"><a href="/izlet/rotek_kremant_ratitovec/21/1803/5661">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/torka_gladki_vrh_ratitovec/21/1308/3305">Torka - Gladki vrh (Ratitovec)</a></td><td class="tdG"><a href="/izlet/torka_gladki_vrh_ratitovec/21/1308/3305">1 h 20 min</a></td><td class="tdG"><a href="/izlet/torka_gladki_vrh_ratitovec/21/1308/3305">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/jesenovec_gladki_vrh_ratitovec_cez_razor/21/1308/2487"> Jesenovec - Gladki vrh (Ratitovec) (čez Razor)</a></td><td class="tdG"><a href="/izlet/jesenovec_gladki_vrh_ratitovec_cez_razor/21/1308/2487">3 h 5 min</a></td><td class="tdG"><a href="/izlet/jesenovec_gladki_vrh_ratitovec_cez_razor/21/1308/2487">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ledine_gladki_vrh_ratitovec_cez_kosmati_vrh/21/1308/2775"> Ledine - Gladki vrh (Ratitovec) (čez Kosmati vrh)</a></td><td class="tdG"><a href="/izlet/ledine_gladki_vrh_ratitovec_cez_kosmati_vrh/21/1308/2775">2 h 10 min</a></td><td class="tdG"><a href="/izlet/ledine_gladki_vrh_ratitovec_cez_kosmati_vrh/21/1308/2775">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bohinjsko_sedlo_gladki_vrh_ratitovec/21/1308/3564">Bohinjsko sedlo - Gladki vrh (Ratitovec)</a></td><td class="tdG"><a href="/izlet/bohinjsko_sedlo_gladki_vrh_ratitovec/21/1308/3564">3 h 35 min</a></td><td class="tdG"><a href="/izlet/bohinjsko_sedlo_gladki_vrh_ratitovec/21/1308/3564">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_gladki_vrh_ratitovec/21/1308/3727">Gozdarska koča Rovtarica - Gladki vrh (Ratitovec)</a></td><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_gladki_vrh_ratitovec/21/1308/3727">3 h 35 min</a></td><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_gladki_vrh_ratitovec/21/1308/3727">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/pecana_gladki_vrh_ratitovec/21/1308/3735">Pečana - Gladki vrh (Ratitovec)</a></td><td class="tdG"><a href="/izlet/pecana_gladki_vrh_ratitovec/21/1308/3735"> 50 min</a></td><td class="tdG"><a href="/izlet/pecana_gladki_vrh_ratitovec/21/1308/3735">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bitenjska_planina_gladki_vrh_ratitovec/21/1308/3886">Bitenjska planina - Gladki vrh (Ratitovec)</a></td><td class="tdG"><a href="/izlet/bitenjska_planina_gladki_vrh_ratitovec/21/1308/3886">2 h 25 min</a></td><td class="tdG"><a href="/izlet/bitenjska_planina_gladki_vrh_ratitovec/21/1308/3886">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rudenska_grapa_gladki_vrh_ratitovec/21/1308/3734">Rudenska grapa - Gladki vrh (Ratitovec)</a></td><td class="tdG"><a href="/izlet/rudenska_grapa_gladki_vrh_ratitovec/21/1308/3734">4 h</a></td><td class="tdG"><a href="/izlet/rudenska_grapa_gladki_vrh_ratitovec/21/1308/3734">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/razglednik_gladki_vrh_ratitovec/21/1308/4322">Razglednik - Gladki vrh (Ratitovec)</a></td><td class="tdG"><a href="/izlet/razglednik_gladki_vrh_ratitovec/21/1308/4322">3 h 5 min</a></td><td class="tdG"><a href="/izlet/razglednik_gladki_vrh_ratitovec/21/1308/4322">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podkorita_gladki_vrh_ratitovec/21/1308/3881">Podkorita - Gladki vrh (Ratitovec)</a></td><td class="tdG"><a href="/izlet/podkorita_gladki_vrh_ratitovec/21/1308/3881">3 h 35 min</a></td><td class="tdG"><a href="/izlet/podkorita_gladki_vrh_ratitovec/21/1308/3881">lahka neoznačena steza, lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podrost_gladki_vrh_ratitovec/21/1308/6859">Podrošt - Gladki vrh (Ratitovec)</a></td><td class="tdG"><a href="/izlet/podrost_gladki_vrh_ratitovec/21/1308/6859">3 h 5 min</a></td><td class="tdG"><a href="/izlet/podrost_gladki_vrh_ratitovec/21/1308/6859">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnje_danje_kremant_ratitovec/21/1803/5667">Spodnje Danje - Kremant (Ratitovec)</a></td><td class="tdG"><a href="/izlet/spodnje_danje_kremant_ratitovec/21/1803/5667">2 h 30 min</a></td><td class="tdG"><a href="/izlet/spodnje_danje_kremant_ratitovec/21/1803/5667">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Storžič</title>
-        <meta name="description" content="Natančen opis gore Storžič in vseh pristopov na Storžič. Storžič je 2132 m visoka gora, ki se nahaja na zahodnem delu Kamniško Savinjskih." />
+        <title>Tolsti vrh (Veža)</title>
+        <meta name="description" content="Natančen opis gore Tolsti vrh (Veža) in vseh pristopov na Tolsti vrh (Veža). Tolsti vrh je 1985 m visoka gora, ki se nahaja v osrčju Dleskovške planote - Vež." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./85?gorovjeid=3&amp;id=85" id="form1">
+    <form method="post" action="./305?gorovjeid=3&amp;id=305" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/storzic/3/85"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=85"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/tolsti_vrh_veza/3/305"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=305"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Storžič
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Tolsti vrh (Veža)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(85);
+    gorast(305);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Storžič</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Tolsti vrh (Veža)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2132&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1985&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,0168'N&nbsp;/&nbsp;14°&nbsp;24,2832'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,9490'N&nbsp;/&nbsp;14°&nbsp;39,7116'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;1,01''N&nbsp;/&nbsp;14°&nbsp;24'&nbsp;16,99''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;56,94''N&nbsp;/&nbsp;14°&nbsp;39'&nbsp;42,70''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.35028°N&nbsp;/&nbsp;14.40472°E";
+                        document.getElementById("kf0").innerHTML = "46.34915°N&nbsp;/&nbsp;14.66186°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,35028°N,&nbsp;14,40472°E";
+                    document.getElementById("kf0").innerHTML = "46,34915°N,&nbsp;14,66186°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35028°N&nbsp;14,40472°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/storzic/85"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,34915°N&nbsp;14,66186°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/tolsti_vrh_veza/305"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Tolsti vrh (Veža) - Torek" href="/vreme_gora/tolsti_vrh_veza/3/305#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Tolsti vrh (Veža) - Sreda" href="/vreme_gora/tolsti_vrh_veza/3/305#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Tolsti vrh (Veža) - Četrtek" href="/vreme_gora/tolsti_vrh_veza/3/305#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Storžič - Petek" href="/vreme_gora/storzic/3/85#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Tolsti vrh (Veža) - Petek" href="/vreme_gora/tolsti_vrh_veza/3/305#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Storžič - Sobota" href="/vreme_gora/storzic/3/85#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Storžič - Nedelja" href="/vreme_gora/storzic/3/85#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Storžič - Ponedeljek" href="/vreme_gora/storzic/3/85#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Storžič - Torek" href="/vreme_gora/storzic/3/85#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Tolsti vrh (Veža) - Sobota" href="/vreme_gora/tolsti_vrh_veza/3/305#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 1.146.128</div>
-<div class="g2"><b>Priljubljenost:</b> 100%&nbsp;(3.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">29</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">30</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">9</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=85" title="Število vpisov v vpisni knjigi">29</a></div>
+<div class="g2"><b>Ogledov:</b> 452.714</div>
+<div class="g2"><b>Priljubljenost:</b> 86%&nbsp;(457.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=305" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Storžič je 2132 m visoka gora, ki se nahaja na zahodnem delu Kamniško Savinjskih Alp. Z vrha na katerem se nahaja križ se nam odpre lep razgled na Julijske Alpe, Karavanke, Kamniško Savinjske Alpe ter na Ljubljansko kotlino in Gorenjsko ravnino. Vrh ima vpisno skrinjico, žig in razgledno ploščo.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Tolsti vrh je 1985 m visoka gora, ki se nahaja v osrčju Dleskovške planote - Veže. Z vrha, ki je porasel z rušjem, se nam odpre lep razgled po večjem delu omenjene planote ter najvišjim vrhovom v Kamniških in Savinjskih Alpah.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=85&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=305&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/baseljski_vrh/3/274">Bašeljski vrh (1744m)</a>, <a class="moder" href="/gora/dom_na_kaliscu/3/134">Dom na Kališču (1534m)</a>, <a class="moder" href="/gora/dom_pod_storzicem/3/190">Dom pod Storžičem (1123m)</a>, <a class="moder" href="/gora/krnicarjeva_koca_na_planini_javornik/3/528">Krničarjeva koča na planini Javornik (1390m)</a>, <a class="moder" href="/gora/licjanovec/3/2582">Licjanovec (1733m)</a>, <a class="moder" href="/gora/mali_grintovec/3/356">Mali Grintovec (1813m)</a>, <a class="moder" href="/gora/planina_kalisce/3/467">Planina Kališče (1450m)</a>, <a class="moder" href="/gora/praprotnikova_koca/3/337">Praprotnikova koča (1380m)</a>
+<a class="moder" href="/gora/deska_veza/3/304">Deska (Veža) (1970m)</a>, <a class="moder" href="/gora/dleskovec/3/380">Dleskovec (1965m)</a>, <a class="moder" href="/gora/jamarski_bivak_na_dleskovski_planoti/3/2711">Jamarski bivak na Dleskovški planoti (1910m)</a>, <a class="moder" href="/gora/kapelica_na_molicki_planini/3/324">Kapelica na Molički planini (1780m)</a>, <a class="moder" href="/gora/kocbekov_dom_na_korosici/3/199">Kocbekov dom na Korošici (1808m)</a>, <a class="moder" href="/gora/lastovec/3/1531">Lastovec (1841m)</a>, <a class="moder" href="/gora/lucki_dedec/3/358">Lučki Dedec (2023m)</a>, <a class="moder" href="/gora/mala_ojstrica/3/1392">Mala Ojstrica (2017m)</a>, <a class="moder" href="/gora/molicka_pec/3/696">Molička peč (2029m)</a>, <a class="moder" href="/gora/planina_podvezak/3/306">Planina Podvežak (1564m)</a>, <a class="moder" href="/gora/planina_vodole/3/1345">Planina Vodole (1570m)</a>, <a class="moder" href="/gora/velika_zelenica/3/697">Velika Zelenica (2114m)</a>, <a class="moder" href="/gora/veliki_vrh_veza/3/438">Veliki vrh (Veža) (2110m)</a>, <a class="moder" href="/gora/vodotocno_jezero_veza/3/288">Vodotočno jezero (Veža) (1850m)</a>, <a class="moder" href="/gora/vrsici/3/1578">Vršiči (1980m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,98 +835,48 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstorzic%2f3%2f85"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstorzic%2f3%2f85"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstorzic%2f3%2f85"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ftolsti_vrh_veza%2f3%2f305"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftolsti_vrh_veza%2f3%2f305"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftolsti_vrh_veza%2f3%2f305"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/storzic/85" title="Storžič 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.storzic.jpg" /></a></div>
+<div><a href="/panorama/360/tolsti_vrh_veza/305" title="Tolsti vrh (Veža) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.TolstiVrhVeza.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/storzic/13" onclick="event.preventDefault(); window.open('/slika_gora/storzic/13');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/pb130030fsg49resized0ek.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh_veza/1564" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh_veza/1564');"><img class="slikagm" alt="Tolsti vrh (Veža)" src="//www.hribi.net/slike1/P3180048105336.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/storzic/104" onclick="event.preventDefault(); window.open('/slika_gora/storzic/104');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/p4030205medium7tq.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh_veza/1565" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh_veza/1565');"><img class="slikagm" alt="Tolsti vrh (Veža)" src="//www.hribi.net/slike1/P3180055105336.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/storzic/111" onclick="event.preventDefault(); window.open('/slika_gora/storzic/111');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/p4170024medium4ha.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh_veza/2308" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh_veza/2308');"><img class="slikagm" alt="Tolsti vrh (Veža)" src="//www.hribi.net/slike1/P9200284504504.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/storzic/202" onclick="event.preventDefault(); window.open('/slika_gora/storzic/202');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/p4030203medium0gc.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh_veza/2309" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh_veza/2309');"><img class="slikagm" alt="Tolsti vrh (Veža)" src="//www.hribi.net/slike1/P9200283504504.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/storzic/262" onclick="event.preventDefault(); window.open('/slika_gora/storzic/262');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/p5280106medium2sg.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh_veza/4749" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh_veza/4749');"><img class="slikagm" alt="Tolsti vrh (Veža)" src="//www.hribi.net/slike1/Molickabeg%20059128520.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/storzic/285" onclick="event.preventDefault(); window.open('/slika_gora/storzic/285');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/p6010014medium3jm.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh_veza/6185" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh_veza/6185');"><img class="slikagm" alt="Tolsti vrh (Veža)" src="//www.hribi.net/slike1/Deska 163680400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/storzic/303" onclick="event.preventDefault(); window.open('/slika_gora/storzic/303');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/pb210036medium8gc.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh_veza/6186" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh_veza/6186');"><img class="slikagm" alt="Tolsti vrh (Veža)" src="//www.hribi.net/slike1/Deska 143680400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/storzic/310" onclick="event.preventDefault(); window.open('/slika_gora/storzic/310');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/pb130022medium8gv.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/425" onclick="event.preventDefault(); window.open('/slika_gora/storzic/425');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/p7020081medium7mm.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/763" onclick="event.preventDefault(); window.open('/slika_gora/storzic/763');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/p8200047mediumyk5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/767" onclick="event.preventDefault(); window.open('/slika_gora/storzic/767');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/p8200103mediumry8.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/773" onclick="event.preventDefault(); window.open('/slika_gora/storzic/773');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/p8230045mediummm0.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/1107" onclick="event.preventDefault(); window.open('/slika_gora/storzic/1107');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/pa160117mediumcv4.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/1266" onclick="event.preventDefault(); window.open('/slika_gora/storzic/1266');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/pb260006mediumhk1.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/1301" onclick="event.preventDefault(); window.open('/slika_gora/storzic/1301');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/pc020032mediumtp9.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/1349" onclick="event.preventDefault(); window.open('/slika_gora/storzic/1349');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/Gora/pc160063mediumiz7.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/1829" onclick="event.preventDefault(); window.open('/slika_gora/storzic/1829');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/sliketemp/P61300163976772.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/6084" onclick="event.preventDefault(); window.open('/slika_gora/storzic/6084');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/slike1/Slike nikon 218113400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/6085" onclick="event.preventDefault(); window.open('/slika_gora/storzic/6085');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/sliketemp/Picture%202255070530.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/7249" onclick="event.preventDefault(); window.open('/slika_gora/storzic/7249');"><img class="slikagm" alt="Storžič" src="//slike.hribi.net/sliketemp/BelaPec%200025815402.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/7251" onclick="event.preventDefault(); window.open('/slika_gora/storzic/7251');"><img class="slikagm" alt="Storžič" src="//slike.hribi.net/sliketemp/BelaPec%200765815407.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/7667" onclick="event.preventDefault(); window.open('/slika_gora/storzic/7667');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/slike1/Turni%20049209088.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/9350" onclick="event.preventDefault(); window.open('/slika_gora/storzic/9350');"><img class="slikagm" alt="Storžič" src="//www.hribi.net/slike1/Rovnik 0551812096.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/12590" onclick="event.preventDefault(); window.open('/slika_gora/storzic/12590');"><img class="slikagm" alt="Storžič" src="//slike.hribi.net/slike4/2_0575454965148_BaseljskiVrh_153.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/13315" onclick="event.preventDefault(); window.open('/slika_gora/storzic/13315');"><img class="slikagm" alt="Storžič" src="//slike.hribi.net/slike4/2_1616477925702_DSCN9724.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/14211" onclick="event.preventDefault(); window.open('/slika_gora/storzic/14211');"><img class="slikagm" alt="Storžič" src="//slike.hribi.net/slike4/2_0953506415571_DSCN8918.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/15863" onclick="event.preventDefault(); window.open('/slika_gora/storzic/15863');"><img class="slikagm" alt="Storžič" src="//slike.hribi.net/slike4/2_7785554470387_DSCN9325.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/16743" onclick="event.preventDefault(); window.open('/slika_gora/storzic/16743');"><img class="slikagm" alt="Storžič" src="//slike.hribi.net/slike4/2_1177578043817_DSCN9000.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/storzic/20684" onclick="event.preventDefault(); window.open('/slika_gora/storzic/20684');"><img class="slikagm" alt="Storžič" src="//slike2.hribi.net/slike14/2_0952697032049_0_44.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tolsti_vrh_veza/10080" onclick="event.preventDefault(); window.open('/slika_gora/tolsti_vrh_veza/10080');"><img class="slikagm" alt="Tolsti vrh (Veža)" src="//www.hribi.net/slike1/Dleskovec 1011175040.th.jpg" /></a>
     
 </div>
 
 
 
 <div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/mace_-_kalisce_-_storzic/3/776"><img class="slikagmv" alt="Mače - Kališče - Storžič" src="https://img.youtube.com/vi/_RP9w5x8s4c/0.jpg" /></a>
+        <a target="_blank" href="/video_posnetek/Smučanje/tolsti_vrh/1/418"><img class="slikagmv" alt="Tolsti vrh" src="https://img.youtube.com/vi/LJV5oa-aF8Y/0.jpg" /></a>
     
-        <a target="_blank" href="/video_posnetek/Gorništvo/storzic_skozi_zrelo/3/708"><img class="slikagmv" alt="Storžič skozi žrelo" src="https://img.youtube.com/vi/3X_mhPOX_mA/0.jpg" /></a>
+        <a target="_blank" href="/video_posnetek/Smučanje/tolsti_vrh/1/417"><img class="slikagmv" alt="Tolsti vrh" src="https://img.youtube.com/vi/R_GSOXlpFa8/0.jpg" /></a>
     
-        <a target="_blank" href="/video_posnetek/Gorništvo/storzic/3/556"><img class="slikagmv" alt="Storžič" src="https://img.youtube.com/vi/Pyy8Zmy1I84/0.jpg" /></a>
+        <a target="_blank" href="/video_posnetek/Smučanje/tolsti_vrh/1/413"><img class="slikagmv" alt="Tolsti vrh" src="https://img.youtube.com/vi/mwKG7PH3jTY/0.jpg" /></a>
     
-        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_s_storzica/8/523"><img class="slikagmv" alt="Polet s Storžiča" src="https://img.youtube.com/vi/CzjjLA0AxHY/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Živali/gamsi_pod_storzicem/5/374"><img class="slikagmv" alt="Gamsi pod Storžičem" src="https://img.youtube.com/vi/7DRJzN03Mvs/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_s_storzica/8/339"><img class="slikagmv" alt="Polet s Storžiča" src="https://img.youtube.com/vi/JJGlIbbzzac/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Gorništvo/pot_karla_in_zige_zoisa/3/185"><img class="slikagmv" alt="Pot Karla in Žige Zoisa" src="https://img.youtube.com/vi/9N3Y-UD30Dk/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Gorništvo/po_kramarci_na_storzic_3/3/177"><img class="slikagmv" alt="Po Kramarci na Storžič 3" src="https://img.youtube.com/vi/6HMRyXqYvB0/0.jpg" /></a>
+        <a target="_blank" href="/video_posnetek/Smučanje/tolsti_vrh/1/412"><img class="slikagmv" alt="Tolsti vrh" src="https://img.youtube.com/vi/aIKrBA1aqqU/0.jpg" /></a>
     </div>
 <script>
 var sortT = 0;
@@ -985,7 +935,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=85&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=305&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -995,65 +945,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_skozi_zrelo/3/85/656">Dom pod Storžičem - Storžič (skozi Žrelo)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_skozi_zrelo/3/85/656">3 h</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_skozi_zrelo/3/85/656">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_podvezak_tolsti_vrh_veza/3/305/2645">Planina Podvežak - Tolsti vrh (Veža)</a></td><td class="tdG"><a href="/izlet/planina_podvezak_tolsti_vrh_veza/3/305/2645">1 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_podvezak_tolsti_vrh_veza/3/305/2645">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_cez_skarjev_rob/3/85/229">Dom pod Storžičem - Storžič (čez Škarjev rob)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_cez_skarjev_rob/3/85/229">3 h</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_cez_skarjev_rob/3/85/229">zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_podvezak_tolsti_vrh_veza_snezni_pristop/3/305/431">Planina Podvežak - Tolsti vrh (Veža) (snežni pristop)</a></td><td class="tdG"><a href="/izlet/planina_podvezak_tolsti_vrh_veza_snezni_pristop/3/305/431">1 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_podvezak_tolsti_vrh_veza_snezni_pristop/3/305/431">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/povlje_storzic_po_jugozahodnem_zlebu/3/85/998">Povlje - Storžič (po jugozahodnem žlebu)</a></td><td class="tdG"><a href="/izlet/povlje_storzic_po_jugozahodnem_zlebu/3/85/998">4 h</a></td><td class="tdG"><a href="/izlet/povlje_storzic_po_jugozahodnem_zlebu/3/85/998">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/za_loncem_tolsti_vrh_veza/3/305/1266">Za Loncem - Tolsti vrh (Veža)</a></td><td class="tdG"><a href="/izlet/za_loncem_tolsti_vrh_veza/3/305/1266">3 h 35 min</a></td><td class="tdG"><a href="/izlet/za_loncem_tolsti_vrh_veza/3/305/1266">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lasko_storzic_cez_kalisce/3/85/993">Laško - Storžič (čez Kališče)</a></td><td class="tdG"><a href="/izlet/lasko_storzic_cez_kalisce/3/85/993">3 h 30 min</a></td><td class="tdG"><a href="/izlet/lasko_storzic_cez_kalisce/3/85/993">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_storzic/3/85/992">Mače - Storžič</a></td><td class="tdG"><a href="/izlet/mace_storzic/3/85/992">4 h</a></td><td class="tdG"><a href="/izlet/mace_storzic/3/85/992">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lasko_storzic_cez_javornik/3/85/997">Laško - Storžič (čez Javornik)</a></td><td class="tdG"><a href="/izlet/lasko_storzic_cez_javornik/3/85/997">4 h 10 min</a></td><td class="tdG"><a href="/izlet/lasko_storzic_cez_javornik/3/85/997">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jekarica_storzic/3/85/1039">Jekarica - Storžič</a></td><td class="tdG"><a href="/izlet/jekarica_storzic/3/85/1039">3 h</a></td><td class="tdG"><a href="/izlet/jekarica_storzic/3/85/1039">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_po_jugozahodnem_zlebu/3/85/5974">Dom pod Storžičem - Storžič (po jugozahodnem žlebu)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_po_jugozahodnem_zlebu/3/85/5974">3 h 50 min</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_po_jugozahodnem_zlebu/3/85/5974">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_cez_psico/3/85/3909">Dom pod Storžičem - Storžič (čez Psico)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_cez_psico/3/85/3909">3 h 45 min</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_storzic_cez_psico/3/85/3909">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zalog_storzic_cez_psico/3/85/2177">Zalog - Storžič (čez Psico)</a></td><td class="tdG"><a href="/izlet/zalog_storzic_cez_psico/3/85/2177">4 h 30 min</a></td><td class="tdG"><a href="/izlet/zalog_storzic_cez_psico/3/85/2177">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/baselj_storzic/3/85/5391">Bašelj - Storžič</a></td><td class="tdG"><a href="/izlet/baselj_storzic/3/85/5391">4 h</a></td><td class="tdG"><a href="/izlet/baselj_storzic/3/85/5391">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gozd_storzic_cez_psico/3/85/4928">Gozd - Storžič (čez Psico)</a></td><td class="tdG"><a href="/izlet/gozd_storzic_cez_psico/3/85/4928">4 h 45 min</a></td><td class="tdG"><a href="/izlet/gozd_storzic_cez_psico/3/85/4928">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lasko_storzic_po_jugozahodnem_grebenu/3/85/5380">Laško - Storžič (po jugozahodnem grebenu)</a></td><td class="tdG"><a href="/izlet/lasko_storzic_po_jugozahodnem_grebenu/3/85/5380">3 h 30 min</a></td><td class="tdG"><a href="/izlet/lasko_storzic_po_jugozahodnem_grebenu/3/85/5380">zahtevna neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_vetrh_storzic_cez_javorniski_preval/3/85/5389">Planina Vetrh - Storžič (čez Javorniški preval)</a></td><td class="tdG"><a href="/izlet/planina_vetrh_storzic_cez_javorniski_preval/3/85/5389">3 h 20 min</a></td><td class="tdG"><a href="/izlet/planina_vetrh_storzic_cez_javorniski_preval/3/85/5389">lahka neoznačena steza, zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/baselj_storzic_mimo_sv_lovrenca_in_po_jz_grebenu/3/85/5386">Bašelj - Storžič (mimo sv. Lovrenca in po JZ grebenu)</a></td><td class="tdG"><a href="/izlet/baselj_storzic_mimo_sv_lovrenca_in_po_jz_grebenu/3/85/5386">4 h 5 min</a></td><td class="tdG"><a href="/izlet/baselj_storzic_mimo_sv_lovrenca_in_po_jz_grebenu/3/85/5386">zahtevna neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zalog_storzic_cez_planino_javornik_in_po_jugozahodnem_zlebu/3/85/5979">Zalog - Storžič (čez planino Javornik in po jugozahodnem žlebu)</a></td><td class="tdG"><a href="/izlet/zalog_storzic_cez_planino_javornik_in_po_jugozahodnem_zlebu/3/85/5979">4 h 30 min</a></td><td class="tdG"><a href="/izlet/zalog_storzic_cez_planino_javornik_in_po_jugozahodnem_zlebu/3/85/5979">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/krize_storzic_cez_psico/3/85/4925">Križe - Storžič (čez Psico)</a></td><td class="tdG"><a href="/izlet/krize_storzic_cez_psico/3/85/4925">6 h</a></td><td class="tdG"><a href="/izlet/krize_storzic_cez_psico/3/85/4925">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/baselj_storzic_mimo_bolnice_kosuta/3/85/5394">Bašelj - Storžič (mimo bolnice Košuta)</a></td><td class="tdG"><a href="/izlet/baselj_storzic_mimo_bolnice_kosuta/3/85/5394">4 h 10 min</a></td><td class="tdG"><a href="/izlet/baselj_storzic_mimo_bolnice_kosuta/3/85/5394">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gozd_storzic_po_jugozahodnem_zlebu/3/85/5975">Gozd - Storžič (po jugozahodnem žlebu)</a></td><td class="tdG"><a href="/izlet/gozd_storzic_po_jugozahodnem_zlebu/3/85/5975">4 h 50 min</a></td><td class="tdG"><a href="/izlet/gozd_storzic_po_jugozahodnem_zlebu/3/85/5975">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/trziski_graben_storzic_cez_javorniski_preval/3/85/5390">Tržiški graben - Storžič (čez Javorniški preval)</a></td><td class="tdG"><a href="/izlet/trziski_graben_storzic_cez_javorniski_preval/3/85/5390">3 h 40 min</a></td><td class="tdG"><a href="/izlet/trziski_graben_storzic_cez_javorniski_preval/3/85/5390">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zalog_storzic_pod_psico_in_po_jugozahodnem_zlebu/3/85/5977">Zalog - Storžič (pod Psico in po jugozahodnem žlebu)</a></td><td class="tdG"><a href="/izlet/zalog_storzic_pod_psico_in_po_jugozahodnem_zlebu/3/85/5977">4 h 35 min</a></td><td class="tdG"><a href="/izlet/zalog_storzic_pod_psico_in_po_jugozahodnem_zlebu/3/85/5977">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lasko_storzic_mimo_sv_lovrenca_in_cez_baseljski_preval/3/85/5381">Laško - Storžič (mimo sv. Lovrenca in čez Bašeljski preval)</a></td><td class="tdG"><a href="/izlet/lasko_storzic_mimo_sv_lovrenca_in_cez_baseljski_preval/3/85/5381">4 h 30 min</a></td><td class="tdG"><a href="/izlet/lasko_storzic_mimo_sv_lovrenca_in_cez_baseljski_preval/3/85/5381">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/baselj_storzic_mimo_sv_lovrenca_in_cez_baseljski_preval/3/85/5387">Bašelj - Storžič (mimo sv. Lovrenca in čez Bašeljski preval)</a></td><td class="tdG"><a href="/izlet/baselj_storzic_mimo_sv_lovrenca_in_cez_baseljski_preval/3/85/5387">5 h 5 min</a></td><td class="tdG"><a href="/izlet/baselj_storzic_mimo_sv_lovrenca_in_cez_baseljski_preval/3/85/5387">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/babni_vrt_storzic_mimo_sv_lovrenca_in_po_jugozahodnem_grebenu/3/85/5395">Babni Vrt - Storžič (mimo sv. Lovrenca in po jugozahodnem grebenu)</a></td><td class="tdG"><a href="/izlet/babni_vrt_storzic_mimo_sv_lovrenca_in_po_jugozahodnem_grebenu/3/85/5395">4 h</a></td><td class="tdG"><a href="/izlet/babni_vrt_storzic_mimo_sv_lovrenca_in_po_jugozahodnem_grebenu/3/85/5395">zahtevna neoznačena steza, zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_kokra_storzic/3/85/5397">Spodnja Kokra - Storžič</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_storzic/3/85/5397">5 h 45 min</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_storzic/3/85/5397">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mhe_zabukovec_storzic_cez_baseljski_preval/3/85/5693">MHE Zabukovec - Storžič (čez Bašeljski preval)</a></td><td class="tdG"><a href="/izlet/mhe_zabukovec_storzic_cez_baseljski_preval/3/85/5693">4 h</a></td><td class="tdG"><a href="/izlet/mhe_zabukovec_storzic_cez_baseljski_preval/3/85/5693">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/babni_vrt_storzic_mimo_sv_lovrenca_in_po_jugozahodnem_zlebu/3/85/5392">Babni Vrt - Storžič (mimo sv. Lovrenca in po jugozahodnem žlebu)</a></td><td class="tdG"><a href="/izlet/babni_vrt_storzic_mimo_sv_lovrenca_in_po_jugozahodnem_zlebu/3/85/5392">4 h 40 min</a></td><td class="tdG"><a href="/izlet/babni_vrt_storzic_mimo_sv_lovrenca_in_po_jugozahodnem_zlebu/3/85/5392">lahka neoznačena steza, lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/krize_storzic_po_jugozahodnem_zlebu/3/85/5976">Križe - Storžič (po jugozahodnem žlebu)</a></td><td class="tdG"><a href="/izlet/krize_storzic_po_jugozahodnem_zlebu/3/85/5976">6 h 5 min</a></td><td class="tdG"><a href="/izlet/krize_storzic_po_jugozahodnem_zlebu/3/85/5976">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_kokra_storzic_cez_babo/3/85/5396">Spodnja Kokra - Storžič (čez Babo)</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_storzic_cez_babo/3/85/5396">5 h 55 min</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_storzic_cez_babo/3/85/5396">lahka neoznačena steza, zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/babni_vrt_storzic_mimo_sv_lovrenca_in_cez_baseljski_preval/3/85/5393">Babni Vrt - Storžič (mimo sv. Lovrenca in čez Bašeljski preval)</a></td><td class="tdG"><a href="/izlet/babni_vrt_storzic_mimo_sv_lovrenca_in_cez_baseljski_preval/3/85/5393">5 h</a></td><td class="tdG"><a href="/izlet/babni_vrt_storzic_mimo_sv_lovrenca_in_cez_baseljski_preval/3/85/5393">lahka neoznačena steza, zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lovska_koca_na_brezicih_tolsti_vrh_veza_cez_desko/3/305/2642">Lovska koča na Brežičih - Tolsti vrh (Veža) (čez Desko)</a></td><td class="tdG"><a href="/izlet/lovska_koca_na_brezicih_tolsti_vrh_veza_cez_desko/3/305/2642">1 h 45 min</a></td><td class="tdG"><a href="/izlet/lovska_koca_na_brezicih_tolsti_vrh_veza_cez_desko/3/305/2642">lahka neoznačena steza</a></td></tr>
 
 </table>
 

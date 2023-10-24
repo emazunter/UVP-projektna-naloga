@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveta Uršula (Bojtina)</title>
-        <meta name="description" content="Natančen opis cerkve Sveta Uršula (Bojtina) in vseh pristopov na Sveta Uršula (Bojtina). Cerkev sv. Uršule se nahaja na Pohorju in sicer v naselju Bojtina na 1006 metrih." />
+        <title>Potnikova smreka</title>
+        <meta name="description" content="Natančen opis gore Potnikova smreka in vseh pristopov na Potnikova smreka. Potnikova smreka, katera ime je dobila po bližnji domačiji, se nahaja na mostičk." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3498?gorovjeid=4&amp;id=3498" id="form1">
+    <form method="post" action="./3531?gorovjeid=4&amp;id=3531" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveta_ursula_bojtina/4/3498"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3498"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/potnikova_smreka/4/3531"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3531"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Sveta Uršula (Bojtina)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Potnikova smreka
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3498);
+    gorast(3531);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveta Uršula (Bojtina)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Potnikova smreka</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 1006&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 651&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;28,3188'N&nbsp;/&nbsp;15°&nbsp;30,1602'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;28,1724'N&nbsp;/&nbsp;15°&nbsp;33,7890'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;28'&nbsp;19,13''N&nbsp;/&nbsp;15°&nbsp;30'&nbsp;9,61''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;28'&nbsp;10,34''N&nbsp;/&nbsp;15°&nbsp;33'&nbsp;47,34''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.47198°N&nbsp;/&nbsp;15.50267°E";
+                        document.getElementById("kf0").innerHTML = "46.46954°N&nbsp;/&nbsp;15.56315°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,47198°N,&nbsp;15,50267°E";
+                    document.getElementById("kf0").innerHTML = "46,46954°N,&nbsp;15,56315°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,47198°N&nbsp;15,50267°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveta_ursula_bojtina/3498"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,46954°N&nbsp;15,56315°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/potnikova_smreka/3531"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> cerkev</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Potnikova smreka - Torek" href="/vreme_gora/potnikova_smreka/4/3531#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Potnikova smreka - Sreda" href="/vreme_gora/potnikova_smreka/4/3531#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Potnikova smreka - Četrtek" href="/vreme_gora/potnikova_smreka/4/3531#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Uršula (Bojtina) - Petek" href="/vreme_gora/sveta_ursula_bojtina/4/3498#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Potnikova smreka - Petek" href="/vreme_gora/potnikova_smreka/4/3531#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Uršula (Bojtina) - Sobota" href="/vreme_gora/sveta_ursula_bojtina/4/3498#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Uršula (Bojtina) - Nedelja" href="/vreme_gora/sveta_ursula_bojtina/4/3498#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Uršula (Bojtina) - Ponedeljek" href="/vreme_gora/sveta_ursula_bojtina/4/3498#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Uršula (Bojtina) - Torek" href="/vreme_gora/sveta_ursula_bojtina/4/3498#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Potnikova smreka - Sobota" href="/vreme_gora/potnikova_smreka/4/3531#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,9 +743,9 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 732</div>
-<div class="g2"><b>Priljubljenost:</b> 18%&nbsp;(2680.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Ogledov:</b> 245</div>
+<div class="g2"><b>Priljubljenost:</b> 11%&nbsp;(2929.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev sv. Uršule se nahaja na Pohorju in sicer v naselju Bojtina na 1006 metrih nadmorske višine. Od cerkve oz. bližnje okolice se nam odpre lep pogled na del Pohorja, vzhodne Karavanke in Slovenske gorice.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Potnikova smreka, katera ime je dobila po bližnji domačiji, se nahaja na mostičku nad potočkom, ki je levi pritok Brunika. Zanimiva je predvsem po tem, ker raste nad potokom.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3498&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3531&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/majalova_kapelica/4/3499">Majalova kapelica (823m)</a>, <a class="moder" href="/gora/setorov_mlin/4/3496">Šetorov mlin (745m)</a>
+<a class="moder" href="/gora/lovski_dom_-_ld_fram/4/3529">Lovski dom - LD Fram (668m)</a>, <a class="moder" href="/gora/sveti_kriz_planica/4/3530">Sveti Križ (Planica) (692m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,26 +835,22 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/fram/371">Fram</a>, <a class="moder" href="/spletna_kamera/gramoznica/372">Gramoznica</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/kamnica/2138">Kamnica</a>, <a class="moder" href="/spletna_kamera/letalisce_maribor/1040">Letališče Maribor</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/maribor/374">Maribor</a>, <a class="moder" href="/spletna_kamera/maribor_radvanje/2098">Maribor (Radvanje)</a>, <a class="moder" href="/spletna_kamera/mariborski_otok/4956">Mariborski otok</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/pragersko_pocivalisce/4908">Pragersko (počivališče)</a>, <a class="moder" href="/spletna_kamera/razcep_slivnica/4907">Razcep Slivnica</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/slovenska_bistrica/369">Slovenska Bistrica</a>, <a class="moder" href="/spletna_kamera/sportni_park_tabor_maribor/3695">Športni park Tabor Maribor</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/viadukt_slivnica/4828">Viadukt Slivnica</a>, <a class="moder" href="/spletna_kamera/vrhole_pri_slovenskih_konjicah/1428">Vrhole pri Slovenskih Konjicah</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
+<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/dogose/1747">Dogoše</a>, <a class="moder" href="/spletna_kamera/fram/371">Fram</a>, <a class="moder" href="/spletna_kamera/gramoznica/372">Gramoznica</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/kamnica/2138">Kamnica</a>, <a class="moder" href="/spletna_kamera/letalisce_maribor/1040">Letališče Maribor</a>, <a class="moder" href="/spletna_kamera/maribor/374">Maribor</a>, <a class="moder" href="/spletna_kamera/maribor_radvanje/2098">Maribor (Radvanje)</a>, <a class="moder" href="/spletna_kamera/mariborski_otok/4956">Mariborski otok</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/miklavz/383">Miklavž</a>, <a class="moder" href="/spletna_kamera/pragersko_pocivalisce/4908">Pragersko (počivališče)</a>, <a class="moder" href="/spletna_kamera/razcep_slivnica/4907">Razcep Slivnica</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/slovenska_bistrica/369">Slovenska Bistrica</a>, <a class="moder" href="/spletna_kamera/sportni_park_tabor_maribor/3695">Športni park Tabor Maribor</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/viadukt_slivnica/4828">Viadukt Slivnica</a>, <a class="moder" href="/spletna_kamera/vrhole_pri_slovenskih_konjicah/1428">Vrhole pri Slovenskih Konjicah</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_ursula_bojtina%2f4%2f3498"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_ursula_bojtina%2f4%2f3498"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_ursula_bojtina%2f4%2f3498"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpotnikova_smreka%2f4%2f3531"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpotnikova_smreka%2f4%2f3531"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpotnikova_smreka%2f4%2f3531"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveta_ursula_bojtina/20808" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ursula_bojtina/20808');"><img class="slikagm" alt="Sveta Uršula (Bojtina)" src="//slike2.hribi.net/slike14/2_2757698745322_2dscn2924.jpg" /></a>
+        <a target="_blank" href="/slika_gora/potnikova_smreka/20959" onclick="event.preventDefault(); window.open('/slika_gora/potnikova_smreka/20959');"><img class="slikagm" alt="Potnikova smreka" src="//slike2.hribi.net/slike14/2_0109705139902_0dscn6354.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveta_ursula_bojtina/20809" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ursula_bojtina/20809');"><img class="slikagm" alt="Sveta Uršula (Bojtina)" src="//slike2.hribi.net/slike14/2_0709698745378_0dscn2933.jpg" /></a>
+        <a target="_blank" href="/slika_gora/potnikova_smreka/20960" onclick="event.preventDefault(); window.open('/slika_gora/potnikova_smreka/20960');"><img class="slikagm" alt="Potnikova smreka" src="//slike2.hribi.net/slike14/2_1768705139951_0dscn6359.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveta_ursula_bojtina/20810" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ursula_bojtina/20810');"><img class="slikagm" alt="Sveta Uršula (Bojtina)" src="//slike2.hribi.net/slike14/2_0191699546917_0dscn2939.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveta_ursula_bojtina/20811" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ursula_bojtina/20811');"><img class="slikagm" alt="Sveta Uršula (Bojtina)" src="//slike2.hribi.net/slike14/2_0200699547172_0dscn2931.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveta_ursula_bojtina/20972" onclick="event.preventDefault(); window.open('/slika_gora/sveta_ursula_bojtina/20972');"><img class="slikagm" alt="Sveta Uršula (Bojtina)" src="//slike2.hribi.net/slike14/2_6369706444938_6dscn6397.jpg" /></a>
+        <a target="_blank" href="/slika_gora/potnikova_smreka/20961" onclick="event.preventDefault(); window.open('/slika_gora/potnikova_smreka/20961');"><img class="slikagm" alt="Potnikova smreka" src="//slike2.hribi.net/slike14/2_0535705139951_1dscn6356.jpg" /></a>
     
 </div>
 
@@ -918,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3498&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3531&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -928,9 +924,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/smartno_na_pohorju_sveta_ursula_bojtina_cez_bojtino/4/3498/8455">Šmartno na Pohorju - Sveta Uršula (Bojtina) (čez Bojtino)</a></td><td class="tdG"><a href="/izlet/smartno_na_pohorju_sveta_ursula_bojtina_cez_bojtino/4/3498/8455">1 h 30 min</a></td><td class="tdG"><a href="/izlet/smartno_na_pohorju_sveta_ursula_bojtina_cez_bojtino/4/3498/8455">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/fram_potnikova_smreka/4/3531/8554">Fram - Potnikova smreka</a></td><td class="tdG"><a href="/izlet/fram_potnikova_smreka/4/3531/8554">2 h 10 min</a></td><td class="tdG"><a href="/izlet/fram_potnikova_smreka/4/3531/8554">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_sveta_ursula_bojtina_skozi_bistriski_vintgar/4/3498/9129">Zgornja Bistrica (Center Vintgar) - Sveta Uršula (Bojtina) (skozi Bistriški vintgar)</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_sveta_ursula_bojtina_skozi_bistriski_vintgar/4/3498/9129">3 h 30 min</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_sveta_ursula_bojtina_skozi_bistriski_vintgar/4/3498/9129">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/sveti_kriz_planica_potnikova_smreka/4/3531/8586">Sveti Križ (Planica) - Potnikova smreka</a></td><td class="tdG"><a href="/izlet/sveti_kriz_planica_potnikova_smreka/4/3531/8586"> 10 min</a></td><td class="tdG"><a href="/izlet/sveti_kriz_planica_potnikova_smreka/4/3531/8586">lahka označena pot</a></td></tr>
 
 </table>
 

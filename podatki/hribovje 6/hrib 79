@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Šmarna gora</title>
-        <meta name="description" content="Natančen opis gore Šmarna gora in vseh pristopov na Šmarna gora. Šmarna gora je 669 m visok vrh, ki se nahaja severozahodno od glavnega mesta Slo." />
+        <title>Severjev grič</title>
+        <meta name="description" content="Natančen opis gore Severjev grič in vseh pristopov na Severjev grič. Severjev grič (401 m.n.v.) je resda nizek vendar razgleden osamelec v Polhovem G." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./117?gorovjeid=5&amp;id=117" id="form1">
+    <form method="post" action="./3710?gorovjeid=5&amp;id=3710" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/smarna_gora/5/117"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=5&id=117"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/severjev_gric/5/3710"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=5&id=3710"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a> / Šmarna gora
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a> / Severjev grič
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(117);
+    gorast(3710);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Šmarna gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Severjev grič</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a></div>
-    <div class="g2"><b>Višina:</b> 669&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 401&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;7,7910'N&nbsp;/&nbsp;14°&nbsp;27,8346'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;3,9606'N&nbsp;/&nbsp;14°&nbsp;18,9930'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;7'&nbsp;47,46''N&nbsp;/&nbsp;14°&nbsp;27'&nbsp;50,08''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;3'&nbsp;57,64''N&nbsp;/&nbsp;14°&nbsp;18'&nbsp;59,58''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.12985°N&nbsp;/&nbsp;14.46391°E";
+                        document.getElementById("kf0").innerHTML = "46.06601°N&nbsp;/&nbsp;14.31655°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,12985°N,&nbsp;14,46391°E";
+                    document.getElementById("kf0").innerHTML = "46,06601°N,&nbsp;14,31655°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,12985°N&nbsp;14,46391°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/smarna_gora/117"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,06601°N&nbsp;14,31655°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/severjev_gric/3710"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Severjev grič - Torek" href="/vreme_gora/severjev_gric/5/3710#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Severjev grič - Sreda" href="/vreme_gora/severjev_gric/5/3710#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Severjev grič - Četrtek" href="/vreme_gora/severjev_gric/5/3710#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Šmarna gora - Petek" href="/vreme_gora/smarna_gora/5/117#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Severjev grič - Petek" href="/vreme_gora/severjev_gric/5/3710#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Šmarna gora - Sobota" href="/vreme_gora/smarna_gora/5/117#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Šmarna gora - Nedelja" href="/vreme_gora/smarna_gora/5/117#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Šmarna gora - Ponedeljek" href="/vreme_gora/smarna_gora/5/117#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Šmarna gora - Torek" href="/vreme_gora/smarna_gora/5/117#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Severjev grič - Sobota" href="/vreme_gora/severjev_gric/5/3710#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 791.599</div>
-<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(43.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">23</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=117" title="Število vpisov v vpisni knjigi">23</a></div>
+<div class="g2"><b>Ogledov:</b> 86</div>
+<div class="g2"><b>Priljubljenost:</b> 6%&nbsp;(3095.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Šmarna gora je 669 m visok vrh, ki se nahaja severozahodno od glavnega mesta Slovenije. Z vrha, na katerem se nahaja gostinski lokal ter cerkev, se nam odpre lep razgled na Gorenjsko, del Julijskih Alp, Karavank in Kamniško Savinjskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Severjev grič (401 m.n.v.) je resda nizek vendar razgleden osamelec v Polhovem Gradcu, natančneje rečeno, vzpenja se nad okljukom Božne (levi povirni krak Gradaščice) vzhodno od trškega jedra. Predvsem z juga ga zlahka prepoznamo po velikem lesenem križu in državni zastavi na vrhu. Skoraj celoten grič z izjemo vrha in nekaterih navpičnih pobočij je poraščen z gozdom.<br> <br> Prvi križ na tem mestu je bil postavljen leta 1936 v spomin na jugoslovanski evharistični kongres, ki je leto pred tem potekal v Ljubljani. Po 2. sv. vojni so ga oblasti iz ideoloških razlogov odstranile, znova je bil postavljen ob osamosvojitvi leta 1991. Ker ga je načel zob časa, so junija 2016 postavili sedanjega, visokega 15 m.<br> <br> Takoj po postavitvi sedanjega križa so poleg postavili še drog z državno zastavo. Po podatkih društva Heraldica Slovenica je dolga 5 metrov (po navedbah nekaterih domačinov je še pol metra daljša) in si na njihovi lestvici največjih državnih zastav, ki so javno in stalno izobešene na drogu, deli 17. mesto.<br> <br> Grič ima dva izrazita vrhova. Glavni in višji je zahodnejši, na njem sta tudi omenjena križ in zastava, nekoliko vzhodneje se nahaja še eden nekoliko nižji vrh (po neuradnih meritvah z GPS sledilnikom visok pribl. 395 m.n.v), ki ga od glavnega loči manjši preval (neuradno pribl. 392 m.n.v.), zaradi poraščenosti z gozdom pa ni tako opazen kot glavni vrh.<br> <br> Bolj kot po višini (nenazadnje je pribl. 60 metrov nižji od bližnje Kalvarije) naredi vtis s strmimi pobočji, severna in ponekod južna stena sta celo navpični. Z glavnega/zahodnega vrha se nam z nekoliko drugačne perspektive odpirajo lepi razgledi na večji del Polhovega Gradca z okolico (izjema je le del, ki ga zakriva Kalvarija) vključno z okoliškimi vzpetinami, kjer nam bo v smeri proti zahodu gotovo padla v oči cerkvica sv. Lovrenca na (Polhograjski) Gori.<br> <br> Nanj se je mogoče v zgolj nekaj minutah povzpeti po neuradni nemarkirani vendar uhojeni poti z najzahodnejše točke izpred Severjeve hiše, po kateri je tudi dobil ime, in najverjetneje bo predstavljal zgolj nek "dodatek", če nam z izleta na druge točke v okolici ostane še kaj časa in energije. Vsekakor je potrebna primerna obutev in pazljiv korak, da nam na večinoma strmih odsekih ne zdrsne.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=117&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3710&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/grmada/5/451">Grmada (676m)</a>
+<a class="moder" href="/gora/blagajev_grad_polhograjska_grascina/5/2729">Blagajev grad (Polhograjska graščina) (377m)</a>, <a class="moder" href="/gora/kalvarija/5/494">Kalvarija (460m)</a>, <a class="moder" href="/gora/kucelj_nad_polhovim_gradcem/5/2479">Kucelj nad Polhovim Gradcem (705m)</a>, <a class="moder" href="/gora/mala_grmada/5/1491">Mala Grmada (853m)</a>, <a class="moder" href="/gora/planinski_dom_na_ravneku/5/1493">Planinski dom na Ravneku (522m)</a>, <a class="moder" href="/gora/polhograjska_gora_sveti_lovrenc/5/264">Polhograjska Gora (Sveti Lovrenc) (824m)</a>, <a class="moder" href="/gora/sveta_ursula_setnica/5/299">Sveta Uršula (Setnica) (700m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,37 +835,32 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/brezovica/318">Brezovica</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/domzale/1008">Domžale</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/golovec_astronomski_observatorij_fmf/4305">Golovec (Astronomski observatorij FMF)</a>, <a class="moder" href="/spletna_kamera/katarina_nad_ljubljano/314">Katarina nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/krtina/3453">Krtina</a>, <a class="moder" href="/spletna_kamera/ljubljana_cankarjevo_nabrezje/2154">Ljubljana (Cankarjevo nabrežje)</a>, <a class="moder" href="/spletna_kamera/ljubljana_izanska_cesta/1963">Ljubljana (Ižanska cesta)</a>, <a class="moder" href="/spletna_kamera/ljubljana_kongresni_trg/297">Ljubljana (Kongresni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_mestni_trg/2149">Ljubljana (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_ukc_ljubljana/3385">Ljubljana (UKC Ljubljana)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/ljubljana_bezigrad/1708">Ljubljana Bežigrad</a>, <a class="moder" href="/spletna_kamera/ljubljana_brdo/465">Ljubljana Brdo</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_golovec/463">Ljubljana Golovec</a>, <a class="moder" href="/spletna_kamera/ljubljana_jug/457">Ljubljana jug</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_kozarje/467">Ljubljana Kozarje</a>, <a class="moder" href="/spletna_kamera/ljubljana_malence/455">Ljubljana Malence</a>, <a class="moder" href="/spletna_kamera/ljubljana_nove_jarse/480">Ljubljana Nove Jarše</a>, <a class="moder" href="/spletna_kamera/ljubljana_rudnik/1759">Ljubljana Rudnik</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/ljubljana_tomacevo/479">Ljubljana Tomačevo</a>, <a class="moder" href="/spletna_kamera/ljubljana_zadobrova/459">Ljubljana Zadobrova</a>, <a class="moder" href="/spletna_kamera/ljubljanski_grad/179">Ljubljanski grad</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/medvode/184">Medvode</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rasica_nad_ljubljano/2418">Rašica nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/sentjakob/354">Šentjakob</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zbiljsko_jezero/2165">Zbiljsko jezero</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
+<a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica/318">Brezovica</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/katarina_nad_ljubljano/314">Katarina nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/ljubljana_cankarjevo_nabrezje/2154">Ljubljana (Cankarjevo nabrežje)</a>, <a class="moder" href="/spletna_kamera/ljubljana_kongresni_trg/297">Ljubljana (Kongresni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_mestni_trg/2149">Ljubljana (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/ljubljana_bezigrad/1708">Ljubljana Bežigrad</a>, <a class="moder" href="/spletna_kamera/ljubljana_brdo/465">Ljubljana Brdo</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_kozarje/467">Ljubljana Kozarje</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljanski_grad/179">Ljubljanski grad</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/medvode/184">Medvode</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>, <a class="moder" href="/spletna_kamera/zbiljsko_jezero/2165">Zbiljsko jezero</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsmarna_gora%2f5%2f117"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsmarna_gora%2f5%2f117"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsmarna_gora%2f5%2f117"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fseverjev_gric%2f5%2f3710"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fseverjev_gric%2f5%2f3710"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fseverjev_gric%2f5%2f3710"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/smarna_gora/117" title="Šmarna gora 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.smarnaGora.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/smarna_gora/147" onclick="event.preventDefault(); window.open('/slika_gora/smarna_gora/147');"><img class="slikagm" alt="Šmarna gora" src="//www.hribi.net/Gora/p4130100medium6mz.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/severjev_gric/21957" onclick="event.preventDefault(); window.open('/slika_gora/severjev_gric/21957');"><img class="slikagm" alt="Severjev grič" src="//slike2.hribi.net/slike16/2_0438737844335_IMG_20230326_105336_1.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smarna_gora/189" onclick="event.preventDefault(); window.open('/slika_gora/smarna_gora/189');"><img class="slikagm" alt="Šmarna gora" src="//www.hribi.net/Gora/p5030111medium8le.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/severjev_gric/21958" onclick="event.preventDefault(); window.open('/slika_gora/severjev_gric/21958');"><img class="slikagm" alt="Severjev grič" src="//slike2.hribi.net/slike16/2_0803737844485_IMG_20230326_105500.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smarna_gora/912" onclick="event.preventDefault(); window.open('/slika_gora/smarna_gora/912');"><img class="slikagm" alt="Šmarna gora" src="//www.hribi.net/Gora/p9080292mediumbi1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/severjev_gric/21959" onclick="event.preventDefault(); window.open('/slika_gora/severjev_gric/21959');"><img class="slikagm" alt="Severjev grič" src="//slike2.hribi.net/slike16/2_0640737844597_IMG_20230326_112432.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smarna_gora/5271" onclick="event.preventDefault(); window.open('/slika_gora/smarna_gora/5271');"><img class="slikagm" alt="Šmarna gora" src="//www.hribi.net/slike1/SmarnaGora 1161224720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/severjev_gric/21960" onclick="event.preventDefault(); window.open('/slika_gora/severjev_gric/21960');"><img class="slikagm" alt="Severjev grič" src="//slike2.hribi.net/slike16/2_0900737844868_IMG_20230326_110244.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smarna_gora/5272" onclick="event.preventDefault(); window.open('/slika_gora/smarna_gora/5272');"><img class="slikagm" alt="Šmarna gora" src="//www.hribi.net/slike1/SmarnaGora 1171258740.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/severjev_gric/21961" onclick="event.preventDefault(); window.open('/slika_gora/severjev_gric/21961');"><img class="slikagm" alt="Severjev grič" src="//slike2.hribi.net/slike16/2_0307737844957_IMG_20230326_110440.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smarna_gora/5273" onclick="event.preventDefault(); window.open('/slika_gora/smarna_gora/5273');"><img class="slikagm" alt="Šmarna gora" src="//www.hribi.net/slike1/SmarnaGora%20094855036.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/severjev_gric/21962" onclick="event.preventDefault(); window.open('/slika_gora/severjev_gric/21962');"><img class="slikagm" alt="Severjev grič" src="//slike2.hribi.net/slike16/2_0953737845257_IMG_20230326_110643.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smarna_gora/5274" onclick="event.preventDefault(); window.open('/slika_gora/smarna_gora/5274');"><img class="slikagm" alt="Šmarna gora" src="//www.hribi.net/slike1/SmarnaGora%20012589680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/severjev_gric/21963" onclick="event.preventDefault(); window.open('/slika_gora/severjev_gric/21963');"><img class="slikagm" alt="Severjev grič" src="//slike2.hribi.net/slike16/2_090737845347_IMG_20230326_110925.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smarna_gora/9505" onclick="event.preventDefault(); window.open('/slika_gora/smarna_gora/9505');"><img class="slikagm" alt="Šmarna gora" src="//www.hribi.net/slike1/SmarnaGora2012 059142560.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/smarna_gora/9542" onclick="event.preventDefault(); window.open('/slika_gora/smarna_gora/9542');"><img class="slikagm" alt="Šmarna gora" src="//www.hribi.net/slike1/GrmadaSG%2003698280.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/severjev_gric/21964" onclick="event.preventDefault(); window.open('/slika_gora/severjev_gric/21964');"><img class="slikagm" alt="Severjev grič" src="//slike2.hribi.net/slike16/2_0379737845455_IMG_20230326_110716.jpg" /></a>
     
 </div>
 
@@ -929,7 +924,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=117&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3710&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -939,51 +934,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vikrce_smarna_gora_pogacnikova_pot/5/117/1002">Vikrče - Šmarna gora (Pogačnikova pot)</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_pogacnikova_pot/5/117/1002">1 h 30 min</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_pogacnikova_pot/5/117/1002">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tacen_smarna_gora_cez_spodnjo_kuhinjo/5/117/2232">Tacen - Šmarna gora (čez Spodnjo Kuhinjo)</a></td><td class="tdG"><a href="/izlet/tacen_smarna_gora_cez_spodnjo_kuhinjo/5/117/2232"> 55 min</a></td><td class="tdG"><a href="/izlet/tacen_smarna_gora_cez_spodnjo_kuhinjo/5/117/2232">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/smartno_smarna_gora_smartinska_pot/5/117/79">Šmartno - Šmarna gora (Šmartinska pot)</a></td><td class="tdG"><a href="/izlet/smartno_smarna_gora_smartinska_pot/5/117/79"> 50 min</a></td><td class="tdG"><a href="/izlet/smartno_smarna_gora_smartinska_pot/5/117/79">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/smartno_smarna_gora_partizanska_steza/5/117/3670">Šmartno - Šmarna gora (Partizanska steza)</a></td><td class="tdG"><a href="/izlet/smartno_smarna_gora_partizanska_steza/5/117/3670"> 45 min</a></td><td class="tdG"><a href="/izlet/smartno_smarna_gora_partizanska_steza/5/117/3670">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lipa_smarna_gora_pot_cez_peske/5/117/4269">Lipa - Šmarna gora (pot čez Peske)</a></td><td class="tdG"><a href="/izlet/lipa_smarna_gora_pot_cez_peske/5/117/4269"> 55 min</a></td><td class="tdG"><a href="/izlet/lipa_smarna_gora_pot_cez_peske/5/117/4269">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vikrce_smarna_gora_westrova_pot/5/117/1001">Vikrče - Šmarna gora (Westrova pot)</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_westrova_pot/5/117/1001">1 h 30 min</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_westrova_pot/5/117/1001">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tacen_sveti_jurij_smarna_gora_romarska_pot/5/117/3962">Tacen (Sveti Jurij) - Šmarna gora (Romarska pot)</a></td><td class="tdG"><a href="/izlet/tacen_sveti_jurij_smarna_gora_romarska_pot/5/117/3962">1 h</a></td><td class="tdG"><a href="/izlet/tacen_sveti_jurij_smarna_gora_romarska_pot/5/117/3962">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tacen_smarna_gora_partizanska_steza/5/117/3872">Tacen - Šmarna gora (Partizanska steza)</a></td><td class="tdG"><a href="/izlet/tacen_smarna_gora_partizanska_steza/5/117/3872">1 h</a></td><td class="tdG"><a href="/izlet/tacen_smarna_gora_partizanska_steza/5/117/3872">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vikrce_smarna_gora_mazijeva_steza/5/117/3870"> Vikrče - Šmarna gora (Mazijeva steza)</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_mazijeva_steza/5/117/3870">1 h 35 min</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_mazijeva_steza/5/117/3870">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lipa_smarna_gora_po_cesti/5/117/4270">Lipa - Šmarna gora (po cesti)</a></td><td class="tdG"><a href="/izlet/lipa_smarna_gora_po_cesti/5/117/4270">1 h 5 min</a></td><td class="tdG"><a href="/izlet/lipa_smarna_gora_po_cesti/5/117/4270">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tacen_sveti_jurij_smarna_gora_partizanska_steza/5/117/3963">Tacen (Sveti Jurij) - Šmarna gora (Partizanska steza)</a></td><td class="tdG"><a href="/izlet/tacen_sveti_jurij_smarna_gora_partizanska_steza/5/117/3963">1 h</a></td><td class="tdG"><a href="/izlet/tacen_sveti_jurij_smarna_gora_partizanska_steza/5/117/3963">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/smartno_smarna_gora_pot_okrog_smarne_gore/5/117/3724">Šmartno - Šmarna gora (pot okrog Šmarne gore)</a></td><td class="tdG"><a href="/izlet/smartno_smarna_gora_pot_okrog_smarne_gore/5/117/3724">1 h 30 min</a></td><td class="tdG"><a href="/izlet/smartno_smarna_gora_pot_okrog_smarne_gore/5/117/3724">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vikrce_smarna_gora_cez_zatrep/5/117/3837">Vikrče - Šmarna gora (čez Zatrep)</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_cez_zatrep/5/117/3837">1 h 10 min</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_cez_zatrep/5/117/3837">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnje_pirnice_smarna_gora_ucna_pot/5/117/4403">Spodnje Pirniče - Šmarna gora (učna pot)</a></td><td class="tdG"><a href="/izlet/spodnje_pirnice_smarna_gora_ucna_pot/5/117/4403">1 h 10 min</a></td><td class="tdG"><a href="/izlet/spodnje_pirnice_smarna_gora_ucna_pot/5/117/4403">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/povodje_smarna_gora_partizanska_steza/5/117/3838">Povodje - Šmarna gora (Partizanska steza)</a></td><td class="tdG"><a href="/izlet/povodje_smarna_gora_partizanska_steza/5/117/3838">1 h 45 min</a></td><td class="tdG"><a href="/izlet/povodje_smarna_gora_partizanska_steza/5/117/3838">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/skarucna_smarna_gora/5/117/3839">Skaručna - Šmarna gora</a></td><td class="tdG"><a href="/izlet/skarucna_smarna_gora/5/117/3839">1 h 30 min</a></td><td class="tdG"><a href="/izlet/skarucna_smarna_gora/5/117/3839">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vikrce_smarna_gora_kovaceva_steza/5/117/4398">Vikrče - Šmarna gora (Kovačeva steza)</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_kovaceva_steza/5/117/4398">1 h 10 min</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_kovaceva_steza/5/117/4398">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnje_pirnice_smarna_gora_kovaceva_steza/5/117/4402">Spodnje Pirniče - Šmarna gora (Kovačeva steza)</a></td><td class="tdG"><a href="/izlet/spodnje_pirnice_smarna_gora_kovaceva_steza/5/117/4402">1 h 10 min</a></td><td class="tdG"><a href="/izlet/spodnje_pirnice_smarna_gora_kovaceva_steza/5/117/4402">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/skarucna_smarna_gora_partizanska_steza/5/117/3841">Skaručna - Šmarna gora (Partizanska steza)</a></td><td class="tdG"><a href="/izlet/skarucna_smarna_gora_partizanska_steza/5/117/3841">1 h 45 min</a></td><td class="tdG"><a href="/izlet/skarucna_smarna_gora_partizanska_steza/5/117/3841">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vikrce_smarna_gora_ucna_pot/5/117/4400">Vikrče - Šmarna gora (učna pot)</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_ucna_pot/5/117/4400">1 h 20 min</a></td><td class="tdG"><a href="/izlet/vikrce_smarna_gora_ucna_pot/5/117/4400">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/skarucna_smarna_gora_cez_sedlo/5/117/3840">Skaručna - Šmarna gora (čez Sedlo)</a></td><td class="tdG"><a href="/izlet/skarucna_smarna_gora_cez_sedlo/5/117/3840">1 h 35 min</a></td><td class="tdG"><a href="/izlet/skarucna_smarna_gora_cez_sedlo/5/117/3840">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/povodje_smarna_gora/5/117/3721">Povodje - Šmarna gora</a></td><td class="tdG"><a href="/izlet/povodje_smarna_gora/5/117/3721">1 h 30 min</a></td><td class="tdG"><a href="/izlet/povodje_smarna_gora/5/117/3721">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/povodje_smarna_gora_cez_sedlo/5/117/3722">Povodje - Šmarna gora (čez Sedlo)</a></td><td class="tdG"><a href="/izlet/povodje_smarna_gora_cez_sedlo/5/117/3722">1 h 35 min</a></td><td class="tdG"><a href="/izlet/povodje_smarna_gora_cez_sedlo/5/117/3722">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/polhov_gradec_severjeva_hisa_severjev_gric_neuradna_uhojena_pot/5/3710/9054">Polhov Gradec (Severjeva hiša) - Severjev grič (Neuradna uhojena pot)</a></td><td class="tdG"><a href="/izlet/polhov_gradec_severjeva_hisa_severjev_gric_neuradna_uhojena_pot/5/3710/9054"> 5 min</a></td><td class="tdG"><a href="/izlet/polhov_gradec_severjeva_hisa_severjev_gric_neuradna_uhojena_pot/5/3710/9054">delno zahtevna neoznačena pot</a></td></tr>
 
 </table>
 

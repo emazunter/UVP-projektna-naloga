@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planina Polšak</title>
-        <meta name="description" content="Natančen opis planine Planina Polšak in vseh pristopov na Planina Polšak. Planina se nahaja na severovzhodnem delu Dleskovške planote. Planina ima razgled." />
+        <title>Knezova planina (Planina Bela peč)</title>
+        <meta name="description" content="Natančen opis planine Knezova planina (Planina Bela peč) in vseh pristopov na Knezova planina (Planina Bela peč). Knezova planina oz. tudi planina Bela peč, je manj znana planina, ki se nahaja m." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./379?gorovjeid=3&amp;id=379" id="form1">
+    <form method="post" action="./1501?gorovjeid=3&amp;id=1501" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_polsak/3/379"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=379"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/knezova_planina_planina_bela_pec/3/1501"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1501"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Planina Polšak
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Knezova planina (Planina Bela peč)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(379);
+    gorast(1501);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planina Polšak</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Knezova planina (Planina Bela peč)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1695&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1350&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,1460'N&nbsp;/&nbsp;14°&nbsp;41,5404'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,6908'N&nbsp;/&nbsp;14°&nbsp;46,8660'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;8,76''N&nbsp;/&nbsp;14°&nbsp;41'&nbsp;32,42''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;41,45''N&nbsp;/&nbsp;14°&nbsp;46'&nbsp;51,96''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.3691°N&nbsp;/&nbsp;14.69234°E";
+                        document.getElementById("kf0").innerHTML = "46.42818°N&nbsp;/&nbsp;14.7811°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,3691°N,&nbsp;14,69234°E";
+                    document.getElementById("kf0").innerHTML = "46,42818°N,&nbsp;14,7811°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3691°N&nbsp;14,69234°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_polsak/379"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,42818°N&nbsp;14,7811°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/knezova_planina_planina_bela_pec/1501"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> planina</div>
+    <div class="g2"><b>Vrsta:</b> planina, sedlo</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Knezova planina (Planina Bela peč) - Torek" href="/vreme_gora/knezova_planina_planina_bela_pec/3/1501#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Knezova planina (Planina Bela peč) - Sreda" href="/vreme_gora/knezova_planina_planina_bela_pec/3/1501#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Knezova planina (Planina Bela peč) - Četrtek" href="/vreme_gora/knezova_planina_planina_bela_pec/3/1501#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Polšak - Petek" href="/vreme_gora/planina_polsak/3/379#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Knezova planina (Planina Bela peč) - Petek" href="/vreme_gora/knezova_planina_planina_bela_pec/3/1501#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Polšak - Sobota" href="/vreme_gora/planina_polsak/3/379#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Polšak - Nedelja" href="/vreme_gora/planina_polsak/3/379#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Polšak - Ponedeljek" href="/vreme_gora/planina_polsak/3/379#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Polšak - Torek" href="/vreme_gora/planina_polsak/3/379#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Knezova planina (Planina Bela peč) - Sobota" href="/vreme_gora/knezova_planina_planina_bela_pec/3/1501#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 304.432</div>
-<div class="g2"><b>Priljubljenost:</b> 70%&nbsp;(993.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 167.877</div>
+<div class="g2"><b>Priljubljenost:</b> 54%&nbsp;(1509.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina se nahaja na severovzhodnem delu Dleskovške planote. Planina ima razgled le na bližnje vrhove. Planina stoji na kraju, ki je le malo obiskan. Tu je kraj za ljubitelje samote.</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Knezova planina oz. tudi planina Bela peč, je manj znana planina, ki se nahaja med Raduho in Smrekovcem. S severnega dela planine se nam odpre lep pogled proti Peci, sicer pa razgled ovira bližnji gozd.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=379&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1501&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dleskovec/3/380">Dleskovec (1965m)</a>, <a class="moder" href="/gora/jamarski_bivak_na_dleskovski_planoti/3/2711">Jamarski bivak na Dleskovški planoti (1910m)</a>, <a class="moder" href="/gora/krizevnik/3/695">Križevnik (1909m)</a>, <a class="moder" href="/gora/molicka_pec/3/696">Molička peč (2029m)</a>, <a class="moder" href="/gora/planina_dolga_trata/3/708">Planina Dolga trata (1835m)</a>
+<a class="moder" href="/gora/jelovec/3/1817">Jelovec (1808m)</a>, <a class="moder" href="/gora/planina_vodol/3/1500">Planina Vodol (1324m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,29 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>
+<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_polsak%2f3%2f379"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_polsak%2f3%2f379"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_polsak%2f3%2f379"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fknezova_planina_planina_bela_pec%2f3%2f1501"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fknezova_planina_planina_bela_pec%2f3%2f1501"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fknezova_planina_planina_bela_pec%2f3%2f1501"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/planina_polsak/379" title="Planina Polšak 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlPolsak.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planina_polsak/2251" onclick="event.preventDefault(); window.open('/slika_gora/planina_polsak/2251');"><img class="slikagm" alt="Planina Polšak" src="//www.hribi.net/slike1/P9200022547722.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/knezova_planina_planina_bela_pec/5921" onclick="event.preventDefault(); window.open('/slika_gora/knezova_planina_planina_bela_pec/5921');"><img class="slikagm" alt="Knezova planina (Planina Bela peč)" src="//www.hribi.net/slike1/P5250058461700.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_polsak/2252" onclick="event.preventDefault(); window.open('/slika_gora/planina_polsak/2252');"><img class="slikagm" alt="Planina Polšak" src="//www.hribi.net/slike1/P9200030547722.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/knezova_planina_planina_bela_pec/5922" onclick="event.preventDefault(); window.open('/slika_gora/knezova_planina_planina_bela_pec/5922');"><img class="slikagm" alt="Knezova planina (Planina Bela peč)" src="//www.hribi.net/slike1/P525005145900.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_polsak/16011" onclick="event.preventDefault(); window.open('/slika_gora/planina_polsak/16011');"><img class="slikagm" alt="Planina Polšak" src="//www.hribi.net/slike1/P82602193198720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/knezova_planina_planina_bela_pec/5923" onclick="event.preventDefault(); window.open('/slika_gora/knezova_planina_planina_bela_pec/5923');"><img class="slikagm" alt="Knezova planina (Planina Bela peč)" src="//www.hribi.net/slike1/P5250061252450.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_polsak/16012" onclick="event.preventDefault(); window.open('/slika_gora/planina_polsak/16012');"><img class="slikagm" alt="Planina Polšak" src="//www.hribi.net/slike1/P82602531958400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/knezova_planina_planina_bela_pec/8286" onclick="event.preventDefault(); window.open('/slika_gora/knezova_planina_planina_bela_pec/8286');"><img class="slikagm" alt="Knezova planina (Planina Bela peč)" src="//www.hribi.net/slike1/Komen 028155232.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_polsak/16013" onclick="event.preventDefault(); window.open('/slika_gora/planina_polsak/16013');"><img class="slikagm" alt="Planina Polšak" src="//slike.hribi.net/slike4/2_039529752051_P8260256.JPG" /></a>
+        <a target="_blank" href="/slika_gora/knezova_planina_planina_bela_pec/8287" onclick="event.preventDefault(); window.open('/slika_gora/knezova_planina_planina_bela_pec/8287');"><img class="slikagm" alt="Knezova planina (Planina Bela peč)" src="//www.hribi.net/slike1/Komen 026155232.th.jpg" /></a>
     
 </div>
 
@@ -921,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=379&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1501&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,7 +928,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_ravne_planina_polsak/3/379/525">Planina Ravne - Planina Polšak</a></td><td class="tdG"><a href="/izlet/planina_ravne_planina_polsak/3/379/525">1 h</a></td><td class="tdG"><a href="/izlet/planina_ravne_planina_polsak/3/379/525">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/bistra_knezova_planina_planina_bela_pec/3/1501/2561"> Bistra - Knezova planina (Planina Bela peč)</a></td><td class="tdG"><a href="/izlet/bistra_knezova_planina_planina_bela_pec/3/1501/2561">2 h</a></td><td class="tdG"><a href="/izlet/bistra_knezova_planina_planina_bela_pec/3/1501/2561">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_vodol_knezova_planina_planina_bela_pec/3/1501/3381">Planina Vodol - Knezova planina (Planina Bela peč)</a></td><td class="tdG"><a href="/izlet/planina_vodol_knezova_planina_planina_bela_pec/3/1501/3381"> 15 min</a></td><td class="tdG"><a href="/izlet/planina_vodol_knezova_planina_planina_bela_pec/3/1501/3381">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kripta</title>
-        <meta name="description" content="Natančen opis gore Kripta in vseh pristopov na Kripta. Kripta je 331 metrov visok vrh na Goričkem, ki se nahaja južno od naselja Grad. ." />
+        <title>Lendavski grad (Dolnjelendavski grad)</title>
+        <meta name="description" content="Natančen opis gore Lendavski grad (Dolnjelendavski grad) in vseh pristopov na Lendavski grad (Dolnjelendavski grad). Lendavski oz. Dolnjelendavski grad se nahaja na vzpetini nad Lendavo. Grad, kjer." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3367?gorovjeid=163&amp;id=3367" id="form1">
+    <form method="post" action="./2962?gorovjeid=163&amp;id=2962" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kripta/163/3367"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3367"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lendava_castle_dolnjelendava_castle/163/2962"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=2962"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Kripta
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Lendavski grad (Dolnjelendavski grad)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3367);
+    gorast(2962);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kripta</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Lendavski grad (Dolnjelendavski grad)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a></div>
-    <div class="g2"><b>Višina:</b> 331&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 205&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;47,5932'N&nbsp;/&nbsp;16°&nbsp;5,3310'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;34,0080'N&nbsp;/&nbsp;16°&nbsp;27,1740'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;47'&nbsp;35,59''N&nbsp;/&nbsp;16°&nbsp;5'&nbsp;19,86''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;34'&nbsp;0,48''N&nbsp;/&nbsp;16°&nbsp;27'&nbsp;10,44''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.79322°N&nbsp;/&nbsp;16.08885°E";
+                        document.getElementById("kf0").innerHTML = "46.5668°N&nbsp;/&nbsp;16.4529°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,79322°N,&nbsp;16,08885°E";
+                    document.getElementById("kf0").innerHTML = "46,5668°N,&nbsp;16,4529°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,79322°N&nbsp;16,08885°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kripta/3367"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,5668°N&nbsp;16,4529°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lendavski_grad_dolnjelendavski_grad/2962"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Lendavski grad (Dolnjelendavski grad) - Torek" href="/vreme_gora/lendavski_grad_dolnjelendavski_grad/163/2962#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Lendavski grad (Dolnjelendavski grad) - Sreda" href="/vreme_gora/lendavski_grad_dolnjelendavski_grad/163/2962#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Lendavski grad (Dolnjelendavski grad) - Četrtek" href="/vreme_gora/lendavski_grad_dolnjelendavski_grad/163/2962#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kripta - Petek" href="/vreme_gora/kripta/163/3367#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lendavski grad (Dolnjelendavski grad) - Petek" href="/vreme_gora/lendavski_grad_dolnjelendavski_grad/163/2962#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kripta - Sobota" href="/vreme_gora/kripta/163/3367#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kripta - Nedelja" href="/vreme_gora/kripta/163/3367#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kripta - Ponedeljek" href="/vreme_gora/kripta/163/3367#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kripta - Torek" href="/vreme_gora/kripta/163/3367#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lendavski grad (Dolnjelendavski grad) - Sobota" href="/vreme_gora/lendavski_grad_dolnjelendavski_grad/163/2962#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 425</div>
-<div class="g2"><b>Priljubljenost:</b> 15%&nbsp;(2809.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 1.680</div>
+<div class="g2"><b>Priljubljenost:</b> 25%&nbsp;(2461.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kripta je 331 metrov visok vrh na Goričkem, ki se nahaja južno od naselja Grad. Na vrhu, ki je poraščen z gozdom stoji grobnica grajskih velikašev, imenovana Kripta.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Lendavski oz. Dolnjelendavski grad se nahaja na vzpetini nad Lendavo. Grad, kjer se danes nahaja Galerija-Muzej Lendava, je prvič omenjen že v 12. stoletju.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3367&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2962&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/grad_grad_na_gorickem/163/1635">Grad Grad na Goričkem (370m)</a>, <a class="moder" href="/gora/kacova_mlaka/163/3396">Kačova mlaka (265m)</a>, <a class="moder" href="/gora/pepelscek/163/3404">Pepelšček (386m)</a>
+<a class="moder" href="/gora/piramida_lendavske_gorice/163/2965">Piramida (Lendavske gorice) (327m)</a>, <a class="moder" href="/gora/razgledni_stolp_vinarium_lendava/163/2964">Razgledni stolp Vinarium Lendava (302m)</a>, <a class="moder" href="/gora/sveta_trojica_v_lendavskih_goricah/163/2963">Sveta Trojica v Lendavskih goricah (266m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,28 +835,22 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/cepinci/1951">Čepinci</a>, <a class="moder" href="/spletna_kamera/gederovci/1846">Gederovci</a>, <a class="moder" href="/spletna_kamera/klochberg/2512">Klöchberg</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/radgonski_grad/2511">Radgonski grad</a>, <a class="moder" href="/spletna_kamera/sotinski_breg_kugla/2170">Sotinski breg (Kugla)</a>
+<a class="moder" href="/spletna_kamera/dolga_vas/1065">Dolga vas</a>, <a class="moder" href="/spletna_kamera/dolinsko/4831">Dolinsko</a>, <a class="moder" href="/spletna_kamera/kobilje/1960">Kobilje</a>, <a class="moder" href="/spletna_kamera/petisinci_nadvoz_trimlini/4830">Petišinci (nadvoz Trimlini)</a>, <a class="moder" href="/spletna_kamera/pocivalisce_pince/4829">Počivališče Pince</a>, <a class="moder" href="/spletna_kamera/stolp_vinarium_dolgovaske_gorice/4359">Stolp Vinarium (Dolgovaške Gorice)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkripta%2f163%2f3367"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkripta%2f163%2f3367"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkripta%2f163%2f3367"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flendavski_grad_dolnjelendavski_grad%2f163%2f2962"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flendavski_grad_dolnjelendavski_grad%2f163%2f2962"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flendavski_grad_dolnjelendavski_grad%2f163%2f2962"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kripta/20102" onclick="event.preventDefault(); window.open('/slika_gora/kripta/20102');"><img class="slikagm" alt="Kripta" src="//www.hribi.net/slike15/2_2322671125012_DSCN7598.JPG" /></a>
+        <a target="_blank" href="/slika_gora/lendavski_grad_dolnjelendavski_grad/17282" onclick="event.preventDefault(); window.open('/slika_gora/lendavski_grad_dolnjelendavski_grad/17282');"><img class="slikagm" alt="Lendavski grad (Dolnjelendavski grad)" src="//slike.hribi.net/slike4/2_6373591893734_DSCN2737.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kripta/20103" onclick="event.preventDefault(); window.open('/slika_gora/kripta/20103');"><img class="slikagm" alt="Kripta" src="//www.hribi.net/slike15/2_0583670510921_DSCN7601.JPG" /></a>
+        <a target="_blank" href="/slika_gora/lendavski_grad_dolnjelendavski_grad/17283" onclick="event.preventDefault(); window.open('/slika_gora/lendavski_grad_dolnjelendavski_grad/17283');"><img class="slikagm" alt="Lendavski grad (Dolnjelendavski grad)" src="//slike.hribi.net/slike4/2_2634591893717_DSCN2728.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kripta/20104" onclick="event.preventDefault(); window.open('/slika_gora/kripta/20104');"><img class="slikagm" alt="Kripta" src="//www.hribi.net/slike15/2_1102670510923_DSCN7604.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kripta/20105" onclick="event.preventDefault(); window.open('/slika_gora/kripta/20105');"><img class="slikagm" alt="Kripta" src="//www.hribi.net/slike15/2_0560671238090_DSCN7607.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kripta/20218" onclick="event.preventDefault(); window.open('/slika_gora/kripta/20218');"><img class="slikagm" alt="Kripta" src="//www.hribi.net/slike15/2_0465674037013_DSCN9325.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kripta/20219" onclick="event.preventDefault(); window.open('/slika_gora/kripta/20219');"><img class="slikagm" alt="Kripta" src="//www.hribi.net/slike15/2_1539674037014_DSCN9329.JPG" /></a>
+        <a target="_blank" href="/slika_gora/lendavski_grad_dolnjelendavski_grad/17284" onclick="event.preventDefault(); window.open('/slika_gora/lendavski_grad_dolnjelendavski_grad/17284');"><img class="slikagm" alt="Lendavski grad (Dolnjelendavski grad)" src="//slike.hribi.net/slike4/2_0146591083554_DSCN2740.JPG" /></a>
     
 </div>
 
@@ -920,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3367&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2962&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -930,13 +924,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/grad_kripta_zahodna_pot/163/3367/8087">Grad - Kripta (zahodna pot)</a></td><td class="tdG"><a href="/izlet/grad_kripta_zahodna_pot/163/3367/8087"> 30 min</a></td><td class="tdG"><a href="/izlet/grad_kripta_zahodna_pot/163/3367/8087">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/grad_grad_na_gorickem_kripta_po_grascakovi_poti/163/3367/8141">Grad Grad na Goričkem - Kripta (po Graščakovi poti)</a></td><td class="tdG"><a href="/izlet/grad_grad_na_gorickem_kripta_po_grascakovi_poti/163/3367/8141"> 25 min</a></td><td class="tdG"><a href="/izlet/grad_grad_na_gorickem_kripta_po_grascakovi_poti/163/3367/8141">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/grad_kripta_severna_pot/163/3367/8085">Grad - Kripta (severna pot)</a></td><td class="tdG"><a href="/izlet/grad_kripta_severna_pot/163/3367/8085"> 25 min</a></td><td class="tdG"><a href="/izlet/grad_kripta_severna_pot/163/3367/8085">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/grad_grad_na_gorickem_kripta_po_cesti/163/3367/8140">Grad Grad na Goričkem - Kripta (po cesti)</a></td><td class="tdG"><a href="/izlet/grad_grad_na_gorickem_kripta_po_cesti/163/3367/8140"> 20 min</a></td><td class="tdG"><a href="/izlet/grad_grad_na_gorickem_kripta_po_cesti/163/3367/8140">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lendava_tic_lendava_lendavski_grad_dolnjelendavski_grad/163/2962/6952">Lendava (TIC Lendava) - Lendavski grad (Dolnjelendavski grad)</a></td><td class="tdG"><a href="/izlet/lendava_tic_lendava_lendavski_grad_dolnjelendavski_grad/163/2962/6952"> 7 min</a></td><td class="tdG"><a href="/izlet/lendava_tic_lendava_lendavski_grad_dolnjelendavski_grad/163/2962/6952">lahka označena pot</a></td></tr>
 
 </table>
 

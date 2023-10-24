@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Dom na Kofcah</title>
-        <meta name="description" content="Natančen opis koče Dom na Kofcah in vseh pristopov na Dom na Kofcah. Planinski dom se nahaja na razgledni planini Kofce, le ta pa na južnih pobočjih ." />
+        <title>Stropnik</title>
+        <meta name="description" content="Natančen opis gore Stropnik in vseh pristopov na Stropnik. Stropnik (862 m) in nekaj metrov višja Stropnica (880 m) tvorita hrib, ki se na ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./223?gorovjeid=11&amp;id=223" id="form1">
+    <form method="post" action="./3700?gorovjeid=11&amp;id=3700" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_na_kofcah/11/223"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=223"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/stropnik/11/3700"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=3700"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Dom na Kofcah
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Stropnik
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(223);
+    gorast(3700);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Dom na Kofcah</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Stropnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1488&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 862&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,0632'N&nbsp;/&nbsp;14°&nbsp;19,3920'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;23,3604'N&nbsp;/&nbsp;15°&nbsp;9,2748'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;3,79''N&nbsp;/&nbsp;14°&nbsp;19'&nbsp;23,52''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;23'&nbsp;21,62''N&nbsp;/&nbsp;15°&nbsp;9'&nbsp;16,49''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.41772°N&nbsp;/&nbsp;14.3232°E";
+                        document.getElementById("kf0").innerHTML = "46.38934°N&nbsp;/&nbsp;15.15458°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,41772°N,&nbsp;14,3232°E";
+                    document.getElementById("kf0").innerHTML = "46,38934°N,&nbsp;15,15458°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,41772°N&nbsp;14,3232°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_na_kofcah/223"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,38934°N&nbsp;15,15458°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/stropnik/3700"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, planina, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Stropnik - Torek" href="/vreme_gora/stropnik/11/3700#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Stropnik - Sreda" href="/vreme_gora/stropnik/11/3700#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Stropnik - Četrtek" href="/vreme_gora/stropnik/11/3700#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Kofcah - Petek" href="/vreme_gora/dom_na_kofcah/11/223#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Stropnik - Petek" href="/vreme_gora/stropnik/11/3700#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Kofcah - Sobota" href="/vreme_gora/dom_na_kofcah/11/223#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Kofcah - Nedelja" href="/vreme_gora/dom_na_kofcah/11/223#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Kofcah - Ponedeljek" href="/vreme_gora/dom_na_kofcah/11/223#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Kofcah - Torek" href="/vreme_gora/dom_na_kofcah/11/223#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Stropnik - Sobota" href="/vreme_gora/stropnik/11/3700#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 1.083.679</div>
-<div class="g2"><b>Priljubljenost:</b> 100%&nbsp;(5.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">18</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">13</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">6</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=223" title="Število vpisov v vpisni knjigi">30</a></div>
+<div class="g2"><b>Ogledov:</b> 130</div>
+<div class="g2"><b>Priljubljenost:</b> 7%&nbsp;(3056.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinski dom se nahaja na razgledni planini Kofce, le ta pa na južnih pobočjih zahodnega dela Košute. Od doma, ki je stalno odprt v poletni sezoni, sicer pa ob sobotah, nedeljah in praznikih, če je seveda lepo vreme, se nam odpre lep razgled po že omenjenem grebenu, goram nad Jezerskim, kjer izstopajo osrednji Grintovci, Begunjščici ter delu Julijskih Alp v ozadju.<br>Nekaj minut hoda od doma v smeri Mrzlega studenca oz. Jelendola, pa se nahaja manjša kapela, v kateri je vsako nedeljo v juliju in avgusta sv. Maša.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Stropnik (862 m) in nekaj metrov višja Stropnica (880 m) tvorita hrib, ki se na eni strani dviga nad Pako pri Velenju, na drugi strani pa nad krajema Škalske in Šmartinske Cirkovce.<br> Na poti proti vrhu se nam na nekaterih delih odpre lep razgled, z vrha pa zaradi gozda ni razgleda.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=223&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3700&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kofce_gora/11/343">Kofce gora (1967m)</a>, <a class="moder" href="/gora/planina_dolzanka/11/1620">Planina Dolžanka (1090m)</a>, <a class="moder" href="/gora/planina_ilovica/11/2099">Planina Ilovica (1462m)</a>, <a class="moder" href="/gora/robic/11/3174">Robič (1384m)</a>, <a class="moder" href="/gora/toplar/11/239">Toplar (2000m)</a>, <a class="moder" href="/gora/veliki_vrh_kosuta/11/74">Veliki vrh (Košuta) (2088m)</a>, <a class="moder" href="/gora/zavetisce_na_planini_sija/11/359">Zavetišče na planini Šija (1528m)</a>
+<a class="moder" href="/gora/skalni_vrh_vodemla/11/2880">Skalni vrh (Vodemla) (780m)</a>, <a class="moder" href="/gora/smodivnik/11/2881">Smodivnik (923m)</a>, <a class="moder" href="/gora/stropnica/11/3714">Stropnica (880m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,55 +835,18 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/slovenj_gradec/1600">Slovenj Gradec</a>, <a class="moder" href="/spletna_kamera/smartno_pri_slovenj_gradcu/2963">Šmartno pri Slovenj Gradcu</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_kofcah%2f11%2f223"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_kofcah%2f11%2f223"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_kofcah%2f11%2f223"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstropnik%2f11%2f3700"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstropnik%2f11%2f3700"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstropnik%2f11%2f3700"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/dom_na_kofcah/223" title="Dom na Kofcah 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.553710067898dom_na_kofcah.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/321" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/321');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/Gora/p6090010medium0kb.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/322" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/322');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/Gora/p6090011medium1om.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/324" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/324');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/Gora/p6090016medium3zd.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/1066" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/1066');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/Gora/pa080010mediumvy5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/1067" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/1067');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/Gora/pa080015mediumqn2.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/1068" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/1068');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/Gora/pa080183mediumbe0.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/1069" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/1069');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/Gora/pa080185mediumco8.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/1073" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/1073');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/Gora/pa080026mediumop1.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/3746" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/3746');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/slike1/PB16003281312.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/3747" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/3747');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/slike1/PB160080325248.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/8241" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/8241');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/slike1/Kofce 148598752.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/8242" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/8242');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/slike1/Kofce 151598752.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/8243" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/8243');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/slike1/Kofce 158810810.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/9360" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/9360');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/slike1/Kosuta%200711661352.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/9361" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/9361');"><img class="slikagm" alt="Dom na Kofcah" src="//slike.hribi.net/sliketemp/Kosuta%200676375348.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/9657" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/9657');"><img class="slikagm" alt="Dom na Kofcah" src="//slike.hribi.net/slike4/2_1799391423280_DomNaKofcah_291.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/9658" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/9658');"><img class="slikagm" alt="Dom na Kofcah" src="//www.hribi.net/slike1/DomNaKofcah 284301920.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_kofcah/18811" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_kofcah/18811');"><img class="slikagm" alt="Dom na Kofcah" src="//slike.hribi.net/slike4/2_1373629653249_DSCN8144.JPG" /></a>
+        <a target="_blank" href="/slika_gora/stropnik/21919" onclick="event.preventDefault(); window.open('/slika_gora/stropnik/21919');"><img class="slikagm" alt="Stropnik" src="//slike2.hribi.net/slike16/2_0750736240536_3___DSC06007.JPG" /></a>
     
 </div>
 
@@ -947,7 +910,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=223&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3700&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -957,31 +920,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/matizovec_dom_na_kofcah/11/223/326">Matizovec - Dom na Kofcah</a></td><td class="tdG"><a href="/izlet/matizovec_dom_na_kofcah/11/223/326">1 h 35 min</a></td><td class="tdG"><a href="/izlet/matizovec_dom_na_kofcah/11/223/326">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mrzli_studenec_dom_na_kofcah/11/223/765">Mrzli studenec - Dom na Kofcah</a></td><td class="tdG"><a href="/izlet/mrzli_studenec_dom_na_kofcah/11/223/765"> 30 min</a></td><td class="tdG"><a href="/izlet/mrzli_studenec_dom_na_kofcah/11/223/765">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/globoka_dolina_dom_na_kofcah/11/223/2851">Globoka dolina - Dom na Kofcah</a></td><td class="tdG"><a href="/izlet/globoka_dolina_dom_na_kofcah/11/223/2851">1 h 15 min</a></td><td class="tdG"><a href="/izlet/globoka_dolina_dom_na_kofcah/11/223/2851">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dolina_dom_na_kofcah/11/223/3361">Dolina - Dom na Kofcah</a></td><td class="tdG"><a href="/izlet/dolina_dom_na_kofcah/11/223/3361">1 h 45 min</a></td><td class="tdG"><a href="/izlet/dolina_dom_na_kofcah/11/223/3361">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zavetisce_na_planini_sija_dom_na_kofcah/11/223/497">Zavetišče na planini Šija - Dom na Kofcah</a></td><td class="tdG"><a href="/izlet/zavetisce_na_planini_sija_dom_na_kofcah/11/223/497"> 25 min</a></td><td class="tdG"><a href="/izlet/zavetisce_na_planini_sija_dom_na_kofcah/11/223/497">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podljubelj_dom_na_kofcah_cez_kal/11/223/3832">Podljubelj - Dom na Kofcah (čez Kal)</a></td><td class="tdG"><a href="/izlet/podljubelj_dom_na_kofcah_cez_kal/11/223/3832">2 h 5 min</a></td><td class="tdG"><a href="/izlet/podljubelj_dom_na_kofcah_cez_kal/11/223/3832">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dolina_dom_na_kofcah_mimo_kapelice/11/223/3362"> Dolina - Dom na Kofcah (mimo kapelice)</a></td><td class="tdG"><a href="/izlet/dolina_dom_na_kofcah_mimo_kapelice/11/223/3362">1 h 50 min</a></td><td class="tdG"><a href="/izlet/dolina_dom_na_kofcah_mimo_kapelice/11/223/3362">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/trzic_dom_na_kofcah_cez_kamnek/11/223/3829">Tržič - Dom na Kofcah (čez Kamnek)</a></td><td class="tdG"><a href="/izlet/trzic_dom_na_kofcah_cez_kamnek/11/223/3829">3 h 25 min</a></td><td class="tdG"><a href="/izlet/trzic_dom_na_kofcah_cez_kamnek/11/223/3829">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podljubelj_dom_na_kofcah_mimo_matizovca/11/223/3615">Podljubelj - Dom na Kofcah (mimo Matizovca)</a></td><td class="tdG"><a href="/izlet/podljubelj_dom_na_kofcah_mimo_matizovca/11/223/3615">2 h 30 min</a></td><td class="tdG"><a href="/izlet/podljubelj_dom_na_kofcah_mimo_matizovca/11/223/3615">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podljubelj_dom_na_kofcah_cez_kal_in_mimo_kapelice/11/223/3833">Podljubelj - Dom na Kofcah (čez Kal in mimo kapelice)</a></td><td class="tdG"><a href="/izlet/podljubelj_dom_na_kofcah_cez_kal_in_mimo_kapelice/11/223/3833">2 h 10 min</a></td><td class="tdG"><a href="/izlet/podljubelj_dom_na_kofcah_cez_kal_in_mimo_kapelice/11/223/3833">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trzic_dom_na_kofcah_cez_kamnek_in_mimo_kapelice/11/223/3830">Tržič - Dom na Kofcah (čez Kamnek in mimo kapelice)</a></td><td class="tdG"><a href="/izlet/trzic_dom_na_kofcah_cez_kamnek_in_mimo_kapelice/11/223/3830">3 h 30 min</a></td><td class="tdG"><a href="/izlet/trzic_dom_na_kofcah_cez_kamnek_in_mimo_kapelice/11/223/3830">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/pod_krnico_dom_na_kofcah/11/223/4191">Pod Krnico - Dom na Kofcah</a></td><td class="tdG"><a href="/izlet/pod_krnico_dom_na_kofcah/11/223/4191">3 h 45 min</a></td><td class="tdG"><a href="/izlet/pod_krnico_dom_na_kofcah/11/223/4191">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podljubelj_pod_kosuto_dom_na_kofcah_mimo_jezera_pri_cezov/11/223/7553">Podljubelj (Pod Košuto) - Dom na Kofcah (mimo jezera pri Čežov)</a></td><td class="tdG"><a href="/izlet/podljubelj_pod_kosuto_dom_na_kofcah_mimo_jezera_pri_cezov/11/223/7553">2 h 5 min</a></td><td class="tdG"><a href="/izlet/podljubelj_pod_kosuto_dom_na_kofcah_mimo_jezera_pri_cezov/11/223/7553">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/skalske_cirkovce_stropnik/11/3700/9033">Škalske Cirkovce - Stropnik</a></td><td class="tdG"><a href="/izlet/skalske_cirkovce_stropnik/11/3700/9033">1 h</a></td><td class="tdG"><a href="/izlet/skalske_cirkovce_stropnik/11/3700/9033">lahka označena pot</a></td></tr>
 
 </table>
 

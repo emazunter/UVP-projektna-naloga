@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Martin (Stari breg)</title>
-        <meta name="description" content="Natančen opis gore Sveti Martin (Stari breg) in vseh pristopov na Sveti Martin (Stari breg). Cerkev sv. Martina se nahaja na 307 metrov visokem bregu, le ta pa nad Domanjšev." />
+        <title>Gramoznica Ivanci</title>
+        <meta name="description" content="Natančen opis jezera Gramoznica Ivanci in vseh pristopov na Gramoznica Ivanci. Gramoznica Ivanci se nahaja v Prekmurju in sicer v bližini istoimenskega naselja." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3415?gorovjeid=163&amp;id=3415" id="form1">
+    <form method="post" action="./3648?gorovjeid=163&amp;id=3648" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_martin_stari_breg/163/3415"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3415"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/gravel_pit_ivanci/163/3648"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3648"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Sveti Martin (Stari breg)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Gramoznica Ivanci
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3415);
+    gorast(3648);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Martin (Stari breg)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Gramoznica Ivanci</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a></div>
-    <div class="g2"><b>Višina:</b> 307&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 177&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;46,8486'N&nbsp;/&nbsp;16°&nbsp;16,6434'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;39,5058'N&nbsp;/&nbsp;16°&nbsp;15,8598'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;46'&nbsp;50,92''N&nbsp;/&nbsp;16°&nbsp;16'&nbsp;38,60''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;39'&nbsp;30,35''N&nbsp;/&nbsp;16°&nbsp;15'&nbsp;51,59''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.78081°N&nbsp;/&nbsp;16.27739°E";
+                        document.getElementById("kf0").innerHTML = "46.65843°N&nbsp;/&nbsp;16.26433°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,78081°N,&nbsp;16,27739°E";
+                    document.getElementById("kf0").innerHTML = "46,65843°N,&nbsp;16,26433°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,78081°N&nbsp;16,27739°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_martin_stari_breg/3415"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,65843°N&nbsp;16,26433°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/gramoznica_ivanci/3648"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Gramoznica Ivanci - Torek" href="/vreme_gora/gramoznica_ivanci/163/3648#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Gramoznica Ivanci - Sreda" href="/vreme_gora/gramoznica_ivanci/163/3648#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Gramoznica Ivanci - Četrtek" href="/vreme_gora/gramoznica_ivanci/163/3648#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Martin (Stari breg) - Petek" href="/vreme_gora/sveti_martin_stari_breg/163/3415#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Gramoznica Ivanci - Petek" href="/vreme_gora/gramoznica_ivanci/163/3648#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Martin (Stari breg) - Sobota" href="/vreme_gora/sveti_martin_stari_breg/163/3415#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Martin (Stari breg) - Nedelja" href="/vreme_gora/sveti_martin_stari_breg/163/3415#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Martin (Stari breg) - Ponedeljek" href="/vreme_gora/sveti_martin_stari_breg/163/3415#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Martin (Stari breg) - Torek" href="/vreme_gora/sveti_martin_stari_breg/163/3415#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Gramoznica Ivanci - Sobota" href="/vreme_gora/gramoznica_ivanci/163/3648#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 215</div>
-<div class="g2"><b>Priljubljenost:</b> 10%&nbsp;(2955.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 165</div>
+<div class="g2"><b>Priljubljenost:</b> 8%&nbsp;(3012.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev sv. Martina se nahaja na 307 metrov visokem bregu, le ta pa nad Domanjševci. Na nekaterih zemljevidih je napačno označeno ime cerkve, kjer piše sv. Venceslav.</div>
+<div style="padding-top:10px;"><b>Opis jezera:</b><br />Gramoznica Ivanci se nahaja v Prekmurju in sicer v bližini istoimenskega naselja.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3415&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3648&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/mocvara_loncarovci/163/3491">Močvara (Lončarovci) (257m)</a>, <a class="moder" href="/gora/vidrin_center_aqualutra/163/3495">Vidrin center Aqualutra (275m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,30 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/cepinci/1951">Čepinci</a>, <a class="moder" href="/spletna_kamera/hodos/1070">Hodoš</a>, <a class="moder" href="/spletna_kamera/kobilje/1960">Kobilje</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/prosenjakovci/1949">Prosenjakovci</a>
+<a class="moder" href="/spletna_kamera/dolinsko/4831">Dolinsko</a>, <a class="moder" href="/spletna_kamera/kobilje/1960">Kobilje</a>, <a class="moder" href="/spletna_kamera/most_na_muri/4832">Most na Muri</a>, <a class="moder" href="/spletna_kamera/murska_sobota/1044">Murska Sobota</a>, <a class="moder" href="/spletna_kamera/prosenjakovci/1949">Prosenjakovci</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_martin_stari_breg%2f163%2f3415"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_martin_stari_breg%2f163%2f3415"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_martin_stari_breg%2f163%2f3415"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgramoznica_ivanci%2f163%2f3648"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgramoznica_ivanci%2f163%2f3648"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgramoznica_ivanci%2f163%2f3648"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_martin_stari_breg/20330" onclick="event.preventDefault(); window.open('/slika_gora/sveti_martin_stari_breg/20330');"><img class="slikagm" alt="Sveti Martin (Stari breg)" src="//slike2.hribi.net/slike14/2_0110680170490_0dscn2134.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gramoznica_ivanci/21689" onclick="event.preventDefault(); window.open('/slika_gora/gramoznica_ivanci/21689');"><img class="slikagm" alt="Gramoznica Ivanci" src="//slike2.hribi.net/slike14/2_0670725440866_0dscn4452.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_martin_stari_breg/20331" onclick="event.preventDefault(); window.open('/slika_gora/sveti_martin_stari_breg/20331');"><img class="slikagm" alt="Sveti Martin (Stari breg)" src="//slike2.hribi.net/slike14/2_1175680170433_1dscn2123.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gramoznica_ivanci/21690" onclick="event.preventDefault(); window.open('/slika_gora/gramoznica_ivanci/21690');"><img class="slikagm" alt="Gramoznica Ivanci" src="//slike2.hribi.net/slike14/2_0929727613118_0dscn4448.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_martin_stari_breg/20332" onclick="event.preventDefault(); window.open('/slika_gora/sveti_martin_stari_breg/20332');"><img class="slikagm" alt="Sveti Martin (Stari breg)" src="//slike2.hribi.net/slike14/2_1594680170491_1dscn2143.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gramoznica_ivanci/21691" onclick="event.preventDefault(); window.open('/slika_gora/gramoznica_ivanci/21691');"><img class="slikagm" alt="Gramoznica Ivanci" src="//slike2.hribi.net/slike14/2_1641727613118_1dscn4453.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_martin_stari_breg/20333" onclick="event.preventDefault(); window.open('/slika_gora/sveti_martin_stari_breg/20333');"><img class="slikagm" alt="Sveti Martin (Stari breg)" src="//slike2.hribi.net/slike14/2_8564680393770_8dscn2122.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gramoznica_ivanci/22370" onclick="event.preventDefault(); window.open('/slika_gora/gramoznica_ivanci/22370');"><img class="slikagm" alt="Gramoznica Ivanci" src="//slike2.hribi.net/slike14/2_23430749050651_23dscn7143.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_martin_stari_breg/20334" onclick="event.preventDefault(); window.open('/slika_gora/sveti_martin_stari_breg/20334');"><img class="slikagm" alt="Sveti Martin (Stari breg)" src="//slike2.hribi.net/slike14/2_0981680394281_0dscn2130.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_martin_stari_breg/20335" onclick="event.preventDefault(); window.open('/slika_gora/sveti_martin_stari_breg/20335');"><img class="slikagm" alt="Sveti Martin (Stari breg)" src="//slike2.hribi.net/slike14/2_120680394282_1dscn2136.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_martin_stari_breg/20336" onclick="event.preventDefault(); window.open('/slika_gora/sveti_martin_stari_breg/20336');"><img class="slikagm" alt="Sveti Martin (Stari breg)" src="//slike2.hribi.net/slike14/2_2503680394283_2dscn2160.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gramoznica_ivanci/22388" onclick="event.preventDefault(); window.open('/slika_gora/gramoznica_ivanci/22388');"><img class="slikagm" alt="Gramoznica Ivanci" src="//slike2.hribi.net/slike14/2_3586749141683_3dscn7168.jpg" /></a>
     
 </div>
 
@@ -922,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3415&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3648&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -932,7 +928,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/domanjsevci_evangelicanska_cerkev_sveti_martin_stari_breg/163/3415/8216">Domanjševci (evangeličanska cerkev) - Sveti Martin (Stari breg)</a></td><td class="tdG"><a href="/izlet/domanjsevci_evangelicanska_cerkev_sveti_martin_stari_breg/163/3415/8216"> 15 min</a></td><td class="tdG"><a href="/izlet/domanjsevci_evangelicanska_cerkev_sveti_martin_stari_breg/163/3415/8216">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/bogojina_gramoznica_ivanci/163/3648/8890">Bogojina - Gramoznica Ivanci</a></td><td class="tdG"><a href="/izlet/bogojina_gramoznica_ivanci/163/3648/8890">1 h</a></td><td class="tdG"><a href="/izlet/bogojina_gramoznica_ivanci/163/3648/8890">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/moravske_toplice_gramoznica_ivanci/163/3648/8891">Moravske Toplice - Gramoznica Ivanci</a></td><td class="tdG"><a href="/izlet/moravske_toplice_gramoznica_ivanci/163/3648/8891">1 h 30 min</a></td><td class="tdG"><a href="/izlet/moravske_toplice_gramoznica_ivanci/163/3648/8891">lahka označena pot, lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/moravske_toplice_gramoznica_ivanci_po_evropski_pespoti_e7/163/3648/9273">Moravske Toplice - Gramoznica Ivanci (po evropski pešpoti E7)</a></td><td class="tdG"><a href="/izlet/moravske_toplice_gramoznica_ivanci_po_evropski_pespoti_e7/163/3648/9273">1 h 30 min</a></td><td class="tdG"><a href="/izlet/moravske_toplice_gramoznica_ivanci_po_evropski_pespoti_e7/163/3648/9273">lahka označena pot, lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/hrascica_gramoznica_ivanci_po_evropski_pespoti_e7/163/3648/9284">Hraščica - Gramoznica Ivanci (po evropski pešpoti E7)</a></td><td class="tdG"><a href="/izlet/hrascica_gramoznica_ivanci_po_evropski_pespoti_e7/163/3648/9284"> 30 min</a></td><td class="tdG"><a href="/izlet/hrascica_gramoznica_ivanci_po_evropski_pespoti_e7/163/3648/9284">lahka označena pot, lahka neoznačena steza</a></td></tr>
 
 </table>
 

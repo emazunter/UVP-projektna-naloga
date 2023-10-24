@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Veliki Rob</title>
-        <meta name="description" content="Natančen opis gore Veliki Rob in vseh pristopov na Veliki Rob. Veliki Rob je razgleden vrh, ki se nahaja med Kucljem (1237m) in Čavnom (1185m).." />
+        <title>Slivnica</title>
+        <meta name="description" content="Natančen opis gore Slivnica in vseh pristopov na Slivnica. Slivnica je 1114 m visok vrh, ki se nahaja severno od Cerkniškega polja. Z vrha,." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1209?gorovjeid=26&amp;id=1209" id="form1">
+    <form method="post" action="./227?gorovjeid=26&amp;id=227" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_rob/26/1209"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1209"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/slivnica/26/227"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=227"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Veliki Rob
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Slivnica
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1209);
+    gorast(227);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Veliki Rob</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Slivnica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1237&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1114&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;56,0628'N&nbsp;/&nbsp;13°&nbsp;48,1752'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;47,4030'N&nbsp;/&nbsp;14°&nbsp;24,4860'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;56'&nbsp;3,77''N&nbsp;/&nbsp;13°&nbsp;48'&nbsp;10,51''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;47'&nbsp;24,18''N&nbsp;/&nbsp;14°&nbsp;24'&nbsp;29,16''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.93438°N&nbsp;/&nbsp;13.80292°E";
+                        document.getElementById("kf0").innerHTML = "45.79005°N&nbsp;/&nbsp;14.4081°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,93438°N,&nbsp;13,80292°E";
+                    document.getElementById("kf0").innerHTML = "45,79005°N,&nbsp;14,4081°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,93438°N&nbsp;13,80292°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_rob/1209"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,79005°N&nbsp;14,4081°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/slivnica/227"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Slivnica - Torek" href="/vreme_gora/slivnica/26/227#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Slivnica - Sreda" href="/vreme_gora/slivnica/26/227#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Slivnica - Četrtek" href="/vreme_gora/slivnica/26/227#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rob - Petek" href="/vreme_gora/veliki_rob/26/1209#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Slivnica - Petek" href="/vreme_gora/slivnica/26/227#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rob - Sobota" href="/vreme_gora/veliki_rob/26/1209#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rob - Nedelja" href="/vreme_gora/veliki_rob/26/1209#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rob - Ponedeljek" href="/vreme_gora/veliki_rob/26/1209#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rob - Torek" href="/vreme_gora/veliki_rob/26/1209#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Slivnica - Sobota" href="/vreme_gora/slivnica/26/227#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 480.743</div>
-<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(369.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">10</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1209" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 700.557</div>
+<div class="g2"><b>Priljubljenost:</b> 98%&nbsp;(67.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">7</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=227" title="Število vpisov v vpisni knjigi">10</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki Rob je razgleden vrh, ki se nahaja med Kucljem (1237m) in Čavnom (1185m). Z vrha na katerem se nahaja križ je lep razgled na Vipavsko dolino, Trstelj, Tržaški zaliv, Dolomite, Julijske Alpe in bližnji Trnovski gozd. <br>Vrh ima vpisno skrinjico in žig.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Slivnica je 1114 m visok vrh, ki se nahaja severno od Cerkniškega polja. Z vrha, na katerem se nahaja vpisna skrinjica je razgled zaradi bližnjega gozda in oddajnikov precej omejen.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1209&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=227&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/caven/26/1210">Čaven (1185m)</a>, <a class="moder" href="/gora/kucelj_na_cavnu/26/501">Kucelj na Čavnu (1237m)</a>, <a class="moder" href="/gora/lovsko_zavetisce_pod_cavnom/26/1211">Lovsko zavetišče pod Čavnom (980m)</a>, <a class="moder" href="/gora/sekulak/26/1208">Sekulak (888m)</a>
+<a class="moder" href="/gora/dom_na_slivnici/26/191">Dom na Slivnici (1078m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,37 +835,39 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/bilje/2085">Bilje</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/gorica/484">Gorica</a>, <a class="moder" href="/spletna_kamera/gorica/1670">Gorica</a>, <a class="moder" href="/spletna_kamera/goriski_grad___comune_di_gorizia/2056">Goriški grad / Comune di Gorizia</a>, <a class="moder" href="/spletna_kamera/kostanjevica_pri_novi_gorici/3510">Kostanjevica pri Novi Gorici</a>, <a class="moder" href="/spletna_kamera/lijak/344">Lijak</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/nova_gorica/1012">Nova Gorica</a>, <a class="moder" href="/spletna_kamera/nova_gorica_panovec/282">Nova Gorica (Panovec)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_sportni_park_nova_gorica/4298">Nova Gorica (Športni park Nova Gorica)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_trg_edvarda_kardelja/4097">Nova Gorica (Trg Edvarda Kardelja)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_-_rolkarski_park/1996">Nova Gorica - rolkarski park</a>, <a class="moder" href="/spletna_kamera/nova_gorica_center/1697">Nova Gorica center</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/ozeljan/2075">Ozeljan</a>, <a class="moder" href="/spletna_kamera/panovec/346">Panovec</a>, <a class="moder" href="/spletna_kamera/rafut/1884">Rafut</a>, <a class="moder" href="/spletna_kamera/rence/1883">Renče</a>, <a class="moder" href="/spletna_kamera/rozna_dolina/1706">Rožna Dolina</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/sempeter_pri_gorici/2155">Šempeter pri Gorici</a>, <a class="moder" href="/spletna_kamera/sempeter_pri_gorici/4225">Šempeter pri Gorici</a>, <a class="moder" href="/spletna_kamera/solkan/1663">Solkan</a>, <a class="moder" href="/spletna_kamera/solkan_brv_cez_soco/4065">Solkan (brv čez Sočo)</a>, <a class="moder" href="/spletna_kamera/solkanski_most/3326">Solkanski most</a>, <a class="moder" href="/spletna_kamera/stanjel_ferrarijev_vrt/4213">Štanjel (Ferrarijev vrt)</a>, <a class="moder" href="/spletna_kamera/sveta_gora/1882">Sveta Gora</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/trstelj/3508">Trstelj</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>, <a class="moder" href="/spletna_kamera/vrtojba/1078">Vrtojba</a>, <a class="moder" href="/spletna_kamera/vrtojba_/1943">Vrtojba </a>
+<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/cerknisko_jezero/3634">Cerkniško jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/iga_vas/1077">Iga vas</a>, <a class="moder" href="/spletna_kamera/ivanje_selo/328">Ivanje selo</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/nart/1718">Nart</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/planina_pri_rakeku/1028">Planina pri Rakeku</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/rakitna/1823">Rakitna</a>, <a class="moder" href="/spletna_kamera/studenec_na_blokah/1599">Studenec na Blokah</a>, <a class="moder" href="/spletna_kamera/unec/329">Unec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_rob%2f26%2f1209"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_rob%2f26%2f1209"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_rob%2f26%2f1209"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fslivnica%2f26%2f227"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fslivnica%2f26%2f227"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fslivnica%2f26%2f227"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/veliki_rob/1209" title="Veliki Rob 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VelikiRob.jpg" /></a></div>
+<div><a href="/panorama/360/slivnica/227" title="Slivnica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Slivnica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/veliki_rob/4063" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rob/4063');"><img class="slikagm" alt="Veliki Rob" src="//www.hribi.net/slike1/P3120242162000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slivnica/195" onclick="event.preventDefault(); window.open('/slika_gora/slivnica/195');"><img class="slikagm" alt="Slivnica" src="//www.hribi.net/Gora/p5040142medium1mp.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_rob/4064" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rob/4064');"><img class="slikagm" alt="Veliki Rob" src="//www.hribi.net/slike1/P3120214162000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slivnica/199" onclick="event.preventDefault(); window.open('/slika_gora/slivnica/199');"><img class="slikagm" alt="Slivnica" src="//www.hribi.net/Gora/p5040152medium0mk.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_rob/4065" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rob/4065');"><img class="slikagm" alt="Veliki Rob" src="//www.hribi.net/slike1/P3120247155520.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slivnica/200" onclick="event.preventDefault(); window.open('/slika_gora/slivnica/200');"><img class="slikagm" alt="Slivnica" src="//www.hribi.net/Gora/p5040158medium9js.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_rob/4066" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rob/4066');"><img class="slikagm" alt="Veliki Rob" src="//www.hribi.net/slike1/P3120203162000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slivnica/4917" onclick="event.preventDefault(); window.open('/slika_gora/slivnica/4917');"><img class="slikagm" alt="Slivnica" src="//www.hribi.net/slike1/Slivnica 098938952.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_rob/5194" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rob/5194');"><img class="slikagm" alt="Veliki Rob" src="//www.hribi.net/slike1/Modrasovec%20207168480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slivnica/5224" onclick="event.preventDefault(); window.open('/slika_gora/slivnica/5224');"><img class="slikagm" alt="Slivnica" src="//slike.hribi.net/sliketemp/Slivnica2%201965294292.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_rob/5195" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rob/5195');"><img class="slikagm" alt="Veliki Rob" src="//www.hribi.net/slike1/Modrasovec%20216200880.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slivnica/5225" onclick="event.preventDefault(); window.open('/slika_gora/slivnica/5225');"><img class="slikagm" alt="Slivnica" src="//slike.hribi.net/sliketemp/Slivnica2%200835294286.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_rob/5196" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rob/5196');"><img class="slikagm" alt="Veliki Rob" src="//www.hribi.net/slike1/Modrasovec%20219200880.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slivnica/5235" onclick="event.preventDefault(); window.open('/slika_gora/slivnica/5235');"><img class="slikagm" alt="Slivnica" src="//www.hribi.net/slike1/V.Spicka 1341016064.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_rob/5197" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rob/5197');"><img class="slikagm" alt="Veliki Rob" src="//www.hribi.net/slike1/Modrasovec%20226200880.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slivnica/5236" onclick="event.preventDefault(); window.open('/slika_gora/slivnica/5236');"><img class="slikagm" alt="Slivnica" src="//www.hribi.net/slike1/V.Spicka%20040997920.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_rob/9535" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rob/9535');"><img class="slikagm" alt="Veliki Rob" src="//www.hribi.net/slike1/Kucelj%2005128224.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slivnica/9956" onclick="event.preventDefault(); window.open('/slika_gora/slivnica/9956');"><img class="slikagm" alt="Slivnica" src="//www.hribi.net/slike1/Slivnica12 065589680.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/slivnica/10819" onclick="event.preventDefault(); window.open('/slika_gora/slivnica/10819');"><img class="slikagm" alt="Slivnica" src="//www.hribi.net/slike1/SvetiVid 093186615.th.jpg" /></a>
     
 </div>
 
@@ -929,7 +931,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1209&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=227&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -939,25 +941,17 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vitovlje_krizisce_veliki_rob/26/1209/2029">Vitovlje (Križišče) - Veliki Rob</a></td><td class="tdG"><a href="/izlet/vitovlje_krizisce_veliki_rob/26/1209/2029">3 h</a></td><td class="tdG"><a href="/izlet/vitovlje_krizisce_veliki_rob/26/1209/2029">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/cerknica_slivnica/26/227/867">Cerknica - Slivnica</a></td><td class="tdG"><a href="/izlet/cerknica_slivnica/26/227/867">1 h 40 min</a></td><td class="tdG"><a href="/izlet/cerknica_slivnica/26/227/867">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/krnica_veliki_rob/26/1209/3821">Krnica - Veliki Rob</a></td><td class="tdG"><a href="/izlet/krnica_veliki_rob/26/1209/3821"> 40 min</a></td><td class="tdG"><a href="/izlet/krnica_veliki_rob/26/1209/3821">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/martinjak_slivnica/26/227/1982">Martinjak - Slivnica</a></td><td class="tdG"><a href="/izlet/martinjak_slivnica/26/227/1982">1 h 15 min</a></td><td class="tdG"><a href="/izlet/martinjak_slivnica/26/227/1982">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/predmeja_veliki_rob/26/1209/2386"> Predmeja - Veliki Rob</a></td><td class="tdG"><a href="/izlet/predmeja_veliki_rob/26/1209/2386">3 h</a></td><td class="tdG"><a href="/izlet/predmeja_veliki_rob/26/1209/2386">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grahovo_slivnica/26/227/2370">Grahovo - Slivnica</a></td><td class="tdG"><a href="/izlet/grahovo_slivnica/26/227/2370">1 h 15 min</a></td><td class="tdG"><a href="/izlet/grahovo_slivnica/26/227/2370">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vrtovin_veliki_rob/26/1209/3717">Vrtovin - Veliki Rob</a></td><td class="tdG"><a href="/izlet/vrtovin_veliki_rob/26/1209/3717">2 h 50 min</a></td><td class="tdG"><a href="/izlet/vrtovin_veliki_rob/26/1209/3717">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/brezje_slivnica/26/227/332">Brezje - Slivnica</a></td><td class="tdG"><a href="/izlet/brezje_slivnica/26/227/332">2 h 15 min</a></td><td class="tdG"><a href="/izlet/brezje_slivnica/26/227/332">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lokavec_veliki_rob_cez_kucelj/26/1209/2986">Lokavec - Veliki Rob (čez Kucelj)</a></td><td class="tdG"><a href="/izlet/lokavec_veliki_rob_cez_kucelj/26/1209/2986">4 h 15 min</a></td><td class="tdG"><a href="/izlet/lokavec_veliki_rob_cez_kucelj/26/1209/2986">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/radlek_slivnica/26/227/3973">Radlek - Slivnica</a></td><td class="tdG"><a href="/izlet/radlek_slivnica/26/227/3973">1 h 20 min</a></td><td class="tdG"><a href="/izlet/radlek_slivnica/26/227/3973">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vitovlje_veliki_rob_mimo_vitovskega_jezera_in_cez_sekulak/26/1209/6600">Vitovlje - Veliki Rob (mimo Vitovskega jezera in čez Sekulak)</a></td><td class="tdG"><a href="/izlet/vitovlje_veliki_rob_mimo_vitovskega_jezera_in_cez_sekulak/26/1209/6600">3 h 10 min</a></td><td class="tdG"><a href="/izlet/vitovlje_veliki_rob_mimo_vitovskega_jezera_in_cez_sekulak/26/1209/6600">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gojace_veliki_rob/26/1209/3712">Gojače - Veliki Rob</a></td><td class="tdG"><a href="/izlet/gojace_veliki_rob/26/1209/3712">3 h 30 min</a></td><td class="tdG"><a href="/izlet/gojace_veliki_rob/26/1209/3712">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/malovse_veliki_rob/26/1209/3719">Malovše - Veliki Rob</a></td><td class="tdG"><a href="/izlet/malovse_veliki_rob/26/1209/3719">3 h 35 min</a></td><td class="tdG"><a href="/izlet/malovse_veliki_rob/26/1209/3719">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/predmeja_tuneli_veliki_rob_srednjecavenska_pot/26/1209/8009">Predmeja (tuneli) - Veliki Rob (Srednječavenska pot)</a></td><td class="tdG"><a href="/izlet/predmeja_tuneli_veliki_rob_srednjecavenska_pot/26/1209/8009">3 h</a></td><td class="tdG"><a href="/izlet/predmeja_tuneli_veliki_rob_srednjecavenska_pot/26/1209/8009">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ozeljan_veliki_rob_cez_sekulak/26/1209/6256">Ozeljan - Veliki Rob (čez Sekulak)</a></td><td class="tdG"><a href="/izlet/ozeljan_veliki_rob_cez_sekulak/26/1209/6256">4 h 20 min</a></td><td class="tdG"><a href="/izlet/ozeljan_veliki_rob_cez_sekulak/26/1209/6256">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/cerknica_dom_starejsih_obcanov_slivnica_zatrepi_-_slivnica/26/227/7980">Cerknica (Dom starejših občanov) - Slivnica (Zatrepi - Slivnica)</a></td><td class="tdG"><a href="/izlet/cerknica_dom_starejsih_obcanov_slivnica_zatrepi_-_slivnica/26/227/7980">1 h 30 min</a></td><td class="tdG"><a href="/izlet/cerknica_dom_starejsih_obcanov_slivnica_zatrepi_-_slivnica/26/227/7980">lahka neoznačena steza</a></td></tr>
 
 </table>
 

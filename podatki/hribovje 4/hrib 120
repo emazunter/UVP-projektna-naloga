@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Krvavka</title>
-        <meta name="description" content="Natančen opis gore Krvavka in vseh pristopov na Krvavka. Krvavka je neporaščen vrh, ki se nahaja vzhodno od bolj znane Golice. Z vrha je ." />
+        <title>Vgrizeva planina / Ogrisalm</title>
+        <meta name="description" content="Natančen opis planine Vgrizeva planina / Ogrisalm in vseh pristopov na Vgrizeva planina / Ogrisalm. Vgrizeva planina se nahaja pod manj znanim vrhom imenovanim Kosmatica nad dolino." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1008?gorovjeid=11&amp;id=1008" id="form1">
+    <form method="post" action="./583?gorovjeid=11&amp;id=583" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/krvavka/11/1008"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1008"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ogrisalm_vgrizeva_planina/11/583"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=583"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Krvavka
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Vgrizeva planina / Ogrisalm
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1008);
+    gorast(583);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Krvavka</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Vgrizeva planina / Ogrisalm</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1784&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1569&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,3526'N&nbsp;/&nbsp;14°&nbsp;3,9090'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;27,3870'N&nbsp;/&nbsp;14°&nbsp;11,8842'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;21,16''N&nbsp;/&nbsp;14°&nbsp;3'&nbsp;54,54''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;27'&nbsp;23,22''N&nbsp;/&nbsp;14°&nbsp;11'&nbsp;53,05''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.48921°N&nbsp;/&nbsp;14.06515°E";
+                        document.getElementById("kf0").innerHTML = "46.45645°N&nbsp;/&nbsp;14.19807°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,48921°N,&nbsp;14,06515°E";
+                    document.getElementById("kf0").innerHTML = "46,45645°N,&nbsp;14,19807°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,48921°N&nbsp;14,06515°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/krvavka/1008"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,45645°N&nbsp;14,19807°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vgrizeva_planina___ogrisalm/583"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Vgrizeva planina / Ogrisalm - Torek" href="/vreme_gora/vgrizeva_planina___ogrisalm/11/583#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Vgrizeva planina / Ogrisalm - Sreda" href="/vreme_gora/vgrizeva_planina___ogrisalm/11/583#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Vgrizeva planina / Ogrisalm - Četrtek" href="/vreme_gora/vgrizeva_planina___ogrisalm/11/583#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Krvavka - Petek" href="/vreme_gora/krvavka/11/1008#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Vgrizeva planina / Ogrisalm - Petek" href="/vreme_gora/vgrizeva_planina___ogrisalm/11/583#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Krvavka - Sobota" href="/vreme_gora/krvavka/11/1008#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Krvavka - Nedelja" href="/vreme_gora/krvavka/11/1008#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Krvavka - Ponedeljek" href="/vreme_gora/krvavka/11/1008#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Krvavka - Torek" href="/vreme_gora/krvavka/11/1008#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Vgrizeva planina / Ogrisalm - Sobota" href="/vreme_gora/vgrizeva_planina___ogrisalm/11/583#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 307.675</div>
-<div class="g2"><b>Priljubljenost:</b> 70%&nbsp;(975.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 205.076</div>
+<div class="g2"><b>Priljubljenost:</b> 58%&nbsp;(1368.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1008" title="Število vpisov v vpisni knjigi">3</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Krvavka je neporaščen vrh, ki se nahaja vzhodno od bolj znane Golice. Z vrha je lep pogled proti grebenu Karavank, Julijskim Alpam in Avstriji.</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Vgrizeva planina se nahaja pod manj znanim vrhom imenovanim Kosmatica nad dolino Poden / Bodental. S planine, na kateri stoji pastirska koča je lep razgled proti Ovčjemu vrhu / Geissberg in Vrtači.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1008&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=583&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/golica/11/252">Golica (1835m)</a>, <a class="moder" href="/gora/koca_na_golici/11/196">Koča na Golici (1582m)</a>, <a class="moder" href="/gora/mala_golica/11/1511">Mala Golica (1646m)</a>, <a class="moder" href="/gora/markljev_rovt/11/1007">Markljev Rovt (1250m)</a>, <a class="moder" href="/gora/planina_mozine/11/1252">Planina Možine (1352m)</a>, <a class="moder" href="/gora/pticji_vrh/11/348">Ptičji vrh (1550m)</a>
+<a class="moder" href="/gora/bela_pec___weisse_wand/11/1780">Bela peč / Weiße Wand (1665m)</a>, <a class="moder" href="/gora/celovska_koca___klagenfurter_hutte/11/582">Celovška koča / Klagenfurter Hutte (1664m)</a>, <a class="moder" href="/gora/kosmatica___kosmatitza/11/3023">Kosmatica / Kosmatitza (1659m)</a>, <a class="moder" href="/gora/ovcji_vrh_kozjak___geissberg_kosiak/11/581">Ovčji vrh (Kozjak) / Geissberg (Kosiak) (2024m)</a>, <a class="moder" href="/gora/pozgani_rob/11/1782">Požgani rob (1513m)</a>, <a class="moder" href="/gora/rjavca___rjautza/11/1781">Rjavca / Rjautza (1789m)</a>, <a class="moder" href="/gora/svacica/11/586">Svačica (1953m)</a>, <a class="moder" href="/gora/veliki_rob___grosser_rain/11/3160">Veliki Rob / Großer Rain (1464m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,25 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/pyramidenkogel_-_worthersee/4893">Pyramidenkogel - Wörthersee</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
+<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkrvavka%2f11%2f1008"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkrvavka%2f11%2f1008"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkrvavka%2f11%2f1008"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvgrizeva_planina___ogrisalm%2f11%2f583"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvgrizeva_planina___ogrisalm%2f11%2f583"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvgrizeva_planina___ogrisalm%2f11%2f583"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/krvavka/1008" title="Krvavka 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Krvavka.jpg" /></a></div>
+<div><a href="/panorama/360/vgrizeva_planina___ogrisalm/583" title="Vgrizeva planina / Ogrisalm 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Ogisalm.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/krvavka/3224" onclick="event.preventDefault(); window.open('/slika_gora/krvavka/3224');"><img class="slikagm" alt="Krvavka" src="//www.hribi.net/slike1/P629048138528.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vgrizeva_planina___ogrisalm/1740" onclick="event.preventDefault(); window.open('/slika_gora/vgrizeva_planina___ogrisalm/1740');"><img class="slikagm" alt="Vgrizeva planina / Ogrisalm" src="//www.hribi.net/slike1/P5130204235200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/krvavka/3836" onclick="event.preventDefault(); window.open('/slika_gora/krvavka/3836');"><img class="slikagm" alt="Krvavka" src="//www.hribi.net/slike1/P109010814040.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vgrizeva_planina___ogrisalm/1741" onclick="event.preventDefault(); window.open('/slika_gora/vgrizeva_planina___ogrisalm/1741');"><img class="slikagm" alt="Vgrizeva planina / Ogrisalm" src="//www.hribi.net/slike1/P5130200235200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/krvavka/10019" onclick="event.preventDefault(); window.open('/slika_gora/krvavka/10019');"><img class="slikagm" alt="Krvavka" src="//www.hribi.net/slike1/Avstrija12 312744744.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vgrizeva_planina___ogrisalm/17772" onclick="event.preventDefault(); window.open('/slika_gora/vgrizeva_planina___ogrisalm/17772');"><img class="slikagm" alt="Vgrizeva planina / Ogrisalm" src="//slike.hribi.net/slike4/2_1925600455231_DSCN0408.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/vgrizeva_planina___ogrisalm/17773" onclick="event.preventDefault(); window.open('/slika_gora/vgrizeva_planina___ogrisalm/17773');"><img class="slikagm" alt="Vgrizeva planina / Ogrisalm" src="//slike.hribi.net/slike4/2_0317599757021_DSCN0415.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/vgrizeva_planina___ogrisalm/17774" onclick="event.preventDefault(); window.open('/slika_gora/vgrizeva_planina___ogrisalm/17774');"><img class="slikagm" alt="Vgrizeva planina / Ogrisalm" src="//slike.hribi.net/slike4/2_15599756998_DSCN0413.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/vgrizeva_planina___ogrisalm/17775" onclick="event.preventDefault(); window.open('/slika_gora/vgrizeva_planina___ogrisalm/17775');"><img class="slikagm" alt="Vgrizeva planina / Ogrisalm" src="//slike.hribi.net/slike4/2_0643599756995_DSCN0409.JPG" /></a>
     
 </div>
 
@@ -917,7 +923,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1008&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=583&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -927,7 +933,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_pod_golico_krvavka/11/1008/1691">Planina pod Golico - Krvavka</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_krvavka/11/1008/1691">2 h</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_krvavka/11/1008/1691">lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/vgriz___ogris_vgrizeva_planina___ogrisalm/11/583/1017">Vgriz / Ogris - Vgrizeva planina / Ogrisalm</a></td><td class="tdG"><a href="/izlet/vgriz___ogris_vgrizeva_planina___ogrisalm/11/583/1017">1 h 15 min</a></td><td class="tdG"><a href="/izlet/vgriz___ogris_vgrizeva_planina___ogrisalm/11/583/1017">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podnar___bodenbauer_vgrizeva_planina___ogrisalm/11/583/1018">Podnar / Bodenbauer - Vgrizeva planina / Ogrisalm</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_vgrizeva_planina___ogrisalm/11/583/1018">1 h 30 min</a></td><td class="tdG"><a href="/izlet/podnar___bodenbauer_vgrizeva_planina___ogrisalm/11/583/1018">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zabnica___bodental_vgrizeva_planina___ogrisalm/11/583/7141">Žabnica / Bodental - Vgrizeva planina / Ogrisalm</a></td><td class="tdG"><a href="/izlet/zabnica___bodental_vgrizeva_planina___ogrisalm/11/583/7141">2 h 25 min</a></td><td class="tdG"><a href="/izlet/zabnica___bodental_vgrizeva_planina___ogrisalm/11/583/7141">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_vgrizeva_planina___ogrisalm/11/583/7139">Slovenji Plajberk / Windisch Bleiberg - Vgrizeva planina / Ogrisalm</a></td><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_vgrizeva_planina___ogrisalm/11/583/7139">2 h 45 min</a></td><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_vgrizeva_planina___ogrisalm/11/583/7139">lahka označena pot</a></td></tr>
 
 </table>
 

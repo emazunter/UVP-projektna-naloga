@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kačji rob</title>
-        <meta name="description" content="Natančen opis gore Kačji rob in vseh pristopov na Kačji rob. Kačji rob je 1520 m visok vrh, ki se nahaja med planino Zgornji Jirn in manj zna." />
+        <title>Kopa (Cimprovka)</title>
+        <meta name="description" content="Natančen opis gore Kopa (Cimprovka) in vseh pristopov na Kopa (Cimprovka). Kopa je 1360 m visok vrh oz. razgledni pomol, s katerega se nam odpre lep pogled." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1925?gorovjeid=21&amp;id=1925" id="form1">
+    <form method="post" action="./1983?gorovjeid=21&amp;id=1983" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kacji_rob/21/1925"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1925"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kopa_cimprovka/21/1983"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1983"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Kačji rob
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Kopa (Cimprovka)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1925);
+    gorast(1983);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kačji rob</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kopa (Cimprovka)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1520&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1360&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;14,5380'N&nbsp;/&nbsp;14°&nbsp;3,4140'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;9,7608'N&nbsp;/&nbsp;14°&nbsp;0,2586'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;14'&nbsp;32,28''N&nbsp;/&nbsp;14°&nbsp;3'&nbsp;24,84''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;9'&nbsp;45,65''N&nbsp;/&nbsp;14°&nbsp;0'&nbsp;15,52''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.2423°N&nbsp;/&nbsp;14.0569°E";
+                        document.getElementById("kf0").innerHTML = "46.16268°N&nbsp;/&nbsp;14.00431°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,2423°N,&nbsp;14,0569°E";
+                    document.getElementById("kf0").innerHTML = "46,16268°N,&nbsp;14,00431°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2423°N&nbsp;14,0569°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kacji_rob/1925"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,16268°N&nbsp;14,00431°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kopa_cimprovka/1983"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kopa (Cimprovka) - Torek" href="/vreme_gora/kopa_cimprovka/21/1983#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kopa (Cimprovka) - Sreda" href="/vreme_gora/kopa_cimprovka/21/1983#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kopa (Cimprovka) - Četrtek" href="/vreme_gora/kopa_cimprovka/21/1983#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kačji rob - Petek" href="/vreme_gora/kacji_rob/21/1925#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kopa (Cimprovka) - Petek" href="/vreme_gora/kopa_cimprovka/21/1983#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kačji rob - Sobota" href="/vreme_gora/kacji_rob/21/1925#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kačji rob - Nedelja" href="/vreme_gora/kacji_rob/21/1925#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kačji rob - Ponedeljek" href="/vreme_gora/kacji_rob/21/1925#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kačji rob - Torek" href="/vreme_gora/kacji_rob/21/1925#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kopa (Cimprovka) - Sobota" href="/vreme_gora/kopa_cimprovka/21/1983#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 347.708</div>
-<div class="g2"><b>Priljubljenost:</b> 75%&nbsp;(828.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Ogledov:</b> 242.690</div>
+<div class="g2"><b>Priljubljenost:</b> 63%&nbsp;(1224.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kačji rob je 1520 m visok vrh, ki se nahaja med planino Zgornji Jirn in manj znanim vrhom Žbanjek. Z vrha, na katerem se nahaja žig Ratitovške obhodnice, se nam odpre lep razgled na Blegoš, Porezen in Trnovski gozd.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Kopa je 1360 m visok vrh oz. razgledni pomol, s katerega se nam odpre lep pogled na Cerkno, hribovje ki obdaja omenjeni kraj, Ratitovec, Trnovski gozd, ob lepem vremenu pa razgled seže vse do Kamniško Savinjskih Alp.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1925&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1983&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kremant_ratitovec/21/1803">Kremant (Ratitovec) (1654m)</a>, <a class="moder" href="/gora/sveti_marko_spodnje_danje/21/2577">Sveti Marko (Spodnje Danje) (878m)</a>, <a class="moder" href="/gora/zbajnek/21/1924">Žbajnek (1538m)</a>
+<a class="moder" href="/gora/medrce/21/1943">Medrce (1410m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,25 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkacji_rob%2f21%2f1925"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkacji_rob%2f21%2f1925"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkacji_rob%2f21%2f1925"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkopa_cimprovka%2f21%2f1983"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkopa_cimprovka%2f21%2f1983"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkopa_cimprovka%2f21%2f1983"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kacji_rob/1925" title="Kačji rob 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KacjiRob.jpg" /></a></div>
+<div><a href="/panorama/360/kopa_cimprovka/1983" title="Kopa (Cimprovka) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KopaCimprovka.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kacji_rob/9237" onclick="event.preventDefault(); window.open('/slika_gora/kacji_rob/9237');"><img class="slikagm" alt="Kačji rob" src="//www.hribi.net/slike1/Ratitovec1111 12157596.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kopa_cimprovka/9666" onclick="event.preventDefault(); window.open('/slika_gora/kopa_cimprovka/9666');"><img class="slikagm" alt="Kopa (Cimprovka)" src="//www.hribi.net/slike1/Porezen274 01670200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kacji_rob/9238" onclick="event.preventDefault(); window.open('/slika_gora/kacji_rob/9238');"><img class="slikagm" alt="Kačji rob" src="//www.hribi.net/slike1/Ratitovec1111 12057596.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kopa_cimprovka/9667" onclick="event.preventDefault(); window.open('/slika_gora/kopa_cimprovka/9667');"><img class="slikagm" alt="Kopa (Cimprovka)" src="//www.hribi.net/slike1/Porezen274 00670200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kacji_rob/9239" onclick="event.preventDefault(); window.open('/slika_gora/kacji_rob/9239');"><img class="slikagm" alt="Kačji rob" src="//www.hribi.net/slike1/Ratitovec1111 168333960.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kopa_cimprovka/9669" onclick="event.preventDefault(); window.open('/slika_gora/kopa_cimprovka/9669');"><img class="slikagm" alt="Kopa (Cimprovka)" src="//www.hribi.net/slike1/Porezen274 06195400.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kopa_cimprovka/9670" onclick="event.preventDefault(); window.open('/slika_gora/kopa_cimprovka/9670');"><img class="slikagm" alt="Kopa (Cimprovka)" src="//www.hribi.net/slike1/Porezen274 06295400.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kopa_cimprovka/9671" onclick="event.preventDefault(); window.open('/slika_gora/kopa_cimprovka/9671');"><img class="slikagm" alt="Kopa (Cimprovka)" src="//www.hribi.net/slike1/Porezen274 06695400.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kopa_cimprovka/9672" onclick="event.preventDefault(); window.open('/slika_gora/kopa_cimprovka/9672');"><img class="slikagm" alt="Kopa (Cimprovka)" src="//www.hribi.net/slike1/Porezen274 06795400.th.jpg" /></a>
     
 </div>
 
@@ -917,7 +923,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1925&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1983&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -927,11 +933,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bohinjsko_sedlo_kacji_rob/21/1925/3561">Bohinjsko sedlo - Kačji rob</a></td><td class="tdG"><a href="/izlet/bohinjsko_sedlo_kacji_rob/21/1925/3561">2 h</a></td><td class="tdG"><a href="/izlet/bohinjsko_sedlo_kacji_rob/21/1925/3561">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/raspet_kopa_cimprovka/21/1983/3851">Raspet - Kopa (Cimprovka)</a></td><td class="tdG"><a href="/izlet/raspet_kopa_cimprovka/21/1983/3851">1 h 10 min</a></td><td class="tdG"><a href="/izlet/raspet_kopa_cimprovka/21/1983/3851">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornje_danje_kacji_rob/21/1925/5165">Zgornje Danje - Kačji rob</a></td><td class="tdG"><a href="/izlet/zgornje_danje_kacji_rob/21/1925/5165">1 h 10 min</a></td><td class="tdG"><a href="/izlet/zgornje_danje_kacji_rob/21/1925/5165">lahka označena pot, lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/poce_kopa_cimprovka_zimska_smer/21/1983/7883">Poče - Kopa (Cimprovka) (zimska smer)</a></td><td class="tdG"><a href="/izlet/poce_kopa_cimprovka_zimska_smer/21/1983/7883">2 h 25 min</a></td><td class="tdG"><a href="/izlet/poce_kopa_cimprovka_zimska_smer/21/1983/7883">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/soriska_pec_kacji_rob/21/1925/8276">Soriška peč - Kačji rob</a></td><td class="tdG"><a href="/izlet/soriska_pec_kacji_rob/21/1925/8276">2 h 30 min</a></td><td class="tdG"><a href="/izlet/soriska_pec_kacji_rob/21/1925/8276">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/cerkno_kopa_cimprovka/21/1983/7889">Cerkno - Kopa (Cimprovka)</a></td><td class="tdG"><a href="/izlet/cerkno_kopa_cimprovka/21/1983/7889">3 h 20 min</a></td><td class="tdG"><a href="/izlet/cerkno_kopa_cimprovka/21/1983/7889">lahka označena pot, lahka neoznačena steza</a></td></tr>
 
 </table>
 

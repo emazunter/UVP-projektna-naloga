@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planina Otavnik</title>
-        <meta name="description" content="Natančen opis gore Planina Otavnik in vseh pristopov na Planina Otavnik. Planina Otavnik se nahaja pod vrhom Otavnika, le ta pa med Kojco in Poreznom. Na." />
+        <title>Žagarjev hlev v Grobljah</title>
+        <meta name="description" content="Natančen opis bivaka Žagarjev hlev v Grobljah in vseh pristopov na Žagarjev hlev v Grobljah. Žagarjev hlev v Grobljah se nahaja le nekaj 10 m niže od neizrazitega vrha Grobl." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2600?gorovjeid=21&amp;id=2600" id="form1">
+    <form method="post" action="./1474?gorovjeid=21&amp;id=1474" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_otavnik/21/2600"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=2600"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/zagarjev_hlev_in_groblje/21/1474"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1474"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Planina Otavnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Žagarjev hlev v Grobljah
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2600);
+    gorast(1474);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planina Otavnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Žagarjev hlev v Grobljah</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1268&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1035&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;9,9360'N&nbsp;/&nbsp;13°&nbsp;57,7620'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;12,9420'N&nbsp;/&nbsp;14°&nbsp;6,3420'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;9'&nbsp;56,16''N&nbsp;/&nbsp;13°&nbsp;57'&nbsp;45,72''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;12'&nbsp;56,52''N&nbsp;/&nbsp;14°&nbsp;6'&nbsp;20,52''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.1656°N&nbsp;/&nbsp;13.9627°E";
+                        document.getElementById("kf0").innerHTML = "46.2157°N&nbsp;/&nbsp;14.1057°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,1656°N,&nbsp;13,9627°E";
+                    document.getElementById("kf0").innerHTML = "46,2157°N,&nbsp;14,1057°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1656°N&nbsp;13,9627°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_otavnik/2600"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2157°N&nbsp;14,1057°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zagarjev_hlev_v_grobljah/1474"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, planina</div>
+    <div class="g2"><b>Vrsta:</b> bivak</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Žagarjev hlev v Grobljah - Torek" href="/vreme_gora/zagarjev_hlev_v_grobljah/21/1474#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Žagarjev hlev v Grobljah - Sreda" href="/vreme_gora/zagarjev_hlev_v_grobljah/21/1474#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Žagarjev hlev v Grobljah - Četrtek" href="/vreme_gora/zagarjev_hlev_v_grobljah/21/1474#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Otavnik - Petek" href="/vreme_gora/planina_otavnik/21/2600#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Žagarjev hlev v Grobljah - Petek" href="/vreme_gora/zagarjev_hlev_v_grobljah/21/1474#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Otavnik - Sobota" href="/vreme_gora/planina_otavnik/21/2600#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Otavnik - Nedelja" href="/vreme_gora/planina_otavnik/21/2600#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Otavnik - Ponedeljek" href="/vreme_gora/planina_otavnik/21/2600#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Otavnik - Torek" href="/vreme_gora/planina_otavnik/21/2600#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Žagarjev hlev v Grobljah - Sobota" href="/vreme_gora/zagarjev_hlev_v_grobljah/21/1474#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 3.410</div>
-<div class="g2"><b>Priljubljenost:</b> 32%&nbsp;(2234.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 142.009</div>
+<div class="g2"><b>Priljubljenost:</b> 51%&nbsp;(1607.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Planina Otavnik se nahaja pod vrhom Otavnika, le ta pa med Kojco in Poreznom. Na razglednem delu planine se nahaja prijetna lovska opazovalnica, nekoliko nižje, v zavetju pred vetrom pa večja pastirska koča. S planine se nam odpre lep razgled na Porezen, bližnji Otavnik, verigo Spodnjih Bohinjskih gora ter na Cerkljansko hribovje.</div>
+<div style="padding-top:10px;"><b>Opis bivaka:</b><br />Žagarjev hlev v Grobljah se nahaja le nekaj 10 m niže od neizrazitega vrha Groblje (1086 m). V Žagarjevem hlevu je vpisna skrinjica, v njem pa lahko v primeru dežja tudi vedrimo.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2600&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1474&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dom_na_poreznu/21/217">Dom na Poreznu (1590m)</a>, <a class="moder" href="/gora/lovska_koca_ld_otavnik/21/2599">Lovska koča LD Otavnik (1090m)</a>, <a class="moder" href="/gora/medrce/21/1943">Medrce (1410m)</a>, <a class="moder" href="/gora/otavnik/21/2601">Otavnik (1306m)</a>, <a class="moder" href="/gora/porezen/21/209">Porezen (1630m)</a>
+<a class="moder" href="/gora/cerkev_loretske_matere_bozje_v_susi/21/1473">Cerkev Loretske Matere Božje v Suši (560m)</a>, <a class="moder" href="/gora/prtovc/21/1472">Prtovč (1011m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,28 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_otavnik%2f21%2f2600"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_otavnik%2f21%2f2600"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_otavnik%2f21%2f2600"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzagarjev_hlev_v_grobljah%2f21%2f1474"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzagarjev_hlev_v_grobljah%2f21%2f1474"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzagarjev_hlev_v_grobljah%2f21%2f1474"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planina_otavnik/14319" onclick="event.preventDefault(); window.open('/slika_gora/planina_otavnik/14319');"><img class="slikagm" alt="Planina Otavnik" src="//slike.hribi.net/slike4/2_0195509110979_DSCN0911.JPG" /></a>
+        <a target="_blank" href="/slika_gora/zagarjev_hlev_v_grobljah/5617" onclick="event.preventDefault(); window.open('/slika_gora/zagarjev_hlev_v_grobljah/5617');"><img class="slikagm" alt="Žagarjev hlev v Grobljah" src="//www.hribi.net/slike1/RatitovecPorezen 327645120.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_otavnik/14320" onclick="event.preventDefault(); window.open('/slika_gora/planina_otavnik/14320');"><img class="slikagm" alt="Planina Otavnik" src="//slike.hribi.net/slike4/2_1539509110868_DSCN0851.JPG" /></a>
+        <a target="_blank" href="/slika_gora/zagarjev_hlev_v_grobljah/5618" onclick="event.preventDefault(); window.open('/slika_gora/zagarjev_hlev_v_grobljah/5618');"><img class="slikagm" alt="Žagarjev hlev v Grobljah" src="//www.hribi.net/slike1/RatitovecPorezen 319645120.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_otavnik/14321" onclick="event.preventDefault(); window.open('/slika_gora/planina_otavnik/14321');"><img class="slikagm" alt="Planina Otavnik" src="//slike.hribi.net/slike4/2_0538509110910_DSCN0853.JPG" /></a>
+        <a target="_blank" href="/slika_gora/zagarjev_hlev_v_grobljah/5619" onclick="event.preventDefault(); window.open('/slika_gora/zagarjev_hlev_v_grobljah/5619');"><img class="slikagm" alt="Žagarjev hlev v Grobljah" src="//www.hribi.net/slike1/RatitovecPorezen 322645120.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_otavnik/14322" onclick="event.preventDefault(); window.open('/slika_gora/planina_otavnik/14322');"><img class="slikagm" alt="Planina Otavnik" src="//slike.hribi.net/slike4/2_162509110826_DSCN0837.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_otavnik/14323" onclick="event.preventDefault(); window.open('/slika_gora/planina_otavnik/14323');"><img class="slikagm" alt="Planina Otavnik" src="//www.hribi.net/slike1/DSCN08353520.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_otavnik/14328" onclick="event.preventDefault(); window.open('/slika_gora/planina_otavnik/14328');"><img class="slikagm" alt="Planina Otavnik" src="//www.hribi.net/slike1/DSCN092143776.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zagarjev_hlev_v_grobljah/5620" onclick="event.preventDefault(); window.open('/slika_gora/zagarjev_hlev_v_grobljah/5620');"><img class="slikagm" alt="Žagarjev hlev v Grobljah" src="//www.hribi.net/slike1/RatitovecPorezen 325645120.th.jpg" /></a>
     
 </div>
 
@@ -920,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2600&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1474&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -930,9 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jesenica_planina_otavnik/21/2600/5774">Jesenica - Planina Otavnik</a></td><td class="tdG"><a href="/izlet/jesenica_planina_otavnik/21/2600/5774">1 h 45 min</a></td><td class="tdG"><a href="/izlet/jesenica_planina_otavnik/21/2600/5774">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/preval_vrh_ravni_planina_otavnik/21/2600/5782">Preval Vrh Ravni - Planina Otavnik</a></td><td class="tdG"><a href="/izlet/preval_vrh_ravni_planina_otavnik/21/2600/5782">1 h 20 min</a></td><td class="tdG"><a href="/izlet/preval_vrh_ravni_planina_otavnik/21/2600/5782">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zali_log_zagarjev_hlev_v_grobljah/21/1474/2489">Zali Log - Žagarjev hlev v Grobljah</a></td><td class="tdG"><a href="/izlet/zali_log_zagarjev_hlev_v_grobljah/21/1474/2489">1 h 20 min</a></td><td class="tdG"><a href="/izlet/zali_log_zagarjev_hlev_v_grobljah/21/1474/2489">lahka označena pot</a></td></tr>
 
 </table>
 

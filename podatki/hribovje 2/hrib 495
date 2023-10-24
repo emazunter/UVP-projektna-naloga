@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vrh Dlani</title>
-        <meta name="description" content="Natančen opis gore Vrh Dlani in vseh pristopov na Vrh Dlani. Vrh Dlani je manj znan vrh, ki se nahaja v grebenu Spodnjih Bohinjskih gora, toč." />
+        <title>Zelenci</title>
+        <meta name="description" content="Natančen opis jezera Zelenci in vseh pristopov na Zelenci. Zelenci so izvir (jezero) reke Save Dolinke, reke, ki se pri Lancovem (Lancovo j." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1902?gorovjeid=1&amp;id=1902" id="form1">
+    <form method="post" action="./228?gorovjeid=1&amp;id=228" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrh_dlani/1/1902"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1902"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/zelenci/1/228"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=228"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Vrh Dlani
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Zelenci
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1902);
+    gorast(228);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vrh Dlani</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Zelenci</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1852&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 845&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;14,340'N&nbsp;/&nbsp;13°&nbsp;49,7880'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,5410'N&nbsp;/&nbsp;13°&nbsp;44,2626'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;14'&nbsp;20,40''N&nbsp;/&nbsp;13°&nbsp;49'&nbsp;47,28''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;32,46''N&nbsp;/&nbsp;13°&nbsp;44'&nbsp;15,76''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.239°N&nbsp;/&nbsp;13.8298°E";
+                        document.getElementById("kf0").innerHTML = "46.49235°N&nbsp;/&nbsp;13.73771°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,239°N,&nbsp;13,8298°E";
+                    document.getElementById("kf0").innerHTML = "46,49235°N,&nbsp;13,73771°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,239°N&nbsp;13,8298°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrh_dlani/1902"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,49235°N&nbsp;13,73771°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zelenci/228"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Zelenci - Torek" href="/vreme_gora/zelenci/1/228#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Zelenci - Sreda" href="/vreme_gora/zelenci/1/228#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Zelenci - Četrtek" href="/vreme_gora/zelenci/1/228#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Dlani - Petek" href="/vreme_gora/vrh_dlani/1/1902#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Zelenci - Petek" href="/vreme_gora/zelenci/1/228#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Dlani - Sobota" href="/vreme_gora/vrh_dlani/1/1902#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Dlani - Nedelja" href="/vreme_gora/vrh_dlani/1/1902#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Dlani - Ponedeljek" href="/vreme_gora/vrh_dlani/1/1902#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Dlani - Torek" href="/vreme_gora/vrh_dlani/1/1902#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Zelenci - Sobota" href="/vreme_gora/zelenci/1/228#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 222.267</div>
-<div class="g2"><b>Priljubljenost:</b> 61%&nbsp;(1297.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 508.972</div>
+<div class="g2"><b>Priljubljenost:</b> 91%&nbsp;(301.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=228" title="Število vpisov v vpisni knjigi">3</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Vrh Dlani je manj znan vrh, ki se nahaja v grebenu Spodnjih Bohinjskih gora, točneje med Šijo in Voglom. S travnatega vrha, ki se prepadno spušča proti Kneškim ravnam, se nam ob lepem vremenu odpre razgled, ki seže vse od Jadranskega morja do Triglava.</div>
+<div style="padding-top:10px;"><b>Opis jezera:</b><br />Zelenci so izvir (jezero) reke Save Dolinke, reke, ki se pri Lancovem (Lancovo je naselje v občini Radovljica) združi s Savo Bohinjko in nato pod imenom Sava teče vse do izliva v reko Donavo pri Beogradu v Srbiji. Jezero pri izviru Save dolinke ima stalno temperaturo, ki je skozi vse leto od 6 do 8 stopinj celzija.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1902&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=228&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/orlove_glave/1/1898">Orlove glave (1682m)</a>, <a class="moder" href="/gora/planina_v_prodih/1/2948">Planina v Prodih (1070m)</a>, <a class="moder" href="/gora/planina_zadnji_vogel/1/1899">Planina Zadnji Vogel (1413m)</a>, <a class="moder" href="/gora/sija/1/463">Šija (1880m)</a>, <a class="moder" href="/gora/visoki_orlov_rob/1/1900">Visoki Orlov rob (1800m)</a>, <a class="moder" href="/gora/vogel/1/588">Vogel (1922m)</a>, <a class="moder" href="/gora/vrh_krnic/1/589">Vrh Krnic (1896m)</a>, <a class="moder" href="/gora/zavitar/1/464">Zavitar (1750m)</a>
+<a class="moder" href="/gora/kalisje/11/2734">Kališje (1435m)</a>, <a class="moder" href="/gora/planinsko_zavetisce_slatna/1/3151">Planinsko zavetišče Slatna (1023m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,23 +835,43 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
+<a class="moder" href="/spletna_kamera/beljak___villach/254">Beljak / Villach</a>, <a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/dobrac_dobratsch/170">Dobrač/Dobratsch</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_dlani%2f1%2f1902"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_dlani%2f1%2f1902"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_dlani%2f1%2f1902"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzelenci%2f1%2f228"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzelenci%2f1%2f228"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzelenci%2f1%2f228"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vrh_dlani/1902" title="Vrh Dlani 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VrhDlani.jpg" /></a></div>
+<div><a href="/panorama/360/zelenci/228" title="Zelenci 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.578011864251zelenci.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vrh_dlani/8982" onclick="event.preventDefault(); window.open('/slika_gora/vrh_dlani/8982');"><img class="slikagm" alt="Vrh Dlani" src="//www.hribi.net/slike1/Sija 139158400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zelenci/204" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/204');"><img class="slikagm" alt="Zelenci" src="//www.hribi.net/Gora/p5050166medium6ag.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_dlani/8983" onclick="event.preventDefault(); window.open('/slika_gora/vrh_dlani/8983');"><img class="slikagm" alt="Vrh Dlani" src="//www.hribi.net/slike1/Sija 143158400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zelenci/205" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/205');"><img class="slikagm" alt="Zelenci" src="//www.hribi.net/Gora/p5050161medium8hf.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zelenci/206" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/206');"><img class="slikagm" alt="Zelenci" src="//www.hribi.net/Gora/p5050164medium6vx.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zelenci/10531" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/10531');"><img class="slikagm" alt="Zelenci" src="//www.hribi.net/slike1/Zelenci 1871317888.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zelenci/10532" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/10532');"><img class="slikagm" alt="Zelenci" src="//www.hribi.net/slike1/Zelenci 1881317888.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zelenci/10533" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/10533');"><img class="slikagm" alt="Zelenci" src="//www.hribi.net/slike1/Zelenci 1941317888.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zelenci/14089" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/14089');"><img class="slikagm" alt="Zelenci" src="//slike.hribi.net/slike4/2_0360502194112_DSCN6059.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/zelenci/14090" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/14090');"><img class="slikagm" alt="Zelenci" src="//slike.hribi.net/slike4/2_1306502194013_DSCN6053.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/zelenci/21151" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/21151');"><img class="slikagm" alt="Zelenci" src="//slike2.hribi.net/slike14/2_6197711854807_920220519_161837.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zelenci/21152" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/21152');"><img class="slikagm" alt="Zelenci" src="//slike2.hribi.net/slike14/2_9939711854809_820220519_162212.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zelenci/21153" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/21153');"><img class="slikagm" alt="Zelenci" src="//slike2.hribi.net/slike14/2_8977711854808_720220519_161923.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/zelenci/21154" onclick="event.preventDefault(); window.open('/slika_gora/zelenci/21154');"><img class="slikagm" alt="Zelenci" src="//slike2.hribi.net/slike14/2_7517711854807_020220519_161918.jpg" /></a>
     
 </div>
 
@@ -915,7 +935,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1902&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=228&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -925,7 +945,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_dlani/1/1902/3505">Ski hotel Vogel - Vrh Dlani</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_dlani/1/1902/3505">1 h 40 min</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_vrh_dlani/1/1902/3505">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjska_gora_zelenci/1/228/4284">Kranjska Gora - Zelenci</a></td><td class="tdG"><a href="/izlet/kranjska_gora_zelenci/1/228/4284">1 h</a></td><td class="tdG"><a href="/izlet/kranjska_gora_zelenci/1/228/4284">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/okrepcevalnica_zelenci/1/228/333">Okrepčevalnica - Zelenci</a></td><td class="tdG"><a href="/izlet/okrepcevalnica_zelenci/1/228/333"> 10 min</a></td><td class="tdG"><a href="/izlet/okrepcevalnica_zelenci/1/228/333">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ratece_zelenci/1/228/5657">Rateče - Zelenci</a></td><td class="tdG"><a href="/izlet/ratece_zelenci/1/228/5657"> 20 min</a></td><td class="tdG"><a href="/izlet/ratece_zelenci/1/228/5657">lahka označena pot</a></td></tr>
 
 </table>
 

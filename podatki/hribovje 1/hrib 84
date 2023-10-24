@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Špičasti vrh</title>
-        <meta name="description" content="Natančen opis gore Špičasti vrh in vseh pristopov na Špičasti vrh. Špičasti vrh je z gozdom poraščena gora, ki se nahaja južno od vasi Zadlog. Da p." />
+        <title>Križna gora nad Colom</title>
+        <meta name="description" content="Natančen opis gore Križna gora nad Colom in vseh pristopov na Križna gora nad Colom. Križna gora je 957 m visok vrh, ki se nahaja severno od Cola. Z vrha, ki je na s." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1187?gorovjeid=26&amp;id=1187" id="form1">
+    <form method="post" action="./2363?gorovjeid=26&amp;id=2363" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/spicasti_vrh/26/1187"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1187"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/krizna_gora_above_col/26/2363"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2363"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Špičasti vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Križna gora nad Colom
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1187);
+    gorast(2363);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Špičasti vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Križna gora nad Colom</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1128&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 957&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;55,6164'N&nbsp;/&nbsp;13°&nbsp;59,8656'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;53,7192'N&nbsp;/&nbsp;14°&nbsp;0,1980'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;55'&nbsp;36,98''N&nbsp;/&nbsp;13°&nbsp;59'&nbsp;51,94''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;53'&nbsp;43,15''N&nbsp;/&nbsp;14°&nbsp;0'&nbsp;11,88''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.92694°N&nbsp;/&nbsp;13.99776°E";
+                        document.getElementById("kf0").innerHTML = "45.89532°N&nbsp;/&nbsp;14.0033°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,92694°N,&nbsp;13,99776°E";
+                    document.getElementById("kf0").innerHTML = "45,89532°N,&nbsp;14,0033°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,92694°N&nbsp;13,99776°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/spicasti_vrh/1187"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,89532°N&nbsp;14,0033°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/krizna_gora_nad_colom/2363"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Križna gora nad Colom - Torek" href="/vreme_gora/krizna_gora_nad_colom/26/2363#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Križna gora nad Colom - Sreda" href="/vreme_gora/krizna_gora_nad_colom/26/2363#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Križna gora nad Colom - Četrtek" href="/vreme_gora/krizna_gora_nad_colom/26/2363#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Špičasti vrh - Petek" href="/vreme_gora/spicasti_vrh/26/1187#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Križna gora nad Colom - Petek" href="/vreme_gora/krizna_gora_nad_colom/26/2363#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Špičasti vrh - Sobota" href="/vreme_gora/spicasti_vrh/26/1187#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Špičasti vrh - Nedelja" href="/vreme_gora/spicasti_vrh/26/1187#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Špičasti vrh - Ponedeljek" href="/vreme_gora/spicasti_vrh/26/1187#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Špičasti vrh - Torek" href="/vreme_gora/spicasti_vrh/26/1187#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Križna gora nad Colom - Sobota" href="/vreme_gora/krizna_gora_nad_colom/26/2363#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 404.430</div>
-<div class="g2"><b>Priljubljenost:</b> 81%&nbsp;(624.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+<div class="g2"><b>Ogledov:</b> 264.183</div>
+<div class="g2"><b>Priljubljenost:</b> 65%&nbsp;(1142.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Špičasti vrh je z gozdom poraščena gora, ki se nahaja južno od vasi Zadlog. Da pa vrh, ne bi bil brez razgleda so na vrhu postavili 13m visok lesen razgledni stolp, ki nam omogoča pogled po večjem delu Slovenije. Ob lepem vremenu lahko tako vidimo Tržaški zaliv, Julijske Alpe in večji del osrednje Slovenije. <br>Vpisna knjiga in žig se nahajata na razglednem stolpu.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Križna gora je 957 m visok vrh, ki se nahaja severno od Cola. Z vrha, ki je na severno stran porasel z gozdom, se nam odpre lep razgled proti vzhodu, jugu in zahodu, kjer lepo vidimo večinoma gozdnate vrhove Hrušice, Nanosa in dela Čavna. Pod nami lepo vidimo Col, še nekoliko bolj proti jugu pa del Vipavske doline.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1187&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2363&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/spicek_speck/26/2362">Špiček (Špečk) (986m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,35 +835,22 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>
+<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/nanos_plesa/2957">Nanos (Pleša)</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/podgric/1414">Podgrič</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/rebrnice/1409">Rebrnice</a>, <a class="moder" href="/spletna_kamera/stanjel_ferrarijev_vrt/4213">Štanjel (Ferrarijev vrt)</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fspicasti_vrh%2f26%2f1187"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fspicasti_vrh%2f26%2f1187"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fspicasti_vrh%2f26%2f1187"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkrizna_gora_nad_colom%2f26%2f2363"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkrizna_gora_nad_colom%2f26%2f2363"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkrizna_gora_nad_colom%2f26%2f2363"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/spicasti_vrh/1187" title="Špičasti vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SpicastiVrh.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/spicasti_vrh/4005" onclick="event.preventDefault(); window.open('/slika_gora/spicasti_vrh/4005');"><img class="slikagm" alt="Špičasti vrh" src="//www.hribi.net/slike1/P2250354133650.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/krizna_gora_nad_colom/12597" onclick="event.preventDefault(); window.open('/slika_gora/krizna_gora_nad_colom/12597');"><img class="slikagm" alt="Križna gora nad Colom" src="//slike.hribi.net/slike4/2_0605456658850_SpeckNadColom_183.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/spicasti_vrh/4006" onclick="event.preventDefault(); window.open('/slika_gora/spicasti_vrh/4006');"><img class="slikagm" alt="Špičasti vrh" src="//www.hribi.net/slike1/P2250477221130.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/krizna_gora_nad_colom/12598" onclick="event.preventDefault(); window.open('/slika_gora/krizna_gora_nad_colom/12598');"><img class="slikagm" alt="Križna gora nad Colom" src="//www.hribi.net/slike1/SpeckNadColom 17919600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/spicasti_vrh/9621" onclick="event.preventDefault(); window.open('/slika_gora/spicasti_vrh/9621');"><img class="slikagm" alt="Špičasti vrh" src="//www.hribi.net/slike1/Vojsko12 338745200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicasti_vrh/13297" onclick="event.preventDefault(); window.open('/slika_gora/spicasti_vrh/13297');"><img class="slikagm" alt="Špičasti vrh" src="//www.hribi.net/slike1/DSCN940910710.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicasti_vrh/13298" onclick="event.preventDefault(); window.open('/slika_gora/spicasti_vrh/13298');"><img class="slikagm" alt="Špičasti vrh" src="//www.hribi.net/slike1/DSCN941010710.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicasti_vrh/13299" onclick="event.preventDefault(); window.open('/slika_gora/spicasti_vrh/13299');"><img class="slikagm" alt="Špičasti vrh" src="//www.hribi.net/slike1/DSCN941210710.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicasti_vrh/13300" onclick="event.preventDefault(); window.open('/slika_gora/spicasti_vrh/13300');"><img class="slikagm" alt="Špičasti vrh" src="//www.hribi.net/slike1/DSCN943610710.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicasti_vrh/13307" onclick="event.preventDefault(); window.open('/slika_gora/spicasti_vrh/13307');"><img class="slikagm" alt="Špičasti vrh" src="//www.hribi.net/slike1/DSCN926716500.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/krizna_gora_nad_colom/12599" onclick="event.preventDefault(); window.open('/slika_gora/krizna_gora_nad_colom/12599');"><img class="slikagm" alt="Križna gora nad Colom" src="//www.hribi.net/slike1/SpeckNadColom 02444100.th.jpg" /></a>
     
 </div>
 
@@ -927,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1187&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2363&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,11 +924,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zadlog_spicasti_vrh/26/1187/1987">Zadlog - Špičasti vrh</a></td><td class="tdG"><a href="/izlet/zadlog_spicasti_vrh/26/1187/1987">1 h 15 min</a></td><td class="tdG"><a href="/izlet/zadlog_spicasti_vrh/26/1187/1987">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/col_krizna_gora_nad_colom/26/2363/4909">Col - Križna gora nad Colom</a></td><td class="tdG"><a href="/izlet/col_krizna_gora_nad_colom/26/2363/4909"> 55 min</a></td><td class="tdG"><a href="/izlet/col_krizna_gora_nad_colom/26/2363/4909">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/cenc_spicasti_vrh_po_cesti_cez_novino/26/1187/1988">Cenc - Špičasti vrh (po cesti čez Novino)</a></td><td class="tdG"><a href="/izlet/cenc_spicasti_vrh_po_cesti_cez_novino/26/1187/1988">1 h 30 min</a></td><td class="tdG"><a href="/izlet/cenc_spicasti_vrh_po_cesti_cez_novino/26/1187/1988">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/cenc_spicasti_vrh_po_markirani_poti/26/1187/5175">Cenc - Špičasti vrh (po markirani poti)</a></td><td class="tdG"><a href="/izlet/cenc_spicasti_vrh_po_markirani_poti/26/1187/5175">1 h 30 min</a></td><td class="tdG"><a href="/izlet/cenc_spicasti_vrh_po_markirani_poti/26/1187/5175">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/col_krizna_gora_nad_colom_cez_spicek/26/2363/4908">Col - Križna gora nad Colom (čez Špiček)</a></td><td class="tdG"><a href="/izlet/col_krizna_gora_nad_colom_cez_spicek/26/2363/4908">1 h 10 min</a></td><td class="tdG"><a href="/izlet/col_krizna_gora_nad_colom_cez_spicek/26/2363/4908">lahka neoznačena steza</a></td></tr>
 
 </table>
 

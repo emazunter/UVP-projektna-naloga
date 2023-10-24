@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Trije kralji</title>
-        <meta name="description" content="Natančen opis koče Sveti Trije kralji in vseh pristopov na Sveti Trije kralji. Sveti Trije kralji so priljubljena izletniška točka štajerskih in drugih planinc." />
+        <title>Sveta Barbara nad Slovenj Gradcem</title>
+        <meta name="description" content="Natančen opis cerkve Sveta Barbara nad Slovenj Gradcem in vseh pristopov na Sveta Barbara nad Slovenj Gradcem. Cerkev Svete Barbare se nahaja med smučiščem Kope in Kremžarjevim vrhom. Ker cer." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./917?gorovjeid=4&amp;id=917" id="form1">
+    <form method="post" action="./755?gorovjeid=4&amp;id=755" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_trije_kralji/4/917"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=917"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveta_barbara_above_slovenj_gradec/4/755"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=755"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Sveti Trije kralji
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Sveta Barbara nad Slovenj Gradcem
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(917);
+    gorast(755);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Trije kralji</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveta Barbara nad Slovenj Gradcem</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 1181&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 829&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,2614'N&nbsp;/&nbsp;15°&nbsp;27,5304'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,8346'N&nbsp;/&nbsp;15°&nbsp;8,7048'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;15,68''N&nbsp;/&nbsp;15°&nbsp;27'&nbsp;31,82''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;50,08''N&nbsp;/&nbsp;15°&nbsp;8'&nbsp;42,29''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.43769°N&nbsp;/&nbsp;15.45884°E";
+                        document.getElementById("kf0").innerHTML = "46.51391°N&nbsp;/&nbsp;15.14508°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,43769°N,&nbsp;15,45884°E";
+                    document.getElementById("kf0").innerHTML = "46,51391°N,&nbsp;15,14508°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43769°N&nbsp;15,45884°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_trije_kralji/917"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,51391°N&nbsp;15,14508°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveta_barbara_nad_slovenj_gradcem/755"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Barbara nad Slovenj Gradcem - Torek" href="/vreme_gora/sveta_barbara_nad_slovenj_gradcem/4/755#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Barbara nad Slovenj Gradcem - Sreda" href="/vreme_gora/sveta_barbara_nad_slovenj_gradcem/4/755#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Barbara nad Slovenj Gradcem - Četrtek" href="/vreme_gora/sveta_barbara_nad_slovenj_gradcem/4/755#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Trije kralji - Petek" href="/vreme_gora/sveti_trije_kralji/4/917#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Barbara nad Slovenj Gradcem - Petek" href="/vreme_gora/sveta_barbara_nad_slovenj_gradcem/4/755#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Trije kralji - Sobota" href="/vreme_gora/sveti_trije_kralji/4/917#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Trije kralji - Nedelja" href="/vreme_gora/sveti_trije_kralji/4/917#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Trije kralji - Ponedeljek" href="/vreme_gora/sveti_trije_kralji/4/917#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Trije kralji - Torek" href="/vreme_gora/sveti_trije_kralji/4/917#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Barbara nad Slovenj Gradcem - Sobota" href="/vreme_gora/sveta_barbara_nad_slovenj_gradcem/4/755#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 497.027</div>
-<div class="g2"><b>Priljubljenost:</b> 90%&nbsp;(331.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">13</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=917" title="Število vpisov v vpisni knjigi">6</a></div>
+<div class="g2"><b>Ogledov:</b> 220.871</div>
+<div class="g2"><b>Priljubljenost:</b> 60%&nbsp;(1302.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Sveti Trije kralji so priljubljena izletniška točka štajerskih in drugih planincev. V bližini cerkve svetih Treh kraljev pa se nahaja penzion Jakec (včasih Štuhcev dom pri Treh kraljih), ki nudi gostinsko in drugo ponudbo. V neposredni bližini Treh kraljev pa je vse bolj priljubljeno smučišče, katerega radi obiskuje prebivalci okoliških krajev.</div>
+<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev Svete Barbare se nahaja med smučiščem Kope in Kremžarjevim vrhom. Ker cerkev večinoma obdaja gozd ni lepega razgleda, opazimo lahko le nekaj pobočij Pohorja.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=917&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=755&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/veliki_vrh_na_pohorju/4/3505">Veliki vrh (na Pohorju) (1344m)</a>
+<a class="moder" href="/gora/kremzarjev_vrh/4/753">Kremžarjev vrh (1164m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,38 +835,18 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/fram/371">Fram</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/slovenska_bistrica/369">Slovenska Bistrica</a>, <a class="moder" href="/spletna_kamera/spodnje_stranice/4444">Spodnje Stranice</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/tepanje/367">Tepanje</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vrhole_pri_slovenskih_konjicah/1428">Vrhole pri Slovenskih Konjicah</a>
+<a class="moder" href="/spletna_kamera/bukovnik/527">Bukovnik</a>, <a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/koca_pod_kremzarjevim_vrhom/2192">Koča pod Kremžarjevim vrhom</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/radlje_ob_dravi/4445">Radlje ob Dravi</a>, <a class="moder" href="/spletna_kamera/ravne_na_koroskem/1462">Ravne na Koroškem</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/slovenj_gradec/1600">Slovenj Gradec</a>, <a class="moder" href="/spletna_kamera/smartno_pri_slovenj_gradcu/2963">Šmartno pri Slovenj Gradcu</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_trije_kralji%2f4%2f917"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_trije_kralji%2f4%2f917"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_trije_kralji%2f4%2f917"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_barbara_nad_slovenj_gradcem%2f4%2f755"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_barbara_nad_slovenj_gradcem%2f4%2f755"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_barbara_nad_slovenj_gradcem%2f4%2f755"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/2979" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/2979');"><img class="slikagm" alt="Sveti Trije kralji" src="//www.hribi.net/sliketemp/P43001344441545.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/20843" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/20843');"><img class="slikagm" alt="Sveti Trije kralji" src="//slike2.hribi.net/slike14/2_0246700755708_0dscn3846.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/20850" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/20850');"><img class="slikagm" alt="Sveti Trije kralji" src="//slike2.hribi.net/slike14/2_1454701105096_1dscn3847.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/20844" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/20844');"><img class="slikagm" alt="Sveti Trije kralji" src="//slike2.hribi.net/slike14/2_0431700733048_0dscn3839.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/20845" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/20845');"><img class="slikagm" alt="Sveti Trije kralji" src="//slike2.hribi.net/slike14/2_1251700733048_1dscn3843.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/2980" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/2980');"><img class="slikagm" alt="Sveti Trije kralji" src="//www.hribi.net/slike1/P430016517600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/20846" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/20846');"><img class="slikagm" alt="Sveti Trije kralji" src="//slike2.hribi.net/slike14/2_10833700755626_10dscn3837.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/21045" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/21045');"><img class="slikagm" alt="Sveti Trije kralji" src="//slike2.hribi.net/slike14/2_24952709572203_24dscn8281.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/21046" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/21046');"><img class="slikagm" alt="Sveti Trije kralji" src="//slike2.hribi.net/slike14/2_0498708250395_0dscn8288.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/21276" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/21276');"><img class="slikagm" alt="Sveti Trije kralji" src="//slike2.hribi.net/slike14/2_9620716154127_5dscn1483.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_trije_kralji/21277" onclick="event.preventDefault(); window.open('/slika_gora/sveti_trije_kralji/21277');"><img class="slikagm" alt="Sveti Trije kralji" src="//slike2.hribi.net/slike14/2_0700714555530_0dscn1484.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_barbara_nad_slovenj_gradcem/2536" onclick="event.preventDefault(); window.open('/slika_gora/sveta_barbara_nad_slovenj_gradcem/2536');"><img class="slikagm" alt="Sveta Barbara nad Slovenj Gradcem" src="//www.hribi.net/slike1/PB210171691152.th.jpg" /></a>
     
 </div>
 
@@ -930,7 +910,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=917&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=755&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -940,31 +920,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornja_bistrica_sveti_trije_kralji_skozi_bistriski_vintgar_mimo_mocnika/4/917/1703">Zgornja Bistrica - Sveti Trije kralji (skozi Bistriški Vintgar mimo Močnika)</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_sveti_trije_kralji_skozi_bistriski_vintgar_mimo_mocnika/4/917/1703">3 h</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_sveti_trije_kralji_skozi_bistriski_vintgar_mimo_mocnika/4/917/1703">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_na_osankarici_sveti_trije_kralji/4/917/1598">Dom na Osankarici - Sveti Trije kralji</a></td><td class="tdG"><a href="/izlet/dom_na_osankarici_sveti_trije_kralji/4/917/1598">1 h 5 min</a></td><td class="tdG"><a href="/izlet/dom_na_osankarici_sveti_trije_kralji/4/917/1598">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornja_polskava_sveti_trije_kralji_skozi_polskavski_vintgar/4/917/7088">Zgornja Polskava - Sveti Trije kralji (skozi Polskavski vintgar)</a></td><td class="tdG"><a href="/izlet/zgornja_polskava_sveti_trije_kralji_skozi_polskavski_vintgar/4/917/7088">5 h 20 min</a></td><td class="tdG"><a href="/izlet/zgornja_polskava_sveti_trije_kralji_skozi_polskavski_vintgar/4/917/7088">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/veliko_tinje_sveti_trije_kralji/4/917/8467">Veliko Tinje - Sveti Trije kralji</a></td><td class="tdG"><a href="/izlet/veliko_tinje_sveti_trije_kralji/4/917/8467">2 h</a></td><td class="tdG"><a href="/izlet/veliko_tinje_sveti_trije_kralji/4/917/8467">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornja_polskava_sveti_trije_kralji_cez_kocno/4/917/7089">Zgornja Polskava - Sveti Trije kralji (čez Kočno)</a></td><td class="tdG"><a href="/izlet/zgornja_polskava_sveti_trije_kralji_cez_kocno/4/917/7089">4 h 30 min</a></td><td class="tdG"><a href="/izlet/zgornja_polskava_sveti_trije_kralji_cez_kocno/4/917/7089">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_sveti_trije_kralji/4/917/8725">Ruška koča na Arehu - Sveti Trije kralji</a></td><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_sveti_trije_kralji/4/917/8725">2 h 55 min</a></td><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_sveti_trije_kralji/4/917/8725">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kebelj_sveti_trije_kralji/4/917/8646">Kebelj - Sveti Trije kralji</a></td><td class="tdG"><a href="/izlet/kebelj_sveti_trije_kralji/4/917/8646">1 h 40 min</a></td><td class="tdG"><a href="/izlet/kebelj_sveti_trije_kralji/4/917/8646">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/oplotnica_sveti_trije_kralji/4/917/8637">Oplotnica - Sveti Trije kralji</a></td><td class="tdG"><a href="/izlet/oplotnica_sveti_trije_kralji/4/917/8637">2 h 45 min</a></td><td class="tdG"><a href="/izlet/oplotnica_sveti_trije_kralji/4/917/8637">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_na_sumiku_sveti_trije_kralji/4/917/8739">Koča na Šumiku - Sveti Trije kralji</a></td><td class="tdG"><a href="/izlet/koca_na_sumiku_sveti_trije_kralji/4/917/8739">2 h 10 min</a></td><td class="tdG"><a href="/izlet/koca_na_sumiku_sveti_trije_kralji/4/917/8739">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/veliko_tinje_sveti_trije_kralji_mimo_sv_urha/4/917/8480">Veliko Tinje - Sveti Trije kralji (mimo sv. Urha)</a></td><td class="tdG"><a href="/izlet/veliko_tinje_sveti_trije_kralji_mimo_sv_urha/4/917/8480">2 h 25 min</a></td><td class="tdG"><a href="/izlet/veliko_tinje_sveti_trije_kralji_mimo_sv_urha/4/917/8480">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_sveti_trije_kralji_cez_veliko_tinje/4/917/8790">Zgornja Bistrica (Center Vintgar) - Sveti Trije kralji (čez Veliko Tinje)</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_sveti_trije_kralji_cez_veliko_tinje/4/917/8790">3 h 20 min</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_sveti_trije_kralji_cez_veliko_tinje/4/917/8790">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/smartno_na_pohorju_sveti_trije_kralji/4/917/9120">Šmartno na Pohorju - Sveti Trije kralji</a></td><td class="tdG"><a href="/izlet/smartno_na_pohorju_sveti_trije_kralji/4/917/9120">2 h 15 min</a></td><td class="tdG"><a href="/izlet/smartno_na_pohorju_sveti_trije_kralji/4/917/9120">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_sveti_trije_kralji_skozi_bistriski_vintgar/4/917/9122">Zgornja Bistrica (Center Vintgar) - Sveti Trije kralji (skozi Bistriški vintgar)</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_sveti_trije_kralji_skozi_bistriski_vintgar/4/917/9122">3 h 15 min</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_sveti_trije_kralji_skozi_bistriski_vintgar/4/917/9122">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/oresnik_sveta_barbara_nad_slovenj_gradcem/4/755/1359">Orešnik - Sveta Barbara nad Slovenj Gradcem</a></td><td class="tdG"><a href="/izlet/oresnik_sveta_barbara_nad_slovenj_gradcem/4/755/1359">1 h 15 min</a></td><td class="tdG"><a href="/izlet/oresnik_sveta_barbara_nad_slovenj_gradcem/4/755/1359">lahka označena pot</a></td></tr>
 
 </table>
 

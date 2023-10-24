@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Velika Raduha</title>
-        <meta name="description" content="Natančen opis gore Velika Raduha in vseh pristopov na Velika Raduha. Velika Raduha je z višino 2062 m najvišji vrh Raduhe, pogorja ki se strmo dviga ." />
+        <title>Mali Grintovec</title>
+        <meta name="description" content="Natančen opis gore Mali Grintovec in vseh pristopov na Mali Grintovec. Mali Grintovec je razgledna gora, ki se nahaja vzhodno od Storžiča. Z vrha, na k." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./148?gorovjeid=3&amp;id=148" id="form1">
+    <form method="post" action="./356?gorovjeid=3&amp;id=356" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/velika_raduha/3/148"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=148"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mali_grintovec/3/356"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=356"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Velika Raduha
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Mali Grintovec
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(148);
+    gorast(356);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Velika Raduha</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Mali Grintovec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2062&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1813&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,5946'N&nbsp;/&nbsp;14°&nbsp;44,2650'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,7792'N&nbsp;/&nbsp;14°&nbsp;25,6434'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;35,68''N&nbsp;/&nbsp;14°&nbsp;44'&nbsp;15,90''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;46,75''N&nbsp;/&nbsp;14°&nbsp;25'&nbsp;38,60''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.40991°N&nbsp;/&nbsp;14.73775°E";
+                        document.getElementById("kf0").innerHTML = "46.34632°N&nbsp;/&nbsp;14.42739°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,40991°N,&nbsp;14,73775°E";
+                    document.getElementById("kf0").innerHTML = "46,34632°N,&nbsp;14,42739°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,40991°N&nbsp;14,73775°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/velika_raduha/148"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,34632°N&nbsp;14,42739°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mali_grintovec/356"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Grintovec - Torek" href="/vreme_gora/mali_grintovec/3/356#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Grintovec - Sreda" href="/vreme_gora/mali_grintovec/3/356#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Grintovec - Četrtek" href="/vreme_gora/mali_grintovec/3/356#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Raduha - Petek" href="/vreme_gora/velika_raduha/3/148#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Grintovec - Petek" href="/vreme_gora/mali_grintovec/3/356#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Raduha - Sobota" href="/vreme_gora/velika_raduha/3/148#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Raduha - Nedelja" href="/vreme_gora/velika_raduha/3/148#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Raduha - Ponedeljek" href="/vreme_gora/velika_raduha/3/148#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Raduha - Torek" href="/vreme_gora/velika_raduha/3/148#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Grintovec - Sobota" href="/vreme_gora/mali_grintovec/3/356#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 960.946</div>
-<div class="g2"><b>Priljubljenost:</b> 100%&nbsp;(13.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">15</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">11</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">6</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=148" title="Število vpisov v vpisni knjigi">12</a></div>
+<div class="g2"><b>Ogledov:</b> 534.033</div>
+<div class="g2"><b>Priljubljenost:</b> 92%&nbsp;(247.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">24</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=356" title="Število vpisov v vpisni knjigi">8</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Velika Raduha je z višino 2062 m najvišji vrh Raduhe, pogorja ki se strmo dviga vzhodno od Robanovega kota. Z vrha, ki ima vpisno skrinjico in žig, se nam odpre lep razgled na najvišje vrhove Kamniško Savinjskih Alp ter Olševi, Peci, Uršlji gori, Travniku in Komnu, Goltem ter večini vrhov nad osrednjim delom reke Savinje.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Mali Grintovec je razgledna gora, ki se nahaja vzhodno od Storžiča. Z vrha, na katerem je vpisna skrinjica, žig ter prijetna klop, se nam odpre lep razgled na že omenjeni Storžič, Bašeljski vrh, Krvavec in goram nad Jezerskim.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=148&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=356&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/koca_na_grohatu/3/615">Koča na Grohatu (1460m)</a>, <a class="moder" href="/gora/koca_na_loki_pod_raduho/3/409">Koča na Loki pod Raduho (1534m)</a>, <a class="moder" href="/gora/lanez/3/1269">Lanež (1925m)</a>, <a class="moder" href="/gora/mala_raduha/3/1268">Mala Raduha (2029m)</a>, <a class="moder" href="/gora/planina_arta/3/458">Planina Arta (1564m)</a>
+<a class="moder" href="/gora/baseljski_vrh/3/274">Bašeljski vrh (1744m)</a>, <a class="moder" href="/gora/cjanovca/3/499">Cjanovca (1820m)</a>, <a class="moder" href="/gora/dom_na_kaliscu/3/134">Dom na Kališču (1534m)</a>, <a class="moder" href="/gora/licjanovec/3/2582">Licjanovec (1733m)</a>, <a class="moder" href="/gora/planina_dolga_njiva/3/245">Planina Dolga njiva (1600m)</a>, <a class="moder" href="/gora/planina_kalisce/3/467">Planina Kališče (1450m)</a>, <a class="moder" href="/gora/praprotnikova_koca/3/337">Praprotnikova koča (1380m)</a>, <a class="moder" href="/gora/srednji_vrh/3/244">Srednji vrh (1853m)</a>, <a class="moder" href="/gora/storzic/3/85">Storžič (2132m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,63 +835,41 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_raduha%2f3%2f148"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_raduha%2f3%2f148"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_raduha%2f3%2f148"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_grintovec%2f3%2f356"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_grintovec%2f3%2f356"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_grintovec%2f3%2f356"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/velika_raduha/148" title="Velika Raduha 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VelikaRaduha.jpg" /></a></div>
+<div><a href="/panorama/360/mali_grintovec/356" title="Mali Grintovec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.maliGrintavec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/velika_raduha/101" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/101');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/Gora/p3290263medium0hu.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_grintovec/1102" onclick="event.preventDefault(); window.open('/slika_gora/mali_grintovec/1102');"><img class="slikagm" alt="Mali Grintovec" src="//www.hribi.net/Gora/pa160120mediumgg1.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_raduha/305" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/305');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/Gora/pb280082medium8xn.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_grintovec/1103" onclick="event.preventDefault(); window.open('/slika_gora/mali_grintovec/1103');"><img class="slikagm" alt="Mali Grintovec" src="//www.hribi.net/Gora/pa160068mediumuo7.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_raduha/1064" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/1064');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/Gora/rimg0215mediumdi5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_grintovec/1268" onclick="event.preventDefault(); window.open('/slika_gora/mali_grintovec/1268');"><img class="slikagm" alt="Mali Grintovec" src="//www.hribi.net/Gora/pb260011mediumxa9.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_raduha/1858" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/1858');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/slike1/P6260047993888.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_grintovec/6247" onclick="event.preventDefault(); window.open('/slika_gora/mali_grintovec/6247');"><img class="slikagm" alt="Mali Grintovec" src="//www.hribi.net/slike1/MaliGrintovec%2013624990.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_raduha/2266" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/2266');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/slike1/P9200054317520.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_grintovec/6248" onclick="event.preventDefault(); window.open('/slika_gora/mali_grintovec/6248');"><img class="slikagm" alt="Mali Grintovec" src="//slike.hribi.net/sliketemp/MaliGrintovec%201375612775.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_raduha/3846" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/3846');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/sliketemp/P113012548076895818177.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_grintovec/6249" onclick="event.preventDefault(); window.open('/slika_gora/mali_grintovec/6249');"><img class="slikagm" alt="Mali Grintovec" src="//slike.hribi.net/sliketemp/MaliGrintovec%200735612771.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_raduha/4356" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/4356');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/sliketemp/P60901755025126.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_grintovec/12581" onclick="event.preventDefault(); window.open('/slika_gora/mali_grintovec/12581');"><img class="slikagm" alt="Mali Grintovec" src="//www.hribi.net/slike1/BaseljskiVrh 135582400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_raduha/5912" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/5912');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/slike1/P5250298772200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/velika_raduha/7318" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/7318');"><img class="slikagm" alt="Velika Raduha" src="//slike.hribi.net/sliketemp/Raduha%200825850269.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/velika_raduha/7324" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/7324');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/slike1/Raduha%200882499840.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/velika_raduha/7325" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/7325');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/slike1/Raduha%200922544480.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/velika_raduha/7326" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/7326');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/slike1/Raduha%201042633760.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/velika_raduha/13282" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/13282');"><img class="slikagm" alt="Velika Raduha" src="//www.hribi.net/slike1/DSCN8980943488.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/velika_raduha/15147" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/15147');"><img class="slikagm" alt="Velika Raduha" src="//slike.hribi.net/slike4/2_0692527929436_DSCN5828.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/velika_raduha/17210" onclick="event.preventDefault(); window.open('/slika_gora/velika_raduha/17210');"><img class="slikagm" alt="Velika Raduha" src="//slike.hribi.net/slike4/2_0350590743536_DSCN2375.JPG" /></a>
+        <a target="_blank" href="/slika_gora/mali_grintovec/16350" onclick="event.preventDefault(); window.open('/slika_gora/mali_grintovec/16350');"><img class="slikagm" alt="Mali Grintovec" src="//www.hribi.net/slike1/DSCN7690534600.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/raduha_via_grohat/3/724"><img class="slikagmv" alt="Raduha via Grohat" src="https://img.youtube.com/vi/cvq6UUlEG4c/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Smučanje/raduha/1/385"><img class="slikagmv" alt="Raduha" src="https://img.youtube.com/vi/CTPcn-1Hfuk/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Smučanje/raduha/1/381"><img class="slikagmv" alt="Raduha" src="https://img.youtube.com/vi/i3An1YONOFs/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Gorništvo/velika_raduha/3/365"><img class="slikagmv" alt="VELIKA RADUHA" src="https://img.youtube.com/vi/oMGEVUTKI4E/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -949,7 +927,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=148&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=356&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -959,27 +937,53 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_loka_velika_raduha/3/148/230">Planina Loka - Velika Raduha</a></td><td class="tdG"><a href="/izlet/planina_loka_velika_raduha/3/148/230">1 h 55 min</a></td><td class="tdG"><a href="/izlet/planina_loka_velika_raduha/3/148/230">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/jekarica_mali_grintovec/3/356/1038">Jekarica - Mali Grintovec</a></td><td class="tdG"><a href="/izlet/jekarica_mali_grintovec/3/356/1038">2 h 50 min</a></td><td class="tdG"><a href="/izlet/jekarica_mali_grintovec/3/356/1038">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bukovnik_velika_raduha_plezalna_pot/3/148/1195">Bukovnik - Velika Raduha (plezalna pot)</a></td><td class="tdG"><a href="/izlet/bukovnik_velika_raduha_plezalna_pot/3/148/1195">2 h 25 min</a></td><td class="tdG"><a href="/izlet/bukovnik_velika_raduha_plezalna_pot/3/148/1195">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/mace_mali_grintovec_cez_baseljski_vrh/3/356/492">Mače - Mali Grintovec (čez Bašeljski vrh)</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_cez_baseljski_vrh/3/356/492">4 h</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_cez_baseljski_vrh/3/356/492">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/snezna_jama_velika_raduha/3/148/738">Snežna jama - Velika Raduha</a></td><td class="tdG"><a href="/izlet/snezna_jama_velika_raduha/3/148/738">1 h 45 min</a></td><td class="tdG"><a href="/izlet/snezna_jama_velika_raduha/3/148/738">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_mali_grintovec_cez_kozjek_in_dolgo_njivo/3/356/493">Mače - Mali Grintovec (čez Kozjek in Dolgo njivo)</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_cez_kozjek_in_dolgo_njivo/3/356/493">3 h 30 min</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_cez_kozjek_in_dolgo_njivo/3/356/493">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bukovnik_velika_raduha_cez_durce/3/148/1196">Bukovnik - Velika Raduha (čez Durce)</a></td><td class="tdG"><a href="/izlet/bukovnik_velika_raduha_cez_durce/3/148/1196">2 h 50 min</a></td><td class="tdG"><a href="/izlet/bukovnik_velika_raduha_cez_durce/3/148/1196">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lasko_mali_grintovec_cez_baseljski_vrh/3/356/991">Laško - Mali Grintovec (čez Bašeljski vrh)</a></td><td class="tdG"><a href="/izlet/lasko_mali_grintovec_cez_baseljski_vrh/3/356/991">3 h 30 min</a></td><td class="tdG"><a href="/izlet/lasko_mali_grintovec_cez_baseljski_vrh/3/356/991">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/radusnik_velika_raduha/3/148/3004">Radušnik - Velika Raduha</a></td><td class="tdG"><a href="/izlet/radusnik_velika_raduha/3/148/3004">3 h 10 min</a></td><td class="tdG"><a href="/izlet/radusnik_velika_raduha/3/148/3004">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_mali_grintovec_po_dolini_suhe/3/356/2665">Mače - Mali Grintovec (po dolini Suhe)</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_po_dolini_suhe/3/356/2665">3 h 15 min</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_po_dolini_suhe/3/356/2665">lahko brezpotje</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/luce_velika_raduha/3/148/2551">Luče - Velika Raduha</a></td><td class="tdG"><a href="/izlet/luce_velika_raduha/3/148/2551">4 h 40 min</a></td><td class="tdG"><a href="/izlet/luce_velika_raduha/3/148/2551">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/mace_mali_grintovec_macenska_pot_in_cez_dolgo_njivo/3/356/5403">Mače - Mali Grintovec (Mačenska pot in čez Dolgo njivo)</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_macenska_pot_in_cez_dolgo_njivo/3/356/5403">3 h 30 min</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_macenska_pot_in_cez_dolgo_njivo/3/356/5403">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rogovilec_velika_raduha_mimo_grohata_po_plezalni_poti/3/148/2299">Rogovilec - Velika Raduha (mimo Grohata po plezalni poti)</a></td><td class="tdG"><a href="/izlet/rogovilec_velika_raduha_mimo_grohata_po_plezalni_poti/3/148/2299">4 h 30 min</a></td><td class="tdG"><a href="/izlet/rogovilec_velika_raduha_mimo_grohata_po_plezalni_poti/3/148/2299">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lasko_mali_grintovec_mimo_doma_na_kaliscu/3/356/5700">Laško - Mali Grintovec (mimo Doma na Kališču)</a></td><td class="tdG"><a href="/izlet/lasko_mali_grintovec_mimo_doma_na_kaliscu/3/356/5700">3 h 15 min</a></td><td class="tdG"><a href="/izlet/lasko_mali_grintovec_mimo_doma_na_kaliscu/3/356/5700">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_vodol_velika_raduha/3/148/3375">Planina Vodol - Velika Raduha</a></td><td class="tdG"><a href="/izlet/planina_vodol_velika_raduha/3/148/3375">2 h 40 min</a></td><td class="tdG"><a href="/izlet/planina_vodol_velika_raduha/3/148/3375">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/baselj_mali_grintovec_cez_baseljski_vrh/3/356/5406">Bašelj - Mali Grintovec (čez Bašeljski vrh)</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_cez_baseljski_vrh/3/356/5406">4 h</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_cez_baseljski_vrh/3/356/5406">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rogovilec_velika_raduha_preko_planine_arta/3/148/2291">Rogovilec - Velika Raduha (preko planine Arta)</a></td><td class="tdG"><a href="/izlet/rogovilec_velika_raduha_preko_planine_arta/3/148/2291">4 h 30 min</a></td><td class="tdG"><a href="/izlet/rogovilec_velika_raduha_preko_planine_arta/3/148/2291">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_mali_grintovec_mimo_doma_na_kaliscu/3/356/5699">Mače - Mali Grintovec (mimo Doma na Kališču)</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_mimo_doma_na_kaliscu/3/356/5699">3 h 45 min</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_mimo_doma_na_kaliscu/3/356/5699">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_kosmaceve_rastke_velika_raduha/3/148/3374">Planina Kosmačeve Rastke - Velika Raduha</a></td><td class="tdG"><a href="/izlet/planina_kosmaceve_rastke_velika_raduha/3/148/3374">2 h 55 min</a></td><td class="tdG"><a href="/izlet/planina_kosmaceve_rastke_velika_raduha/3/148/3374">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kanonir_mali_grintovec_cez_licjanovec/3/356/5692">Kanonir - Mali Grintovec (čez Licjanovec)</a></td><td class="tdG"><a href="/izlet/kanonir_mali_grintovec_cez_licjanovec/3/356/5692">4 h 10 min</a></td><td class="tdG"><a href="/izlet/kanonir_mali_grintovec_cez_licjanovec/3/356/5692">delno zahtevna označena pot, delno zahtevna neoznačena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bistra_velika_raduha/3/148/2558"> Bistra - Velika Raduha</a></td><td class="tdG"><a href="/izlet/bistra_velika_raduha/3/148/2558">4 h 55 min</a></td><td class="tdG"><a href="/izlet/bistra_velika_raduha/3/148/2558">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_kokra_mali_grintovec/3/356/5413">Spodnja Kokra - Mali Grintovec</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_mali_grintovec/3/356/5413">4 h 35 min</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_mali_grintovec/3/356/5413">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnja_kokra_mali_grintovec_cez_babo/3/356/5414">Spodnja Kokra - Mali Grintovec (čez Babo)</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_mali_grintovec_cez_babo/3/356/5414">4 h 45 min</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_mali_grintovec_cez_babo/3/356/5414">lahka neoznačena steza, lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_bolnice_kosuta_in_cez_baseljski_vrh/3/356/5408">Bašelj - Mali Grintovec (mimo bolnice Košuta in čez Bašeljski vrh)</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_bolnice_kosuta_in_cez_baseljski_vrh/3/356/5408">4 h 10 min</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_bolnice_kosuta_in_cez_baseljski_vrh/3/356/5408">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_sv_lovrenca_in_cez_baseljski_vrh/3/356/5410">Bašelj - Mali Grintovec (mimo sv. Lovrenca in čez Bašeljski vrh)</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_sv_lovrenca_in_cez_baseljski_vrh/3/356/5410">5 h 5 min</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_sv_lovrenca_in_cez_baseljski_vrh/3/356/5410">delno zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/povlje_mali_grintovec_cez_baseljski_vrh/3/356/5404">Povlje - Mali Grintovec (čez Bašeljski vrh)</a></td><td class="tdG"><a href="/izlet/povlje_mali_grintovec_cez_baseljski_vrh/3/356/5404">4 h 45 min</a></td><td class="tdG"><a href="/izlet/povlje_mali_grintovec_cez_baseljski_vrh/3/356/5404">delno zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lasko_mali_grintovec_mimo_sv_lovrenca/3/356/5407">Laško - Mali Grintovec (mimo sv. Lovrenca)</a></td><td class="tdG"><a href="/izlet/lasko_mali_grintovec_mimo_sv_lovrenca/3/356/5407">4 h 30 min</a></td><td class="tdG"><a href="/izlet/lasko_mali_grintovec_mimo_sv_lovrenca/3/356/5407">delno zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/babni_vrt_mali_grintovec_mimo_sv_lovrenca_in_cez_baseljski_vrh/3/356/5409">Babni Vrt - Mali Grintovec (mimo sv. Lovrenca in čez Bašeljski vrh)</a></td><td class="tdG"><a href="/izlet/babni_vrt_mali_grintovec_mimo_sv_lovrenca_in_cez_baseljski_vrh/3/356/5409">5 h</a></td><td class="tdG"><a href="/izlet/babni_vrt_mali_grintovec_mimo_sv_lovrenca_in_cez_baseljski_vrh/3/356/5409">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_doma_na_kaliscu/3/356/5702">Bašelj - Mali Grintovec (mimo Doma na Kališču)</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_doma_na_kaliscu/3/356/5702">3 h 45 min</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_doma_na_kaliscu/3/356/5702">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_bolnice_kosuta_in_doma_na_kaliscu/3/356/5706">Bašelj - Mali Grintovec (mimo bolnice Košuta in Doma na Kališču)</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_bolnice_kosuta_in_doma_na_kaliscu/3/356/5706">3 h 55 min</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_bolnice_kosuta_in_doma_na_kaliscu/3/356/5706">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/povlje_mali_grintovec/3/356/5703">Povlje - Mali Grintovec</a></td><td class="tdG"><a href="/izlet/povlje_mali_grintovec/3/356/5703">4 h 30 min</a></td><td class="tdG"><a href="/izlet/povlje_mali_grintovec/3/356/5703">delno zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mhe_zabukovec_mali_grintovec/3/356/5697">MHE Zabukovec - Mali Grintovec</a></td><td class="tdG"><a href="/izlet/mhe_zabukovec_mali_grintovec/3/356/5697">3 h 50 min</a></td><td class="tdG"><a href="/izlet/mhe_zabukovec_mali_grintovec/3/356/5697">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/mace_mali_grintovec_mimo_sv_miklavza_in_doma_na_kaliscu/3/356/5704">Mače - Mali Grintovec (mimo sv. Miklavža in Doma na Kališču)</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_mimo_sv_miklavza_in_doma_na_kaliscu/3/356/5704">4 h</a></td><td class="tdG"><a href="/izlet/mace_mali_grintovec_mimo_sv_miklavza_in_doma_na_kaliscu/3/356/5704">lahka neoznačena steza, lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_sv_lovrenca/3/356/5701">Bašelj - Mali Grintovec (mimo sv. Lovrenca)</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_sv_lovrenca/3/356/5701">4 h 50 min</a></td><td class="tdG"><a href="/izlet/baselj_mali_grintovec_mimo_sv_lovrenca/3/356/5701">delno zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/babni_vrt_mali_grintovec_mimo_sv_lovrenca/3/356/5705">Babni Vrt - Mali Grintovec (mimo sv. Lovrenca)</a></td><td class="tdG"><a href="/izlet/babni_vrt_mali_grintovec_mimo_sv_lovrenca/3/356/5705">4 h 45 min</a></td><td class="tdG"><a href="/izlet/babni_vrt_mali_grintovec_mimo_sv_lovrenca/3/356/5705">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
 
 </table>
 

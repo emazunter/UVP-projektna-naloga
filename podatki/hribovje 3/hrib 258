@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča na Kriški gori</title>
-        <meta name="description" content="Natančen opis koče Koča na Kriški gori in vseh pristopov na Koča na Kriški gori. Koča se nahaja na zahodni strani Kriške gore. Ker na južno in zahodno stran od k." />
+        <title>Grad Kamen</title>
+        <meta name="description" content="Natančen opis gore Grad Kamen in vseh pristopov na Grad Kamen. Grad Kamen se nahaja na manjši vzpetini severovzhodno od Begunj pri vstopu v dol." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./121?gorovjeid=3&amp;id=121" id="form1">
+    <form method="post" action="./1146?gorovjeid=3&amp;id=1146" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_kriski_gori/3/121"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=121"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/castle_kamen/3/1146"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1146"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Koča na Kriški gori
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Grad Kamen
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(121);
+    gorast(1146);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča na Kriški gori</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Grad Kamen</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1471&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 620&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,0984'N&nbsp;/&nbsp;14°&nbsp;20,0010'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,9068'N&nbsp;/&nbsp;14°&nbsp;13,0470'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;5,90''N&nbsp;/&nbsp;14°&nbsp;20'&nbsp;0,06''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;54,41''N&nbsp;/&nbsp;14°&nbsp;13'&nbsp;2,82''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.35164°N&nbsp;/&nbsp;14.33335°E";
+                        document.getElementById("kf0").innerHTML = "46.38178°N&nbsp;/&nbsp;14.21745°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,35164°N,&nbsp;14,33335°E";
+                    document.getElementById("kf0").innerHTML = "46,38178°N,&nbsp;14,21745°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35164°N&nbsp;14,33335°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_kriski_gori/121"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,38178°N&nbsp;14,21745°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/grad_kamen/1146"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Kamen - Torek" href="/vreme_gora/grad_kamen/3/1146#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Kamen - Sreda" href="/vreme_gora/grad_kamen/3/1146#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Kamen - Četrtek" href="/vreme_gora/grad_kamen/3/1146#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kriški gori - Petek" href="/vreme_gora/koca_na_kriski_gori/3/121#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Kamen - Petek" href="/vreme_gora/grad_kamen/3/1146#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kriški gori - Sobota" href="/vreme_gora/koca_na_kriski_gori/3/121#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kriški gori - Nedelja" href="/vreme_gora/koca_na_kriski_gori/3/121#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kriški gori - Ponedeljek" href="/vreme_gora/koca_na_kriski_gori/3/121#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kriški gori - Torek" href="/vreme_gora/koca_na_kriski_gori/3/121#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Kamen - Sobota" href="/vreme_gora/grad_kamen/3/1146#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 959.861</div>
-<div class="g2"><b>Priljubljenost:</b> 100%&nbsp;(14.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=121" title="Število vpisov v vpisni knjigi">538</a></div>
+<div class="g2"><b>Ogledov:</b> 274.015</div>
+<div class="g2"><b>Priljubljenost:</b> 66%&nbsp;(1102.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">0</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Koča se nahaja na zahodni strani Kriške gore. Ker na južno in zahodno stran od koče ni gozda je lep razgled predvsem proti Gorenjski ravnini in v ozadju proti Julijskim Alpam. V bližini pa se lepo vidi Dobrča z Lešansko planino in Begunjščica. Med obema omenjenima vrhovoma pa se zadaj vidi Stol. Koča je v poletni sezoni stalno odprta v ostalih letnih časih pa ob sobotah, nedeljah in Praznikih. Pred kočo je veliko miz in klopi.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Grad Kamen se nahaja na manjši vzpetini severovzhodno od Begunj pri vstopu v dolino Drage. Grad, ki je bil zgrajen v 12. stoletju je danes delno obnovljen in zaščiten pred nadaljnjim propadanjem. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=121&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1146&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/planica_vzletisce_gozd/3/2987">Planica (vzletišče Gozd) (926m)</a>, <a class="moder" href="/gora/vrata/3/124">Vrata (1591m)</a>, <a class="moder" href="/gora/zavetisce_v_gozdu/3/120">Zavetišče v Gozdu (891m)</a>
+<a class="moder" href="/gora/dom_v_dragi/11/1145">Dom v Dragi (689m)</a>, <a class="moder" href="/gora/sveti_peter_nad_begunjami/3/1147">Sveti Peter nad Begunjami (839m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,49 +835,39 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_kriski_gori%2f3%2f121"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_kriski_gori%2f3%2f121"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_kriski_gori%2f3%2f121"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_kamen%2f3%2f1146"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_kamen%2f3%2f1146"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_kamen%2f3%2f1146"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koca_na_kriski_gori/121" title="Koča na Kriški gori 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.kriskaGora.jpg" /></a></div>
+<div><a href="/panorama/360/grad_kamen/1146" title="Grad Kamen 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.GradKamen.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_na_kriski_gori/411" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kriski_gori/411');"><img class="slikagm" alt="Koča na Kriški gori" src="//www.hribi.net/Gora/p7020015medium8ry.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_kamen/3869" onclick="event.preventDefault(); window.open('/slika_gora/grad_kamen/3869');"><img class="slikagm" alt="Grad Kamen" src="//www.hribi.net/slike1/P126080713608.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_kriski_gori/412" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kriski_gori/412');"><img class="slikagm" alt="Koča na Kriški gori" src="//www.hribi.net/Gora/p7020017medium4hz.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_kamen/3870" onclick="event.preventDefault(); window.open('/slika_gora/grad_kamen/3870');"><img class="slikagm" alt="Grad Kamen" src="//www.hribi.net/slike1/P126073913608.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_kriski_gori/413" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kriski_gori/413');"><img class="slikagm" alt="Koča na Kriški gori" src="//www.hribi.net/Gora/p7020018medium7zv.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_kamen/3871" onclick="event.preventDefault(); window.open('/slika_gora/grad_kamen/3871');"><img class="slikagm" alt="Grad Kamen" src="//www.hribi.net/slike1/P126074113608.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_kriski_gori/414" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kriski_gori/414');"><img class="slikagm" alt="Koča na Kriški gori" src="//www.hribi.net/Gora/p7020021medium2fv.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_kamen/3872" onclick="event.preventDefault(); window.open('/slika_gora/grad_kamen/3872');"><img class="slikagm" alt="Grad Kamen" src="//www.hribi.net/slike1/P126075513608.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_kriski_gori/415" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kriski_gori/415');"><img class="slikagm" alt="Koča na Kriški gori" src="//www.hribi.net/Gora/p7020022medium8ic.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_kamen/3873" onclick="event.preventDefault(); window.open('/slika_gora/grad_kamen/3873');"><img class="slikagm" alt="Grad Kamen" src="//www.hribi.net/slike1/P126075913608.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_kriski_gori/416" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kriski_gori/416');"><img class="slikagm" alt="Koča na Kriški gori" src="//www.hribi.net/Gora/p7020041medium0al.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_kamen/3874" onclick="event.preventDefault(); window.open('/slika_gora/grad_kamen/3874');"><img class="slikagm" alt="Grad Kamen" src="//www.hribi.net/slike1/P126076313608.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_kriski_gori/5829" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kriski_gori/5829');"><img class="slikagm" alt="Koča na Kriški gori" src="//www.hribi.net/slike1/P701004430800.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kriski_gori/5833" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kriski_gori/5833');"><img class="slikagm" alt="Koča na Kriški gori" src="//www.hribi.net/slike1/TolstiVrh 114120000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_kriski_gori/9729" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kriski_gori/9729');"><img class="slikagm" alt="Koča na Kriški gori" src="//www.hribi.net/slike1/KriskaGora 098427680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_kamen/3875" onclick="event.preventDefault(); window.open('/slika_gora/grad_kamen/3875');"><img class="slikagm" alt="Grad Kamen" src="//www.hribi.net/slike1/P126077013608.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Ostalo/z_b_kategorijo_do_vrha/7/531"><img class="slikagmv" alt="Z B kategorijo do vrha" src="https://img.youtube.com/vi/K9cQY8nPths/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/kriska_gora/8/497"><img class="slikagmv" alt="Kriška gora" src="https://img.youtube.com/vi/IirkZWMZBFU/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_s_kriske_gore/8/488"><img class="slikagmv" alt="Polet s Kriške gore" src="https://img.youtube.com/vi/yUxz6Vfy1vU/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -935,7 +925,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=121&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1146&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -944,24 +934,6 @@ var sortT = 0;
     </script>
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gozd_koca_na_kriski_gori_lazja_pot/3/121/85">Gozd - Koča na Kriški gori (lažja pot)</a></td><td class="tdG"><a href="/izlet/gozd_koca_na_kriski_gori_lazja_pot/3/121/85">1 h 30 min</a></td><td class="tdG"><a href="/izlet/gozd_koca_na_kriski_gori_lazja_pot/3/121/85">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gozd_koca_na_kriski_gori_strma_pot/3/121/86">Gozd - Koča na Kriški gori (strma pot)</a></td><td class="tdG"><a href="/izlet/gozd_koca_na_kriski_gori_strma_pot/3/121/86">1 h 30 min</a></td><td class="tdG"><a href="/izlet/gozd_koca_na_kriski_gori_strma_pot/3/121/86">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trzic_koca_na_kriski_gori/3/121/2172">Tržič - Koča na Kriški gori</a></td><td class="tdG"><a href="/izlet/trzic_koca_na_kriski_gori/3/121/2172">2 h 15 min</a></td><td class="tdG"><a href="/izlet/trzic_koca_na_kriski_gori/3/121/2172">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/golnik_koca_na_kriski_gori/3/121/2529">Golnik - Koča na Kriški gori</a></td><td class="tdG"><a href="/izlet/golnik_koca_na_kriski_gori/3/121/2529">2 h 30 min</a></td><td class="tdG"><a href="/izlet/golnik_koca_na_kriski_gori/3/121/2529">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gozd_koca_na_kriski_gori_ovcja_pot/3/121/1116"> Gozd - Koča na Kriški gori (Ovčja pot)</a></td><td class="tdG"><a href="/izlet/gozd_koca_na_kriski_gori_ovcja_pot/3/121/1116">1 h 30 min</a></td><td class="tdG"><a href="/izlet/gozd_koca_na_kriski_gori_ovcja_pot/3/121/1116">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/krize_koca_na_kriski_gori_lazja_pot/3/121/4917">Križe - Koča na Kriški gori (lažja pot)</a></td><td class="tdG"><a href="/izlet/krize_koca_na_kriski_gori_lazja_pot/3/121/4917">2 h 45 min</a></td><td class="tdG"><a href="/izlet/krize_koca_na_kriski_gori_lazja_pot/3/121/4917">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/krize_koca_na_kriski_gori_strma_pot/3/121/4911">Križe - Koča na Kriški gori (strma pot)</a></td><td class="tdG"><a href="/izlet/krize_koca_na_kriski_gori_strma_pot/3/121/4911">2 h 30 min</a></td><td class="tdG"><a href="/izlet/krize_koca_na_kriski_gori_strma_pot/3/121/4911">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/krize_koca_na_kriski_gori_ovcja_pot/3/121/4916">Križe - Koča na Kriški gori (Ovčja pot)</a></td><td class="tdG"><a href="/izlet/krize_koca_na_kriski_gori_ovcja_pot/3/121/4916">2 h 45 min</a></td><td class="tdG"><a href="/izlet/krize_koca_na_kriski_gori_ovcja_pot/3/121/4916">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zalog_koca_na_kriski_gori/3/121/7474">Zalog - Koča na Kriški gori</a></td><td class="tdG"><a href="/izlet/zalog_koca_na_kriski_gori/3/121/7474">2 h 50 min</a></td><td class="tdG"><a href="/izlet/zalog_koca_na_kriski_gori/3/121/7474">lahka označena pot</a></td></tr>
 
 </table>
 

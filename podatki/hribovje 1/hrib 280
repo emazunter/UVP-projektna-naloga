@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Ajdovščina</title>
-        <meta name="description" content="Natančen opis gore Ajdovščina in vseh pristopov na Ajdovščina. Ajdovščina je 804 metre visok vrh, ki se nahaja nad Rodikom in Slopami. Na poraš." />
+        <title>Lopar</title>
+        <meta name="description" content="Natančen opis gore Lopar in vseh pristopov na Lopar. Lopar je naselje v mestni občini Koper, ki se nahaja na slemenu nad gornjim delo." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2566?gorovjeid=26&amp;id=2566" id="form1">
+    <form method="post" action="./2944?gorovjeid=26&amp;id=2944" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ajdovscina/26/2566"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2566"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lopar/26/2944"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2944"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Ajdovščina
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Lopar
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2566);
+    gorast(2944);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Ajdovščina</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Lopar</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 804&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 303&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;37,4520'N&nbsp;/&nbsp;13°&nbsp;59,4300'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;30,4740'N&nbsp;/&nbsp;13°&nbsp;49,4520'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;37'&nbsp;27,12''N&nbsp;/&nbsp;13°&nbsp;59'&nbsp;25,80''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;30'&nbsp;28,44''N&nbsp;/&nbsp;13°&nbsp;49'&nbsp;27,12''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.6242°N&nbsp;/&nbsp;13.9905°E";
+                        document.getElementById("kf0").innerHTML = "45.5079°N&nbsp;/&nbsp;13.8242°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,6242°N,&nbsp;13,9905°E";
+                    document.getElementById("kf0").innerHTML = "45,5079°N,&nbsp;13,8242°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,6242°N&nbsp;13,9905°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ajdovscina/2566"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,5079°N&nbsp;13,8242°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lopar/2944"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Lopar - Torek" href="/vreme_gora/lopar/26/2944#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Lopar - Sreda" href="/vreme_gora/lopar/26/2944#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Lopar - Četrtek" href="/vreme_gora/lopar/26/2944#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Ajdovščina - Petek" href="/vreme_gora/ajdovscina/26/2566#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lopar - Petek" href="/vreme_gora/lopar/26/2944#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Ajdovščina - Sobota" href="/vreme_gora/ajdovscina/26/2566#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Ajdovščina - Nedelja" href="/vreme_gora/ajdovscina/26/2566#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Ajdovščina - Ponedeljek" href="/vreme_gora/ajdovscina/26/2566#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Ajdovščina - Torek" href="/vreme_gora/ajdovscina/26/2566#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lopar - Sobota" href="/vreme_gora/lopar/26/2944#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,9 +743,9 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 7.870</div>
-<div class="g2"><b>Priljubljenost:</b> 37%&nbsp;(2073.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Ogledov:</b> 1.600</div>
+<div class="g2"><b>Priljubljenost:</b> 25%&nbsp;(2474.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Ajdovščina je 804 metre visok vrh, ki se nahaja nad Rodikom in Slopami. Na poraščenem vrhu danes stoji kovinski kontejner, vidne pa so še ruševine nekdanje naseljenosti vrha in sicer iz 1. in 2. stoletja našega štetja.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Lopar je naselje v mestni občini Koper, ki se nahaja na slemenu nad gornjim delom doline Rokave. V vasi se nahaja cerkev sv. Jerufa, Hiša od Bardinca, Hiša od čuda, Kulturni dom Lopar. Z razglednega dela naselja se nam odpre lep pogled proti morju in okoliškim hribom.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2566&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2944&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/marezige/26/2912">Marezige (284m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,26 +835,30 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bazovica___basovizza/1649">Bazovica / Basovizza</a>, <a class="moder" href="/spletna_kamera/cebulovica/335">Čebulovica</a>, <a class="moder" href="/spletna_kamera/divaca/3260">Divača</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kokos/4324">Kokoš</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/letalisce_divaca/2203">Letališče Divača</a>, <a class="moder" href="/spletna_kamera/lipica/1701">Lipica</a>, <a class="moder" href="/spletna_kamera/razdrto/332">Razdrto</a>, <a class="moder" href="/spletna_kamera/senozeska_brda/1423">Senožeška brda</a>, <a class="moder" href="/spletna_kamera/sezana/4920">Sežana</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>, <a class="moder" href="/spletna_kamera/zirje_pri_sezani/1166">Žirje pri Sežani</a>
+<a class="moder" href="/spletna_kamera/ankaran/4356">Ankaran</a>, <a class="moder" href="/spletna_kamera/bertoki/4921">Bertoki</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/izola/1000">Izola</a>, <a class="moder" href="/spletna_kamera/izola_belvedere/3451">Izola (Belvedere)</a>, <a class="moder" href="/spletna_kamera/jagodje/4923">Jagodje</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/koper/3504">Koper</a>, <a class="moder" href="/spletna_kamera/koper_marina/4335">Koper (marina)</a>, <a class="moder" href="/spletna_kamera/koper_markovec/300">Koper (Markovec)</a>, <a class="moder" href="/spletna_kamera/koper_panoramski_pogled/4268">Koper (panoramski pogled)</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/lazaret/1699">Lazaret</a>, <a class="moder" href="/spletna_kamera/luka_koper/4329">Luka Koper</a>, <a class="moder" href="/spletna_kamera/milje___muggia/1639">Milje / Muggia</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/spodnje_skofije/1080">Spodnje Škofije</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fajdovscina%2f26%2f2566"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fajdovscina%2f26%2f2566"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fajdovscina%2f26%2f2566"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flopar%2f26%2f2944"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flopar%2f26%2f2944"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flopar%2f26%2f2944"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/ajdovscina/14054" onclick="event.preventDefault(); window.open('/slika_gora/ajdovscina/14054');"><img class="slikagm" alt="Ajdovščina" src="//www.hribi.net/slike1/DSCN5562217350.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lopar/17098" onclick="event.preventDefault(); window.open('/slika_gora/lopar/17098');"><img class="slikagm" alt="Lopar" src="//slike.hribi.net/slike4/2_4917589053793_DSCN9749.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/ajdovscina/14055" onclick="event.preventDefault(); window.open('/slika_gora/ajdovscina/14055');"><img class="slikagm" alt="Ajdovščina" src="//www.hribi.net/slike1/DSCN5564217350.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lopar/17099" onclick="event.preventDefault(); window.open('/slika_gora/lopar/17099');"><img class="slikagm" alt="Lopar" src="//slike.hribi.net/slike4/2_3267589053788_DSCN9748.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/ajdovscina/14056" onclick="event.preventDefault(); window.open('/slika_gora/ajdovscina/14056');"><img class="slikagm" alt="Ajdovščina" src="//www.hribi.net/slike1/DSCN5567217350.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lopar/17100" onclick="event.preventDefault(); window.open('/slika_gora/lopar/17100');"><img class="slikagm" alt="Lopar" src="//slike.hribi.net/slike4/2_2310589053784_DSCN9747.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/ajdovscina/14057" onclick="event.preventDefault(); window.open('/slika_gora/ajdovscina/14057');"><img class="slikagm" alt="Ajdovščina" src="//www.hribi.net/slike1/DSCN5563217350.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lopar/17101" onclick="event.preventDefault(); window.open('/slika_gora/lopar/17101');"><img class="slikagm" alt="Lopar" src="//slike.hribi.net/slike4/2_2898588063846_DSCN9654.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/ajdovscina/14058" onclick="event.preventDefault(); window.open('/slika_gora/ajdovscina/14058');"><img class="slikagm" alt="Ajdovščina" src="//www.hribi.net/slike1/DSCN5565217350.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lopar/17102" onclick="event.preventDefault(); window.open('/slika_gora/lopar/17102');"><img class="slikagm" alt="Lopar" src="//slike.hribi.net/slike4/2_1280588063842_DSCN9651.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/lopar/17103" onclick="event.preventDefault(); window.open('/slika_gora/lopar/17103');"><img class="slikagm" alt="Lopar" src="//slike.hribi.net/slike4/2_1783589050085_DSCN9657.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/lopar/17104" onclick="event.preventDefault(); window.open('/slika_gora/lopar/17104');"><img class="slikagm" alt="Lopar" src="//slike.hribi.net/slike4/2_4706589050097_DSCN9661.JPG" /></a>
     
 </div>
 
@@ -918,7 +922,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2566&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2944&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -928,7 +932,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rodik_ajdovscina/26/2566/5639">Rodik - Ajdovščina</a></td><td class="tdG"><a href="/izlet/rodik_ajdovscina/26/2566/5639"> 40 min</a></td><td class="tdG"><a href="/izlet/rodik_ajdovscina/26/2566/5639">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lopar_hisa_od_bardinca_lopar_po_poti_oslovega_hrbta/26/2944/6915">Lopar (Hiša od Bardinca) - Lopar (po poti oslovega hrbta)</a></td><td class="tdG"><a href="/izlet/lopar_hisa_od_bardinca_lopar_po_poti_oslovega_hrbta/26/2944/6915">2 h 30 min</a></td><td class="tdG"><a href="/izlet/lopar_hisa_od_bardinca_lopar_po_poti_oslovega_hrbta/26/2944/6915">lahka neoznačena steza</a></td></tr>
 
 </table>
 

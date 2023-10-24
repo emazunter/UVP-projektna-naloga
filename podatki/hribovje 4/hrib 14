@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kordeževa glava (Peca)</title>
-        <meta name="description" content="Natančen opis gore Kordeževa glava (Peca) in vseh pristopov na Kordeževa glava (Peca). Kordeževa glava bolj znana pod imenom Peca je najvišji vrh pogorja Pece. Nahaja ." />
+        <title>Dovška Mala Kepa</title>
+        <meta name="description" content="Natančen opis gore Dovška Mala Kepa in vseh pristopov na Dovška Mala Kepa. Manj znan vrh se nahaja med Kepo in Dovško Babo. Z vrha je lep razgled proti sos." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./665?gorovjeid=11&amp;id=665" id="form1">
+    <form method="post" action="./478?gorovjeid=11&amp;id=478" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/petzen_kordeschkopf_peca_kordezeva_glava/11/665"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=665"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dovska_mala_kepa/11/478"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=478"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Kordeževa glava (Peca)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Dovška Mala Kepa
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(665);
+    gorast(478);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kordeževa glava (Peca)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Dovška Mala Kepa</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 2125&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2077&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,0138'N&nbsp;/&nbsp;14°&nbsp;46,7958'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,1854'N&nbsp;/&nbsp;13°&nbsp;57,5700'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;0,83''N&nbsp;/&nbsp;14°&nbsp;46'&nbsp;47,75''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;11,12''N&nbsp;/&nbsp;13°&nbsp;57'&nbsp;34,20''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.50023°N&nbsp;/&nbsp;14.77993°E";
+                        document.getElementById("kf0").innerHTML = "46.50309°N&nbsp;/&nbsp;13.9595°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,50023°N,&nbsp;14,77993°E";
+                    document.getElementById("kf0").innerHTML = "46,50309°N,&nbsp;13,9595°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,50023°N&nbsp;14,77993°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kordezeva_glava_peca/665"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,50309°N&nbsp;13,9595°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dovska_mala_kepa/478"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Dovška Mala Kepa - Torek" href="/vreme_gora/dovska_mala_kepa/11/478#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Dovška Mala Kepa - Sreda" href="/vreme_gora/dovska_mala_kepa/11/478#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Dovška Mala Kepa - Četrtek" href="/vreme_gora/dovska_mala_kepa/11/478#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kordeževa glava (Peca) - Petek" href="/vreme_gora/kordezeva_glava_peca/11/665#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dovška Mala Kepa - Petek" href="/vreme_gora/dovska_mala_kepa/11/478#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kordeževa glava (Peca) - Sobota" href="/vreme_gora/kordezeva_glava_peca/11/665#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kordeževa glava (Peca) - Nedelja" href="/vreme_gora/kordezeva_glava_peca/11/665#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kordeževa glava (Peca) - Ponedeljek" href="/vreme_gora/kordezeva_glava_peca/11/665#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kordeževa glava (Peca) - Torek" href="/vreme_gora/kordezeva_glava_peca/11/665#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dovška Mala Kepa - Sobota" href="/vreme_gora/dovska_mala_kepa/11/478#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 860.820</div>
-<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(27.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">22</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=665" title="Število vpisov v vpisni knjigi">16</a></div>
+<div class="g2"><b>Ogledov:</b> 423.102</div>
+<div class="g2"><b>Priljubljenost:</b> 83%&nbsp;(563.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kordeževa glava bolj znana pod imenom Peca je najvišji vrh pogorja Pece. Nahaja se na meji z Avstrijo nad Mežiško dolino na Koroškem. Slovenci Peco poznamo predvsem zaradi pripovedke o kralju Matjažu in njegovi votlini na slovenski strani gore, Avstrijci pa imajo visoko v zgornja pobočja speljane žičnice tako, da jo poznajo ljubitelji smučanja. Ker v bližini Pece ni višjih vrhov je z nje lep razgled. Lepo se vidi bližnja Uršlja gora, Raduha in greben Olševe. Prav tako se vidijo najvišji vrhovi Kamniških in Savinjskih Alp. Na severno stran pa se vidijo avstrijske Alpe, kjer so nam najbližje Stubalpe-Packalpe in Seetaler Alpe.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Manj znan vrh se nahaja med Kepo in Dovško Babo. Z vrha je lep razgled proti sosednji Kepi in Gubnemu. Lepo se vidi tudi del Julijskih Alp predvsem gore nad Mojstrano in Gozd-Martuljkom. Proti severu pa se vidi Avstrija s svojo Dravsko dolino.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=665&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=478&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dom_na_peci/11/670">Dom na Peci (1665m)</a>, <a class="moder" href="/gora/koncnikov_vrh/11/1276">Končnikov vrh (2109m)</a>, <a class="moder" href="/gora/mala_peca/11/672">Mala Peca (1731m)</a>, <a class="moder" href="/gora/velika_glava/11/1277">Velika glava (2077m)</a>, <a class="moder" href="/gora/votlina_kralja_matjaza/11/671">Votlina Kralja Matjaža (1670m)</a>
+<a class="moder" href="/gora/gubno/11/479">Gubno (2035m)</a>, <a class="moder" href="/gora/kepa/11/97">Kepa (2143m)</a>, <a class="moder" href="/gora/koca_berta___bertahutte/11/2972">Koča Berta / Bertahütte (1527m)</a>, <a class="moder" href="/gora/lovska_koca_na_brvogih/11/1519">Lovska koča na Brvogih (1425m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,51 +835,35 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/ravne_na_koroskem/1462">Ravne na Koroškem</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>
+<a class="moder" href="/spletna_kamera/basko_jezero___faakersee/253">Baško jezero / Faakersee</a>, <a class="moder" href="/spletna_kamera/beljak___villach/254">Beljak / Villach</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/wernberg_-_duel/4621">Wernberg - Duel</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkordezeva_glava_peca%2f11%2f665"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkordezeva_glava_peca%2f11%2f665"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkordezeva_glava_peca%2f11%2f665"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdovska_mala_kepa%2f11%2f478"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdovska_mala_kepa%2f11%2f478"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdovska_mala_kepa%2f11%2f478"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kordezeva_glava_peca/665" title="Kordeževa glava (Peca) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.27499714075kordezeva_glava.jpg" /></a></div>
+<div><a href="/panorama/360/dovska_mala_kepa/478" title="Dovška Mala Kepa 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.mKepa.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/2030" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/2030');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//www.hribi.net/sliketemp/Peca_31_10_2006 0614060689.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_mala_kepa/1205" onclick="event.preventDefault(); window.open('/slika_gora/dovska_mala_kepa/1205');"><img class="slikagm" alt="Dovška Mala Kepa" src="//www.hribi.net/Gora/p1010214mediumsx6.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/2036" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/2036');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//www.hribi.net/sliketemp/Peca_31_10_2006 1054060697.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_mala_kepa/1206" onclick="event.preventDefault(); window.open('/slika_gora/dovska_mala_kepa/1206');"><img class="slikagm" alt="Dovška Mala Kepa" src="//www.hribi.net/Gora/p1010246mediumyt3.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/2037" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/2037');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//www.hribi.net/sliketemp/Peca_31_10_2006 0984060698.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_mala_kepa/1228" onclick="event.preventDefault(); window.open('/slika_gora/dovska_mala_kepa/1228');"><img class="slikagm" alt="Dovška Mala Kepa" src="//www.hribi.net/Gora/p1010256mediumki4.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/2098" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/2098');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//www.hribi.net/slike1/P819013213440.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_mala_kepa/17412" onclick="event.preventDefault(); window.open('/slika_gora/dovska_mala_kepa/17412');"><img class="slikagm" alt="Dovška Mala Kepa" src="//slike.hribi.net/slike4/2_1209593368908_DSCN4593.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/3838" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/3838');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//www.hribi.net/slike1/P111002863720.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/3848" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/3848');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//www.hribi.net/sliketemp/P113016748076975818178.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/4414" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/4414');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//www.hribi.net/slike1/P6130232351648.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/4415" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/4415');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//www.hribi.net/slike1/P6130223351648.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/5908" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/5908');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//www.hribi.net/slike1/P5250183618800.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/16866" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/16866');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//slike.hribi.net/slike4/2_290583006264_DSCN3730.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/16867" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/16867');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//slike.hribi.net/slike4/2_1255583006089_DSCN3714.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kordezeva_glava_peca/16868" onclick="event.preventDefault(); window.open('/slika_gora/kordezeva_glava_peca/16868');"><img class="slikagm" alt="Kordeževa glava (Peca)" src="//slike.hribi.net/slike4/2_1391582192854_DSCN3733.JPG" /></a>
+        <a target="_blank" href="/slika_gora/dovska_mala_kepa/17413" onclick="event.preventDefault(); window.open('/slika_gora/dovska_mala_kepa/17413');"><img class="slikagm" alt="Dovška Mala Kepa" src="//slike.hribi.net/slike4/2_0705593276605_DSCN4589.JPG" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/kordezeva_glava/3/717"><img class="slikagmv" alt="Kordeževa glava" src="https://img.youtube.com/vi/UsYxNqjZYbk/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -937,7 +921,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=665&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=478&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -947,49 +931,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jakobe_kordezeva_glava_peca_lahka_pot/11/665/2554">Jakobe - Kordeževa glava (Peca) (lahka pot)</a></td><td class="tdG"><a href="/izlet/jakobe_kordezeva_glava_peca_lahka_pot/11/665/2554">2 h 15 min</a></td><td class="tdG"><a href="/izlet/jakobe_kordezeva_glava_peca_lahka_pot/11/665/2554">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/jakobe_kordezeva_glava_peca_plezalna_pot/11/665/2555">Jakobe - Kordeževa glava (Peca) (plezalna pot)</a></td><td class="tdG"><a href="/izlet/jakobe_kordezeva_glava_peca_plezalna_pot/11/665/2555">2 h 15 min</a></td><td class="tdG"><a href="/izlet/jakobe_kordezeva_glava_peca_plezalna_pot/11/665/2555">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rudnik_v_topli_kordezeva_glava_peca_mimo_doma_na_peci_-_lahka_pot/11/665/1190">Rudnik v Topli - Kordeževa glava (Peca) (mimo Doma na Peci - lahka pot)</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_kordezeva_glava_peca_mimo_doma_na_peci_-_lahka_pot/11/665/1190">3 h 30 min</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_kordezeva_glava_peca_mimo_doma_na_peci_-_lahka_pot/11/665/1190">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rudnik_v_topli_kordezeva_glava_peca_cez_knipsovo_sedlo/11/665/1191">Rudnik v Topli - Kordeževa glava (Peca) (čez Knipsovo sedlo)</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_kordezeva_glava_peca_cez_knipsovo_sedlo/11/665/1191">2 h 45 min</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_kordezeva_glava_peca_cez_knipsovo_sedlo/11/665/1191">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/najberz_kordezeva_glava_peca_walter_mory_klettersteig/11/665/3347"> Najberž - Kordeževa glava (Peca) (Walter Mory Klettersteig)</a></td><td class="tdG"><a href="/izlet/najberz_kordezeva_glava_peca_walter_mory_klettersteig/11/665/3347">5 h 30 min</a></td><td class="tdG"><a href="/izlet/najberz_kordezeva_glava_peca_walter_mory_klettersteig/11/665/3347">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podpeca_mitnek_kordezeva_glava_peca_lahka_pot/11/665/4124">Podpeca (Mitnek) - Kordeževa glava (Peca) (lahka pot)</a></td><td class="tdG"><a href="/izlet/podpeca_mitnek_kordezeva_glava_peca_lahka_pot/11/665/4124">4 h 15 min</a></td><td class="tdG"><a href="/izlet/podpeca_mitnek_kordezeva_glava_peca_lahka_pot/11/665/4124">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_peco_koprein_petzen_kordezeva_glava_peca/11/665/1177">Pod Peco/Koprein Petzen - Kordeževa glava (Peca)</a></td><td class="tdG"><a href="/izlet/pod_peco_koprein_petzen_kordezeva_glava_peca/11/665/1177">4 h</a></td><td class="tdG"><a href="/izlet/pod_peco_koprein_petzen_kordezeva_glava_peca/11/665/1177">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rudnik_v_topli_kordezeva_glava_peca_mimo_doma_na_peci_-_plezalna_pot/11/665/4123">Rudnik v Topli - Kordeževa glava (Peca) (mimo Doma na Peci - plezalna pot)</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_kordezeva_glava_peca_mimo_doma_na_peci_-_plezalna_pot/11/665/4123">3 h 30 min</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_kordezeva_glava_peca_mimo_doma_na_peci_-_plezalna_pot/11/665/4123">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/alpengasthof_siebenhutten_kordezeva_glava_peca/11/665/3349">Alpengasthof Siebenhütten - Kordeževa glava (Peca)</a></td><td class="tdG"><a href="/izlet/alpengasthof_siebenhutten_kordezeva_glava_peca/11/665/3349">2 h 15 min</a></td><td class="tdG"><a href="/izlet/alpengasthof_siebenhutten_kordezeva_glava_peca/11/665/3349">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podpeca_mitnek_kordezeva_glava_peca_plezalna_pot/11/665/4125">Podpeca (Mitnek) - Kordeževa glava (Peca) (plezalna pot)</a></td><td class="tdG"><a href="/izlet/podpeca_mitnek_kordezeva_glava_peca_plezalna_pot/11/665/4125">4 h 15 min</a></td><td class="tdG"><a href="/izlet/podpeca_mitnek_kordezeva_glava_peca_plezalna_pot/11/665/4125">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koprivna_kumer_kordezeva_glava_peca/11/665/3922">Koprivna (Kumer) - Kordeževa glava (Peca)</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_kordezeva_glava_peca/11/665/3922">3 h 25 min</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_kordezeva_glava_peca/11/665/3922">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/pod_peco___koprein-petzen_kordezeva_glava_peca_slovenska_pot/11/665/3911">Pod Peco / Koprein-Petzen - Kordeževa glava (Peca) (slovenska pot)</a></td><td class="tdG"><a href="/izlet/pod_peco___koprein-petzen_kordezeva_glava_peca_slovenska_pot/11/665/3911">3 h 50 min</a></td><td class="tdG"><a href="/izlet/pod_peco___koprein-petzen_kordezeva_glava_peca_slovenska_pot/11/665/3911">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/najberz_kordezeva_glava_peca/11/665/3348">Najberž - Kordeževa glava (Peca)</a></td><td class="tdG"><a href="/izlet/najberz_kordezeva_glava_peca/11/665/3348">5 h 15 min</a></td><td class="tdG"><a href="/izlet/najberz_kordezeva_glava_peca/11/665/3348">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/globasnica___globasnitz_kordezeva_glava_peca/11/665/3359">Globasnica / Globasnitz - Kordeževa glava (Peca)</a></td><td class="tdG"><a href="/izlet/globasnica___globasnitz_kordezeva_glava_peca/11/665/3359">6 h 30 min</a></td><td class="tdG"><a href="/izlet/globasnica___globasnitz_kordezeva_glava_peca/11/665/3359">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mezica_kordezeva_glava_peca_lahka_pot/11/665/6832">Mežica - Kordeževa glava (Peca) (lahka pot)</a></td><td class="tdG"><a href="/izlet/mezica_kordezeva_glava_peca_lahka_pot/11/665/6832">5 h</a></td><td class="tdG"><a href="/izlet/mezica_kordezeva_glava_peca_lahka_pot/11/665/6832">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mezica_kordezeva_glava_peca_plezalna_pot/11/665/6833">Mežica - Kordeževa glava (Peca) (plezalna pot)</a></td><td class="tdG"><a href="/izlet/mezica_kordezeva_glava_peca_plezalna_pot/11/665/6833">5 h</a></td><td class="tdG"><a href="/izlet/mezica_kordezeva_glava_peca_plezalna_pot/11/665/6833">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_na_pikovem_kordezeva_glava_peca_cez_preval_vrh_steng_in_po_plezalni_poti/11/665/6890">Koča na Pikovem - Kordeževa glava (Peca) (čez preval Vrh šteng in po plezalni poti)</a></td><td class="tdG"><a href="/izlet/koca_na_pikovem_kordezeva_glava_peca_cez_preval_vrh_steng_in_po_plezalni_poti/11/665/6890">3 h 45 min</a></td><td class="tdG"><a href="/izlet/koca_na_pikovem_kordezeva_glava_peca_cez_preval_vrh_steng_in_po_plezalni_poti/11/665/6890">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/topla_burjak_kordezeva_glava_peca_cez_malo_peco_in_po_lahki_poti/11/665/6927">Topla (Burjak) - Kordeževa glava (Peca) (čez Malo Peco in po lahki poti)</a></td><td class="tdG"><a href="/izlet/topla_burjak_kordezeva_glava_peca_cez_malo_peco_in_po_lahki_poti/11/665/6927">4 h</a></td><td class="tdG"><a href="/izlet/topla_burjak_kordezeva_glava_peca_cez_malo_peco_in_po_lahki_poti/11/665/6927">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_na_pikovem_kordezeva_glava_peca_cez_preval_vrh_steng_in_po_lahki_poti/11/665/6889">Koča na Pikovem - Kordeževa glava (Peca) (čez preval Vrh šteng in po lahki poti)</a></td><td class="tdG"><a href="/izlet/koca_na_pikovem_kordezeva_glava_peca_cez_preval_vrh_steng_in_po_lahki_poti/11/665/6889">4 h 15 min</a></td><td class="tdG"><a href="/izlet/koca_na_pikovem_kordezeva_glava_peca_cez_preval_vrh_steng_in_po_lahki_poti/11/665/6889">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/topla_burjak_kordezeva_glava_peca_cez_malo_peco_in_po_plezalni_poti/11/665/6928">Topla (Burjak) - Kordeževa glava (Peca) (čez Malo Peco in po plezalni poti)</a></td><td class="tdG"><a href="/izlet/topla_burjak_kordezeva_glava_peca_cez_malo_peco_in_po_plezalni_poti/11/665/6928">4 h</a></td><td class="tdG"><a href="/izlet/topla_burjak_kordezeva_glava_peca_cez_malo_peco_in_po_plezalni_poti/11/665/6928">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podpeca_helenski_potok_kordezeva_glava_peca_cez_mirjance_in_po_lahki_poti/11/665/6925">Podpeca (Helenski potok) - Kordeževa glava (Peca) (čez Mirjance in po lahki poti)</a></td><td class="tdG"><a href="/izlet/podpeca_helenski_potok_kordezeva_glava_peca_cez_mirjance_in_po_lahki_poti/11/665/6925">4 h 40 min</a></td><td class="tdG"><a href="/izlet/podpeca_helenski_potok_kordezeva_glava_peca_cez_mirjance_in_po_lahki_poti/11/665/6925">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podpeca_helenski_potok_kordezeva_glava_peca_cez_mirjance_in_po_plezalni_poti/11/665/6926">Podpeca (Helenski potok) - Kordeževa glava (Peca) (čez Mirjance in po plezalni poti)</a></td><td class="tdG"><a href="/izlet/podpeca_helenski_potok_kordezeva_glava_peca_cez_mirjance_in_po_plezalni_poti/11/665/6926">4 h 40 min</a></td><td class="tdG"><a href="/izlet/podpeca_helenski_potok_kordezeva_glava_peca_cez_mirjance_in_po_plezalni_poti/11/665/6926">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/belca_dovska_mala_kepa/11/478/801">Belca - Dovška Mala Kepa</a></td><td class="tdG"><a href="/izlet/belca_dovska_mala_kepa/11/478/801">5 h 15 min</a></td><td class="tdG"><a href="/izlet/belca_dovska_mala_kepa/11/478/801">zahtevna neoznačena steza</a></td></tr>
 
 </table>
 

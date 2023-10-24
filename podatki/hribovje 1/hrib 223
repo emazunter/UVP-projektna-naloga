@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Loška stena</title>
-        <meta name="description" content="Natančen opis gore Loška stena in vseh pristopov na Loška stena. Loška stena se nahaja nad Zgornjo Kolpsko dolino, točneje nad vasmi Grintovec pr." />
+        <title>Kuren (Sveti Miklavž)</title>
+        <meta name="description" content="Natančen opis koče Kuren (Sveti Miklavž) in vseh pristopov na Kuren (Sveti Miklavž). Kuren je turistična kmetija, ki se nahaja sredi manjšega zaselka nad Staro Vrhni." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2555?gorovjeid=26&amp;id=2555" id="form1">
+    <form method="post" action="./1669?gorovjeid=26&amp;id=1669" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/loska_stena/26/2555"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2555"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kuren_sveti_miklavz/26/1669"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1669"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Loška stena
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Kuren (Sveti Miklavž)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2555);
+    gorast(1669);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Loška stena</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kuren (Sveti Miklavž)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 875&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 526&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;31,8714'N&nbsp;/&nbsp;14°&nbsp;44,8014'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;58,7460'N&nbsp;/&nbsp;14°&nbsp;15,9480'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;31'&nbsp;52,28''N&nbsp;/&nbsp;14°&nbsp;44'&nbsp;48,08''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;58'&nbsp;44,76''N&nbsp;/&nbsp;14°&nbsp;15'&nbsp;56,88''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.53119°N&nbsp;/&nbsp;14.74669°E";
+                        document.getElementById("kf0").innerHTML = "45.9791°N&nbsp;/&nbsp;14.2658°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,53119°N,&nbsp;14,74669°E";
+                    document.getElementById("kf0").innerHTML = "45,9791°N,&nbsp;14,2658°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,53119°N&nbsp;14,74669°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/loska_stena/2555"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,9791°N&nbsp;14,2658°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kuren_sveti_miklavz/1669"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kuren (Sveti Miklavž) - Torek" href="/vreme_gora/kuren_sveti_miklavz/26/1669#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kuren (Sveti Miklavž) - Sreda" href="/vreme_gora/kuren_sveti_miklavz/26/1669#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kuren (Sveti Miklavž) - Četrtek" href="/vreme_gora/kuren_sveti_miklavz/26/1669#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Loška stena - Petek" href="/vreme_gora/loska_stena/26/2555#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kuren (Sveti Miklavž) - Petek" href="/vreme_gora/kuren_sveti_miklavz/26/1669#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Loška stena - Sobota" href="/vreme_gora/loska_stena/26/2555#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Loška stena - Nedelja" href="/vreme_gora/loska_stena/26/2555#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Loška stena - Ponedeljek" href="/vreme_gora/loska_stena/26/2555#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Loška stena - Torek" href="/vreme_gora/loska_stena/26/2555#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kuren (Sveti Miklavž) - Sobota" href="/vreme_gora/kuren_sveti_miklavz/26/1669#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 12.380</div>
-<div class="g2"><b>Priljubljenost:</b> 38%&nbsp;(2023.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Ogledov:</b> 161.304</div>
+<div class="g2"><b>Priljubljenost:</b> 53%&nbsp;(1535.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1669" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Loška stena se nahaja nad Zgornjo Kolpsko dolino, točneje nad vasmi Grintovec pri Osilnici, Ložec in Ribjek. Z vrha Loške stene oz. prepadnega razgledišča se nam odpre lep razgled proti dolini Kolpe, okoliškemu hribovju in Gorskemu Kotarju.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Kuren je turistična kmetija, ki se nahaja sredi manjšega zaselka nad Staro Vrhniko. Le nekaj metrov stran od turistične kmetije, pa se nahaja manjša cerkvica posvečena sv. Miklavžu, od katere se nam odpre lep razgled na del Ljubljanskega barja in okoliškega hribovja.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2555&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1669&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/firstov_rep/26/2554">Firstov rep (1002m)</a>, <a class="moder" href="/gora/krokar/26/1478">Krokar (1122m)</a>
+<a class="moder" href="/gora/koca_na_planini_nad_vrhniko/26/669">Koča na Planini nad Vrhniko (733m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,26 +835,28 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/colnarji/451">Colnarji</a>, <a class="moder" href="/spletna_kamera/domacija_lobic_grgelj/4358">Domačija Lobič (Grgelj)</a>, <a class="moder" href="/spletna_kamera/grad_kostel/4361">Grad Kostel</a>
+<a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica/318">Brezovica</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/logatec/186">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec/326">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec_blekova_vas/1954">Logatec (Blekova vas)</a>, <a class="moder" href="/spletna_kamera/logatec_gorenja_vas/1868">Logatec (Gorenja vas)</a>, <a class="moder" href="/spletna_kamera/lom/327">Lom</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/tankovski_most/4915">Tankovski most</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2floska_stena%2f26%2f2555"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2floska_stena%2f26%2f2555"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2floska_stena%2f26%2f2555"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkuren_sveti_miklavz%2f26%2f1669"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkuren_sveti_miklavz%2f26%2f1669"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkuren_sveti_miklavz%2f26%2f1669"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/loska_stena/13984" onclick="event.preventDefault(); window.open('/slika_gora/loska_stena/13984');"><img class="slikagm" alt="Loška stena" src="//www.hribi.net/slike1/DSCN405790720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kuren_sveti_miklavz/7299" onclick="event.preventDefault(); window.open('/slika_gora/kuren_sveti_miklavz/7299');"><img class="slikagm" alt="Kuren (Sveti Miklavž)" src="//www.hribi.net/sliketemp/PlaninaNadVrhniko_0595835469.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/loska_stena/13985" onclick="event.preventDefault(); window.open('/slika_gora/loska_stena/13985');"><img class="slikagm" alt="Loška stena" src="//slike.hribi.net/slike4/2_0238498817871_DSCN4063.JPG" /></a>
+        <a target="_blank" href="/slika_gora/kuren_sveti_miklavz/7300" onclick="event.preventDefault(); window.open('/slika_gora/kuren_sveti_miklavz/7300');"><img class="slikagm" alt="Kuren (Sveti Miklavž)" src="//www.hribi.net/slike1/PlaninaNadVrhniko 0411560000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/loska_stena/13986" onclick="event.preventDefault(); window.open('/slika_gora/loska_stena/13986');"><img class="slikagm" alt="Loška stena" src="//slike.hribi.net/slike4/2_1964498817874_DSCN4075.JPG" /></a>
+        <a target="_blank" href="/slika_gora/kuren_sveti_miklavz/7301" onclick="event.preventDefault(); window.open('/slika_gora/kuren_sveti_miklavz/7301');"><img class="slikagm" alt="Kuren (Sveti Miklavž)" src="//www.hribi.net/slike1/PlaninaNadVrhniko 0451591200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/loska_stena/13987" onclick="event.preventDefault(); window.open('/slika_gora/loska_stena/13987');"><img class="slikagm" alt="Loška stena" src="//www.hribi.net/sliketemp/P42002234425726.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kuren_sveti_miklavz/7302" onclick="event.preventDefault(); window.open('/slika_gora/kuren_sveti_miklavz/7302');"><img class="slikagm" alt="Kuren (Sveti Miklavž)" src="//www.hribi.net/slike1/PlaninaNadVrhniko 0561591200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/loska_stena/13988" onclick="event.preventDefault(); window.open('/slika_gora/loska_stena/13988');"><img class="slikagm" alt="Loška stena" src="//www.hribi.net/sliketemp/P42002294425727.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kuren_sveti_miklavz/7303" onclick="event.preventDefault(); window.open('/slika_gora/kuren_sveti_miklavz/7303');"><img class="slikagm" alt="Kuren (Sveti Miklavž)" src="//www.hribi.net/slike1/PlaninaNadVrhniko 0371560000.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kuren_sveti_miklavz/7304" onclick="event.preventDefault(); window.open('/slika_gora/kuren_sveti_miklavz/7304');"><img class="slikagm" alt="Kuren (Sveti Miklavž)" src="//www.hribi.net/slike1/PlaninaNadVrhniko 0441591200.th.jpg" /></a>
     
 </div>
 
@@ -918,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2555&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1669&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -928,15 +930,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/strma_reber_loska_stena/26/2555/5584">Strma Reber - Loška stena</a></td><td class="tdG"><a href="/izlet/strma_reber_loska_stena/26/2555/5584">1 h 30 min</a></td><td class="tdG"><a href="/izlet/strma_reber_loska_stena/26/2555/5584">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/osilnica_loska_stena/26/2555/5591">Osilnica - Loška stena</a></td><td class="tdG"><a href="/izlet/osilnica_loska_stena/26/2555/5591">3 h 50 min</a></td><td class="tdG"><a href="/izlet/osilnica_loska_stena/26/2555/5591">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ravne_loska_stena/26/2555/5586">Ravne - Loška stena</a></td><td class="tdG"><a href="/izlet/ravne_loska_stena/26/2555/5586">1 h 50 min</a></td><td class="tdG"><a href="/izlet/ravne_loska_stena/26/2555/5586">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/18_serpentina_ceste_na_strmo_reber_loska_stena/26/2555/5598">18. serpentina ceste na Strmo Reber - Loška stena</a></td><td class="tdG"><a href="/izlet/18_serpentina_ceste_na_strmo_reber_loska_stena/26/2555/5598">2 h 25 min</a></td><td class="tdG"><a href="/izlet/18_serpentina_ceste_na_strmo_reber_loska_stena/26/2555/5598">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bezgovica_loska_stena/26/2555/5592">Bezgovica - Loška stena</a></td><td class="tdG"><a href="/izlet/bezgovica_loska_stena/26/2555/5592">2 h 40 min</a></td><td class="tdG"><a href="/izlet/bezgovica_loska_stena/26/2555/5592">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/stara_vrhnika_kuren_sveti_miklavz/26/1669/2991">Stara Vrhnika - Kuren (Sveti Miklavž)</a></td><td class="tdG"><a href="/izlet/stara_vrhnika_kuren_sveti_miklavz/26/1669/2991"> 35 min</a></td><td class="tdG"><a href="/izlet/stara_vrhnika_kuren_sveti_miklavz/26/1669/2991">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Račka vrata</title>
-        <meta name="description" content="Natančen opis gore Račka vrata in vseh pristopov na Račka vrata. Račka vrata ležijo v jugozahodnem ostenju V.Raduhe, ki se strmo dviga vzhodno od." />
+        <title>Sveti Jakob (Jakec)</title>
+        <meta name="description" content="Natančen opis cerkve Sveti Jakob (Jakec) in vseh pristopov na Sveti Jakob (Jakec). Znana in bližnja izletniška točka Velenjčanov se nahaja na hribu Gradišče na viš." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1610?gorovjeid=3&amp;id=1610" id="form1">
+    <form method="post" action="./3510?gorovjeid=3&amp;id=3510" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/racka_vrata/3/1610"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1610"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_jakob_jakec/3/3510"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=3510"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Račka vrata
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Sveti Jakob (Jakec)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1610);
+    gorast(3510);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Račka vrata</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Jakob (Jakec)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,17 +653,101 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1450&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 528&nbsp;m</div>
     
-    <div class="g2"><b>Vrsta:</b> </div>
+        <script>
+            var kfi = 1;
+            function koordinateFormat() {
+                if (kfi == 1) {
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,4710'N&nbsp;/&nbsp;15°&nbsp;5,5878'E";
+                        kfi = 2;
+                    }
+                    else if (kfi == 2) {
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;28,26''N&nbsp;/&nbsp;15°&nbsp;5'&nbsp;35,27''E";
+                        kfi = 3;
+                    }
+                    else if (kfi == 3) {
+                        document.getElementById("kf0").innerHTML = "46.35785°N&nbsp;/&nbsp;15.09313°E";
+                    kfi = 4;
+                }
+                else if (kfi == 4) {
+                    document.getElementById("kf0").innerHTML = "46,35785°N,&nbsp;15,09313°E";
+                        kfi = 1;
+                    }
+    }
+
+            function kopiraj() {
+                var tempInput = document.createElement("textarea");
+                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
+                document.body.appendChild(tempInput);
+                tempInput.select();
+                tempInput.setSelectionRange(0, 99999);
+                document.execCommand("copy");
+                document.body.removeChild(tempInput);
+                tooltip("Kopirano v odložišče...");
+
+            }
+
+    
+</script>
+        
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35785°N&nbsp;15,09313°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_jakob_jakec/3510"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    
+    <div class="g2"><b>Vrsta:</b> cerkev</div>
+  
+        <div class="g2"><b>Vremenska napoved:</b></div>
+        <div class="g2">
+<table><tr>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Jakob (Jakec) - Torek" href="/vreme_gora/sveti_jakob_jakec/3/3510#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Jakob (Jakec) - Sreda" href="/vreme_gora/sveti_jakob_jakec/3/3510#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Jakob (Jakec) - Četrtek" href="/vreme_gora/sveti_jakob_jakec/3/3510#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Pe</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Jakob (Jakec) - Petek" href="/vreme_gora/sveti_jakob_jakec/3/3510#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">So</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Jakob (Jakec) - Sobota" href="/vreme_gora/sveti_jakob_jakec/3/3510#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    </tr></table>
+        </div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 266.117</div>
-<div class="g2"><b>Priljubljenost:</b> 66%&nbsp;(1133.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Ogledov:</b> 624</div>
+<div class="g2"><b>Priljubljenost:</b> 17%&nbsp;(2725.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
 
     </div>
 
@@ -671,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Račka vrata ležijo v jugozahodnem ostenju V.Raduhe, ki se strmo dviga vzhodno od Robanovega kota. Ime so dobila po kmetiji Račnik, ki leži pod njimi. Sodijo med največje tovrstne znamenitosti v Sloveniji. Široka so 30 in visoka 25 metrov. Brečasta kamnina jim daje na zahodni strani značilno rdečkasto barvo. Zaradi take sestave je obok vrat zelo krušljiv. Kljub velikosti jih je zelo težko najti. Skoznje vodi le neoznačena lovska pot, ki jih je na Raduhi zelo veliko. Pozimi se z oboka naredijo ogromne ledene sveče. Obok je prehoden s tem, da je spodnji del kar težko plezljiv, zgornja polovica pa je lažje prehodna. Iz vrat je razgled bolj skromen. Z oboka nad njimi pa se nam odpre veličasten razgled. Vidijo se Sv. Duh nad Solčavo, Ojstrc v Avstriji, Storžič, Strelovec, Krofička, Ojstrica, Robanov kot, V.Vrh, V.Rogatec, Menina planina, nad nami pa mogočno ostenje Raduhe. </div>
+<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Znana in bližnja izletniška točka Velenjčanov se nahaja na hribu Gradišče na višini 528 m, na južnem robu Šaleške doline.<br> Ima dve podobi: na severni strani, nad tovarno Gorenje, gozdnato, na južni pa poseljeno in vso v vinogradih in sadovnjakih.<br> Na razglednem hribu stoji cerkev Svetega Jakoba iz leta 1583, ki se jo glede na izgled šteje kot najstarejšo cerkev v Šaleški dolini.<br> Tako njena ladja kot prezbiterij sta še romanska in predstavljata edini še ohranjeni del srednjeveškega gradu Lilienberg.<br> Poleg označene poti vodi do cerkve tudi cesta skozi Podkraj.<br> Od cerkve je lep razgled na Velenje in okoliške hribe.</div>
 
     
 <script type="text/javascript">
@@ -704,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1610&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3510&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -713,35 +797,66 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fracka_vrata%2f3%2f1610"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fracka_vrata%2f3%2f1610"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fracka_vrata%2f3%2f1610"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><b>Gore v okolici</b>
+<select onchange="radiusf(this.value,1);">
+<option value="0,5">0,5</option>
+<option value="1">1</option>
+<option value="1,5">1,5</option>
+<option selected value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="8">8</option>
+<option value="10">10</option>
+<option value="15">15</option>
+<option value="20">20</option>
+<option value="30">30</option>
+</select> <b>km:</b><br />
+</div>
+<div id="radiusseznam1">
+<a class="moder" href="/gora/grad_velenje/3/2874">Grad Velenje (442m)</a>, <a class="moder" href="/gora/malo_gradisce/3/3511">Malo Gradišče (536m)</a>, <a class="moder" href="/gora/veliko_gradisce/3/3512">Veliko Gradišče (587m)</a>
+</div>
+
+<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
+<select onchange="radiusf(this.value,2);">
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="5">5</option>
+<option value="7">7</option>
+<option value="10">10</option>
+<option selected value="15">15</option>
+<option value="20">20</option>
+<option value="25">25</option>
+<option value="30">30</option>
+<option value="35">35</option>
+<option value="40">40</option>
+<option value="50">50</option>
+<option value="60">60</option>
+</select> <b>km:</b><br></div>
+<div id="radiusseznam2">
+<a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/sentrupert/379">Šentrupert</a>, <a class="moder" href="/spletna_kamera/vransko/359">Vransko</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>
+</div>
+
+
+
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_jakob_jakec%2f3%2f3510"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_jakob_jakec%2f3%2f3510"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_jakob_jakec%2f3%2f3510"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/racka_vrata/6700" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6700');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/P92118275706584.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_jakob_jakec/20864" onclick="event.preventDefault(); window.open('/slika_gora/sveti_jakob_jakec/20864');"><img class="slikagm" alt="Sveti Jakob (Jakec)" src="//slike2.hribi.net/slike016/2_0708702726025_DSC08579.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/racka_vrata/6701" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6701');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/P92118365706586.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_jakob_jakec/20865" onclick="event.preventDefault(); window.open('/slika_gora/sveti_jakob_jakec/20865');"><img class="slikagm" alt="Sveti Jakob (Jakec)" src="//slike2.hribi.net/slike016/2_0114702726035_DSC08532.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/racka_vrata/6702" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6702');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/P92118525706587.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/racka_vrata/6703" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6703');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/P92118595706589.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/racka_vrata/6704" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6704');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/P92118635706591.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/racka_vrata/6705" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6705');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/kra_ka_vrata5706592.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/racka_vrata/8550" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/8550');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/9216182843.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/racka_vrata/8551" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/8551');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/9196182843.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_jakob_jakec/20866" onclick="event.preventDefault(); window.open('/slika_gora/sveti_jakob_jakec/20866');"><img class="slikagm" alt="Sveti Jakob (Jakec)" src="//slike2.hribi.net/slike016/2_0332702726042_DSC09062___Lokacija.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/racka_vrata/3/739"><img class="slikagmv" alt="Račka vrata" src="https://img.youtube.com/vi/000YjDvYnfY/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -799,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1610&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3510&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -809,7 +924,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rogovilec_racka_vrata_lovska_pot/3/1610/2824">Rogovilec - Račka vrata (Lovska pot)</a></td><td class="tdG"><a href="/izlet/rogovilec_racka_vrata_lovska_pot/3/1610/2824">2 h 15 min</a></td><td class="tdG"><a href="/izlet/rogovilec_racka_vrata_lovska_pot/3/1610/2824">zahtevna neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/velenje_stari_trg_sveti_jakob_jakec_po_planinski_poti/3/3510/8491">Velenje (Stari trg) - Sveti Jakob (Jakec) (po planinski poti)</a></td><td class="tdG"><a href="/izlet/velenje_stari_trg_sveti_jakob_jakec_po_planinski_poti/3/3510/8491"> 45 min</a></td><td class="tdG"><a href="/izlet/velenje_stari_trg_sveti_jakob_jakec_po_planinski_poti/3/3510/8491">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Jezerce Drtičnikovo</title>
-        <meta name="description" content="Natančen opis jezera Jezerce Drtičnikovo in vseh pristopov na Jezerce Drtičnikovo. Jezerce Drtičnikovo se nahaja na severozahodnih pobočjih Turna, manj znanega vrh." />
+        <title>Golika</title>
+        <meta name="description" content="Natančen opis gore Golika in vseh pristopov na Golika. Golika je 609 metrov visok vrh na Brinjevi gori, na katerem stoji cerkev sv. Než." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3481?gorovjeid=4&amp;id=3481" id="form1">
+    <form method="post" action="./3619?gorovjeid=4&amp;id=3619" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/jezerce_drticnikovo/4/3481"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3481"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/golika/4/3619"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3619"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Jezerce Drtičnikovo
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Golika
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3481);
+    gorast(3619);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Jezerce Drtičnikovo</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Golika</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 960&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 609&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;31,0428'N&nbsp;/&nbsp;15°&nbsp;23,5080'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,5204'N&nbsp;/&nbsp;15°&nbsp;24,6720'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;31'&nbsp;2,57''N&nbsp;/&nbsp;15°&nbsp;23'&nbsp;30,48''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;31,22''N&nbsp;/&nbsp;15°&nbsp;24'&nbsp;40,32''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.51738°N&nbsp;/&nbsp;15.3918°E";
+                        document.getElementById("kf0").innerHTML = "46.37534°N&nbsp;/&nbsp;15.4112°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,51738°N,&nbsp;15,3918°E";
+                    document.getElementById("kf0").innerHTML = "46,37534°N,&nbsp;15,4112°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,51738°N&nbsp;15,3918°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/jezerce_drticnikovo/3481"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,37534°N&nbsp;15,4112°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/golika/3619"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> jezero</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Golika - Torek" href="/vreme_gora/golika/4/3619#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Golika - Sreda" href="/vreme_gora/golika/4/3619#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Golika - Četrtek" href="/vreme_gora/golika/4/3619#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Jezerce Drtičnikovo - Petek" href="/vreme_gora/jezerce_drticnikovo/4/3481#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Golika - Petek" href="/vreme_gora/golika/4/3619#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Jezerce Drtičnikovo - Sobota" href="/vreme_gora/jezerce_drticnikovo/4/3481#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Jezerce Drtičnikovo - Nedelja" href="/vreme_gora/jezerce_drticnikovo/4/3481#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Jezerce Drtičnikovo - Ponedeljek" href="/vreme_gora/jezerce_drticnikovo/4/3481#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Jezerce Drtičnikovo - Torek" href="/vreme_gora/jezerce_drticnikovo/4/3481#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Golika - Sobota" href="/vreme_gora/golika/4/3619#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 402</div>
-<div class="g2"><b>Priljubljenost:</b> 14%&nbsp;(2821.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 157</div>
+<div class="g2"><b>Priljubljenost:</b> 8%&nbsp;(3026.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=3619" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis jezera:</b><br />Jezerce Drtičnikovo se nahaja na severozahodnih pobočjih Turna, manj znanega vrha na Pohorju in je le nekaj minut umaknjeno od markirane poti Lovrenc na Pohorju - Koča na Klopnem vrhu.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Golika je 609 metrov visok vrh na Brinjevi gori, na katerem stoji cerkev sv. Neže.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3481&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3619&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/koca_na_klopnem_vrhu/4/1113">Koča na Klopnem vrhu (1260m)</a>, <a class="moder" href="/gora/lamprehtov_vrh/4/3464">Lamprehtov vrh (1230m)</a>, <a class="moder" href="/gora/turn_pri_klopnem_vrhu/4/3480">Turn (pri Klopnem vrhu) (1261m)</a>
+<a class="moder" href="/gora/brinjeva_gora_nad_zrecami/4/3155">Brinjeva gora (nad Zrečami) (616m)</a>, <a class="moder" href="/gora/sveti_martin_zlakova/4/3618">Sveti Martin (Zlakova) (589m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,22 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornja_kapla/2314">Zgornja Kapla</a>
+<a class="moder" href="/spletna_kamera/dramlje/1743">Dramlje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/skedenj/365">Škedenj</a>, <a class="moder" href="/spletna_kamera/slatina/363">Slatina</a>, <a class="moder" href="/spletna_kamera/slovenska_bistrica/369">Slovenska Bistrica</a>, <a class="moder" href="/spletna_kamera/spodnje_stranice/4444">Spodnje Stranice</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/tepanje/367">Tepanje</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vrhole_pri_slovenskih_konjicah/1428">Vrhole pri Slovenskih Konjicah</a>, <a class="moder" href="/spletna_kamera/zima/362">Zima</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fjezerce_drticnikovo%2f4%2f3481"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjezerce_drticnikovo%2f4%2f3481"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjezerce_drticnikovo%2f4%2f3481"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgolika%2f4%2f3619"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgolika%2f4%2f3619"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgolika%2f4%2f3619"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/jezerce_drticnikovo/20656" onclick="event.preventDefault(); window.open('/slika_gora/jezerce_drticnikovo/20656');"><img class="slikagm" alt="Jezerce Drtičnikovo" src="//slike2.hribi.net/slike14/2_0829694424556_0dscn0439.jpg" /></a>
+        <a target="_blank" href="/slika_gora/golika/21493" onclick="event.preventDefault(); window.open('/slika_gora/golika/21493');"><img class="slikagm" alt="Golika" src="//slike2.hribi.net/slike14/2_1738720774383_1dscn1658.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jezerce_drticnikovo/20657" onclick="event.preventDefault(); window.open('/slika_gora/jezerce_drticnikovo/20657');"><img class="slikagm" alt="Jezerce Drtičnikovo" src="//slike2.hribi.net/slike14/2_0741695489587_0dscn0440.jpg" /></a>
+        <a target="_blank" href="/slika_gora/golika/21494" onclick="event.preventDefault(); window.open('/slika_gora/golika/21494');"><img class="slikagm" alt="Golika" src="//slike2.hribi.net/slike14/2_1893721310910_1dscn1655.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jezerce_drticnikovo/20658" onclick="event.preventDefault(); window.open('/slika_gora/jezerce_drticnikovo/20658');"><img class="slikagm" alt="Jezerce Drtičnikovo" src="//slike2.hribi.net/slike14/2_1943695489588_1dscn0443.jpg" /></a>
+        <a target="_blank" href="/slika_gora/golika/21495" onclick="event.preventDefault(); window.open('/slika_gora/golika/21495');"><img class="slikagm" alt="Golika" src="//slike2.hribi.net/slike14/2_3674721310911_3dscn1657.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/golika/21496" onclick="event.preventDefault(); window.open('/slika_gora/golika/21496');"><img class="slikagm" alt="Golika" src="//slike2.hribi.net/slike14/2_2800721310910_2dscn1656.jpg" /></a>
     
 </div>
 
@@ -914,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3481&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3619&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -924,9 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_jezerce_drticnikovo_cez_zgornji_trg/4/3481/8409">Lovrenc na Pohorju - Jezerce Drtičnikovo (čez Zgornji trg)</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_jezerce_drticnikovo_cez_zgornji_trg/4/3481/8409">1 h 30 min</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_jezerce_drticnikovo_cez_zgornji_trg/4/3481/8409">lahka označena pot, lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_jezerce_drticnikovo_cez_spodnji_trg/4/3481/8408">Lovrenc na Pohorju - Jezerce Drtičnikovo (čez Spodnji trg)</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_jezerce_drticnikovo_cez_spodnji_trg/4/3481/8408">1 h 30 min</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_jezerce_drticnikovo_cez_spodnji_trg/4/3481/8408">lahka označena pot, lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zrece_terme_zrece_golika/4/3619/8817">Zreče (Terme Zreče) - Golika</a></td><td class="tdG"><a href="/izlet/zrece_terme_zrece_golika/4/3619/8817"> 50 min</a></td><td class="tdG"><a href="/izlet/zrece_terme_zrece_golika/4/3619/8817">lahka označena pot</a></td></tr>
 
 </table>
 

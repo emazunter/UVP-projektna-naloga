@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Slavnik</title>
-        <meta name="description" content="Natančen opis gore Slavnik in vseh pristopov na Slavnik. Slavnik je razgledna gora, ki se dviga južno od Kozine in zahodno od Podgorja. P." />
+        <title>Osojnica</title>
+        <meta name="description" content="Natančen opis gore Osojnica in vseh pristopov na Osojnica. Osojnica je z gozdom poraščen hrib, ki se nahaja zahodno od Pivke. Z vrha, ki im." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./778?gorovjeid=26&amp;id=778" id="form1">
+    <form method="post" action="./807?gorovjeid=26&amp;id=807" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/slavnik/26/778"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=778"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/osojnica/26/807"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=807"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Slavnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Osojnica
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(778);
+    gorast(807);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Slavnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Osojnica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1028&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 820&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;32,0328'N&nbsp;/&nbsp;13°&nbsp;58,5486'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;41,1954'N&nbsp;/&nbsp;14°&nbsp;10,0536'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;32'&nbsp;1,97''N&nbsp;/&nbsp;13°&nbsp;58'&nbsp;32,92''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;41'&nbsp;11,72''N&nbsp;/&nbsp;14°&nbsp;10'&nbsp;3,22''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.53388°N&nbsp;/&nbsp;13.97581°E";
+                        document.getElementById("kf0").innerHTML = "45.68659°N&nbsp;/&nbsp;14.16756°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,53388°N,&nbsp;13,97581°E";
+                    document.getElementById("kf0").innerHTML = "45,68659°N,&nbsp;14,16756°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,53388°N&nbsp;13,97581°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/slavnik/778"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,68659°N&nbsp;14,16756°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/osojnica/807"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Osojnica - Torek" href="/vreme_gora/osojnica/26/807#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Osojnica - Sreda" href="/vreme_gora/osojnica/26/807#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Osojnica - Četrtek" href="/vreme_gora/osojnica/26/807#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Slavnik - Petek" href="/vreme_gora/slavnik/26/778#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Osojnica - Petek" href="/vreme_gora/osojnica/26/807#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Slavnik - Sobota" href="/vreme_gora/slavnik/26/778#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Slavnik - Nedelja" href="/vreme_gora/slavnik/26/778#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Slavnik - Ponedeljek" href="/vreme_gora/slavnik/26/778#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Slavnik - Torek" href="/vreme_gora/slavnik/26/778#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Osojnica - Sobota" href="/vreme_gora/osojnica/26/807#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 879.235</div>
-<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(25.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">11</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=778" title="Število vpisov v vpisni knjigi">118</a></div>
+<div class="g2"><b>Ogledov:</b> 335.902</div>
+<div class="g2"><b>Priljubljenost:</b> 73%&nbsp;(876.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=807" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Slavnik je razgledna gora, ki se dviga južno od Kozine in zahodno od Podgorja. Podgorje je vasica, ki je primerno izhodišče za vzpon na omenjeno goro. <br> Na vrhu Slavnika se nahaja razgledna plošča        in ob njen žig. Le nekaj korakov pod vrhom pa se nahaja Tumova koča na Slavniku, ki so jo odprli leta 1957.<br> Razgled s Slavnika pa je med lepšimi saj ob lepem vremenu vidimo Jadransko morje, italijanske Dolomite, kjer je najvišja Marmolada, del Karnijskih in Julijskih Alp, kjer izstopa Triglav in nato prek Karavank do Kamniško in Savinjskih Alp. V bližini pa se vidijo Golaki, Vremščica in malo bolj oddaljeni Snežnik.                                                                                                                                                                       </div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Osojnica je z gozdom poraščen hrib, ki se nahaja zahodno od Pivke. Z vrha, ki ima vpisno skrinjico, žig in klop ni razgleda.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=778&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=807&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/grmada_pri_slavniku/26/1158">Grmada pri Slavniku (998m)</a>, <a class="moder" href="/gora/planina_jegno/26/1159">Planina Jegno (715m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,43 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bazovica___basovizza/1649">Bazovica / Basovizza</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kokos/4324">Kokoš</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/sveti_martin/3717">Sveti Martin</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
+<a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/cebulovica/335">Čebulovica</a>, <a class="moder" href="/spletna_kamera/ilirska_bistrica/499">Ilirska Bistrica</a>, <a class="moder" href="/spletna_kamera/letalisce_divaca/2203">Letališče Divača</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/nanos_plesa/2957">Nanos (Pleša)</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/palcje/1578">Palčje</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/petelinjsko_jezero/4191">Petelinjsko jezero</a>, <a class="moder" href="/spletna_kamera/pivka/182">Pivka</a>, <a class="moder" href="/spletna_kamera/pivka/345">Pivka</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/razdrto/332">Razdrto</a>, <a class="moder" href="/spletna_kamera/rebrnice/1409">Rebrnice</a>, <a class="moder" href="/spletna_kamera/senozeska_brda/1423">Senožeška brda</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fslavnik%2f26%2f778"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fslavnik%2f26%2f778"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fslavnik%2f26%2f778"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fosojnica%2f26%2f807"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fosojnica%2f26%2f807"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fosojnica%2f26%2f807"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/slavnik/778" title="Slavnik 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Slavnik.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/slavnik/2618" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/2618');"><img class="slikagm" alt="Slavnik" src="//www.hribi.net/sliketemp/PC1902144254458.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/osojnica/2678" onclick="event.preventDefault(); window.open('/slika_gora/osojnica/2678');"><img class="slikagm" alt="Osojnica" src="//www.hribi.net/slike1/P123013371808.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/slavnik/2619" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/2619');"><img class="slikagm" alt="Slavnik" src="//www.hribi.net/sliketemp/PC1900754254451.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/slavnik/2622" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/2622');"><img class="slikagm" alt="Slavnik" src="//www.hribi.net/slike1/PC190066376320.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/slavnik/3893" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/3893');"><img class="slikagm" alt="Slavnik" src="//www.hribi.net/slike1/P13001731512.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/slavnik/3894" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/3894');"><img class="slikagm" alt="Slavnik" src="//www.hribi.net/slike1/P13002031512.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/slavnik/3895" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/3895');"><img class="slikagm" alt="Slavnik" src="//www.hribi.net/slike1/P13001861512.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/slavnik/3896" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/3896');"><img class="slikagm" alt="Slavnik" src="//www.hribi.net/slike1/P13001901512.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/slavnik/5420" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/5420');"><img class="slikagm" alt="Slavnik" src="//slike.hribi.net/sliketemp/Slavnik%202095409666.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/slavnik/7558" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/7558');"><img class="slikagm" alt="Slavnik" src="//www.hribi.net/slike1/Zjat 453143748.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/slavnik/16808" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/16808');"><img class="slikagm" alt="Slavnik" src="//slike.hribi.net/slike4/2_129580970541_DSCN1992.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/slavnik/16809" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/16809');"><img class="slikagm" alt="Slavnik" src="//slike.hribi.net/slike4/2_0863580970653_DSCN2021.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/slavnik/16810" onclick="event.preventDefault(); window.open('/slika_gora/slavnik/16810');"><img class="slikagm" alt="Slavnik" src="//slike.hribi.net/slike4/2_7167581706702_DSCN2009.JPG" /></a>
+        <a target="_blank" href="/slika_gora/osojnica/2683" onclick="event.preventDefault(); window.open('/slika_gora/osojnica/2683');"><img class="slikagm" alt="Osojnica" src="//www.hribi.net/slike1/P123008931200.th.jpg" /></a>
     
 </div>
 
@@ -935,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=778&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=807&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -945,19 +922,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podgorje_slavnik_polozna_pot/26/778/1396">Podgorje - Slavnik (položna pot)</a></td><td class="tdG"><a href="/izlet/podgorje_slavnik_polozna_pot/26/778/1396">1 h 40 min</a></td><td class="tdG"><a href="/izlet/podgorje_slavnik_polozna_pot/26/778/1396">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pivka_osojnica/26/807/1436">Pivka - Osojnica</a></td><td class="tdG"><a href="/izlet/pivka_osojnica/26/807/1436">1 h</a></td><td class="tdG"><a href="/izlet/pivka_osojnica/26/807/1436">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podgorje_slavnik_strma_pot/26/778/1395">Podgorje - Slavnik (strma pot)</a></td><td class="tdG"><a href="/izlet/podgorje_slavnik_strma_pot/26/778/1395">1 h 15 min</a></td><td class="tdG"><a href="/izlet/podgorje_slavnik_strma_pot/26/778/1395">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/skadanscina_slavnik/26/778/2445">Skadanščina - Slavnik</a></td><td class="tdG"><a href="/izlet/skadanscina_slavnik/26/778/2445">1 h 30 min</a></td><td class="tdG"><a href="/izlet/skadanscina_slavnik/26/778/2445">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/hrpelje_slavnik/26/778/1951">Hrpelje - Slavnik</a></td><td class="tdG"><a href="/izlet/hrpelje_slavnik/26/778/1951">3 h 30 min</a></td><td class="tdG"><a href="/izlet/hrpelje_slavnik/26/778/1951">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/presnica_slavnik/26/778/6801">Prešnica - Slavnik</a></td><td class="tdG"><a href="/izlet/presnica_slavnik/26/778/6801">2 h</a></td><td class="tdG"><a href="/izlet/presnica_slavnik/26/778/6801">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/skadanscina_slavnik_mimo_planine_jegno/26/778/2446">Skadanščina - Slavnik (mimo planine Jegno)</a></td><td class="tdG"><a href="/izlet/skadanscina_slavnik_mimo_planine_jegno/26/778/2446">2 h 30 min</a></td><td class="tdG"><a href="/izlet/skadanscina_slavnik_mimo_planine_jegno/26/778/2446">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lovski_dom_pod_glavico_slavnik_po_cesti/26/778/1946">Lovski dom pod Glavico - Slavnik (po cesti)</a></td><td class="tdG"><a href="/izlet/lovski_dom_pod_glavico_slavnik_po_cesti/26/778/1946">2 h 30 min</a></td><td class="tdG"><a href="/izlet/lovski_dom_pod_glavico_slavnik_po_cesti/26/778/1946">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/gradec_osojnica/26/807/1437">Gradec - Osojnica</a></td><td class="tdG"><a href="/izlet/gradec_osojnica/26/807/1437"> 45 min</a></td><td class="tdG"><a href="/izlet/gradec_osojnica/26/807/1437">lahka neoznačena steza</a></td></tr>
 
 </table>
 

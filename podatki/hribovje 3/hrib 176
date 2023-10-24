@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Dobrča</title>
-        <meta name="description" content="Natančen opis gore Dobrča in vseh pristopov na Dobrča. Dobrča je 1634 m visoka gora, ki se nahaja med Begunjami in Tržičem. Z vrha, na ." />
+        <title>Mali Rogatec (Mali Rogac)</title>
+        <meta name="description" content="Natančen opis gore Mali Rogatec (Mali Rogac) in vseh pristopov na Mali Rogatec (Mali Rogac). Mali Rogatec, tudi Mali Rogac je 1228 metrov visoka gora, ki se nahaja vzhodno o." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./129?gorovjeid=3&amp;id=129" id="form1">
+    <form method="post" action="./2598?gorovjeid=3&amp;id=2598" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dobrca/3/129"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=129"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mali_rogatec_mali_rogac/3/2598"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2598"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Dobrča
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Mali Rogatec (Mali Rogac)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(129);
+    gorast(2598);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Dobrča</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Mali Rogatec (Mali Rogac)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1634&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1228&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,8384'N&nbsp;/&nbsp;14°&nbsp;15,1596'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;18,8154'N&nbsp;/&nbsp;14°&nbsp;43,2546'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;50,30''N&nbsp;/&nbsp;14°&nbsp;15'&nbsp;9,58''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;18'&nbsp;48,92''N&nbsp;/&nbsp;14°&nbsp;43'&nbsp;15,28''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.38064°N&nbsp;/&nbsp;14.25266°E";
+                        document.getElementById("kf0").innerHTML = "46.31359°N&nbsp;/&nbsp;14.72091°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,38064°N,&nbsp;14,25266°E";
+                    document.getElementById("kf0").innerHTML = "46,31359°N,&nbsp;14,72091°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,38064°N&nbsp;14,25266°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dobrca/129"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,31359°N&nbsp;14,72091°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mali_rogatec_mali_rogac/2598"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Rogatec (Mali Rogac) - Torek" href="/vreme_gora/mali_rogatec_mali_rogac/3/2598#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Rogatec (Mali Rogac) - Sreda" href="/vreme_gora/mali_rogatec_mali_rogac/3/2598#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Rogatec (Mali Rogac) - Četrtek" href="/vreme_gora/mali_rogatec_mali_rogac/3/2598#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Dobrča - Petek" href="/vreme_gora/dobrca/3/129#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Rogatec (Mali Rogac) - Petek" href="/vreme_gora/mali_rogatec_mali_rogac/3/2598#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Dobrča - Sobota" href="/vreme_gora/dobrca/3/129#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Dobrča - Nedelja" href="/vreme_gora/dobrca/3/129#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Dobrča - Ponedeljek" href="/vreme_gora/dobrca/3/129#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Dobrča - Torek" href="/vreme_gora/dobrca/3/129#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Rogatec (Mali Rogac) - Sobota" href="/vreme_gora/mali_rogatec_mali_rogac/3/2598#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 792.223</div>
-<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(42.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">14</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">18</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">5</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=129" title="Število vpisov v vpisni knjigi">20</a></div>
+<div class="g2"><b>Ogledov:</b> 3.660</div>
+<div class="g2"><b>Priljubljenost:</b> 33%&nbsp;(2214.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Dobrča je 1634 m visoka gora, ki se nahaja med Begunjami in Tržičem. Z vrha, na katerem se nahaja vpisna skrinjica z žigom, se nam odpre le razgled na del Julijskih Alp, ter del zahodnih in osrednjih Karavank. Za še lepši razgled, pa se je vredno povzpeti na 5 minut oddaljen Šentanski vrh.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Mali Rogatec, tudi Mali Rogac je 1228 metrov visoka gora, ki se nahaja vzhodno od Podvolovljeka. Vrh je poraščen ter deloma prepaden, a se nam kljub poraščenosti odpre nekaj razgleda na okoliške gore.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=129&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2598&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bistriska_planina/3/1641">Bistriška planina (1057m)</a>, <a class="moder" href="/gora/breska_planina/3/1642">Breška planina (1100m)</a>, <a class="moder" href="/gora/koca_na_dobrci/3/130">Koča na Dobrči (1478m)</a>, <a class="moder" href="/gora/lesanska_planina/3/131">Lešanska planina (1450m)</a>, <a class="moder" href="/gora/sentanski_vrh/3/930">Šentanski vrh (1635m)</a>, <a class="moder" href="/gora/tomincev_slap/3/716">Tominčev slap (750m)</a>
+<a class="moder" href="/gora/bivak_na_kalu/3/350">Bivak na Kalu (1285m)</a>, <a class="moder" href="/gora/kunsperski_vrh_brezovec/3/2597">Kunšperski vrh (Brezovec) (1336m)</a>, <a class="moder" href="/gora/lepenatka/3/349">Lepenatka (1425m)</a>, <a class="moder" href="/gora/veliki_rogatec_veliki_rogac/3/906">Veliki Rogatec (Veliki Rogac) (1557m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,47 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
+<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdobrca%2f3%2f129"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdobrca%2f3%2f129"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdobrca%2f3%2f129"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_rogatec_mali_rogac%2f3%2f2598"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_rogatec_mali_rogac%2f3%2f2598"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_rogatec_mali_rogac%2f3%2f2598"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/dobrca/129" title="Dobrča 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.dobrca.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/dobrca/293" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/293');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/Gora/p6040100medium1rb.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_rogatec_mali_rogac/14300" onclick="event.preventDefault(); window.open('/slika_gora/mali_rogatec_mali_rogac/14300');"><img class="slikagm" alt="Mali Rogatec (Mali Rogac)" src="//www.hribi.net/slike1/DSCN06152171520.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dobrca/1072" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/1072');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/Gora/pa080022mediumrr1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_rogatec_mali_rogac/14301" onclick="event.preventDefault(); window.open('/slika_gora/mali_rogatec_mali_rogac/14301');"><img class="slikagm" alt="Mali Rogatec (Mali Rogac)" src="//www.hribi.net/slike1/DSCN06142171520.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dobrca/1419" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/1419');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/slike1/P105006227027.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_rogatec_mali_rogac/14302" onclick="event.preventDefault(); window.open('/slika_gora/mali_rogatec_mali_rogac/14302');"><img class="slikagm" alt="Mali Rogatec (Mali Rogac)" src="//www.hribi.net/slike1/DSCN06003893760.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dobrca/5294" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/5294');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/slike1/Dobrca 14128600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dobrca/5295" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/5295');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/slike1/P305017956889.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dobrca/5296" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/5296');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/slike1/P305018056889.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dobrca/5297" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/5297');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/sliketemp/PA0701854147825.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dobrca/7061" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/7061');"><img class="slikagm" alt="Dobrča" src="//slike.hribi.net/sliketemp/DobrcaR%201545758320.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dobrca/7069" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/7069');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/slike1/DobrcaT 163480.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dobrca/7070" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/7070');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/slike1/DobrcaT 154480.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dobrca/7254" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/7254');"><img class="slikagm" alt="Dobrča" src="//slike.hribi.net/sliketemp/BelaPec%202005815411.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dobrca/9362" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/9362');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/slike1/Kosuta%202141018248.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dobrca/9363" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/9363');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/slike1/Kosuta%202001339800.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dobrca/14470" onclick="event.preventDefault(); window.open('/slika_gora/dobrca/14470');"><img class="slikagm" alt="Dobrča" src="//www.hribi.net/slike1/DSCN575491392.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_rogatec_mali_rogac/14304" onclick="event.preventDefault(); window.open('/slika_gora/mali_rogatec_mali_rogac/14304');"><img class="slikagm" alt="Mali Rogatec (Mali Rogac)" src="//www.hribi.net/slike1/DSCN06341461600.th.jpg" /></a>
     
 </div>
 
@@ -939,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=129&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2598&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -949,41 +926,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_po_robu/3/129/918">Brezje pri Tržiču - Dobrča (po robu)</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_po_robu/3/129/918">2 h 30 min</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_po_robu/3/129/918">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podvolovljek_petkov_graben_mali_rogatec_mali_rogac/3/2598/5767">Podvolovljek (Petkov graben) - Mali Rogatec (Mali Rogac)</a></td><td class="tdG"><a href="/izlet/podvolovljek_petkov_graben_mali_rogatec_mali_rogac/3/2598/5767">1 h 55 min</a></td><td class="tdG"><a href="/izlet/podvolovljek_petkov_graben_mali_rogatec_mali_rogac/3/2598/5767">lahka neoznačena steza, zahtevno brezpotje</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bistriska_planina_dobrca/3/129/100">Bistriška planina - Dobrča</a></td><td class="tdG"><a href="/izlet/bistriska_planina_dobrca/3/129/100">1 h 30 min</a></td><td class="tdG"><a href="/izlet/bistriska_planina_dobrca/3/129/100">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/hibje_dobrca_po_cesti/3/129/475">Hibje - Dobrča (po cesti)</a></td><td class="tdG"><a href="/izlet/hibje_dobrca_po_cesti/3/129/475">1 h 45 min</a></td><td class="tdG"><a href="/izlet/hibje_dobrca_po_cesti/3/129/475">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_po_robu_in_cez_lesansko_planino/3/129/98">Brezje pri Tržiču - Dobrča (po robu in čez Lešansko planino)</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_po_robu_in_cez_lesansko_planino/3/129/98">2 h 35 min</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_po_robu_in_cez_lesansko_planino/3/129/98">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_mimo_koce_na_dobrci/3/129/99">Brezje pri Tržiču - Dobrča (mimo koče na Dobrči)</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_mimo_koce_na_dobrci/3/129/99">3 h</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_mimo_koce_na_dobrci/3/129/99">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/begunje_preska_dobrca/3/129/3167">Begunje (Preska) - Dobrča</a></td><td class="tdG"><a href="/izlet/begunje_preska_dobrca/3/129/3167">3 h</a></td><td class="tdG"><a href="/izlet/begunje_preska_dobrca/3/129/3167">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trzic_dobrca/3/129/2906">Tržič - Dobrča</a></td><td class="tdG"><a href="/izlet/trzic_dobrca/3/129/2906">3 h 10 min</a></td><td class="tdG"><a href="/izlet/trzic_dobrca/3/129/2906">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podljubelj_lajb_dobrca/3/129/1284">Podljubelj (Lajb) - Dobrča</a></td><td class="tdG"><a href="/izlet/podljubelj_lajb_dobrca/3/129/1284">4 h 30 min</a></td><td class="tdG"><a href="/izlet/podljubelj_lajb_dobrca/3/129/1284">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tomincev_slap_dobrca/3/129/1283">Tominčev slap - Dobrča</a></td><td class="tdG"><a href="/izlet/tomincev_slap_dobrca/3/129/1283">3 h</a></td><td class="tdG"><a href="/izlet/tomincev_slap_dobrca/3/129/1283">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/draga_dobrca_cez_ledeno_trato/3/129/3163">Draga - Dobrča (čez Ledeno trato)</a></td><td class="tdG"><a href="/izlet/draga_dobrca_cez_ledeno_trato/3/129/3163">3 h</a></td><td class="tdG"><a href="/izlet/draga_dobrca_cez_ledeno_trato/3/129/3163">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zadnja_vas_dobrca/3/129/2426">Zadnja vas - Dobrča</a></td><td class="tdG"><a href="/izlet/zadnja_vas_dobrca/3/129/2426">3 h</a></td><td class="tdG"><a href="/izlet/zadnja_vas_dobrca/3/129/2426">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/slatna_dobrca/3/129/2918">Slatna - Dobrča</a></td><td class="tdG"><a href="/izlet/slatna_dobrca/3/129/2918">3 h</a></td><td class="tdG"><a href="/izlet/slatna_dobrca/3/129/2918">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bistrica_pri_trzicu_dobrca/3/129/4471">Bistrica pri Tržiču - Dobrča</a></td><td class="tdG"><a href="/izlet/bistrica_pri_trzicu_dobrca/3/129/4471">2 h 55 min</a></td><td class="tdG"><a href="/izlet/bistrica_pri_trzicu_dobrca/3/129/4471">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/hudi_graben_dobrca_mimo_koce_na_dobrci/3/129/2916">Hudi Graben - Dobrča (mimo Koče na Dobrči)</a></td><td class="tdG"><a href="/izlet/hudi_graben_dobrca_mimo_koce_na_dobrci/3/129/2916">3 h</a></td><td class="tdG"><a href="/izlet/hudi_graben_dobrca_mimo_koce_na_dobrci/3/129/2916">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_po_cesti/3/129/4478"> Brezje pri Tržiču - Dobrča (po cesti)</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_po_cesti/3/129/4478">2 h 45 min</a></td><td class="tdG"><a href="/izlet/brezje_pri_trzicu_dobrca_po_cesti/3/129/4478">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubelj_dobrca_bornova_pot/3/129/6400">Ljubelj - Dobrča (Bornova pot)</a></td><td class="tdG"><a href="/izlet/ljubelj_dobrca_bornova_pot/3/129/6400">4 h 30 min</a></td><td class="tdG"><a href="/izlet/ljubelj_dobrca_bornova_pot/3/129/6400">delno zahtevna neoznačena pot, delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/hudi_graben_dobrca/3/129/6897">Hudi Graben - Dobrča</a></td><td class="tdG"><a href="/izlet/hudi_graben_dobrca/3/129/6897">2 h 30 min</a></td><td class="tdG"><a href="/izlet/hudi_graben_dobrca/3/129/6897">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/hudi_graben_dobrca_cez_lesansko_planino/3/129/6894">Hudi Graben - Dobrča (čez Lešansko planino)</a></td><td class="tdG"><a href="/izlet/hudi_graben_dobrca_cez_lesansko_planino/3/129/6894">2 h 35 min</a></td><td class="tdG"><a href="/izlet/hudi_graben_dobrca_cez_lesansko_planino/3/129/6894">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/volovljek_mali_rogatec_mali_rogac/3/2598/5757">Volovljek - Mali Rogatec (Mali Rogac)</a></td><td class="tdG"><a href="/izlet/volovljek_mali_rogatec_mali_rogac/3/2598/5757">2 h 10 min</a></td><td class="tdG"><a href="/izlet/volovljek_mali_rogatec_mali_rogac/3/2598/5757">lahka neoznačena steza, zahtevno brezpotje</a></td></tr>
 
 </table>
 

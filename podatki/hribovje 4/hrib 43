@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Palec</title>
-        <meta name="description" content="Natančen opis gore Palec in vseh pristopov na Palec. Palec je 2026 m visok vrh, ki se nahaja severno od Begunjščice, točneje med Zele." />
+        <title>Dovška Baba</title>
+        <meta name="description" content="Natančen opis gore Dovška Baba in vseh pristopov na Dovška Baba. Dovška Baba je 1891 m visok vrh, ki se nahaja na mejnem grebenu med Slovenijo in." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./363?gorovjeid=11&amp;id=363" id="form1">
+    <form method="post" action="./275?gorovjeid=11&amp;id=275" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/selenitza_palec/11/363"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=363"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/frauenkogel_dovska_baba/11/275"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=275"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Palec
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Dovška Baba
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(363);
+    gorast(275);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Palec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Dovška Baba</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 2026&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1891&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,5920'N&nbsp;/&nbsp;14°&nbsp;13,1568'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,2572'N&nbsp;/&nbsp;13°&nbsp;59,6334'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;35,52''N&nbsp;/&nbsp;14°&nbsp;13'&nbsp;9,41''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;15,43''N&nbsp;/&nbsp;13°&nbsp;59'&nbsp;38,00''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.4432°N&nbsp;/&nbsp;14.21928°E";
+                        document.getElementById("kf0").innerHTML = "46.48762°N&nbsp;/&nbsp;13.99389°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,4432°N,&nbsp;14,21928°E";
+                    document.getElementById("kf0").innerHTML = "46,48762°N,&nbsp;13,99389°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4432°N&nbsp;14,21928°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/palec/363"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,48762°N&nbsp;13,99389°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dovska_baba/275"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Dovška Baba - Torek" href="/vreme_gora/dovska_baba/11/275#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Dovška Baba - Sreda" href="/vreme_gora/dovska_baba/11/275#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Dovška Baba - Četrtek" href="/vreme_gora/dovska_baba/11/275#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Palec - Petek" href="/vreme_gora/palec/11/363#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dovška Baba - Petek" href="/vreme_gora/dovska_baba/11/275#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Palec - Sobota" href="/vreme_gora/palec/11/363#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Palec - Nedelja" href="/vreme_gora/palec/11/363#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Palec - Ponedeljek" href="/vreme_gora/palec/11/363#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Palec - Torek" href="/vreme_gora/palec/11/363#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dovška Baba - Sobota" href="/vreme_gora/dovska_baba/11/275#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 534.822</div>
-<div class="g2"><b>Priljubljenost:</b> 93%&nbsp;(246.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=363" title="Število vpisov v vpisni knjigi">5</a></div>
+<div class="g2"><b>Ogledov:</b> 687.217</div>
+<div class="g2"><b>Priljubljenost:</b> 98%&nbsp;(78.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">15</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=275" title="Število vpisov v vpisni knjigi">3</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Palec je 2026 m visok vrh, ki se nahaja severno od Begunjščice, točneje med Zelenjakom in grebenom Na Možeh. Z vrha, na katerem stoji križ, se nam odpre lep razgled po osrednjem delu Karavank, kjer lepo vidimo Begunjščico, Vrtačo, Zelenjak, Na Možeh ter nekoliko stran greben Košute.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Dovška Baba je 1891 m visok vrh, ki se nahaja na mejnem grebenu med Slovenijo in Avstrijo. Z vrha, ki ima vpisno skrinjico in žig, se nam odpre lep razgled na najvišje vrhove Julijskih Alp, zahodnih in osrednjih Karavank, Avstrijo in večji del Gornjesavske doline.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=363&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=275&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bela_pec___weisse_wand/11/1780">Bela peč / Weiße Wand (1665m)</a>, <a class="moder" href="/gora/dom_na_zelenici/11/91">Dom na Zelenici (1536m)</a>, <a class="moder" href="/gora/dom_pri_izviru_zavrsnice/11/278">Dom pri izviru Završnice (1425m)</a>, <a class="moder" href="/gora/na_mozeh/11/542">Na Možeh (1784m)</a>, <a class="moder" href="/gora/pozgani_rob/11/1782">Požgani rob (1513m)</a>, <a class="moder" href="/gora/rjavca___rjautza/11/1781">Rjavca / Rjautza (1789m)</a>, <a class="moder" href="/gora/srednji_vrh_nad_zavrsnico/11/277">Srednji vrh (nad Završnico) (1796m)</a>, <a class="moder" href="/gora/sveta_pec___helige_wand/11/1779">Sveta peč / Helige Wand (1613m)</a>, <a class="moder" href="/gora/vrh_ljubeljscice_triangel/11/92">Vrh Ljubeljščice (Triangel) (1704m)</a>, <a class="moder" href="/gora/vrtaca/11/78">Vrtača (2181m)</a>, <a class="moder" href="/gora/zelenjak/11/692">Zelenjak (2024m)</a>, <a class="moder" href="/gora/zleb_suho_rusevje/11/88">Žleb (Suho ruševje) (1916m)</a>
+<a class="moder" href="/gora/bela_pec_nad_dovjem/11/3271">Bela peč (nad Dovjem) (1460m)</a>, <a class="moder" href="/gora/hruska_planina/11/1402">Hruška planina (1378m)</a>, <a class="moder" href="/gora/hruski_vrh/11/360">Hruški vrh (1776m)</a>, <a class="moder" href="/gora/koprivnjak___kleiner_frauenkogel/11/1262">Koprivnjak / Kleiner Frauenkogel (1754m)</a>, <a class="moder" href="/gora/planina_dovska_rozca/11/276">Planina Dovška Rožca (1650m)</a>, <a class="moder" href="/gora/planina_rozca___roschitzaalm/11/2715">Planina Rožca / Roschitzaalm (1407m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,44 +835,63 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
+<a class="moder" href="/spletna_kamera/basko_jezero___faakersee/253">Baško jezero / Faakersee</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/wernberg_-_duel/4621">Wernberg - Duel</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpalec%2f11%2f363"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpalec%2f11%2f363"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpalec%2f11%2f363"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdovska_baba%2f11%2f275"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdovska_baba%2f11%2f275"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdovska_baba%2f11%2f275"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/dovska_baba/275" title="Dovška Baba 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.DovskaBaba.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/palec/1490" onclick="event.preventDefault(); window.open('/slika_gora/palec/1490');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike1/P204005644520.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/297" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/297');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/Gora/p7140034medium5cm.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/palec/1520" onclick="event.preventDefault(); window.open('/slika_gora/palec/1520');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike1/P219002861600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/331" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/331');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/Gora/p6110101medium5en.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/palec/1521" onclick="event.preventDefault(); window.open('/slika_gora/palec/1521');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike1/P219002261600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/341" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/341');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/Gora/p6110133medium6il.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/palec/1734" onclick="event.preventDefault(); window.open('/slika_gora/palec/1734');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike1/P51300033932284.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/342" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/342');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/Gora/p6110209medium6pe.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/palec/2245" onclick="event.preventDefault(); window.open('/slika_gora/palec/2245');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike1/RIMG0172124488.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/1177" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/1177');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/Gora/pa300247mediummy3.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/palec/7266" onclick="event.preventDefault(); window.open('/slika_gora/palec/7266');"><img class="slikagm" alt="Palec" src="//slike.hribi.net/sliketemp/KocaNaLjubelju%200155821195.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/1261" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/1261');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/Gora/pb280023mediumqg4.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/palec/15910" onclick="event.preventDefault(); window.open('/slika_gora/palec/15910');"><img class="slikagm" alt="Palec" src="//slike.hribi.net/slike4/2_0555555757793_DSCN1083.JPG" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/1364" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/1364');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/slike1/PC25005548384.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/palec/15911" onclick="event.preventDefault(); window.open('/slika_gora/palec/15911');"><img class="slikagm" alt="Palec" src="//slike.hribi.net/slike4/2_1601553970548_DSCN8060.JPG" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/1629" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/1629');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/slike1/P4160189126000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/palec/16007" onclick="event.preventDefault(); window.open('/slika_gora/palec/16007');"><img class="slikagm" alt="Palec" src="//slike.hribi.net/slike4/2_0153557737385_DSCN3166.JPG" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/4317" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/4317');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/sliketemp/P52400975003318.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/palec/16008" onclick="event.preventDefault(); window.open('/slika_gora/palec/16008');"><img class="slikagm" alt="Palec" src="//slike.hribi.net/slike4/2_1869557737388_DSCN3167.JPG" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/4328" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/4328');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/slike1/P5240185187200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/palec/16009" onclick="event.preventDefault(); window.open('/slika_gora/palec/16009');"><img class="slikagm" alt="Palec" src="//www.hribi.net/slike11/DSCN3178451246882.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dovska_baba/6118" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/6118');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/slike1/Gubno%20069288000.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/dovska_baba/6119" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/6119');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/slike1/P6230112538560.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/dovska_baba/8317" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/8317');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/slike1/Borovje 1249152.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/dovska_baba/9996" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/9996');"><img class="slikagm" alt="Dovška Baba" src="//www.hribi.net/slike1/Avstrija12 074907200.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/dovska_baba/19558" onclick="event.preventDefault(); window.open('/slika_gora/dovska_baba/19558');"><img class="slikagm" alt="Dovška Baba" src="//slike.hribi.net/slike4/2_129652521341_DSCN6931.JPG" /></a>
     
 </div>
 
 
 
-
+<div style="padding-top:8px;"><b>Video:</b></div><div>
+        <a target="_blank" href="/video_posnetek/Smučanje/small_steps_big_comeback!_-_dovska_baba_26122020/1/948"><img class="slikagmv" alt="SMALL STEPS, BIG COMEBACK! - Dovška baba, 26.12.2020" src="https://img.youtube.com/vi/BsqhdF-cfJo/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Smučanje/dovska_baba/1/782"><img class="slikagmv" alt="Dovška Baba" src="https://img.youtube.com/vi/KpHRt_IK0TQ/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/dovska_baba/8/377"><img class="slikagmv" alt="Dovska Baba" src="https://img.youtube.com/vi/0cw8g7ecWHQ/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Ostalo/dovska_baba/7/125"><img class="slikagmv" alt="Dovška Baba" src="https://img.youtube.com/vi/xrjCRCkWhz4/0.jpg" /></a>
+    </div>
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -930,7 +949,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=363&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=275&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -940,11 +959,23 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_palec/11/363/508">Ljubelj - Palec</a></td><td class="tdG"><a href="/izlet/ljubelj_palec/11/363/508">3 h</a></td><td class="tdG"><a href="/izlet/ljubelj_palec/11/363/508">zahtevna neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ravne_dovska_baba_pes_pot/11/275/393">Ravne - Dovška Baba (peš pot)</a></td><td class="tdG"><a href="/izlet/ravne_dovska_baba_pes_pot/11/275/393">1 h 45 min</a></td><td class="tdG"><a href="/izlet/ravne_dovska_baba_pes_pot/11/275/393">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tinckova_koca_palec/11/363/2603">Tinčkova koča - Palec</a></td><td class="tdG"><a href="/izlet/tinckova_koca_palec/11/363/2603">3 h</a></td><td class="tdG"><a href="/izlet/tinckova_koca_palec/11/363/2603">zahtevna neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dovje_dovska_baba/11/275/2116">Dovje - Dovška Baba</a></td><td class="tdG"><a href="/izlet/dovje_dovska_baba/11/275/2116">3 h</a></td><td class="tdG"><a href="/izlet/dovje_dovska_baba/11/275/2116">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tinckova_koca_palec_skozi_zagon/11/363/6436">Tinčkova koča - Palec (skozi Zagon)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_palec_skozi_zagon/11/363/6436">3 h 30 min</a></td><td class="tdG"><a href="/izlet/tinckova_koca_palec_skozi_zagon/11/363/6436">zahtevna neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ravne_dovska_baba_po_cesti/11/275/394">Ravne - Dovška Baba (po cesti)</a></td><td class="tdG"><a href="/izlet/ravne_dovska_baba_po_cesti/11/275/394">1 h 50 min</a></td><td class="tdG"><a href="/izlet/ravne_dovska_baba_po_cesti/11/275/394">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/erjavcev_rovt_dovska_baba_direktna_pot/11/275/2622"> Erjavčev rovt - Dovška Baba (direktna pot)</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_dovska_baba_direktna_pot/11/275/2622">2 h 15 min</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_dovska_baba_direktna_pot/11/275/2622">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/erjavcev_rovt_dovska_baba_cez_brvog/11/275/2620">Erjavčev rovt - Dovška Baba (čez Brvog)</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_dovska_baba_cez_brvog/11/275/2620">2 h 45 min</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_dovska_baba_cez_brvog/11/275/2620">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/rogarjev_rovt_dovska_baba_cez_rozco_in_hruski_vrh/11/275/6142">Rogarjev rovt - Dovška Baba (čez Rožco in Hruški vrh)</a></td><td class="tdG"><a href="/izlet/rogarjev_rovt_dovska_baba_cez_rozco_in_hruski_vrh/11/275/6142">2 h 30 min</a></td><td class="tdG"><a href="/izlet/rogarjev_rovt_dovska_baba_cez_rozco_in_hruski_vrh/11/275/6142">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dovje_dovska_baba_cez_blazcevo_skalo/11/275/7814"> Dovje - Dovška Baba (čez Blažčevo skalo)</a></td><td class="tdG"><a href="/izlet/dovje_dovska_baba_cez_blazcevo_skalo/11/275/7814">3 h 15 min</a></td><td class="tdG"><a href="/izlet/dovje_dovska_baba_cez_blazcevo_skalo/11/275/7814">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podrozca___rosenbach_dovska_baba_cez_hruski_vrh/11/275/6138">Podrožca / Rosenbach - Dovška Baba (čez Hruški vrh)</a></td><td class="tdG"><a href="/izlet/podrozca___rosenbach_dovska_baba_cez_hruski_vrh/11/275/6138">4 h 40 min</a></td><td class="tdG"><a href="/izlet/podrozca___rosenbach_dovska_baba_cez_hruski_vrh/11/275/6138">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podrozca___rosenbach_dovska_baba_cez_koprivnjak/11/275/6140">Podrožca / Rosenbach - Dovška Baba (čez Koprivnjak)</a></td><td class="tdG"><a href="/izlet/podrozca___rosenbach_dovska_baba_cez_koprivnjak/11/275/6140">4 h 30 min</a></td><td class="tdG"><a href="/izlet/podrozca___rosenbach_dovska_baba_cez_koprivnjak/11/275/6140">lahka neoznačena steza</a></td></tr>
 
 </table>
 

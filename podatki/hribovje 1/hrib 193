@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Velika Plešivica</title>
-        <meta name="description" content="Natančen opis gore Velika Plešivica in vseh pristopov na Velika Plešivica. Velika Plešivica je 908 m visok vrh, ki se nahaja med Slavnikom in manj znano Ma." />
+        <title>Frančiškov hrib</title>
+        <meta name="description" content="Natančen opis gore Frančiškov hrib in vseh pristopov na Frančiškov hrib. Frančiškov hrib je manj izrazit vrh, ki se nahaja na Skalnici, katere najvišji v." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1163?gorovjeid=26&amp;id=1163" id="form1">
+    <form method="post" action="./2145?gorovjeid=26&amp;id=2145" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/velika_plesivica/26/1163"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1163"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/franciskov_hrib/26/2145"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2145"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Velika Plešivica
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Frančiškov hrib
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1163);
+    gorast(2145);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Velika Plešivica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Frančiškov hrib</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 908&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 632&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;31,0860'N&nbsp;/&nbsp;14°&nbsp;1,3812'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;59,7240'N&nbsp;/&nbsp;13°&nbsp;39,6720'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;31'&nbsp;5,16''N&nbsp;/&nbsp;14°&nbsp;1'&nbsp;22,87''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;59'&nbsp;43,44''N&nbsp;/&nbsp;13°&nbsp;39'&nbsp;40,32''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.5181°N&nbsp;/&nbsp;14.02302°E";
+                        document.getElementById("kf0").innerHTML = "45.9954°N&nbsp;/&nbsp;13.6612°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,5181°N,&nbsp;14,02302°E";
+                    document.getElementById("kf0").innerHTML = "45,9954°N,&nbsp;13,6612°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,5181°N&nbsp;14,02302°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/velika_plesivica/1163"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,9954°N&nbsp;13,6612°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/franciskov_hrib/2145"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Frančiškov hrib - Torek" href="/vreme_gora/franciskov_hrib/26/2145#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Frančiškov hrib - Sreda" href="/vreme_gora/franciskov_hrib/26/2145#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Frančiškov hrib - Četrtek" href="/vreme_gora/franciskov_hrib/26/2145#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Plešivica - Petek" href="/vreme_gora/velika_plesivica/26/1163#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Frančiškov hrib - Petek" href="/vreme_gora/franciskov_hrib/26/2145#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Plešivica - Sobota" href="/vreme_gora/velika_plesivica/26/1163#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Plešivica - Nedelja" href="/vreme_gora/velika_plesivica/26/1163#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Plešivica - Ponedeljek" href="/vreme_gora/velika_plesivica/26/1163#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Velika Plešivica - Torek" href="/vreme_gora/velika_plesivica/26/1163#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Frančiškov hrib - Sobota" href="/vreme_gora/franciskov_hrib/26/2145#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 234.647</div>
-<div class="g2"><b>Priljubljenost:</b> 62%&nbsp;(1253.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 209.235</div>
+<div class="g2"><b>Priljubljenost:</b> 59%&nbsp;(1354.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2145" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Velika Plešivica je 908 m visok vrh, ki se nahaja med Slavnikom in manj znano Malo Plešivico. Z vrha na katerem se nahaja uničena vpisna skrinjica je lep razgled proti Istri, Tržaškemu zalivu, Slavniku in bližnji Mali Plešivici, ob lepem vremenu pa razgled seže vse do Dolomitov.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Frančiškov hrib je manj izrazit vrh, ki se nahaja na Skalnici, katere najvišji vrh je 681 metrov visoka Sveta Gora. Z razglednega vrha, na katerem stoji kip sv. Frančiška, se nam odpre lep razgled proti bližnji Sveti Gori, planoti Banjšice, Trnovski gozd, Trstelj, Sabotin in Novo Gorico z okolico.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1163&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2145&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/mala_plesivica/26/1162">Mala Plešivica (953m)</a>
+<a class="moder" href="/gora/sveta_gora/26/450">Sveta Gora (681m)</a>, <a class="moder" href="/gora/veliki_hrib_kota_526/26/2610">Veliki hrib (kota 526) (526m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,31 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/starod/298">Starod</a>, <a class="moder" href="/spletna_kamera/sveti_martin/3717">Sveti Martin</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
+<a class="moder" href="/spletna_kamera/biljana/1064">Biljana</a>, <a class="moder" href="/spletna_kamera/bilje/2085">Bilje</a>, <a class="moder" href="/spletna_kamera/cerje/4309">Cerje</a>, <a class="moder" href="/spletna_kamera/deskle/2025">Deskle</a>, <a class="moder" href="/spletna_kamera/gorica/484">Gorica</a>, <a class="moder" href="/spletna_kamera/gorica/1670">Gorica</a>, <a class="moder" href="/spletna_kamera/goriski_grad___comune_di_gorizia/2056">Goriški grad / Comune di Gorizia</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kojsko/3396">Kojsko</a>, <a class="moder" href="/spletna_kamera/korada/2146">Korada</a>, <a class="moder" href="/spletna_kamera/kostanjevica_pri_novi_gorici/3510">Kostanjevica pri Novi Gorici</a>, <a class="moder" href="/spletna_kamera/lijak/344">Lijak</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/neblo/1707">Neblo</a>, <a class="moder" href="/spletna_kamera/nova_gorica/1012">Nova Gorica</a>, <a class="moder" href="/spletna_kamera/nova_gorica_panovec/282">Nova Gorica (Panovec)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_sportni_park_nova_gorica/4298">Nova Gorica (Športni park Nova Gorica)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_trg_edvarda_kardelja/4097">Nova Gorica (Trg Edvarda Kardelja)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_-_rolkarski_park/1996">Nova Gorica - rolkarski park</a>, <a class="moder" href="/spletna_kamera/nova_gorica_center/1697">Nova Gorica center</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/ozeljan/2075">Ozeljan</a>, <a class="moder" href="/spletna_kamera/panovec/346">Panovec</a>, <a class="moder" href="/spletna_kamera/podgora___piedimonte_del_calvario/1680">Podgora / Piedimonte del Calvario</a>, <a class="moder" href="/spletna_kamera/rafut/1884">Rafut</a>, <a class="moder" href="/spletna_kamera/ravna_pri_ligu/1589">Ravna pri Ligu</a>, <a class="moder" href="/spletna_kamera/rence/1883">Renče</a>, <a class="moder" href="/spletna_kamera/rozna_dolina/1706">Rožna Dolina</a>, <a class="moder" href="/spletna_kamera/sempeter_pri_gorici/2155">Šempeter pri Gorici</a>, <a class="moder" href="/spletna_kamera/sempeter_pri_gorici/4225">Šempeter pri Gorici</a>, <a class="moder" href="/spletna_kamera/smartno/4083">Šmartno</a>, <a class="moder" href="/spletna_kamera/solkan/1663">Solkan</a>, <a class="moder" href="/spletna_kamera/solkan_brv_cez_soco/4065">Solkan (brv čez Sočo)</a>, <a class="moder" href="/spletna_kamera/solkanski_most/3326">Solkanski most</a>, <a class="moder" href="/spletna_kamera/sveta_gora/1882">Sveta Gora</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/visnjevik/4230">Višnjevik</a>, <a class="moder" href="/spletna_kamera/vrtojba/1078">Vrtojba</a>, <a class="moder" href="/spletna_kamera/vrtojba_/1943">Vrtojba </a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_plesivica%2f26%2f1163"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_plesivica%2f26%2f1163"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_plesivica%2f26%2f1163"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ffranciskov_hrib%2f26%2f2145"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ffranciskov_hrib%2f26%2f2145"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ffranciskov_hrib%2f26%2f2145"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/velika_plesivica/1163" title="Velika Plešivica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VelikaPlesivica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/velika_plesivica/3923" onclick="event.preventDefault(); window.open('/slika_gora/velika_plesivica/3923');"><img class="slikagm" alt="Velika Plešivica" src="//www.hribi.net/slike1/P209010479920.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/franciskov_hrib/10627" onclick="event.preventDefault(); window.open('/slika_gora/franciskov_hrib/10627');"><img class="slikagm" alt="Frančiškov hrib" src="//slike.hribi.net/slike4/2_0954417981381_Vodice_156.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_plesivica/3925" onclick="event.preventDefault(); window.open('/slika_gora/velika_plesivica/3925');"><img class="slikagm" alt="Velika Plešivica" src="//www.hribi.net/slike1/P209016992880.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/franciskov_hrib/10628" onclick="event.preventDefault(); window.open('/slika_gora/franciskov_hrib/10628');"><img class="slikagm" alt="Frančiškov hrib" src="//www.hribi.net/slike1/Vodice 116394706.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_plesivica/3926" onclick="event.preventDefault(); window.open('/slika_gora/velika_plesivica/3926');"><img class="slikagm" alt="Velika Plešivica" src="//www.hribi.net/slike1/P209016295040.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/franciskov_hrib/10858" onclick="event.preventDefault(); window.open('/slika_gora/franciskov_hrib/10858');"><img class="slikagm" alt="Frančiškov hrib" src="//www.hribi.net/slike1/SvetaGoraGrgar 021425984.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_plesivica/3927" onclick="event.preventDefault(); window.open('/slika_gora/velika_plesivica/3927');"><img class="slikagm" alt="Velika Plešivica" src="//www.hribi.net/slike1/P209016695040.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/franciskov_hrib/10859" onclick="event.preventDefault(); window.open('/slika_gora/franciskov_hrib/10859');"><img class="slikagm" alt="Frančiškov hrib" src="//www.hribi.net/slike1/SvetaGoraGrgar 022425984.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/velika_plesivica/5419" onclick="event.preventDefault(); window.open('/slika_gora/velika_plesivica/5419');"><img class="slikagm" alt="Velika Plešivica" src="//www.hribi.net/slike1/Slavnik%2037412480.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/velika_plesivica/7458" onclick="event.preventDefault(); window.open('/slika_gora/velika_plesivica/7458');"><img class="slikagm" alt="Velika Plešivica" src="//www.hribi.net/slike1/Lipnik 2597392.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/franciskov_hrib/10860" onclick="event.preventDefault(); window.open('/slika_gora/franciskov_hrib/10860');"><img class="slikagm" alt="Frančiškov hrib" src="//www.hribi.net/slike1/SvetaGoraGrgar 023425984.th.jpg" /></a>
     
 </div>
 
@@ -923,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1163&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2145&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -933,9 +928,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zagrad_velika_plesivica_cez_malo_plesivico/26/1163/1958">Zagrad - Velika Plešivica (čez Malo Plešivico)</a></td><td class="tdG"><a href="/izlet/zagrad_velika_plesivica_cez_malo_plesivico/26/1163/1958">2 h</a></td><td class="tdG"><a href="/izlet/zagrad_velika_plesivica_cez_malo_plesivico/26/1163/1958">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/skalnica_franciskov_hrib_pot_po_jarkih/26/2145/4334">Skalnica - Frančiškov hrib (pot po jarkih)</a></td><td class="tdG"><a href="/izlet/skalnica_franciskov_hrib_pot_po_jarkih/26/2145/4334"> 50 min</a></td><td class="tdG"><a href="/izlet/skalnica_franciskov_hrib_pot_po_jarkih/26/2145/4334">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/velika_vrata_velika_plesivica/26/1163/1960">Velika vrata - Velika Plešivica</a></td><td class="tdG"><a href="/izlet/velika_vrata_velika_plesivica/26/1163/1960"> 25 min</a></td><td class="tdG"><a href="/izlet/velika_vrata_velika_plesivica/26/1163/1960">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/sveta_gora_franciskov_hrib/26/2145/4336">Sveta Gora - Frančiškov hrib</a></td><td class="tdG"><a href="/izlet/sveta_gora_franciskov_hrib/26/2145/4336"> 10 min</a></td><td class="tdG"><a href="/izlet/sveta_gora_franciskov_hrib/26/2145/4336">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grgar_franciskov_hrib/26/2145/4392">Grgar - Frančiškov hrib</a></td><td class="tdG"><a href="/izlet/grgar_franciskov_hrib/26/2145/4392">1 h 15 min</a></td><td class="tdG"><a href="/izlet/grgar_franciskov_hrib/26/2145/4392">lahka označena pot</a></td></tr>
 
 </table>
 

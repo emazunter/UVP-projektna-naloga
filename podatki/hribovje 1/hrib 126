@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Mala gora</title>
-        <meta name="description" content="Natančen opis gore Mala gora in vseh pristopov na Mala gora. Mala gora je planota na pobočju Čavna. Na višini 1034 metrov je postavljena koča." />
+        <title>Podrta gora nad Ajdovščino</title>
+        <meta name="description" content="Natančen opis gore Podrta gora nad Ajdovščino in vseh pristopov na Podrta gora nad Ajdovščino. Podrta gora nad Ajdovščino, tudi Podrta gora nad Šturjami je gora, ki se dviga n." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./730?gorovjeid=26&amp;id=730" id="form1">
+    <form method="post" action="./2495?gorovjeid=26&amp;id=2495" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mala_gora/26/730"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=730"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/podrta_gora_above_ajdovscina/26/2495"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2495"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Mala gora
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Podrta gora nad Ajdovščino
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(730);
+    gorast(2495);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Mala gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Podrta gora nad Ajdovščino</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1034&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 827&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;55,5216'N&nbsp;/&nbsp;13°&nbsp;50,6784'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;53,6256'N&nbsp;/&nbsp;13°&nbsp;56,8674'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;55'&nbsp;31,30''N&nbsp;/&nbsp;13°&nbsp;50'&nbsp;40,70''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;53'&nbsp;37,54''N&nbsp;/&nbsp;13°&nbsp;56'&nbsp;52,04''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.92536°N&nbsp;/&nbsp;13.84464°E";
+                        document.getElementById("kf0").innerHTML = "45.89376°N&nbsp;/&nbsp;13.94779°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,92536°N,&nbsp;13,84464°E";
+                    document.getElementById("kf0").innerHTML = "45,89376°N,&nbsp;13,94779°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,92536°N&nbsp;13,84464°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mala_gora/730"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,89376°N&nbsp;13,94779°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/podrta_gora_nad_ajdovscino/2495"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Podrta gora nad Ajdovščino - Torek" href="/vreme_gora/podrta_gora_nad_ajdovscino/26/2495#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Podrta gora nad Ajdovščino - Sreda" href="/vreme_gora/podrta_gora_nad_ajdovscino/26/2495#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Podrta gora nad Ajdovščino - Četrtek" href="/vreme_gora/podrta_gora_nad_ajdovscino/26/2495#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Mala gora - Petek" href="/vreme_gora/mala_gora/26/730#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Podrta gora nad Ajdovščino - Petek" href="/vreme_gora/podrta_gora_nad_ajdovscino/26/2495#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Mala gora - Sobota" href="/vreme_gora/mala_gora/26/730#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Mala gora - Nedelja" href="/vreme_gora/mala_gora/26/730#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Mala gora - Ponedeljek" href="/vreme_gora/mala_gora/26/730#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Mala gora - Torek" href="/vreme_gora/mala_gora/26/730#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Podrta gora nad Ajdovščino - Sobota" href="/vreme_gora/podrta_gora_nad_ajdovscino/26/2495#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 478.297</div>
-<div class="g2"><b>Priljubljenost:</b> 88%&nbsp;(380.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 12.682</div>
+<div class="g2"><b>Priljubljenost:</b> 39%&nbsp;(2019.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Mala gora je planota na pobočju Čavna. Na višini 1034 metrov je postavljena koča. Mala gora je znana po cvetju, ki je značilno samo za to območje. S planote se vidi Vipavska dolina, goriška ter ob lepem vremenu Jadransko morje.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Podrta gora nad Ajdovščino, tudi Podrta gora nad Šturjami je gora, ki se dviga nad Vipavsko dolino. Pred časom se je z vrha Podrte gore odlomil večji kos stene, od tod tudi ime gore. Žig in vpisna skrinjica Podrte gore se nahajata ob manjši kapelici, le ta pa malo pod grebenom, v bližini označenega razpotja, kjer se poti po Robu priključi markirana pot iz Ajdovščine.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=730&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2495&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_crna_pec/26/1416">Bivak Črna peč (830m)</a>, <a class="moder" href="/gora/koca_antona_bavcerja_na_cavnu/26/500">Koča Antona Bavčerja na Čavnu (1242m)</a>, <a class="moder" href="/gora/kucelj_na_cavnu/26/501">Kucelj na Čavnu (1237m)</a>, <a class="moder" href="/gora/mali_modrasovec/26/502">Mali Modrasovec (1305m)</a>, <a class="moder" href="/gora/veliki_modrasovec/26/503">Veliki Modrasovec (1353m)</a>
+<a class="moder" href="/gora/kovk/26/1183">Kovk (961m)</a>, <a class="moder" href="/gora/kraguljc/26/2496">Kraguljc (897m)</a>, <a class="moder" href="/gora/sinji_vrh/26/813">Sinji vrh (1002m)</a>, <a class="moder" href="/gora/soncnica_reber/26/2494">Sončnica (Reber) (867m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,45 +835,22 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/lijak/344">Lijak</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/ozeljan/2075">Ozeljan</a>, <a class="moder" href="/spletna_kamera/rence/1883">Renče</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/stanjel_ferrarijev_vrt/4213">Štanjel (Ferrarijev vrt)</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/trstelj/3508">Trstelj</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>
+<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/podgric/1414">Podgrič</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/stanjel_ferrarijev_vrt/4213">Štanjel (Ferrarijev vrt)</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmala_gora%2f26%2f730"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmala_gora%2f26%2f730"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmala_gora%2f26%2f730"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpodrta_gora_nad_ajdovscino%2f26%2f2495"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpodrta_gora_nad_ajdovscino%2f26%2f2495"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpodrta_gora_nad_ajdovscino%2f26%2f2495"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/mala_gora/730" title="Mala gora 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.MGoraCaven.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/mala_gora/2437" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/2437');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/sliketemp/DSCF01304176917.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/podrta_gora_nad_ajdovscino/13457" onclick="event.preventDefault(); window.open('/slika_gora/podrta_gora_nad_ajdovscino/13457');"><img class="slikagm" alt="Podrta gora nad Ajdovščino" src="//www.hribi.net/slike1/DSCN4194225000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/mala_gora/2438" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/2438');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/sliketemp/DSCF01084176919.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/podrta_gora_nad_ajdovscino/13458" onclick="event.preventDefault(); window.open('/slika_gora/podrta_gora_nad_ajdovscino/13458');"><img class="slikagm" alt="Podrta gora nad Ajdovščino" src="//www.hribi.net/slike1/DSCN4195225000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/mala_gora/2630" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/2630');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/sliketemp/PC2802264266577.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mala_gora/5188" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/5188');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/slike1/P2190202100464.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mala_gora/14080" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/14080');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/slike1/mg1162000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mala_gora/14081" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/14081');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/slike1/mg2162000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mala_gora/14082" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/14082');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/slike1/mg3162000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mala_gora/14083" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/14083');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/slike1/mg4162000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mala_gora/14084" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/14084');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/slike1/mg5162000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mala_gora/14085" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/14085');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/slike1/mg6162000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mala_gora/14086" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/14086');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/slike1/mg7162000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mala_gora/14087" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/14087');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/slike1/mg8162000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mala_gora/14088" onclick="event.preventDefault(); window.open('/slika_gora/mala_gora/14088');"><img class="slikagm" alt="Mala gora" src="//www.hribi.net/slike1/mg9162000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/podrta_gora_nad_ajdovscino/13459" onclick="event.preventDefault(); window.open('/slika_gora/podrta_gora_nad_ajdovscino/13459');"><img class="slikagm" alt="Podrta gora nad Ajdovščino" src="//www.hribi.net/slike1/DSCN4198225000.th.jpg" /></a>
     
 </div>
 
@@ -937,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=730&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2495&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -947,13 +924,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/predmeja_tuneli_mala_gora_srednjecavenska_pot/26/730/2381">Predmeja (tuneli) - Mala gora (Srednječavenska pot)</a></td><td class="tdG"><a href="/izlet/predmeja_tuneli_mala_gora_srednjecavenska_pot/26/730/2381">1 h 30 min</a></td><td class="tdG"><a href="/izlet/predmeja_tuneli_mala_gora_srednjecavenska_pot/26/730/2381">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/col_podrta_gora_nad_ajdovscino/26/2495/5308">Col - Podrta gora nad Ajdovščino</a></td><td class="tdG"><a href="/izlet/col_podrta_gora_nad_ajdovscino/26/2495/5308">1 h 45 min</a></td><td class="tdG"><a href="/izlet/col_podrta_gora_nad_ajdovscino/26/2495/5308">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kamnje_mala_gora/26/730/1492">Kamnje - Mala gora</a></td><td class="tdG"><a href="/izlet/kamnje_mala_gora/26/730/1492">2 h</a></td><td class="tdG"><a href="/izlet/kamnje_mala_gora/26/730/1492">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lovska_koca_budanje_podrta_gora_nad_ajdovscino/26/2495/5302">Lovska koča Budanje - Podrta gora nad Ajdovščino</a></td><td class="tdG"><a href="/izlet/lovska_koca_budanje_podrta_gora_nad_ajdovscino/26/2495/5302">1 h 35 min</a></td><td class="tdG"><a href="/izlet/lovska_koca_budanje_podrta_gora_nad_ajdovscino/26/2495/5302">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/stomaz_mala_gora/26/730/1407">Stomaž - Mala gora</a></td><td class="tdG"><a href="/izlet/stomaz_mala_gora/26/730/1407">2 h</a></td><td class="tdG"><a href="/izlet/stomaz_mala_gora/26/730/1407">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vrtovin_mala_gora/26/730/3714">Vrtovin - Mala gora</a></td><td class="tdG"><a href="/izlet/vrtovin_mala_gora/26/730/3714">2 h 15 min</a></td><td class="tdG"><a href="/izlet/vrtovin_mala_gora/26/730/3714">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/jamce_podrta_gora_nad_ajdovscino/26/2495/5311">Jamce - Podrta gora nad Ajdovščino</a></td><td class="tdG"><a href="/izlet/jamce_podrta_gora_nad_ajdovscino/26/2495/5311">1 h 20 min</a></td><td class="tdG"><a href="/izlet/jamce_podrta_gora_nad_ajdovscino/26/2495/5311">lahka neoznačena steza</a></td></tr>
 
 </table>
 

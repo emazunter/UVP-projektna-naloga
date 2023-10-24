@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Lopatnik</title>
-        <meta name="description" content="Natančen opis gore Lopatnik in vseh pristopov na Lopatnik. Lopatnik je lahko dostopen dvatisočak nad planino Zapleč. Njegov vrh v obliki di." />
+        <title>Erjavčeva koča na Vršiču</title>
+        <meta name="description" content="Natančen opis koče Erjavčeva koča na Vršiču in vseh pristopov na Erjavčeva koča na Vršiču. Erjavčeva koča na Vršiču na nahaja na kranjskogorski strani Vršiške ceste, na ra." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2309?gorovjeid=1&amp;id=2309" id="form1">
+    <form method="post" action="./272?gorovjeid=1&amp;id=272" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lopatnik/1/2309"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=2309"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/erjavceva_koca_na_vrsicu/1/272"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=272"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Lopatnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Erjavčeva koča na Vršiču
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2309);
+    gorast(272);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Lopatnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Erjavčeva koča na Vršiču</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2012&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1525&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,2080'N&nbsp;/&nbsp;13°&nbsp;38,9580'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,3526'N&nbsp;/&nbsp;13°&nbsp;44,9604'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;12,48''N&nbsp;/&nbsp;13°&nbsp;38'&nbsp;57,48''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;21,16''N&nbsp;/&nbsp;13°&nbsp;44'&nbsp;57,62''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.2868°N&nbsp;/&nbsp;13.6493°E";
+                        document.getElementById("kf0").innerHTML = "46.43921°N&nbsp;/&nbsp;13.74934°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,2868°N,&nbsp;13,6493°E";
+                    document.getElementById("kf0").innerHTML = "46,43921°N,&nbsp;13,74934°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2868°N&nbsp;13,6493°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lopatnik/2309"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43921°N&nbsp;13,74934°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/erjavceva_koca_na_vrsicu/272"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Erjavčeva koča na Vršiču - Torek" href="/vreme_gora/erjavceva_koca_na_vrsicu/1/272#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Erjavčeva koča na Vršiču - Sreda" href="/vreme_gora/erjavceva_koca_na_vrsicu/1/272#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Erjavčeva koča na Vršiču - Četrtek" href="/vreme_gora/erjavceva_koca_na_vrsicu/1/272#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopatnik - Petek" href="/vreme_gora/lopatnik/1/2309#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Erjavčeva koča na Vršiču - Petek" href="/vreme_gora/erjavceva_koca_na_vrsicu/1/272#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopatnik - Sobota" href="/vreme_gora/lopatnik/1/2309#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopatnik - Nedelja" href="/vreme_gora/lopatnik/1/2309#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopatnik - Ponedeljek" href="/vreme_gora/lopatnik/1/2309#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopatnik - Torek" href="/vreme_gora/lopatnik/1/2309#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Erjavčeva koča na Vršiču - Sobota" href="/vreme_gora/erjavceva_koca_na_vrsicu/1/272#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 420.168</div>
-<div class="g2"><b>Priljubljenost:</b> 83%&nbsp;(570.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">16</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 494.388</div>
+<div class="g2"><b>Priljubljenost:</b> 90%&nbsp;(336.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=272" title="Število vpisov v vpisni knjigi">6</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Lopatnik je lahko dostopen dvatisočak nad planino Zapleč. Njegov vrh v obliki diadema se dviga med sedlom Vrata in grebenom Krnčice. Vrh je brez vpisne skrinjice in žiga. Z njega se odpirajo prekrasni razgledi na večji del Julijskih Alp in še naprej. Na vrhu je veliko ostankov iz 1. svetovne vojne, ki nas na vsakem koraku opominjajo na hude čase, ki so jih tu preživljali vojaki. <br><br>Vrh se rad že dopoldan zagrne v meglo in oblake, ki se podijo okoli Krna. V vročih poletnih dneh pa je dobro za vzpon izbrati zgodnje jutranje ure, saj so južna pobočja, po katerih se vije pot, cel dan izpostavljena soncu. <br></div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Erjavčeva koča na Vršiču na nahaja na kranjskogorski strani Vršiške ceste, na razgledni vzpetini nad bližnjim hudournikom. Od koče se nam ob lepem vremenu odpre lep razgled na vrhove nad dolino Pišnice in delu gora nad vršiško cesto.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2309&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=272&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/krncica/1/1625">Krnčica (2142m)</a>, <a class="moder" href="/gora/planina_zagreben/1/2984">Planina Zagreben (1240m)</a>, <a class="moder" href="/gora/veliki_lemez/1/2988">Veliki Lemež (2042m)</a>, <a class="moder" href="/gora/vogel_nad_lepeno/1/2986">Vogel (nad Lepeno) (1980m)</a>
+<a class="moder" href="/gora/koca_na_gozdu/1/270">Koča na Gozdu (1226m)</a>, <a class="moder" href="/gora/kumlehova_glava/1/1266">Kumlehova glava (1788m)</a>, <a class="moder" href="/gora/mala_mojstrovka/1/224">Mala Mojstrovka (2332m)</a>, <a class="moder" href="/gora/mihov_dom_na_vrsicu/1/269">Mihov dom na Vršiču (1085m)</a>, <a class="moder" href="/gora/postarski_dom_na_vrsicu/1/261">Poštarski dom na Vršiču (1688m)</a>, <a class="moder" href="/gora/prednje_robicje/1/1329">Prednje Robičje (1941m)</a>, <a class="moder" href="/gora/ruska_kapelica/1/271">Ruska kapelica (1130m)</a>, <a class="moder" href="/gora/sitna_glava/1/273">Šitna glava (2087m)</a>, <a class="moder" href="/gora/slemenova_spica/1/240">Slemenova špica (1911m)</a>, <a class="moder" href="/gora/sovna_glava/1/465">Sovna glava (1750m)</a>, <a class="moder" href="/gora/suhi_vrh/1/996">Suhi vrh (2109m)</a>, <a class="moder" href="/gora/ticarjev_dom_na_vrsicu/1/262">Tičarjev dom na Vršiču (1618m)</a>, <a class="moder" href="/gora/tonkina_koca_na_vrsicu/1/2440">Tonkina koča na Vršiču (1380m)</a>, <a class="moder" href="/gora/velika_mojstrovka/1/386">Velika Mojstrovka (2366m)</a>, <a class="moder" href="/gora/visoki_mavrinc/1/1267">Visoki Mavrinc (1562m)</a>, <a class="moder" href="/gora/vrsic_vrh/1/426">Vršič vrh (1737m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,48 +835,35 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/robic/1781">Robič</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flopatnik%2f1%2f2309"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flopatnik%2f1%2f2309"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flopatnik%2f1%2f2309"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ferjavceva_koca_na_vrsicu%2f1%2f272"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ferjavceva_koca_na_vrsicu%2f1%2f272"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ferjavceva_koca_na_vrsicu%2f1%2f272"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/erjavceva_koca_na_vrsicu/272" title="Erjavčeva koča na Vršiču 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.ErjavcevaKoca.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/lopatnik/12278" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12278');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_66327418814.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/erjavceva_koca_na_vrsicu/671" onclick="event.preventDefault(); window.open('/slika_gora/erjavceva_koca_na_vrsicu/671');"><img class="slikagm" alt="Erjavčeva koča na Vršiču" src="//www.hribi.net/Gora/p7300065mediumwo1.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lopatnik/12279" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12279');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_51957418821.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/erjavceva_koca_na_vrsicu/673" onclick="event.preventDefault(); window.open('/slika_gora/erjavceva_koca_na_vrsicu/673');"><img class="slikagm" alt="Erjavčeva koča na Vršiču" src="//www.hribi.net/Gora/p7300074mediumyv7.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lopatnik/12280" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12280');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_51807418824.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/erjavceva_koca_na_vrsicu/674" onclick="event.preventDefault(); window.open('/slika_gora/erjavceva_koca_na_vrsicu/674');"><img class="slikagm" alt="Erjavčeva koča na Vršiču" src="//www.hribi.net/Gora/p7300075mediumfc4.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lopatnik/12281" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12281');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_66947418826.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/erjavceva_koca_na_vrsicu/676" onclick="event.preventDefault(); window.open('/slika_gora/erjavceva_koca_na_vrsicu/676');"><img class="slikagm" alt="Erjavčeva koča na Vršiču" src="//www.hribi.net/Gora/p7300077mediumam7.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lopatnik/12282" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12282');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/1409201310697418828.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/erjavceva_koca_na_vrsicu/9146" onclick="event.preventDefault(); window.open('/slika_gora/erjavceva_koca_na_vrsicu/9146');"><img class="slikagm" alt="Erjavčeva koča na Vršiču" src="//slike.hribi.net/sliketemp/Lanzevica%204206271750.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lopatnik/12283" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12283');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/1409201310757418829.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/erjavceva_koca_na_vrsicu/13210" onclick="event.preventDefault(); window.open('/slika_gora/erjavceva_koca_na_vrsicu/13210');"><img class="slikagm" alt="Erjavčeva koča na Vršiču" src="//slike.hribi.net/slike4/2_7289473083197_DSCN7326.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/lopatnik/12284" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12284');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_04637418835.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/erjavceva_koca_na_vrsicu/13213" onclick="event.preventDefault(); window.open('/slika_gora/erjavceva_koca_na_vrsicu/13213');"><img class="slikagm" alt="Erjavčeva koča na Vršiču" src="//slike.hribi.net/slike4/2_4745473084373_DSCN7359.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/lopatnik/12285" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12285');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_05077418837.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12286" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12286');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_05157418839.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12287" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12287');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_31447418846.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12288" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12288');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_37587418863.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12289" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12289');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_37627418865.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12290" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12290');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_37327418867.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12295" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12295');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_3098_17419799.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12357" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12357');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_82187471952.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12358" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12358');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_82197471953.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/erjavceva_koca_na_vrsicu/13214" onclick="event.preventDefault(); window.open('/slika_gora/erjavceva_koca_na_vrsicu/13214');"><img class="slikagm" alt="Erjavčeva koča na Vršiču" src="//slike.hribi.net/slike4/2_5634473084375_DSCN7360.JPG" /></a>
     
 </div>
 
@@ -940,7 +927,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2309&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=272&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -950,7 +937,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/drezniske_ravne_lopatnik/1/2309/4757">Drežniške Ravne - Lopatnik</a></td><td class="tdG"><a href="/izlet/drezniske_ravne_lopatnik/1/2309/4757">3 h</a></td><td class="tdG"><a href="/izlet/drezniske_ravne_lopatnik/1/2309/4757">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mihov_dom_na_vrsicu_erjavceva_koca_na_vrsicu_pes_pot/1/272/389">Mihov dom na Vršiču - Erjavčeva koča na Vršiču (peš pot)</a></td><td class="tdG"><a href="/izlet/mihov_dom_na_vrsicu_erjavceva_koca_na_vrsicu_pes_pot/1/272/389">1 h 30 min</a></td><td class="tdG"><a href="/izlet/mihov_dom_na_vrsicu_erjavceva_koca_na_vrsicu_pes_pot/1/272/389">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/tonkina_koca_na_vrsicu_erjavceva_koca_na_vrsicu/1/272/5124">Tonkina koča na Vršiču - Erjavčeva koča na Vršiču</a></td><td class="tdG"><a href="/izlet/tonkina_koca_na_vrsicu_erjavceva_koca_na_vrsicu/1/272/5124"> 25 min</a></td><td class="tdG"><a href="/izlet/tonkina_koca_na_vrsicu_erjavceva_koca_na_vrsicu/1/272/5124">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Strelovec</title>
-        <meta name="description" content="Natančen opis gore Strelovec in vseh pristopov na Strelovec. Razgleden vrh se nahaja med dvema alpskima dolinama in sicer med Logarsko dolino." />
+        <title>Goli vrh (Šavnice)</title>
+        <meta name="description" content="Natančen opis gore Goli vrh (Šavnice) in vseh pristopov na Goli vrh (Šavnice). Goli vrh je najvišji vrh Šavnic, predela na skrajnem vzhodnem delu planote Menin." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./490?gorovjeid=3&amp;id=490" id="form1">
+    <form method="post" action="./482?gorovjeid=3&amp;id=482" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/strelovec/3/490"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=490"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/goli_vrh_savnice/3/482"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=482"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Strelovec
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Goli vrh (Šavnice)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(490);
+    gorast(482);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Strelovec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Goli vrh (Šavnice)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1763&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1426&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;23,6634'N&nbsp;/&nbsp;14°&nbsp;39,4872'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;14,9970'N&nbsp;/&nbsp;14°&nbsp;51,3588'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;23'&nbsp;39,80''N&nbsp;/&nbsp;14°&nbsp;39'&nbsp;29,23''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;14'&nbsp;59,82''N&nbsp;/&nbsp;14°&nbsp;51'&nbsp;21,53''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.39439°N&nbsp;/&nbsp;14.65812°E";
+                        document.getElementById("kf0").innerHTML = "46.24995°N&nbsp;/&nbsp;14.85598°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,39439°N,&nbsp;14,65812°E";
+                    document.getElementById("kf0").innerHTML = "46,24995°N,&nbsp;14,85598°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,39439°N&nbsp;14,65812°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/strelovec/490"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,24995°N&nbsp;14,85598°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/goli_vrh_savnice/482"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Goli vrh (Šavnice) - Torek" href="/vreme_gora/goli_vrh_savnice/3/482#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Goli vrh (Šavnice) - Sreda" href="/vreme_gora/goli_vrh_savnice/3/482#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Goli vrh (Šavnice) - Četrtek" href="/vreme_gora/goli_vrh_savnice/3/482#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Strelovec - Petek" href="/vreme_gora/strelovec/3/490#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Goli vrh (Šavnice) - Petek" href="/vreme_gora/goli_vrh_savnice/3/482#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Strelovec - Sobota" href="/vreme_gora/strelovec/3/490#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Strelovec - Nedelja" href="/vreme_gora/strelovec/3/490#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Strelovec - Ponedeljek" href="/vreme_gora/strelovec/3/490#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Strelovec - Torek" href="/vreme_gora/strelovec/3/490#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Goli vrh (Šavnice) - Sobota" href="/vreme_gora/goli_vrh_savnice/3/482#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 541.292</div>
-<div class="g2"><b>Priljubljenost:</b> 93%&nbsp;(233.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">6</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=490" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 315.769</div>
+<div class="g2"><b>Priljubljenost:</b> 71%&nbsp;(943.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Razgleden vrh se nahaja med dvema alpskima dolinama in sicer med Logarsko dolino in Robanovim kotom. Pogled z vrha je najlepši na gore nad omenjenima dolinama. Na vrhu je vpisna skrinjica in v njej vpisna knjiga.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Goli vrh je najvišji vrh Šavnic, predela na skrajnem vzhodnem delu planote Menine planine. Z neporaščenega vrha, ki ima vpisno skrinjico z žigom, se nam odpre lep pogled na okoliške vrhove, kjer najlepše vidimo greben Smrekovca, Raduho in del Kamniško Savinjskih Alp.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=490&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=482&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/icmanikova_planina/3/1070">Icmanikova planina (1520m)</a>, <a class="moder" href="/gora/knezova_planina/3/1069">Knezova planina (1520m)</a>, <a class="moder" href="/gora/logarska_pec/3/1071">Logarska peč (1536m)</a>, <a class="moder" href="/gora/plesnikova_planina/3/2660">Plesnikova planina (1319m)</a>, <a class="moder" href="/gora/slap_palenk/3/1073">Slap Palenk (730m)</a>
+<a class="moder" href="/gora/zavetisce_na_biba_planini/3/185">Zavetišče na Biba planini (1300m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,35 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>, <a class="moder" href="/spletna_kamera/vransko/359">Vransko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstrelovec%2f3%2f490"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstrelovec%2f3%2f490"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstrelovec%2f3%2f490"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgoli_vrh_savnice%2f3%2f482"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgoli_vrh_savnice%2f3%2f482"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgoli_vrh_savnice%2f3%2f482"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/strelovec/490" title="Strelovec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.strelovec.jpg" /></a></div>
+<div><a href="/panorama/360/goli_vrh_savnice/482" title="Goli vrh (Šavnice) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Savnice.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/strelovec/1296" onclick="event.preventDefault(); window.open('/slika_gora/strelovec/1296');"><img class="slikagm" alt="Strelovec" src="//www.hribi.net/Gora/rimg0773mediumtz4.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/goli_vrh_savnice/1247" onclick="event.preventDefault(); window.open('/slika_gora/goli_vrh_savnice/1247');"><img class="slikagm" alt="Goli vrh (Šavnice)" src="//www.hribi.net/Gora/rimg0647mediumoa8.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/strelovec/1297" onclick="event.preventDefault(); window.open('/slika_gora/strelovec/1297');"><img class="slikagm" alt="Strelovec" src="//www.hribi.net/Gora/rimg0799mediumow4.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/goli_vrh_savnice/1248" onclick="event.preventDefault(); window.open('/slika_gora/goli_vrh_savnice/1248');"><img class="slikagm" alt="Goli vrh (Šavnice)" src="//www.hribi.net/Gora/rimg0640mediumcb3.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/strelovec/3519" onclick="event.preventDefault(); window.open('/slika_gora/strelovec/3519');"><img class="slikagm" alt="Strelovec" src="//www.hribi.net/slike1/P8220144153088.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/goli_vrh_savnice/1249" onclick="event.preventDefault(); window.open('/slika_gora/goli_vrh_savnice/1249');"><img class="slikagm" alt="Goli vrh (Šavnice)" src="//www.hribi.net/Gora/rimg0646mediumug3.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/strelovec/14823" onclick="event.preventDefault(); window.open('/slika_gora/strelovec/14823');"><img class="slikagm" alt="Strelovec" src="//slike.hribi.net/slike4/2_0731525513150_P7080151.JPG" /></a>
+        <a target="_blank" href="/slika_gora/goli_vrh_savnice/3726" onclick="event.preventDefault(); window.open('/slika_gora/goli_vrh_savnice/3726');"><img class="slikagm" alt="Goli vrh (Šavnice)" src="//www.hribi.net/slike1/PB02007058080.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/goli_vrh_savnice/14834" onclick="event.preventDefault(); window.open('/slika_gora/goli_vrh_savnice/14834');"><img class="slikagm" alt="Goli vrh (Šavnice)" src="//slike.hribi.net/slike4/2_0450525773968_DSCN3512.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/goli_vrh_savnice/14835" onclick="event.preventDefault(); window.open('/slika_gora/goli_vrh_savnice/14835');"><img class="slikagm" alt="Goli vrh (Šavnice)" src="//slike.hribi.net/slike4/2_0310525773916_DSCN3508.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/goli_vrh_savnice/14836" onclick="event.preventDefault(); window.open('/slika_gora/goli_vrh_savnice/14836');"><img class="slikagm" alt="Goli vrh (Šavnice)" src="//www.hribi.net/slike1/DSCN3506827904.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/goli_vrh_savnice/14837" onclick="event.preventDefault(); window.open('/slika_gora/goli_vrh_savnice/14837');"><img class="slikagm" alt="Goli vrh (Šavnice)" src="//www.hribi.net/slike1/DSCN3491639744.th.jpg" /></a>
     
 </div>
 
@@ -919,7 +927,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=490&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=482&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,13 +937,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/robanov_kot_strelovec/3/490/827">Robanov kot - Strelovec</a></td><td class="tdG"><a href="/izlet/robanov_kot_strelovec/3/490/827">3 h</a></td><td class="tdG"><a href="/izlet/robanov_kot_strelovec/3/490/827">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zavetisce_na_biba_planini_goli_vrh_savnice_po_oznaceni_poti/3/482/814">Zavetišče na Biba planini - Goli vrh (Šavnice) (po označeni poti)</a></td><td class="tdG"><a href="/izlet/zavetisce_na_biba_planini_goli_vrh_savnice_po_oznaceni_poti/3/482/814">1 h 15 min</a></td><td class="tdG"><a href="/izlet/zavetisce_na_biba_planini_goli_vrh_savnice_po_oznaceni_poti/3/482/814">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/hotel_plesnik_strelovec_cez_rkljevo_pec/3/490/828">Hotel Plesnik - Strelovec (čez Rkljevo peč)</a></td><td class="tdG"><a href="/izlet/hotel_plesnik_strelovec_cez_rkljevo_pec/3/490/828">3 h</a></td><td class="tdG"><a href="/izlet/hotel_plesnik_strelovec_cez_rkljevo_pec/3/490/828">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/hotel_plesnik_strelovec_cez_plesnikovo_planino/3/490/6024">Hotel Plesnik - Strelovec (čez Plesnikovo planino)</a></td><td class="tdG"><a href="/izlet/hotel_plesnik_strelovec_cez_plesnikovo_planino/3/490/6024">3 h 30 min</a></td><td class="tdG"><a href="/izlet/hotel_plesnik_strelovec_cez_plesnikovo_planino/3/490/6024">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podbreg_strelovec/3/490/6020">Podbreg - Strelovec</a></td><td class="tdG"><a href="/izlet/podbreg_strelovec/3/490/6020">3 h</a></td><td class="tdG"><a href="/izlet/podbreg_strelovec/3/490/6020">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zavetisce_na_biba_planini_goli_vrh_savnice_po_neoznaceni_poti/3/482/6025">Zavetišče na Biba planini - Goli vrh (Šavnice) (po neoznačeni poti)</a></td><td class="tdG"><a href="/izlet/zavetisce_na_biba_planini_goli_vrh_savnice_po_neoznaceni_poti/3/482/6025"> 45 min</a></td><td class="tdG"><a href="/izlet/zavetisce_na_biba_planini_goli_vrh_savnice_po_neoznaceni_poti/3/482/6025">lahka neoznačena steza</a></td></tr>
 
 </table>
 

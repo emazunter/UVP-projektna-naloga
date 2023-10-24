@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča na Travniku</title>
-        <meta name="description" content="Natančen opis koče Koča na Travniku in vseh pristopov na Koča na Travniku. Planinska koča na Travniku se nahaja ob robu planine Široka trata, le ta pa se n." />
+        <title>Planica (vzletišče Gozd)</title>
+        <meta name="description" content="Natančen opis gore Planica (vzletišče Gozd) in vseh pristopov na Planica (vzletišče Gozd). Planica je 926 metrov visok vrh, ki se nahaja nad vasico Gozd. Z vrha, na katere." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./489?gorovjeid=3&amp;id=489" id="form1">
+    <form method="post" action="./2987?gorovjeid=3&amp;id=2987" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_travniku/3/489"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=489"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planica_paragliding_site_gozd/3/2987"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2987"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Koča na Travniku
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Planica (vzletišče Gozd)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(489);
+    gorast(2987);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča na Travniku</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planica (vzletišče Gozd)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1548&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 926&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,9510'N&nbsp;/&nbsp;14°&nbsp;48,4620'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,3760'N&nbsp;/&nbsp;14°&nbsp;19,8840'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;57,06''N&nbsp;/&nbsp;14°&nbsp;48'&nbsp;27,72''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;22,56''N&nbsp;/&nbsp;14°&nbsp;19'&nbsp;53,04''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.41585°N&nbsp;/&nbsp;14.8077°E";
+                        document.getElementById("kf0").innerHTML = "46.3396°N&nbsp;/&nbsp;14.3314°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,41585°N,&nbsp;14,8077°E";
+                    document.getElementById("kf0").innerHTML = "46,3396°N,&nbsp;14,3314°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,41585°N&nbsp;14,8077°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_travniku/489"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3396°N&nbsp;14,3314°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planica_vzletisce_gozd/2987"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, bivak, planina</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planica (vzletišče Gozd) - Torek" href="/vreme_gora/planica_vzletisce_gozd/3/2987#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planica (vzletišče Gozd) - Sreda" href="/vreme_gora/planica_vzletisce_gozd/3/2987#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planica (vzletišče Gozd) - Četrtek" href="/vreme_gora/planica_vzletisce_gozd/3/2987#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Travniku - Petek" href="/vreme_gora/koca_na_travniku/3/489#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planica (vzletišče Gozd) - Petek" href="/vreme_gora/planica_vzletisce_gozd/3/2987#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Travniku - Sobota" href="/vreme_gora/koca_na_travniku/3/489#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Travniku - Nedelja" href="/vreme_gora/koca_na_travniku/3/489#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Travniku - Ponedeljek" href="/vreme_gora/koca_na_travniku/3/489#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Travniku - Torek" href="/vreme_gora/koca_na_travniku/3/489#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planica (vzletišče Gozd) - Sobota" href="/vreme_gora/planica_vzletisce_gozd/3/2987#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 487.149</div>
-<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(357.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=489" title="Število vpisov v vpisni knjigi">7</a></div>
+<div class="g2"><b>Ogledov:</b> 3.630</div>
+<div class="g2"><b>Priljubljenost:</b> 32%&nbsp;(2219.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinska koča na Travniku se nahaja ob robu planine Široka trata, le ta pa se nahaja med Malim in Velikim Travnikom. V neposredni bližini koče, ki je točka Slovenske planinske poti, se nahaja tudi zimski bivak, ki je opremljen z nekaj vzmetnicami in odejami.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Planica je 926 metrov visok vrh, ki se nahaja nad vasico Gozd. Z vrha, na katerem se nahaja koča JPK Kriška gora, se nam odpre lep pogled po delu Gorenjske.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=489&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2987&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/mali_travnik/3/1235">Mali Travnik (1532m)</a>, <a class="moder" href="/gora/partizanska_bolnica_mrzle_vode/3/1234">Partizanska bolnica Mrzle vode (1226m)</a>, <a class="moder" href="/gora/planina_mali_travnik/3/1236">Planina Mali Travnik (1500m)</a>, <a class="moder" href="/gora/pocka_robnikova_planina/3/1237">Počka (Robnikova) planina (1165m)</a>, <a class="moder" href="/gora/veliki_travnik/3/488">Veliki Travnik (1637m)</a>
+<a class="moder" href="/gora/koca_na_kriski_gori/3/121">Koča na Kriški gori (1471m)</a>, <a class="moder" href="/gora/vrata/3/124">Vrata (1591m)</a>, <a class="moder" href="/gora/zavetisce_v_gozdu/3/120">Zavetišče v Gozdu (891m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,41 +835,22 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_travniku%2f3%2f489"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_travniku%2f3%2f489"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_travniku%2f3%2f489"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanica_vzletisce_gozd%2f3%2f2987"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanica_vzletisce_gozd%2f3%2f2987"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanica_vzletisce_gozd%2f3%2f2987"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koca_na_travniku/489" title="Koča na Travniku 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.kocaNaTravniku.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_na_travniku/1289" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/1289');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/Gora/pc030254mediumad2.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planica_vzletisce_gozd/17437" onclick="event.preventDefault(); window.open('/slika_gora/planica_vzletisce_gozd/17437');"><img class="slikagm" alt="Planica (vzletišče Gozd)" src="//slike.hribi.net/slike4/2_1527593889172_DSCN4958.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_travniku/1290" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/1290');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/Gora/pc030263mediumpe8.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planica_vzletisce_gozd/17438" onclick="event.preventDefault(); window.open('/slika_gora/planica_vzletisce_gozd/17438');"><img class="slikagm" alt="Planica (vzletišče Gozd)" src="//slike.hribi.net/slike4/2_0136594050237_DSCN4963.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_travniku/1291" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/1291');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/Gora/pc030256mediumeb5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_travniku/1864" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/1864');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/P6270126532980.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_travniku/1865" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/1865');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/P6270123532980.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_travniku/4179" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/4179');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/sliketemp/P42202674954665.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_travniku/4188" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/4188');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/P4220262503712.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_travniku/8288" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/8288');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/Komen 081476476.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_travniku/8289" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/8289');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/Komen 239840840.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_travniku/8310" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/8310');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/Komen 241406560.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_travniku/8311" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_travniku/8311');"><img class="slikagm" alt="Koča na Travniku" src="//www.hribi.net/slike1/Komen 242406560.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planica_vzletisce_gozd/17439" onclick="event.preventDefault(); window.open('/slika_gora/planica_vzletisce_gozd/17439');"><img class="slikagm" alt="Planica (vzletišče Gozd)" src="//slike.hribi.net/slike4/2_2512594052701_DSCN4956.JPG" /></a>
     
 </div>
 
@@ -933,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=489&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2987&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -943,17 +924,19 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/hlipovec_koca_na_travniku/3/489/825">Hlipovec - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/hlipovec_koca_na_travniku/3/489/825"> 45 min</a></td><td class="tdG"><a href="/izlet/hlipovec_koca_na_travniku/3/489/825">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/senicno_planica_vzletisce_gozd_polozna_pot/3/2987/7011">Senično - Planica (vzletišče Gozd) (položna pot)</a></td><td class="tdG"><a href="/izlet/senicno_planica_vzletisce_gozd_polozna_pot/3/2987/7011">1 h 15 min</a></td><td class="tdG"><a href="/izlet/senicno_planica_vzletisce_gozd_polozna_pot/3/2987/7011">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_vodol_koca_na_travniku/3/489/3383">Planina Vodol - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/planina_vodol_koca_na_travniku/3/489/3383">1 h 40 min</a></td><td class="tdG"><a href="/izlet/planina_vodol_koca_na_travniku/3/489/3383">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zalog_planica_vzletisce_gozd/3/2987/7086">Zalog - Planica (vzletišče Gozd)</a></td><td class="tdG"><a href="/izlet/zalog_planica_vzletisce_gozd/3/2987/7086">1 h 30 min</a></td><td class="tdG"><a href="/izlet/zalog_planica_vzletisce_gozd/3/2987/7086">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dolina_potoka_zep_koca_na_travniku/3/489/2068">Dolina potoka Žep - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/dolina_potoka_zep_koca_na_travniku/3/489/2068">2 h 20 min</a></td><td class="tdG"><a href="/izlet/dolina_potoka_zep_koca_na_travniku/3/489/2068">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/senicno_planica_vzletisce_gozd_strma_pot/3/2987/7013">Senično - Planica (vzletišče Gozd) (strma pot)</a></td><td class="tdG"><a href="/izlet/senicno_planica_vzletisce_gozd_strma_pot/3/2987/7013">1 h 10 min</a></td><td class="tdG"><a href="/izlet/senicno_planica_vzletisce_gozd_strma_pot/3/2987/7013">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubno_ob_savinji_koca_na_travniku/3/489/3391">Ljubno ob Savinji - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/ljubno_ob_savinji_koca_na_travniku/3/489/3391">3 h 35 min</a></td><td class="tdG"><a href="/izlet/ljubno_ob_savinji_koca_na_travniku/3/489/3391">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/trzic_planica_vzletisce_gozd/3/2987/7779">Tržič - Planica (vzletišče Gozd)</a></td><td class="tdG"><a href="/izlet/trzic_planica_vzletisce_gozd/3/2987/7779">1 h 20 min</a></td><td class="tdG"><a href="/izlet/trzic_planica_vzletisce_gozd/3/2987/7779">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kolarica_koca_na_travniku/3/489/1109">Kolarica - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/kolarica_koca_na_travniku/3/489/1109"> 30 min</a></td><td class="tdG"><a href="/izlet/kolarica_koca_na_travniku/3/489/1109">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zavetisce_v_gozdu_planica_vzletisce_gozd/3/2987/7014">Zavetišče v Gozdu - Planica (vzletišče Gozd)</a></td><td class="tdG"><a href="/izlet/zavetisce_v_gozdu_planica_vzletisce_gozd/3/2987/7014"> 5 min</a></td><td class="tdG"><a href="/izlet/zavetisce_v_gozdu_planica_vzletisce_gozd/3/2987/7014">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bistra_koca_na_travniku/3/489/3387"> Bistra - Koča na Travniku</a></td><td class="tdG"><a href="/izlet/bistra_koca_na_travniku/3/489/3387">3 h 25 min</a></td><td class="tdG"><a href="/izlet/bistra_koca_na_travniku/3/489/3387">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/krize_planica_vzletisce_gozd/3/2987/7777">Križe - Planica (vzletišče Gozd)</a></td><td class="tdG"><a href="/izlet/krize_planica_vzletisce_gozd/3/2987/7777">1 h 20 min</a></td><td class="tdG"><a href="/izlet/krize_planica_vzletisce_gozd/3/2987/7777">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pristava_planica_vzletisce_gozd/3/2987/7778">Pristava - Planica (vzletišče Gozd)</a></td><td class="tdG"><a href="/izlet/pristava_planica_vzletisce_gozd/3/2987/7778">1 h 20 min</a></td><td class="tdG"><a href="/izlet/pristava_planica_vzletisce_gozd/3/2987/7778">lahka neoznačena steza</a></td></tr>
 
 </table>
 

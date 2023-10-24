@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Begunjska Vrtača</title>
-        <meta name="description" content="Natančen opis gore Begunjska Vrtača in vseh pristopov na Begunjska Vrtača. Begunjska vrtača je vrh vzhodno od Velikega vrha v grebenu Begunjščice. Z vrha j." />
+        <title>Na Možeh</title>
+        <meta name="description" content="Natančen opis gore Na Možeh in vseh pristopov na Na Možeh. Na Možeh je greben severno od doma na Zelenici. Greben ima kar nekaj med seboj p." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./431?gorovjeid=11&amp;id=431" id="form1">
+    <form method="post" action="./542?gorovjeid=11&amp;id=542" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/begunjska_vrtaca/11/431"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=431"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/na_mozeh/11/542"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=542"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Begunjska Vrtača
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Na Možeh
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(431);
+    gorast(542);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Begunjska Vrtača</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Na Možeh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1991&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1784&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,2756'N&nbsp;/&nbsp;14°&nbsp;14,580'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,0106'N&nbsp;/&nbsp;14°&nbsp;13,9920'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;16,54''N&nbsp;/&nbsp;14°&nbsp;14'&nbsp;34,80''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;0,64''N&nbsp;/&nbsp;14°&nbsp;13'&nbsp;59,52''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.42126°N&nbsp;/&nbsp;14.243°E";
+                        document.getElementById("kf0").innerHTML = "46.43351°N&nbsp;/&nbsp;14.2332°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,42126°N,&nbsp;14,243°E";
+                    document.getElementById("kf0").innerHTML = "46,43351°N,&nbsp;14,2332°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,42126°N&nbsp;14,243°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/begunjska_vrtaca/431"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43351°N&nbsp;14,2332°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/na_mozeh/542"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Na Možeh - Torek" href="/vreme_gora/na_mozeh/11/542#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Na Možeh - Sreda" href="/vreme_gora/na_mozeh/11/542#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Na Možeh - Četrtek" href="/vreme_gora/na_mozeh/11/542#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Begunjska Vrtača - Petek" href="/vreme_gora/begunjska_vrtaca/11/431#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Na Možeh - Petek" href="/vreme_gora/na_mozeh/11/542#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Begunjska Vrtača - Sobota" href="/vreme_gora/begunjska_vrtaca/11/431#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Begunjska Vrtača - Nedelja" href="/vreme_gora/begunjska_vrtaca/11/431#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Begunjska Vrtača - Ponedeljek" href="/vreme_gora/begunjska_vrtaca/11/431#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Begunjska Vrtača - Torek" href="/vreme_gora/begunjska_vrtaca/11/431#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Na Možeh - Sobota" href="/vreme_gora/na_mozeh/11/542#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 495.139</div>
-<div class="g2"><b>Priljubljenost:</b> 90%&nbsp;(334.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=431" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Ogledov:</b> 341.797</div>
+<div class="g2"><b>Priljubljenost:</b> 74%&nbsp;(849.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Begunjska vrtača je vrh vzhodno od Velikega vrha v grebenu Begunjščice. Z vrha je lep razgled proti Košuti, Košutici Gorenjski ravnini in goram nad Zelenico.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Na Možeh je greben severno od doma na Zelenici. Greben ima kar nekaj med seboj podobnih vrhov. Najvišji je visok 1784m in je lepo viden od doma na Zelenici. Od doma so videti kot trije stolpi. Srednji, ki se nahaja med dvema med seboj podobnima sedloma je najvišji kar je od doma tudi lepo razvidno. Razmeroma težko dostopen vrh ima lep razgled na osrednje Karavanke. Najlepše so vidni sosednji Palec, Vrtača in Begunjščica. Proti severu nam pogled uide proti Dravski dolini, proti vzhodu pa proti Košutici in Košuti.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=431&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=542&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/begunjscica/11/52">Begunjščica (2060m)</a>, <a class="moder" href="/gora/dom_na_zelenici/11/91">Dom na Zelenici (1536m)</a>, <a class="moder" href="/gora/koca_na_planini_preval-a/11/294">Koča na planini Preval-a (1311m)</a>, <a class="moder" href="/gora/koca_vrtaca/11/236">Koča Vrtača (1288m)</a>, <a class="moder" href="/gora/na_mozeh/11/542">Na Možeh (1784m)</a>, <a class="moder" href="/gora/potocnikova_planina/11/2784">Potočnikova planina (1410m)</a>, <a class="moder" href="/gora/spodnji_plot/11/1439">Spodnji Plot (1682m)</a>, <a class="moder" href="/gora/sveta_ana_ljubelj/11/2719">Sveta Ana (Ljubelj) (1032m)</a>, <a class="moder" href="/gora/vrh_ljubeljscice_triangel/11/92">Vrh Ljubeljščice (Triangel) (1704m)</a>
+<a class="moder" href="/gora/begunjscica/11/52">Begunjščica (2060m)</a>, <a class="moder" href="/gora/begunjska_vrtaca/11/431">Begunjska Vrtača (1991m)</a>, <a class="moder" href="/gora/dom_na_zelenici/11/91">Dom na Zelenici (1536m)</a>, <a class="moder" href="/gora/dom_pri_izviru_zavrsnice/11/278">Dom pri izviru Završnice (1425m)</a>, <a class="moder" href="/gora/koca_vrtaca/11/236">Koča Vrtača (1288m)</a>, <a class="moder" href="/gora/palec/11/363">Palec (2026m)</a>, <a class="moder" href="/gora/polna_pec/11/805">Polna peč (1503m)</a>, <a class="moder" href="/gora/spodnji_plot/11/1439">Spodnji Plot (1682m)</a>, <a class="moder" href="/gora/srednji_vrh_nad_zavrsnico/11/277">Srednji vrh (nad Završnico) (1796m)</a>, <a class="moder" href="/gora/vrh_ljubeljscice_triangel/11/92">Vrh Ljubeljščice (Triangel) (1704m)</a>, <a class="moder" href="/gora/vrtaca/11/78">Vrtača (2181m)</a>, <a class="moder" href="/gora/zelenjak/11/692">Zelenjak (2024m)</a>, <a class="moder" href="/gora/zleb_suho_rusevje/11/88">Žleb (Suho ruševje) (1916m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -840,30 +840,15 @@ function prijavaG() {
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbegunjska_vrtaca%2f11%2f431"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbegunjska_vrtaca%2f11%2f431"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbegunjska_vrtaca%2f11%2f431"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fna_mozeh%2f11%2f542"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fna_mozeh%2f11%2f542"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fna_mozeh%2f11%2f542"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/begunjska_vrtaca/431" title="Begunjska Vrtača 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.BegunjskaVrtaca.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/begunjska_vrtaca/633" onclick="event.preventDefault(); window.open('/slika_gora/begunjska_vrtaca/633');"><img class="slikagm" alt="Begunjska Vrtača" src="//www.hribi.net/Gora/p8060025mediumqz0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/na_mozeh/1560" onclick="event.preventDefault(); window.open('/slika_gora/na_mozeh/1560');"><img class="slikagm" alt="Na Možeh" src="//www.hribi.net/slike1/P3120028251370.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/begunjska_vrtaca/635" onclick="event.preventDefault(); window.open('/slika_gora/begunjska_vrtaca/635');"><img class="slikagm" alt="Begunjska Vrtača" src="//www.hribi.net/Gora/p8060027mediumvs5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/begunjska_vrtaca/649" onclick="event.preventDefault(); window.open('/slika_gora/begunjska_vrtaca/649');"><img class="slikagm" alt="Begunjska Vrtača" src="//www.hribi.net/Gora/p8060178mediumti2.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/begunjska_vrtaca/4126" onclick="event.preventDefault(); window.open('/slika_gora/begunjska_vrtaca/4126');"><img class="slikagm" alt="Begunjska Vrtača" src="//www.hribi.net/sliketemp/P40700164932633.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/begunjska_vrtaca/5342" onclick="event.preventDefault(); window.open('/slika_gora/begunjska_vrtaca/5342');"><img class="slikagm" alt="Begunjska Vrtača" src="//www.hribi.net/slike1/Triangel 154108000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/begunjska_vrtaca/9971" onclick="event.preventDefault(); window.open('/slika_gora/begunjska_vrtaca/9971');"><img class="slikagm" alt="Begunjska Vrtača" src="//www.hribi.net/slike1/Begunjscica 115762048.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/begunjska_vrtaca/9972" onclick="event.preventDefault(); window.open('/slika_gora/begunjska_vrtaca/9972');"><img class="slikagm" alt="Begunjska Vrtača" src="//www.hribi.net/slike1/Begunjscica 112762048.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/begunjska_vrtaca/9981" onclick="event.preventDefault(); window.open('/slika_gora/begunjska_vrtaca/9981');"><img class="slikagm" alt="Begunjska Vrtača" src="//www.hribi.net/slike1/Begunjscica%20143889056.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/na_mozeh/1561" onclick="event.preventDefault(); window.open('/slika_gora/na_mozeh/1561');"><img class="slikagm" alt="Na Možeh" src="//www.hribi.net/slike1/P3120003287280.th.jpg" /></a>
     
 </div>
 
@@ -927,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=431&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=542&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,13 +922,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_begunjska_vrtaca_cez_preval-o/11/431/612">Ljubelj - Begunjska Vrtača (čez Preval-o)</a></td><td class="tdG"><a href="/izlet/ljubelj_begunjska_vrtaca_cez_preval-o/11/431/612">3 h 5 min</a></td><td class="tdG"><a href="/izlet/ljubelj_begunjska_vrtaca_cez_preval-o/11/431/612">lahko brezpotje</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubelj_begunjska_vrtaca_lenuhova_grapa/11/431/4770">Ljubelj - Begunjska Vrtača (Lenuhova grapa)</a></td><td class="tdG"><a href="/izlet/ljubelj_begunjska_vrtaca_lenuhova_grapa/11/431/4770">2 h 25 min</a></td><td class="tdG"><a href="/izlet/ljubelj_begunjska_vrtaca_lenuhova_grapa/11/431/4770">alpinistični vzpon</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_v_dragi_begunjska_vrtaca/11/431/3984">Dom v Dragi - Begunjska Vrtača</a></td><td class="tdG"><a href="/izlet/dom_v_dragi_begunjska_vrtaca/11/431/3984">3 h 5 min</a></td><td class="tdG"><a href="/izlet/dom_v_dragi_begunjska_vrtaca/11/431/3984">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podljubelj_lajb_begunjska_vrtaca/11/431/613">Podljubelj (Lajb) - Begunjska Vrtača</a></td><td class="tdG"><a href="/izlet/podljubelj_lajb_begunjska_vrtaca/11/431/613">3 h 5 min</a></td><td class="tdG"><a href="/izlet/podljubelj_lajb_begunjska_vrtaca/11/431/613">lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_na_mozeh/11/542/927">Ljubelj - Na Možeh</a></td><td class="tdG"><a href="/izlet/ljubelj_na_mozeh/11/542/927">2 h 15 min</a></td><td class="tdG"><a href="/izlet/ljubelj_na_mozeh/11/542/927">zahtevno brezpotje</a></td></tr>
 
 </table>
 

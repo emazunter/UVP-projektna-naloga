@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Razsušica</title>
-        <meta name="description" content="Natančen opis gore Razsušica in vseh pristopov na Razsušica. Razsušica je s 1083m najvišji vrh slovenske Istre. Ker je vrh deloma poraščen pa." />
+        <title>Golič</title>
+        <meta name="description" content="Natančen opis gore Golič in vseh pristopov na Golič. Golič je travnat greben, ki se razprostira od Kojnika do Slovensko-Hrvaške meje ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1154?gorovjeid=26&amp;id=1154" id="form1">
+    <form method="post" action="./1683?gorovjeid=26&amp;id=1683" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/razsusica/26/1154"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1154"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/golic/26/1683"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1683"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Razsušica
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Golič
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1154);
+    gorast(1683);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Razsušica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Golič</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/hrvaska/4">Hrvaška</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1083&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 890&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;29,6328'N&nbsp;/&nbsp;14°&nbsp;3,5520'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;29,4852'N&nbsp;/&nbsp;13°&nbsp;58,2966'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;29'&nbsp;37,97''N&nbsp;/&nbsp;14°&nbsp;3'&nbsp;33,12''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;29'&nbsp;29,11''N&nbsp;/&nbsp;13°&nbsp;58'&nbsp;17,80''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.49388°N&nbsp;/&nbsp;14.0592°E";
+                        document.getElementById("kf0").innerHTML = "45.49142°N&nbsp;/&nbsp;13.97161°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,49388°N,&nbsp;14,0592°E";
+                    document.getElementById("kf0").innerHTML = "45,49142°N,&nbsp;13,97161°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,49388°N&nbsp;14,0592°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/razsusica/1154"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,49142°N&nbsp;13,97161°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/golic/1683"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Golič - Torek" href="/vreme_gora/golic/26/1683#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Golič - Sreda" href="/vreme_gora/golic/26/1683#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Golič - Četrtek" href="/vreme_gora/golic/26/1683#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Razsušica - Petek" href="/vreme_gora/razsusica/26/1154#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Golič - Petek" href="/vreme_gora/golic/26/1683#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Razsušica - Sobota" href="/vreme_gora/razsusica/26/1154#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Razsušica - Nedelja" href="/vreme_gora/razsusica/26/1154#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Razsušica - Ponedeljek" href="/vreme_gora/razsusica/26/1154#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Razsušica - Torek" href="/vreme_gora/razsusica/26/1154#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Golič - Sobota" href="/vreme_gora/golic/26/1683#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 208.792</div>
-<div class="g2"><b>Priljubljenost:</b> 59%&nbsp;(1358.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 366.501</div>
+<div class="g2"><b>Priljubljenost:</b> 77%&nbsp;(755.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1154" title="Število vpisov v vpisni knjigi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Razsušica je s 1083m najvišji vrh slovenske Istre. Ker je vrh deloma poraščen pa se nam z njega odpre lep pogled le proti bližnji Medvižiči, ki je od Razsušice nižja le za 2 metra.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Golič je travnat greben, ki se razprostira od Kojnika do Slovensko-Hrvaške meje in se nadaljuje v greben Žbevnice na Hrvaški strani. Zaradi relativno dolgih dostopov je slabo obiskan in to mu daje tudi svoj čar. Na prvi ekstremiteti grebena s severo-zahoda je postavljen "križ" z vpisno knjigo. Naslednji kucelj je najvišji vrh Goliča (890 m), sledi Nadglavinjak (888 m), ki je zadnji vrh grebena, ki je v celoti na Slovenski strani.<br>S celotnega grebena se odpira lep razgled na Istro, morje, Snežnik ter seveda sosed Slavnik. V lepem vremenu se lahko vidi tudi Dolomite in zahodni del Julijskih Alp.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1154&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1683&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/medvizica/26/1153">Medvižica (1081m)</a>, <a class="moder" href="/gora/ostric/26/1152">Ostrič (1056m)</a>
+<a class="moder" href="/gora/lipnik/26/1690">Lipnik (804m)</a>, <a class="moder" href="/gora/nadglavinjak/26/1692">Nadglavinjak (888m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,20 +835,41 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/starod/298">Starod</a>, <a class="moder" href="/spletna_kamera/sveti_martin/3717">Sveti Martin</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>
+<a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/sveti_martin/3717">Sveti Martin</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frazsusica%2f26%2f1154"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frazsusica%2f26%2f1154"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frazsusica%2f26%2f1154"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgolic%2f26%2f1683"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgolic%2f26%2f1683"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgolic%2f26%2f1683"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/golic/1683" title="Golič 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Golic.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/razsusica/3909" onclick="event.preventDefault(); window.open('/slika_gora/razsusica/3909');"><img class="slikagm" alt="Razsušica" src="//www.hribi.net/sliketemp/P13105534835079.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/golic/7390" onclick="event.preventDefault(); window.open('/slika_gora/golic/7390');"><img class="slikagm" alt="Golič" src="//www.hribi.net/sliketemp/DSC065725873429.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/razsusica/3910" onclick="event.preventDefault(); window.open('/slika_gora/razsusica/3910');"><img class="slikagm" alt="Razsušica" src="//www.hribi.net/slike1/P13105033780.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/golic/7391" onclick="event.preventDefault(); window.open('/slika_gora/golic/7391');"><img class="slikagm" alt="Golič" src="//www.hribi.net/sliketemp/DSC057545873431.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/golic/7395" onclick="event.preventDefault(); window.open('/slika_gora/golic/7395');"><img class="slikagm" alt="Golič" src="//www.hribi.net/sliketemp/DSC054435873438.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/golic/7460" onclick="event.preventDefault(); window.open('/slika_gora/golic/7460');"><img class="slikagm" alt="Golič" src="//www.hribi.net/slike1/Lipnik 32157904.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/golic/7461" onclick="event.preventDefault(); window.open('/slika_gora/golic/7461');"><img class="slikagm" alt="Golič" src="//www.hribi.net/slike1/Lipnik 32357904.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/golic/7462" onclick="event.preventDefault(); window.open('/slika_gora/golic/7462');"><img class="slikagm" alt="Golič" src="//www.hribi.net/slike1/Lipnik 32457904.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/golic/7463" onclick="event.preventDefault(); window.open('/slika_gora/golic/7463');"><img class="slikagm" alt="Golič" src="//www.hribi.net/slike1/Lipnik 32757904.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/golic/7464" onclick="event.preventDefault(); window.open('/slika_gora/golic/7464');"><img class="slikagm" alt="Golič" src="//www.hribi.net/slike1/Lipnik 36257904.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/golic/7465" onclick="event.preventDefault(); window.open('/slika_gora/golic/7465');"><img class="slikagm" alt="Golič" src="//www.hribi.net/slike1/Lipnik%2027051744.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/golic/10517" onclick="event.preventDefault(); window.open('/slika_gora/golic/10517');"><img class="slikagm" alt="Golič" src="//slike.hribi.net/slike4/2_0460413114458_Golic_053.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/golic/10518" onclick="event.preventDefault(); window.open('/slika_gora/golic/10518');"><img class="slikagm" alt="Golič" src="//www.hribi.net/slike1/Golic 059514080.th.jpg" /></a>
     
 </div>
 
@@ -912,7 +933,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1154&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1683&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,7 +943,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zagrad_razsusica/26/1154/1955">Zagrad - Razsušica</a></td><td class="tdG"><a href="/izlet/zagrad_razsusica/26/1154/1955">1 h 15 min</a></td><td class="tdG"><a href="/izlet/zagrad_razsusica/26/1154/1955">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zazid_golic_cez_kojnik/26/1683/3055">Zazid - Golič (čez Kojnik)</a></td><td class="tdG"><a href="/izlet/zazid_golic_cez_kojnik/26/1683/3055">2 h 30 min</a></td><td class="tdG"><a href="/izlet/zazid_golic_cez_kojnik/26/1683/3055">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zazid_golic_mimo_lipnika/26/1683/3052">Zazid - Golič (mimo Lipnika)</a></td><td class="tdG"><a href="/izlet/zazid_golic_mimo_lipnika/26/1683/3052">2 h 30 min</a></td><td class="tdG"><a href="/izlet/zazid_golic_mimo_lipnika/26/1683/3052">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podgorje_golic_mimo_lovskega_zavetisca/26/1683/3056"> Podgorje - Golič (mimo lovskega zavetišča)</a></td><td class="tdG"><a href="/izlet/podgorje_golic_mimo_lovskega_zavetisca/26/1683/3056">2 h 40 min</a></td><td class="tdG"><a href="/izlet/podgorje_golic_mimo_lovskega_zavetisca/26/1683/3056">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zazid_golic_direktna_pot/26/1683/4273">Zazid - Golič (direktna pot)</a></td><td class="tdG"><a href="/izlet/zazid_golic_direktna_pot/26/1683/4273">1 h 45 min</a></td><td class="tdG"><a href="/izlet/zazid_golic_direktna_pot/26/1683/4273">lahka neoznačena steza</a></td></tr>
 
 </table>
 

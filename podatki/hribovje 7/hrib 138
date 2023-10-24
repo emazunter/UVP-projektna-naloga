@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sedlata gorica (Pogorelec)</title>
-        <meta name="description" content="Natančen opis gore Sedlata gorica (Pogorelec) in vseh pristopov na Sedlata gorica (Pogorelec). Sedlata gorica je vrh nad vasjo Podturn pri Dolenjskih Toplicah. Včasih je bil v." />
+        <title>Bajturn (Zaplaški hrib)</title>
+        <meta name="description" content="Natančen opis gore Bajturn (Zaplaški hrib) in vseh pristopov na Bajturn (Zaplaški hrib). Bajturn oz. Zaplaški hrib je s 609 metri najvišji vrh občine Trebnje. Na vrhu se." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./897?gorovjeid=25&amp;id=897" id="form1">
+    <form method="post" action="./2613?gorovjeid=25&amp;id=2613" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sedlata_gorica_pogorelec/25/897"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=897"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bajturn_zaplaski_hrib/25/2613"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2613"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Sedlata gorica (Pogorelec)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Bajturn (Zaplaški hrib)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(897);
+    gorast(2613);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sedlata gorica (Pogorelec)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bajturn (Zaplaški hrib)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 817&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 609&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;44,2002'N&nbsp;/&nbsp;15°&nbsp;1,3728'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;58,4220'N&nbsp;/&nbsp;14°&nbsp;56,8380'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;44'&nbsp;12,01''N&nbsp;/&nbsp;15°&nbsp;1'&nbsp;22,37''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;58'&nbsp;25,32''N&nbsp;/&nbsp;14°&nbsp;56'&nbsp;50,28''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.73667°N&nbsp;/&nbsp;15.02288°E";
+                        document.getElementById("kf0").innerHTML = "45.9737°N&nbsp;/&nbsp;14.9473°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,73667°N,&nbsp;15,02288°E";
+                    document.getElementById("kf0").innerHTML = "45,9737°N,&nbsp;14,9473°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,73667°N&nbsp;15,02288°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sedlata_gorica_pogorelec/897"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,9737°N&nbsp;14,9473°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bajturn_zaplaski_hrib/2613"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bajturn (Zaplaški hrib) - Torek" href="/vreme_gora/bajturn_zaplaski_hrib/25/2613#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bajturn (Zaplaški hrib) - Sreda" href="/vreme_gora/bajturn_zaplaski_hrib/25/2613#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bajturn (Zaplaški hrib) - Četrtek" href="/vreme_gora/bajturn_zaplaski_hrib/25/2613#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sedlata gorica (Pogorelec) - Petek" href="/vreme_gora/sedlata_gorica_pogorelec/25/897#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bajturn (Zaplaški hrib) - Petek" href="/vreme_gora/bajturn_zaplaski_hrib/25/2613#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sedlata gorica (Pogorelec) - Sobota" href="/vreme_gora/sedlata_gorica_pogorelec/25/897#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sedlata gorica (Pogorelec) - Nedelja" href="/vreme_gora/sedlata_gorica_pogorelec/25/897#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sedlata gorica (Pogorelec) - Ponedeljek" href="/vreme_gora/sedlata_gorica_pogorelec/25/897#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sedlata gorica (Pogorelec) - Torek" href="/vreme_gora/sedlata_gorica_pogorelec/25/897#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bajturn (Zaplaški hrib) - Sobota" href="/vreme_gora/bajturn_zaplaski_hrib/25/2613#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 257.461</div>
-<div class="g2"><b>Priljubljenost:</b> 65%&nbsp;(1166.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 3.750</div>
+<div class="g2"><b>Priljubljenost:</b> 33%&nbsp;(2207.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=897" title="Število vpisov v vpisni knjigi">4</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2613" title="Število vpisov v vpisni knjigi">4</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Sedlata gorica je vrh nad vasjo Podturn pri Dolenjskih Toplicah. Včasih je bil vrh poraščen, danes pa je na vrhu narejen golosek, ki ga uporabljajo jadralni padalci za svoje vzlete. Na vrhu so si tudi uredili manjše zavetišče, v katerem se tudi nahaja vpisna knjiga. Z vrha je zelo lep razgled  po Dolenjski, proti Dolenjskim Toplicam in Novemu mestu.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Bajturn oz. Zaplaški hrib je s 609 metri najvišji vrh občine Trebnje. Na vrhu se nahaja prijetna klopca z mizo, s skrinjico s knjigo vtisov in žig. Ker vrh prerašča gozd, se nam odpre nekaj razgleda le pozimi, pa še takrat ga večinoma zastirajo drevesa.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=897&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2613&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/zaplaz/25/2612">Zaplaz (543m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,24 +835,22 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crmosnjice/4124">Črmošnjice</a>, <a class="moder" href="/spletna_kamera/dom_na_mirni_gori/1766">Dom na Mirni gori</a>, <a class="moder" href="/spletna_kamera/gace/999">Gače</a>, <a class="moder" href="/spletna_kamera/novo_mesto/2205">Novo mesto</a>
+<a class="moder" href="/spletna_kamera/dob/433">Dob</a>, <a class="moder" href="/spletna_kamera/dolenja_nemska_vas/3215">Dolenja Nemška vas</a>, <a class="moder" href="/spletna_kamera/male_rebrce/3042">Male Rebrce</a>, <a class="moder" href="/spletna_kamera/pluska/435">Pluska</a>, <a class="moder" href="/spletna_kamera/sevno/2378">Sevno</a>, <a class="moder" href="/spletna_kamera/trebnje/1735">Trebnje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsedlata_gorica_pogorelec%2f25%2f897"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsedlata_gorica_pogorelec%2f25%2f897"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsedlata_gorica_pogorelec%2f25%2f897"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbajturn_zaplaski_hrib%2f25%2f2613"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbajturn_zaplaski_hrib%2f25%2f2613"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbajturn_zaplaski_hrib%2f25%2f2613"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sedlata_gorica_pogorelec/2930" onclick="event.preventDefault(); window.open('/slika_gora/sedlata_gorica_pogorelec/2930');"><img class="slikagm" alt="Sedlata gorica (Pogorelec)" src="//www.hribi.net/sliketemp/854100044420309.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bajturn_zaplaski_hrib/14416" onclick="event.preventDefault(); window.open('/slika_gora/bajturn_zaplaski_hrib/14416');"><img class="slikagm" alt="Bajturn (Zaplaški hrib)" src="//slike.hribi.net/slike4/2_0698514291972_DSCN5139.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sedlata_gorica_pogorelec/2931" onclick="event.preventDefault(); window.open('/slika_gora/sedlata_gorica_pogorelec/2931');"><img class="slikagm" alt="Sedlata gorica (Pogorelec)" src="//www.hribi.net/sliketemp/854100094420310.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bajturn_zaplaski_hrib/14417" onclick="event.preventDefault(); window.open('/slika_gora/bajturn_zaplaski_hrib/14417');"><img class="slikagm" alt="Bajturn (Zaplaški hrib)" src="//www.hribi.net/slike1/DSCN5141109296.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sedlata_gorica_pogorelec/2932" onclick="event.preventDefault(); window.open('/slika_gora/sedlata_gorica_pogorelec/2932');"><img class="slikagm" alt="Sedlata gorica (Pogorelec)" src="//www.hribi.net/sliketemp/854100064420312.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sedlata_gorica_pogorelec/2933" onclick="event.preventDefault(); window.open('/slika_gora/sedlata_gorica_pogorelec/2933');"><img class="slikagm" alt="Sedlata gorica (Pogorelec)" src="//www.hribi.net/sliketemp/100_30404424294.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bajturn_zaplaski_hrib/14418" onclick="event.preventDefault(); window.open('/slika_gora/bajturn_zaplaski_hrib/14418');"><img class="slikagm" alt="Bajturn (Zaplaški hrib)" src="//www.hribi.net/slike1/DSCN5142109296.th.jpg" /></a>
     
 </div>
 
@@ -916,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=897&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2613&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -926,7 +924,21 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pogorelec_sedlata_gorica_pogorelec/25/897/8439">Pogorelec - Sedlata gorica (Pogorelec)</a></td><td class="tdG"><a href="/izlet/pogorelec_sedlata_gorica_pogorelec/25/897/8439"> 45 min</a></td><td class="tdG"><a href="/izlet/pogorelec_sedlata_gorica_pogorelec/25/897/8439">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/catez_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5853">Čatež - Bajturn (Zaplaški hrib) (po severnem pobočju)</a></td><td class="tdG"><a href="/izlet/catez_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5853"> 50 min</a></td><td class="tdG"><a href="/izlet/catez_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5853">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/catez_bajturn_zaplaski_hrib_po_grebenu/25/2613/5852">Čatež - Bajturn (Zaplaški hrib) (po grebenu)</a></td><td class="tdG"><a href="/izlet/catez_bajturn_zaplaski_hrib_po_grebenu/25/2613/5852"> 40 min</a></td><td class="tdG"><a href="/izlet/catez_bajturn_zaplaski_hrib_po_grebenu/25/2613/5852">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zaplaz_bajturn_zaplaski_hrib_po_grebenu/25/2613/5850">Zaplaz - Bajturn (Zaplaški hrib) (po grebenu)</a></td><td class="tdG"><a href="/izlet/zaplaz_bajturn_zaplaski_hrib_po_grebenu/25/2613/5850"> 20 min</a></td><td class="tdG"><a href="/izlet/zaplaz_bajturn_zaplaski_hrib_po_grebenu/25/2613/5850">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zaplaz_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5851">Zaplaz - Bajturn (Zaplaški hrib) (po severnem pobočju)</a></td><td class="tdG"><a href="/izlet/zaplaz_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5851"> 30 min</a></td><td class="tdG"><a href="/izlet/zaplaz_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5851">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/most_cez_dusico_bajturn_zaplaski_hrib_po_grebenu/25/2613/5854">Most čez Dušico - Bajturn (Zaplaški hrib) (po grebenu)</a></td><td class="tdG"><a href="/izlet/most_cez_dusico_bajturn_zaplaski_hrib_po_grebenu/25/2613/5854">1 h 20 min</a></td><td class="tdG"><a href="/izlet/most_cez_dusico_bajturn_zaplaski_hrib_po_grebenu/25/2613/5854">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/okrog_lazar_bajturn_zaplaski_hrib_po_grebenu/25/2613/5856">Okrog (Lazar) - Bajturn (Zaplaški hrib) (po grebenu)</a></td><td class="tdG"><a href="/izlet/okrog_lazar_bajturn_zaplaski_hrib_po_grebenu/25/2613/5856">1 h 30 min</a></td><td class="tdG"><a href="/izlet/okrog_lazar_bajturn_zaplaski_hrib_po_grebenu/25/2613/5856">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/most_cez_dusico_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5855">Most čez Dušico - Bajturn (Zaplaški hrib) (po severnem pobočju)</a></td><td class="tdG"><a href="/izlet/most_cez_dusico_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5855">1 h 30 min</a></td><td class="tdG"><a href="/izlet/most_cez_dusico_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5855">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/okrog_lazar_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5857">Okrog (Lazar) - Bajturn (Zaplaški hrib) (po severnem pobočju)</a></td><td class="tdG"><a href="/izlet/okrog_lazar_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5857">1 h 40 min</a></td><td class="tdG"><a href="/izlet/okrog_lazar_bajturn_zaplaski_hrib_po_severnem_pobocju/25/2613/5857">lahka označena pot</a></td></tr>
 
 </table>
 

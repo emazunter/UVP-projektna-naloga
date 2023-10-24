@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Križna gora</title>
-        <meta name="description" content="Natančen opis gore Križna gora in vseh pristopov na Križna gora. Križna gora je deloma razgleden vrh, ki se nahaja nad vasjo Sveta Ana in Podlož.." />
+        <title>Grčarevec</title>
+        <meta name="description" content="Natančen opis jezera Grčarevec in vseh pristopov na Grčarevec. Grčarevec je točka na severu kraškega polja. Na SV robu polja so ponori. Cesta v." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1130?gorovjeid=26&amp;id=1130" id="form1">
+    <form method="post" action="./3561?gorovjeid=26&amp;id=3561" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/krizna_gora/26/1130"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1130"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/grcarevec/26/3561"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=3561"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Križna gora
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Grčarevec
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1130);
+    gorast(3561);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Križna gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Grčarevec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 857&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 476&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;44,5140'N&nbsp;/&nbsp;14°&nbsp;27,4944'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;52,3620'N&nbsp;/&nbsp;14°&nbsp;12,7920'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;44'&nbsp;30,84''N&nbsp;/&nbsp;14°&nbsp;27'&nbsp;29,66''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;52'&nbsp;21,72''N&nbsp;/&nbsp;14°&nbsp;12'&nbsp;47,52''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.7419°N&nbsp;/&nbsp;14.45824°E";
+                        document.getElementById("kf0").innerHTML = "45.8727°N&nbsp;/&nbsp;14.2132°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,7419°N,&nbsp;14,45824°E";
+                    document.getElementById("kf0").innerHTML = "45,8727°N,&nbsp;14,2132°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,7419°N&nbsp;14,45824°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/krizna_gora/1130"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,8727°N&nbsp;14,2132°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/grcarevec/3561"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Grčarevec - Torek" href="/vreme_gora/grcarevec/26/3561#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Grčarevec - Sreda" href="/vreme_gora/grcarevec/26/3561#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Grčarevec - Četrtek" href="/vreme_gora/grcarevec/26/3561#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Križna gora - Petek" href="/vreme_gora/krizna_gora/26/1130#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grčarevec - Petek" href="/vreme_gora/grcarevec/26/3561#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Križna gora - Sobota" href="/vreme_gora/krizna_gora/26/1130#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Križna gora - Nedelja" href="/vreme_gora/krizna_gora/26/1130#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Križna gora - Ponedeljek" href="/vreme_gora/krizna_gora/26/1130#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Križna gora - Torek" href="/vreme_gora/krizna_gora/26/1130#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grčarevec - Sobota" href="/vreme_gora/grcarevec/26/3561#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 479.915</div>
-<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(374.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1130" title="Število vpisov v vpisni knjigi">2</a></div>
+<div class="g2"><b>Ogledov:</b> 301</div>
+<div class="g2"><b>Priljubljenost:</b> 12%&nbsp;(2891.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Križna gora je deloma razgleden vrh, ki se nahaja nad vasjo Sveta Ana in Podlož. Z vrha na katerem stoji cerkev svetega Križa je lep pogled proti bližnji Racni gori, Snežniku in Loški dolini. Na ostale strani razgled ovira gozd. Vrh ima vpisno skrinjico s knjigo in žigom.</div>
+<div style="padding-top:10px;"><b>Opis jezera:</b><br />Grčarevec je točka na severu kraškega polja. Na SV robu polja so ponori. Cesta v Planino je spričo poplav dvignjena.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1130&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3561&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -835,29 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/cerknisko_jezero/3634">Cerkniško jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/iga_vas/1077">Iga vas</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/studenec_na_blokah/1599">Studenec na Blokah</a>
+<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/ivanje_selo/328">Ivanje selo</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/logatec/186">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec/326">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec_blekova_vas/1954">Logatec (Blekova vas)</a>, <a class="moder" href="/spletna_kamera/logatec_gorenja_vas/1868">Logatec (Gorenja vas)</a>, <a class="moder" href="/spletna_kamera/lom/327">Lom</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/nart/1718">Nart</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/planina_pri_rakeku/1028">Planina pri Rakeku</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>, <a class="moder" href="/spletna_kamera/tankovski_most/4915">Tankovski most</a>, <a class="moder" href="/spletna_kamera/unec/329">Unec</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkrizna_gora%2f26%2f1130"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkrizna_gora%2f26%2f1130"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkrizna_gora%2f26%2f1130"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgrcarevec%2f26%2f3561"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrcarevec%2f26%2f3561"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrcarevec%2f26%2f3561"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/krizna_gora/1130" title="Križna gora 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KriznaGora.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/krizna_gora/3774" onclick="event.preventDefault(); window.open('/slika_gora/krizna_gora/3774');"><img class="slikagm" alt="Križna gora" src="//www.hribi.net/slike1/PC070203288000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grcarevec/21098" onclick="event.preventDefault(); window.open('/slika_gora/grcarevec/21098');"><img class="slikagm" alt="Grčarevec" src="//slike2.hribi.net/slike14/2_0453710369377_0lenovo_a1000_img_20220513_114750.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/krizna_gora/3775" onclick="event.preventDefault(); window.open('/slika_gora/krizna_gora/3775');"><img class="slikagm" alt="Križna gora" src="//www.hribi.net/slike1/PC070212288000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grcarevec/21099" onclick="event.preventDefault(); window.open('/slika_gora/grcarevec/21099');"><img class="slikagm" alt="Grčarevec" src="//slike2.hribi.net/slike14/2_0354710369413_0lenovo_a1000_img_20220513_115249__1_.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/krizna_gora/10541" onclick="event.preventDefault(); window.open('/slika_gora/krizna_gora/10541');"><img class="slikagm" alt="Križna gora" src="//www.hribi.net/slike1/KriznaGora 06315444.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grcarevec/21100" onclick="event.preventDefault(); window.open('/slika_gora/grcarevec/21100');"><img class="slikagm" alt="Grčarevec" src="//slike2.hribi.net/slike14/2_0596710369437_0lenovo_a1000_img_20220513_123414.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/krizna_gora/10542" onclick="event.preventDefault(); window.open('/slika_gora/krizna_gora/10542');"><img class="slikagm" alt="Križna gora" src="//www.hribi.net/slike1/KriznaGora 06715444.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krizna_gora/10543" onclick="event.preventDefault(); window.open('/slika_gora/krizna_gora/10543');"><img class="slikagm" alt="Križna gora" src="//www.hribi.net/slike1/KriznaGora 06816016.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grcarevec/21101" onclick="event.preventDefault(); window.open('/slika_gora/grcarevec/21101');"><img class="slikagm" alt="Grčarevec" src="//slike2.hribi.net/slike14/2_0686710369455_0lenovo_a1000_img_20220513_123523.jpg" /></a>
     
 </div>
 
@@ -921,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1130&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3561&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,11 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sveta_ana_krizna_gora/26/1130/502">Sveta Ana - Križna gora</a></td><td class="tdG"><a href="/izlet/sveta_ana_krizna_gora/26/1130/502"> 20 min</a></td><td class="tdG"><a href="/izlet/sveta_ana_krizna_gora/26/1130/502">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/blocice_krizna_gora/26/1130/4295">Bločice - Križna gora</a></td><td class="tdG"><a href="/izlet/blocice_krizna_gora/26/1130/4295">1 h 15 min</a></td><td class="tdG"><a href="/izlet/blocice_krizna_gora/26/1130/4295">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/krizna_jama_krizna_gora/26/1130/4294">Križna jama - Križna gora</a></td><td class="tdG"><a href="/izlet/krizna_jama_krizna_gora/26/1130/4294"> 35 min</a></td><td class="tdG"><a href="/izlet/krizna_jama_krizna_gora/26/1130/4294">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/rimska_trdnjava_lanisce_grcarevec_mimo_razgledisca/26/3561/8671">Rimska trdnjava (Lanišče) - Grčarevec (mimo Razgledišča)</a></td><td class="tdG"><a href="/izlet/rimska_trdnjava_lanisce_grcarevec_mimo_razgledisca/26/3561/8671">2 h</a></td><td class="tdG"><a href="/izlet/rimska_trdnjava_lanisce_grcarevec_mimo_razgledisca/26/3561/8671">lahka označena pot</a></td></tr>
 
 </table>
 

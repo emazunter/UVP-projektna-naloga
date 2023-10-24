@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Mrzovec</title>
-        <meta name="description" content="Natančen opis gore Mrzovec in vseh pristopov na Mrzovec. Mrzovec je najizrazitejši vrh v osrčju Trnovske planote. Njegova lega omogoča ču." />
+        <title>Poldanovec</title>
+        <meta name="description" content="Natančen opis gore Poldanovec in vseh pristopov na Poldanovec. Poldanovec se nahaja v Govcih, na severnem robu Trnovske planote. Govci se strmo." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./551?gorovjeid=26&amp;id=551" id="form1">
+    <form method="post" action="./545?gorovjeid=26&amp;id=545" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mrzovec/26/551"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=551"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/poldanovec/26/545"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=545"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Mrzovec
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Poldanovec
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(551);
+    gorast(545);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Mrzovec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Poldanovec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1410&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1299&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;58,6950'N&nbsp;/&nbsp;13°&nbsp;48,3450'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;0,5718'N&nbsp;/&nbsp;13°&nbsp;49,9794'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;58'&nbsp;41,70''N&nbsp;/&nbsp;13°&nbsp;48'&nbsp;20,70''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;0'&nbsp;34,31''N&nbsp;/&nbsp;13°&nbsp;49'&nbsp;58,76''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.97825°N&nbsp;/&nbsp;13.80575°E";
+                        document.getElementById("kf0").innerHTML = "46.00953°N&nbsp;/&nbsp;13.83299°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,97825°N,&nbsp;13,80575°E";
+                    document.getElementById("kf0").innerHTML = "46,00953°N,&nbsp;13,83299°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,97825°N&nbsp;13,80575°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mrzovec/551"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,00953°N&nbsp;13,83299°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/poldanovec/545"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Poldanovec - Torek" href="/vreme_gora/poldanovec/26/545#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Poldanovec - Sreda" href="/vreme_gora/poldanovec/26/545#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Poldanovec - Četrtek" href="/vreme_gora/poldanovec/26/545#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Mrzovec - Petek" href="/vreme_gora/mrzovec/26/551#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Poldanovec - Petek" href="/vreme_gora/poldanovec/26/545#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Mrzovec - Sobota" href="/vreme_gora/mrzovec/26/551#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Mrzovec - Nedelja" href="/vreme_gora/mrzovec/26/551#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Mrzovec - Ponedeljek" href="/vreme_gora/mrzovec/26/551#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Mrzovec - Torek" href="/vreme_gora/mrzovec/26/551#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Poldanovec - Sobota" href="/vreme_gora/poldanovec/26/545#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 416.642</div>
-<div class="g2"><b>Priljubljenost:</b> 82%&nbsp;(583.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Ogledov:</b> 462.904</div>
+<div class="g2"><b>Priljubljenost:</b> 87%&nbsp;(431.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Mrzovec je najizrazitejši vrh v osrčju Trnovske planote. Njegova lega omogoča čudovit razgled, vendar ga z vrha zastira visoko drevje. Na vrhu je zgrajen kamnit stolp (trigonometrična točka), a je visok le dobrih pet metrov. Ker pa iz nje nimamo širšega razgleda si lahko podoben razgled mozaično zagotovimo tudi z roba planotastega vrha, saj je na več krajih vegetacija deloma pretrgana. Kot na dlani imamo okoli sebe celoten Trnovski gozd, predvsem vasi Lokve in Nemci. Ob jasnem vremenu je lep razgled tudi širši, do Jadranskega morja na jugu, Julijskih Alp na severu, na zahodni strani se rišeta Sabotin in Banjšice, na vzhodu pa notranjost Slovenije.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Poldanovec se nahaja v Govcih, na severnem robu Trnovske planote. Govci se strmo dvigajo nad dolino Gorenje Trebuše. Poldanovec ni najvišja točka, temveč nudi najlepši razgled proti severu. Obkrožajo ga Mojski vrh, Veliki Bukovec in Veliki Češevik, pod njim pa se spušča kotanja Mojske Drage.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=551&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=545&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/stanov_rob/26/559">Stanov rob (1191m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,39 +835,27 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/gorica/1670">Gorica</a>, <a class="moder" href="/spletna_kamera/goriski_grad___comune_di_gorizia/2056">Goriški grad / Comune di Gorizia</a>, <a class="moder" href="/spletna_kamera/kostanjevica_pri_novi_gorici/3510">Kostanjevica pri Novi Gorici</a>, <a class="moder" href="/spletna_kamera/lijak/344">Lijak</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/nova_gorica/1012">Nova Gorica</a>, <a class="moder" href="/spletna_kamera/nova_gorica_panovec/282">Nova Gorica (Panovec)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_sportni_park_nova_gorica/4298">Nova Gorica (Športni park Nova Gorica)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_trg_edvarda_kardelja/4097">Nova Gorica (Trg Edvarda Kardelja)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_-_rolkarski_park/1996">Nova Gorica - rolkarski park</a>, <a class="moder" href="/spletna_kamera/nova_gorica_center/1697">Nova Gorica center</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/ozeljan/2075">Ozeljan</a>, <a class="moder" href="/spletna_kamera/panovec/346">Panovec</a>, <a class="moder" href="/spletna_kamera/rafut/1884">Rafut</a>, <a class="moder" href="/spletna_kamera/rence/1883">Renče</a>, <a class="moder" href="/spletna_kamera/rozna_dolina/1706">Rožna Dolina</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/sempeter_pri_gorici/2155">Šempeter pri Gorici</a>, <a class="moder" href="/spletna_kamera/sempeter_pri_gorici/4225">Šempeter pri Gorici</a>, <a class="moder" href="/spletna_kamera/solkan/1663">Solkan</a>, <a class="moder" href="/spletna_kamera/solkan_brv_cez_soco/4065">Solkan (brv čez Sočo)</a>, <a class="moder" href="/spletna_kamera/solkanski_most/3326">Solkanski most</a>, <a class="moder" href="/spletna_kamera/sveta_gora/1882">Sveta Gora</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>, <a class="moder" href="/spletna_kamera/vrtojba/1078">Vrtojba</a>, <a class="moder" href="/spletna_kamera/vrtojba_/1943">Vrtojba </a>
+<a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/lijak/344">Lijak</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/ozeljan/2075">Ozeljan</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/solkanski_most/3326">Solkanski most</a>, <a class="moder" href="/spletna_kamera/sveta_gora/1882">Sveta Gora</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmrzovec%2f26%2f551"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmrzovec%2f26%2f551"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmrzovec%2f26%2f551"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpoldanovec%2f26%2f545"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpoldanovec%2f26%2f545"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpoldanovec%2f26%2f545"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/mrzovec/551" title="Mrzovec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Mrzovec.jpg" /></a></div>
+<div><a href="/panorama/360/poldanovec/545" title="Poldanovec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Poldanovec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/mrzovec/6746" onclick="event.preventDefault(); window.open('/slika_gora/mrzovec/6746');"><img class="slikagm" alt="Mrzovec" src="//slike.hribi.net/sliketemp/Mrzovec%201665714881.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/poldanovec/4124" onclick="event.preventDefault(); window.open('/slika_gora/poldanovec/4124');"><img class="slikagm" alt="Poldanovec" src="//www.hribi.net/slike1/P4050077160272.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/mrzovec/6747" onclick="event.preventDefault(); window.open('/slika_gora/mrzovec/6747');"><img class="slikagm" alt="Mrzovec" src="//www.hribi.net/slike1/Mrzovec 1601368900.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/poldanovec/4125" onclick="event.preventDefault(); window.open('/slika_gora/poldanovec/4125');"><img class="slikagm" alt="Poldanovec" src="//www.hribi.net/slike1/P4050055160272.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/mrzovec/6748" onclick="event.preventDefault(); window.open('/slika_gora/mrzovec/6748');"><img class="slikagm" alt="Mrzovec" src="//www.hribi.net/slike1/Mrzovec 1621368900.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/poldanovec/7739" onclick="event.preventDefault(); window.open('/slika_gora/poldanovec/7739');"><img class="slikagm" alt="Poldanovec" src="//www.hribi.net/slike1/Poldanovec%20056202752.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/mrzovec/6749" onclick="event.preventDefault(); window.open('/slika_gora/mrzovec/6749');"><img class="slikagm" alt="Mrzovec" src="//www.hribi.net/slike1/Mrzovec 1641368900.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mrzovec/6750" onclick="event.preventDefault(); window.open('/slika_gora/mrzovec/6750');"><img class="slikagm" alt="Mrzovec" src="//www.hribi.net/slike1/Mrzovec 1541333800.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mrzovec/18536" onclick="event.preventDefault(); window.open('/slika_gora/mrzovec/18536');"><img class="slikagm" alt="Mrzovec" src="//slike.hribi.net/slike4/2_1670620494182_DSCN1349.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/mrzovec/18551" onclick="event.preventDefault(); window.open('/slika_gora/mrzovec/18551');"><img class="slikagm" alt="Mrzovec" src="//slike.hribi.net/slike4/2_0580621014744_DSCN1221.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/mrzovec/18552" onclick="event.preventDefault(); window.open('/slika_gora/mrzovec/18552');"><img class="slikagm" alt="Mrzovec" src="//slike.hribi.net/slike4/2_0557621014675_DSCN1224.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/mrzovec/18553" onclick="event.preventDefault(); window.open('/slika_gora/mrzovec/18553');"><img class="slikagm" alt="Mrzovec" src="//slike.hribi.net/slike4/2_1550620493845_DSCN1213.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/mrzovec/18554" onclick="event.preventDefault(); window.open('/slika_gora/mrzovec/18554');"><img class="slikagm" alt="Mrzovec" src="//slike.hribi.net/slike4/2_0166620493842_DSCN1208.JPG" /></a>
+        <a target="_blank" href="/slika_gora/poldanovec/7740" onclick="event.preventDefault(); window.open('/slika_gora/poldanovec/7740');"><img class="slikagm" alt="Poldanovec" src="//www.hribi.net/slike1/Poldanovec%20071304128.th.jpg" /></a>
     
 </div>
 
@@ -931,7 +919,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=551&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=545&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -941,11 +929,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/turski_klanec_mrzovec/26/551/2838">Turški klanec - Mrzovec</a></td><td class="tdG"><a href="/izlet/turski_klanec_mrzovec/26/551/2838">1 h 30 min</a></td><td class="tdG"><a href="/izlet/turski_klanec_mrzovec/26/551/2838">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lokve_poldanovec/26/545/935">Lokve - Poldanovec</a></td><td class="tdG"><a href="/izlet/lokve_poldanovec/26/545/935">1 h 30 min</a></td><td class="tdG"><a href="/izlet/lokve_poldanovec/26/545/935">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mala_lazna_mrzovec_po_cesti/26/551/2836">Mala Lazna - Mrzovec (po cesti)</a></td><td class="tdG"><a href="/izlet/mala_lazna_mrzovec_po_cesti/26/551/2836">2 h 30 min</a></td><td class="tdG"><a href="/izlet/mala_lazna_mrzovec_po_cesti/26/551/2836">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_na_lazni_poldanovec/26/545/3172">Dom na Lazni - Poldanovec</a></td><td class="tdG"><a href="/izlet/dom_na_lazni_poldanovec/26/545/3172">2 h</a></td><td class="tdG"><a href="/izlet/dom_na_lazni_poldanovec/26/545/3172">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/nemci_mrzovec/26/551/7438">Nemci - Mrzovec</a></td><td class="tdG"><a href="/izlet/nemci_mrzovec/26/551/7438">2 h 40 min</a></td><td class="tdG"><a href="/izlet/nemci_mrzovec/26/551/7438">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gorenja_trebusa_poldanovec_poldanovska_grapa/26/545/8384">Gorenja Trebuša - Poldanovec (Poldanovška grapa)</a></td><td class="tdG"><a href="/izlet/gorenja_trebusa_poldanovec_poldanovska_grapa/26/545/8384">3 h</a></td><td class="tdG"><a href="/izlet/gorenja_trebusa_poldanovec_poldanovska_grapa/26/545/8384">zahtevna označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Golica</title>
-        <meta name="description" content="Natančen opis gore Golica in vseh pristopov na Golica. Golica je neporaščen vrh, ki se nahaja severno od Jesenic. Z vrha, ki ima vpisno." />
+        <title>Roblekov dom na Begunjščici</title>
+        <meta name="description" content="Natančen opis koče Roblekov dom na Begunjščici in vseh pristopov na Roblekov dom na Begunjščici. Roblekov dom se nahaja na pobočjih Begunjščice na njenem zahodnem grebenu. Dom j." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./252?gorovjeid=11&amp;id=252" id="form1">
+    <form method="post" action="./195?gorovjeid=11&amp;id=195" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kahlkogel_golica/11/252"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=252"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/roblekov_dom_na_begunjscici/11/195"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=195"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Golica
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Roblekov dom na Begunjščici
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(252);
+    gorast(195);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Golica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Roblekov dom na Begunjščici</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1835&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1657&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,4792'N&nbsp;/&nbsp;14°&nbsp;3,2466'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,0698'N&nbsp;/&nbsp;14°&nbsp;12,7206'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;28,75''N&nbsp;/&nbsp;14°&nbsp;3'&nbsp;14,80''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;4,19''N&nbsp;/&nbsp;14°&nbsp;12'&nbsp;43,24''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.49132°N&nbsp;/&nbsp;14.05411°E";
+                        document.getElementById("kf0").innerHTML = "46.41783°N&nbsp;/&nbsp;14.21201°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,49132°N,&nbsp;14,05411°E";
+                    document.getElementById("kf0").innerHTML = "46,41783°N,&nbsp;14,21201°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,49132°N&nbsp;14,05411°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/golica/252"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,41783°N&nbsp;14,21201°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/roblekov_dom_na_begunjscici/195"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča, bivak, planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Roblekov dom na Begunjščici - Torek" href="/vreme_gora/roblekov_dom_na_begunjscici/11/195#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Roblekov dom na Begunjščici - Sreda" href="/vreme_gora/roblekov_dom_na_begunjscici/11/195#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Roblekov dom na Begunjščici - Četrtek" href="/vreme_gora/roblekov_dom_na_begunjscici/11/195#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Golica - Petek" href="/vreme_gora/golica/11/252#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Roblekov dom na Begunjščici - Petek" href="/vreme_gora/roblekov_dom_na_begunjscici/11/195#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Golica - Sobota" href="/vreme_gora/golica/11/252#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Golica - Nedelja" href="/vreme_gora/golica/11/252#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Golica - Ponedeljek" href="/vreme_gora/golica/11/252#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Golica - Torek" href="/vreme_gora/golica/11/252#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Roblekov dom na Begunjščici - Sobota" href="/vreme_gora/roblekov_dom_na_begunjscici/11/195#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 962.755</div>
-<div class="g2"><b>Priljubljenost:</b> 100%&nbsp;(12.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">14</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">12</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">5</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=252" title="Število vpisov v vpisni knjigi">17</a></div>
+<div class="g2"><b>Ogledov:</b> 845.262</div>
+<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(32.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=195" title="Število vpisov v vpisni knjigi">32</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Golica je neporaščen vrh, ki se nahaja severno od Jesenic. Z vrha, ki ima vpisno skrinjico je lep pogled na zahodne Karavanke in del Julijskih Alp s Triglavom. Najprimernejši čas za obisk Golice je mesec maj, saj na pobočjih Planine pod Golico takrat cvetijo narcise, ki krasijo okolico. Zaradi ohranjanja narcis, le teh ne trgajmo in s tem  dopustimo, da jih bodo občudovali še naslednji rodovi.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Roblekov dom se nahaja na pobočjih Begunjščice na njenem zahodnem grebenu. Dom je stalno odprt v razširjeni poletni sezoni, v drugih letnih časih pa ob koncih tedna, če je lepo vreme. Za domom stoji tudi zimski bivak z osmimi ležišči. Razgled od doma je najlepši na sosednji Stol na katerem se lepo vidi Prešernova koča.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=252&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=195&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/koca_na_golici/11/196">Koča na Golici (1582m)</a>, <a class="moder" href="/gora/krvavka/11/1008">Krvavka (1784m)</a>, <a class="moder" href="/gora/mala_golica/11/1511">Mala Golica (1646m)</a>, <a class="moder" href="/gora/planina_kladje___quadiaalm/11/2793">Planina Kladje / Quadiaalm (1271m)</a>, <a class="moder" href="/gora/planina_mozine/11/1252">Planina Možine (1352m)</a>
+<a class="moder" href="/gora/begunjscica/11/52">Begunjščica (2060m)</a>, <a class="moder" href="/gora/dom_pri_izviru_zavrsnice/11/278">Dom pri izviru Završnice (1425m)</a>, <a class="moder" href="/gora/planina_planinca/11/1150">Planina Planinca (1136m)</a>, <a class="moder" href="/gora/srednji_vrh_nad_zavrsnico/11/277">Srednji vrh (nad Završnico) (1796m)</a>, <a class="moder" href="/gora/tolsti_vrh_pri_poljski_planini/11/3051">Tolsti vrh (pri Poljški planini) (1225m)</a>, <a class="moder" href="/gora/tomceva_koca_na_poljski_planini/11/194">Tomčeva koča na Poljški planini (1180m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,61 +835,41 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/basko_jezero___faakersee/253">Baško jezero / Faakersee</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/pyramidenkogel_-_worthersee/4893">Pyramidenkogel - Wörthersee</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>
+<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgolica%2f11%2f252"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgolica%2f11%2f252"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgolica%2f11%2f252"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2froblekov_dom_na_begunjscici%2f11%2f195"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2froblekov_dom_na_begunjscici%2f11%2f195"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2froblekov_dom_na_begunjscici%2f11%2f195"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/golica/252" title="Golica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.GolicaVrh.jpg" /></a></div>
+<div><a href="/panorama/360/roblekov_dom_na_begunjscici/195" title="Roblekov dom na Begunjščici 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.roblekovDom.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/golica/317" onclick="event.preventDefault(); window.open('/slika_gora/golica/317');"><img class="slikagm" alt="Golica" src="//www.hribi.net/Gora/p4090013medium8ap.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/roblekov_dom_na_begunjscici/536" onclick="event.preventDefault(); window.open('/slika_gora/roblekov_dom_na_begunjscici/536');"><img class="slikagm" alt="Roblekov dom na Begunjščici" src="//www.hribi.net/Gora/p7160010mediumds8.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/golica/347" onclick="event.preventDefault(); window.open('/slika_gora/golica/347');"><img class="slikagm" alt="Golica" src="//www.hribi.net/Gora/p6110211medium4hk.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/roblekov_dom_na_begunjscici/537" onclick="event.preventDefault(); window.open('/slika_gora/roblekov_dom_na_begunjscici/537');"><img class="slikagm" alt="Roblekov dom na Begunjščici" src="//www.hribi.net/Gora/p7160027mediummk1.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/golica/1757" onclick="event.preventDefault(); window.open('/slika_gora/golica/1757');"><img class="slikagm" alt="Golica" src="//www.hribi.net/slike1/P5210118377055.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/roblekov_dom_na_begunjscici/3504" onclick="event.preventDefault(); window.open('/slika_gora/roblekov_dom_na_begunjscici/3504');"><img class="slikagm" alt="Roblekov dom na Begunjščici" src="//www.hribi.net/slike1/P8190277752640.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/golica/1758" onclick="event.preventDefault(); window.open('/slika_gora/golica/1758');"><img class="slikagm" alt="Golica" src="//www.hribi.net/Pot/p7140033mediumag4.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/roblekov_dom_na_begunjscici/3506" onclick="event.preventDefault(); window.open('/slika_gora/roblekov_dom_na_begunjscici/3506');"><img class="slikagm" alt="Roblekov dom na Begunjščici" src="//www.hribi.net/slike1/P81903201131520.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/golica/3010" onclick="event.preventDefault(); window.open('/slika_gora/golica/3010');"><img class="slikagm" alt="Golica" src="//www.hribi.net/slike1/P6110180102312.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/roblekov_dom_na_begunjscici/3507" onclick="event.preventDefault(); window.open('/slika_gora/roblekov_dom_na_begunjscici/3507');"><img class="slikagm" alt="Roblekov dom na Begunjščici" src="//www.hribi.net/slike1/P81903191131520.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/golica/3011" onclick="event.preventDefault(); window.open('/slika_gora/golica/3011');"><img class="slikagm" alt="Golica" src="//www.hribi.net/slike1/P5210195488775.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/roblekov_dom_na_begunjscici/4224" onclick="event.preventDefault(); window.open('/slika_gora/roblekov_dom_na_begunjscici/4224');"><img class="slikagm" alt="Roblekov dom na Begunjščici" src="//www.hribi.net/slike1/P4260502281880.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/golica/3835" onclick="event.preventDefault(); window.open('/slika_gora/golica/3835');"><img class="slikagm" alt="Golica" src="//www.hribi.net/slike1/P109009314040.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/roblekov_dom_na_begunjscici/4225" onclick="event.preventDefault(); window.open('/slika_gora/roblekov_dom_na_begunjscici/4225');"><img class="slikagm" alt="Roblekov dom na Begunjščici" src="//www.hribi.net/slike1/P4260500281880.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/golica/3837" onclick="event.preventDefault(); window.open('/slika_gora/golica/3837');"><img class="slikagm" alt="Golica" src="//www.hribi.net/sliketemp/P10901264801959.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/golica/6007" onclick="event.preventDefault(); window.open('/slika_gora/golica/6007');"><img class="slikagm" alt="Golica" src="//www.hribi.net/slike1/Golica 11732760.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/golica/6008" onclick="event.preventDefault(); window.open('/slika_gora/golica/6008');"><img class="slikagm" alt="Golica" src="//www.hribi.net/slike1/Golica 11232760.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/golica/6011" onclick="event.preventDefault(); window.open('/slika_gora/golica/6011');"><img class="slikagm" alt="Golica" src="//www.hribi.net/slike1/Golica%20106267540.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/golica/15895" onclick="event.preventDefault(); window.open('/slika_gora/golica/15895');"><img class="slikagm" alt="Golica" src="//slike.hribi.net/slike4/2_1359555437176_DSCN0605.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/golica/15896" onclick="event.preventDefault(); window.open('/slika_gora/golica/15896');"><img class="slikagm" alt="Golica" src="//slike.hribi.net/slike4/2_0138555437174_DSCN0598.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/golica/15897" onclick="event.preventDefault(); window.open('/slika_gora/golica/15897');"><img class="slikagm" alt="Golica" src="//slike.hribi.net/slike4/2_1130555593270_DSCN0604.JPG" /></a>
+        <a target="_blank" href="/slika_gora/roblekov_dom_na_begunjscici/9978" onclick="event.preventDefault(); window.open('/slika_gora/roblekov_dom_na_begunjscici/9978');"><img class="slikagm" alt="Roblekov dom na Begunjščici" src="//www.hribi.net/slike1/Begunjscica%202041027824.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Cvetje/narcise_planina_pod_golico/6/751"><img class="slikagmv" alt="Narcise Planina pod Golico" src="https://img.youtube.com/vi/sSFGBbtgSu8/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Cvetje/narcise_v_vetru/6/525"><img class="slikagmv" alt="Narcise v vetru" src="https://img.youtube.com/vi/wWTzUij9Nz8/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Razgledi/golica/4/182"><img class="slikagmv" alt="Golica" src="https://img.youtube.com/vi/xe9XJ1fyv_U/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Razgledi/golica/4/105"><img class="slikagmv" alt="Golica" src="https://img.youtube.com/vi/BsWDsZaFPkQ/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -947,7 +927,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=252&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=195&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -957,29 +937,23 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_pod_golico_golica/11/252/361">Planina pod Golico - Golica</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_golica/11/252/361">2 h 10 min</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_golica/11/252/361">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tomceva_koca_na_poljski_planini_roblekov_dom_na_begunjscici/11/195/305">Tomčeva koča na Poljški planini - Roblekov dom na Begunjščici</a></td><td class="tdG"><a href="/izlet/tomceva_koca_na_poljski_planini_roblekov_dom_na_begunjscici/11/195/305">1 h 20 min</a></td><td class="tdG"><a href="/izlet/tomceva_koca_na_poljski_planini_roblekov_dom_na_begunjscici/11/195/305">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/krizovec_golica_mimo_koce/11/252/2575">Križovec - Golica (mimo koče)</a></td><td class="tdG"><a href="/izlet/krizovec_golica_mimo_koce/11/252/2575">2 h</a></td><td class="tdG"><a href="/izlet/krizovec_golica_mimo_koce/11/252/2575">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_v_dragi_roblekov_dom_na_begunjscici/11/195/3982">Dom v Dragi - Roblekov dom na Begunjščici</a></td><td class="tdG"><a href="/izlet/dom_v_dragi_roblekov_dom_na_begunjscici/11/195/3982">2 h 50 min</a></td><td class="tdG"><a href="/izlet/dom_v_dragi_roblekov_dom_na_begunjscici/11/195/3982">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_pod_golico_golica_cez_sedlo_suha/11/252/737">Planina pod Golico - Golica (čez sedlo Suha)</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_golica_cez_sedlo_suha/11/252/737">3 h</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_golica_cez_sedlo_suha/11/252/737">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_roblekov_dom_na_begunjscici_cez_zelenico/11/195/617">Ljubelj - Roblekov dom na Begunjščici (čez Zelenico)</a></td><td class="tdG"><a href="/izlet/ljubelj_roblekov_dom_na_begunjscici_cez_zelenico/11/195/617">3 h 20 min</a></td><td class="tdG"><a href="/izlet/ljubelj_roblekov_dom_na_begunjscici_cez_zelenico/11/195/617">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_pod_golico_golica_zimska_pot/11/252/1921">Planina pod Golico - Golica (zimska pot)</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_golica_zimska_pot/11/252/1921">2 h 10 min</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_golica_zimska_pot/11/252/1921">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubelj_roblekov_dom_na_begunjscici_cez_preval-o/11/195/610">Ljubelj - Roblekov dom na Begunjščici (čez Preval-o)</a></td><td class="tdG"><a href="/izlet/ljubelj_roblekov_dom_na_begunjscici_cez_preval-o/11/195/610">3 h</a></td><td class="tdG"><a href="/izlet/ljubelj_roblekov_dom_na_begunjscici_cez_preval-o/11/195/610">delno zahtevna neoznačena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/krizovec_golica_po_grebenu/11/252/2576">Križovec - Golica (po grebenu)</a></td><td class="tdG"><a href="/izlet/krizovec_golica_po_grebenu/11/252/2576">2 h</a></td><td class="tdG"><a href="/izlet/krizovec_golica_po_grebenu/11/252/2576">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_v_dragi_roblekov_dom_na_begunjscici_cez_preval-o/11/195/2135">Dom v Dragi - Roblekov dom na Begunjščici (čez Preval-o)</a></td><td class="tdG"><a href="/izlet/dom_v_dragi_roblekov_dom_na_begunjscici_cez_preval-o/11/195/2135">3 h</a></td><td class="tdG"><a href="/izlet/dom_v_dragi_roblekov_dom_na_begunjscici_cez_preval-o/11/195/2135">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_pristava_v_javorniskem_rovtu_golica_mimo_koce/11/252/3806">Dom Pristava v Javorniškem Rovtu - Golica (mimo koče)</a></td><td class="tdG"><a href="/izlet/dom_pristava_v_javorniskem_rovtu_golica_mimo_koce/11/252/3806">2 h 45 min</a></td><td class="tdG"><a href="/izlet/dom_pristava_v_javorniskem_rovtu_golica_mimo_koce/11/252/3806">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/tinckova_koca_roblekov_dom_na_begunjscici/11/195/2253">Tinčkova koča - Roblekov dom na Begunjščici</a></td><td class="tdG"><a href="/izlet/tinckova_koca_roblekov_dom_na_begunjscici/11/195/2253">1 h 45 min</a></td><td class="tdG"><a href="/izlet/tinckova_koca_roblekov_dom_na_begunjscici/11/195/2253">delno zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_pod_golico_golica_mimo_ovcarske_koce_-_vzhodna_pot/11/252/2106"> Planina pod Golico - Golica (mimo ovčarske koče - vzhodna pot)</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_golica_mimo_ovcarske_koce_-_vzhodna_pot/11/252/2106">2 h 45 min</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_golica_mimo_ovcarske_koce_-_vzhodna_pot/11/252/2106">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podljubelj_lajb_roblekov_dom_na_begunjscici/11/195/611">Podljubelj (Lajb) - Roblekov dom na Begunjščici</a></td><td class="tdG"><a href="/izlet/podljubelj_lajb_roblekov_dom_na_begunjscici/11/195/611">3 h</a></td><td class="tdG"><a href="/izlet/podljubelj_lajb_roblekov_dom_na_begunjscici/11/195/611">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_pristava_v_javorniskem_rovtu_golica_po_grebenu/11/252/3805">Dom Pristava v Javorniškem Rovtu - Golica (po grebenu)</a></td><td class="tdG"><a href="/izlet/dom_pristava_v_javorniskem_rovtu_golica_po_grebenu/11/252/3805">2 h 45 min</a></td><td class="tdG"><a href="/izlet/dom_pristava_v_javorniskem_rovtu_golica_po_grebenu/11/252/3805">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/na_jezercih_roblekov_dom_na_begunjscici/11/195/3995">Na jezercih - Roblekov dom na Begunjščici</a></td><td class="tdG"><a href="/izlet/na_jezercih_roblekov_dom_na_begunjscici/11/195/3995">2 h 30 min</a></td><td class="tdG"><a href="/izlet/na_jezercih_roblekov_dom_na_begunjscici/11/195/3995">lahka neoznačena steza, lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_pod_golico_golica_mimo_ovcarske_koce_-_zahodna_pot/11/252/2104">Planina pod Golico - Golica (mimo ovčarske koče - zahodna pot)</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_golica_mimo_ovcarske_koce_-_zahodna_pot/11/252/2104">3 h</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_golica_mimo_ovcarske_koce_-_zahodna_pot/11/252/2104">delno zahtevna neoznačena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podrozca___rosenbach_golica_skozi_medji_dol/11/252/6456">Podrožca / Rosenbach - Golica (skozi Medji dol)</a></td><td class="tdG"><a href="/izlet/podrozca___rosenbach_golica_skozi_medji_dol/11/252/6456">3 h 45 min</a></td><td class="tdG"><a href="/izlet/podrozca___rosenbach_golica_skozi_medji_dol/11/252/6456">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podrozca___rosenbach_golica_cez_planino_kladje/11/252/6459">Podrožca / Rosenbach - Golica (čez planino Kladje)</a></td><td class="tdG"><a href="/izlet/podrozca___rosenbach_golica_cez_planino_kladje/11/252/6459">3 h 35 min</a></td><td class="tdG"><a href="/izlet/podrozca___rosenbach_golica_cez_planino_kladje/11/252/6459">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tale___tallach_golica_cez_planino_kladje/11/252/6461">Tale / Tallach - Golica (čez planino Kladje)</a></td><td class="tdG"><a href="/izlet/tale___tallach_golica_cez_planino_kladje/11/252/6461">3 h 50 min</a></td><td class="tdG"><a href="/izlet/tale___tallach_golica_cez_planino_kladje/11/252/6461">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tinckova_koca_roblekov_dom_na_begunjscici_cez_poljsko_planino/11/195/3991"> Tinčkova koča - Roblekov dom na Begunjščici (čez Poljško planino)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_roblekov_dom_na_begunjscici_cez_poljsko_planino/11/195/3991">2 h 20 min</a></td><td class="tdG"><a href="/izlet/tinckova_koca_roblekov_dom_na_begunjscici_cez_poljsko_planino/11/195/3991">delno zahtevna označena pot</a></td></tr>
 
 </table>
 

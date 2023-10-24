@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Janče</title>
-        <meta name="description" content="Natančen opis gore Janče in vseh pristopov na Janče. Janče so 792 metrov visok vrh, ki se nahaja med reko Savo in dolino potoka Besni." />
+        <title>Hotel Polževo</title>
+        <meta name="description" content="Natančen opis koče Hotel Polževo in vseh pristopov na Hotel Polževo. Hotel Polževo se nahaja ob vznožju smučišča Polževo ter ob markirani poti Višnja." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./726?gorovjeid=25&amp;id=726" id="form1">
+    <form method="post" action="./2717?gorovjeid=25&amp;id=2717" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/jance/25/726"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=726"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/hotel_polzevo/25/2717"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2717"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Janče
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Hotel Polževo
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(726);
+    gorast(2717);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Janče</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Hotel Polževo</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 792&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 592&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;3,1332'N&nbsp;/&nbsp;14°&nbsp;42,6060'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;55,4640'N&nbsp;/&nbsp;14°&nbsp;45,300'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;3'&nbsp;7,99''N&nbsp;/&nbsp;14°&nbsp;42'&nbsp;36,36''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;55'&nbsp;27,84''N&nbsp;/&nbsp;14°&nbsp;45'&nbsp;18,00''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.05222°N&nbsp;/&nbsp;14.7101°E";
+                        document.getElementById("kf0").innerHTML = "45.9244°N&nbsp;/&nbsp;14.755°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,05222°N,&nbsp;14,7101°E";
+                    document.getElementById("kf0").innerHTML = "45,9244°N,&nbsp;14,755°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,05222°N&nbsp;14,7101°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/jance/726"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,9244°N&nbsp;14,755°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/hotel_polzevo/2717"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Hotel Polževo - Torek" href="/vreme_gora/hotel_polzevo/25/2717#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Hotel Polževo - Sreda" href="/vreme_gora/hotel_polzevo/25/2717#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Hotel Polževo - Četrtek" href="/vreme_gora/hotel_polzevo/25/2717#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Janče - Petek" href="/vreme_gora/jance/25/726#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Hotel Polževo - Petek" href="/vreme_gora/hotel_polzevo/25/2717#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Janče - Sobota" href="/vreme_gora/jance/25/726#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Janče - Nedelja" href="/vreme_gora/jance/25/726#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Janče - Ponedeljek" href="/vreme_gora/jance/25/726#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Janče - Torek" href="/vreme_gora/jance/25/726#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Hotel Polževo - Sobota" href="/vreme_gora/hotel_polzevo/25/2717#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 567.610</div>
-<div class="g2"><b>Priljubljenost:</b> 95%&nbsp;(178.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=726" title="Število vpisov v vpisni knjigi">12</a></div>
+<div class="g2"><b>Ogledov:</b> 10.950</div>
+<div class="g2"><b>Priljubljenost:</b> 38%&nbsp;(2035.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Janče so 792 metrov visok vrh, ki se nahaja med reko Savo in dolino potoka Besnica. Z vrha, na katerem stoji planinski dom ter nekaj metrov pod njim še cerkev sv. Miklavža, se nam odpre lep razgled, ki seže na bližnje Posavsko hribovje, ob lepi vidljivosti pa razgled seže vse do Alp na severu in zahodu, proti jugu pa vse do Snežnika.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Hotel Polževo se nahaja ob vznožju smučišča Polževo ter ob markirani poti Višnja Gora - Sveti Duh. V okolici hotela so prijetni travniki, s katerih je lep razgled po okolici.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=726&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2717&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/sveti_duh_polzevo/25/2718">Sveti Duh (Polževo) (630m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,37 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/debeli_hrib/422">Debeli hrib</a>, <a class="moder" href="/spletna_kamera/domzale/1008">Domžale</a>, <a class="moder" href="/spletna_kamera/golovec_astronomski_observatorij_fmf/4305">Golovec (Astronomski observatorij FMF)</a>, <a class="moder" href="/spletna_kamera/grosuplje/303">Grosuplje</a>, <a class="moder" href="/spletna_kamera/grosuplje/1964">Grosuplje</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/krtina/3453">Krtina</a>, <a class="moder" href="/spletna_kamera/lavrica/3607">Lavrica</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/ljubljana_ukc_ljubljana/3385">Ljubljana (UKC Ljubljana)</a>, <a class="moder" href="/spletna_kamera/ljubljana_golovec/463">Ljubljana Golovec</a>, <a class="moder" href="/spletna_kamera/ljubljana_jug/457">Ljubljana jug</a>, <a class="moder" href="/spletna_kamera/ljubljana_malence/455">Ljubljana Malence</a>, <a class="moder" href="/spletna_kamera/ljubljana_nove_jarse/480">Ljubljana Nove Jarše</a>, <a class="moder" href="/spletna_kamera/ljubljana_rudnik/1759">Ljubljana Rudnik</a>, <a class="moder" href="/spletna_kamera/ljubljana_tomacevo/479">Ljubljana Tomačevo</a>, <a class="moder" href="/spletna_kamera/ljubljana_zadobrova/459">Ljubljana Zadobrova</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/orle/4000">Orle</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sentjakob/354">Šentjakob</a>, <a class="moder" href="/spletna_kamera/skofljica/3606">Škofljica</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/visnja_gora/429">Višnja Gora</a>, <a class="moder" href="/spletna_kamera/zagarski_vrh/3123">Žagarski vrh</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
+<a class="moder" href="/spletna_kamera/dob/433">Dob</a>, <a class="moder" href="/spletna_kamera/grosuplje/303">Grosuplje</a>, <a class="moder" href="/spletna_kamera/grosuplje/1964">Grosuplje</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/male_rebrce/3042">Male Rebrce</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/pijava_gorica/454">Pijava Gorica</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sevno/2378">Sevno</a>, <a class="moder" href="/spletna_kamera/visnja_gora/429">Višnja Gora</a>, <a class="moder" href="/spletna_kamera/zagarski_vrh/3123">Žagarski vrh</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fjance%2f25%2f726"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjance%2f25%2f726"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjance%2f25%2f726"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fhotel_polzevo%2f25%2f2717"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fhotel_polzevo%2f25%2f2717"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fhotel_polzevo%2f25%2f2717"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/jance/726" title="Janče 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Jance.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/jance/2421" onclick="event.preventDefault(); window.open('/slika_gora/jance/2421');"><img class="slikagm" alt="Janče" src="//www.hribi.net/slike1/PA250135236600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hotel_polzevo/15247" onclick="event.preventDefault(); window.open('/slika_gora/hotel_polzevo/15247');"><img class="slikagm" alt="Hotel Polževo" src="//www.hribi.net/slike1/DSCN8540256608.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jance/2422" onclick="event.preventDefault(); window.open('/slika_gora/jance/2422');"><img class="slikagm" alt="Janče" src="//www.hribi.net/slike1/PA250086527800.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hotel_polzevo/15248" onclick="event.preventDefault(); window.open('/slika_gora/hotel_polzevo/15248');"><img class="slikagm" alt="Hotel Polževo" src="//www.hribi.net/slike1/DSCN8543256608.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jance/13091" onclick="event.preventDefault(); window.open('/slika_gora/jance/13091');"><img class="slikagm" alt="Janče" src="//www.hribi.net/slike1/DSCN545074480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hotel_polzevo/15249" onclick="event.preventDefault(); window.open('/slika_gora/hotel_polzevo/15249');"><img class="slikagm" alt="Hotel Polževo" src="//www.hribi.net/slike1/DSCN85321140480.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/jance/13092" onclick="event.preventDefault(); window.open('/slika_gora/jance/13092');"><img class="slikagm" alt="Janče" src="//www.hribi.net/slike1/DSCN545474480.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/jance/13093" onclick="event.preventDefault(); window.open('/slika_gora/jance/13093');"><img class="slikagm" alt="Janče" src="//www.hribi.net/slike1/DSCN545874480.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/jance/13094" onclick="event.preventDefault(); window.open('/slika_gora/jance/13094');"><img class="slikagm" alt="Janče" src="//www.hribi.net/slike1/DSCN545974480.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/jance/13095" onclick="event.preventDefault(); window.open('/slika_gora/jance/13095');"><img class="slikagm" alt="Janče" src="//www.hribi.net/slike1/DSCN546074480.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/jance/13096" onclick="event.preventDefault(); window.open('/slika_gora/jance/13096');"><img class="slikagm" alt="Janče" src="//www.hribi.net/slike1/DSCN546174480.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/jance/13097" onclick="event.preventDefault(); window.open('/slika_gora/jance/13097');"><img class="slikagm" alt="Janče" src="//www.hribi.net/slike1/DSCN549574480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hotel_polzevo/15250" onclick="event.preventDefault(); window.open('/slika_gora/hotel_polzevo/15250');"><img class="slikagm" alt="Hotel Polževo" src="//slike.hribi.net/slike4/2_0754530796649_DSCN8456.JPG" /></a>
     
 </div>
 
@@ -929,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=726&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2717&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -939,17 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lanisce_jance/25/726/1310">Lanišče - Janče</a></td><td class="tdG"><a href="/izlet/lanisce_jance/25/726/1310"> 30 min</a></td><td class="tdG"><a href="/izlet/lanisce_jance/25/726/1310">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/jevnica_jance/25/726/2504">Jevnica - Janče</a></td><td class="tdG"><a href="/izlet/jevnica_jance/25/726/2504">1 h 45 min</a></td><td class="tdG"><a href="/izlet/jevnica_jance/25/726/2504">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/besnica_jance/25/726/1311">Besnica - Janče</a></td><td class="tdG"><a href="/izlet/besnica_jance/25/726/1311">2 h 15 min</a></td><td class="tdG"><a href="/izlet/besnica_jance/25/726/1311">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/veliko_trebeljevo_jance/25/726/1312">Veliko Trebeljevo - Janče</a></td><td class="tdG"><a href="/izlet/veliko_trebeljevo_jance/25/726/1312">2 h 15 min</a></td><td class="tdG"><a href="/izlet/veliko_trebeljevo_jance/25/726/1312">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/laze_pri_dolskem_jance/25/726/4117">Laze pri Dolskem - Janče</a></td><td class="tdG"><a href="/izlet/laze_pri_dolskem_jance/25/726/4117">2 h 15 min</a></td><td class="tdG"><a href="/izlet/laze_pri_dolskem_jance/25/726/4117">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/litija_jance_cez_sirmanski_hrib/25/726/4747">Litija - Janče (čez Širmanski hrib)</a></td><td class="tdG"><a href="/izlet/litija_jance_cez_sirmanski_hrib/25/726/4747">3 h 30 min</a></td><td class="tdG"><a href="/izlet/litija_jance_cez_sirmanski_hrib/25/726/4747">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/visnja_gora_hotel_polzevo/25/2717/6146">Višnja Gora - Hotel Polževo</a></td><td class="tdG"><a href="/izlet/visnja_gora_hotel_polzevo/25/2717/6146">1 h 20 min</a></td><td class="tdG"><a href="/izlet/visnja_gora_hotel_polzevo/25/2717/6146">lahka označena pot</a></td></tr>
 
 </table>
 

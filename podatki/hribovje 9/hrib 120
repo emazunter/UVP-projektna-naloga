@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Štor</title>
-        <meta name="description" content="Natančen opis gore Štor in vseh pristopov na Štor. Štor je 1005 m visok vrh, ki se nahaja neposredno nad Kočo na Ermanovcu. Sam vrh." />
+        <title>Bolnica Franja</title>
+        <meta name="description" content="Natančen opis slapa Bolnica Franja in vseh pristopov na Bolnica Franja. Bolnica Franja je nekdanja partizanska vojna bolnišnica, ki se nahaja v soteski ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1685?gorovjeid=21&amp;id=1685" id="form1">
+    <form method="post" action="./1777?gorovjeid=21&amp;id=1777" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/stor/21/1685"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1685"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/partisan_hospital_franja/21/1777"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1777"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Štor
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Bolnica Franja
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1685);
+    gorast(1777);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Štor</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bolnica Franja</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1005&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 601&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;6,5580'N&nbsp;/&nbsp;14°&nbsp;3,3078'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;9,2100'N&nbsp;/&nbsp;14°&nbsp;1,7040'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;6'&nbsp;33,48''N&nbsp;/&nbsp;14°&nbsp;3'&nbsp;18,47''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;9'&nbsp;12,60''N&nbsp;/&nbsp;14°&nbsp;1'&nbsp;42,24''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.1093°N&nbsp;/&nbsp;14.05513°E";
+                        document.getElementById("kf0").innerHTML = "46.1535°N&nbsp;/&nbsp;14.0284°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,1093°N,&nbsp;14,05513°E";
+                    document.getElementById("kf0").innerHTML = "46,1535°N,&nbsp;14,0284°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1093°N&nbsp;14,05513°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/stor/1685"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1535°N&nbsp;14,0284°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bolnica_franja/1777"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> slap, koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bolnica Franja - Torek" href="/vreme_gora/bolnica_franja/21/1777#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bolnica Franja - Sreda" href="/vreme_gora/bolnica_franja/21/1777#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bolnica Franja - Četrtek" href="/vreme_gora/bolnica_franja/21/1777#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Štor - Petek" href="/vreme_gora/stor/21/1685#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bolnica Franja - Petek" href="/vreme_gora/bolnica_franja/21/1777#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Štor - Sobota" href="/vreme_gora/stor/21/1685#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Štor - Nedelja" href="/vreme_gora/stor/21/1685#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Štor - Ponedeljek" href="/vreme_gora/stor/21/1685#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Štor - Torek" href="/vreme_gora/stor/21/1685#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bolnica Franja - Sobota" href="/vreme_gora/bolnica_franja/21/1777#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 166.963</div>
-<div class="g2"><b>Priljubljenost:</b> 54%&nbsp;(1514.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">12</a></div>
+<div class="g2"><b>Ogledov:</b> 473.041</div>
+<div class="g2"><b>Priljubljenost:</b> 88%&nbsp;(398.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">16</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1685" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1777" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Štor je 1005 m visok vrh, ki se nahaja neposredno nad Kočo na Ermanovcu. Sam vrh je sicer poraščen z gozdom, se nam pa s travnika, ki je le nekaj 10 m oddaljen od vrha, odpre lep razgled na del Julijskih Alp ter bližnji Blegoš.</div>
+<div style="padding-top:10px;"><b>Opis slapa:</b><br />Bolnica Franja je nekdanja partizanska vojna bolnišnica, ki se nahaja v soteski Pasice nad Dolenjim Novaki. Bolnica je delovala od konca leta 1943 do maja 1945. Bolnica je sestavljena iz številnih manjših lesenih barak, ki so stisnjene v sotesko Pasice.<br>18. septembra leta 2007, pa je širše cerkljansko območje zajela huda nevihta, ki je povzročila močne hudourniške poplave. Takrat je voda odnesla vse razen ene barake. Hudourniška voda, pa je s seboj odnesla tudi vse predmete, ki so bili shranjeni v barakah, ki so služile kot muzej. Do danes so našli približno 30% predmetov, ki so jih shranili v muzej v Cerknem.<br>Po poplavah septembra 2007, so pričeli s sanacijo in obnovo barak ter bolnico leta 2010 ponovno odprli za javnost. Cena za ogled bolnice Franja je 4 € za odrasle in 2,5 € za otroke (cenik maj 2011).</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1685&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1777&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/ermanovec/21/1134">Ermanovec (1026m)</a>, <a class="moder" href="/gora/koca_na_ermanovcu/21/547">Koča na Ermanovcu (968m)</a>, <a class="moder" href="/gora/sveti_pavel_stara_oselica/21/3357">Sveti Pavel (Stara Oselica) (728m)</a>, <a class="moder" href="/gora/vrhovski_gric/21/3225">Vrhovski grič (958m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,20 +835,48 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstor%2f21%2f1685"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstor%2f21%2f1685"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstor%2f21%2f1685"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbolnica_franja%2f21%2f1777"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbolnica_franja%2f21%2f1777"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbolnica_franja%2f21%2f1777"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/stor/7415" onclick="event.preventDefault(); window.open('/slika_gora/stor/7415');"><img class="slikagm" alt="Štor" src="//slike.hribi.net/sliketemp/Ermanovec%203275878877.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bolnica_franja/7966" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7966');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 042416955.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stor/19077" onclick="event.preventDefault(); window.open('/slika_gora/stor/19077');"><img class="slikagm" alt="Štor" src="//slike.hribi.net/slike4/2_1724636395466_DSCN4212.JPG" /></a>
+        <a target="_blank" href="/slika_gora/bolnica_franja/7967" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7967');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 044416955.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7968" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7968');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 047592515.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7969" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7969');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 052592515.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7970" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7970');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 053592515.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7971" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7971');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 056592515.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7972" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7972');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 057592515.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7973" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7973');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 062592515.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7974" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7974');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 063592515.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7975" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7975');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 083592515.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7976" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7976');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 093592515.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7977" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7977');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 102592515.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7978" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7978');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 113680295.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7979" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7979');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 114680295.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7980" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7980');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 121680295.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bolnica_franja/7981" onclick="event.preventDefault(); window.open('/slika_gora/bolnica_franja/7981');"><img class="slikagm" alt="Bolnica Franja" src="//www.hribi.net/slike1/BolnicaFranja 123680295.th.jpg" /></a>
     
 </div>
 
@@ -912,7 +940,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1685&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1777&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,29 +950,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kopacnica_stor/21/1685/3034">Kopačnica - Štor</a></td><td class="tdG"><a href="/izlet/kopacnica_stor/21/1685/3034">1 h 25 min</a></td><td class="tdG"><a href="/izlet/kopacnica_stor/21/1685/3034">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sovodenj_stor_razgledna_pot/21/1685/4781"> Sovodenj - Štor (razgledna pot)</a></td><td class="tdG"><a href="/izlet/sovodenj_stor_razgledna_pot/21/1685/4781">1 h 45 min</a></td><td class="tdG"><a href="/izlet/sovodenj_stor_razgledna_pot/21/1685/4781">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sovodenj_stor_skozi_miklavzevo_grapo/21/1685/4778">Sovodenj - Štor (skozi Miklavževo grapo)</a></td><td class="tdG"><a href="/izlet/sovodenj_stor_skozi_miklavzevo_grapo/21/1685/4778">1 h 25 min</a></td><td class="tdG"><a href="/izlet/sovodenj_stor_skozi_miklavzevo_grapo/21/1685/4778">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/hotavlje_stor_cez_slajko/21/1685/5140">Hotavlje - Štor (čez Slajko)</a></td><td class="tdG"><a href="/izlet/hotavlje_stor_cez_slajko/21/1685/5140">2 h 50 min</a></td><td class="tdG"><a href="/izlet/hotavlje_stor_cez_slajko/21/1685/5140">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/hotavlje_stor_po_cesti/21/1685/5178">Hotavlje - Štor (po cesti)</a></td><td class="tdG"><a href="/izlet/hotavlje_stor_po_cesti/21/1685/5178">2 h 15 min</a></td><td class="tdG"><a href="/izlet/hotavlje_stor_po_cesti/21/1685/5178">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/cerkno_stor_cez_kladje/21/1685/5806">Cerkno - Štor (čez Kladje)</a></td><td class="tdG"><a href="/izlet/cerkno_stor_cez_kladje/21/1685/5806">2 h 40 min</a></td><td class="tdG"><a href="/izlet/cerkno_stor_cez_kladje/21/1685/5806">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/cerkno_stor_skozi_planino_pri_cerknem/21/1685/5810">Cerkno - Štor (skozi Planino pri Cerknem)</a></td><td class="tdG"><a href="/izlet/cerkno_stor_skozi_planino_pri_cerknem/21/1685/5810">2 h 45 min</a></td><td class="tdG"><a href="/izlet/cerkno_stor_skozi_planino_pri_cerknem/21/1685/5810">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sovodenj_stor_po_cesti/21/1685/5800">Sovodenj - Štor (po cesti)</a></td><td class="tdG"><a href="/izlet/sovodenj_stor_po_cesti/21/1685/5800">1 h 35 min</a></td><td class="tdG"><a href="/izlet/sovodenj_stor_po_cesti/21/1685/5800">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podlanisce_stor/21/1685/5803">Podlanišče - Štor</a></td><td class="tdG"><a href="/izlet/podlanisce_stor/21/1685/5803">1 h 20 min</a></td><td class="tdG"><a href="/izlet/podlanisce_stor/21/1685/5803">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/trebija_stor_cez_ermanovec/21/1685/8048">Trebija - Štor (čez Ermanovec)</a></td><td class="tdG"><a href="/izlet/trebija_stor_cez_ermanovec/21/1685/8048">2 h 20 min</a></td><td class="tdG"><a href="/izlet/trebija_stor_cez_ermanovec/21/1685/8048">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_stor/21/1685/7317">Dolenji Novaki (Pod Kovkom) - Štor</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_stor/21/1685/7317">3 h</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_pod_kovkom_stor/21/1685/7317">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podgora_stor_cez_slajko/21/1685/8049">Podgora - Štor (čez Slajko)</a></td><td class="tdG"><a href="/izlet/podgora_stor_cez_slajko/21/1685/8049">3 h</a></td><td class="tdG"><a href="/izlet/podgora_stor_cez_slajko/21/1685/8049">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dolenji_novaki_bolnica_franja/21/1777/3236">Dolenji Novaki - Bolnica Franja</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_bolnica_franja/21/1777/3236"> 18 min</a></td><td class="tdG"><a href="/izlet/dolenji_novaki_bolnica_franja/21/1777/3236">lahka označena pot</a></td></tr>
 
 </table>
 

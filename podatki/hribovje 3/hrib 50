@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Veliki vrh (Veža)</title>
-        <meta name="description" content="Natančen opis gore Veliki vrh (Veža) in vseh pristopov na Veliki vrh (Veža). Veliki vrh je 2110 m visoka gora, ki se nahaja v osrednjem delu Dleskovške plano." />
+        <title>Jamarski bivak na Dleskovški planoti</title>
+        <meta name="description" content="Natančen opis bivaka Jamarski bivak na Dleskovški planoti in vseh pristopov na Jamarski bivak na Dleskovški planoti. Jamarski bivak na Dleskovški planoti je bil postavljen leta 2015, nahaja pa se v." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./438?gorovjeid=3&amp;id=438" id="form1">
+    <form method="post" action="./2711?gorovjeid=3&amp;id=2711" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_vrh_veza/3/438"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=438"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/caving_bivouac_on_dleskovska_planota/3/2711"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2711"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Veliki vrh (Veža)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Jamarski bivak na Dleskovški planoti
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(438);
+    gorast(2711);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Veliki vrh (Veža)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Jamarski bivak na Dleskovški planoti</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2110&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1910&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,4536'N&nbsp;/&nbsp;14°&nbsp;40,1532'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,6420'N&nbsp;/&nbsp;14°&nbsp;40,3740'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;27,22''N&nbsp;/&nbsp;14°&nbsp;40'&nbsp;9,19''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;38,52''N&nbsp;/&nbsp;14°&nbsp;40'&nbsp;22,44''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.35756°N&nbsp;/&nbsp;14.66922°E";
+                        document.getElementById("kf0").innerHTML = "46.3607°N&nbsp;/&nbsp;14.6729°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,35756°N,&nbsp;14,66922°E";
+                    document.getElementById("kf0").innerHTML = "46,3607°N,&nbsp;14,6729°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35756°N&nbsp;14,66922°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_vrh_veza/438"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3607°N&nbsp;14,6729°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/jamarski_bivak_na_dleskovski_planoti/2711"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> bivak</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Jamarski bivak na Dleskovški planoti - Torek" href="/vreme_gora/jamarski_bivak_na_dleskovski_planoti/3/2711#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Jamarski bivak na Dleskovški planoti - Sreda" href="/vreme_gora/jamarski_bivak_na_dleskovski_planoti/3/2711#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Jamarski bivak na Dleskovški planoti - Četrtek" href="/vreme_gora/jamarski_bivak_na_dleskovski_planoti/3/2711#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki vrh (Veža) - Petek" href="/vreme_gora/veliki_vrh_veza/3/438#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Jamarski bivak na Dleskovški planoti - Petek" href="/vreme_gora/jamarski_bivak_na_dleskovski_planoti/3/2711#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki vrh (Veža) - Sobota" href="/vreme_gora/veliki_vrh_veza/3/438#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki vrh (Veža) - Nedelja" href="/vreme_gora/veliki_vrh_veza/3/438#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki vrh (Veža) - Ponedeljek" href="/vreme_gora/veliki_vrh_veza/3/438#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki vrh (Veža) - Torek" href="/vreme_gora/veliki_vrh_veza/3/438#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Jamarski bivak na Dleskovški planoti - Sobota" href="/vreme_gora/jamarski_bivak_na_dleskovski_planoti/3/2711#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 554.808</div>
-<div class="g2"><b>Priljubljenost:</b> 94%&nbsp;(203.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 7.900</div>
+<div class="g2"><b>Priljubljenost:</b> 37%&nbsp;(2074.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=438" title="Število vpisov v vpisni knjigi">8</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki vrh je 2110 m visoka gora, ki se nahaja v osrednjem delu Dleskovške planote. Z vrha na katerem se nahajata dve vpisni skrinjici (ena ima obliko miniaturnega Aljaževega stolpa) se nam odpre lep razgled na omenjeno planoto, ter najvišjim vrhovom Savinjskih Alp</div>
+<div style="padding-top:10px;"><b>Opis bivaka:</b><br />Jamarski bivak na Dleskovški planoti je bil postavljen leta 2015, nahaja pa se vzhodno od Velikega vrha. Spodnji del bivaka je namenjen jamarjem, zato je zaklenjen, v zgornjem delu pa lahko prenoči od 6 do osem planincev. Od bivaka se odpre lep razgled na Dleskovec, Veliki vrh in Veliko Zelenico, Križevnik in ostale okoliške gore.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=438&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2711&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/deska_veza/3/304">Deska (Veža) (1970m)</a>, <a class="moder" href="/gora/dleskovec/3/380">Dleskovec (1965m)</a>, <a class="moder" href="/gora/jamarski_bivak_na_dleskovski_planoti/3/2711">Jamarski bivak na Dleskovški planoti (1910m)</a>, <a class="moder" href="/gora/kapelica_na_molicki_planini/3/324">Kapelica na Molički planini (1780m)</a>, <a class="moder" href="/gora/mala_ojstrica/3/1392">Mala Ojstrica (2017m)</a>, <a class="moder" href="/gora/molicka_pec/3/696">Molička peč (2029m)</a>, <a class="moder" href="/gora/planina_dolga_trata/3/708">Planina Dolga trata (1835m)</a>, <a class="moder" href="/gora/planina_vodole/3/1345">Planina Vodole (1570m)</a>, <a class="moder" href="/gora/tolsti_vrh_veza/3/305">Tolsti vrh (Veža) (1985m)</a>, <a class="moder" href="/gora/velika_zelenica/3/697">Velika Zelenica (2114m)</a>, <a class="moder" href="/gora/vodotocno_jezero_veza/3/288">Vodotočno jezero (Veža) (1850m)</a>
+<a class="moder" href="/gora/deska_veza/3/304">Deska (Veža) (1970m)</a>, <a class="moder" href="/gora/dleskovec/3/380">Dleskovec (1965m)</a>, <a class="moder" href="/gora/kapelica_na_molicki_planini/3/324">Kapelica na Molički planini (1780m)</a>, <a class="moder" href="/gora/krizevnik/3/695">Križevnik (1909m)</a>, <a class="moder" href="/gora/mala_ojstrica/3/1392">Mala Ojstrica (2017m)</a>, <a class="moder" href="/gora/molicka_pec/3/696">Molička peč (2029m)</a>, <a class="moder" href="/gora/planina_dolga_trata/3/708">Planina Dolga trata (1835m)</a>, <a class="moder" href="/gora/planina_polsak/3/379">Planina Polšak (1695m)</a>, <a class="moder" href="/gora/planina_vodole/3/1345">Planina Vodole (1570m)</a>, <a class="moder" href="/gora/robanova_planina/3/616">Robanova planina (890m)</a>, <a class="moder" href="/gora/tolsti_vrh_veza/3/305">Tolsti vrh (Veža) (1985m)</a>, <a class="moder" href="/gora/velika_zelenica/3/697">Velika Zelenica (2114m)</a>, <a class="moder" href="/gora/veliki_vrh_veza/3/438">Veliki vrh (Veža) (2110m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -840,34 +840,29 @@ function prijavaG() {
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_vrh_veza%2f3%2f438"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_vrh_veza%2f3%2f438"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_vrh_veza%2f3%2f438"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fjamarski_bivak_na_dleskovski_planoti%2f3%2f2711"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjamarski_bivak_na_dleskovski_planoti%2f3%2f2711"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjamarski_bivak_na_dleskovski_planoti%2f3%2f2711"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/veliki_vrh_veza/438" title="Veliki vrh (Veža) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VelikiVrhVeza.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/veliki_vrh_veza/719" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh_veza/719');"><img class="slikagm" alt="Veliki vrh (Veža)" src="//www.hribi.net/Gora/rimg1120mediumob8.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jamarski_bivak_na_dleskovski_planoti/15225" onclick="event.preventDefault(); window.open('/slika_gora/jamarski_bivak_na_dleskovski_planoti/15225');"><img class="slikagm" alt="Jamarski bivak na Dleskovški planoti" src="//slike.hribi.net/slike4/2_0409529751709_P8260084.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_vrh_veza/2261" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh_veza/2261');"><img class="slikagm" alt="Veliki vrh (Veža)" src="//www.hribi.net/slike1/P92002291170855.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jamarski_bivak_na_dleskovski_planoti/15226" onclick="event.preventDefault(); window.open('/slika_gora/jamarski_bivak_na_dleskovski_planoti/15226');"><img class="slikagm" alt="Jamarski bivak na Dleskovški planoti" src="//www.hribi.net/slike1/P82600881935360.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_vrh_veza/2263" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh_veza/2263');"><img class="slikagm" alt="Veliki vrh (Veža)" src="//www.hribi.net/slike1/P9200196317520.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jamarski_bivak_na_dleskovski_planoti/15227" onclick="event.preventDefault(); window.open('/slika_gora/jamarski_bivak_na_dleskovski_planoti/15227');"><img class="slikagm" alt="Jamarski bivak na Dleskovški planoti" src="//www.hribi.net/slike1/P82600901935360.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_vrh_veza/4745" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh_veza/4745');"><img class="slikagm" alt="Veliki vrh (Veža)" src="//www.hribi.net/slike1/Molickabeg%20089190944.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jamarski_bivak_na_dleskovski_planoti/15228" onclick="event.preventDefault(); window.open('/slika_gora/jamarski_bivak_na_dleskovski_planoti/15228');"><img class="slikagm" alt="Jamarski bivak na Dleskovški planoti" src="//slike.hribi.net/slike4/2_1537529751711_P8260095.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_vrh_veza/4748" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh_veza/4748');"><img class="slikagm" alt="Veliki vrh (Veža)" src="//www.hribi.net/slike1/Molickabeg%20040128520.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jamarski_bivak_na_dleskovski_planoti/15229" onclick="event.preventDefault(); window.open('/slika_gora/jamarski_bivak_na_dleskovski_planoti/15229');"><img class="slikagm" alt="Jamarski bivak na Dleskovški planoti" src="//slike.hribi.net/slike4/2_0743529751774_P8260105.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_vrh_veza/10463" onclick="event.preventDefault(); window.open('/slika_gora/veliki_vrh_veza/10463');"><img class="slikagm" alt="Veliki vrh (Veža)" src="//www.hribi.net/slike1/Korosica12 111944460.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jamarski_bivak_na_dleskovski_planoti/15230" onclick="event.preventDefault(); window.open('/slika_gora/jamarski_bivak_na_dleskovski_planoti/15230');"><img class="slikagm" alt="Jamarski bivak na Dleskovški planoti" src="//slike.hribi.net/slike4/2_1979529751776_P8260112.JPG" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_z_velikega_vrha/8/255"><img class="slikagmv" alt="Polet z Velikega vrha" src="https://img.youtube.com/vi/nkN2V6ghTs8/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -925,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=438&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2711&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,15 +930,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_podvezak_veliki_vrh_veza_cez_prag/3/438/633">Planina Podvežak - Veliki vrh (Veža) (čez Prag)</a></td><td class="tdG"><a href="/izlet/planina_podvezak_veliki_vrh_veza_cez_prag/3/438/633">2 h 20 min</a></td><td class="tdG"><a href="/izlet/planina_podvezak_veliki_vrh_veza_cez_prag/3/438/633">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_ravne_jamarski_bivak_na_dleskovski_planoti_cez_zelene_trate/3/2711/6129">Planina Ravne - Jamarski bivak na Dleskovški planoti (čez Zelene trate)</a></td><td class="tdG"><a href="/izlet/planina_ravne_jamarski_bivak_na_dleskovski_planoti_cez_zelene_trate/3/2711/6129">2 h</a></td><td class="tdG"><a href="/izlet/planina_ravne_jamarski_bivak_na_dleskovski_planoti_cez_zelene_trate/3/2711/6129">lahko brezpotje</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_ravne_veliki_vrh_veza_cez_zelene_trate/3/438/1241">Planina Ravne - Veliki vrh (Veža) (čez Zelene trate)</a></td><td class="tdG"><a href="/izlet/planina_ravne_veliki_vrh_veza_cez_zelene_trate/3/438/1241">2 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_veliki_vrh_veza_cez_zelene_trate/3/438/1241">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_ravne_jamarski_bivak_na_dleskovski_planoti_cez_planino_polsak/3/2711/6130">Planina Ravne - Jamarski bivak na Dleskovški planoti (čez planino Polšak)</a></td><td class="tdG"><a href="/izlet/planina_ravne_jamarski_bivak_na_dleskovski_planoti_cez_planino_polsak/3/2711/6130">2 h 45 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_jamarski_bivak_na_dleskovski_planoti_cez_planino_polsak/3/2711/6130">lahko brezpotje</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_ravne_veliki_vrh_veza_cez_dolgo_trato/3/438/4061"> Planina Ravne - Veliki vrh (Veža) (čez Dolgo trato)</a></td><td class="tdG"><a href="/izlet/planina_ravne_veliki_vrh_veza_cez_dolgo_trato/3/438/4061">2 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_veliki_vrh_veza_cez_dolgo_trato/3/438/4061">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_ravne_veliki_vrh_veza_cez_dleskovec/3/438/4052">Planina Ravne - Veliki vrh (Veža) (čez Dleskovec)</a></td><td class="tdG"><a href="/izlet/planina_ravne_veliki_vrh_veza_cez_dleskovec/3/438/4052">2 h 45 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_veliki_vrh_veza_cez_dleskovec/3/438/4052">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kraljev_dol_veliki_vrh_veza_cez_planino_vodole/3/438/8478">Kraljev dol - Veliki vrh (Veža) (čez planino Vodole)</a></td><td class="tdG"><a href="/izlet/kraljev_dol_veliki_vrh_veza_cez_planino_vodole/3/438/8478">2 h 35 min</a></td><td class="tdG"><a href="/izlet/kraljev_dol_veliki_vrh_veza_cez_planino_vodole/3/438/8478">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_ravne_jamarski_bivak_na_dleskovski_planoti_cez_dolgo_trato/3/2711/6131">Planina Ravne - Jamarski bivak na Dleskovški planoti (čez Dolgo trato)</a></td><td class="tdG"><a href="/izlet/planina_ravne_jamarski_bivak_na_dleskovski_planoti_cez_dolgo_trato/3/2711/6131">2 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_jamarski_bivak_na_dleskovski_planoti_cez_dolgo_trato/3/2711/6131">lahko brezpotje</a></td></tr>
 
 </table>
 

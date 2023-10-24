@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Stene svete Ane</title>
-        <meta name="description" content="Natančen opis gore Stene svete Ane in vseh pristopov na Stene svete Ane. Stene svete Ane so poraščen vrh, ki se nahaja v bližini planinske koče pri Sveti." />
+        <title>Grmada na Mali gori</title>
+        <meta name="description" content="Natančen opis gore Grmada na Mali gori in vseh pristopov na Grmada na Mali gori. Grmada (tudi Grmada nad Ortnekom) je 887 m visok vrh, ki se nahaja nad vasjo Vrh." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1172?gorovjeid=25&amp;id=1172" id="form1">
+    <form method="post" action="./1169?gorovjeid=25&amp;id=1169" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/stene_svete_ane/25/1172"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1172"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/grmada_on_mala_gora/25/1169"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1169"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Stene svete Ane
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Grmada na Mali gori
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1172);
+    gorast(1169);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Stene svete Ane</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Grmada na Mali gori</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 964&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 887&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;46,5354'N&nbsp;/&nbsp;14°&nbsp;44,8560'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;48,8856'N&nbsp;/&nbsp;14°&nbsp;41,7174'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;46'&nbsp;32,12''N&nbsp;/&nbsp;14°&nbsp;44'&nbsp;51,36''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;48'&nbsp;53,14''N&nbsp;/&nbsp;14°&nbsp;41'&nbsp;43,04''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.77559°N&nbsp;/&nbsp;14.7476°E";
+                        document.getElementById("kf0").innerHTML = "45.81476°N&nbsp;/&nbsp;14.69529°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,77559°N,&nbsp;14,7476°E";
+                    document.getElementById("kf0").innerHTML = "45,81476°N,&nbsp;14,69529°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,77559°N&nbsp;14,7476°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/stene_svete_ane/1172"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,81476°N&nbsp;14,69529°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/grmada_na_mali_gori/1169"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> vrh, koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Grmada na Mali gori - Torek" href="/vreme_gora/grmada_na_mali_gori/25/1169#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Grmada na Mali gori - Sreda" href="/vreme_gora/grmada_na_mali_gori/25/1169#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Grmada na Mali gori - Četrtek" href="/vreme_gora/grmada_na_mali_gori/25/1169#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Stene svete Ane - Petek" href="/vreme_gora/stene_svete_ane/25/1172#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grmada na Mali gori - Petek" href="/vreme_gora/grmada_na_mali_gori/25/1169#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Stene svete Ane - Sobota" href="/vreme_gora/stene_svete_ane/25/1172#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Stene svete Ane - Nedelja" href="/vreme_gora/stene_svete_ane/25/1172#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Stene svete Ane - Ponedeljek" href="/vreme_gora/stene_svete_ane/25/1172#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Stene svete Ane - Torek" href="/vreme_gora/stene_svete_ane/25/1172#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grmada na Mali gori - Sobota" href="/vreme_gora/grmada_na_mali_gori/25/1169#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 346.689</div>
-<div class="g2"><b>Priljubljenost:</b> 75%&nbsp;(832.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Ogledov:</b> 356.261</div>
+<div class="g2"><b>Priljubljenost:</b> 76%&nbsp;(799.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1172" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1169" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Stene svete Ane so poraščen vrh, ki se nahaja v bližini planinske koče pri Sveti Ani na Mali gori. Na vrhu stoji manjši opazovalni stolp, ki je bil postavljen za potrebe zemljemerstva. Vrh ima vpisno skrinjico in žig.<br> Le nekoliko stran od vrha, pa se nahaja razgledna točka s katere se nam odpre lep razgled proti Kamniško Savinjskim Alpam, Posavskem in Zasavskem hribovju ter delu Dolenjske.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Grmada (tudi Grmada nad Ortnekom) je 887 m visok vrh, ki se nahaja nad vasjo Vrh pri Poljanah v pogorju Male gore. Le nekaj metrov pod vrhom se nahaja tudi dom na Grmadi, ki je odprt ob koncih tedna. Od doma pa se nam ob lepem vremenu odpre lep razgled, ki seže po večjem delu Dolenjske, če pa se sprehodimo okrog vrha pa lahko vidimo vse od Snežnika, Julijcev, Karavank do Kamniško Savinjskih Alp.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1172&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1169&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/koca_pri_sveti_ani_na_mali_gori/25/1171">Koča pri Sveti Ani na Mali gori (910m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,29 +835,33 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/gorenje_podpoljane/1449">Gorenje Podpoljane</a>, <a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/male_rebrce/3042">Male Rebrce</a>, <a class="moder" href="/spletna_kamera/ribnica/1981">Ribnica</a>
+<a class="moder" href="/spletna_kamera/gorenje_podpoljane/1449">Gorenje Podpoljane</a>, <a class="moder" href="/spletna_kamera/grosuplje/303">Grosuplje</a>, <a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/male_rebrce/3042">Male Rebrce</a>, <a class="moder" href="/spletna_kamera/ribnica/1981">Ribnica</a>, <a class="moder" href="/spletna_kamera/studenec_na_blokah/1599">Studenec na Blokah</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstene_svete_ane%2f25%2f1172"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstene_svete_ane%2f25%2f1172"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstene_svete_ane%2f25%2f1172"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgrmada_na_mali_gori%2f25%2f1169"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrmada_na_mali_gori%2f25%2f1169"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrmada_na_mali_gori%2f25%2f1169"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/stene_svete_ane/1172" title="Stene svete Ane 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SteneSveteAne.jpg" /></a></div>
+<div><a href="/panorama/360/grmada_na_mali_gori/1169" title="Grmada na Mali gori 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.GrmadaNaMaliGori.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/stene_svete_ane/3947" onclick="event.preventDefault(); window.open('/slika_gora/stene_svete_ane/3947');"><img class="slikagm" alt="Stene svete Ane" src="//www.hribi.net/slike1/P2150099175104.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/3940" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/3940');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/P2130342179928.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stene_svete_ane/3948" onclick="event.preventDefault(); window.open('/slika_gora/stene_svete_ane/3948');"><img class="slikagm" alt="Stene svete Ane" src="//www.hribi.net/slike1/P2150104175104.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/3941" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/3941');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/P2130344179928.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stene_svete_ane/10987" onclick="event.preventDefault(); window.open('/slika_gora/stene_svete_ane/10987');"><img class="slikagm" alt="Stene svete Ane" src="//www.hribi.net/slike1/AnaMalaGora 077943488.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/3942" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/3942');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/P2130340179928.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stene_svete_ane/13425" onclick="event.preventDefault(); window.open('/slika_gora/stene_svete_ane/13425');"><img class="slikagm" alt="Stene svete Ane" src="//www.hribi.net/slike1/DSCN3450422280.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/10878" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/10878');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/KamniVrh 077313664.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stene_svete_ane/13426" onclick="event.preventDefault(); window.open('/slika_gora/stene_svete_ane/13426');"><img class="slikagm" alt="Stene svete Ane" src="//slike.hribi.net/slike4/2_0939485858511_DSCN3429.JPG" /></a>
+        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/10879" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/10879');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/KamniVrh 087313664.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/10883" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/10883');"><img class="slikagm" alt="Grmada na Mali gori" src="//www.hribi.net/slike1/KamniVrh 153385320.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/grmada_na_mali_gori/13422" onclick="event.preventDefault(); window.open('/slika_gora/grmada_na_mali_gori/13422');"><img class="slikagm" alt="Grmada na Mali gori" src="//slike.hribi.net/slike4/2_0909485858357_DSCN3255.JPG" /></a>
     
 </div>
 
@@ -921,7 +925,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1172&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1169&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,21 +935,21 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ribnica_lepovce_stene_svete_ane/25/1172/4499">Ribnica (Lepovče) - Stene svete Ane</a></td><td class="tdG"><a href="/izlet/ribnica_lepovce_stene_svete_ane/25/1172/4499">1 h 35 min</a></td><td class="tdG"><a href="/izlet/ribnica_lepovce_stene_svete_ane/25/1172/4499">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ortnek_grmada_na_mali_gori/25/1169/5276">Ortnek - Grmada na Mali gori</a></td><td class="tdG"><a href="/izlet/ortnek_grmada_na_mali_gori/25/1169/5276">1 h</a></td><td class="tdG"><a href="/izlet/ortnek_grmada_na_mali_gori/25/1169/5276">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/seljan_stene_svete_ane_polozna_pot/25/1172/1975">Seljan - Stene svete Ane (položna pot)</a></td><td class="tdG"><a href="/izlet/seljan_stene_svete_ane_polozna_pot/25/1172/1975">1 h 5 min</a></td><td class="tdG"><a href="/izlet/seljan_stene_svete_ane_polozna_pot/25/1172/1975">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/gornje_retje_grmada_na_mali_gori/25/1169/1970">Gornje Retje - Grmada na Mali gori</a></td><td class="tdG"><a href="/izlet/gornje_retje_grmada_na_mali_gori/25/1169/1970">1 h 40 min</a></td><td class="tdG"><a href="/izlet/gornje_retje_grmada_na_mali_gori/25/1169/1970">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/steljnik_stene_svete_ane/25/1172/1972">Steljnik - Stene svete Ane</a></td><td class="tdG"><a href="/izlet/steljnik_stene_svete_ane/25/1172/1972">1 h 20 min</a></td><td class="tdG"><a href="/izlet/steljnik_stene_svete_ane/25/1172/1972">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podgora_grmada_na_mali_gori/25/1169/4416">Podgora - Grmada na Mali gori</a></td><td class="tdG"><a href="/izlet/podgora_grmada_na_mali_gori/25/1169/4416">1 h 20 min</a></td><td class="tdG"><a href="/izlet/podgora_grmada_na_mali_gori/25/1169/4416">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ortnek_stene_svete_ane/25/1172/5277">Ortnek - Stene svete Ane</a></td><td class="tdG"><a href="/izlet/ortnek_stene_svete_ane/25/1172/5277">2 h 30 min</a></td><td class="tdG"><a href="/izlet/ortnek_stene_svete_ane/25/1172/5277">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dule_grmada_na_mali_gori/25/1169/1969">Dule - Grmada na Mali gori</a></td><td class="tdG"><a href="/izlet/dule_grmada_na_mali_gori/25/1169/1969">2 h</a></td><td class="tdG"><a href="/izlet/dule_grmada_na_mali_gori/25/1169/1969">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podpec_stene_svete_ane_cez_grmado/25/1172/5287">Podpeč - Stene svete Ane (čez Grmado)</a></td><td class="tdG"><a href="/izlet/podpec_stene_svete_ane_cez_grmado/25/1172/5287">3 h 55 min</a></td><td class="tdG"><a href="/izlet/podpec_stene_svete_ane_cez_grmado/25/1172/5287">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podpec_grmada_na_mali_gori/25/1169/4420">Podpeč - Grmada na Mali gori</a></td><td class="tdG"><a href="/izlet/podpec_grmada_na_mali_gori/25/1169/4420">1 h 35 min</a></td><td class="tdG"><a href="/izlet/podpec_grmada_na_mali_gori/25/1169/4420">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gornje_retje_stene_svete_ane_cez_grmado/25/1172/5280">Gornje Retje - Stene svete Ane (čez Grmado)</a></td><td class="tdG"><a href="/izlet/gornje_retje_stene_svete_ane_cez_grmado/25/1172/5280">4 h</a></td><td class="tdG"><a href="/izlet/gornje_retje_stene_svete_ane_cez_grmado/25/1172/5280">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ribnica_lepovce_grmada_na_mali_gori_cez_stene_sv_ane/25/1169/5288">Ribnica (Lepovče) - Grmada na Mali gori (čez Stene sv. Ane)</a></td><td class="tdG"><a href="/izlet/ribnica_lepovce_grmada_na_mali_gori_cez_stene_sv_ane/25/1169/5288">3 h 50 min</a></td><td class="tdG"><a href="/izlet/ribnica_lepovce_grmada_na_mali_gori_cez_stene_sv_ane/25/1169/5288">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podgora_stene_svete_ane_cez_grmado/25/1172/5285">Podgora - Stene svete Ane (čez Grmado)</a></td><td class="tdG"><a href="/izlet/podgora_stene_svete_ane_cez_grmado/25/1172/5285">3 h 40 min</a></td><td class="tdG"><a href="/izlet/podgora_stene_svete_ane_cez_grmado/25/1172/5285">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_gornje_retje/25/1169/8999">Velike Lašče - Grmada na Mali gori (čez Gornje Retje)</a></td><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_gornje_retje/25/1169/8999">2 h</a></td><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_gornje_retje/25/1169/8999">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dule_stene_svete_ane_cez_grmado/25/1172/5282">Dule - Stene svete Ane (čez Grmado)</a></td><td class="tdG"><a href="/izlet/dule_stene_svete_ane_cez_grmado/25/1172/5282">4 h 20 min</a></td><td class="tdG"><a href="/izlet/dule_stene_svete_ane_cez_grmado/25/1172/5282">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_kamen_vrh/25/1169/9020">Velike Lašče - Grmada na Mali gori (čez Kamen vrh)</a></td><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_kamen_vrh/25/1169/9020">2 h</a></td><td class="tdG"><a href="/izlet/velike_lasce_grmada_na_mali_gori_cez_kamen_vrh/25/1169/9020">lahka označena pot</a></td></tr>
 
 </table>
 

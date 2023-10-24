@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sv. Križ (Gaj nad Mariborom)</title>
-        <meta name="description" content="Natančen opis cerkve Sv. Križ (Gaj nad Mariborom) in vseh pristopov na Sv. Križ (Gaj nad Mariborom). Sv. Križ je cerkev v naselju Gaj nad Mariborom. Leži na skrajnem vzhodnem greben." />
+        <title>Radgonski grad</title>
+        <meta name="description" content="Natančen opis gore Radgonski grad in vseh pristopov na Radgonski grad. Radgonski grad se nahaja nad desnim bregom reke Mure in sicer nad Gornjo Radgono." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2340?gorovjeid=162&amp;id=2340" id="form1">
+    <form method="post" action="./3401?gorovjeid=162&amp;id=3401" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_kriz_gaj_nad_mariborom/162/2340"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=162&id=2340"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/radgona_castle/162/3401"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=162&id=3401"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/strojna_kosenjak_kozjak_in_slovenske_gorice/162">Strojna, Košenjak, Kozjak in Slovenske gorice</a> / Sv. Križ (Gaj nad Mariborom)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/strojna_kosenjak_kozjak_in_slovenske_gorice/162">Strojna, Košenjak, Kozjak in Slovenske gorice</a> / Radgonski grad
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2340);
+    gorast(3401);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sv. Križ (Gaj nad Mariborom)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Radgonski grad</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/strojna_kosenjak_kozjak_in_slovenske_gorice/162">Strojna, Košenjak, Kozjak in Slovenske gorice</a></div>
-    <div class="g2"><b>Višina:</b> 575&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 267&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;37,1340'N&nbsp;/&nbsp;15°&nbsp;33,9480'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;40,9716'N&nbsp;/&nbsp;15°&nbsp;58,9554'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;37'&nbsp;8,04''N&nbsp;/&nbsp;15°&nbsp;33'&nbsp;56,88''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;40'&nbsp;58,30''N&nbsp;/&nbsp;15°&nbsp;58'&nbsp;57,32''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.6189°N&nbsp;/&nbsp;15.5658°E";
+                        document.getElementById("kf0").innerHTML = "46.68286°N&nbsp;/&nbsp;15.98259°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,6189°N,&nbsp;15,5658°E";
+                    document.getElementById("kf0").innerHTML = "46,68286°N,&nbsp;15,98259°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,6189°N&nbsp;15,5658°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sv_kriz_gaj_nad_mariborom/2340"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,68286°N&nbsp;15,98259°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/radgonski_grad/3401"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Radgonski grad - Torek" href="/vreme_gora/radgonski_grad/162/3401#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Radgonski grad - Sreda" href="/vreme_gora/radgonski_grad/162/3401#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Radgonski grad - Četrtek" href="/vreme_gora/radgonski_grad/162/3401#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sv. Križ (Gaj nad Mariborom) - Petek" href="/vreme_gora/sv_kriz_gaj_nad_mariborom/162/2340#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Radgonski grad - Petek" href="/vreme_gora/radgonski_grad/162/3401#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sv. Križ (Gaj nad Mariborom) - Sobota" href="/vreme_gora/sv_kriz_gaj_nad_mariborom/162/2340#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sv. Križ (Gaj nad Mariborom) - Nedelja" href="/vreme_gora/sv_kriz_gaj_nad_mariborom/162/2340#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sv. Križ (Gaj nad Mariborom) - Ponedeljek" href="/vreme_gora/sv_kriz_gaj_nad_mariborom/162/2340#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sv. Križ (Gaj nad Mariborom) - Torek" href="/vreme_gora/sv_kriz_gaj_nad_mariborom/162/2340#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Radgonski grad - Sobota" href="/vreme_gora/radgonski_grad/162/3401#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 281.452</div>
-<div class="g2"><b>Priljubljenost:</b> 67%&nbsp;(1073.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Ogledov:</b> 225</div>
+<div class="g2"><b>Priljubljenost:</b> 10%&nbsp;(2950.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Sv. Križ je cerkev v naselju Gaj nad Mariborom. Leži na skrajnem vzhodnem grebenu Kozjaka v bližini meje z republiko Avstrijo. Zanimiva razgledna točka in nekaj manj znanih vrhov v okolici. Je sedež župnije v okviru nadškofije Maribor. Pred drugo svetovno vojno se je naselje imenovalo tudi Sv. Križ, danes Gaj nad Mariborom.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Radgonski grad se nahaja nad desnim bregom reke Mure in sicer nad Gornjo Radgono. Za vstop v grajski park, grajsko dvorišče in grad pa se plača vstopnina.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2340&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3401&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/petnikov_vrh/162/2341">Petnikov vrh (603m)</a>, <a class="moder" href="/gora/planinski_dom_kozjak/162/1203">Planinski dom Kozjak (690m)</a>, <a class="moder" href="/gora/tojzlov_vrh/162/1204">Tojzlov vrh (703m)</a>
+<a class="moder" href="/gora/noricki_vrh/162/3380">Norički vrh (303m)</a>, <a class="moder" href="/gora/piramida_nad_gornjo_radgono/162/3410">Piramida (nad Gornjo Radgono) (310m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,26 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/dogose/1747">Dogoše</a>, <a class="moder" href="/spletna_kamera/eorykogel_-_leutschach_an_der_weinstrasse/3799">Eorykogel - Leutschach an der Weinstraße</a>, <a class="moder" href="/spletna_kamera/gamlitz_sudsteiermark/4171">Gamlitz (Südsteiermark)</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/kamnica/2138">Kamnica</a>, <a class="moder" href="/spletna_kamera/kresnica/1436">Kresnica</a>, <a class="moder" href="/spletna_kamera/maribor/374">Maribor</a>, <a class="moder" href="/spletna_kamera/maribor_radvanje/2098">Maribor (Radvanje)</a>, <a class="moder" href="/spletna_kamera/mariborski_otok/4956">Mariborski otok</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/pernica/4836">Pernica</a>, <a class="moder" href="/spletna_kamera/pesnica/375">Pesnica</a>, <a class="moder" href="/spletna_kamera/sentilj/189">Šentilj</a>, <a class="moder" href="/spletna_kamera/sentilj/378">Šentilj</a>, <a class="moder" href="/spletna_kamera/sportni_park_tabor_maribor/3695">Športni park Tabor Maribor</a>, <a class="moder" href="/spletna_kamera/sulztal_an_der_weinstrasse/4861">Sulztal an der Weinstrasse</a>, <a class="moder" href="/spletna_kamera/viadukt_dragucova/4900">Viadukt Dragučova</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/weitersfeld_an_der_mur/1907">Weitersfeld an der Mur</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
+<a class="moder" href="/spletna_kamera/cenkova/1752">Cenkova</a>, <a class="moder" href="/spletna_kamera/cerkvenjak/4833">Cerkvenjak</a>, <a class="moder" href="/spletna_kamera/dragotinci/1433">Dragotinci</a>, <a class="moder" href="/spletna_kamera/elblov_klanec/190">Elblov klanec</a>, <a class="moder" href="/spletna_kamera/elblov_klanec/276">Elblov klanec</a>, <a class="moder" href="/spletna_kamera/gederovci/1846">Gederovci</a>, <a class="moder" href="/spletna_kamera/kapelski_vrh/3199">Kapelski Vrh</a>, <a class="moder" href="/spletna_kamera/klochberg/2512">Klöchberg</a>, <a class="moder" href="/spletna_kamera/lomanose/1069">Lomanoše</a>, <a class="moder" href="/spletna_kamera/most_na_muri/4832">Most na Muri</a>, <a class="moder" href="/spletna_kamera/murska_sobota/1044">Murska Sobota</a>, <a class="moder" href="/spletna_kamera/pocivalisce_sv_jurij_ob_scavnici/4837">Počivališče Sv. Jurij ob Ščavnici</a>, <a class="moder" href="/spletna_kamera/radgonski_grad/2511">Radgonski grad</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsv_kriz_gaj_nad_mariborom%2f162%2f2340"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsv_kriz_gaj_nad_mariborom%2f162%2f2340"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsv_kriz_gaj_nad_mariborom%2f162%2f2340"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fradgonski_grad%2f162%2f3401"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fradgonski_grad%2f162%2f3401"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fradgonski_grad%2f162%2f3401"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sv_kriz_gaj_nad_mariborom/12443" onclick="event.preventDefault(); window.open('/slika_gora/sv_kriz_gaj_nad_mariborom/12443');"><img class="slikagm" alt="Sv. Križ (Gaj nad Mariborom)" src="//www.hribi.net/slike5/PC2900227535534.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/radgonski_grad/20284" onclick="event.preventDefault(); window.open('/slika_gora/radgonski_grad/20284');"><img class="slikagm" alt="Radgonski grad" src="//slike2.hribi.net/slike14/2_7524676768260_7dscn0482.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sv_kriz_gaj_nad_mariborom/12444" onclick="event.preventDefault(); window.open('/slika_gora/sv_kriz_gaj_nad_mariborom/12444');"><img class="slikagm" alt="Sv. Križ (Gaj nad Mariborom)" src="//www.hribi.net/slike5/PC2900237535535.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sv_kriz_gaj_nad_mariborom/12445" onclick="event.preventDefault(); window.open('/slika_gora/sv_kriz_gaj_nad_mariborom/12445');"><img class="slikagm" alt="Sv. Križ (Gaj nad Mariborom)" src="//www.hribi.net/slike5/PC2900247535536.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sv_kriz_gaj_nad_mariborom/12446" onclick="event.preventDefault(); window.open('/slika_gora/sv_kriz_gaj_nad_mariborom/12446');"><img class="slikagm" alt="Sv. Križ (Gaj nad Mariborom)" src="//www.hribi.net/slike5/PC2900197535537.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sv_kriz_gaj_nad_mariborom/12447" onclick="event.preventDefault(); window.open('/slika_gora/sv_kriz_gaj_nad_mariborom/12447');"><img class="slikagm" alt="Sv. Križ (Gaj nad Mariborom)" src="//www.hribi.net/slike5/PC2900217535538.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/radgonski_grad/20285" onclick="event.preventDefault(); window.open('/slika_gora/radgonski_grad/20285');"><img class="slikagm" alt="Radgonski grad" src="//slike2.hribi.net/slike14/2_0334676284936_0dscn0490.jpg" /></a>
     
 </div>
 
@@ -918,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2340&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3401&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -928,11 +922,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/maribor_sv_kriz_gaj_nad_mariborom_po_poti_cez_kozjak/162/2340/4839">Maribor - Sv. Križ (Gaj nad Mariborom) (po poti čez Kozjak)</a></td><td class="tdG"><a href="/izlet/maribor_sv_kriz_gaj_nad_mariborom_po_poti_cez_kozjak/162/2340/4839">3 h</a></td><td class="tdG"><a href="/izlet/maribor_sv_kriz_gaj_nad_mariborom_po_poti_cez_kozjak/162/2340/4839">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gornja_radgona_mejni_prehod_radgonski_grad/162/3401/8177">Gornja Radgona (mejni prehod) - Radgonski grad</a></td><td class="tdG"><a href="/izlet/gornja_radgona_mejni_prehod_radgonski_grad/162/3401/8177"> 10 min</a></td><td class="tdG"><a href="/izlet/gornja_radgona_mejni_prehod_radgonski_grad/162/3401/8177">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kozjak_nad_pesnico_sv_kriz_gaj_nad_mariborom/162/2340/8424">Kozjak nad Pesnico - Sv. Križ (Gaj nad Mariborom)</a></td><td class="tdG"><a href="/izlet/kozjak_nad_pesnico_sv_kriz_gaj_nad_mariborom/162/2340/8424">1 h 35 min</a></td><td class="tdG"><a href="/izlet/kozjak_nad_pesnico_sv_kriz_gaj_nad_mariborom/162/2340/8424">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sober_log_sv_kriz_gaj_nad_mariborom/162/2340/8380">Šober (Log) - Sv. Križ (Gaj nad Mariborom)</a></td><td class="tdG"><a href="/izlet/sober_log_sv_kriz_gaj_nad_mariborom/162/2340/8380"> 20 min</a></td><td class="tdG"><a href="/izlet/sober_log_sv_kriz_gaj_nad_mariborom/162/2340/8380">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/gornja_radgona_zupnijska_cerkev_sv_petra_radgonski_grad_po_cesti/162/3401/8175">Gornja Radgona (župnijska cerkev sv. Petra) - Radgonski grad (po cesti)</a></td><td class="tdG"><a href="/izlet/gornja_radgona_zupnijska_cerkev_sv_petra_radgonski_grad_po_cesti/162/3401/8175"> 20 min</a></td><td class="tdG"><a href="/izlet/gornja_radgona_zupnijska_cerkev_sv_petra_radgonski_grad_po_cesti/162/3401/8175">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Dom na Krvavcu</title>
-        <meta name="description" content="Natančen opis koče Dom na Krvavcu in vseh pristopov na Dom na Krvavcu. Dom na Krvavcu se nahaja pod vrhom Krvavca v bližini oddajnega stolpa. Med stolp." />
+        <title>Mala Poljana</title>
+        <meta name="description" content="Natančen opis koče Mala Poljana in vseh pristopov na Mala Poljana. Mala Poljana je planina ujeta med Tolsti vrh (1715 m) in manj znani Grebenc (147." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./179?gorovjeid=3&amp;id=179" id="form1">
+    <form method="post" action="./208?gorovjeid=3&amp;id=208" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_na_krvavcu/3/179"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=179"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mala_poljana/3/208"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=208"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Dom na Krvavcu
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Mala Poljana
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(179);
+    gorast(208);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Dom na Krvavcu</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Mala Poljana</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1684&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1325&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,7810'N&nbsp;/&nbsp;14°&nbsp;31,7454'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,9172'N&nbsp;/&nbsp;14°&nbsp;22,3740'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;46,86''N&nbsp;/&nbsp;14°&nbsp;31'&nbsp;44,72''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;55,03''N&nbsp;/&nbsp;14°&nbsp;22'&nbsp;22,44''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.29635°N&nbsp;/&nbsp;14.52909°E";
+                        document.getElementById("kf0").innerHTML = "46.34862°N&nbsp;/&nbsp;14.3729°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,29635°N,&nbsp;14,52909°E";
+                    document.getElementById("kf0").innerHTML = "46,34862°N,&nbsp;14,3729°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,29635°N&nbsp;14,52909°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_na_krvavcu/179"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,34862°N&nbsp;14,3729°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mala_poljana/208"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> koča, planina</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Mala Poljana - Torek" href="/vreme_gora/mala_poljana/3/208#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Mala Poljana - Sreda" href="/vreme_gora/mala_poljana/3/208#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Mala Poljana - Četrtek" href="/vreme_gora/mala_poljana/3/208#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Krvavcu - Petek" href="/vreme_gora/dom_na_krvavcu/3/179#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mala Poljana - Petek" href="/vreme_gora/mala_poljana/3/208#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Krvavcu - Sobota" href="/vreme_gora/dom_na_krvavcu/3/179#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Krvavcu - Nedelja" href="/vreme_gora/dom_na_krvavcu/3/179#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Krvavcu - Ponedeljek" href="/vreme_gora/dom_na_krvavcu/3/179#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Krvavcu - Torek" href="/vreme_gora/dom_na_krvavcu/3/179#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mala Poljana - Sobota" href="/vreme_gora/mala_poljana/3/208#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 500.061</div>
-<div class="g2"><b>Priljubljenost:</b> 90%&nbsp;(321.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=179" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Ogledov:</b> 452.454</div>
+<div class="g2"><b>Priljubljenost:</b> 86%&nbsp;(458.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=208" title="Število vpisov v vpisni knjigi">10</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Dom na Krvavcu se nahaja pod vrhom Krvavca v bližini oddajnega stolpa. Med stolpom in domom je postavljena večja kapelica v kateri je v poletnem času ob nedeljah maša. Od doma je lep razgled proti Ljubljanski kotlini in Gorenjski ravnini. Lepo se vidi tudi del Kamniških in Savinjskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Mala Poljana je planina ujeta med Tolsti vrh (1715 m) in manj znani Grebenc (1479 m). S planine na kateri stoji lovska koča se nam odpre lep pogled na del Gorenjske in pobočja Tolstega vrha.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=179&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=208&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dom_na_gospincu_hotel_rozka/3/1063">Dom na Gospincu (Hotel Rozka) (1491m)</a>, <a class="moder" href="/gora/hotel_krvavec/3/2512">Hotel Krvavec (1600m)</a>, <a class="moder" href="/gora/kriska_planina/3/2201">Kriška planina (1480m)</a>, <a class="moder" href="/gora/krvavec/3/1068">Krvavec (1853m)</a>, <a class="moder" href="/gora/krzisce_pokovse/3/2735">Kržišče (Pokovše) (1658m)</a>, <a class="moder" href="/gora/planina_jezerca/3/2639">Planina Jezerca (1410m)</a>, <a class="moder" href="/gora/planina_koren/3/317">Planina Koren (1675m)</a>, <a class="moder" href="/gora/veliki_zvoh/3/73">Veliki Zvoh (1971m)</a>
+<a class="moder" href="/gora/dom_pod_storzicem/3/190">Dom pod Storžičem (1123m)</a>, <a class="moder" href="/gora/grebenc/3/1233">Grebenc (1479m)</a>, <a class="moder" href="/gora/krnicarjeva_koca_na_planini_javornik/3/528">Krničarjeva koča na planini Javornik (1390m)</a>, <a class="moder" href="/gora/tolsti_vrh/3/125">Tolsti vrh (1715m)</a>, <a class="moder" href="/gora/velika_poljana/3/207">Velika Poljana (1410m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,36 +835,51 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_krvavcu%2f3%2f179"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_krvavcu%2f3%2f179"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_krvavcu%2f3%2f179"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmala_poljana%2f3%2f208"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmala_poljana%2f3%2f208"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmala_poljana%2f3%2f208"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/mala_poljana/208" title="Mala Poljana 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.MalaPoljana.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/dom_na_krvavcu/2368" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_krvavcu/2368');"><img class="slikagm" alt="Dom na Krvavcu" src="//www.hribi.net/slike1/PA070009254100.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mala_poljana/148" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/148');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/Gora/p4160136medium7ly.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_krvavcu/2407" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_krvavcu/2407');"><img class="slikagm" alt="Dom na Krvavcu" src="//www.hribi.net/sliketemp/IMG_20114160015.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mala_poljana/149" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/149');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/Gora/p4160135medium8vm.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_krvavcu/3487" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_krvavcu/3487');"><img class="slikagm" alt="Dom na Krvavcu" src="//www.hribi.net/slike1/P8120201162240.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mala_poljana/424" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/424');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/Gora/p7020080medium3vm.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_krvavcu/3488" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_krvavcu/3488');"><img class="slikagm" alt="Dom na Krvavcu" src="//www.hribi.net/slike1/P8120200162240.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mala_poljana/2369" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/2369');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/slike1/PA140023205800.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_krvavcu/11253" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_krvavcu/11253');"><img class="slikagm" alt="Dom na Krvavcu" src="//www.hribi.net/slike1/Zvoh 199881790.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mala_poljana/4159" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/4159');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/slike1/P416005695472.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_krvavcu/11255" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_krvavcu/11255');"><img class="slikagm" alt="Dom na Krvavcu" src="//www.hribi.net/slike1/Zvoh 194221312.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mala_poljana/4160" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/4160');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/sliketemp/P41602074945839.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mala_poljana/5836" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/5836');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/slike1/Slike nikon 046330000.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mala_poljana/9732" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/9732');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/slike1/TolstiVrh 190947520.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mala_poljana/9733" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/9733');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/slike1/TolstiVrh 192947520.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mala_poljana/12641" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/12641');"><img class="slikagm" alt="Mala Poljana" src="//slike.hribi.net/slike4/2_1910457188417_KrizeTolstiVrh_286.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/mala_poljana/12642" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/12642');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/slike1/KrizeTolstiVrh 3011088640.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mala_poljana/12643" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/12643');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/slike1/KrizeTolstiVrh 3021088640.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mala_poljana/12644" onclick="event.preventDefault(); window.open('/slika_gora/mala_poljana/12644');"><img class="slikagm" alt="Mala Poljana" src="//www.hribi.net/slike1/KrizeTolstiVrh 2931068480.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Letenje z gora/nebeski_polet_s_krvavca/8/553"><img class="slikagmv" alt="Nebeški polet s Krvavca" src="https://img.youtube.com/vi/drGxpwl1fvc/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -922,7 +937,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=179&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=208&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -932,11 +947,17 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kriska_planina_dom_na_krvavcu/3/179/233">Kriška planina - Dom na Krvavcu</a></td><td class="tdG"><a href="/izlet/kriska_planina_dom_na_krvavcu/3/179/233"> 35 min</a></td><td class="tdG"><a href="/izlet/kriska_planina_dom_na_krvavcu/3/179/233">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_pod_storzicem_mala_poljana_po_cesti/3/208/260">Dom pod Storžičem - Mala Poljana (po cesti)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_mala_poljana_po_cesti/3/208/260">1 h</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_mala_poljana_po_cesti/3/208/260">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_jezerca_dom_na_krvavcu/3/179/4561">Planina Jezerca - Dom na Krvavcu</a></td><td class="tdG"><a href="/izlet/planina_jezerca_dom_na_krvavcu/3/179/4561"> 50 min</a></td><td class="tdG"><a href="/izlet/planina_jezerca_dom_na_krvavcu/3/179/4561">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zalog_mala_poljana/3/208/2059">Zalog - Mala Poljana</a></td><td class="tdG"><a href="/izlet/zalog_mala_poljana/3/208/2059">2 h</a></td><td class="tdG"><a href="/izlet/zalog_mala_poljana/3/208/2059">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_na_gospincu_dom_na_krvavcu/3/179/665">Dom na Gospincu - Dom na Krvavcu</a></td><td class="tdG"><a href="/izlet/dom_na_gospincu_dom_na_krvavcu/3/179/665"> 35 min</a></td><td class="tdG"><a href="/izlet/dom_na_gospincu_dom_na_krvavcu/3/179/665">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/povlje_mala_poljana/3/208/5181">Povlje - Mala Poljana</a></td><td class="tdG"><a href="/izlet/povlje_mala_poljana/3/208/5181">1 h 45 min</a></td><td class="tdG"><a href="/izlet/povlje_mala_poljana/3/208/5181">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_pod_storzicem_mala_poljana_pespot/3/208/3897">Dom pod Storžičem - Mala Poljana (pešpot)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_mala_poljana_pespot/3/208/3897">1 h</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_mala_poljana_pespot/3/208/3897">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gozd_mala_poljana/3/208/4930">Gozd - Mala Poljana</a></td><td class="tdG"><a href="/izlet/gozd_mala_poljana/3/208/4930">2 h</a></td><td class="tdG"><a href="/izlet/gozd_mala_poljana/3/208/4930">delno zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/krize_mala_poljana/3/208/4921">Križe - Mala Poljana</a></td><td class="tdG"><a href="/izlet/krize_mala_poljana/3/208/4921">3 h 15 min</a></td><td class="tdG"><a href="/izlet/krize_mala_poljana/3/208/4921">delno zahtevna označena pot</a></td></tr>
 
 </table>
 

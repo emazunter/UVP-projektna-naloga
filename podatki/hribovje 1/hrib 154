@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Špiček (Špečk)</title>
-        <meta name="description" content="Natančen opis gore Špiček (Špečk) in vseh pristopov na Špiček (Špečk). Špiček (domačini mu pravijo Špečk) je vrh, ki se nahaja severno do severovzhodno." />
+        <title>Trenk</title>
+        <meta name="description" content="Natančen opis gore Trenk in vseh pristopov na Trenk. Trenk je 769 metrov visok vrh, ki se strmo dviga na Iškim Vintgarjem, točneje na." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2362?gorovjeid=26&amp;id=2362" id="form1">
+    <form method="post" action="./2534?gorovjeid=26&amp;id=2534" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/spicek_speck/26/2362"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2362"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/trenk/26/2534"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2534"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Špiček (Špečk)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Trenk
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2362);
+    gorast(2534);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Špiček (Špečk)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Trenk</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 986&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 769&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;53,8770'N&nbsp;/&nbsp;14°&nbsp;0,4410'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;53,1996'N&nbsp;/&nbsp;14°&nbsp;29,0628'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;53'&nbsp;52,62''N&nbsp;/&nbsp;14°&nbsp;0'&nbsp;26,46''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;53'&nbsp;11,98''N&nbsp;/&nbsp;14°&nbsp;29'&nbsp;3,77''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.89795°N&nbsp;/&nbsp;14.00735°E";
+                        document.getElementById("kf0").innerHTML = "45.88666°N&nbsp;/&nbsp;14.48438°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,89795°N,&nbsp;14,00735°E";
+                    document.getElementById("kf0").innerHTML = "45,88666°N,&nbsp;14,48438°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,89795°N&nbsp;14,00735°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/spicek_speck/2362"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,88666°N&nbsp;14,48438°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/trenk/2534"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Trenk - Torek" href="/vreme_gora/trenk/26/2534#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Trenk - Sreda" href="/vreme_gora/trenk/26/2534#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Trenk - Četrtek" href="/vreme_gora/trenk/26/2534#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Špiček (Špečk) - Petek" href="/vreme_gora/spicek_speck/26/2362#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Trenk - Petek" href="/vreme_gora/trenk/26/2534#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Špiček (Špečk) - Sobota" href="/vreme_gora/spicek_speck/26/2362#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Špiček (Špečk) - Nedelja" href="/vreme_gora/spicek_speck/26/2362#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Špiček (Špečk) - Ponedeljek" href="/vreme_gora/spicek_speck/26/2362#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Špiček (Špečk) - Torek" href="/vreme_gora/spicek_speck/26/2362#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Trenk - Sobota" href="/vreme_gora/trenk/26/2534#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 241.950</div>
-<div class="g2"><b>Priljubljenost:</b> 63%&nbsp;(1229.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Ogledov:</b> 2.290</div>
+<div class="g2"><b>Priljubljenost:</b> 28%&nbsp;(2360.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Špiček (domačini mu pravijo Špečk) je vrh, ki se nahaja severno do severovzhodno od Cola. Na vrhu je postavljen križ v čast sv. Hubertu in v spomin na prvo obletnico obiska svetega očeta v Sloveniji. Z vrha, na katerem je vpisna skrinjica z vpisno knjigo ter večimi klopmi, se nam odpre lep razgled proti Javorniku, Hrušici, Nanosu, Colu, delu Vipavske doline, ob lepi vidljivosti pa razgled seže vse do Kamniško Savinjskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Trenk je 769 metrov visok vrh, ki se strmo dviga na Iškim Vintgarjem, točneje nad vodotoki Tracan, Zala in Iška. S samega vrha ni veliko veliko razgleda, saj ga deloma zastira gozd, je pa zelo lep pogled na okolico, predvsem proti reki Iški z bližnjega prepadnega pomola. Na vrhu se nahaja tabla z napisom 4000-1=3999, malo pod vrhom pa še obeležje NOB.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2362&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2534&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/krizna_gora_nad_colom/26/2363">Križna gora nad Colom (957m)</a>
+<a class="moder" href="/gora/iski_vintgar_vrbica/26/751">Iški Vintgar (Vrbica) (420m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,40 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/nanos_plesa/2957">Nanos (Pleša)</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/podgric/1414">Podgrič</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/rebrnice/1409">Rebrnice</a>, <a class="moder" href="/spletna_kamera/stanjel_ferrarijev_vrt/4213">Štanjel (Ferrarijev vrt)</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>
+<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/debeli_hrib/422">Debeli hrib</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/krim/489">Krim</a>, <a class="moder" href="/spletna_kamera/lavrica/3607">Lavrica</a>, <a class="moder" href="/spletna_kamera/ljubljana_izanska_cesta/1963">Ljubljana (Ižanska cesta)</a>, <a class="moder" href="/spletna_kamera/ljubljana_jug/457">Ljubljana jug</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/pijava_gorica/454">Pijava Gorica</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/rakitna/1823">Rakitna</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/skofljica/3606">Škofljica</a>, <a class="moder" href="/spletna_kamera/studenec_na_blokah/1599">Studenec na Blokah</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fspicek_speck%2f26%2f2362"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fspicek_speck%2f26%2f2362"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fspicek_speck%2f26%2f2362"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ftrenk%2f26%2f2534"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftrenk%2f26%2f2534"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftrenk%2f26%2f2534"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/spicek_speck/12591" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/12591');"><img class="slikagm" alt="Špiček (Špečk)" src="//www.hribi.net/slike1/SpeckNadColom 10035700.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/trenk/13813" onclick="event.preventDefault(); window.open('/slika_gora/trenk/13813');"><img class="slikagm" alt="Trenk" src="//slike.hribi.net/slike4/2_08494956631_DSCN0576.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/spicek_speck/12592" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/12592');"><img class="slikagm" alt="Špiček (Špečk)" src="//slike.hribi.net/slike4/2_0129456658729_SpeckNadColom_104.JPG" /></a>
+        <a target="_blank" href="/slika_gora/trenk/13814" onclick="event.preventDefault(); window.open('/slika_gora/trenk/13814');"><img class="slikagm" alt="Trenk" src="//www.hribi.net/slike1/DSCN0591914760.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/spicek_speck/12593" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/12593');"><img class="slikagm" alt="Špiček (Špečk)" src="//www.hribi.net/slike1/SpeckNadColom 10678540.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/trenk/13815" onclick="event.preventDefault(); window.open('/slika_gora/trenk/13815');"><img class="slikagm" alt="Trenk" src="//www.hribi.net/slike1/DSCN0581914760.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/spicek_speck/12594" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/12594');"><img class="slikagm" alt="Špiček (Špečk)" src="//www.hribi.net/slike1/SpeckNadColom 10878540.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicek_speck/12595" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/12595');"><img class="slikagm" alt="Špiček (Špečk)" src="//www.hribi.net/slike1/SpeckNadColom 15485680.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicek_speck/12596" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/12596');"><img class="slikagm" alt="Špiček (Špečk)" src="//www.hribi.net/slike1/SpeckNadColom 02578540.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicek_speck/13301" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/13301');"><img class="slikagm" alt="Špiček (Špečk)" src="//www.hribi.net/slike1/DSCN927017250.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicek_speck/13302" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/13302');"><img class="slikagm" alt="Špiček (Špečk)" src="//www.hribi.net/slike1/DSCN927117250.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicek_speck/13303" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/13303');"><img class="slikagm" alt="Špiček (Špečk)" src="//www.hribi.net/slike1/DSCN927317250.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicek_speck/13304" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/13304');"><img class="slikagm" alt="Špiček (Špečk)" src="//slike.hribi.net/slike4/2_0779477302338_DSCN9262.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicek_speck/13305" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/13305');"><img class="slikagm" alt="Špiček (Špečk)" src="//slike.hribi.net/slike4/2_1383477302415_DSCN9289.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/spicek_speck/13306" onclick="event.preventDefault(); window.open('/slika_gora/spicek_speck/13306');"><img class="slikagm" alt="Špiček (Špečk)" src="//slike.hribi.net/slike4/2_0440477302454_DSCN9294.JPG" /></a>
+        <a target="_blank" href="/slika_gora/trenk/13816" onclick="event.preventDefault(); window.open('/slika_gora/trenk/13816');"><img class="slikagm" alt="Trenk" src="//www.hribi.net/slike1/DSCN0579914760.th.jpg" /></a>
     
 </div>
 
@@ -932,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2362&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2534&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -942,11 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/col_spicek_speck/26/2362/4907">Col - Špiček (Špečk)</a></td><td class="tdG"><a href="/izlet/col_spicek_speck/26/2362/4907"> 55 min</a></td><td class="tdG"><a href="/izlet/col_spicek_speck/26/2362/4907">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/col_spicek_speck_cez_krizno_goro/26/2362/4910">Col - Špiček (Špečk) (čez Križno goro)</a></td><td class="tdG"><a href="/izlet/col_spicek_speck_cez_krizno_goro/26/2362/4910">1 h 10 min</a></td><td class="tdG"><a href="/izlet/col_spicek_speck_cez_krizno_goro/26/2362/4910">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/cenc_spicek_speck/26/2362/5174">Cenc - Špiček (Špečk)</a></td><td class="tdG"><a href="/izlet/cenc_spicek_speck/26/2362/5174"> 45 min</a></td><td class="tdG"><a href="/izlet/cenc_spicek_speck/26/2362/5174">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/rakitna_trenk/26/2534/5512">Rakitna - Trenk</a></td><td class="tdG"><a href="/izlet/rakitna_trenk/26/2534/5512">1 h 15 min</a></td><td class="tdG"><a href="/izlet/rakitna_trenk/26/2534/5512">lahka označena pot</a></td></tr>
 
 </table>
 

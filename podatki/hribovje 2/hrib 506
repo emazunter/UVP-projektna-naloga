@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Črna prst</title>
-        <meta name="description" content="Natančen opis gore Črna prst in vseh pristopov na Črna prst. Na severnem pobočju vršne glave Črne prsti opazimo črno prst po kateri je gora d." />
+        <title>Koča na Petrovem Brdu</title>
+        <meta name="description" content="Natančen opis koče Koča na Petrovem Brdu in vseh pristopov na Koča na Petrovem Brdu. Koča na Petrovem Brdu se nahaja ob glavni cestni povezavi med Železniki in Tolmi." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./87?gorovjeid=1&amp;id=87" id="form1">
+    <form method="post" action="./1475?gorovjeid=1&amp;id=1475" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/crna_prst/1/87"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=87"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_petrovem_brdu/1/1475"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1475"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Črna prst
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Koča na Petrovem Brdu
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(87);
+    gorast(1475);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Črna prst</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Koča na Petrovem Brdu</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1844&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 804&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;13,8372'N&nbsp;/&nbsp;13°&nbsp;55,9104'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;12,9240'N&nbsp;/&nbsp;13°&nbsp;59,940'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;13'&nbsp;50,23''N&nbsp;/&nbsp;13°&nbsp;55'&nbsp;54,62''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;12'&nbsp;55,44''N&nbsp;/&nbsp;13°&nbsp;59'&nbsp;56,40''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.23062°N&nbsp;/&nbsp;13.93184°E";
+                        document.getElementById("kf0").innerHTML = "46.2154°N&nbsp;/&nbsp;13.999°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,23062°N,&nbsp;13,93184°E";
+                    document.getElementById("kf0").innerHTML = "46,2154°N,&nbsp;13,999°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,23062°N&nbsp;13,93184°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/crna_prst/87"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2154°N&nbsp;13,999°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_petrovem_brdu/1475"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča, bivak</div>
+    <div class="g2"><b>Vrsta:</b> koča, sedlo</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Petrovem Brdu - Torek" href="/vreme_gora/koca_na_petrovem_brdu/1/1475#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Petrovem Brdu - Sreda" href="/vreme_gora/koca_na_petrovem_brdu/1/1475#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Petrovem Brdu - Četrtek" href="/vreme_gora/koca_na_petrovem_brdu/1/1475#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Črna prst - Petek" href="/vreme_gora/crna_prst/1/87#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Petrovem Brdu - Petek" href="/vreme_gora/koca_na_petrovem_brdu/1/1475#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Črna prst - Sobota" href="/vreme_gora/crna_prst/1/87#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Črna prst - Nedelja" href="/vreme_gora/crna_prst/1/87#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Črna prst - Ponedeljek" href="/vreme_gora/crna_prst/1/87#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Črna prst - Torek" href="/vreme_gora/crna_prst/1/87#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_1_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Petrovem Brdu - Sobota" href="/vreme_gora/koca_na_petrovem_brdu/1/1475#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 811.919</div>
-<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(38.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">17</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">18</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">6</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=87" title="Število vpisov v vpisni knjigi">9</a></div>
+<div class="g2"><b>Ogledov:</b> 367.784</div>
+<div class="g2"><b>Priljubljenost:</b> 77%&nbsp;(750.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1475" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Na severnem pobočju vršne glave Črne prsti opazimo črno prst po kateri je gora dobila ime. Črna prst je poznana po flori, ki jo je na njenih predvsem južnih pa tudi severnih pobočjih veliko. Vrh se nahaja v Spodnjih Bohinjskih gorah nad Bohinjsko Bistrico. Le nekaj metrov pod vrhom stoji planinski dom Zorka Jelinčiča, ki je odprt v poletni sezoni. V času, ko je dom zaprt nam zasilno prenočišče nudi skromen bivak.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Koča na Petrovem Brdu se nahaja ob glavni cestni povezavi med Železniki in Tolminom, v neposredni bližini križišča, od koder se odcepi cesta proti vasi Sorica in naprej proti Soriški planini in Bohinju. Koča na Petrovem Brdu je primerno izhodišče za poldnevne in celodnevne planinske ture v bližnji okolici. Od koče se lahko tako povzpnemo na Porezen, vrhove nad Soriško planino ali na 4 ure oddaljeno Črno prst.<br>Pred domom je tudi vpisna skrinjica z žigom.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=87&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1475&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/cetrt/1/1102">Četrt (1832m)</a>, <a class="moder" href="/gora/konjski_vrh/1/1103">Konjski vrh (1879m)</a>, <a class="moder" href="/gora/lisc_lisec/1/3520">Lisc (Lisec) (1653m)</a>, <a class="moder" href="/gora/oroznova_koca_na_planini_za_liscem/1/158">Orožnova koča na planini za Liscem (1346m)</a>, <a class="moder" href="/gora/planina_osredki/1/1101">Planina Osredki (1400m)</a>, <a class="moder" href="/gora/planina_za_crno_goro/1/584">Planina Za Črno goro (1340m)</a>, <a class="moder" href="/gora/rusni_vrh/1/1755">Rušni vrh (1786m)</a>
+<a class="moder" href="/gora/kup/1/1482">Kup (1046m)</a>, <a class="moder" href="/gora/lajnar/1/435">Lajnar (1549m)</a>, <a class="moder" href="/gora/lovcev_bivak_pri_koucah/1/1484">Lovčev bivak Pri Koucah (1192m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,63 +835,45 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fcrna_prst%2f1%2f87"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fcrna_prst%2f1%2f87"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fcrna_prst%2f1%2f87"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_petrovem_brdu%2f1%2f1475"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_petrovem_brdu%2f1%2f1475"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_petrovem_brdu%2f1%2f1475"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/crna_prst/87" title="Črna prst 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Crnaprst.jpg" /></a></div>
+<div><a href="/panorama/360/koca_na_petrovem_brdu/1475" title="Koča na Petrovem Brdu 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PetrovoBrdo.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/crna_prst/311" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/311');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/Gora/pb200051medium2kr.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_petrovem_brdu/5621" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_petrovem_brdu/5621');"><img class="slikagm" alt="Koča na Petrovem Brdu" src="//www.hribi.net/slike1/RatitovecPorezen 436532400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/crna_prst/1642" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/1642');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/P42700923907940.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_petrovem_brdu/5627" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_petrovem_brdu/5627');"><img class="slikagm" alt="Koča na Petrovem Brdu" src="//www.hribi.net/slike1/RatitovecPorezen 622640640.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/crna_prst/1643" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/1643');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/P4270098272160.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_petrovem_brdu/5628" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_petrovem_brdu/5628');"><img class="slikagm" alt="Koča na Petrovem Brdu" src="//www.hribi.net/slike1/RatitovecPorezen 625640640.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/crna_prst/1644" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/1644');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/P4270099272160.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_petrovem_brdu/5629" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_petrovem_brdu/5629');"><img class="slikagm" alt="Koča na Petrovem Brdu" src="//www.hribi.net/slike1/RatitovecPorezen 468665280.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/crna_prst/1645" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/1645');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/P4270087272160.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_petrovem_brdu/5702" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_petrovem_brdu/5702');"><img class="slikagm" alt="Koča na Petrovem Brdu" src="//www.hribi.net/slike1/Mozic 530268800.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/crna_prst/1746" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/1746');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/P5140093258720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_petrovem_brdu/13027" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_petrovem_brdu/13027');"><img class="slikagm" alt="Koča na Petrovem Brdu" src="//www.hribi.net/slike1/DSCN405720412.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/crna_prst/7884" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/7884');"><img class="slikagm" alt="Črna prst" src="//slike.hribi.net/sliketemp/CrnaPrst%200956031818.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_petrovem_brdu/13028" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_petrovem_brdu/13028');"><img class="slikagm" alt="Koča na Petrovem Brdu" src="//www.hribi.net/slike1/DSCN405920412.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/crna_prst/7885" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/7885');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/CrnaPrst%20103348480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_petrovem_brdu/13029" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_petrovem_brdu/13029');"><img class="slikagm" alt="Koča na Petrovem Brdu" src="//www.hribi.net/slike1/DSCN406030618.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/crna_prst/7886" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/7886');"><img class="slikagm" alt="Črna prst" src="//slike.hribi.net/sliketemp/CrnaPrst%201096031826.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_petrovem_brdu/13030" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_petrovem_brdu/13030');"><img class="slikagm" alt="Koča na Petrovem Brdu" src="//www.hribi.net/slike1/DSCN406130618.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/crna_prst/7887" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/7887');"><img class="slikagm" alt="Črna prst" src="//slike.hribi.net/sliketemp/CrnaPrst%201166031832.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/crna_prst/7888" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/7888');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/CrnaPrst 124158400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/crna_prst/9637" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/9637');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/CrnaPrst12 060190008.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/crna_prst/9775" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/9775');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/CrnaPrst147 134826200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/crna_prst/9776" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/9776');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/CrnaPrst147 154907200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/crna_prst/9777" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/9777');"><img class="slikagm" alt="Črna prst" src="//www.hribi.net/slike1/CrnaPrst147 160907200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/crna_prst/14693" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/14693');"><img class="slikagm" alt="Črna prst" src="//slike.hribi.net/slike4/2_1509522571878_DSCN0408.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/crna_prst/19878" onclick="event.preventDefault(); window.open('/slika_gora/crna_prst/19878');"><img class="slikagm" alt="Črna prst" src="//slike.hribi.net/slike4/2_1654660517584_DSCN2055.JPG" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_petrovem_brdu/19877" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_petrovem_brdu/19877');"><img class="slikagm" alt="Koča na Petrovem Brdu" src="//slike.hribi.net/slike4/2_1102660517498_DSCN2028.JPG" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Letenje z gora/srecanje_hribi_net_2011/8/482"><img class="slikagmv" alt="Srečanje Hribi net 2011" src="https://img.youtube.com/vi/Q1hTGL0p3U4/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Razgledi/crna_prst/4/84"><img class="slikagmv" alt="Črna prst" src="https://img.youtube.com/vi/Fmvjv1KPyvU/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -949,7 +931,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=87&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1475&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -959,35 +941,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ravne_crna_prst_mimo_oroznove_koce/1/87/221">Ravne - Črna prst (mimo Orožnove koče)</a></td><td class="tdG"><a href="/izlet/ravne_crna_prst_mimo_oroznove_koce/1/87/221">3 h 5 min</a></td><td class="tdG"><a href="/izlet/ravne_crna_prst_mimo_oroznove_koce/1/87/221">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kal_crna_prst/1/87/3198">Kal - Črna prst</a></td><td class="tdG"><a href="/izlet/kal_crna_prst/1/87/3198">2 h 30 min</a></td><td class="tdG"><a href="/izlet/kal_crna_prst/1/87/3198">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_luknjo_crna_prst/1/87/1847">Pod Luknjo - Črna prst</a></td><td class="tdG"><a href="/izlet/pod_luknjo_crna_prst/1/87/1847">2 h 30 min</a></td><td class="tdG"><a href="/izlet/pod_luknjo_crna_prst/1/87/1847">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podbrdo_crna_prst/1/87/3814">Podbrdo - Črna prst</a></td><td class="tdG"><a href="/izlet/podbrdo_crna_prst/1/87/3814">3 h 15 min</a></td><td class="tdG"><a href="/izlet/podbrdo_crna_prst/1/87/3814">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kocenpohar_crna_prst/1/87/968">Kocenpohar - Črna prst</a></td><td class="tdG"><a href="/izlet/kocenpohar_crna_prst/1/87/968">2 h 45 min</a></td><td class="tdG"><a href="/izlet/kocenpohar_crna_prst/1/87/968">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ravne_crna_prst_cez_planino_za_crno_goro/1/87/1011">Ravne - Črna prst (čez planino za Črno goro)</a></td><td class="tdG"><a href="/izlet/ravne_crna_prst_cez_planino_za_crno_goro/1/87/1011">3 h 25 min</a></td><td class="tdG"><a href="/izlet/ravne_crna_prst_cez_planino_za_crno_goro/1/87/1011">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bohinjska_bistrica_crna_prst_mimo_oroznove_koce/1/87/6521">Bohinjska Bistrica - Črna prst (mimo Orožnove koče)</a></td><td class="tdG"><a href="/izlet/bohinjska_bistrica_crna_prst_mimo_oroznove_koce/1/87/6521">3 h 40 min</a></td><td class="tdG"><a href="/izlet/bohinjska_bistrica_crna_prst_mimo_oroznove_koce/1/87/6521">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vrh_bace_crna_prst/1/87/1321">Vrh Bače - Črna prst</a></td><td class="tdG"><a href="/izlet/vrh_bace_crna_prst/1/87/1321">3 h 10 min</a></td><td class="tdG"><a href="/izlet/vrh_bace_crna_prst/1/87/1321">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bohinjsko_sedlo_crna_prst/1/87/4014">Bohinjsko sedlo - Črna prst</a></td><td class="tdG"><a href="/izlet/bohinjsko_sedlo_crna_prst/1/87/4014">5 h</a></td><td class="tdG"><a href="/izlet/bohinjsko_sedlo_crna_prst/1/87/4014">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/petrovo_brdo_crna_prst/1/87/4023">Petrovo Brdo - Črna prst</a></td><td class="tdG"><a href="/izlet/petrovo_brdo_crna_prst/1/87/4023">4 h 40 min</a></td><td class="tdG"><a href="/izlet/petrovo_brdo_crna_prst/1/87/4023">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/polje_crna_prst/1/87/3927">Polje - Črna prst</a></td><td class="tdG"><a href="/izlet/polje_crna_prst/1/87/3927">3 h 45 min</a></td><td class="tdG"><a href="/izlet/polje_crna_prst/1/87/3927">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kuk_crna_prst/1/87/3812">Kuk - Črna prst</a></td><td class="tdG"><a href="/izlet/kuk_crna_prst/1/87/3812">3 h 30 min</a></td><td class="tdG"><a href="/izlet/kuk_crna_prst/1/87/3812">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/polje_crna_prst_mimo_oroznove_koce/1/87/3929">Polje - Črna prst (mimo Orožnove koče)</a></td><td class="tdG"><a href="/izlet/polje_crna_prst_mimo_oroznove_koce/1/87/3929">4 h</a></td><td class="tdG"><a href="/izlet/polje_crna_prst_mimo_oroznove_koce/1/87/3929">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podbrdo_crna_prst_cez_vrh_bace/1/87/4027">Podbrdo - Črna prst (čez Vrh Bače)</a></td><td class="tdG"><a href="/izlet/podbrdo_crna_prst_cez_vrh_bace/1/87/4027">5 h 25 min</a></td><td class="tdG"><a href="/izlet/podbrdo_crna_prst_cez_vrh_bace/1/87/4027">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bohinjska_bistrica_crna_prst_cez_planino_za_crno_goro/1/87/6524">Bohinjska Bistrica - Črna prst (čez planino za Črno goro)</a></td><td class="tdG"><a href="/izlet/bohinjska_bistrica_crna_prst_cez_planino_za_crno_goro/1/87/6524">4 h</a></td><td class="tdG"><a href="/izlet/bohinjska_bistrica_crna_prst_cez_planino_za_crno_goro/1/87/6524">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podbrdo_koca_na_petrovem_brdu_po_cesti/1/1475/5062">Podbrdo - Koča na Petrovem Brdu (po cesti)</a></td><td class="tdG"><a href="/izlet/podbrdo_koca_na_petrovem_brdu_po_cesti/1/1475/5062">1 h</a></td><td class="tdG"><a href="/izlet/podbrdo_koca_na_petrovem_brdu_po_cesti/1/1475/5062">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Požgani hrib</title>
-        <meta name="description" content="Natančen opis gore Požgani hrib in vseh pristopov na Požgani hrib. Požgani hrib je 1009m visok vrh, ki se nahaja v osrčju prostranih gozdov Stojne.." />
+        <title>Roviškovec</title>
+        <meta name="description" content="Natančen opis gore Roviškovec in vseh pristopov na Roviškovec. Roviškovec (tudi Roviški vrh) je 930 m visok vrh, ki se nahaja jugovzhodno od Za." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1193?gorovjeid=25&amp;id=1193" id="form1">
+    <form method="post" action="./1948?gorovjeid=25&amp;id=1948" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/pozgani_hrib/25/1193"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1193"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/roviskovec/25/1948"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1948"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Požgani hrib
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Roviškovec
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1193);
+    gorast(1948);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Požgani hrib</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Roviškovec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 1009&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 930&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;36,4284'N&nbsp;/&nbsp;14°&nbsp;51,3684'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;7,5894'N&nbsp;/&nbsp;14°&nbsp;54,2040'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;36'&nbsp;25,70''N&nbsp;/&nbsp;14°&nbsp;51'&nbsp;22,10''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;7'&nbsp;35,36''N&nbsp;/&nbsp;14°&nbsp;54'&nbsp;12,24''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.60714°N&nbsp;/&nbsp;14.85614°E";
+                        document.getElementById("kf0").innerHTML = "46.12649°N&nbsp;/&nbsp;14.9034°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,60714°N,&nbsp;14,85614°E";
+                    document.getElementById("kf0").innerHTML = "46,12649°N,&nbsp;14,9034°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,60714°N&nbsp;14,85614°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/pozgani_hrib/1193"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,12649°N&nbsp;14,9034°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/roviskovec/1948"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Roviškovec - Torek" href="/vreme_gora/roviskovec/25/1948#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Roviškovec - Sreda" href="/vreme_gora/roviskovec/25/1948#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Roviškovec - Četrtek" href="/vreme_gora/roviskovec/25/1948#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Požgani hrib - Petek" href="/vreme_gora/pozgani_hrib/25/1193#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Roviškovec - Petek" href="/vreme_gora/roviskovec/25/1948#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Požgani hrib - Sobota" href="/vreme_gora/pozgani_hrib/25/1193#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Požgani hrib - Nedelja" href="/vreme_gora/pozgani_hrib/25/1193#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Požgani hrib - Ponedeljek" href="/vreme_gora/pozgani_hrib/25/1193#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Požgani hrib - Torek" href="/vreme_gora/pozgani_hrib/25/1193#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Roviškovec - Sobota" href="/vreme_gora/roviskovec/25/1948#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 260.924</div>
-<div class="g2"><b>Priljubljenost:</b> 65%&nbsp;(1150.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 233.377</div>
+<div class="g2"><b>Priljubljenost:</b> 62%&nbsp;(1257.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1948" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Požgani hrib je 1009m visok vrh, ki se nahaja v osrčju prostranih gozdov Stojne. Ker vrh povečini prerašča gozd se nam z njega odpre nekaj razgleda le proti Veliki in Goteniški gori. Vrh ima vpisno skrinjico in žig.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Roviškovec (tudi Roviški vrh) je 930 m visok vrh, ki se nahaja jugovzhodno od Zasavske Svete gore. Z vrha, na katerem stoji lesena klop ter ob njej vpisna skrinjica z vpisno knjigo in žigom in kateri je povečini porasel z gozdom, se nam odpre nekaj razgleda le proti severu, kjer lepo vidimo del Kamniško Savinjskih Alp ter del vzhodnih Karavank.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1193&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1948&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/grad_fridrihstajn/25/1191">Grad Fridrihštajn (970m)</a>, <a class="moder" href="/gora/koca_pri_jelenovem_studencu/25/1189">Koča pri Jelenovem studencu (850m)</a>, <a class="moder" href="/gora/ledena_jama_na_stojni/25/1194">Ledena jama na Stojni (840m)</a>, <a class="moder" href="/gora/livoldski_vrh/25/1192">Livoldski vrh (994m)</a>, <a class="moder" href="/gora/mestni_vrh/25/1190">Mestni vrh (1034m)</a>
+<a class="moder" href="/gora/planinski_dom_na_zasavski_sveti_gori/25/1947">Planinski dom na Zasavski Sveti gori (822m)</a>, <a class="moder" href="/gora/plese/25/1949">Pleše (866m)</a>, <a class="moder" href="/gora/zasavska_sveta_gora/25/214">Zasavska Sveta gora (852m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,21 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/colnarji/451">Colnarji</a>, <a class="moder" href="/spletna_kamera/domacija_lobic_grgelj/4358">Domačija Lobič (Grgelj)</a>, <a class="moder" href="/spletna_kamera/grad_kostel/4361">Grad Kostel</a>, <a class="moder" href="/spletna_kamera/kocevje/998">Kočevje</a>, <a class="moder" href="/spletna_kamera/rudnisko_jezero/4234">Rudniško jezero</a>
+<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/kum/2952">Kum</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/sveta_planina_partizanski_vrh/3429">Sveta planina (Partizanski vrh)</a>, <a class="moder" href="/spletna_kamera/trbovlje/317">Trbovlje</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpozgani_hrib%2f25%2f1193"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpozgani_hrib%2f25%2f1193"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpozgani_hrib%2f25%2f1193"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2froviskovec%2f25%2f1948"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2froviskovec%2f25%2f1948"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2froviskovec%2f25%2f1948"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/pozgani_hrib/1193" title="Požgani hrib 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PozganiHrib.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/pozgani_hrib/4013" onclick="event.preventDefault(); window.open('/slika_gora/pozgani_hrib/4013');"><img class="slikagm" alt="Požgani hrib" src="//www.hribi.net/slike1/P228031424948.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/roviskovec/9465" onclick="event.preventDefault(); window.open('/slika_gora/roviskovec/9465');"><img class="slikagm" alt="Roviškovec" src="//www.hribi.net/slike1/ZasavskaSvetaGora 2025184.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/roviskovec/9466" onclick="event.preventDefault(); window.open('/slika_gora/roviskovec/9466');"><img class="slikagm" alt="Roviškovec" src="//www.hribi.net/slike1/ZasavskaSvetaGora 2085184.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/roviskovec/9472" onclick="event.preventDefault(); window.open('/slika_gora/roviskovec/9472');"><img class="slikagm" alt="Roviškovec" src="//www.hribi.net/slike1/ZasavskaSvetaGora 130132240.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/roviskovec/9473" onclick="event.preventDefault(); window.open('/slika_gora/roviskovec/9473');"><img class="slikagm" alt="Roviškovec" src="//www.hribi.net/slike1/ZasavskaSvetaGora 21092796.th.jpg" /></a>
     
 </div>
 
@@ -913,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1193&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1948&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -923,9 +926,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kocevje_pozgani_hrib_grajska_pot/25/1193/1997">Kočevje - Požgani hrib (Grajska pot)</a></td><td class="tdG"><a href="/izlet/kocevje_pozgani_hrib_grajska_pot/25/1193/1997">1 h 50 min</a></td><td class="tdG"><a href="/izlet/kocevje_pozgani_hrib_grajska_pot/25/1193/1997">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mlinse_roviskovec/25/1948/3645">Mlinše - Roviškovec</a></td><td class="tdG"><a href="/izlet/mlinse_roviskovec/25/1948/3645">2 h</a></td><td class="tdG"><a href="/izlet/mlinse_roviskovec/25/1948/3645">ni podatka</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kocevje_pozgani_hrib_kalanova_pot/25/1193/1994">Kočevje - Požgani hrib (Kalanova pot)</a></td><td class="tdG"><a href="/izlet/kocevje_pozgani_hrib_kalanova_pot/25/1193/1994">2 h</a></td><td class="tdG"><a href="/izlet/kocevje_pozgani_hrib_kalanova_pot/25/1193/1994">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/krace_roviskovec_zahodna_pot/25/1948/3649">Krače - Roviškovec (zahodna pot)</a></td><td class="tdG"><a href="/izlet/krace_roviskovec_zahodna_pot/25/1948/3649">1 h 30 min</a></td><td class="tdG"><a href="/izlet/krace_roviskovec_zahodna_pot/25/1948/3649">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/krace_roviskovec_vzhodna_pot/25/1948/3650">Krače - Roviškovec (vzhodna pot)</a></td><td class="tdG"><a href="/izlet/krace_roviskovec_vzhodna_pot/25/1948/3650">1 h 30 min</a></td><td class="tdG"><a href="/izlet/krace_roviskovec_vzhodna_pot/25/1948/3650">lahka označena pot</a></td></tr>
 
 </table>
 

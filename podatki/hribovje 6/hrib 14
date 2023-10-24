@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Polhograjska Grmada</title>
-        <meta name="description" content="Natančen opis gore Polhograjska Grmada in vseh pristopov na Polhograjska Grmada. Polhograjska Grmada je 898 m visok vrh, ki se nahaja v osrčju Polhograjskih Dolo." />
+        <title>Bukov vrh</title>
+        <meta name="description" content="Natančen opis gore Bukov vrh in vseh pristopov na Bukov vrh. Bukov vrh na katerem stoji cerkev Žalostne Matere Božje, se nahaja na severozaho." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./75?gorovjeid=5&amp;id=75" id="form1">
+    <form method="post" action="./765?gorovjeid=5&amp;id=765" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/polhograjska_grmada/5/75"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=5&id=75"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bukov_vrh/5/765"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=5&id=765"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a> / Polhograjska Grmada
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a> / Bukov vrh
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(75);
+    gorast(765);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Polhograjska Grmada</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bukov vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a></div>
-    <div class="g2"><b>Višina:</b> 898&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 832&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;5,0286'N&nbsp;/&nbsp;14°&nbsp;19,9824'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;6,5442'N&nbsp;/&nbsp;14°&nbsp;12,9360'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;5'&nbsp;1,72''N&nbsp;/&nbsp;14°&nbsp;19'&nbsp;58,94''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;6'&nbsp;32,65''N&nbsp;/&nbsp;14°&nbsp;12'&nbsp;56,16''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.08381°N&nbsp;/&nbsp;14.33304°E";
+                        document.getElementById("kf0").innerHTML = "46.10907°N&nbsp;/&nbsp;14.2156°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,08381°N,&nbsp;14,33304°E";
+                    document.getElementById("kf0").innerHTML = "46,10907°N,&nbsp;14,2156°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,08381°N&nbsp;14,33304°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/polhograjska_grmada/75"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,10907°N&nbsp;14,2156°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bukov_vrh/765"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bukov vrh - Torek" href="/vreme_gora/bukov_vrh/5/765#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bukov vrh - Sreda" href="/vreme_gora/bukov_vrh/5/765#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bukov vrh - Četrtek" href="/vreme_gora/bukov_vrh/5/765#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Polhograjska Grmada - Petek" href="/vreme_gora/polhograjska_grmada/5/75#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bukov vrh - Petek" href="/vreme_gora/bukov_vrh/5/765#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Polhograjska Grmada - Sobota" href="/vreme_gora/polhograjska_grmada/5/75#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Polhograjska Grmada - Nedelja" href="/vreme_gora/polhograjska_grmada/5/75#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Polhograjska Grmada - Ponedeljek" href="/vreme_gora/polhograjska_grmada/5/75#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Polhograjska Grmada - Torek" href="/vreme_gora/polhograjska_grmada/5/75#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bukov vrh - Sobota" href="/vreme_gora/bukov_vrh/5/765#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 771.344</div>
-<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(46.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">18</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">17</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">6</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=75" title="Število vpisov v vpisni knjigi">15</a></div>
+<div class="g2"><b>Ogledov:</b> 398.968</div>
+<div class="g2"><b>Priljubljenost:</b> 80%&nbsp;(647.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=765" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Polhograjska Grmada je 898 m visok vrh, ki se nahaja v osrčju Polhograjskih Dolomitov. Z vrha, na katerem se nahaja vpisna skrinjica z žigom ter razgledna plošča, se nam odpre lep razgled po večjem delu zahodne in osrednje Slovenije.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Bukov vrh na katerem stoji cerkev Žalostne Matere Božje, se nahaja na severozahodnem delu Polhograjskega hribovja. Z vrha je lep pogled na bližnje Škofjeloško in Cerkljansko hribovje, ob lepem vremenu pa tudi na del Karavank in Kamniško Savinjskih Alp.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=75&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=765&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/goljek/5/1649">Goljek (809m)</a>, <a class="moder" href="/gora/kregovnik/5/1490">Kregovnik (692m)</a>, <a class="moder" href="/gora/kucelj_nad_polhovim_gradcem/5/2479">Kucelj nad Polhovim Gradcem (705m)</a>, <a class="moder" href="/gora/mala_grmada/5/1491">Mala Grmada (853m)</a>, <a class="moder" href="/gora/planinski_dom_na_ravneku/5/1493">Planinski dom na Ravneku (522m)</a>, <a class="moder" href="/gora/sveta_ursula_setnica/5/299">Sveta Uršula (Setnica) (700m)</a>, <a class="moder" href="/gora/tosc/5/122">Tošč (1021m)</a>
+<a class="moder" href="/gora/pasja_ravan/5/493">Pasja ravan (1020m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,55 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica/318">Brezovica</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/katarina_nad_ljubljano/314">Katarina nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/ljubljana_cankarjevo_nabrezje/2154">Ljubljana (Cankarjevo nabrežje)</a>, <a class="moder" href="/spletna_kamera/ljubljana_kongresni_trg/297">Ljubljana (Kongresni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_mestni_trg/2149">Ljubljana (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_ukc_ljubljana/3385">Ljubljana (UKC Ljubljana)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/ljubljana_bezigrad/1708">Ljubljana Bežigrad</a>, <a class="moder" href="/spletna_kamera/ljubljana_brdo/465">Ljubljana Brdo</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_kozarje/467">Ljubljana Kozarje</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/ljubljanski_grad/179">Ljubljanski grad</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/medvode/184">Medvode</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>, <a class="moder" href="/spletna_kamera/zbiljsko_jezero/2165">Zbiljsko jezero</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/katarina_nad_ljubljano/314">Katarina nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpolhograjska_grmada%2f5%2f75"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpolhograjska_grmada%2f5%2f75"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpolhograjska_grmada%2f5%2f75"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbukov_vrh%2f5%2f765"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbukov_vrh%2f5%2f765"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbukov_vrh%2f5%2f765"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/polhograjska_grmada/75" title="Polhograjska Grmada 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PhGrmada.jpg" /></a></div>
+<div><a href="/panorama/360/bukov_vrh/765" title="Bukov vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.BukovVrh.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/191" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/191');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/Gora/p5030116medium1iz.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bukov_vrh/2599" onclick="event.preventDefault(); window.open('/slika_gora/bukov_vrh/2599');"><img class="slikagm" alt="Bukov vrh" src="//www.hribi.net/sliketemp/PC0900404238874.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/238" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/238');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/Gora/p5210011medium0pk.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bukov_vrh/7290" onclick="event.preventDefault(); window.open('/slika_gora/bukov_vrh/7290');"><img class="slikagm" alt="Bukov vrh" src="//www.hribi.net/slike1/Sivka 123493680.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/239" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/239');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/Gora/p5210017medium2yx.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bukov_vrh/7291" onclick="event.preventDefault(); window.open('/slika_gora/bukov_vrh/7291');"><img class="slikagm" alt="Bukov vrh" src="//slike.hribi.net/sliketemp/Sivka%200335830058.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/242" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/242');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/Gora/p5210026medium5ua.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bukov_vrh/7295" onclick="event.preventDefault(); window.open('/slika_gora/bukov_vrh/7295');"><img class="slikagm" alt="Bukov vrh" src="//www.hribi.net/slike1/Sivka%20128964920.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/244" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/244');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/Gora/p5210028medium5yi.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bukov_vrh/7296" onclick="event.preventDefault(); window.open('/slika_gora/bukov_vrh/7296');"><img class="slikagm" alt="Bukov vrh" src="//www.hribi.net/slike1/Sivka%200231077120.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/246" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/246');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/Gora/p5210035medium2iw.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/248" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/248');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/Gora/p5210052medium6zt.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/2564" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/2564');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/slike1/P3030131965580.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/5379" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/5379');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/slike1/GrmadaTosc%20063132000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/5401" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/5401');"><img class="slikagm" alt="Polhograjska Grmada" src="//slike.hribi.net/sliketemp/SvetiLovrenc%200985396547.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/5516" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/5516');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/slike1/PasjaRavan%20432243360.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/5819" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/5819');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/slike1/PolhograjskaGrmada%2034652500.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/5820" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/5820');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/slike1/PolhograjskaGrmada%2024999750.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/5821" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/5821');"><img class="slikagm" alt="Polhograjska Grmada" src="//slike.hribi.net/sliketemp/PolhograjskaGrmada%202525504312.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/5822" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/5822');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/slike1/PolhograjskaGrmada%20178324800.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/10813" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/10813');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/slike1/PGrmada 0740.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/10814" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/10814');"><img class="slikagm" alt="Polhograjska Grmada" src="//slike.hribi.net/slike4/2_1236420974479_PGrmada_076.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/polhograjska_grmada/10815" onclick="event.preventDefault(); window.open('/slika_gora/polhograjska_grmada/10815');"><img class="slikagm" alt="Polhograjska Grmada" src="//www.hribi.net/slike1/PGrmada 028505050.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bukov_vrh/7297" onclick="event.preventDefault(); window.open('/slika_gora/bukov_vrh/7297');"><img class="slikagm" alt="Bukov vrh" src="//www.hribi.net/slike1/Sivka 0300.th.jpg" /></a>
     
 </div>
 
@@ -947,7 +923,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=75&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=765&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -957,37 +933,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/topol_polhograjska_grmada/5/75/220">Topol - Polhograjska Grmada</a></td><td class="tdG"><a href="/izlet/topol_polhograjska_grmada/5/75/220">1 h 15 min</a></td><td class="tdG"><a href="/izlet/topol_polhograjska_grmada/5/75/220">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/hotovlja_bukov_vrh_pes_pot/5/765/1378">Hotovlja - Bukov vrh (peš pot)</a></td><td class="tdG"><a href="/izlet/hotovlja_bukov_vrh_pes_pot/5/765/1378">1 h</a></td><td class="tdG"><a href="/izlet/hotovlja_bukov_vrh_pes_pot/5/765/1378">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/polhov_gradec_bozna_polhograjska_grmada_cez_setnico/5/75/421">Polhov Gradec (Božna) - Polhograjska Grmada (čez Setnico)</a></td><td class="tdG"><a href="/izlet/polhov_gradec_bozna_polhograjska_grmada_cez_setnico/5/75/421">1 h 30 min</a></td><td class="tdG"><a href="/izlet/polhov_gradec_bozna_polhograjska_grmada_cez_setnico/5/75/421">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/polhov_gradec_polhograjska_grmada_cez_ravnek_in_malo_grmado/5/75/2064">Polhov Gradec - Polhograjska Grmada (čez Ravnek in Malo Grmado)</a></td><td class="tdG"><a href="/izlet/polhov_gradec_polhograjska_grmada_cez_ravnek_in_malo_grmado/5/75/2064">1 h 30 min</a></td><td class="tdG"><a href="/izlet/polhov_gradec_polhograjska_grmada_cez_ravnek_in_malo_grmado/5/75/2064">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/turisticna_kmetija_gonte_polhograjska_grmada/5/75/422">Turistična kmetija Gonte - Polhograjska Grmada</a></td><td class="tdG"><a href="/izlet/turisticna_kmetija_gonte_polhograjska_grmada/5/75/422"> 25 min</a></td><td class="tdG"><a href="/izlet/turisticna_kmetija_gonte_polhograjska_grmada/5/75/422">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dvor_polhograjska_grmada_cez_malo_grmado/5/75/2524">Dvor - Polhograjska Grmada (čez Malo Grmado)</a></td><td class="tdG"><a href="/izlet/dvor_polhograjska_grmada_cez_malo_grmado/5/75/2524">1 h 45 min</a></td><td class="tdG"><a href="/izlet/dvor_polhograjska_grmada_cez_malo_grmado/5/75/2524">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/belica_polhograjska_grmada/5/75/1003">Belica - Polhograjska Grmada</a></td><td class="tdG"><a href="/izlet/belica_polhograjska_grmada/5/75/1003">1 h 30 min</a></td><td class="tdG"><a href="/izlet/belica_polhograjska_grmada/5/75/1003">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/polhov_gradec_bozna_polhograjska_grmada_skozi_mackov_graben/5/75/2436">Polhov Gradec (Božna) - Polhograjska Grmada (skozi Mačkov graben)</a></td><td class="tdG"><a href="/izlet/polhov_gradec_bozna_polhograjska_grmada_skozi_mackov_graben/5/75/2436">1 h 30 min</a></td><td class="tdG"><a href="/izlet/polhov_gradec_bozna_polhograjska_grmada_skozi_mackov_graben/5/75/2436">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/trnovec_polhograjska_grmada/5/75/4373">Trnovec - Polhograjska Grmada</a></td><td class="tdG"><a href="/izlet/trnovec_polhograjska_grmada/5/75/4373">1 h 15 min</a></td><td class="tdG"><a href="/izlet/trnovec_polhograjska_grmada/5/75/4373">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/belo_polhograjska_grmada/5/75/2943">Belo - Polhograjska Grmada</a></td><td class="tdG"><a href="/izlet/belo_polhograjska_grmada/5/75/2943">1 h 20 min</a></td><td class="tdG"><a href="/izlet/belo_polhograjska_grmada/5/75/2943">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/polhov_gradec_polhograjska_grmada_cez_ravnek/5/75/5271">Polhov Gradec - Polhograjska Grmada (čez Ravnek)</a></td><td class="tdG"><a href="/izlet/polhov_gradec_polhograjska_grmada_cez_ravnek/5/75/5271">1 h 30 min</a></td><td class="tdG"><a href="/izlet/polhov_gradec_polhograjska_grmada_cez_ravnek/5/75/5271">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dvor_polhograjska_grmada/5/75/5272">Dvor - Polhograjska Grmada</a></td><td class="tdG"><a href="/izlet/dvor_polhograjska_grmada/5/75/5272">1 h 45 min</a></td><td class="tdG"><a href="/izlet/dvor_polhograjska_grmada/5/75/5272">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dolina_locnice_polhograjska_grmada_mimo_robeza/5/75/4448">Dolina Ločnice - Polhograjska Grmada (mimo Robeža)</a></td><td class="tdG"><a href="/izlet/dolina_locnice_polhograjska_grmada_mimo_robeza/5/75/4448">1 h 30 min</a></td><td class="tdG"><a href="/izlet/dolina_locnice_polhograjska_grmada_mimo_robeza/5/75/4448">lahka neoznačena steza, lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gabrje_polhograjska_grmada/5/75/4599">Gabrje - Polhograjska Grmada</a></td><td class="tdG"><a href="/izlet/gabrje_polhograjska_grmada/5/75/4599">2 h 20 min</a></td><td class="tdG"><a href="/izlet/gabrje_polhograjska_grmada/5/75/4599">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/topol_polhograjska_grmada_mimo_robeza/5/75/4449"> Topol - Polhograjska Grmada (mimo Robeža)</a></td><td class="tdG"><a href="/izlet/topol_polhograjska_grmada_mimo_robeza/5/75/4449">1 h 45 min</a></td><td class="tdG"><a href="/izlet/topol_polhograjska_grmada_mimo_robeza/5/75/4449">lahka neoznačena steza, lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/preval_polhograjska_grmada/5/75/4375">Preval - Polhograjska Grmada</a></td><td class="tdG"><a href="/izlet/preval_polhograjska_grmada/5/75/4375">2 h 45 min</a></td><td class="tdG"><a href="/izlet/preval_polhograjska_grmada/5/75/4375">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/polhov_gradec_polhograjska_grmada_cez_ravnek_in_mimo_sv_ursule/5/75/5274">Polhov Gradec - Polhograjska Grmada (čez Ravnek in mimo sv. Uršule)</a></td><td class="tdG"><a href="/izlet/polhov_gradec_polhograjska_grmada_cez_ravnek_in_mimo_sv_ursule/5/75/5274">1 h 50 min</a></td><td class="tdG"><a href="/izlet/polhov_gradec_polhograjska_grmada_cez_ravnek_in_mimo_sv_ursule/5/75/5274">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/hotovlja_bukov_vrh_po_cesti/5/765/1379">Hotovlja - Bukov vrh (po cesti)</a></td><td class="tdG"><a href="/izlet/hotovlja_bukov_vrh_po_cesti/5/765/1379">1 h 30 min</a></td><td class="tdG"><a href="/izlet/hotovlja_bukov_vrh_po_cesti/5/765/1379">lahka neoznačena steza</a></td></tr>
 
 </table>
 

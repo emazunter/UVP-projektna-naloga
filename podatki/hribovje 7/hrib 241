@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Visoka špica</title>
-        <meta name="description" content="Natančen opis gore Visoka špica in vseh pristopov na Visoka špica. Neizrazita, a od povsod lepo vidna gozdnata vzpetina nad Kamnikom. Zavoljo nekol." />
+        <title>Jelovička in Mihova jama</title>
+        <meta name="description" content="Natančen opis gore Jelovička in Mihova jama in vseh pristopov na Jelovička in Mihova jama. Jelovička jama je 434 metrov dolga in 36 metrov globoka jama, ki se nahaja v bli." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1662?gorovjeid=25&amp;id=1662" id="form1">
+    <form method="post" action="./3326?gorovjeid=25&amp;id=3326" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/visoka_spica/25/1662"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1662"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/jelovicka_jama_and_mihova_jama/25/3326"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3326"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Visoka špica
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Jelovička in Mihova jama
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1662);
+    gorast(3326);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Visoka špica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Jelovička in Mihova jama</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 660&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 240&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;13,1832'N&nbsp;/&nbsp;14°&nbsp;37,3590'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;31,1820'N&nbsp;/&nbsp;14°&nbsp;54,5880'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;13'&nbsp;10,99''N&nbsp;/&nbsp;14°&nbsp;37'&nbsp;21,54''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;31'&nbsp;10,92''N&nbsp;/&nbsp;14°&nbsp;54'&nbsp;35,28''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.21972°N&nbsp;/&nbsp;14.62265°E";
+                        document.getElementById("kf0").innerHTML = "45.5197°N&nbsp;/&nbsp;14.9098°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,21972°N,&nbsp;14,62265°E";
+                    document.getElementById("kf0").innerHTML = "45,5197°N,&nbsp;14,9098°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,21972°N&nbsp;14,62265°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/visoka_spica/1662"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,5197°N&nbsp;14,9098°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/jelovicka_in_mihova_jama/3326"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Jelovička in Mihova jama - Torek" href="/vreme_gora/jelovicka_in_mihova_jama/25/3326#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Jelovička in Mihova jama - Sreda" href="/vreme_gora/jelovicka_in_mihova_jama/25/3326#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Jelovička in Mihova jama - Četrtek" href="/vreme_gora/jelovicka_in_mihova_jama/25/3326#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Visoka špica - Petek" href="/vreme_gora/visoka_spica/25/1662#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Jelovička in Mihova jama - Petek" href="/vreme_gora/jelovicka_in_mihova_jama/25/3326#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Visoka špica - Sobota" href="/vreme_gora/visoka_spica/25/1662#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Visoka špica - Nedelja" href="/vreme_gora/visoka_spica/25/1662#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Visoka špica - Ponedeljek" href="/vreme_gora/visoka_spica/25/1662#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Visoka špica - Torek" href="/vreme_gora/visoka_spica/25/1662#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Jelovička in Mihova jama - Sobota" href="/vreme_gora/jelovicka_in_mihova_jama/25/3326#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 303.970</div>
-<div class="g2"><b>Priljubljenost:</b> 70%&nbsp;(994.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1662" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 1.470</div>
+<div class="g2"><b>Priljubljenost:</b> 24%&nbsp;(2508.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Neizrazita, a od povsod lepo vidna gozdnata vzpetina nad Kamnikom. Zavoljo nekoliko nižjega Čokla, na katerem stoji kamniški grad je bolj ali manj neopazna. Čeprav jo v večini prekriva gozd, je vršna kopa na zahodu travnata. Od tam se odpira neprekosljiv razgled na Grintovce in na celotno gorenjsko ravan.  </div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Jelovička jama je 434 metrov dolga in 36 metrov globoka jama, ki se nahaja v bližini vasi Žaga v dolini reke Kolpe. Na dnu Jelovičke jame teče potok, ki pod površjem teče vse do izliva v 330 metrov oddaljeno reko Kolpo, ob visokih vodah pa voda bruha iz jame in teče po slikovitem hudourniku do izliva v Kolp.<br>Mihova jama se nahaja le nekoliko bolj vzhodno od Jelovičke jame, dolga pa je do 20 metrov.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1662&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3326&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/stari_grad_kamnik/25/2155">Stari grad Kamnik (577m)</a>, <a class="moder" href="/gora/tolsta_gora/25/3030">Tolsta gora (734m)</a>
+<a class="moder" href="/gora/grad_kostel/26/3328">Grad Kostel (406m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,24 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzale/1008">Domžale</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/krtina/3453">Krtina</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rasica_nad_ljubljano/2418">Rašica nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
+<a class="moder" href="/spletna_kamera/colnarji/451">Colnarji</a>, <a class="moder" href="/spletna_kamera/domacija_lobic_grgelj/4358">Domačija Lobič (Grgelj)</a>, <a class="moder" href="/spletna_kamera/grad_kostel/4361">Grad Kostel</a>, <a class="moder" href="/spletna_kamera/kocevje/998">Kočevje</a>, <a class="moder" href="/spletna_kamera/rudnisko_jezero/4234">Rudniško jezero</a>, <a class="moder" href="/spletna_kamera/skrad_zeleni_vir/3449">Skrad (Zeleni vir)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvisoka_spica%2f25%2f1662"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvisoka_spica%2f25%2f1662"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvisoka_spica%2f25%2f1662"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fjelovicka_in_mihova_jama%2f25%2f3326"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjelovicka_in_mihova_jama%2f25%2f3326"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjelovicka_in_mihova_jama%2f25%2f3326"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/visoka_spica/10845" onclick="event.preventDefault(); window.open('/slika_gora/visoka_spica/10845');"><img class="slikagm" alt="Visoka špica" src="//www.hribi.net/slike1/KamniskiGrad 055247104.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jelovicka_in_mihova_jama/19760" onclick="event.preventDefault(); window.open('/slika_gora/jelovicka_in_mihova_jama/19760');"><img class="slikagm" alt="Jelovička in Mihova jama" src="//slike.hribi.net/slike4/2_10102657466748_DSCN9751.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/visoka_spica/10852" onclick="event.preventDefault(); window.open('/slika_gora/visoka_spica/10852');"><img class="slikagm" alt="Visoka špica" src="//www.hribi.net/slike1/KamniskiGrad 135298116.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jelovicka_in_mihova_jama/19761" onclick="event.preventDefault(); window.open('/slika_gora/jelovicka_in_mihova_jama/19761');"><img class="slikagm" alt="Jelovička in Mihova jama" src="//slike.hribi.net/slike4/2_9964657466745_DSCN9740.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/visoka_spica/10853" onclick="event.preventDefault(); window.open('/slika_gora/visoka_spica/10853');"><img class="slikagm" alt="Visoka špica" src="//www.hribi.net/slike1/KamniskiGrad 133298116.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jelovicka_in_mihova_jama/19762" onclick="event.preventDefault(); window.open('/slika_gora/jelovicka_in_mihova_jama/19762');"><img class="slikagm" alt="Jelovička in Mihova jama" src="//slike.hribi.net/slike4/2_8931657466742_DSCN9738.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/visoka_spica/10854" onclick="event.preventDefault(); window.open('/slika_gora/visoka_spica/10854');"><img class="slikagm" alt="Visoka špica" src="//www.hribi.net/slike1/KamniskiGrad 26063648.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jelovicka_in_mihova_jama/19763" onclick="event.preventDefault(); window.open('/slika_gora/jelovicka_in_mihova_jama/19763');"><img class="slikagm" alt="Jelovička in Mihova jama" src="//slike.hribi.net/slike4/2_7316657466739_DSCN9734.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/jelovicka_in_mihova_jama/19764" onclick="event.preventDefault(); window.open('/slika_gora/jelovicka_in_mihova_jama/19764');"><img class="slikagm" alt="Jelovička in Mihova jama" src="//slike.hribi.net/slike4/2_691657466737_DSCN9731.JPG" /></a>
     
 </div>
 
@@ -916,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1662&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3326&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -926,11 +928,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kamnik_visoka_spica_direktna_pot/25/1662/2971">Kamnik - Visoka špica (direktna pot)</a></td><td class="tdG"><a href="/izlet/kamnik_visoka_spica_direktna_pot/25/1662/2971"> 40 min</a></td><td class="tdG"><a href="/izlet/kamnik_visoka_spica_direktna_pot/25/1662/2971">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kamnik_visoka_spica_mimo_starega_gradu/25/1662/4387">Kamnik - Visoka špica (mimo Starega gradu)</a></td><td class="tdG"><a href="/izlet/kamnik_visoka_spica_mimo_starega_gradu/25/1662/4387"> 50 min</a></td><td class="tdG"><a href="/izlet/kamnik_visoka_spica_mimo_starega_gradu/25/1662/4387">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kamnik_visoka_spica_preko_krniske_gore/25/1662/4386">Kamnik - Visoka špica (preko Krniške gore)</a></td><td class="tdG"><a href="/izlet/kamnik_visoka_spica_preko_krniske_gore/25/1662/4386">1 h</a></td><td class="tdG"><a href="/izlet/kamnik_visoka_spica_preko_krniske_gore/25/1662/4386">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/most_cez_kotnico_jelovicka_in_mihova_jama/25/3326/7923">Most čez Kotnico - Jelovička in Mihova jama</a></td><td class="tdG"><a href="/izlet/most_cez_kotnico_jelovicka_in_mihova_jama/25/3326/7923"> 10 min</a></td><td class="tdG"><a href="/izlet/most_cez_kotnico_jelovicka_in_mihova_jama/25/3326/7923">lahka neoznačena steza</a></td></tr>
 
 </table>
 

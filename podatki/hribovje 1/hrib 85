@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Bela stena</title>
-        <meta name="description" content="Natančen opis gore Bela stena in vseh pristopov na Bela stena. Bela stena (tudi samo Stene) je razgledna točka, ki se nahaja zahodno od Dolenje." />
+        <title>Velika Špička</title>
+        <meta name="description" content="Natančen opis gore Velika Špička in vseh pristopov na Velika Špička. Velika Špička oz. Špičasto Stražišče je vrh, ki se nahaja severno od Slivnice. Z." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1740?gorovjeid=26&amp;id=1740" id="form1">
+    <form method="post" action="./784?gorovjeid=26&amp;id=784" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bela_stena/26/1740"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1740"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/velika_spicka/26/784"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=784"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Bela stena
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Velika Špička
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1740);
+    gorast(784);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Bela stena</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Velika Špička</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1122&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 955&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;41,5218'N&nbsp;/&nbsp;14°&nbsp;43,1808'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;50,1204'N&nbsp;/&nbsp;14°&nbsp;23,8122'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;41'&nbsp;31,31''N&nbsp;/&nbsp;14°&nbsp;43'&nbsp;10,85''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;50'&nbsp;7,22''N&nbsp;/&nbsp;14°&nbsp;23'&nbsp;48,73''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.69203°N&nbsp;/&nbsp;14.71968°E";
+                        document.getElementById("kf0").innerHTML = "45.83534°N&nbsp;/&nbsp;14.39687°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,69203°N,&nbsp;14,71968°E";
+                    document.getElementById("kf0").innerHTML = "45,83534°N,&nbsp;14,39687°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,69203°N&nbsp;14,71968°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bela_stena/1740"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,83534°N&nbsp;14,39687°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/velika_spicka/784"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Velika Špička - Torek" href="/vreme_gora/velika_spicka/26/784#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Velika Špička - Sreda" href="/vreme_gora/velika_spicka/26/784#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Velika Špička - Četrtek" href="/vreme_gora/velika_spicka/26/784#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Bela stena - Petek" href="/vreme_gora/bela_stena/26/1740#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Velika Špička - Petek" href="/vreme_gora/velika_spicka/26/784#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Bela stena - Sobota" href="/vreme_gora/bela_stena/26/1740#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Bela stena - Nedelja" href="/vreme_gora/bela_stena/26/1740#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Bela stena - Ponedeljek" href="/vreme_gora/bela_stena/26/1740#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Bela stena - Torek" href="/vreme_gora/bela_stena/26/1740#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Velika Špička - Sobota" href="/vreme_gora/velika_spicka/26/784#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 241.968</div>
-<div class="g2"><b>Priljubljenost:</b> 63%&nbsp;(1228.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 382.169</div>
+<div class="g2"><b>Priljubljenost:</b> 79%&nbsp;(703.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=784" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Bela stena (tudi samo Stene) je razgledna točka, ki se nahaja zahodno od Dolenje vasi v ribniški dolini, točneje nad vasjo Zadolje. Z vrha Bele stene, le ta se prepadno spušča, se nam odpre lep razgled na Malo goro, ribniško dolino, ob lepem vremenu pa razgled seže vse do Kamniško Savinjskih Alp. V bližini razgledne točke a se nahaja tudi vpisna skrinjica z vpisno knjigo in žigom.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Velika Špička oz. Špičasto Stražišče je vrh, ki se nahaja severno od Slivnice. Z vrha, ki ima vpisno skrinjico z žigom je lep razgled proti Snežniku, že omenjeni Slivnici, Javornikom in Nanosu. Na ostale strani razgled ovira gozd, a se z malo truda vidi tudi del Julijcev.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1740&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=784&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/rezinski_vrh/26/1741">Rezinski vrh (1231m)</a>, <a class="moder" href="/gora/turn/26/1742">Turn (1254m)</a>
+<a class="moder" href="/gora/goli_vrh_cemarovnik/26/1429">Goli vrh (Cemarovnik) (816m)</a>, <a class="moder" href="/gora/leskovica_nad_straziscem/26/2752">Leskovica (nad Stražiščem) (947m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,20 +835,25 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/gorenje_podpoljane/1449">Gorenje Podpoljane</a>, <a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/kocevje/998">Kočevje</a>, <a class="moder" href="/spletna_kamera/ribnica/1981">Ribnica</a>, <a class="moder" href="/spletna_kamera/rudnisko_jezero/4234">Rudniško jezero</a>
+<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/cerknisko_jezero/3634">Cerkniško jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/ivanje_selo/328">Ivanje selo</a>, <a class="moder" href="/spletna_kamera/krim/489">Krim</a>, <a class="moder" href="/spletna_kamera/logatec/186">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec/326">Logatec</a>, <a class="moder" href="/spletna_kamera/lom/327">Lom</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/nart/1718">Nart</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/planina_pri_rakeku/1028">Planina pri Rakeku</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/rakitna/1823">Rakitna</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/studenec_na_blokah/1599">Studenec na Blokah</a>, <a class="moder" href="/spletna_kamera/tankovski_most/4915">Tankovski most</a>, <a class="moder" href="/spletna_kamera/unec/329">Unec</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbela_stena%2f26%2f1740"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbela_stena%2f26%2f1740"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbela_stena%2f26%2f1740"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_spicka%2f26%2f784"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_spicka%2f26%2f784"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvelika_spicka%2f26%2f784"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/velika_spicka/784" title="Velika Špička 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.V.Spicka.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/bela_stena/7722" onclick="event.preventDefault(); window.open('/slika_gora/bela_stena/7722');"><img class="slikagm" alt="Bela stena" src="//www.hribi.net/slike1/Turn 076288288.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/velika_spicka/2632" onclick="event.preventDefault(); window.open('/slika_gora/velika_spicka/2632');"><img class="slikagm" alt="Velika Špička" src="//www.hribi.net/slike1/PC3100441144.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/bela_stena/7723" onclick="event.preventDefault(); window.open('/slika_gora/bela_stena/7723');"><img class="slikagm" alt="Bela stena" src="//www.hribi.net/slike1/Turn 080317856.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/velika_spicka/5233" onclick="event.preventDefault(); window.open('/slika_gora/velika_spicka/5233');"><img class="slikagm" alt="Velika Špička" src="//www.hribi.net/slike1/V.Spicka 1311016064.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/velika_spicka/5234" onclick="event.preventDefault(); window.open('/slika_gora/velika_spicka/5234');"><img class="slikagm" alt="Velika Špička" src="//www.hribi.net/slike1/V.Spicka 1331016064.th.jpg" /></a>
     
 </div>
 
@@ -912,7 +917,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1740&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=784&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,7 +927,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rakitnica_bela_stena/26/1740/3170">Rakitnica - Bela stena</a></td><td class="tdG"><a href="/izlet/rakitnica_bela_stena/26/1740/3170">2 h 10 min</a></td><td class="tdG"><a href="/izlet/rakitnica_bela_stena/26/1740/3170">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/selscek_velika_spicka/26/784/1408">Selšček - Velika Špička</a></td><td class="tdG"><a href="/izlet/selscek_velika_spicka/26/784/1408"> 45 min</a></td><td class="tdG"><a href="/izlet/selscek_velika_spicka/26/784/1408">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/begunje_velika_spicka_cez_cemarovnik/26/784/2405">Begunje - Velika Špička (čez Cemarovnik)</a></td><td class="tdG"><a href="/izlet/begunje_velika_spicka_cez_cemarovnik/26/784/2405">1 h</a></td><td class="tdG"><a href="/izlet/begunje_velika_spicka_cez_cemarovnik/26/784/2405">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/begunje_velika_spicka/26/784/2406">Begunje - Velika Špička</a></td><td class="tdG"><a href="/izlet/begunje_velika_spicka/26/784/2406">1 h</a></td><td class="tdG"><a href="/izlet/begunje_velika_spicka/26/784/2406">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/strazisce_velika_spicka/26/784/1409">Stražišče - Velika Špička</a></td><td class="tdG"><a href="/izlet/strazisce_velika_spicka/26/784/1409"> 30 min</a></td><td class="tdG"><a href="/izlet/strazisce_velika_spicka/26/784/1409">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Rotovc</title>
-        <meta name="description" content="Natančen opis gore Rotovc in vseh pristopov na Rotovc. Rotovc je 964 m visok vrh, ki se nahaja severovzhodno od Rakitne. Z vrha, na kat." />
+        <title>Bloško jezero</title>
+        <meta name="description" content="Natančen opis koče Bloško jezero in vseh pristopov na Bloško jezero. Bloško jezero je do 2 metra globoko umetno jezero, ki se nahaja v bližini vasi V." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1673?gorovjeid=26&amp;id=1673" id="form1">
+    <form method="post" action="./2339?gorovjeid=26&amp;id=2339" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rotovc/26/1673"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1673"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/blosko_jezero/26/2339"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2339"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Rotovc
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Bloško jezero
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1673);
+    gorast(2339);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Rotovc</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bloško jezero</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 964&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 748&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;53,6460'N&nbsp;/&nbsp;14°&nbsp;27,3540'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;47,1540'N&nbsp;/&nbsp;14°&nbsp;30,9480'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;53'&nbsp;38,76''N&nbsp;/&nbsp;14°&nbsp;27'&nbsp;21,24''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;47'&nbsp;9,24''N&nbsp;/&nbsp;14°&nbsp;30'&nbsp;56,88''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.8941°N&nbsp;/&nbsp;14.4559°E";
+                        document.getElementById("kf0").innerHTML = "45.7859°N&nbsp;/&nbsp;14.5158°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,8941°N,&nbsp;14,4559°E";
+                    document.getElementById("kf0").innerHTML = "45,7859°N,&nbsp;14,5158°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,8941°N&nbsp;14,4559°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rotovc/1673"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,7859°N&nbsp;14,5158°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/blosko_jezero/2339"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča, jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bloško jezero - Torek" href="/vreme_gora/blosko_jezero/26/2339#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bloško jezero - Sreda" href="/vreme_gora/blosko_jezero/26/2339#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bloško jezero - Četrtek" href="/vreme_gora/blosko_jezero/26/2339#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Rotovc - Petek" href="/vreme_gora/rotovc/26/1673#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bloško jezero - Petek" href="/vreme_gora/blosko_jezero/26/2339#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Rotovc - Sobota" href="/vreme_gora/rotovc/26/1673#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Rotovc - Nedelja" href="/vreme_gora/rotovc/26/1673#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Rotovc - Ponedeljek" href="/vreme_gora/rotovc/26/1673#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Rotovc - Torek" href="/vreme_gora/rotovc/26/1673#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bloško jezero - Sobota" href="/vreme_gora/blosko_jezero/26/2339#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 287.761</div>
-<div class="g2"><b>Priljubljenost:</b> 68%&nbsp;(1057.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Ogledov:</b> 438.028</div>
+<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(517.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Rotovc je 964 m visok vrh, ki se nahaja severovzhodno od Rakitne. Z vrha, na katerem stoji lesena klop, se nam odpre lep razgled proti že omenjeni Rakitni, Novaški gori in Krimščku.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Bloško jezero je do 2 metra globoko umetno jezero, ki se nahaja v bližini vasi Volčje. Po naselju Volčje ima jezero še drugo ime in sicer Volčje jezero. V poletnih dneh, ko se jezero prijetno ogreje je tudi priljubljena izletniška točka kopalcev, v lepih dneh preko celega leta pa jezero radi obiščejo kolesarji, sprehajalci, pohodniki... Ob jezeru se nahaja tudi okrepčevalnica Brunarica ob Bloškem jezeru.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1673&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2339&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/misnice/26/2622">Mišnice (961m)</a>, <a class="moder" href="/gora/zupanov_vrh/26/2342">Županov vrh (999m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,30 +835,42 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/ivanje_selo/328">Ivanje selo</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/krim/489">Krim</a>, <a class="moder" href="/spletna_kamera/lavrica/3607">Lavrica</a>, <a class="moder" href="/spletna_kamera/ljubljana_izanska_cesta/1963">Ljubljana (Ižanska cesta)</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/pijava_gorica/454">Pijava Gorica</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/rakitna/1823">Rakitna</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/skofljica/3606">Škofljica</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/tankovski_most/4915">Tankovski most</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>
+<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/cerknisko_jezero/3634">Cerkniško jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/gorenje_podpoljane/1449">Gorenje Podpoljane</a>, <a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/iga_vas/1077">Iga vas</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/rakitna/1823">Rakitna</a>, <a class="moder" href="/spletna_kamera/studenec_na_blokah/1599">Studenec na Blokah</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frotovc%2f26%2f1673"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frotovc%2f26%2f1673"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frotovc%2f26%2f1673"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fblosko_jezero%2f26%2f2339"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fblosko_jezero%2f26%2f2339"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fblosko_jezero%2f26%2f2339"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/rotovc/7311" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/7311');"><img class="slikagm" alt="Rotovc" src="//slike.hribi.net/sliketemp/KraljiKrim%202485845568.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/blosko_jezero/12436" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/12436');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/BloskoJezero 076282240.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rotovc/7312" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/7312');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/KraljiKrim 2512096640.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/blosko_jezero/12437" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/12437');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/BloskoJezero 074282240.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rotovc/7313" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/7313');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/KraljiKrim 2532096640.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/blosko_jezero/12438" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/12438');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/BloskoJezero 070282240.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rotovc/11333" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/11333');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/Rotovc 081802256.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/blosko_jezero/12439" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/12439');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/BloskoJezero 064282240.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rotovc/11334" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/11334');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/Rotovc 084802256.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/blosko_jezero/12440" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/12440');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/BloskoJezero 062273420.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rotovc/11335" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/11335');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/Rotovc 086802256.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/blosko_jezero/12441" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/12441');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/BloskoJezero 069282240.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rotovc/12454" onclick="event.preventDefault(); window.open('/slika_gora/rotovc/12454');"><img class="slikagm" alt="Rotovc" src="//www.hribi.net/slike1/ZupanovVrh 143266112.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/blosko_jezero/12442" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/12442');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/BloskoJezero 071282240.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/blosko_jezero/14348" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/14348');"><img class="slikagm" alt="Bloško jezero" src="//slike.hribi.net/slike4/2_116510309583_DSCN2308.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/blosko_jezero/14349" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/14349');"><img class="slikagm" alt="Bloško jezero" src="//slike.hribi.net/slike4/2_0593510309581_DSCN2301.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/blosko_jezero/14350" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/14350');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/DSCN2300146880.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/blosko_jezero/14351" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/14351');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/DSCN2302146880.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/blosko_jezero/14352" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/14352');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/DSCN2303146880.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/blosko_jezero/14353" onclick="event.preventDefault(); window.open('/slika_gora/blosko_jezero/14353');"><img class="slikagm" alt="Bloško jezero" src="//www.hribi.net/slike1/DSCN2305146880.th.jpg" /></a>
     
 </div>
 
@@ -922,7 +934,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1673&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2339&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -932,13 +944,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rakitna_rotovc/26/1673/3003">Rakitna - Rotovc</a></td><td class="tdG"><a href="/izlet/rakitna_rotovc/26/1673/3003"> 30 min</a></td><td class="tdG"><a href="/izlet/rakitna_rotovc/26/1673/3003">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/staro_volcje_blosko_jezero/26/2339/4838">Staro Volčje - Bloško jezero</a></td><td class="tdG"><a href="/izlet/staro_volcje_blosko_jezero/26/2339/4838"> 15 min</a></td><td class="tdG"><a href="/izlet/staro_volcje_blosko_jezero/26/2339/4838">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/brancljeva_senozet_rotovc/26/1673/4840">Brancljeva senožet - Rotovc</a></td><td class="tdG"><a href="/izlet/brancljeva_senozet_rotovc/26/1673/4840"> 45 min</a></td><td class="tdG"><a href="/izlet/brancljeva_senozet_rotovc/26/1673/4840">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/nova_vas_blosko_jezero/26/2339/5797">Nova vas - Bloško jezero</a></td><td class="tdG"><a href="/izlet/nova_vas_blosko_jezero/26/2339/5797"> 25 min</a></td><td class="tdG"><a href="/izlet/nova_vas_blosko_jezero/26/2339/5797">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mesnice_rotovc/26/1673/4603">Mesnice - Rotovc</a></td><td class="tdG"><a href="/izlet/mesnice_rotovc/26/1673/4603"> 55 min</a></td><td class="tdG"><a href="/izlet/mesnice_rotovc/26/1673/4603">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/strmca_blosko_jezero/26/2339/5796">Strmca - Bloško jezero</a></td><td class="tdG"><a href="/izlet/strmca_blosko_jezero/26/2339/5796">1 h 10 min</a></td><td class="tdG"><a href="/izlet/strmca_blosko_jezero/26/2339/5796">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mesnice_rotovc_cez_zupanov_vrh/26/1673/5219">Mesnice - Rotovc (čez Županov vrh)</a></td><td class="tdG"><a href="/izlet/mesnice_rotovc_cez_zupanov_vrh/26/1673/5219">1 h 15 min</a></td><td class="tdG"><a href="/izlet/mesnice_rotovc_cez_zupanov_vrh/26/1673/5219">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zvratnice_blosko_jezero/26/2339/4836">Zvratnice - Bloško jezero</a></td><td class="tdG"><a href="/izlet/zvratnice_blosko_jezero/26/2339/4836"> 20 min</a></td><td class="tdG"><a href="/izlet/zvratnice_blosko_jezero/26/2339/4836">lahka označena pot</a></td></tr>
 
 </table>
 

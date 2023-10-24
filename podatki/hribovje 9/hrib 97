@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Malenski vrh</title>
-        <meta name="description" content="Natančen opis gore Malenski vrh in vseh pristopov na Malenski vrh. Malenski vrh je 1051 metrov visoka gora, ki se nahaja zahodno od naselja Javorje." />
+        <title>Koča na Hleviški planini</title>
+        <meta name="description" content="Natančen opis koče Koča na Hleviški planini in vseh pristopov na Koča na Hleviški planini. Koča na Hleviški planini se nahaja le malo pod 908 m visokim vrhom Hleviške plan." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3027?gorovjeid=21&amp;id=3027" id="form1">
+    <form method="post" action="./830?gorovjeid=21&amp;id=830" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/malenski_vrh/21/3027"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=3027"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_hleviski_planini/21/830"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=830"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Malenski vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Koča na Hleviški planini
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3027);
+    gorast(830);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Malenski vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Koča na Hleviški planini</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1051&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 818&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;9,3978'N&nbsp;/&nbsp;14°&nbsp;9,1668'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;59,2338'N&nbsp;/&nbsp;13°&nbsp;59,7510'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;9'&nbsp;23,87''N&nbsp;/&nbsp;14°&nbsp;9'&nbsp;10,01''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;59'&nbsp;14,03''N&nbsp;/&nbsp;13°&nbsp;59'&nbsp;45,06''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.15663°N&nbsp;/&nbsp;14.15278°E";
+                        document.getElementById("kf0").innerHTML = "45.98723°N&nbsp;/&nbsp;13.99585°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,15663°N,&nbsp;14,15278°E";
+                    document.getElementById("kf0").innerHTML = "45,98723°N,&nbsp;13,99585°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,15663°N&nbsp;14,15278°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/malenski_vrh/3027"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,98723°N&nbsp;13,99585°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_hleviski_planini/830"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Hleviški planini - Torek" href="/vreme_gora/koca_na_hleviski_planini/21/830#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Hleviški planini - Sreda" href="/vreme_gora/koca_na_hleviski_planini/21/830#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Hleviški planini - Četrtek" href="/vreme_gora/koca_na_hleviski_planini/21/830#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Malenski vrh - Petek" href="/vreme_gora/malenski_vrh/21/3027#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Hleviški planini - Petek" href="/vreme_gora/koca_na_hleviski_planini/21/830#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Malenski vrh - Sobota" href="/vreme_gora/malenski_vrh/21/3027#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Malenski vrh - Nedelja" href="/vreme_gora/malenski_vrh/21/3027#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Malenski vrh - Ponedeljek" href="/vreme_gora/malenski_vrh/21/3027#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Malenski vrh - Torek" href="/vreme_gora/malenski_vrh/21/3027#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Koča na Hleviški planini - Sobota" href="/vreme_gora/koca_na_hleviski_planini/21/830#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 5.010</div>
-<div class="g2"><b>Priljubljenost:</b> 35%&nbsp;(2145.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 440.220</div>
+<div class="g2"><b>Priljubljenost:</b> 85%&nbsp;(506.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=830" title="Število vpisov v vpisni knjigi">4</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Malenski vrh je 1051 metrov visoka gora, ki se nahaja zahodno od naselja Javorje. Na vrhu se nahajata manjša klop in možic, razgled na okoliško hribovje pa zastira gozd.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Koča na Hleviški planini se nahaja le malo pod 908 m visokim vrhom Hleviške planine. Od koče, ki je točka slovenske planinske poti, se nam odpre odpre lep razgled le proti jugovzhodu, saj na ostale strani razgled ovira gozd. V času, ko je koča zaprta, dobimo žig SPP na štoru ob koči. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3027&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=830&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/cerkev_marijinega_vnebovzetja_gora/21/441">Cerkev Marijinega vnebovzetja (Gora) (987m)</a>
+<a class="moder" href="/gora/hleviska_planina/21/829">Hleviška planina (908m)</a>, <a class="moder" href="/gora/zagrebenc/21/1975">Zagrebenc (763m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,26 +835,33 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
+<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmalenski_vrh%2f21%2f3027"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmalenski_vrh%2f21%2f3027"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmalenski_vrh%2f21%2f3027"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_hleviski_planini%2f21%2f830"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_hleviski_planini%2f21%2f830"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_hleviski_planini%2f21%2f830"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/koca_na_hleviski_planini/830" title="Koča na Hleviški planini 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KocaHleviskaPl.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/malenski_vrh/17831" onclick="event.preventDefault(); window.open('/slika_gora/malenski_vrh/17831');"><img class="slikagm" alt="Malenski vrh" src="//slike.hribi.net/slike4/2_1264601743354_DSCN1877.JPG" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_hleviski_planini/2750" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_hleviski_planini/2750');"><img class="slikagm" alt="Koča na Hleviški planini" src="//www.hribi.net/slike1/P2170078116640.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/malenski_vrh/17832" onclick="event.preventDefault(); window.open('/slika_gora/malenski_vrh/17832');"><img class="slikagm" alt="Malenski vrh" src="//slike.hribi.net/slike4/2_6282602007019_DSCN1873.JPG" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_hleviski_planini/2751" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_hleviski_planini/2751');"><img class="slikagm" alt="Koča na Hleviški planini" src="//www.hribi.net/slike1/P2170064116640.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/malenski_vrh/17833" onclick="event.preventDefault(); window.open('/slika_gora/malenski_vrh/17833');"><img class="slikagm" alt="Malenski vrh" src="//slike.hribi.net/slike4/2_1108602263440_DSCN1982.JPG" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_hleviski_planini/9616" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_hleviski_planini/9616');"><img class="slikagm" alt="Koča na Hleviški planini" src="//www.hribi.net/slike1/Vojsko12 081208656.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/malenski_vrh/18281" onclick="event.preventDefault(); window.open('/slika_gora/malenski_vrh/18281');"><img class="slikagm" alt="Malenski vrh" src="//slike.hribi.net/slike4/2_2519613148265_DSCN2368.JPG" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_hleviski_planini/9617" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_hleviski_planini/9617');"><img class="slikagm" alt="Koča na Hleviški planini" src="//www.hribi.net/slike1/Vojsko12 080208656.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/malenski_vrh/18290" onclick="event.preventDefault(); window.open('/slika_gora/malenski_vrh/18290');"><img class="slikagm" alt="Malenski vrh" src="//slike.hribi.net/slike4/2_0823613224555_DSCN2566.JPG" /></a>
+        <a target="_blank" href="/slika_gora/koca_na_hleviski_planini/9618" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_hleviski_planini/9618');"><img class="slikagm" alt="Koča na Hleviški planini" src="//www.hribi.net/slike1/Vojsko12 088255024.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/koca_na_hleviski_planini/9626" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_hleviski_planini/9626');"><img class="slikagm" alt="Koča na Hleviški planini" src="//www.hribi.net/slike1/Vojsko12 252278208.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/koca_na_hleviski_planini/9627" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_hleviski_planini/9627');"><img class="slikagm" alt="Koča na Hleviški planini" src="//www.hribi.net/slike1/Vojsko12 253278208.th.jpg" /></a>
     
 </div>
 
@@ -918,7 +925,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3027&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=830&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -928,13 +935,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/malenski_vrh_malenski_vrh/21/3027/7155">Malenski Vrh - Malenski vrh</a></td><td class="tdG"><a href="/izlet/malenski_vrh_malenski_vrh/21/3027/7155">1 h 5 min</a></td><td class="tdG"><a href="/izlet/malenski_vrh_malenski_vrh/21/3027/7155">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/idrija_koca_na_hleviski_planini_lovska_pot/21/830/1478">Idrija - Koča na Hleviški planini (lovska pot)</a></td><td class="tdG"><a href="/izlet/idrija_koca_na_hleviski_planini_lovska_pot/21/830/1478">1 h 35 min</a></td><td class="tdG"><a href="/izlet/idrija_koca_na_hleviski_planini_lovska_pot/21/830/1478">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/volca_malenski_vrh/21/3027/7319">Volča - Malenski vrh</a></td><td class="tdG"><a href="/izlet/volca_malenski_vrh/21/3027/7319">1 h 45 min</a></td><td class="tdG"><a href="/izlet/volca_malenski_vrh/21/3027/7319">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/pri_babi_koca_na_hleviski_planini/21/830/1477">Pri Babi - Koča na Hleviški planini</a></td><td class="tdG"><a href="/izlet/pri_babi_koca_na_hleviski_planini/21/830/1477">1 h 20 min</a></td><td class="tdG"><a href="/izlet/pri_babi_koca_na_hleviski_planini/21/830/1477">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dolencice_malenski_vrh/21/3027/7159">Dolenčice - Malenski vrh</a></td><td class="tdG"><a href="/izlet/dolencice_malenski_vrh/21/3027/7159">1 h 15 min</a></td><td class="tdG"><a href="/izlet/dolencice_malenski_vrh/21/3027/7159">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/divje_jezero_koca_na_hleviski_planini_cez_vrh_struga/21/830/3789">Divje jezero - Koča na Hleviški planini (čez vrh Struga)</a></td><td class="tdG"><a href="/izlet/divje_jezero_koca_na_hleviski_planini_cez_vrh_struga/21/830/3789">1 h 35 min</a></td><td class="tdG"><a href="/izlet/divje_jezero_koca_na_hleviski_planini_cez_vrh_struga/21/830/3789">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/preval_hlevisce_malenski_vrh_skozi_gozd/21/3027/7157">Preval Hlevišče - Malenski vrh (skozi gozd)</a></td><td class="tdG"><a href="/izlet/preval_hlevisce_malenski_vrh_skozi_gozd/21/3027/7157"> 25 min</a></td><td class="tdG"><a href="/izlet/preval_hlevisce_malenski_vrh_skozi_gozd/21/3027/7157">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/idrija_koca_na_hleviski_planini_cez_kodrov_rovt/21/830/3858"> Idrija - Koča na Hleviški planini (čez Kodrov rovt)</a></td><td class="tdG"><a href="/izlet/idrija_koca_na_hleviski_planini_cez_kodrov_rovt/21/830/3858">1 h 50 min</a></td><td class="tdG"><a href="/izlet/idrija_koca_na_hleviski_planini_cez_kodrov_rovt/21/830/3858">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/divje_jezero_koca_na_hleviski_planini_mimo_priznice/21/830/3792">Divje jezero - Koča na Hleviški planini (mimo Prižnice)</a></td><td class="tdG"><a href="/izlet/divje_jezero_koca_na_hleviski_planini_mimo_priznice/21/830/3792">2 h 20 min</a></td><td class="tdG"><a href="/izlet/divje_jezero_koca_na_hleviski_planini_mimo_priznice/21/830/3792">lahka označena pot</a></td></tr>
 
 </table>
 

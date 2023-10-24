@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Zasavska Sveta gora</title>
-        <meta name="description" content="Natančen opis gore Zasavska Sveta gora in vseh pristopov na Zasavska Sveta gora. Zasavska Sveta gora je priljubljena izletniška točka, ki se nahaja med Litijo in." />
+        <title>Bavč</title>
+        <meta name="description" content="Natančen opis gore Bavč in vseh pristopov na Bavč. Bavč je poraščen vrh, ki se nahaja južno od Celja in Zvodnega v Posavskem hribov." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./214?gorovjeid=25&amp;id=214" id="form1">
+    <form method="post" action="./3340?gorovjeid=25&amp;id=3340" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/zasavska_sveta_gora/25/214"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=214"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bavc/25/3340"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3340"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Zasavska Sveta gora
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Bavč
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(214);
+    gorast(3340);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Zasavska Sveta gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bavč</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 852&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 692&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;7,7100'N&nbsp;/&nbsp;14°&nbsp;53,6574'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;12,1260'N&nbsp;/&nbsp;15°&nbsp;17,0574'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;7'&nbsp;42,60''N&nbsp;/&nbsp;14°&nbsp;53'&nbsp;39,44''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;12'&nbsp;7,56''N&nbsp;/&nbsp;15°&nbsp;17'&nbsp;3,44''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.1285°N&nbsp;/&nbsp;14.89429°E";
+                        document.getElementById("kf0").innerHTML = "46.2021°N&nbsp;/&nbsp;15.28429°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,1285°N,&nbsp;14,89429°E";
+                    document.getElementById("kf0").innerHTML = "46,2021°N,&nbsp;15,28429°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1285°N&nbsp;14,89429°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zasavska_sveta_gora/214"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2021°N&nbsp;15,28429°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bavc/3340"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bavč - Torek" href="/vreme_gora/bavc/25/3340#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bavč - Sreda" href="/vreme_gora/bavc/25/3340#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bavč - Četrtek" href="/vreme_gora/bavc/25/3340#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Zasavska Sveta gora - Petek" href="/vreme_gora/zasavska_sveta_gora/25/214#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bavč - Petek" href="/vreme_gora/bavc/25/3340#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Zasavska Sveta gora - Sobota" href="/vreme_gora/zasavska_sveta_gora/25/214#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Zasavska Sveta gora - Nedelja" href="/vreme_gora/zasavska_sveta_gora/25/214#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Zasavska Sveta gora - Ponedeljek" href="/vreme_gora/zasavska_sveta_gora/25/214#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Zasavska Sveta gora - Torek" href="/vreme_gora/zasavska_sveta_gora/25/214#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bavč - Sobota" href="/vreme_gora/bavc/25/3340#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 573.107</div>
-<div class="g2"><b>Priljubljenost:</b> 95%&nbsp;(168.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">16</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=214" title="Število vpisov v vpisni knjigi">2</a></div>
+<div class="g2"><b>Ogledov:</b> 2.100</div>
+<div class="g2"><b>Priljubljenost:</b> 27%&nbsp;(2391.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Zasavska Sveta gora je priljubljena izletniška točka, ki se nahaja med Litijo in Izlakami. Z vrha, na katerem stoji župnijska cerkev Marijinega rojstva, se nam odpre lep razgled na Posavsko hribovje, ob lepem vremenu pa razgled seže vse od Snežnika, prek Julijskih Alp do bližnjih Kamniško Savinjskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Bavč je poraščen vrh, ki se nahaja južno od Celja in Zvodnega v Posavskem hribovju med Grmado in Srebotnikom. Na poti proti vrhu se nam večkrat odpre razgled na Tolsti vrh proti jugu in okoliške hribe.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=214&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3340&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/planinski_dom_na_zasavski_sveti_gori/25/1947">Planinski dom na Zasavski Sveti gori (822m)</a>, <a class="moder" href="/gora/roviskovec/25/1948">Roviškovec (930m)</a>
+<a class="moder" href="/gora/almin_dom_na_svetini/25/880">Almin dom na Svetini (772m)</a>, <a class="moder" href="/gora/celjska_koca/25/878">Celjska koča (652m)</a>, <a class="moder" href="/gora/grmada_nad_celjem/25/877">Grmada nad Celjem (718m)</a>, <a class="moder" href="/gora/pecovniska_koca_na_grmadi/25/876">Pečovniška koča na Grmadi (620m)</a>, <a class="moder" href="/gora/srebotnik/25/881">Srebotnik (700m)</a>, <a class="moder" href="/gora/tolsti_vrh_nad_celjsko_koco/25/879">Tolsti vrh nad Celjsko kočo (834m)</a>, <a class="moder" href="/gora/veliki_bojanski_vrh/25/3335">Veliki Bojanski vrh (627m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,51 +835,28 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/kum/2952">Kum</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/sveta_planina_partizanski_vrh/3429">Sveta planina (Partizanski vrh)</a>, <a class="moder" href="/spletna_kamera/trbovlje/317">Trbovlje</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>
+<a class="moder" href="/spletna_kamera/celje_krekov_trg/3511">Celje (Krekov trg)</a>, <a class="moder" href="/spletna_kamera/celje_letno_kopalisce/361">Celje (letno kopališče)</a>, <a class="moder" href="/spletna_kamera/celjska_koca/174">Celjska koča</a>, <a class="moder" href="/spletna_kamera/dramlje/1743">Dramlje</a>, <a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/lahomsek/309">Lahomšek</a>, <a class="moder" href="/spletna_kamera/lisca/506">Lisca</a>, <a class="moder" href="/spletna_kamera/marno/381">Marno</a>, <a class="moder" href="/spletna_kamera/medlog/1164">Medlog</a>, <a class="moder" href="/spletna_kamera/mrzlica/1360">Mrzlica</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/planina_pri_sevnici/4944">Planina pri Sevnici</a>, <a class="moder" href="/spletna_kamera/slatina/363">Slatina</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>, <a class="moder" href="/spletna_kamera/zima/362">Zima</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzasavska_sveta_gora%2f25%2f214"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzasavska_sveta_gora%2f25%2f214"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzasavska_sveta_gora%2f25%2f214"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbavc%2f25%2f3340"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbavc%2f25%2f3340"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbavc%2f25%2f3340"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/zasavska_sveta_gora/214" title="Zasavska Sveta gora 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.zasavskaSvGora.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/1232" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/1232');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/Gora/pb190108mediumfb3.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bavc/19897" onclick="event.preventDefault(); window.open('/slika_gora/bavc/19897');"><img class="slikagm" alt="Bavč" src="//slike.hribi.net/slike9/2_1105403220200927_122125.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/1234" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/1234');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/Gora/pb190051mediumuh1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bavc/19898" onclick="event.preventDefault(); window.open('/slika_gora/bavc/19898');"><img class="slikagm" alt="Bavč" src="//slike.hribi.net/slike9/2_1105403520200927_111434.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/1235" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/1235');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/Gora/pb190107mediumlz0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bavc/19899" onclick="event.preventDefault(); window.open('/slika_gora/bavc/19899');"><img class="slikagm" alt="Bavč" src="//slike.hribi.net/slike9/2_1105403720200927_102934.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/1236" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/1236');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/Gora/pb190103mediumxz6.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bavc/19900" onclick="event.preventDefault(); window.open('/slika_gora/bavc/19900');"><img class="slikagm" alt="Bavč" src="//slike.hribi.net/slike9/2_1105403820200927_102642.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/1237" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/1237');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/Gora/pb190093mediumqx0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bavc/19960" onclick="event.preventDefault(); window.open('/slika_gora/bavc/19960');"><img class="slikagm" alt="Bavč" src="//slike.hribi.net/slike9/2_1108853420201207_201040.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/1238" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/1238');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/Gora/pb190125mediumnl6.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/9458" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/9458');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/slike1/ZasavskaSvetaGora 41876032.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/9459" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/9459');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/slike1/ZasavskaSvetaGora 076100224.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/9460" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/9460');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/slike1/ZasavskaSvetaGora 082100224.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/9461" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/9461');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/slike1/ZasavskaSvetaGora 083100224.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/9462" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/9462');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/slike1/ZasavskaSvetaGora 084100224.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/9464" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/9464');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/slike1/ZasavskaSvetaGora 136101088.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/9471" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/9471');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/slike1/ZasavskaSvetaGora 127132240.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/10579" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/10579');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/slike5/2012_12_23_16.03.226915542.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/10580" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/10580');"><img class="slikagm" alt="Zasavska Sveta gora" src="//www.hribi.net/slike5/2012_12_23_16.04.036915541.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/zasavska_sveta_gora/19308" onclick="event.preventDefault(); window.open('/slika_gora/zasavska_sveta_gora/19308');"><img class="slikagm" alt="Zasavska Sveta gora" src="//slike.hribi.net/slike4/2_2820641494567_DSCN9480.JPG" /></a>
+        <a target="_blank" href="/slika_gora/bavc/19985" onclick="event.preventDefault(); window.open('/slika_gora/bavc/19985');"><img class="slikagm" alt="Bavč" src="//slike.hribi.net/slike9/2_11096332Bavc_iz_Pecovja.jpg" /></a>
     
 </div>
 
@@ -943,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=214&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3340&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -953,23 +930,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vace_zasavska_sveta_gora/25/214/3037">Vače - Zasavska Sveta gora</a></td><td class="tdG"><a href="/izlet/vace_zasavska_sveta_gora/25/214/3037">2 h</a></td><td class="tdG"><a href="/izlet/vace_zasavska_sveta_gora/25/214/3037">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zvodno_bavc_skozi_hudicev_graben/25/3340/7981">Zvodno - Bavč (skozi Hudičev graben)</a></td><td class="tdG"><a href="/izlet/zvodno_bavc_skozi_hudicev_graben/25/3340/7981">1 h</a></td><td class="tdG"><a href="/izlet/zvodno_bavc_skozi_hudicev_graben/25/3340/7981">zahtevna označena pot, lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rovisce_zasavska_sveta_gora_pes_pot/25/214/813">Rovišče - Zasavska Sveta gora (peš pot)</a></td><td class="tdG"><a href="/izlet/rovisce_zasavska_sveta_gora_pes_pot/25/214/813"> 30 min</a></td><td class="tdG"><a href="/izlet/rovisce_zasavska_sveta_gora_pes_pot/25/214/813">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zvodno_bavc_skozi_suhi_potok/25/3340/8010">Zvodno - Bavč (skozi Suhi potok)</a></td><td class="tdG"><a href="/izlet/zvodno_bavc_skozi_suhi_potok/25/3340/8010">1 h 10 min</a></td><td class="tdG"><a href="/izlet/zvodno_bavc_skozi_suhi_potok/25/3340/8010">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/krace_zasavska_sveta_gora/25/214/3648">Krače - Zasavska Sveta gora</a></td><td class="tdG"><a href="/izlet/krace_zasavska_sveta_gora/25/214/3648">1 h 15 min</a></td><td class="tdG"><a href="/izlet/krace_zasavska_sveta_gora/25/214/3648">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__bavc_mimo_marije/25/3340/8021">Kozolec (Laška vas - Pečovje)  - Bavč (mimo Marije)</a></td><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__bavc_mimo_marije/25/3340/8021">1 h 45 min</a></td><td class="tdG"><a href="/izlet/kozolec_laska_vas_-_pecovje__bavc_mimo_marije/25/3340/8021">lahka označena pot, lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rovisce_zasavska_sveta_gora_po_cesti/25/214/318">Rovišče - Zasavska Sveta gora (po cesti)</a></td><td class="tdG"><a href="/izlet/rovisce_zasavska_sveta_gora_po_cesti/25/214/318"> 35 min</a></td><td class="tdG"><a href="/izlet/rovisce_zasavska_sveta_gora_po_cesti/25/214/318">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mlinse_zasavska_sveta_gora/25/214/3640">Mlinše - Zasavska Sveta gora</a></td><td class="tdG"><a href="/izlet/mlinse_zasavska_sveta_gora/25/214/3640">1 h 30 min</a></td><td class="tdG"><a href="/izlet/mlinse_zasavska_sveta_gora/25/214/3640">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vace_zasavska_sveta_gora_po_grebenu/25/214/7740">Vače - Zasavska Sveta gora (po grebenu)</a></td><td class="tdG"><a href="/izlet/vace_zasavska_sveta_gora_po_grebenu/25/214/7740">2 h 35 min</a></td><td class="tdG"><a href="/izlet/vace_zasavska_sveta_gora_po_grebenu/25/214/7740">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vidrga_zasavska_sveta_gora_po_gozdni_stezi/25/214/7742">Vidrga - Zasavska Sveta gora (po gozdni stezi)</a></td><td class="tdG"><a href="/izlet/vidrga_zasavska_sveta_gora_po_gozdni_stezi/25/214/7742">1 h 30 min</a></td><td class="tdG"><a href="/izlet/vidrga_zasavska_sveta_gora_po_gozdni_stezi/25/214/7742">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vace_zasavska_sveta_gora_po_pobocju/25/214/7737">Vače - Zasavska Sveta gora (po pobočju)</a></td><td class="tdG"><a href="/izlet/vace_zasavska_sveta_gora_po_pobocju/25/214/7737">2 h 30 min</a></td><td class="tdG"><a href="/izlet/vace_zasavska_sveta_gora_po_pobocju/25/214/7737">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vidrga_zasavska_sveta_gora_po_kolovozu/25/214/7744">Vidrga - Zasavska Sveta gora (po kolovozu)</a></td><td class="tdG"><a href="/izlet/vidrga_zasavska_sveta_gora_po_kolovozu/25/214/7744">1 h 30 min</a></td><td class="tdG"><a href="/izlet/vidrga_zasavska_sveta_gora_po_kolovozu/25/214/7744">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/teharje_bavc_mimo_marije/25/3340/8245">Teharje - Bavč (mimo Marije)</a></td><td class="tdG"><a href="/izlet/teharje_bavc_mimo_marije/25/3340/8245">2 h 30 min</a></td><td class="tdG"><a href="/izlet/teharje_bavc_mimo_marije/25/3340/8245">lahka označena pot, lahka neoznačena steza</a></td></tr>
 
 </table>
 

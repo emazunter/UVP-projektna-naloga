@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Mali Snežnik</title>
-        <meta name="description" content="Natančen opis gore Mali Snežnik in vseh pristopov na Mali Snežnik. Mali Snežnik je vrh na zahodnem grebenu Snežnika. Vrh, ki je poraščen z rušjem i." />
+        <title>Mali Golak</title>
+        <meta name="description" content="Natančen opis gore Mali Golak in vseh pristopov na Mali Golak. Mali Golak je najvišji od Golakov. Imena ni dobil zato, ker naj bi bil najmanjši." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./556?gorovjeid=26&amp;id=556" id="form1">
+    <form method="post" action="./511?gorovjeid=26&amp;id=511" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mali_sneznik/26/556"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=556"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mali_golak/26/511"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=511"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Mali Snežnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Mali Golak
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(556);
+    gorast(511);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Mali Snežnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Mali Golak</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1694&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1495&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;35,3880'N&nbsp;/&nbsp;14°&nbsp;26,1540'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;58,7100'N&nbsp;/&nbsp;13°&nbsp;51,8640'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;35'&nbsp;23,28''N&nbsp;/&nbsp;14°&nbsp;26'&nbsp;9,24''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;58'&nbsp;42,60''N&nbsp;/&nbsp;13°&nbsp;51'&nbsp;51,84''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.5898°N&nbsp;/&nbsp;14.4359°E";
+                        document.getElementById("kf0").innerHTML = "45.9785°N&nbsp;/&nbsp;13.8644°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,5898°N,&nbsp;14,4359°E";
+                    document.getElementById("kf0").innerHTML = "45,9785°N,&nbsp;13,8644°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,5898°N&nbsp;14,4359°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mali_sneznik/556"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,9785°N&nbsp;13,8644°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mali_golak/511"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Golak - Torek" href="/vreme_gora/mali_golak/26/511#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Golak - Sreda" href="/vreme_gora/mali_golak/26/511#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Golak - Četrtek" href="/vreme_gora/mali_golak/26/511#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Mali Snežnik - Petek" href="/vreme_gora/mali_sneznik/26/556#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Golak - Petek" href="/vreme_gora/mali_golak/26/511#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Mali Snežnik - Sobota" href="/vreme_gora/mali_sneznik/26/556#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Mali Snežnik - Nedelja" href="/vreme_gora/mali_sneznik/26/556#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Mali Snežnik - Ponedeljek" href="/vreme_gora/mali_sneznik/26/556#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Mali Snežnik - Torek" href="/vreme_gora/mali_sneznik/26/556#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Golak - Sobota" href="/vreme_gora/mali_golak/26/511#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 433.707</div>
-<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(528.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=556" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Ogledov:</b> 658.129</div>
+<div class="g2"><b>Priljubljenost:</b> 97%&nbsp;(94.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=511" title="Število vpisov v vpisni knjigi">10</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Mali Snežnik je vrh na zahodnem grebenu Snežnika. Vrh, ki je poraščen z rušjem ima lep razgled na sosednji Veliki Snežnik in okoliško hribovje.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Mali Golak je najvišji od Golakov. Imena ni dobil zato, ker naj bi bil najmanjši ampak, ker je imel najmanjšo planino. Na zemljevidih je prišlo do napake in namesto Malega Golaka piše Veliki Golak. Sicer pa je z vrha lep razgled na vso Slovenijo. Lepo se vidi Triglav in velik del Julijskih Alp. Tudi Karavanke in Kamniške Alpe se vidijo. Pod nami pa Primorska s svojim morjem. Vrh ima vpisno knjigo in žig.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=556&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=511&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/sneznik/26/127">Snežnik (1796m)</a>
+<a class="moder" href="/gora/iztokova_koca_pod_golaki/26/510">Iztokova koča pod Golaki (1260m)</a>, <a class="moder" href="/gora/srednji_golak/26/529">Srednji Golak (1480m)</a>, <a class="moder" href="/gora/velika_ledena_jama_v_paradani/26/1229">Velika ledena jama v Paradani (1140m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,32 +835,27 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/iga_vas/1077">Iga vas</a>, <a class="moder" href="/spletna_kamera/sneznik/1947">Snežnik</a>, <a class="moder" href="/spletna_kamera/sviscaki/2971">Sviščaki</a>
+<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/lijak/344">Lijak</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/ozeljan/2075">Ozeljan</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_sneznik%2f26%2f556"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_sneznik%2f26%2f556"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_sneznik%2f26%2f556"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_golak%2f26%2f511"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_golak%2f26%2f511"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_golak%2f26%2f511"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/mali_golak/511" title="Mali Golak 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.maligolak.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/mali_sneznik/1625" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/1625');"><img class="slikagm" alt="Mali Snežnik" src="//www.hribi.net/slike1/P415014294248.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_golak/1432" onclick="event.preventDefault(); window.open('/slika_gora/mali_golak/1432');"><img class="slikagm" alt="Mali Golak" src="//www.hribi.net/slike1/P11400447497.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/mali_sneznik/5906" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/5906');"><img class="slikagm" alt="Mali Snežnik" src="//www.hribi.net/slike1/Sneznik 127856800.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_golak/1512" onclick="event.preventDefault(); window.open('/slika_gora/mali_golak/1512');"><img class="slikagm" alt="Mali Golak" src="//www.hribi.net/slike1/P1140058132496.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/mali_sneznik/14119" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/14119');"><img class="slikagm" alt="Mali Snežnik" src="//www.hribi.net/slike1/DSCN6655672000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_golak/6848" onclick="event.preventDefault(); window.open('/slika_gora/mali_golak/6848');"><img class="slikagm" alt="Mali Golak" src="//slike.hribi.net/sliketemp/Golaki%201015724503.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/mali_sneznik/14125" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/14125');"><img class="slikagm" alt="Mali Snežnik" src="//www.hribi.net/slike1/DSCN67223213000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mali_sneznik/14126" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/14126');"><img class="slikagm" alt="Mali Snežnik" src="//www.hribi.net/slike1/DSCN67193213000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/mali_sneznik/19798" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/19798');"><img class="slikagm" alt="Mali Snežnik" src="//slike.hribi.net/slike4/2_0727656830352_DSCN0148.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/mali_sneznik/19799" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/19799');"><img class="slikagm" alt="Mali Snežnik" src="//slike.hribi.net/slike4/2_0994658075147_DSCN0161.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/mali_sneznik/19800" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/19800');"><img class="slikagm" alt="Mali Snežnik" src="//slike.hribi.net/slike4/2_1306656830556_DSCN0194.JPG" /></a>
+        <a target="_blank" href="/slika_gora/mali_golak/7509" onclick="event.preventDefault(); window.open('/slika_gora/mali_golak/7509');"><img class="slikagm" alt="Mali Golak" src="//www.hribi.net/slike1/MaliGolak 126153120.th.jpg" /></a>
     
 </div>
 
@@ -924,7 +919,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=556&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=511&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -934,13 +929,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/snezniska_grda_jama_mali_sneznik/26/556/954">Snežniška Grda jama - Mali Snežnik</a></td><td class="tdG"><a href="/izlet/snezniska_grda_jama_mali_sneznik/26/556/954">1 h</a></td><td class="tdG"><a href="/izlet/snezniska_grda_jama_mali_sneznik/26/556/954">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/predmeja_mali_golak/26/511/869">Predmeja - Mali Golak</a></td><td class="tdG"><a href="/izlet/predmeja_mali_golak/26/511/869">2 h</a></td><td class="tdG"><a href="/izlet/predmeja_mali_golak/26/511/869">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sviscaki_mali_sneznik/26/556/5680"> Sviščaki - Mali Snežnik</a></td><td class="tdG"><a href="/izlet/sviscaki_mali_sneznik/26/556/5680">1 h 50 min</a></td><td class="tdG"><a href="/izlet/sviscaki_mali_sneznik/26/556/5680">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/mala_lazna_mali_golak/26/511/2839">Mala Lazna - Mali Golak</a></td><td class="tdG"><a href="/izlet/mala_lazna_mali_golak/26/511/2839">1 h 25 min</a></td><td class="tdG"><a href="/izlet/mala_lazna_mali_golak/26/511/2839">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/grda_draga_mali_sneznik/26/556/5679">Grda draga - Mali Snežnik</a></td><td class="tdG"><a href="/izlet/grda_draga_mali_sneznik/26/556/5679">1 h 30 min</a></td><td class="tdG"><a href="/izlet/grda_draga_mali_sneznik/26/556/5679">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/preval_strgarija_mali_golak/26/511/3067">Preval Strgarija - Mali Golak</a></td><td class="tdG"><a href="/izlet/preval_strgarija_mali_golak/26/511/3067"> 45 min</a></td><td class="tdG"><a href="/izlet/preval_strgarija_mali_golak/26/511/3067">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/masun_mali_sneznik/26/556/7931">Mašun - Mali Snežnik</a></td><td class="tdG"><a href="/izlet/masun_mali_sneznik/26/556/7931">3 h 35 min</a></td><td class="tdG"><a href="/izlet/masun_mali_sneznik/26/556/7931">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kozarnice_mali_golak/26/511/3065">Kozarnice - Mali Golak</a></td><td class="tdG"><a href="/izlet/kozarnice_mali_golak/26/511/3065">1 h 5 min</a></td><td class="tdG"><a href="/izlet/kozarnice_mali_golak/26/511/3065">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/skrbina_mali_golak/26/511/2845">Škrbina - Mali Golak</a></td><td class="tdG"><a href="/izlet/skrbina_mali_golak/26/511/2845">2 h</a></td><td class="tdG"><a href="/izlet/skrbina_mali_golak/26/511/2845">lahka označena pot</a></td></tr>
 
 </table>
 

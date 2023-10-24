@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča na Pesku</title>
-        <meta name="description" content="Natančen opis koče Koča na Pesku in vseh pristopov na Koča na Pesku. Koča na Pesku je planinska postojanka, ki se nahaja ob robu večje jase, le ta pa." />
+        <title>Vrelenk</title>
+        <meta name="description" content="Natančen opis gore Vrelenk in vseh pristopov na Vrelenk. Vrelenk je večja jasa, ki se nahaja jugovzhodno od Fokovega kogla ter jugozahodn." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./513?gorovjeid=4&amp;id=513" id="form1">
+    <form method="post" action="./3630?gorovjeid=4&amp;id=3630" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_pesku/4/513"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=513"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrelenk/4/3630"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3630"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Koča na Pesku
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Vrelenk
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(513);
+    gorast(3630);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča na Pesku</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Vrelenk</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 1386&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1170&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;28,0320'N&nbsp;/&nbsp;15°&nbsp;20,6370'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,9282'N&nbsp;/&nbsp;15°&nbsp;19,6644'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;28'&nbsp;1,92''N&nbsp;/&nbsp;15°&nbsp;20'&nbsp;38,22''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;55,69''N&nbsp;/&nbsp;15°&nbsp;19'&nbsp;39,86''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.4672°N&nbsp;/&nbsp;15.34395°E";
+                        document.getElementById("kf0").innerHTML = "46.51547°N&nbsp;/&nbsp;15.32774°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,4672°N,&nbsp;15,34395°E";
+                    document.getElementById("kf0").innerHTML = "46,51547°N,&nbsp;15,32774°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4672°N&nbsp;15,34395°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_pesku/513"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,51547°N&nbsp;15,32774°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrelenk/3630"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrelenk - Torek" href="/vreme_gora/vrelenk/4/3630#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrelenk - Sreda" href="/vreme_gora/vrelenk/4/3630#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrelenk - Četrtek" href="/vreme_gora/vrelenk/4/3630#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Pesku - Petek" href="/vreme_gora/koca_na_pesku/4/513#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Vrelenk - Petek" href="/vreme_gora/vrelenk/4/3630#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Pesku - Sobota" href="/vreme_gora/koca_na_pesku/4/513#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Pesku - Nedelja" href="/vreme_gora/koca_na_pesku/4/513#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Pesku - Ponedeljek" href="/vreme_gora/koca_na_pesku/4/513#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Pesku - Torek" href="/vreme_gora/koca_na_pesku/4/513#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Vrelenk - Sobota" href="/vreme_gora/vrelenk/4/3630#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 529.092</div>
-<div class="g2"><b>Priljubljenost:</b> 92%&nbsp;(260.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 166</div>
+<div class="g2"><b>Priljubljenost:</b> 8%&nbsp;(3009.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=513" title="Število vpisov v vpisni knjigi">15</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Koča na Pesku je planinska postojanka, ki se nahaja ob robu večje jase, le ta pa pod vrhovoma Pesek in Rogla. Ker jaso obdaja gozd, od koče ni lepšega razgleda. Le nekaj korakov stran od koče pa se nahaja še urejen izvir Oplotnice.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Vrelenk je večja jasa, ki se nahaja jugovzhodno od Fokovega kogla ter jugozahodno od Lovrenca na Pohorju. Na Vrelenku se nahaja tudi Urbančeva lovska koča, pod katero se nahaja manjša mlaka.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=513&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3630&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/cerkev_jezusove_spremenitve_na_gori_rogla/4/3852">Cerkev Jezusove spremenitve na gori (Rogla) (1474m)</a>, <a class="moder" href="/gora/izvir_dravinje/4/3851">Izvir Dravinje (1460m)</a>, <a class="moder" href="/gora/koca_na_jurgovem/4/3850">Koča na Jurgovem (1430m)</a>, <a class="moder" href="/gora/lasina/4/3467">Lasina (1412m)</a>, <a class="moder" href="/gora/ostruscica/4/2740">Ostruščica (1498m)</a>, <a class="moder" href="/gora/pesek/4/3468">Pesek (1423m)</a>, <a class="moder" href="/gora/rogla/4/512">Rogla (1517m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,35 +835,28 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/spodnje_stranice/4444">Spodnje Stranice</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>
+<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/radlje_ob_dravi/4445">Radlje ob Dravi</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornja_kapla/2314">Zgornja Kapla</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_pesku%2f4%2f513"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_pesku%2f4%2f513"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_pesku%2f4%2f513"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrelenk%2f4%2f3630"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrelenk%2f4%2f3630"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrelenk%2f4%2f3630"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koca_na_pesku/513" title="Koča na Pesku 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.kocanapesku.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_na_pesku/1437" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_pesku/1437');"><img class="slikagm" alt="Koča na Pesku" src="//www.hribi.net/slike1/P115004624640.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrelenk/21598" onclick="event.preventDefault(); window.open('/slika_gora/vrelenk/21598');"><img class="slikagm" alt="Vrelenk" src="//slike2.hribi.net/slike14/2_0929723717585_0dscn3064.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_pesku/1438" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_pesku/1438');"><img class="slikagm" alt="Koča na Pesku" src="//www.hribi.net/slike1/P115004823100.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrelenk/21599" onclick="event.preventDefault(); window.open('/slika_gora/vrelenk/21599');"><img class="slikagm" alt="Vrelenk" src="//slike2.hribi.net/slike14/2_0191723717599_0dscn3067.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_pesku/9859" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_pesku/9859');"><img class="slikagm" alt="Koča na Pesku" src="//www.hribi.net/slike1/Pohorje12 464338688.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrelenk/21600" onclick="event.preventDefault(); window.open('/slika_gora/vrelenk/21600');"><img class="slikagm" alt="Vrelenk" src="//slike2.hribi.net/slike14/2_3502724761541_1dscn3059.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_pesku/9860" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_pesku/9860');"><img class="slikagm" alt="Koča na Pesku" src="//www.hribi.net/slike1/Pohorje12 471338688.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrelenk/21601" onclick="event.preventDefault(); window.open('/slika_gora/vrelenk/21601');"><img class="slikagm" alt="Vrelenk" src="//slike2.hribi.net/slike14/2_0896724765439_1dscn3060.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_pesku/9861" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_pesku/9861');"><img class="slikagm" alt="Koča na Pesku" src="//www.hribi.net/slike1/Pohorje12 474338688.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrelenk/21602" onclick="event.preventDefault(); window.open('/slika_gora/vrelenk/21602');"><img class="slikagm" alt="Vrelenk" src="//slike2.hribi.net/slike14/2_1715724765440_2dscn3061.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_pesku/20629" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_pesku/20629');"><img class="slikagm" alt="Koča na Pesku" src="//slike2.hribi.net/slike14/2_1589693133453_1dscn9609.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_pesku/20630" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_pesku/20630');"><img class="slikagm" alt="Koča na Pesku" src="//slike2.hribi.net/slike14/2_021693133453_0dscn9607.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_pesku/20631" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_pesku/20631');"><img class="slikagm" alt="Koča na Pesku" src="//slike2.hribi.net/slike14/2_0452693176521_0dscn9602.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrelenk/21603" onclick="event.preventDefault(); window.open('/slika_gora/vrelenk/21603');"><img class="slikagm" alt="Vrelenk" src="//slike2.hribi.net/slike14/2_2284724765441_0dscn3062.jpg" /></a>
     
 </div>
 
@@ -927,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=513&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3630&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,13 +930,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ribniska_koca_koca_na_pesku_mimo_lovrenskih_jezer/4/513/884">Ribniška koča - Koča na Pesku (mimo Lovrenških jezer)</a></td><td class="tdG"><a href="/izlet/ribniska_koca_koca_na_pesku_mimo_lovrenskih_jezer/4/513/884">3 h 25 min</a></td><td class="tdG"><a href="/izlet/ribniska_koca_koca_na_pesku_mimo_lovrenskih_jezer/4/513/884">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rogla_hotel_planja_koca_na_pesku_cez_vrh_rogle/4/513/871">Rogla (Hotel Planja) - Koča na Pesku (čez vrh Rogle)</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_koca_na_pesku_cez_vrh_rogle/4/513/871"> 35 min</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_koca_na_pesku_cez_vrh_rogle/4/513/871">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_na_klopnem_vrhu_koca_na_pesku/4/513/8383">Koča na Klopnem vrhu - Koča na Pesku</a></td><td class="tdG"><a href="/izlet/koca_na_klopnem_vrhu_koca_na_pesku/4/513/8383">2 h 15 min</a></td><td class="tdG"><a href="/izlet/koca_na_klopnem_vrhu_koca_na_pesku/4/513/8383">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_koca_na_pesku/4/513/8361">Lovrenc na Pohorju - Koča na Pesku</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_koca_na_pesku/4/513/8361">4 h</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_koca_na_pesku/4/513/8361">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_pokopalisce_vrelenk/4/3630/8849">Lovrenc na Pohorju (pokopališče) - Vrelenk</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_pokopalisce_vrelenk/4/3630/8849">2 h</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_pokopalisce_vrelenk/4/3630/8849">lahka neoznačena steza</a></td></tr>
 
 </table>
 

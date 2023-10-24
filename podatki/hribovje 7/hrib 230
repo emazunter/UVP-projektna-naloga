@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Veliki Špiček</title>
-        <meta name="description" content="Natančen opis gore Veliki Špiček in vseh pristopov na Veliki Špiček. Veliki Špiček je najvišji vrh Brežiške občine.Z vrha se širi lep razgled proti j." />
+        <title>Sveti Primož (Kremen)</title>
+        <meta name="description" content="Natančen opis gore Sveti Primož (Kremen) in vseh pristopov na Sveti Primož (Kremen). Cerkev sv. Primoža se nahaja nad vasjo Kremen, le ta pa severovzhodno od Krškega." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./977?gorovjeid=25&amp;id=977" id="form1">
+    <form method="post" action="./2428?gorovjeid=25&amp;id=2428" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_spicek/25/977"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=977"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_primoz_kremen/25/2428"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2428"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Veliki Špiček
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Sveti Primož (Kremen)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(977);
+    gorast(2428);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Veliki Špiček</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Primož (Kremen)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 686&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 340&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;1,5168'N&nbsp;/&nbsp;15°&nbsp;38,9604'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;58,140'N&nbsp;/&nbsp;15°&nbsp;30,7620'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;1'&nbsp;31,01''N&nbsp;/&nbsp;15°&nbsp;38'&nbsp;57,62''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;58'&nbsp;8,40''N&nbsp;/&nbsp;15°&nbsp;30'&nbsp;45,72''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.02528°N&nbsp;/&nbsp;15.64934°E";
+                        document.getElementById("kf0").innerHTML = "45.969°N&nbsp;/&nbsp;15.5127°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,02528°N,&nbsp;15,64934°E";
+                    document.getElementById("kf0").innerHTML = "45,969°N,&nbsp;15,5127°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,02528°N&nbsp;15,64934°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_spicek/977"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,969°N&nbsp;15,5127°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_primoz_kremen/2428"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož (Kremen) - Torek" href="/vreme_gora/sveti_primoz_kremen/25/2428#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož (Kremen) - Sreda" href="/vreme_gora/sveti_primoz_kremen/25/2428#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož (Kremen) - Četrtek" href="/vreme_gora/sveti_primoz_kremen/25/2428#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Špiček - Petek" href="/vreme_gora/veliki_spicek/25/977#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož (Kremen) - Petek" href="/vreme_gora/sveti_primoz_kremen/25/2428#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Špiček - Sobota" href="/vreme_gora/veliki_spicek/25/977#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Špiček - Nedelja" href="/vreme_gora/veliki_spicek/25/977#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Špiček - Ponedeljek" href="/vreme_gora/veliki_spicek/25/977#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Špiček - Torek" href="/vreme_gora/veliki_spicek/25/977#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož (Kremen) - Sobota" href="/vreme_gora/sveti_primoz_kremen/25/2428#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 319.244</div>
-<div class="g2"><b>Priljubljenost:</b> 72%&nbsp;(929.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Ogledov:</b> 3.642</div>
+<div class="g2"><b>Priljubljenost:</b> 33%&nbsp;(2216.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=977" title="Število vpisov v vpisni knjigi">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2428" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki Špiček je najvišji vrh Brežiške občine.Z vrha se širi lep razgled proti jugu in proti vzhodu. Večina brežiške občine in pogorje Medvednice je kot na dlani. </div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev sv. Primoža se nahaja nad vasjo Kremen, le ta pa severovzhodno od Krškega. Od cerkve oz. bližnje okolice se odpre lep pogled proti Gorjancem, delu Bizeljskega in Krško gričevje.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=977&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2428&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -835,20 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bizeljska_vas/2069">Bizeljska vas</a>, <a class="moder" href="/spletna_kamera/brezice_he_brezice/3347">Brežice (HE Brežice)</a>, <a class="moder" href="/spletna_kamera/brezice_reka_sava/4271">Brežice (reka Sava)</a>, <a class="moder" href="/spletna_kamera/krsko/3271">Krško</a>, <a class="moder" href="/spletna_kamera/naravni_park_jovsi_brezice/4303">Naravni park Jovsi (Brežice)</a>, <a class="moder" href="/spletna_kamera/podcetrtek/2415">Podčetrtek</a>, <a class="moder" href="/spletna_kamera/poklek_pri_podsredi/4946">Poklek pri Podsredi</a>, <a class="moder" href="/spletna_kamera/senovo/3588">Senovo</a>
+<a class="moder" href="/spletna_kamera/brezice_he_brezice/3347">Brežice (HE Brežice)</a>, <a class="moder" href="/spletna_kamera/brezice_reka_sava/4271">Brežice (reka Sava)</a>, <a class="moder" href="/spletna_kamera/catez_ob_savi/1446">Čatež ob Savi</a>, <a class="moder" href="/spletna_kamera/drnovo/448">Drnovo</a>, <a class="moder" href="/spletna_kamera/koca_na_bohorju/3373">Koča na Bohorju</a>, <a class="moder" href="/spletna_kamera/krska_vas/1444">Krška vas</a>, <a class="moder" href="/spletna_kamera/krsko/3271">Krško</a>, <a class="moder" href="/spletna_kamera/leskovec_pri_krskem/1025">Leskovec pri Krškem</a>, <a class="moder" href="/spletna_kamera/naravni_park_jovsi_brezice/4303">Naravni park Jovsi (Brežice)</a>, <a class="moder" href="/spletna_kamera/poklek_pri_podsredi/4946">Poklek pri Podsredi</a>, <a class="moder" href="/spletna_kamera/prilipe/1447">Prilipe</a>, <a class="moder" href="/spletna_kamera/senovo/3588">Senovo</a>, <a class="moder" href="/spletna_kamera/starine/443">Starine</a>, <a class="moder" href="/spletna_kamera/sveti_vid_sentviska_gora/2047">Sveti Vid (Šentviška gora)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_spicek%2f25%2f977"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_spicek%2f25%2f977"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_spicek%2f25%2f977"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_kremen%2f25%2f2428"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_kremen%2f25%2f2428"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_kremen%2f25%2f2428"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/veliki_spicek/3134" onclick="event.preventDefault(); window.open('/slika_gora/veliki_spicek/3134');"><img class="slikagm" alt="Veliki Špiček" src="//www.hribi.net/sliketemp/IMG_18064506372.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_kremen/13114" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_kremen/13114');"><img class="slikagm" alt="Sveti Primož (Kremen)" src="//www.hribi.net/slike1/DSCN5611414960.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_spicek/3135" onclick="event.preventDefault(); window.open('/slika_gora/veliki_spicek/3135');"><img class="slikagm" alt="Veliki Špiček" src="//www.hribi.net/sliketemp/IMG_18014506374.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_kremen/13115" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_kremen/13115');"><img class="slikagm" alt="Sveti Primož (Kremen)" src="//www.hribi.net/slike1/DSCN5610414960.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_kremen/13116" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_kremen/13116');"><img class="slikagm" alt="Sveti Primož (Kremen)" src="//www.hribi.net/slike1/DSCN5614414960.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_kremen/13117" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_kremen/13117');"><img class="slikagm" alt="Sveti Primož (Kremen)" src="//www.hribi.net/slike1/DSCN5616414960.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_kremen/13118" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_kremen/13118');"><img class="slikagm" alt="Sveti Primož (Kremen)" src="//www.hribi.net/slike1/DSCN5620414960.th.jpg" /></a>
     
 </div>
 
@@ -912,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=977&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2428&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,7 +928,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/marof_pri_pisecah_veliki_spicek/25/977/1655">Marof pri Pišecah - Veliki Špiček</a></td><td class="tdG"><a href="/izlet/marof_pri_pisecah_veliki_spicek/25/977/1655">1 h 10 min</a></td><td class="tdG"><a href="/izlet/marof_pri_pisecah_veliki_spicek/25/977/1655">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/krsko_sveti_primoz_kremen/25/2428/5089">Krško - Sveti Primož (Kremen)</a></td><td class="tdG"><a href="/izlet/krsko_sveti_primoz_kremen/25/2428/5089"> 25 min</a></td><td class="tdG"><a href="/izlet/krsko_sveti_primoz_kremen/25/2428/5089">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Rifugio Corsi</title>
-        <meta name="description" content="Natančen opis koče Rifugio Corsi in vseh pristopov na Rifugio Corsi. Corsi je planinska koča, ki se nahaja v zahodnih Julijcih pod mogočno goro Viš. ." />
+        <title>Zgornje Mangartsko jezero</title>
+        <meta name="description" content="Natančen opis koče Zgornje Mangartsko jezero in vseh pristopov na Zgornje Mangartsko jezero. Zgornje Mangartsko (tudi Belopeško in Klanško, ital. Lago Superiore di Fusine) j." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1042?gorovjeid=1&amp;id=1042" id="form1">
+    <form method="post" action="./430?gorovjeid=1&amp;id=430" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rifugio_corsi/1/1042"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1042"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/the_lake_zgornje_mangartsko_jezero/1/430"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=430"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Rifugio Corsi
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Zgornje Mangartsko jezero
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1042);
+    gorast(430);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Rifugio Corsi</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Zgornje Mangartsko jezero</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1874&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 929&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,3272'N&nbsp;/&nbsp;13°&nbsp;30,0018'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;28,5174'N&nbsp;/&nbsp;13°&nbsp;40,0866'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;19,63''N&nbsp;/&nbsp;13°&nbsp;30'&nbsp;0,11''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;28'&nbsp;31,04''N&nbsp;/&nbsp;13°&nbsp;40'&nbsp;5,20''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.42212°N&nbsp;/&nbsp;13.50003°E";
+                        document.getElementById("kf0").innerHTML = "46.47529°N&nbsp;/&nbsp;13.66811°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,42212°N,&nbsp;13,50003°E";
+                    document.getElementById("kf0").innerHTML = "46,47529°N,&nbsp;13,66811°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,42212°N&nbsp;13,50003°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rifugio_corsi/1042"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,47529°N&nbsp;13,66811°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zgornje_mangartsko_jezero/430"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča</div>
+    <div class="g2"><b>Vrsta:</b> koča, jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Zgornje Mangartsko jezero - Torek" href="/vreme_gora/zgornje_mangartsko_jezero/1/430#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Zgornje Mangartsko jezero - Sreda" href="/vreme_gora/zgornje_mangartsko_jezero/1/430#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Zgornje Mangartsko jezero - Četrtek" href="/vreme_gora/zgornje_mangartsko_jezero/1/430#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Rifugio Corsi - Petek" href="/vreme_gora/rifugio_corsi/1/1042#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Zgornje Mangartsko jezero - Petek" href="/vreme_gora/zgornje_mangartsko_jezero/1/430#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Rifugio Corsi - Sobota" href="/vreme_gora/rifugio_corsi/1/1042#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Rifugio Corsi - Nedelja" href="/vreme_gora/rifugio_corsi/1/1042#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Rifugio Corsi - Ponedeljek" href="/vreme_gora/rifugio_corsi/1/1042#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Rifugio Corsi - Torek" href="/vreme_gora/rifugio_corsi/1/1042#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Zgornje Mangartsko jezero - Sobota" href="/vreme_gora/zgornje_mangartsko_jezero/1/430#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 387.301</div>
-<div class="g2"><b>Priljubljenost:</b> 79%&nbsp;(687.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1042" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 372.362</div>
+<div class="g2"><b>Priljubljenost:</b> 78%&nbsp;(739.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Corsi je planinska koča, ki se nahaja v zahodnih Julijcih pod mogočno goro Viš. Od koče, ki je odprta v poletni sezoni je lep pogled na bližnja ostenja in na vrhove, ki se nahajajo na južni strani Jezerske doline.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Zgornje Mangartsko (tudi Belopeško in Klanško, ital. Lago Superiore di Fusine) jezero se nahaja severno od Mangarta v Mangartski dolini. Od jezera je izjemno lep pogled proti Mangartu in ostalim goram in ostenjem, ki se dvigajo nad zatrepom Mangartske doline. V bližini jezera se nahaja tudi veliko parkirišče, ob njem pa gostinski lokal.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1042&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=430&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_gorizia/1/1043">Bivak Gorizia (1950m)</a>, <a class="moder" href="/gora/kostrunove_spice/1/1282">Koštrunove špice (2502m)</a>, <a class="moder" href="/gora/spik_nad_planjo___punta_plagnis/1/1629">Špik nad Planjo / Punta Plagnis (2411m)</a>, <a class="moder" href="/gora/vis_jof_fuart/1/1041">Viš/Jof Fuart (2666m)</a>, <a class="moder" href="/gora/viska_planina/1/1283">Viška planina (1530m)</a>, <a class="moder" href="/gora/visoka_bela_spica___cima_alta_di_riobianco/1/2820">Visoka Bela Špica / Cima Alta di Riobianco (2257m)</a>, <a class="moder" href="/gora/vrh_krnega_dola___monte_cregnedul/1/1634">Vrh Krnega dola / Monte Cregnedul (2351m)</a>
+<a class="moder" href="/gora/crni_vrh___colrotondo/1/3025">Črni vrh / Colrotondo (1486m)</a>, <a class="moder" href="/gora/jezerska_planina___alpe_del_lago/1/3024">Jezerska planina / Alpe del Lago (1006m)</a>, <a class="moder" href="/gora/spodnje_mangartsko_jezero/1/2516">Spodnje Mangartsko jezero (924m)</a>, <a class="moder" href="/gora/zavetisce_pod_ponco/1/1047">Zavetišče pod Ponco (1657m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,29 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kanin/3">Kanin</a>, <a class="moder" href="/spletna_kamera/kanin_graben/4412">Kanin (Graben)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/montaz___jof_di_montasio/22">Montaž / Jôf di Montasio</a>, <a class="moder" href="/spletna_kamera/nevejski_preval_-_na_zlebeh___sella_nevea/1977">Nevejski preval - Na Žlebeh / Sella Nevea</a>, <a class="moder" href="/spletna_kamera/ovcja_vas___valbruna/1364">Ovčja vas / Valbruna</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/prevala/1361">Prevala</a>, <a class="moder" href="/spletna_kamera/rifugio_gilberti/4020">Rifugio Gilberti</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/ucja/1679">Učja</a>, <a class="moder" href="/spletna_kamera/veliki_babanski_skedenj/1464">Veliki Babanski skedenj</a>, <a class="moder" href="/spletna_kamera/zabnice___camporosso_in_valcanale/1975">Žabnice / Camporosso in Valcanale</a>, <a class="moder" href="/spletna_kamera/zahomec___monte_acomizza___schonwipfel/1840">Zahomec / Monte Acomizza / Schönwipfel</a>
+<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/dobrac_dobratsch/170">Dobrač/Dobratsch</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/ovcja_vas___valbruna/1364">Ovčja vas / Valbruna</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/zabnice___camporosso_in_valcanale/1975">Žabnice / Camporosso in Valcanale</a>, <a class="moder" href="/spletna_kamera/zahomec___monte_acomizza___schonwipfel/1840">Zahomec / Monte Acomizza / Schönwipfel</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frifugio_corsi%2f1%2f1042"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frifugio_corsi%2f1%2f1042"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frifugio_corsi%2f1%2f1042"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzgornje_mangartsko_jezero%2f1%2f430"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzgornje_mangartsko_jezero%2f1%2f430"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzgornje_mangartsko_jezero%2f1%2f430"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/rifugio_corsi/1042" title="Rifugio Corsi 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.RifCorsi.jpg" /></a></div>
+<div><a href="/panorama/360/zgornje_mangartsko_jezero/430" title="Zgornje Mangartsko jezero 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.58010033760zgornje_mangartsko_jezero.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/rifugio_corsi/3340" onclick="event.preventDefault(); window.open('/slika_gora/rifugio_corsi/3340');"><img class="slikagm" alt="Rifugio Corsi" src="//www.hribi.net/slike1/P71601604548337.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zgornje_mangartsko_jezero/17803" onclick="event.preventDefault(); window.open('/slika_gora/zgornje_mangartsko_jezero/17803');"><img class="slikagm" alt="Zgornje Mangartsko jezero" src="//slike.hribi.net/slike4/2_0962492428846_DSCN8098.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rifugio_corsi/3341" onclick="event.preventDefault(); window.open('/slika_gora/rifugio_corsi/3341');"><img class="slikagm" alt="Rifugio Corsi" src="//www.hribi.net/sliketemp/P7160127Medium4553262.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zgornje_mangartsko_jezero/17804" onclick="event.preventDefault(); window.open('/slika_gora/zgornje_mangartsko_jezero/17804');"><img class="slikagm" alt="Zgornje Mangartsko jezero" src="//slike.hribi.net/slike4/2_0252600706643_DSCN1220.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rifugio_corsi/3343" onclick="event.preventDefault(); window.open('/slika_gora/rifugio_corsi/3343');"><img class="slikagm" alt="Rifugio Corsi" src="//www.hribi.net/slike1/P71601264548337.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zgornje_mangartsko_jezero/17805" onclick="event.preventDefault(); window.open('/slika_gora/zgornje_mangartsko_jezero/17805');"><img class="slikagm" alt="Zgornje Mangartsko jezero" src="//slike.hribi.net/slike4/2_0283600706606_DSCN1204.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rifugio_corsi/3346" onclick="event.preventDefault(); window.open('/slika_gora/rifugio_corsi/3346');"><img class="slikagm" alt="Rifugio Corsi" src="//www.hribi.net/slike1/P7160175652680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zgornje_mangartsko_jezero/17806" onclick="event.preventDefault(); window.open('/slika_gora/zgornje_mangartsko_jezero/17806');"><img class="slikagm" alt="Zgornje Mangartsko jezero" src="//slike.hribi.net/slike4/2_0246600706573_DSCN1189.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/zgornje_mangartsko_jezero/17807" onclick="event.preventDefault(); window.open('/slika_gora/zgornje_mangartsko_jezero/17807');"><img class="slikagm" alt="Zgornje Mangartsko jezero" src="//slike.hribi.net/slike4/2_1108600706576_DSCN1198.JPG" /></a>
     
 </div>
 
@@ -919,7 +921,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1042&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=430&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,13 +931,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/nevejski_preval_rifugio_corsi/1/1042/1737">Nevejski preval - Rifugio Corsi</a></td><td class="tdG"><a href="/izlet/nevejski_preval_rifugio_corsi/1/1042/1737">2 h 50 min</a></td><td class="tdG"><a href="/izlet/nevejski_preval_rifugio_corsi/1/1042/1737">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/scicchizza_zgornje_mangartsko_jezero/1/430/603">Scicchizza - Zgornje Mangartsko jezero</a></td><td class="tdG"><a href="/izlet/scicchizza_zgornje_mangartsko_jezero/1/430/603"> 20 min</a></td><td class="tdG"><a href="/izlet/scicchizza_zgornje_mangartsko_jezero/1/430/603">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/cave_del_mole_rifugio_corsi/1/1042/2151">Cave del Mole - Rifugio Corsi</a></td><td class="tdG"><a href="/izlet/cave_del_mole_rifugio_corsi/1/1042/2151">2 h 10 min</a></td><td class="tdG"><a href="/izlet/cave_del_mole_rifugio_corsi/1/1042/2151">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/mp_ratece_zgornje_mangartsko_jezero/1/430/5418">MP Rateče - Zgornje Mangartsko jezero</a></td><td class="tdG"><a href="/izlet/mp_ratece_zgornje_mangartsko_jezero/1/430/5418">1 h 5 min</a></td><td class="tdG"><a href="/izlet/mp_ratece_zgornje_mangartsko_jezero/1/430/5418">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/cave_del_mole_rifugio_corsi_sentiero_dei_tedeschi/1/1042/2150">Cave del Mole - Rifugio Corsi (sentiero dei tedeschi)</a></td><td class="tdG"><a href="/izlet/cave_del_mole_rifugio_corsi_sentiero_dei_tedeschi/1/1042/2150">2 h</a></td><td class="tdG"><a href="/izlet/cave_del_mole_rifugio_corsi_sentiero_dei_tedeschi/1/1042/2150">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bele_vode___rio_bianco_rifugio_corsi_cez_krnisko_skrbino/1/1042/7407">Bele vode / Rio Bianco - Rifugio Corsi (čez Krniško škrbino)</a></td><td class="tdG"><a href="/izlet/bele_vode___rio_bianco_rifugio_corsi_cez_krnisko_skrbino/1/1042/7407">4 h</a></td><td class="tdG"><a href="/izlet/bele_vode___rio_bianco_rifugio_corsi_cez_krnisko_skrbino/1/1042/7407">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ahlete___aclete_zgornje_mangartsko_jezero/1/430/7148">Ahlete / Aclete - Zgornje Mangartsko jezero</a></td><td class="tdG"><a href="/izlet/ahlete___aclete_zgornje_mangartsko_jezero/1/430/7148">1 h 5 min</a></td><td class="tdG"><a href="/izlet/ahlete___aclete_zgornje_mangartsko_jezero/1/430/7148">lahka označena pot</a></td></tr>
 
 </table>
 

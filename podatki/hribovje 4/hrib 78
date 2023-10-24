@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Setiče/Freiberg</title>
-        <meta name="description" content="Natančen opis gore Setiče/Freiberg in vseh pristopov na Setiče/Freiberg. Setiče / Freiberg (tudi Z&#39;če oz. Žetiče) je razgledna gora na avstrijski strani ." />
+        <title>Uršlja gora (Plešivec)</title>
+        <meta name="description" content="Natančen opis gore Uršlja gora (Plešivec) in vseh pristopov na Uršlja gora (Plešivec). Uršlja gora ali Plešivec je razgledna gora med Slovenj Gradcem in Črno na Korošk." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./720?gorovjeid=11&amp;id=720" id="form1">
+    <form method="post" action="./592?gorovjeid=11&amp;id=592" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/freiberg_setice/11/720"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=720"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/urslja_gora_plesivec/11/592"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=592"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Setiče/Freiberg
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Uršlja gora (Plešivec)
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(720);
+    gorast(592);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Setiče/Freiberg</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Uršlja gora (Plešivec)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1922&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1699&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,3286'N&nbsp;/&nbsp;14°&nbsp;24,5610'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,1330'N&nbsp;/&nbsp;14°&nbsp;57,6894'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;19,72''N&nbsp;/&nbsp;14°&nbsp;24'&nbsp;33,66''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;7,98''N&nbsp;/&nbsp;14°&nbsp;57'&nbsp;41,36''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.48881°N&nbsp;/&nbsp;14.40935°E";
+                        document.getElementById("kf0").innerHTML = "46.48555°N&nbsp;/&nbsp;14.96149°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,48881°N,&nbsp;14,40935°E";
+                    document.getElementById("kf0").innerHTML = "46,48555°N,&nbsp;14,96149°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,48881°N&nbsp;14,40935°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/setice_freiberg/720"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,48555°N&nbsp;14,96149°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/urslja_gora_plesivec/592"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> vrh, koča, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Uršlja gora (Plešivec) - Torek" href="/vreme_gora/urslja_gora_plesivec/11/592#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Uršlja gora (Plešivec) - Sreda" href="/vreme_gora/urslja_gora_plesivec/11/592#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Uršlja gora (Plešivec) - Četrtek" href="/vreme_gora/urslja_gora_plesivec/11/592#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Setiče/Freiberg - Petek" href="/vreme_gora/setice_freiberg/11/720#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Uršlja gora (Plešivec) - Petek" href="/vreme_gora/urslja_gora_plesivec/11/592#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Setiče/Freiberg - Sobota" href="/vreme_gora/setice_freiberg/11/720#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Setiče/Freiberg - Nedelja" href="/vreme_gora/setice_freiberg/11/720#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Setiče/Freiberg - Ponedeljek" href="/vreme_gora/setice_freiberg/11/720#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Setiče/Freiberg - Torek" href="/vreme_gora/setice_freiberg/11/720#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Uršlja gora (Plešivec) - Sobota" href="/vreme_gora/urslja_gora_plesivec/11/592#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 347.064</div>
-<div class="g2"><b>Priljubljenost:</b> 75%&nbsp;(831.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=720" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 846.063</div>
+<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(31.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">28</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">14</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=592" title="Število vpisov v vpisni knjigi">20</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Setiče / Freiberg (tudi Z'če oz. Žetiče) je razgledna gora na avstrijski strani Karavank. Z vrha na katerem stoji križ je lep razgled proti severnemu ostenju Košute in Kamniškim in Savinjskim Alpam. Ob lepi vidljivosti pa se vidi del Julijskih in Karnijskih Alp in Grossglockner z okolico. Proti vzhodu pa opazimo bližnji Obir in zadaj Peco.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Uršlja gora ali Plešivec je razgledna gora med Slovenj Gradcem in Črno na Koroškem. Na vrhu oziroma malo pod njim stoji cerkev Svete Uršule, ki je najvišje ležeča cerkev v Sloveniji. Na vrhu pa ne stoji samo cerkev ampak tudi prijeten planinski dom pred katerim je večje število klopi in miz. Od doma pa se lahko povzpnemo še na manj kot pet minut oddaljen vrh Uršlje gore na katerem stoji križ in razgledna plošča. Med domom in vrhom pa so postavljeni oddajniki, ki so vidni skoraj z vseh sosednjih vrhov. Uršlja gora je priljubljena izletniška točka tudi med kolesarji saj na vrh pripelje za promet zaprta gozdna cesta.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=720&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=592&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/dom_na_urslji_gori/11/2509">Dom na Uršlji gori (1680m)</a>, <a class="moder" href="/gora/koca_na_naravskih_ledinah/11/1141">Koča na Naravskih ledinah (1072m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,35 +835,83 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/bukovnik/527">Bukovnik</a>, <a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/koca_pod_kremzarjevim_vrhom/2192">Koča pod Kremžarjevim vrhom</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/ravne_na_koroskem/1462">Ravne na Koroškem</a>, <a class="moder" href="/spletna_kamera/slovenj_gradec/1600">Slovenj Gradec</a>, <a class="moder" href="/spletna_kamera/smartno_pri_slovenj_gradcu/2963">Šmartno pri Slovenj Gradcu</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsetice_freiberg%2f11%2f720"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsetice_freiberg%2f11%2f720"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsetice_freiberg%2f11%2f720"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2furslja_gora_plesivec%2f11%2f592"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2furslja_gora_plesivec%2f11%2f592"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2furslja_gora_plesivec%2f11%2f592"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/setice_freiberg/720" title="Setiče/Freiberg 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SeticeFreiberg.jpg" /></a></div>
+<div><a href="/panorama/360/urslja_gora_plesivec/592" title="Uršlja gora (Plešivec) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.UrsljaGora.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/setice_freiberg/2366" onclick="event.preventDefault(); window.open('/slika_gora/setice_freiberg/2366');"><img class="slikagm" alt="Setiče/Freiberg" src="//www.hribi.net/sliketemp/PA1400744157864.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/1783" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/1783');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/P52601143950936.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/setice_freiberg/2367" onclick="event.preventDefault(); window.open('/slika_gora/setice_freiberg/2367');"><img class="slikagm" alt="Setiče/Freiberg" src="//www.hribi.net/sliketemp/PA1401294157869.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/1784" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/1784');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/P5260148267540.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/setice_freiberg/9198" onclick="event.preventDefault(); window.open('/slika_gora/setice_freiberg/9198');"><img class="slikagm" alt="Setiče/Freiberg" src="//www.hribi.net/slike1/PristovskiStorzic 135351384.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/1785" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/1785');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/P526019515120.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/setice_freiberg/10947" onclick="event.preventDefault(); window.open('/slika_gora/setice_freiberg/10947');"><img class="slikagm" alt="Setiče/Freiberg" src="//www.hribi.net/slike1/Mejnik 024654030.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/2525" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/2525');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/PB080337152460.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/setice_freiberg/12721" onclick="event.preventDefault(); window.open('/slika_gora/setice_freiberg/12721');"><img class="slikagm" alt="Setiče/Freiberg" src="//www.hribi.net/slike1/KravjiVrh%20263188496.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/3839" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/3839');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/P11101310.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/3840" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/3840');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/P11101030.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/3841" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/3841');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/P11101070.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/3842" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/3842');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/P11101110.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/3843" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/3843');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/P11101150.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/3847" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/3847');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/sliketemp/P11301624807694.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/7116" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/7116');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/Kosenjak%20151222640.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/7495" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/7495');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/UrsljaGora%20038104104.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/7496" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/7496');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/UrsljaGora%2011434496.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/7497" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/7497');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/UrsljaGora%2012934496.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/7498" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/7498');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/UrsljaGora%2013134496.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/7499" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/7499');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/UrsljaGora%2013945276.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/7500" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/7500');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/UrsljaGora%2014447432.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/10201" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/10201');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/Koroska 089570240.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/10202" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/10202');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/Koroska 088570240.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/10203" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/10203');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/Koroska 076570240.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/10204" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/10204');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/Koroska 071552420.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/10205" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/10205');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/Koroska 069552420.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/12659" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/12659');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/UrsljaGora 200304920.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/12660" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/12660');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//www.hribi.net/slike1/UrsljaGora 193304920.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/12661" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/12661');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//slike.hribi.net/slike4/2_0238457962594_UrsljaGora_203.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/12662" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/12662');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//slike.hribi.net/slike4/2_144457962542_UrsljaGora_185.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/12663" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/12663');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//slike.hribi.net/slike4/2_0763457962539_UrsljaGora_184.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/urslja_gora_plesivec/18321" onclick="event.preventDefault(); window.open('/slika_gora/urslja_gora_plesivec/18321');"><img class="slikagm" alt="Uršlja gora (Plešivec)" src="//slike.hribi.net/slike4/2_0846615041637_DSCN4580.JPG" /></a>
     
 </div>
 
 
 
-
+<div style="padding-top:8px;"><b>Video:</b></div><div>
+        <a target="_blank" href="/video_posnetek/Gorništvo/urslja_gora/3/400"><img class="slikagmv" alt="uršlja gora" src="https://img.youtube.com/vi/hjcNBV84mIo/0.jpg" /></a>
+    </div>
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -921,7 +969,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=720&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=592&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,7 +979,33 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sele___zell-pharre_setice_freiberg/11/720/1293">Sele / Zell-Pharre - Setiče/Freiberg</a></td><td class="tdG"><a href="/izlet/sele___zell-pharre_setice_freiberg/11/720/1293">2 h 30 min</a></td><td class="tdG"><a href="/izlet/sele___zell-pharre_setice_freiberg/11/720/1293">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_na_naravskih_ledinah_urslja_gora_plesivec/11/592/1924">Koča na Naravskih ledinah - Uršlja gora (Plešivec)</a></td><td class="tdG"><a href="/izlet/koca_na_naravskih_ledinah_urslja_gora_plesivec/11/592/1924">1 h 45 min</a></td><td class="tdG"><a href="/izlet/koca_na_naravskih_ledinah_urslja_gora_plesivec/11/592/1924">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/postarski_dom_pod_plesivcem_urslja_gora_plesivec_cez_kozarnico/11/592/1059">Poštarski dom pod Plešivcem - Uršlja gora (Plešivec) (čez Kozarnico)</a></td><td class="tdG"><a href="/izlet/postarski_dom_pod_plesivcem_urslja_gora_plesivec_cez_kozarnico/11/592/1059">2 h 30 min</a></td><td class="tdG"><a href="/izlet/postarski_dom_pod_plesivcem_urslja_gora_plesivec_cez_kozarnico/11/592/1059">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ivarcko_jezero_urslja_gora_plesivec_zelezarska_pot/11/592/2511">Ivarčko jezero - Uršlja gora (Plešivec) (Železarska pot)</a></td><td class="tdG"><a href="/izlet/ivarcko_jezero_urslja_gora_plesivec_zelezarska_pot/11/592/2511">2 h 45 min</a></td><td class="tdG"><a href="/izlet/ivarcko_jezero_urslja_gora_plesivec_zelezarska_pot/11/592/2511">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zapornica_pod_malim_vrhom_urslja_gora_plesivec_po_cesti/11/592/1061">Zapornica pod Malim vrhom - Uršlja gora (Plešivec) (po cesti)</a></td><td class="tdG"><a href="/izlet/zapornica_pod_malim_vrhom_urslja_gora_plesivec_po_cesti/11/592/1061"> 50 min</a></td><td class="tdG"><a href="/izlet/zapornica_pod_malim_vrhom_urslja_gora_plesivec_po_cesti/11/592/1061">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ciganija_urslja_gora_plesivec_zimska_pot/11/592/1923">Ciganija - Uršlja gora (Plešivec) (zimska pot)</a></td><td class="tdG"><a href="/izlet/ciganija_urslja_gora_plesivec_zimska_pot/11/592/1923">2 h 30 min</a></td><td class="tdG"><a href="/izlet/ciganija_urslja_gora_plesivec_zimska_pot/11/592/1923">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/postarski_dom_pod_plesivcem_urslja_gora_plesivec_cez_kal/11/592/1060">Poštarski dom pod Plešivcem - Uršlja gora (Plešivec) (čez Kal)</a></td><td class="tdG"><a href="/izlet/postarski_dom_pod_plesivcem_urslja_gora_plesivec_cez_kal/11/592/1060">2 h 45 min</a></td><td class="tdG"><a href="/izlet/postarski_dom_pod_plesivcem_urslja_gora_plesivec_cez_kal/11/592/1060">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/andrejev_dom_na_slemenu_urslja_gora_plesivec/11/592/4935">Andrejev dom na Slemenu - Uršlja gora (Plešivec)</a></td><td class="tdG"><a href="/izlet/andrejev_dom_na_slemenu_urslja_gora_plesivec/11/592/4935">2 h 45 min</a></td><td class="tdG"><a href="/izlet/andrejev_dom_na_slemenu_urslja_gora_plesivec/11/592/4935">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ivarcko_jezero_urslja_gora_plesivec_grofovska_pot/11/592/3058">Ivarčko jezero - Uršlja gora (Plešivec) (Grofovska pot)</a></td><td class="tdG"><a href="/izlet/ivarcko_jezero_urslja_gora_plesivec_grofovska_pot/11/592/3058">2 h 50 min</a></td><td class="tdG"><a href="/izlet/ivarcko_jezero_urslja_gora_plesivec_grofovska_pot/11/592/3058">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ivarcko_jezero_urslja_gora_plesivec_cez_kozji_hrbet/11/592/3059">Ivarčko jezero - Uršlja gora (Plešivec) (čez Kozji hrbet)</a></td><td class="tdG"><a href="/izlet/ivarcko_jezero_urslja_gora_plesivec_cez_kozji_hrbet/11/592/3059">3 h</a></td><td class="tdG"><a href="/izlet/ivarcko_jezero_urslja_gora_plesivec_cez_kozji_hrbet/11/592/3059">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ciganija_urslja_gora_plesivec/11/592/4118">Ciganija - Uršlja gora (Plešivec)</a></td><td class="tdG"><a href="/izlet/ciganija_urslja_gora_plesivec/11/592/4118">2 h 15 min</a></td><td class="tdG"><a href="/izlet/ciganija_urslja_gora_plesivec/11/592/4118">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zerjav_urslja_gora_plesivec/11/592/4938">Žerjav - Uršlja gora (Plešivec)</a></td><td class="tdG"><a href="/izlet/zerjav_urslja_gora_plesivec/11/592/4938">3 h 15 min</a></td><td class="tdG"><a href="/izlet/zerjav_urslja_gora_plesivec/11/592/4938">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/mezica_urslja_gora_plesivec_mimo_sv_lenarta_in_koce_na_naravskih_ledinah/11/592/6366">Mežica - Uršlja gora (Plešivec) (mimo sv. Lenarta in Koče na Naravskih ledinah)</a></td><td class="tdG"><a href="/izlet/mezica_urslja_gora_plesivec_mimo_sv_lenarta_in_koce_na_naravskih_ledinah/11/592/6366">5 h 30 min</a></td><td class="tdG"><a href="/izlet/mezica_urslja_gora_plesivec_mimo_sv_lenarta_in_koce_na_naravskih_ledinah/11/592/6366">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lese_urslja_gora_plesivec_mimo_koce_na_naravskih_ledinah/11/592/6866">Leše - Uršlja gora (Plešivec) (mimo Koče na Naravskih ledinah)</a></td><td class="tdG"><a href="/izlet/lese_urslja_gora_plesivec_mimo_koce_na_naravskih_ledinah/11/592/6866">4 h 25 min</a></td><td class="tdG"><a href="/izlet/lese_urslja_gora_plesivec_mimo_koce_na_naravskih_ledinah/11/592/6866">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/mezica_urslja_gora_plesivec_mimo_sv_lenarta_in_cez_kozji_hrbet/11/592/6367">Mežica - Uršlja gora (Plešivec) (mimo sv. Lenarta in čez Kozji hrbet)</a></td><td class="tdG"><a href="/izlet/mezica_urslja_gora_plesivec_mimo_sv_lenarta_in_cez_kozji_hrbet/11/592/6367">5 h 15 min</a></td><td class="tdG"><a href="/izlet/mezica_urslja_gora_plesivec_mimo_sv_lenarta_in_cez_kozji_hrbet/11/592/6367">lahka označena pot</a></td></tr>
 
 </table>
 

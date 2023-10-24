@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča pri Sveti Ani na Mali gori</title>
-        <meta name="description" content="Natančen opis koče Koča pri Sveti Ani na Mali gori in vseh pristopov na Koča pri Sveti Ani na Mali gori. Planinska koča pri Sveti Ani se nahaja v bližini istoimenske cerkvice na pobočji." />
+        <title>Dom na Šmohorju</title>
+        <meta name="description" content="Natančen opis gore Dom na Šmohorju in vseh pristopov na Dom na Šmohorju. Dom na Šmohorju se nahaja med Laškim, Libojami in Zabukovico. Od doma, oziroma o." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1171?gorovjeid=25&amp;id=1171" id="form1">
+    <form method="post" action="./860?gorovjeid=25&amp;id=860" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_pri_sveti_ani_on_mala_gora/25/1171"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1171"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_na_smohorju/25/860"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=860"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Koča pri Sveti Ani na Mali gori
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Dom na Šmohorju
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1171);
+    gorast(860);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča pri Sveti Ani na Mali gori</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Dom na Šmohorju</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 910&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 784&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;46,1646'N&nbsp;/&nbsp;14°&nbsp;44,6424'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;10,9074'N&nbsp;/&nbsp;15°&nbsp;11,2182'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;46'&nbsp;9,88''N&nbsp;/&nbsp;14°&nbsp;44'&nbsp;38,54''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;10'&nbsp;54,44''N&nbsp;/&nbsp;15°&nbsp;11'&nbsp;13,09''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.76941°N&nbsp;/&nbsp;14.74404°E";
+                        document.getElementById("kf0").innerHTML = "46.18179°N&nbsp;/&nbsp;15.18697°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,76941°N,&nbsp;14,74404°E";
+                    document.getElementById("kf0").innerHTML = "46,18179°N,&nbsp;15,18697°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,76941°N&nbsp;14,74404°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_pri_sveti_ani_na_mali_gori/1171"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,18179°N&nbsp;15,18697°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_na_smohorju/860"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh, koča, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Šmohorju - Torek" href="/vreme_gora/dom_na_smohorju/25/860#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Šmohorju - Sreda" href="/vreme_gora/dom_na_smohorju/25/860#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Šmohorju - Četrtek" href="/vreme_gora/dom_na_smohorju/25/860#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča pri Sveti Ani na Mali gori - Petek" href="/vreme_gora/koca_pri_sveti_ani_na_mali_gori/25/1171#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Šmohorju - Petek" href="/vreme_gora/dom_na_smohorju/25/860#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča pri Sveti Ani na Mali gori - Sobota" href="/vreme_gora/koca_pri_sveti_ani_na_mali_gori/25/1171#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča pri Sveti Ani na Mali gori - Nedelja" href="/vreme_gora/koca_pri_sveti_ani_na_mali_gori/25/1171#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča pri Sveti Ani na Mali gori - Ponedeljek" href="/vreme_gora/koca_pri_sveti_ani_na_mali_gori/25/1171#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča pri Sveti Ani na Mali gori - Torek" href="/vreme_gora/koca_pri_sveti_ani_na_mali_gori/25/1171#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Šmohorju - Sobota" href="/vreme_gora/dom_na_smohorju/25/860#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 448.384</div>
-<div class="g2"><b>Priljubljenost:</b> 86%&nbsp;(472.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">8</a></div>
+<div class="g2"><b>Ogledov:</b> 528.260</div>
+<div class="g2"><b>Priljubljenost:</b> 92%&nbsp;(264.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1171" title="Število vpisov v vpisni knjigi">7</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=860" title="Število vpisov v vpisni knjigi">11</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinska koča pri Sveti Ani se nahaja v bližini istoimenske cerkvice na pobočjih Male gore nad Ribnico. Od koče oziroma njene bližnje okolice je lep razgled v dolino, kjer se lepo vidi Ribnica in okoliške vasi, ob lepem vremenu pa lahko nad prostranimi gozdovi Velike gore opazimo pogosto zasnežen Snežnik.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Dom na Šmohorju se nahaja med Laškim, Libojami in Zabukovico. Od doma, oziroma od nekaj minut oddaljene cerkve svetega Mohorja, je lep razgled na bližnje vrhove Posavskega hribovja. Proti jugu vidimo Veliko Kozje in Kopitnik, pod njima pa Laško. Na severno stran pa vidimo bližnji Gozdnik in Kotečnik, ter v daljavi Paški Kozjak in del Pohorja, na vzhod in zahod razgled ovira gozd.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1171&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=860&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/stene_svete_ane/25/1172">Stene svete Ane (964m)</a>
+<a class="moder" href="/gora/kamcic/25/3358">Kamčič (525m)</a>, <a class="moder" href="/gora/malic/25/861">Malič (936m)</a>, <a class="moder" href="/gora/tolsto/25/1722">Tolsto (780m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,35 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/gorenje_podpoljane/1449">Gorenje Podpoljane</a>, <a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/male_rebrce/3042">Male Rebrce</a>, <a class="moder" href="/spletna_kamera/ribnica/1981">Ribnica</a>
+<a class="moder" href="/spletna_kamera/celje_krekov_trg/3511">Celje (Krekov trg)</a>, <a class="moder" href="/spletna_kamera/celje_letno_kopalisce/361">Celje (letno kopališče)</a>, <a class="moder" href="/spletna_kamera/celjska_koca/174">Celjska koča</a>, <a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/kum/2952">Kum</a>, <a class="moder" href="/spletna_kamera/lahomsek/309">Lahomšek</a>, <a class="moder" href="/spletna_kamera/lisca/506">Lisca</a>, <a class="moder" href="/spletna_kamera/marno/381">Marno</a>, <a class="moder" href="/spletna_kamera/medlog/1164">Medlog</a>, <a class="moder" href="/spletna_kamera/mrzlica/1360">Mrzlica</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/sentrupert/379">Šentrupert</a>, <a class="moder" href="/spletna_kamera/sveta_planina_partizanski_vrh/3429">Sveta planina (Partizanski vrh)</a>, <a class="moder" href="/spletna_kamera/trbovlje/317">Trbovlje</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_pri_sveti_ani_na_mali_gori%2f25%2f1171"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_pri_sveti_ani_na_mali_gori%2f25%2f1171"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_pri_sveti_ani_na_mali_gori%2f25%2f1171"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_smohorju%2f25%2f860"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_smohorju%2f25%2f860"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_smohorju%2f25%2f860"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koca_pri_sveti_ani_na_mali_gori/1171" title="Koča pri Sveti Ani na Mali gori 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KocaPriSvetiAni.jpg" /></a></div>
+<div><a href="/panorama/360/dom_na_smohorju/860" title="Dom na Šmohorju 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Smohor.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_pri_sveti_ani_na_mali_gori/3943" onclick="event.preventDefault(); window.open('/slika_gora/koca_pri_sveti_ani_na_mali_gori/3943');"><img class="slikagm" alt="Koča pri Sveti Ani na Mali gori" src="//www.hribi.net/slike1/P2150140168480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_smohorju/2819" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/2819');"><img class="slikagm" alt="Dom na Šmohorju" src="//www.hribi.net/slike1/P31600770.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_pri_sveti_ani_na_mali_gori/3944" onclick="event.preventDefault(); window.open('/slika_gora/koca_pri_sveti_ani_na_mali_gori/3944');"><img class="slikagm" alt="Koča pri Sveti Ani na Mali gori" src="//www.hribi.net/slike1/P2150138168480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_smohorju/2820" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/2820');"><img class="slikagm" alt="Dom na Šmohorju" src="//www.hribi.net/slike1/P31600850.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_pri_sveti_ani_na_mali_gori/3945" onclick="event.preventDefault(); window.open('/slika_gora/koca_pri_sveti_ani_na_mali_gori/3945');"><img class="slikagm" alt="Koča pri Sveti Ani na Mali gori" src="//www.hribi.net/slike1/P2150145168480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_smohorju/2821" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/2821');"><img class="slikagm" alt="Dom na Šmohorju" src="//www.hribi.net/slike1/P31600260.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_pri_sveti_ani_na_mali_gori/3946" onclick="event.preventDefault(); window.open('/slika_gora/koca_pri_sveti_ani_na_mali_gori/3946');"><img class="slikagm" alt="Koča pri Sveti Ani na Mali gori" src="//www.hribi.net/slike1/P2150031168480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_smohorju/7647" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/7647');"><img class="slikagm" alt="Dom na Šmohorju" src="//slike.hribi.net/sliketemp/Gozdnik%202605959802.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_pri_sveti_ani_na_mali_gori/10983" onclick="event.preventDefault(); window.open('/slika_gora/koca_pri_sveti_ani_na_mali_gori/10983');"><img class="slikagm" alt="Koča pri Sveti Ani na Mali gori" src="//www.hribi.net/slike1/AnaMalaGora 058628992.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_smohorju/7648" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/7648');"><img class="slikagm" alt="Dom na Šmohorju" src="//www.hribi.net/slike1/Gozdnik 24320790.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_pri_sveti_ani_na_mali_gori/10984" onclick="event.preventDefault(); window.open('/slika_gora/koca_pri_sveti_ani_na_mali_gori/10984');"><img class="slikagm" alt="Koča pri Sveti Ani na Mali gori" src="//www.hribi.net/slike1/AnaMalaGora 062628992.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_pri_sveti_ani_na_mali_gori/10985" onclick="event.preventDefault(); window.open('/slika_gora/koca_pri_sveti_ani_na_mali_gori/10985');"><img class="slikagm" alt="Koča pri Sveti Ani na Mali gori" src="//www.hribi.net/slike1/AnaMalaGora 063628992.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_pri_sveti_ani_na_mali_gori/10986" onclick="event.preventDefault(); window.open('/slika_gora/koca_pri_sveti_ani_na_mali_gori/10986');"><img class="slikagm" alt="Koča pri Sveti Ani na Mali gori" src="//www.hribi.net/slike1/AnaMalaGora 052628992.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_smohorju/7649" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/7649');"><img class="slikagm" alt="Dom na Šmohorju" src="//www.hribi.net/slike1/Gozdnik 22493555.th.jpg" /></a>
     
 </div>
 
@@ -927,7 +923,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1171&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=860&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,21 +933,19 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/seljan_koca_pri_sveti_ani_na_mali_gori_polozna_pot/25/1171/1974">Seljan - Koča pri Sveti Ani na Mali gori (položna pot)</a></td><td class="tdG"><a href="/izlet/seljan_koca_pri_sveti_ani_na_mali_gori_polozna_pot/25/1171/1974"> 45 min</a></td><td class="tdG"><a href="/izlet/seljan_koca_pri_sveti_ani_na_mali_gori_polozna_pot/25/1171/1974">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lasko_dom_na_smohorju/25/860/3128">Laško - Dom na Šmohorju</a></td><td class="tdG"><a href="/izlet/lasko_dom_na_smohorju/25/860/3128">2 h</a></td><td class="tdG"><a href="/izlet/lasko_dom_na_smohorju/25/860/3128">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ribnica_lepovce_koca_pri_sveti_ani_na_mali_gori/25/1171/4407">Ribnica (Lepovče) - Koča pri Sveti Ani na Mali gori</a></td><td class="tdG"><a href="/izlet/ribnica_lepovce_koca_pri_sveti_ani_na_mali_gori/25/1171/4407">1 h 15 min</a></td><td class="tdG"><a href="/izlet/ribnica_lepovce_koca_pri_sveti_ani_na_mali_gori/25/1171/4407">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju/25/860/1519">Liboje - Dom na Šmohorju</a></td><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju/25/860/1519">1 h 15 min</a></td><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju/25/860/1519">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/steljnik_koca_pri_sveti_ani_na_mali_gori/25/1171/1973">Steljnik - Koča pri Sveti Ani na Mali gori</a></td><td class="tdG"><a href="/izlet/steljnik_koca_pri_sveti_ani_na_mali_gori/25/1171/1973">1 h</a></td><td class="tdG"><a href="/izlet/steljnik_koca_pri_sveti_ani_na_mali_gori/25/1171/1973">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zagreben_pri_dikcu_dom_na_smohorju/25/860/1518">Zagreben (pri Dikcu) - Dom na Šmohorju</a></td><td class="tdG"><a href="/izlet/zagreben_pri_dikcu_dom_na_smohorju/25/860/1518"> 45 min</a></td><td class="tdG"><a href="/izlet/zagreben_pri_dikcu_dom_na_smohorju/25/860/1518">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ortnek_koca_pri_sveti_ani_na_mali_gori/25/1171/5278">Ortnek - Koča pri Sveti Ani na Mali gori</a></td><td class="tdG"><a href="/izlet/ortnek_koca_pri_sveti_ani_na_mali_gori/25/1171/5278">2 h 45 min</a></td><td class="tdG"><a href="/izlet/ortnek_koca_pri_sveti_ani_na_mali_gori/25/1171/5278">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnja_recica_dom_na_smohorju_cez_tolsto/25/860/3126">Spodnja Rečica - Dom na Šmohorju (čez Tolsto)</a></td><td class="tdG"><a href="/izlet/spodnja_recica_dom_na_smohorju_cez_tolsto/25/860/3126">1 h 35 min</a></td><td class="tdG"><a href="/izlet/spodnja_recica_dom_na_smohorju_cez_tolsto/25/860/3126">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gornje_retje_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5281">Gornje Retje - Koča pri Sveti Ani na Mali gori (čez Grmado)</a></td><td class="tdG"><a href="/izlet/gornje_retje_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5281">4 h 15 min</a></td><td class="tdG"><a href="/izlet/gornje_retje_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5281">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju/25/860/4823">Tremerje - Dom na Šmohorju</a></td><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju/25/860/4823">2 h</a></td><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju/25/860/4823">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podgora_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5284">Podgora - Koča pri Sveti Ani na Mali gori (čez Grmado)</a></td><td class="tdG"><a href="/izlet/podgora_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5284">3 h 55 min</a></td><td class="tdG"><a href="/izlet/podgora_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5284">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju_mimo_ekoloske_kmetije_kralj/25/860/8053">Liboje - Dom na Šmohorju (mimo ekološke kmetije Kralj)</a></td><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju_mimo_ekoloske_kmetije_kralj/25/860/8053">1 h 30 min</a></td><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju_mimo_ekoloske_kmetije_kralj/25/860/8053">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/podpec_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5286">Podpeč - Koča pri Sveti Ani na Mali gori (čez Grmado)</a></td><td class="tdG"><a href="/izlet/podpec_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5286">4 h 10 min</a></td><td class="tdG"><a href="/izlet/podpec_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5286">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dule_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5283">Dule - Koča pri Sveti Ani na Mali gori (čez Grmado)</a></td><td class="tdG"><a href="/izlet/dule_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5283">4 h 35 min</a></td><td class="tdG"><a href="/izlet/dule_koca_pri_sveti_ani_na_mali_gori_cez_grmado/25/1171/5283">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju_po_grebenu_malega_slomnika/25/860/8051">Tremerje - Dom na Šmohorju (po grebenu Malega Slomnika)</a></td><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju_po_grebenu_malega_slomnika/25/860/8051">1 h 40 min</a></td><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju_po_grebenu_malega_slomnika/25/860/8051">lahka neoznačena steza, lahka označena pot</a></td></tr>
 
 </table>
 

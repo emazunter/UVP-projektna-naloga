@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vrh Ovčje planje</title>
-        <meta name="description" content="Natančen opis gore Vrh Ovčje planje in vseh pristopov na Vrh Ovčje planje. Vrh Ovčje planje je 1965 m visoka gora, ki se strmo dviga južno od doline Bavšic." />
+        <title>Planina Strehica</title>
+        <meta name="description" content="Natančen opis planine Planina Strehica in vseh pristopov na Planina Strehica. Planina Strehica je manj znana planina, ki se nahaja severno od Poldašnje špice.." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1616?gorovjeid=1&amp;id=1616" id="form1">
+    <form method="post" action="./1528?gorovjeid=1&amp;id=1528" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrh_ovcje_planje/1/1616"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1616"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_strehica/1/1528"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1528"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Vrh Ovčje planje
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Planina Strehica
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1616);
+    gorast(1528);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vrh Ovčje planje</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planina Strehica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1965&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1359&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,2718'N&nbsp;/&nbsp;13°&nbsp;38,4624'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,2560'N&nbsp;/&nbsp;13°&nbsp;27,3120'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;16,31''N&nbsp;/&nbsp;13°&nbsp;38'&nbsp;27,74''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;15,36''N&nbsp;/&nbsp;13°&nbsp;27'&nbsp;18,72''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.35453°N&nbsp;/&nbsp;13.64104°E";
+                        document.getElementById("kf0").innerHTML = "46.4876°N&nbsp;/&nbsp;13.4552°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,35453°N,&nbsp;13,64104°E";
+                    document.getElementById("kf0").innerHTML = "46,4876°N,&nbsp;13,4552°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35453°N&nbsp;13,64104°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrh_ovcje_planje/1616"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4876°N&nbsp;13,4552°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_strehica/1528"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Strehica - Torek" href="/vreme_gora/planina_strehica/1/1528#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Strehica - Sreda" href="/vreme_gora/planina_strehica/1/1528#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Strehica - Četrtek" href="/vreme_gora/planina_strehica/1/1528#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Ovčje planje - Petek" href="/vreme_gora/vrh_ovcje_planje/1/1616#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Strehica - Petek" href="/vreme_gora/planina_strehica/1/1528#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_1_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Ovčje planje - Sobota" href="/vreme_gora/vrh_ovcje_planje/1/1616#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Ovčje planje - Nedelja" href="/vreme_gora/vrh_ovcje_planje/1/1616#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Ovčje planje - Ponedeljek" href="/vreme_gora/vrh_ovcje_planje/1/1616#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Ovčje planje - Torek" href="/vreme_gora/vrh_ovcje_planje/1/1616#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Strehica - Sobota" href="/vreme_gora/planina_strehica/1/1528#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 259.562</div>
-<div class="g2"><b>Priljubljenost:</b> 65%&nbsp;(1157.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 157.746</div>
+<div class="g2"><b>Priljubljenost:</b> 53%&nbsp;(1551.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Vrh Ovčje planje je 1965 m visoka gora, ki se strmo dviga južno od doline Bavšice. S travnatega vrha, na katerem stoji manjši možic, se nam odpre lep razgled na greben med Svinjakom in Bavškim Grintavcem ter ostalim okoliškim vrhovom.</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Strehica je manj znana planina, ki se nahaja severno od Poldašnje špice. S planine, na kateri stoji nekaj koč, se nam odpre lep razgled na del Karnijskih Alp in skupino Neborjetskih gora.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1616&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1528&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/mladinski_izobrazevalni_center_v_bavsici/1/230">Mladinski izobraževalni center v Bavšici (725m)</a>, <a class="moder" href="/gora/planina_nad_soco/1/1618">Planina nad Sočo (1400m)</a>, <a class="moder" href="/gora/pri_banderi/1/1615">Pri Banderi (1974m)</a>, <a class="moder" href="/gora/velika_korita_soce/1/427">Velika korita Soče (480m)</a>, <a class="moder" href="/gora/vrh_leh/1/1614">Vrh Leh (1958m)</a>
+<a class="moder" href="/gora/planina_ravna/1/1527">Planina Ravna (1515m)</a>, <a class="moder" href="/gora/poldasnja_spica_jof_di_miezegnot/1/657">Poldašnja špica/Jof di Miezegnot (2087m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,33 +835,37 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kanin/3">Kanin</a>, <a class="moder" href="/spletna_kamera/kanin_graben/4412">Kanin (Graben)</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/nevejski_preval_-_na_zlebeh___sella_nevea/1977">Nevejski preval - Na Žlebeh / Sella Nevea</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/prevala/1361">Prevala</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/rifugio_gilberti/4020">Rifugio Gilberti</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/veliki_babanski_skedenj/1464">Veliki Babanski skedenj</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/gartnerkofel/73">Gartnerkofel</a>, <a class="moder" href="/spletna_kamera/kanin/3">Kanin</a>, <a class="moder" href="/spletna_kamera/kanin_graben/4412">Kanin (Graben)</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/montaz___jof_di_montasio/22">Montaž / Jôf di Montasio</a>, <a class="moder" href="/spletna_kamera/nevejski_preval_-_na_zlebeh___sella_nevea/1977">Nevejski preval - Na Žlebeh / Sella Nevea</a>, <a class="moder" href="/spletna_kamera/ovcja_vas___valbruna/1364">Ovčja vas / Valbruna</a>, <a class="moder" href="/spletna_kamera/pietratagliata/1966">Pietratagliata</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/prevala/1361">Prevala</a>, <a class="moder" href="/spletna_kamera/rifugio_gilberti/4020">Rifugio Gilberti</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/zabnice___camporosso_in_valcanale/1975">Žabnice / Camporosso in Valcanale</a>, <a class="moder" href="/spletna_kamera/zahomec___monte_acomizza___schonwipfel/1840">Zahomec / Monte Acomizza / Schönwipfel</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_ovcje_planje%2f1%2f1616"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_ovcje_planje%2f1%2f1616"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_ovcje_planje%2f1%2f1616"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_strehica%2f1%2f1528"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_strehica%2f1%2f1528"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_strehica%2f1%2f1528"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vrh_ovcje_planje/1616" title="Vrh Ovčje planje 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VrhOvcjePlanje.jpg" /></a></div>
+<div><a href="/panorama/360/planina_strehica/1528" title="Planina Strehica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninaStrehica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vrh_ovcje_planje/6760" onclick="event.preventDefault(); window.open('/slika_gora/vrh_ovcje_planje/6760');"><img class="slikagm" alt="Vrh Ovčje planje" src="//www.hribi.net/slike1/grintavec 167310500.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_strehica/6214" onclick="event.preventDefault(); window.open('/slika_gora/planina_strehica/6214');"><img class="slikagm" alt="Planina Strehica" src="//www.hribi.net/slike1/P7140313189000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_ovcje_planje/6762" onclick="event.preventDefault(); window.open('/slika_gora/vrh_ovcje_planje/6762');"><img class="slikagm" alt="Vrh Ovčje planje" src="//www.hribi.net/slike1/grintavec 172310500.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_strehica/6215" onclick="event.preventDefault(); window.open('/slika_gora/planina_strehica/6215');"><img class="slikagm" alt="Planina Strehica" src="//www.hribi.net/slike1/P7140347189000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_ovcje_planje/6763" onclick="event.preventDefault(); window.open('/slika_gora/vrh_ovcje_planje/6763');"><img class="slikagm" alt="Vrh Ovčje planje" src="//www.hribi.net/slike1/grintavec 174310500.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_strehica/6216" onclick="event.preventDefault(); window.open('/slika_gora/planina_strehica/6216');"><img class="slikagm" alt="Planina Strehica" src="//www.hribi.net/slike1/P7140354189000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_ovcje_planje/6765" onclick="event.preventDefault(); window.open('/slika_gora/vrh_ovcje_planje/6765');"><img class="slikagm" alt="Vrh Ovčje planje" src="//www.hribi.net/slike1/grintavec 226310500.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_strehica/22581" onclick="event.preventDefault(); window.open('/slika_gora/planina_strehica/22581');"><img class="slikagm" alt="Planina Strehica" src="//slike2.hribi.net/slike14/2_27153752622750_16p1240014.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_ovcje_planje/6768" onclick="event.preventDefault(); window.open('/slika_gora/vrh_ovcje_planje/6768');"><img class="slikagm" alt="Vrh Ovčje planje" src="//www.hribi.net/slike1/grintavec 246310500.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_strehica/22582" onclick="event.preventDefault(); window.open('/slika_gora/planina_strehica/22582');"><img class="slikagm" alt="Planina Strehica" src="//slike2.hribi.net/slike14/2_28564752622751_26p1240023.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_ovcje_planje/6772" onclick="event.preventDefault(); window.open('/slika_gora/vrh_ovcje_planje/6772');"><img class="slikagm" alt="Vrh Ovčje planje" src="//www.hribi.net/slike1/grintavec 1745702111.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_strehica/22583" onclick="event.preventDefault(); window.open('/slika_gora/planina_strehica/22583');"><img class="slikagm" alt="Planina Strehica" src="//slike2.hribi.net/slike14/2_29975752622751_24p1240027.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_ovcje_planje/6773" onclick="event.preventDefault(); window.open('/slika_gora/vrh_ovcje_planje/6773');"><img class="slikagm" alt="Vrh Ovčje planje" src="//www.hribi.net/slike1/grintavec 1755702111.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_strehica/22584" onclick="event.preventDefault(); window.open('/slika_gora/planina_strehica/22584');"><img class="slikagm" alt="Planina Strehica" src="//slike2.hribi.net/slike14/2_0398752623432_1p1240016.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_strehica/22585" onclick="event.preventDefault(); window.open('/slika_gora/planina_strehica/22585');"><img class="slikagm" alt="Planina Strehica" src="//slike2.hribi.net/slike14/2_1774752623432_2p1240020.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_strehica/22586" onclick="event.preventDefault(); window.open('/slika_gora/planina_strehica/22586');"><img class="slikagm" alt="Planina Strehica" src="//slike2.hribi.net/slike14/2_2381752623432_0p1240035.jpg" /></a>
     
 </div>
 
@@ -925,7 +929,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1616&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1528&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,7 +939,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/soca_vrh_ovcje_planje/1/1616/2842">Soča - Vrh Ovčje planje</a></td><td class="tdG"><a href="/izlet/soca_vrh_ovcje_planje/1/1616/2842">3 h 50 min</a></td><td class="tdG"><a href="/izlet/soca_vrh_ovcje_planje/1/1616/2842">lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ovcja_vas___valbruna_planina_strehica/1/1528/2649">Ovčja vas / Valbruna - Planina Strehica</a></td><td class="tdG"><a href="/izlet/ovcja_vas___valbruna_planina_strehica/1/1528/2649">2 h</a></td><td class="tdG"><a href="/izlet/ovcja_vas___valbruna_planina_strehica/1/1528/2649">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/naborjet___malborghetto_planina_strehica/1/1528/9337">Naborjet / Malborghetto - Planina Strehica</a></td><td class="tdG"><a href="/izlet/naborjet___malborghetto_planina_strehica/1/1528/9337">2 h</a></td><td class="tdG"><a href="/izlet/naborjet___malborghetto_planina_strehica/1/1528/9337">lahka označena pot</a></td></tr>
 
 </table>
 

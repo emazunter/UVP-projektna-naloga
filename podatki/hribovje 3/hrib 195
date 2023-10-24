@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Smrekovec</title>
-        <meta name="description" content="Natančen opis gore Smrekovec in vseh pristopov na Smrekovec. Smrekovec je gora vulkanskega nastanka na vzhodnem robu Smrekovškega pogorja. Ob." />
+        <title>Ambrož pod Krvavcem</title>
+        <meta name="description" content="Natančen opis koče Ambrož pod Krvavcem in vseh pristopov na Ambrož pod Krvavcem. Ambrož pod Krvavcem je naselje, ki se nahaja ob asfaltni cesti, ki vodi na Krava." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./485?gorovjeid=3&amp;id=485" id="form1">
+    <form method="post" action="./2638?gorovjeid=3&amp;id=2638" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/smrekovec/3/485"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=485"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ambroz_pod_krvavcem/3/2638"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2638"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Smrekovec
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Ambrož pod Krvavcem
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(485);
+    gorast(2638);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Smrekovec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Ambrož pod Krvavcem</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1577&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1085&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,0884'N&nbsp;/&nbsp;14°&nbsp;53,9286'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;16,500'N&nbsp;/&nbsp;14°&nbsp;31,7580'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;5,30''N&nbsp;/&nbsp;14°&nbsp;53'&nbsp;55,72''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;16'&nbsp;30,00''N&nbsp;/&nbsp;14°&nbsp;31'&nbsp;45,48''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.41814°N&nbsp;/&nbsp;14.89881°E";
+                        document.getElementById("kf0").innerHTML = "46.275°N&nbsp;/&nbsp;14.5293°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,41814°N,&nbsp;14,89881°E";
+                    document.getElementById("kf0").innerHTML = "46,275°N,&nbsp;14,5293°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,41814°N&nbsp;14,89881°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/smrekovec/485"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,275°N&nbsp;14,5293°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ambroz_pod_krvavcem/2638"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča, planina, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Ambrož pod Krvavcem - Torek" href="/vreme_gora/ambroz_pod_krvavcem/3/2638#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Ambrož pod Krvavcem - Sreda" href="/vreme_gora/ambroz_pod_krvavcem/3/2638#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Ambrož pod Krvavcem - Četrtek" href="/vreme_gora/ambroz_pod_krvavcem/3/2638#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Smrekovec - Petek" href="/vreme_gora/smrekovec/3/485#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ambrož pod Krvavcem - Petek" href="/vreme_gora/ambroz_pod_krvavcem/3/2638#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Smrekovec - Sobota" href="/vreme_gora/smrekovec/3/485#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Smrekovec - Nedelja" href="/vreme_gora/smrekovec/3/485#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Smrekovec - Ponedeljek" href="/vreme_gora/smrekovec/3/485#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Smrekovec - Torek" href="/vreme_gora/smrekovec/3/485#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ambrož pod Krvavcem - Sobota" href="/vreme_gora/ambroz_pod_krvavcem/3/2638#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 677.365</div>
-<div class="g2"><b>Priljubljenost:</b> 97%&nbsp;(85.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=485" title="Število vpisov v vpisni knjigi">10</a></div>
+<div class="g2"><b>Ogledov:</b> 25.150</div>
+<div class="g2"><b>Priljubljenost:</b> 40%&nbsp;(1985.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2638" title="Število vpisov v vpisni knjigi">4</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Smrekovec je gora vulkanskega nastanka na vzhodnem robu Smrekovškega pogorja. Obsežen travnat vrh, na katerem stoji piramida z vpisno skrinjico in knjigo in ob njej razgledna ploščad, obdaja smrekov gozd. Razgled seže zelo daleč le proti severu ga nekoliko ovira gozd.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Ambrož pod Krvavcem je naselje, ki se nahaja ob asfaltni cesti, ki vodi na Kravavec. Na zgornjem delu naselja se nahaja prijetna turistična kmetija pr Ambružarju, od katere se nam odpre lep razgled proti Gorenjski. V bližini turistične kmetije se nahaja še manjša cerkvica posvečena sv. Ambrožu.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=485&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2638&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dom_na_smrekovcu/3/484">Dom na Smrekovcu (1375m)</a>
+<a class="moder" href="/gora/planina_jezerca/3/2639">Planina Jezerca (1410m)</a>, <a class="moder" href="/gora/prgozdnik/3/3089">Prgozdnik (1013m)</a>, <a class="moder" href="/gora/stiska_vas/3/3258">Stiška vas (725m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,37 +835,38 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/ravne_na_koroskem/1462">Ravne na Koroškem</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsmrekovec%2f3%2f485"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsmrekovec%2f3%2f485"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsmrekovec%2f3%2f485"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fambroz_pod_krvavcem%2f3%2f2638"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fambroz_pod_krvavcem%2f3%2f2638"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fambroz_pod_krvavcem%2f3%2f2638"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/smrekovec/485" title="Smrekovec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.smrekovec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/smrekovec/1278" onclick="event.preventDefault(); window.open('/slika_gora/smrekovec/1278');"><img class="slikagm" alt="Smrekovec" src="//www.hribi.net/Gora/pc030044mediumzt8.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/14654" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/14654');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//slike.hribi.net/slike4/2_0536520245039_DSCN9262.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/smrekovec/1279" onclick="event.preventDefault(); window.open('/slika_gora/smrekovec/1279');"><img class="slikagm" alt="Smrekovec" src="//www.hribi.net/Gora/pc030069mediumok4.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/14655" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/14655');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//slike.hribi.net/slike4/2_1536520245016_DSCN9260.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/smrekovec/1280" onclick="event.preventDefault(); window.open('/slika_gora/smrekovec/1280');"><img class="slikagm" alt="Smrekovec" src="//www.hribi.net/Gora/pc030071mediumzf3.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/14656" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/14656');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//www.hribi.net/slike1/DSCN9258242000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smrekovec/1283" onclick="event.preventDefault(); window.open('/slika_gora/smrekovec/1283');"><img class="slikagm" alt="Smrekovec" src="//www.hribi.net/Gora/pc030115mediumee2.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/14657" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/14657');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//www.hribi.net/slike1/DSCN9270242000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smrekovec/2738" onclick="event.preventDefault(); window.open('/slika_gora/smrekovec/2738');"><img class="slikagm" alt="Smrekovec" src="//www.hribi.net/slike1/P21301114928.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/14658" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/14658');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//www.hribi.net/slike1/DSCN9259242000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smrekovec/9260" onclick="event.preventDefault(); window.open('/slika_gora/smrekovec/9260');"><img class="slikagm" alt="Smrekovec" src="//www.hribi.net/slike1/Smrekovec 06630492.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/14659" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/14659');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//www.hribi.net/slike1/DSCN9253215600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/smrekovec/9261" onclick="event.preventDefault(); window.open('/slika_gora/smrekovec/9261');"><img class="slikagm" alt="Smrekovec" src="//www.hribi.net/slike1/Smrekovec 06730492.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/18276" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/18276');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//slike.hribi.net/slike4/2_2671612451980_DSCN1760.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/smrekovec/14521" onclick="event.preventDefault(); window.open('/slika_gora/smrekovec/14521');"><img class="slikagm" alt="Smrekovec" src="//slike.hribi.net/slike4/2_0587516534731_DSCN6643.JPG" /></a>
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/18277" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/18277');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//slike.hribi.net/slike4/2_1653612175009_DSCN1792.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/smrekovec/14577" onclick="event.preventDefault(); window.open('/slika_gora/smrekovec/14577');"><img class="slikagm" alt="Smrekovec" src="//slike.hribi.net/slike4/2_1921518091731_DSCN7523.JPG" /></a>
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/18278" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/18278');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//slike.hribi.net/slike4/2_0632612175068_DSCN1795.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/18393" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/18393');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//slike.hribi.net/slike4/2_1752616669557_DSCN7182.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/ambroz_pod_krvavcem/18394" onclick="event.preventDefault(); window.open('/slika_gora/ambroz_pod_krvavcem/18394');"><img class="slikagm" alt="Ambrož pod Krvavcem" src="//slike.hribi.net/slike4/2_0445616669617_DSCN7184.JPG" /></a>
     
 </div>
 
@@ -929,7 +930,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=485&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2638&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -939,23 +940,19 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bele_vode_rebrsak_smrekovec/3/485/1466">Bele Vode (Rebršak) - Smrekovec</a></td><td class="tdG"><a href="/izlet/bele_vode_rebrsak_smrekovec/3/485/1466">2 h 5 min</a></td><td class="tdG"><a href="/izlet/bele_vode_rebrsak_smrekovec/3/485/1466">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/senturska_gora_ambroz_pod_krvavcem/3/2638/7390">Šenturška Gora - Ambrož pod Krvavcem</a></td><td class="tdG"><a href="/izlet/senturska_gora_ambroz_pod_krvavcem/3/2638/7390">1 h 20 min</a></td><td class="tdG"><a href="/izlet/senturska_gora_ambroz_pod_krvavcem/3/2638/7390">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_na_smrekovcu_smrekovec/3/485/818">Dom na Smrekovcu - Smrekovec</a></td><td class="tdG"><a href="/izlet/dom_na_smrekovcu_smrekovec/3/485/818"> 30 min</a></td><td class="tdG"><a href="/izlet/dom_na_smrekovcu_smrekovec/3/485/818">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnja_postaja_zicnice_na_krvavec_ambroz_pod_krvavcem_skozi_lukenjski_graben/3/2638/5928">Spodnja postaja žičnice na Krvavec - Ambrož pod Krvavcem (skozi Lukenjski graben)</a></td><td class="tdG"><a href="/izlet/spodnja_postaja_zicnice_na_krvavec_ambroz_pod_krvavcem_skozi_lukenjski_graben/3/2638/5928">1 h 30 min</a></td><td class="tdG"><a href="/izlet/spodnja_postaja_zicnice_na_krvavec_ambroz_pod_krvavcem_skozi_lukenjski_graben/3/2638/5928">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kramarica_smrekovec_cez_bukov_stan/3/485/3572">Kramarica - Smrekovec (čez Bukov stan)</a></td><td class="tdG"><a href="/izlet/kramarica_smrekovec_cez_bukov_stan/3/485/3572">1 h 30 min</a></td><td class="tdG"><a href="/izlet/kramarica_smrekovec_cez_bukov_stan/3/485/3572">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/senturska_gora_ambroz_pod_krvavcem_cez_jagosce/3/2638/7391">Šenturška Gora - Ambrož pod Krvavcem (čez Jagošce)</a></td><td class="tdG"><a href="/izlet/senturska_gora_ambroz_pod_krvavcem_cez_jagosce/3/2638/7391">1 h 30 min</a></td><td class="tdG"><a href="/izlet/senturska_gora_ambroz_pod_krvavcem_cez_jagosce/3/2638/7391">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/andrejev_dom_na_slemenu_smrekovec/3/485/3570">Andrejev dom na Slemenu - Smrekovec</a></td><td class="tdG"><a href="/izlet/andrejev_dom_na_slemenu_smrekovec/3/485/3570">3 h</a></td><td class="tdG"><a href="/izlet/andrejev_dom_na_slemenu_smrekovec/3/485/3570">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/apno_ambroz_pod_krvavcem_cez_prgozdnik/3/2638/7323">Apno - Ambrož pod Krvavcem (čez Prgozdnik)</a></td><td class="tdG"><a href="/izlet/apno_ambroz_pod_krvavcem_cez_prgozdnik/3/2638/7323">1 h 35 min</a></td><td class="tdG"><a href="/izlet/apno_ambroz_pod_krvavcem_cez_prgozdnik/3/2638/7323">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kramarica_smrekovec_po_cesti/3/485/3574">Kramarica - Smrekovec (po cesti)</a></td><td class="tdG"><a href="/izlet/kramarica_smrekovec_po_cesti/3/485/3574">1 h 30 min</a></td><td class="tdG"><a href="/izlet/kramarica_smrekovec_po_cesti/3/485/3574">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/senturska_gora_ambroz_pod_krvavcem_cez_prgozdnik/3/2638/7321">Šenturška Gora - Ambrož pod Krvavcem (čez Prgozdnik)</a></td><td class="tdG"><a href="/izlet/senturska_gora_ambroz_pod_krvavcem_cez_prgozdnik/3/2638/7321">1 h 30 min</a></td><td class="tdG"><a href="/izlet/senturska_gora_ambroz_pod_krvavcem_cez_prgozdnik/3/2638/7321">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubenske_rastke_vrnivsek_smrekovec/3/485/6150">Ljubenske Rastke (Vrnivšek) - Smrekovec</a></td><td class="tdG"><a href="/izlet/ljubenske_rastke_vrnivsek_smrekovec/3/485/6150">2 h</a></td><td class="tdG"><a href="/izlet/ljubenske_rastke_vrnivsek_smrekovec/3/485/6150">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planinski_dom_milana_sinkovca_ambroz_pod_krvavcem/3/2638/7476">Planinski dom Milana Šinkovca - Ambrož pod Krvavcem</a></td><td class="tdG"><a href="/izlet/planinski_dom_milana_sinkovca_ambroz_pod_krvavcem/3/2638/7476">3 h 35 min</a></td><td class="tdG"><a href="/izlet/planinski_dom_milana_sinkovca_ambroz_pod_krvavcem/3/2638/7476">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubenske_rastke_kumprej_smrekovec/3/485/6151">Ljubenske Rastke (Kumprej) - Smrekovec</a></td><td class="tdG"><a href="/izlet/ljubenske_rastke_kumprej_smrekovec/3/485/6151">2 h 10 min</a></td><td class="tdG"><a href="/izlet/ljubenske_rastke_kumprej_smrekovec/3/485/6151">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/izvir_ljubije_smrekovec_preko_leskovskove_pustote/3/485/5886">Izvir Ljubije - Smrekovec (preko Leskovškove pustote)</a></td><td class="tdG"><a href="/izlet/izvir_ljubije_smrekovec_preko_leskovskove_pustote/3/485/5886">2 h 20 min</a></td><td class="tdG"><a href="/izlet/izvir_ljubije_smrekovec_preko_leskovskove_pustote/3/485/5886">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/izvir_ljubije_smrekovec_po_cesti/3/485/5888">Izvir Ljubije - Smrekovec (po cesti)</a></td><td class="tdG"><a href="/izlet/izvir_ljubije_smrekovec_po_cesti/3/485/5888">2 h 30 min</a></td><td class="tdG"><a href="/izlet/izvir_ljubije_smrekovec_po_cesti/3/485/5888">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zalog_pri_cerkljah_ambroz_pod_krvavcem/3/2638/7475">Zalog pri Cerkljah - Ambrož pod Krvavcem</a></td><td class="tdG"><a href="/izlet/zalog_pri_cerkljah_ambroz_pod_krvavcem/3/2638/7475">3 h 20 min</a></td><td class="tdG"><a href="/izlet/zalog_pri_cerkljah_ambroz_pod_krvavcem/3/2638/7475">lahka označena pot</a></td></tr>
 
 </table>
 

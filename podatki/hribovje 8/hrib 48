@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Marija Snežna (Fikšinci)</title>
-        <meta name="description" content="Natančen opis cerkve Marija Snežna (Fikšinci) in vseh pristopov na Marija Snežna (Fikšinci). Cerkev sv. Marije Snežne se nahaja v naselju Fikšinci na Goričkem. Od cerkve oz.." />
+        <title>Slatinski vrelec Nuskova</title>
+        <meta name="description" content="Natančen opis slapa Slatinski vrelec Nuskova in vseh pristopov na Slatinski vrelec Nuskova. Na Goričkem, ob vznožju Belega brega se nahaja slatinski vrelec Nuskova. Po poda." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3539?gorovjeid=163&amp;id=3539" id="form1">
+    <form method="post" action="./3393?gorovjeid=163&amp;id=3393" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/church_of_st_mary_of_the_snows_fiksinci/163/3539"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3539"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mineral_water_spring_nuskova/163/3393"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3393"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Marija Snežna (Fikšinci)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Slatinski vrelec Nuskova
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3539);
+    gorast(3393);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Marija Snežna (Fikšinci)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Slatinski vrelec Nuskova</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a></div>
-    <div class="g2"><b>Višina:</b> 332&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 239&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;47,1912'N&nbsp;/&nbsp;16°&nbsp;0,0954'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;48,6294'N&nbsp;/&nbsp;16°&nbsp;1,5144'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;47'&nbsp;11,47''N&nbsp;/&nbsp;16°&nbsp;0'&nbsp;5,72''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;48'&nbsp;37,76''N&nbsp;/&nbsp;16°&nbsp;1'&nbsp;30,86''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.78652°N&nbsp;/&nbsp;16.00159°E";
+                        document.getElementById("kf0").innerHTML = "46.81049°N&nbsp;/&nbsp;16.02524°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,78652°N,&nbsp;16,00159°E";
+                    document.getElementById("kf0").innerHTML = "46,81049°N,&nbsp;16,02524°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,78652°N&nbsp;16,00159°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/marija_snezna_fiksinci/3539"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,81049°N&nbsp;16,02524°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/slatinski_vrelec_nuskova/3393"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> cerkev</div>
+    <div class="g2"><b>Vrsta:</b> slap</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Slatinski vrelec Nuskova - Torek" href="/vreme_gora/slatinski_vrelec_nuskova/163/3393#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Slatinski vrelec Nuskova - Sreda" href="/vreme_gora/slatinski_vrelec_nuskova/163/3393#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Slatinski vrelec Nuskova - Četrtek" href="/vreme_gora/slatinski_vrelec_nuskova/163/3393#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Marija Snežna (Fikšinci) - Petek" href="/vreme_gora/marija_snezna_fiksinci/163/3539#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Slatinski vrelec Nuskova - Petek" href="/vreme_gora/slatinski_vrelec_nuskova/163/3393#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Marija Snežna (Fikšinci) - Sobota" href="/vreme_gora/marija_snezna_fiksinci/163/3539#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Marija Snežna (Fikšinci) - Nedelja" href="/vreme_gora/marija_snezna_fiksinci/163/3539#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Marija Snežna (Fikšinci) - Ponedeljek" href="/vreme_gora/marija_snezna_fiksinci/163/3539#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Marija Snežna (Fikšinci) - Torek" href="/vreme_gora/marija_snezna_fiksinci/163/3539#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Slatinski vrelec Nuskova - Sobota" href="/vreme_gora/slatinski_vrelec_nuskova/163/3393#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 166</div>
-<div class="g2"><b>Priljubljenost:</b> 8%&nbsp;(3007.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 435</div>
+<div class="g2"><b>Priljubljenost:</b> 15%&nbsp;(2806.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=3393" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev sv. Marije Snežne se nahaja v naselju Fikšinci na Goričkem. Od cerkve oz. bližnje okolice se nam odpre lep pogled na Goričko in delu Avstrije.</div>
+<div style="padding-top:10px;"><b>Opis slapa:</b><br />Na Goričkem, ob vznožju Belega brega se nahaja slatinski vrelec Nuskova. Po podatkih fakultete za kemijo v Ljubljani je to najboljša mineralna voda v Sloveniji.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3539&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3393&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/beli_breg/163/3394">Beli breg (346m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,20 +835,22 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/gederovci/1846">Gederovci</a>, <a class="moder" href="/spletna_kamera/klochberg/2512">Klöchberg</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/lomanose/1069">Lomanoše</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/radgonski_grad/2511">Radgonski grad</a>, <a class="moder" href="/spletna_kamera/sotinski_breg_kugla/2170">Sotinski breg (Kugla)</a>, <a class="moder" href="/spletna_kamera/straden_-_saziani/4884">Straden - Saziani</a>
+<a class="moder" href="/spletna_kamera/gederovci/1846">Gederovci</a>, <a class="moder" href="/spletna_kamera/klochberg/2512">Klöchberg</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/radgonski_grad/2511">Radgonski grad</a>, <a class="moder" href="/spletna_kamera/sotinski_breg_kugla/2170">Sotinski breg (Kugla)</a>, <a class="moder" href="/spletna_kamera/straden_-_saziani/4884">Straden - Saziani</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmarija_snezna_fiksinci%2f163%2f3539"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmarija_snezna_fiksinci%2f163%2f3539"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmarija_snezna_fiksinci%2f163%2f3539"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fslatinski_vrelec_nuskova%2f163%2f3393"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fslatinski_vrelec_nuskova%2f163%2f3393"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fslatinski_vrelec_nuskova%2f163%2f3393"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/marija_snezna_fiksinci/20992" onclick="event.preventDefault(); window.open('/slika_gora/marija_snezna_fiksinci/20992');"><img class="slikagm" alt="Marija Snežna (Fikšinci)" src="//slike2.hribi.net/slike14/2_0937706304004_1dscn7207.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slatinski_vrelec_nuskova/21064" onclick="event.preventDefault(); window.open('/slika_gora/slatinski_vrelec_nuskova/21064');"><img class="slikagm" alt="Slatinski vrelec Nuskova" src="//www.hribi.net/slike15/2_1920674643008_DSCN9661.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/marija_snezna_fiksinci/20997" onclick="event.preventDefault(); window.open('/slika_gora/marija_snezna_fiksinci/20997');"><img class="slikagm" alt="Marija Snežna (Fikšinci)" src="//slike2.hribi.net/slike14/2_1455706813129_0dscn7219.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slatinski_vrelec_nuskova/21065" onclick="event.preventDefault(); window.open('/slika_gora/slatinski_vrelec_nuskova/21065');"><img class="slikagm" alt="Slatinski vrelec Nuskova" src="//www.hribi.net/slike15/2_0227674643057_DSCN9666.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slatinski_vrelec_nuskova/22465" onclick="event.preventDefault(); window.open('/slika_gora/slatinski_vrelec_nuskova/22465');"><img class="slikagm" alt="Slatinski vrelec Nuskova" src="//slike2.hribi.net/slike14/2_21553750590300_1dscn7505.jpg" /></a>
     
 </div>
 
@@ -912,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3539&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3393&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,9 +924,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/nuskova_marija_snezna_fiksinci/163/3539/8569">Nuskova - Marija Snežna (Fikšinci)</a></td><td class="tdG"><a href="/izlet/nuskova_marija_snezna_fiksinci/163/3539/8569">1 h 20 min</a></td><td class="tdG"><a href="/izlet/nuskova_marija_snezna_fiksinci/163/3539/8569">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/nuskova_slatinski_vrelec_nuskova/163/3393/8151">Nuskova - Slatinski vrelec Nuskova</a></td><td class="tdG"><a href="/izlet/nuskova_slatinski_vrelec_nuskova/163/3393/8151"> 5 min</a></td><td class="tdG"><a href="/izlet/nuskova_slatinski_vrelec_nuskova/163/3393/8151">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/pertoca_marija_snezna_fiksinci/163/3539/8571">Pertoča - Marija Snežna (Fikšinci)</a></td><td class="tdG"><a href="/izlet/pertoca_marija_snezna_fiksinci/163/3539/8571">1 h 15 min</a></td><td class="tdG"><a href="/izlet/pertoca_marija_snezna_fiksinci/163/3539/8571">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/slatinski_vrelec_nuskova_slatinski_vrelec_nuskova_pot_cuka_in_puscavnika/163/3393/8670">Slatinski vrelec Nuskova - Slatinski vrelec Nuskova (pot čuka in puščavnika)</a></td><td class="tdG"><a href="/izlet/slatinski_vrelec_nuskova_slatinski_vrelec_nuskova_pot_cuka_in_puscavnika/163/3393/8670">1 h 5 min</a></td><td class="tdG"><a href="/izlet/slatinski_vrelec_nuskova_slatinski_vrelec_nuskova_pot_cuka_in_puscavnika/163/3393/8670">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/sveti_jurij_slatinski_vrelec_nuskova/163/3393/9305">Sveti Jurij - Slatinski vrelec Nuskova</a></td><td class="tdG"><a href="/izlet/sveti_jurij_slatinski_vrelec_nuskova/163/3393/9305"> 30 min</a></td><td class="tdG"><a href="/izlet/sveti_jurij_slatinski_vrelec_nuskova/163/3393/9305">lahka označena pot</a></td></tr>
 
 </table>
 

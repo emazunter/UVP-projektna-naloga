@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Dom na Šmohorju</title>
-        <meta name="description" content="Natančen opis gore Dom na Šmohorju in vseh pristopov na Dom na Šmohorju. Dom na Šmohorju se nahaja med Laškim, Libojami in Zabukovico. Od doma, oziroma o." />
+        <title>Mehovski hrib</title>
+        <meta name="description" content="Natančen opis gore Mehovski hrib in vseh pristopov na Mehovski hrib. Mehovski hrib se nahaja nad vasjo Podgrad, 15 km od Novega mesta na obronkih Gor." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./860?gorovjeid=25&amp;id=860" id="form1">
+    <form method="post" action="./2136?gorovjeid=25&amp;id=2136" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_na_smohorju/25/860"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=860"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mehovski_hrib/25/2136"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2136"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Dom na Šmohorju
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Mehovski hrib
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(860);
+    gorast(2136);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Dom na Šmohorju</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Mehovski hrib</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 784&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 571&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;10,9074'N&nbsp;/&nbsp;15°&nbsp;11,2182'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;44,2818'N&nbsp;/&nbsp;15°&nbsp;12,2328'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;10'&nbsp;54,44''N&nbsp;/&nbsp;15°&nbsp;11'&nbsp;13,09''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;44'&nbsp;16,91''N&nbsp;/&nbsp;15°&nbsp;12'&nbsp;13,97''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.18179°N&nbsp;/&nbsp;15.18697°E";
+                        document.getElementById("kf0").innerHTML = "45.73803°N&nbsp;/&nbsp;15.20388°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,18179°N,&nbsp;15,18697°E";
+                    document.getElementById("kf0").innerHTML = "45,73803°N,&nbsp;15,20388°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,18179°N&nbsp;15,18697°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_na_smohorju/860"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,73803°N&nbsp;15,20388°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mehovski_hrib/2136"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Mehovski hrib - Torek" href="/vreme_gora/mehovski_hrib/25/2136#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Mehovski hrib - Sreda" href="/vreme_gora/mehovski_hrib/25/2136#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Mehovski hrib - Četrtek" href="/vreme_gora/mehovski_hrib/25/2136#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Šmohorju - Petek" href="/vreme_gora/dom_na_smohorju/25/860#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mehovski hrib - Petek" href="/vreme_gora/mehovski_hrib/25/2136#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Šmohorju - Sobota" href="/vreme_gora/dom_na_smohorju/25/860#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Šmohorju - Nedelja" href="/vreme_gora/dom_na_smohorju/25/860#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Šmohorju - Ponedeljek" href="/vreme_gora/dom_na_smohorju/25/860#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Šmohorju - Torek" href="/vreme_gora/dom_na_smohorju/25/860#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mehovski hrib - Sobota" href="/vreme_gora/mehovski_hrib/25/2136#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 528.010</div>
-<div class="g2"><b>Priljubljenost:</b> 92%&nbsp;(264.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
+<div class="g2"><b>Ogledov:</b> 398.652</div>
+<div class="g2"><b>Priljubljenost:</b> 80%&nbsp;(649.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">23</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=860" title="Število vpisov v vpisni knjigi">11</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Dom na Šmohorju se nahaja med Laškim, Libojami in Zabukovico. Od doma, oziroma od nekaj minut oddaljene cerkve svetega Mohorja, je lep razgled na bližnje vrhove Posavskega hribovja. Proti jugu vidimo Veliko Kozje in Kopitnik, pod njima pa Laško. Na severno stran pa vidimo bližnji Gozdnik in Kotečnik, ter v daljavi Paški Kozjak in del Pohorja, na vzhod in zahod razgled ovira gozd.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Mehovski hrib se nahaja nad vasjo Podgrad, 15 km od Novega mesta na obronkih Gorjancev. Včasih je na tem mestu stal grad in sam vrh je na razvalinah le tega. Hrib smo z leti očistili, tako, da je sedaj lep razgled na okolico Novega mesta in Gorjancev.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=860&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2136&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kamcic/25/3358">Kamčič (525m)</a>, <a class="moder" href="/gora/malic/25/861">Malič (936m)</a>, <a class="moder" href="/gora/tolsto/25/1722">Tolsto (780m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,31 +835,62 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/celje_krekov_trg/3511">Celje (Krekov trg)</a>, <a class="moder" href="/spletna_kamera/celje_letno_kopalisce/361">Celje (letno kopališče)</a>, <a class="moder" href="/spletna_kamera/celjska_koca/174">Celjska koča</a>, <a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/kum/2952">Kum</a>, <a class="moder" href="/spletna_kamera/lahomsek/309">Lahomšek</a>, <a class="moder" href="/spletna_kamera/lisca/506">Lisca</a>, <a class="moder" href="/spletna_kamera/marno/381">Marno</a>, <a class="moder" href="/spletna_kamera/medlog/1164">Medlog</a>, <a class="moder" href="/spletna_kamera/mrzlica/1360">Mrzlica</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/sentrupert/379">Šentrupert</a>, <a class="moder" href="/spletna_kamera/sveta_planina_partizanski_vrh/3429">Sveta planina (Partizanski vrh)</a>, <a class="moder" href="/spletna_kamera/trbovlje/317">Trbovlje</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>
+<a class="moder" href="/spletna_kamera/crmosnjice/4124">Črmošnjice</a>, <a class="moder" href="/spletna_kamera/dobovo/445">Dobovo</a>, <a class="moder" href="/spletna_kamera/dom_na_mirni_gori/1766">Dom na Mirni gori</a>, <a class="moder" href="/spletna_kamera/gace/999">Gače</a>, <a class="moder" href="/spletna_kamera/golf_grad_otocec/4930">Golf Grad Otočec</a>, <a class="moder" href="/spletna_kamera/karteljevo/439">Karteljevo</a>, <a class="moder" href="/spletna_kamera/kronovo/447">Kronovo</a>, <a class="moder" href="/spletna_kamera/metlika/453">Metlika</a>, <a class="moder" href="/spletna_kamera/novo_mesto/2205">Novo mesto</a>, <a class="moder" href="/spletna_kamera/planinski_dom_pri_gospodicni/1681">Planinski dom pri Gospodični</a>, <a class="moder" href="/spletna_kamera/sveti_miklavz_gorjanci/2955">Sveti Miklavž (Gorjanci)</a>, <a class="moder" href="/spletna_kamera/tolsti_vrh_pri_sentjerneju/4161">Tolsti Vrh (pri Šentjerneju)</a>, <a class="moder" href="/spletna_kamera/trdinov_vrh_gorjanci/3087">Trdinov vrh (Gorjanci)</a>, <a class="moder" href="/spletna_kamera/vahta/148">Vahta</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_smohorju%2f25%2f860"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_smohorju%2f25%2f860"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_smohorju%2f25%2f860"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmehovski_hrib%2f25%2f2136"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmehovski_hrib%2f25%2f2136"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmehovski_hrib%2f25%2f2136"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/dom_na_smohorju/860" title="Dom na Šmohorju 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Smohor.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/dom_na_smohorju/2819" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/2819');"><img class="slikagm" alt="Dom na Šmohorju" src="//www.hribi.net/slike1/P31600770.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10548" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10548');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika13026907135.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_smohorju/2820" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/2820');"><img class="slikagm" alt="Dom na Šmohorju" src="//www.hribi.net/slike1/P31600850.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10549" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10549');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika13076907136.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_smohorju/2821" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/2821');"><img class="slikagm" alt="Dom na Šmohorju" src="//www.hribi.net/slike1/P31600260.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10550" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10550');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika13086907136.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_smohorju/7647" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/7647');"><img class="slikagm" alt="Dom na Šmohorju" src="//slike.hribi.net/sliketemp/Gozdnik%202605959802.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10551" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10551');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika13156907137.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_smohorju/7648" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/7648');"><img class="slikagm" alt="Dom na Šmohorju" src="//www.hribi.net/slike1/Gozdnik 24320790.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10552" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10552');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika13166907137.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_smohorju/7649" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_smohorju/7649');"><img class="slikagm" alt="Dom na Šmohorju" src="//www.hribi.net/slike1/Gozdnik 22493555.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10554" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10554');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika13206907138.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10556" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10556');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika13266907138.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10557" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10557');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika13276907139.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10558" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10558');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika13676907140.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10559" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10559');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/IMG_89446907141.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10560" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10560');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/IMG_89456907142.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10561" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10561');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika10766907144.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10562" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10562');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika10256907145.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10563" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10563');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika10856907146.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10564" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10564');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika12896907147.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10565" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10565');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika10896907147.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10566" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10566');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika11136907275.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10567" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10567');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika10876907278.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/10568" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/10568');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika10886907279.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/12718" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/12718');"><img class="slikagm" alt="Mehovski hrib" src="//www.hribi.net/slike5/Slika18107661424.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/18792" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/18792');"><img class="slikagm" alt="Mehovski hrib" src="//slike.hribi.net/slike4/2_0304629280503_DSCN7750.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/18793" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/18793');"><img class="slikagm" alt="Mehovski hrib" src="//slike.hribi.net/slike4/2_1637629280506_DSCN7751.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/mehovski_hrib/18794" onclick="event.preventDefault(); window.open('/slika_gora/mehovski_hrib/18794');"><img class="slikagm" alt="Mehovski hrib" src="//slike.hribi.net/slike4/2_1517629280532_DSCN7759.JPG" /></a>
     
 </div>
 
@@ -923,7 +954,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=860&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2136&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -933,19 +964,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lasko_dom_na_smohorju/25/860/3128">Laško - Dom na Šmohorju</a></td><td class="tdG"><a href="/izlet/lasko_dom_na_smohorju/25/860/3128">2 h</a></td><td class="tdG"><a href="/izlet/lasko_dom_na_smohorju/25/860/3128">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/jurna_vas_mehovski_hrib/25/2136/4302">Jurna vas - Mehovski hrib</a></td><td class="tdG"><a href="/izlet/jurna_vas_mehovski_hrib/25/2136/4302"> 45 min</a></td><td class="tdG"><a href="/izlet/jurna_vas_mehovski_hrib/25/2136/4302">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju/25/860/1519">Liboje - Dom na Šmohorju</a></td><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju/25/860/1519">1 h 15 min</a></td><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju/25/860/1519">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podgrad_mehovski_hrib_polozna_pot/25/2136/7536">Podgrad - Mehovski hrib (položna pot)</a></td><td class="tdG"><a href="/izlet/podgrad_mehovski_hrib_polozna_pot/25/2136/7536"> 20 min</a></td><td class="tdG"><a href="/izlet/podgrad_mehovski_hrib_polozna_pot/25/2136/7536">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zagreben_pri_dikcu_dom_na_smohorju/25/860/1518">Zagreben (pri Dikcu) - Dom na Šmohorju</a></td><td class="tdG"><a href="/izlet/zagreben_pri_dikcu_dom_na_smohorju/25/860/1518"> 45 min</a></td><td class="tdG"><a href="/izlet/zagreben_pri_dikcu_dom_na_smohorju/25/860/1518">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podgrad_mehovski_hrib_cez_skalo/25/2136/7538">Podgrad - Mehovski hrib (čez Skalo)</a></td><td class="tdG"><a href="/izlet/podgrad_mehovski_hrib_cez_skalo/25/2136/7538"> 20 min</a></td><td class="tdG"><a href="/izlet/podgrad_mehovski_hrib_cez_skalo/25/2136/7538">zahtevna neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnja_recica_dom_na_smohorju_cez_tolsto/25/860/3126">Spodnja Rečica - Dom na Šmohorju (čez Tolsto)</a></td><td class="tdG"><a href="/izlet/spodnja_recica_dom_na_smohorju_cez_tolsto/25/860/3126">1 h 35 min</a></td><td class="tdG"><a href="/izlet/spodnja_recica_dom_na_smohorju_cez_tolsto/25/860/3126">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/vinja_vas_mehovski_hrib_polozna_pot/25/2136/7534">Vinja vas - Mehovski hrib (položna pot)</a></td><td class="tdG"><a href="/izlet/vinja_vas_mehovski_hrib_polozna_pot/25/2136/7534"> 20 min</a></td><td class="tdG"><a href="/izlet/vinja_vas_mehovski_hrib_polozna_pot/25/2136/7534">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju/25/860/4823">Tremerje - Dom na Šmohorju</a></td><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju/25/860/4823">2 h</a></td><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju/25/860/4823">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju_mimo_ekoloske_kmetije_kralj/25/860/8053">Liboje - Dom na Šmohorju (mimo ekološke kmetije Kralj)</a></td><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju_mimo_ekoloske_kmetije_kralj/25/860/8053">1 h 30 min</a></td><td class="tdG"><a href="/izlet/liboje_dom_na_smohorju_mimo_ekoloske_kmetije_kralj/25/860/8053">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju_po_grebenu_malega_slomnika/25/860/8051">Tremerje - Dom na Šmohorju (po grebenu Malega Slomnika)</a></td><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju_po_grebenu_malega_slomnika/25/860/8051">1 h 40 min</a></td><td class="tdG"><a href="/izlet/tremerje_dom_na_smohorju_po_grebenu_malega_slomnika/25/860/8051">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/vinja_vas_mehovski_hrib_cez_skalo/25/2136/7535">Vinja vas - Mehovski hrib (čez Skalo)</a></td><td class="tdG"><a href="/izlet/vinja_vas_mehovski_hrib_cez_skalo/25/2136/7535"> 20 min</a></td><td class="tdG"><a href="/izlet/vinja_vas_mehovski_hrib_cez_skalo/25/2136/7535">zahtevna neoznačena steza</a></td></tr>
 
 </table>
 

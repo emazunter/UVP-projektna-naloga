@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Špik nad Nosom / Foronon del Buinz</title>
-        <meta name="description" content="Natančen opis gore Špik nad Nosom / Foronon del Buinz in vseh pristopov na Špik nad Nosom / Foronon del Buinz. Špik nad Nosom je 2531 m visoka gora, ki se nahaja v grebenu gora med Montažem i." />
+        <title>Špik nad Planjo / Punta Plagnis</title>
+        <meta name="description" content="Natančen opis gore Špik nad Planjo / Punta Plagnis in vseh pristopov na Špik nad Planjo / Punta Plagnis. Špik nad Planjo je razmeroma enostavno dostopen vrh v grebenu, ki ga krasi morda." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1342?gorovjeid=1&amp;id=1342" id="form1">
+    <form method="post" action="./1629?gorovjeid=1&amp;id=1629" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/foronon_del_buinz___spik_nad_nosom/1/1342"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1342"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/punta_plagnis/1/1629"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1629"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Špik nad Nosom / Foronon del Buinz
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Špik nad Planjo / Punta Plagnis
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1342);
+    gorast(1629);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Špik nad Nosom / Foronon del Buinz</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Špik nad Planjo / Punta Plagnis</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2531&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2411&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,0728'N&nbsp;/&nbsp;13°&nbsp;27,9348'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,8874'N&nbsp;/&nbsp;13°&nbsp;29,0058'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;4,37''N&nbsp;/&nbsp;13°&nbsp;27'&nbsp;56,09''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;53,24''N&nbsp;/&nbsp;13°&nbsp;29'&nbsp;0,35''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.41788°N&nbsp;/&nbsp;13.46558°E";
+                        document.getElementById("kf0").innerHTML = "46.41479°N&nbsp;/&nbsp;13.48343°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,41788°N,&nbsp;13,46558°E";
+                    document.getElementById("kf0").innerHTML = "46,41479°N,&nbsp;13,48343°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,41788°N&nbsp;13,46558°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/spik_nad_nosom___foronon_del_buinz/1342"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,41479°N&nbsp;13,48343°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/spik_nad_planjo___punta_plagnis/1629"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, bivak</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Špik nad Planjo / Punta Plagnis - Torek" href="/vreme_gora/spik_nad_planjo___punta_plagnis/1/1629#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Špik nad Planjo / Punta Plagnis - Sreda" href="/vreme_gora/spik_nad_planjo___punta_plagnis/1/1629#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Špik nad Planjo / Punta Plagnis - Četrtek" href="/vreme_gora/spik_nad_planjo___punta_plagnis/1/1629#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_2_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Špik nad Nosom / Foronon del Buinz - Petek" href="/vreme_gora/spik_nad_nosom___foronon_del_buinz/1/1342#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Špik nad Planjo / Punta Plagnis - Petek" href="/vreme_gora/spik_nad_planjo___punta_plagnis/1/1629#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_1_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Špik nad Nosom / Foronon del Buinz - Sobota" href="/vreme_gora/spik_nad_nosom___foronon_del_buinz/1/1342#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Špik nad Nosom / Foronon del Buinz - Nedelja" href="/vreme_gora/spik_nad_nosom___foronon_del_buinz/1/1342#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Špik nad Nosom / Foronon del Buinz - Ponedeljek" href="/vreme_gora/spik_nad_nosom___foronon_del_buinz/1/1342#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Špik nad Nosom / Foronon del Buinz - Torek" href="/vreme_gora/spik_nad_nosom___foronon_del_buinz/1/1342#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Špik nad Planjo / Punta Plagnis - Sobota" href="/vreme_gora/spik_nad_planjo___punta_plagnis/1/1629#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 492.229</div>
-<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(348.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 307.623</div>
+<div class="g2"><b>Priljubljenost:</b> 70%&nbsp;(978.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1629" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Špik nad Nosom je 2531 m visoka gora, ki se nahaja v grebenu gora med Montažem in Višem. S kamnitega vrha se nam ob lepem vremenu odpre razgled na skupini Viša in Montaža ter mejnemu grebenu, kjer najlepše vidimo masiv Kanina.<br>Pred nekaj leti so na vrhu postavili tudi bivak Luca Vuerich, kjer lahko prenoči 9 oseb, posvečen pa je alpinistu iz Trbiža, po katerem bivak nosi tudi ime.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Špik nad Planjo je razmeroma enostavno dostopen vrh v grebenu, ki ga krasi morda najlepša zavarovana pot v Julijcih, Ceria-Merlone. Navzven pomaknjen greben in mulatjera iz 1.svetovne vojne omogočata široke razglede na bližje Zahodne Julijce.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1342&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1629&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kostrunove_spice/1/1282">Koštrunove špice (2502m)</a>, <a class="moder" href="/gora/rifugio_di_brazza/1/429">Rifugio di Brazza (1660m)</a>, <a class="moder" href="/gora/spik_hude_police___cima_di_terrarossa/1/1053">Špik Hude police / Cima di Terrarossa (2420m)</a>, <a class="moder" href="/gora/spik_nad_planjo___punta_plagnis/1/1629">Špik nad Planjo / Punta Plagnis (2411m)</a>, <a class="moder" href="/gora/vrh_krnega_dola___monte_cregnedul/1/1634">Vrh Krnega dola / Monte Cregnedul (2351m)</a>
+<a class="moder" href="/gora/kostrunove_spice/1/1282">Koštrunove špice (2502m)</a>, <a class="moder" href="/gora/rifugio_corsi/1/1042">Rifugio Corsi (1874m)</a>, <a class="moder" href="/gora/spik_nad_nosom___foronon_del_buinz/1/1342">Špik nad Nosom / Foronon del Buinz (2531m)</a>, <a class="moder" href="/gora/vis_jof_fuart/1/1041">Viš/Jof Fuart (2666m)</a>, <a class="moder" href="/gora/viska_planina/1/1283">Viška planina (1530m)</a>, <a class="moder" href="/gora/vrh_krnega_dola___monte_cregnedul/1/1634">Vrh Krnega dola / Monte Cregnedul (2351m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,33 +835,36 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/kanin/3">Kanin</a>, <a class="moder" href="/spletna_kamera/kanin_graben/4412">Kanin (Graben)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/montaz___jof_di_montasio/22">Montaž / Jôf di Montasio</a>, <a class="moder" href="/spletna_kamera/nevejski_preval_-_na_zlebeh___sella_nevea/1977">Nevejski preval - Na Žlebeh / Sella Nevea</a>, <a class="moder" href="/spletna_kamera/ovcja_vas___valbruna/1364">Ovčja vas / Valbruna</a>, <a class="moder" href="/spletna_kamera/pietratagliata/1966">Pietratagliata</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/prevala/1361">Prevala</a>, <a class="moder" href="/spletna_kamera/rezija_val_resia/483">Rezija/Val Resia</a>, <a class="moder" href="/spletna_kamera/rifugio_gilberti/4020">Rifugio Gilberti</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/ucja/1679">Učja</a>, <a class="moder" href="/spletna_kamera/veliki_babanski_skedenj/1464">Veliki Babanski skedenj</a>, <a class="moder" href="/spletna_kamera/zabnice___camporosso_in_valcanale/1975">Žabnice / Camporosso in Valcanale</a>, <a class="moder" href="/spletna_kamera/zahomec___monte_acomizza___schonwipfel/1840">Zahomec / Monte Acomizza / Schönwipfel</a>
+<a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kanin/3">Kanin</a>, <a class="moder" href="/spletna_kamera/kanin_graben/4412">Kanin (Graben)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/montaz___jof_di_montasio/22">Montaž / Jôf di Montasio</a>, <a class="moder" href="/spletna_kamera/nevejski_preval_-_na_zlebeh___sella_nevea/1977">Nevejski preval - Na Žlebeh / Sella Nevea</a>, <a class="moder" href="/spletna_kamera/ovcja_vas___valbruna/1364">Ovčja vas / Valbruna</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/prevala/1361">Prevala</a>, <a class="moder" href="/spletna_kamera/rezija_val_resia/483">Rezija/Val Resia</a>, <a class="moder" href="/spletna_kamera/rifugio_gilberti/4020">Rifugio Gilberti</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/ucja/1679">Učja</a>, <a class="moder" href="/spletna_kamera/veliki_babanski_skedenj/1464">Veliki Babanski skedenj</a>, <a class="moder" href="/spletna_kamera/zabnice___camporosso_in_valcanale/1975">Žabnice / Camporosso in Valcanale</a>, <a class="moder" href="/spletna_kamera/zahomec___monte_acomizza___schonwipfel/1840">Zahomec / Monte Acomizza / Schönwipfel</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fspik_nad_nosom___foronon_del_buinz%2f1%2f1342"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fspik_nad_nosom___foronon_del_buinz%2f1%2f1342"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fspik_nad_nosom___foronon_del_buinz%2f1%2f1342"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fspik_nad_planjo___punta_plagnis%2f1%2f1629"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fspik_nad_planjo___punta_plagnis%2f1%2f1629"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fspik_nad_planjo___punta_plagnis%2f1%2f1629"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/spik_nad_nosom___foronon_del_buinz/1342" title="Špik nad Nosom / Foronon del Buinz 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SpikNadNosom.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/spik_nad_nosom___foronon_del_buinz/4737" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_nosom___foronon_del_buinz/4737');"><img class="slikagm" alt="Špik nad Nosom / Foronon del Buinz" src="//www.hribi.net/slike1/hribi%209515108603.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/spik_nad_planjo___punta_plagnis/6968" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_planjo___punta_plagnis/6968');"><img class="slikagm" alt="Špik nad Planjo / Punta Plagnis" src="//www.hribi.net/sliketemp/24072010617__pica_v_Planji_z_Vrha_Krajnega_dola__800x600_5746456.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/spik_nad_nosom___foronon_del_buinz/4738" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_nosom___foronon_del_buinz/4738');"><img class="slikagm" alt="Špik nad Nosom / Foronon del Buinz" src="//www.hribi.net/slike1/hribi%208615108601.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/spik_nad_planjo___punta_plagnis/6969" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_planjo___punta_plagnis/6969');"><img class="slikagm" alt="Špik nad Planjo / Punta Plagnis" src="//www.hribi.net/sliketemp/24072010624__800x600_5746458.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/spik_nad_nosom___foronon_del_buinz/4739" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_nosom___foronon_del_buinz/4739');"><img class="slikagm" alt="Špik nad Nosom / Foronon del Buinz" src="//www.hribi.net/slike1/hribi%209965108649.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/spik_nad_planjo___punta_plagnis/6970" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_planjo___punta_plagnis/6970');"><img class="slikagm" alt="Špik nad Planjo / Punta Plagnis" src="//www.hribi.net/sliketemp/24072010634__800x600_5746460.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/spik_nad_nosom___foronon_del_buinz/4740" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_nosom___foronon_del_buinz/4740');"><img class="slikagm" alt="Špik nad Nosom / Foronon del Buinz" src="//www.hribi.net/slike1/hribi%209805108649.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/spik_nad_planjo___punta_plagnis/6971" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_planjo___punta_plagnis/6971');"><img class="slikagm" alt="Špik nad Planjo / Punta Plagnis" src="//www.hribi.net/sliketemp/24072010633__800x600_5746461.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/spik_nad_nosom___foronon_del_buinz/15251" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_nosom___foronon_del_buinz/15251');"><img class="slikagm" alt="Špik nad Nosom / Foronon del Buinz" src="//www.hribi.net/slike1/bivak10.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/spik_nad_planjo___punta_plagnis/6972" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_planjo___punta_plagnis/6972');"><img class="slikagm" alt="Špik nad Planjo / Punta Plagnis" src="//www.hribi.net/sliketemp/P7250206__640x480_5746471.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/spik_nad_nosom___foronon_del_buinz/15252" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_nosom___foronon_del_buinz/15252');"><img class="slikagm" alt="Špik nad Nosom / Foronon del Buinz" src="//www.hribi.net/slike1/bivak20.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/spik_nad_planjo___punta_plagnis/6973" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_planjo___punta_plagnis/6973');"><img class="slikagm" alt="Špik nad Planjo / Punta Plagnis" src="//www.hribi.net/sliketemp/DSCF26065746473.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/spik_nad_nosom___foronon_del_buinz/15253" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_nosom___foronon_del_buinz/15253');"><img class="slikagm" alt="Špik nad Nosom / Foronon del Buinz" src="//www.hribi.net/slike1/bivak30.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/spik_nad_planjo___punta_plagnis/6974" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_planjo___punta_plagnis/6974');"><img class="slikagm" alt="Špik nad Planjo / Punta Plagnis" src="//www.hribi.net/sliketemp/DSCF26485746476.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/spik_nad_planjo___punta_plagnis/6975" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_planjo___punta_plagnis/6975');"><img class="slikagm" alt="Špik nad Planjo / Punta Plagnis" src="//www.hribi.net/sliketemp/DSCF25965746477.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/spik_nad_planjo___punta_plagnis/6976" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_planjo___punta_plagnis/6976');"><img class="slikagm" alt="Špik nad Planjo / Punta Plagnis" src="//www.hribi.net/sliketemp/P8230153_15746490.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/spik_nad_planjo___punta_plagnis/6977" onclick="event.preventDefault(); window.open('/slika_gora/spik_nad_planjo___punta_plagnis/6977');"><img class="slikagm" alt="Špik nad Planjo / Punta Plagnis" src="//www.hribi.net/sliketemp/P82301605746492.th.jpg" /></a>
     
 </div>
 
@@ -925,7 +928,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1342&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1629&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,9 +938,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pecol_spik_nad_nosom___foronon_del_buinz_ceria_merlone/1/1342/2244">Pecol - Špik nad Nosom / Foronon del Buinz (Ceria Merlone)</a></td><td class="tdG"><a href="/izlet/pecol_spik_nad_nosom___foronon_del_buinz_ceria_merlone/1/1342/2244">3 h 45 min</a></td><td class="tdG"><a href="/izlet/pecol_spik_nad_nosom___foronon_del_buinz_ceria_merlone/1/1342/2244">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/nevejski_preval_spik_nad_nosom___foronon_del_buinz_cez_skrbino_prednje_spranje/1/1342/2245">Nevejski preval - Špik nad Nosom / Foronon del Buinz (čez Škrbino prednje Špranje)</a></td><td class="tdG"><a href="/izlet/nevejski_preval_spik_nad_nosom___foronon_del_buinz_cez_skrbino_prednje_spranje/1/1342/2245">6 h</a></td><td class="tdG"><a href="/izlet/nevejski_preval_spik_nad_nosom___foronon_del_buinz_cez_skrbino_prednje_spranje/1/1342/2245">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/prelaz_na_zlebeh___sella_nevea_spik_nad_planjo___punta_plagnis_neoznacena_mulatjera/1/1629/2891">Prelaz Na Žlebeh / Sella Nevea - Špik nad Planjo / Punta Plagnis (neoznačena mulatjera)</a></td><td class="tdG"><a href="/izlet/prelaz_na_zlebeh___sella_nevea_spik_nad_planjo___punta_plagnis_neoznacena_mulatjera/1/1629/2891">4 h 30 min</a></td><td class="tdG"><a href="/izlet/prelaz_na_zlebeh___sella_nevea_spik_nad_planjo___punta_plagnis_neoznacena_mulatjera/1/1629/2891">delno zahtevna neoznačena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Deveti konfin</title>
-        <meta name="description" content="Natančen opis gore Deveti konfin in vseh pristopov na Deveti konfin. Deveti konfin je 930 m visok vrh v pogorju Kolovrata, ki se nahaja med Ježo in O." />
+        <title>Kokoš</title>
+        <meta name="description" content="Natančen opis gore Kokoš in vseh pristopov na Kokoš. Koča na Kokoši se nahaja na vrhu Jirmanec, le ta pa le 5 minut stran od z gozdom." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1765?gorovjeid=26&amp;id=1765" id="form1">
+    <form method="post" action="./1125?gorovjeid=26&amp;id=1125" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/deveti_konfin/26/1765"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1765"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kokos/26/1125"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1125"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Deveti konfin
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Kokoš
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1765);
+    gorast(1125);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Deveti konfin</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kokoš</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 930&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 670&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;10,1070'N&nbsp;/&nbsp;13°&nbsp;40,9518'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;38,6712'N&nbsp;/&nbsp;13°&nbsp;53,9958'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;10'&nbsp;6,42''N&nbsp;/&nbsp;13°&nbsp;40'&nbsp;57,11''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;38'&nbsp;40,27''N&nbsp;/&nbsp;13°&nbsp;53'&nbsp;59,75''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.16845°N&nbsp;/&nbsp;13.68253°E";
+                        document.getElementById("kf0").innerHTML = "45.64452°N&nbsp;/&nbsp;13.89993°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,16845°N,&nbsp;13,68253°E";
+                    document.getElementById("kf0").innerHTML = "45,64452°N,&nbsp;13,89993°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,16845°N&nbsp;13,68253°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/deveti_konfin/1765"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,64452°N&nbsp;13,89993°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kokos/1125"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> vrh, koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kokoš - Torek" href="/vreme_gora/kokos/26/1125#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kokoš - Sreda" href="/vreme_gora/kokos/26/1125#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kokoš - Četrtek" href="/vreme_gora/kokos/26/1125#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Deveti konfin - Petek" href="/vreme_gora/deveti_konfin/26/1765#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kokoš - Petek" href="/vreme_gora/kokos/26/1125#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Deveti konfin - Sobota" href="/vreme_gora/deveti_konfin/26/1765#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Deveti konfin - Nedelja" href="/vreme_gora/deveti_konfin/26/1765#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Deveti konfin - Ponedeljek" href="/vreme_gora/deveti_konfin/26/1765#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Deveti konfin - Torek" href="/vreme_gora/deveti_konfin/26/1765#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kokoš - Sobota" href="/vreme_gora/kokos/26/1125#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 185.233</div>
-<div class="g2"><b>Priljubljenost:</b> 56%&nbsp;(1443.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Ogledov:</b> 630.024</div>
+<div class="g2"><b>Priljubljenost:</b> 96%&nbsp;(117.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">5</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1125" title="Število vpisov v vpisni knjigi">40</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Deveti konfin je 930 m visok vrh v pogorju Kolovrata, ki se nahaja med Ježo in Očno. Z vrha, na katerem se v manjši piramidi nahaja vpisna skrinjica, zaradi gozda ni razgleda.<br> Ime Deveti konfin pa izhaja iz dejstva, da so se na vrhu stikale meje devetih lastnikov (povzeto s spletne strani dolina-soce.com).</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Koča na Kokoši se nahaja na vrhu Jirmanec, le ta pa le 5 minut stran od z gozdom poraščene Kokoši. Z vrha, ki se nahaja južno od Lokavskega polja ter, ki meji med Slovenijo in Italijo, se nam odpre lep razgled predvsem proti jugu, kjer lahko vidimo okoliško gričevje. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1765&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1125&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/jeza/26/1763">Ježa (949m)</a>, <a class="moder" href="/gora/ocna/26/1764">Očna (906m)</a>, <a class="moder" href="/gora/planinski_dom_pod_jezo/26/1766">Planinski dom pod Ježo (740m)</a>
+<a class="moder" href="/gora/obrovnik/26/3622">Obrovnik (700m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,22 +835,27 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/deskle/2025">Deskle</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/korada/2146">Korada</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/ravna_pri_ligu/1589">Ravna pri Ligu</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>
+<a class="moder" href="/spletna_kamera/ankaran/4356">Ankaran</a>, <a class="moder" href="/spletna_kamera/bazovica___basovizza/1649">Bazovica / Basovizza</a>, <a class="moder" href="/spletna_kamera/bertoki/4921">Bertoki</a>, <a class="moder" href="/spletna_kamera/cebulovica/335">Čebulovica</a>, <a class="moder" href="/spletna_kamera/divaca/3260">Divača</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kokos/4324">Kokoš</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/lazaret/1699">Lazaret</a>, <a class="moder" href="/spletna_kamera/letalisce_divaca/2203">Letališče Divača</a>, <a class="moder" href="/spletna_kamera/lipica/1701">Lipica</a>, <a class="moder" href="/spletna_kamera/milje___muggia/1639">Milje / Muggia</a>, <a class="moder" href="/spletna_kamera/senozeska_brda/1423">Senožeška brda</a>, <a class="moder" href="/spletna_kamera/sezana/4920">Sežana</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/spodnje_skofije/1080">Spodnje Škofije</a>, <a class="moder" href="/spletna_kamera/trst___trieste/172">Trst / Trieste</a>, <a class="moder" href="/spletna_kamera/vejna___monte_grisa/3091">Vejna / Monte Grisa</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>, <a class="moder" href="/spletna_kamera/zirje_pri_sezani/1166">Žirje pri Sežani</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdeveti_konfin%2f26%2f1765"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdeveti_konfin%2f26%2f1765"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdeveti_konfin%2f26%2f1765"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkokos%2f26%2f1125"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkokos%2f26%2f1125"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkokos%2f26%2f1125"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/kokos/1125" title="Kokoš 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Kokos.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/deveti_konfin/7910" onclick="event.preventDefault(); window.open('/slika_gora/deveti_konfin/7910');"><img class="slikagm" alt="Deveti konfin" src="//www.hribi.net/slike1/Jeza 181651695.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kokos/3741" onclick="event.preventDefault(); window.open('/slika_gora/kokos/3741');"><img class="slikagm" alt="Kokoš" src="//www.hribi.net/sliketemp/PB1501014729760.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/deveti_konfin/7911" onclick="event.preventDefault(); window.open('/slika_gora/deveti_konfin/7911');"><img class="slikagm" alt="Deveti konfin" src="//www.hribi.net/slike1/Jeza 183651695.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kokos/3742" onclick="event.preventDefault(); window.open('/slika_gora/kokos/3742');"><img class="slikagm" alt="Kokoš" src="//www.hribi.net/sliketemp/PB1501064729766.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/deveti_konfin/7912" onclick="event.preventDefault(); window.open('/slika_gora/deveti_konfin/7912');"><img class="slikagm" alt="Deveti konfin" src="//www.hribi.net/slike1/Jeza 185651695.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kokos/3743" onclick="event.preventDefault(); window.open('/slika_gora/kokos/3743');"><img class="slikagm" alt="Kokoš" src="//www.hribi.net/slike1/PB150058781440.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/kokos/9528" onclick="event.preventDefault(); window.open('/slika_gora/kokos/9528');"><img class="slikagm" alt="Kokoš" src="//www.hribi.net/slike1/Kokos 06067392.th.jpg" /></a>
     
 </div>
 
@@ -914,7 +919,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1765&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1125&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -924,9 +929,23 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/solarji_deveti_konfin_cez_jezo/26/1765/3207">Solarji - Deveti konfin (čez Ježo)</a></td><td class="tdG"><a href="/izlet/solarji_deveti_konfin_cez_jezo/26/1765/3207">1 h 10 min</a></td><td class="tdG"><a href="/izlet/solarji_deveti_konfin_cez_jezo/26/1765/3207">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lokev_kokos/26/1125/1903">Lokev - Kokoš</a></td><td class="tdG"><a href="/izlet/lokev_kokos/26/1125/1903">1 h 30 min</a></td><td class="tdG"><a href="/izlet/lokev_kokos/26/1125/1903">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planinski_dom_pod_jezo_deveti_konfin/26/1765/3211">Planinski dom pod Ježo - Deveti konfin</a></td><td class="tdG"><a href="/izlet/planinski_dom_pod_jezo_deveti_konfin/26/1765/3211"> 45 min</a></td><td class="tdG"><a href="/izlet/planinski_dom_pod_jezo_deveti_konfin/26/1765/3211">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/mejni_prehod_lipica_kokos_po_cesti/26/1125/1901">Mejni prehod Lipica - Kokoš (po cesti)</a></td><td class="tdG"><a href="/izlet/mejni_prehod_lipica_kokos_po_cesti/26/1125/1901">1 h</a></td><td class="tdG"><a href="/izlet/mejni_prehod_lipica_kokos_po_cesti/26/1125/1901">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lipica_skibini_kokos/26/1125/1902">Lipica (Škibini) - Kokoš</a></td><td class="tdG"><a href="/izlet/lipica_skibini_kokos/26/1125/1902"> 50 min</a></td><td class="tdG"><a href="/izlet/lipica_skibini_kokos/26/1125/1902">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/krvavi_potok_kokos/26/1125/3701">Krvavi Potok - Kokoš</a></td><td class="tdG"><a href="/izlet/krvavi_potok_kokos/26/1125/3701">1 h 30 min</a></td><td class="tdG"><a href="/izlet/krvavi_potok_kokos/26/1125/3701">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mejni_prehod_lipica_kokos_strma_pot/26/1125/1900">Mejni prehod Lipica - Kokoš (strma pot)</a></td><td class="tdG"><a href="/izlet/mejni_prehod_lipica_kokos_strma_pot/26/1125/1900"> 50 min</a></td><td class="tdG"><a href="/izlet/mejni_prehod_lipica_kokos_strma_pot/26/1125/1900">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lokev_kokos_mimo_izvira_vrocek/26/1125/3254">Lokev - Kokoš (mimo izvira Vroček)</a></td><td class="tdG"><a href="/izlet/lokev_kokos_mimo_izvira_vrocek/26/1125/3254">2 h</a></td><td class="tdG"><a href="/izlet/lokev_kokos_mimo_izvira_vrocek/26/1125/3254">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pesek___pese_kokos/26/1125/2458">Pesek / Pese - Kokoš</a></td><td class="tdG"><a href="/izlet/pesek___pese_kokos/26/1125/2458"> 40 min</a></td><td class="tdG"><a href="/izlet/pesek___pese_kokos/26/1125/2458">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/grozzana___grocana_kokos/26/1125/2509">Grozzana / Gročana - Kokoš</a></td><td class="tdG"><a href="/izlet/grozzana___grocana_kokos/26/1125/2509"> 40 min</a></td><td class="tdG"><a href="/izlet/grozzana___grocana_kokos/26/1125/2509">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/preloze_pri_lokvi_kokos/26/1125/3703">Prelože pri Lokvi - Kokoš</a></td><td class="tdG"><a href="/izlet/preloze_pri_lokvi_kokos/26/1125/3703">1 h 30 min</a></td><td class="tdG"><a href="/izlet/preloze_pri_lokvi_kokos/26/1125/3703">lahka označena pot</a></td></tr>
 
 </table>
 

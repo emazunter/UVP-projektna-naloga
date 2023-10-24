@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča na Grohatu</title>
-        <meta name="description" content="Natančen opis koče Koča na Grohatu in vseh pristopov na Koča na Grohatu. Koča se nahaja na severni strani razgledne Raduhe na planini Grohat. Od koče, ki." />
+        <title>Veliko Gradišče</title>
+        <meta name="description" content="Natančen opis gore Veliko Gradišče in vseh pristopov na Veliko Gradišče. Gradišče je hrib nad Pesjem pri Velenju.<br> Ima dva vrhova, Veliko in Malo Grad." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./615?gorovjeid=3&amp;id=615" id="form1">
+    <form method="post" action="./3512?gorovjeid=3&amp;id=3512" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_grohatu/3/615"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=615"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliko_gradisce/3/3512"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=3512"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Koča na Grohatu
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Veliko Gradišče
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(615);
+    gorast(3512);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča na Grohatu</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Veliko Gradišče</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1460&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 587&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,4046'N&nbsp;/&nbsp;14°&nbsp;44,5962'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,4104'N&nbsp;/&nbsp;15°&nbsp;5,2950'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;24,28''N&nbsp;/&nbsp;14°&nbsp;44'&nbsp;35,77''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;24,62''N&nbsp;/&nbsp;15°&nbsp;5'&nbsp;17,70''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.42341°N&nbsp;/&nbsp;14.74327°E";
+                        document.getElementById("kf0").innerHTML = "46.35684°N&nbsp;/&nbsp;15.08825°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,42341°N,&nbsp;14,74327°E";
+                    document.getElementById("kf0").innerHTML = "46,35684°N,&nbsp;15,08825°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,42341°N&nbsp;14,74327°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_grohatu/615"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35684°N&nbsp;15,08825°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliko_gradisce/3512"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, planina</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliko Gradišče - Torek" href="/vreme_gora/veliko_gradisce/3/3512#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliko Gradišče - Sreda" href="/vreme_gora/veliko_gradisce/3/3512#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliko Gradišče - Četrtek" href="/vreme_gora/veliko_gradisce/3/3512#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Grohatu - Petek" href="/vreme_gora/koca_na_grohatu/3/615#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliko Gradišče - Petek" href="/vreme_gora/veliko_gradisce/3/3512#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Grohatu - Sobota" href="/vreme_gora/koca_na_grohatu/3/615#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Grohatu - Nedelja" href="/vreme_gora/koca_na_grohatu/3/615#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Grohatu - Ponedeljek" href="/vreme_gora/koca_na_grohatu/3/615#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Grohatu - Torek" href="/vreme_gora/koca_na_grohatu/3/615#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliko Gradišče - Sobota" href="/vreme_gora/veliko_gradisce/3/3512#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 502.374</div>
-<div class="g2"><b>Priljubljenost:</b> 90%&nbsp;(317.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 320</div>
+<div class="g2"><b>Priljubljenost:</b> 13%&nbsp;(2874.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=615" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Koča se nahaja na severni strani razgledne Raduhe na planini Grohat. Od koče, ki je točka slovenske planinske poti je lep razgled na ostenja Raduhe.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Gradišče je hrib nad Pesjem pri Velenju.<br> Ima dva vrhova, Veliko in Malo Gradišče.<br> Veliko Gradišče se nahaja zahodno od cerkvice Svetega Jakoba.<br> Ker se vrh nahaja sredi listnatega gozda,<br> se lahko koščke razgleda skozi golo vejevje lovi le v mesecih, ko na drevju ni listja.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=615&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3512&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/izletniska_kmetija_bukovc_bukovnik/3/3132">Izletniška kmetija Bukovc (Bukovnik) (1327m)</a>, <a class="moder" href="/gora/jelovec/3/1817">Jelovec (1808m)</a>, <a class="moder" href="/gora/koca_na_loki_pod_raduho/3/409">Koča na Loki pod Raduho (1534m)</a>, <a class="moder" href="/gora/lanez/3/1269">Lanež (1925m)</a>, <a class="moder" href="/gora/mala_raduha/3/1268">Mala Raduha (2029m)</a>, <a class="moder" href="/gora/velika_raduha/3/148">Velika Raduha (2062m)</a>
+<a class="moder" href="/gora/brunski_vrh/3/3362">Brunški vrh (511m)</a>, <a class="moder" href="/gora/grad_velenje/3/2874">Grad Velenje (442m)</a>, <a class="moder" href="/gora/malo_gradisce/3/3511">Malo Gradišče (536m)</a>, <a class="moder" href="/gora/sveti_jakob_jakec/3/3510">Sveti Jakob (Jakec) (528m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>
+<a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/sentrupert/379">Šentrupert</a>, <a class="moder" href="/spletna_kamera/vransko/359">Vransko</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_grohatu%2f3%2f615"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_grohatu%2f3%2f615"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_grohatu%2f3%2f615"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliko_gradisce%2f3%2f3512"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliko_gradisce%2f3%2f3512"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliko_gradisce%2f3%2f3512"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koca_na_grohatu/615" title="Koča na Grohatu 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KocaNaGrohatu.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_na_grohatu/1854" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_grohatu/1854');"><img class="slikagm" alt="Koča na Grohatu" src="//www.hribi.net/slike1/P6260045745416.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliko_gradisce/20872" onclick="event.preventDefault(); window.open('/slika_gora/veliko_gradisce/20872');"><img class="slikagm" alt="Veliko Gradišče" src="//slike2.hribi.net/slike016/2_0590702743775_DSC08494.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_grohatu/1855" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_grohatu/1855');"><img class="slikagm" alt="Koča na Grohatu" src="//www.hribi.net/slike1/P6260063931770.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliko_gradisce/20873" onclick="event.preventDefault(); window.open('/slika_gora/veliko_gradisce/20873');"><img class="slikagm" alt="Veliko Gradišče" src="//slike2.hribi.net/slike016/2_0652702743810_DSC08492.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_grohatu/1856" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_grohatu/1856');"><img class="slikagm" alt="Koča na Grohatu" src="//www.hribi.net/slike1/P6260067931770.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliko_gradisce/20874" onclick="event.preventDefault(); window.open('/slika_gora/veliko_gradisce/20874');"><img class="slikagm" alt="Veliko Gradišče" src="//slike2.hribi.net/slike016/2_0967702743818_DSC08585.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_grohatu/1857" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_grohatu/1857');"><img class="slikagm" alt="Koča na Grohatu" src="//www.hribi.net/slike1/P6260064931770.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliko_gradisce/20875" onclick="event.preventDefault(); window.open('/slika_gora/veliko_gradisce/20875');"><img class="slikagm" alt="Veliko Gradišče" src="//slike2.hribi.net/slike016/2_0739702743825_DSC09062___Lokacija.jpg" /></a>
     
 </div>
 
@@ -919,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=615&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3512&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,9 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bukovnik_koca_na_grohatu_pes_pot/3/615/1106">Bukovnik - Koča na Grohatu (peš pot)</a></td><td class="tdG"><a href="/izlet/bukovnik_koca_na_grohatu_pes_pot/3/615/1106"> 40 min</a></td><td class="tdG"><a href="/izlet/bukovnik_koca_na_grohatu_pes_pot/3/615/1106">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bukovnik_koca_na_grohatu_po_cesti/3/615/1107"> Bukovnik - Koča na Grohatu (po cesti)</a></td><td class="tdG"><a href="/izlet/bukovnik_koca_na_grohatu_po_cesti/3/615/1107"> 45 min</a></td><td class="tdG"><a href="/izlet/bukovnik_koca_na_grohatu_po_cesti/3/615/1107">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/velenje_stari_trg_veliko_gradisce_po_planinski_poti/3/3512/8493">Velenje (Stari trg) - Veliko Gradišče (po planinski poti)</a></td><td class="tdG"><a href="/izlet/velenje_stari_trg_veliko_gradisce_po_planinski_poti/3/3512/8493">1 h</a></td><td class="tdG"><a href="/izlet/velenje_stari_trg_veliko_gradisce_po_planinski_poti/3/3512/8493">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Turska gora</title>
-        <meta name="description" content="Natančen opis gore Turska gora in vseh pristopov na Turska gora. Gora se nahaja nad Logarsko dolino in nad dolino Kamniške Bistrice. Z vrha je le." />
+        <title>Molička peč</title>
+        <meta name="description" content="Natančen opis gore Molička peč in vseh pristopov na Molička peč. Molička peč se nahaja na severu Dleskovške planote in se prepadno spušča proti R." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./391?gorovjeid=3&amp;id=391" id="form1">
+    <form method="post" action="./696?gorovjeid=3&amp;id=696" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/turska_gora/3/391"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=391"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/molicka_pec/3/696"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=696"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Turska gora
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Molička peč
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(391);
+    gorast(696);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Turska gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Molička peč</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2251&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2029&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,6180'N&nbsp;/&nbsp;14°&nbsp;34,6308'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,8364'N&nbsp;/&nbsp;14°&nbsp;40,3224'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;37,08''N&nbsp;/&nbsp;14°&nbsp;34'&nbsp;37,85''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;50,18''N&nbsp;/&nbsp;14°&nbsp;40'&nbsp;19,34''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.3603°N&nbsp;/&nbsp;14.57718°E";
+                        document.getElementById("kf0").innerHTML = "46.36394°N&nbsp;/&nbsp;14.67204°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,3603°N,&nbsp;14,57718°E";
+                    document.getElementById("kf0").innerHTML = "46,36394°N,&nbsp;14,67204°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3603°N&nbsp;14,57718°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/turska_gora/391"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,36394°N&nbsp;14,67204°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/molicka_pec/696"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Molička peč - Torek" href="/vreme_gora/molicka_pec/3/696#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Molička peč - Sreda" href="/vreme_gora/molicka_pec/3/696#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Molička peč - Četrtek" href="/vreme_gora/molicka_pec/3/696#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Turska gora - Petek" href="/vreme_gora/turska_gora/3/391#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Molička peč - Petek" href="/vreme_gora/molicka_pec/3/696#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Turska gora - Sobota" href="/vreme_gora/turska_gora/3/391#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Turska gora - Nedelja" href="/vreme_gora/turska_gora/3/391#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Turska gora - Ponedeljek" href="/vreme_gora/turska_gora/3/391#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Turska gora - Torek" href="/vreme_gora/turska_gora/3/391#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Molička peč - Sobota" href="/vreme_gora/molicka_pec/3/696#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 679.447</div>
-<div class="g2"><b>Priljubljenost:</b> 98%&nbsp;(82.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=391" title="Število vpisov v vpisni knjigi">7</a></div>
+<div class="g2"><b>Ogledov:</b> 522.162</div>
+<div class="g2"><b>Priljubljenost:</b> 92%&nbsp;(273.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=696" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Gora se nahaja nad Logarsko dolino in nad dolino Kamniške Bistrice. Z vrha je lep pogled proti sosednjim vrhom. Najlepše se vidijo Rinke in Brana. Vrh ima vpisno knjigo z žigom.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Molička peč se nahaja na severu Dleskovške planote in se prepadno spušča proti Robanovemu kotu. Z malo obiskanega vrha je lep pogled proti najvišjim vrhovom Kamniško Savinjskih Alp, kjer izstopa Ojstrica s svojo mogočno steno.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=391&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=696&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_pod_mrzlim_vrhom/3/618">Bivak pod Mrzlim vrhom (1980m)</a>, <a class="moder" href="/gora/bivak_pod_skuto/3/389">Bivak pod Skuto (2070m)</a>, <a class="moder" href="/gora/brana/3/96">Brana (2253m)</a>, <a class="moder" href="/gora/dom_na_okreslju/3/167">Dom na Okrešlju (1396m)</a>, <a class="moder" href="/gora/kamniska_koca_na_kamniskem_sedlu/3/95">Kamniška koča na Kamniškem sedlu (1864m)</a>, <a class="moder" href="/gora/kogel/3/1525">Kogel (2100m)</a>, <a class="moder" href="/gora/koroska_rinka_kriz/3/387">Koroška Rinka (Križ) (2433m)</a>, <a class="moder" href="/gora/kranjska_rinka/3/50">Kranjska Rinka (2453m)</a>, <a class="moder" href="/gora/mala_rinka/3/1323">Mala Rinka (2289m)</a>, <a class="moder" href="/gora/mrzla_gora/3/433">Mrzla gora (2203m)</a>, <a class="moder" href="/gora/orlovo_gnezdo_slap_rinka/3/166">Orlovo gnezdo (Slap Rinka) (1120m)</a>, <a class="moder" href="/gora/pri_pastirjih/3/248">Pri Pastirjih (1430m)</a>, <a class="moder" href="/gora/skuta/3/28">Skuta (2532m)</a>, <a class="moder" href="/gora/stajerska_rinka/3/388">Štajerska Rinka (2374m)</a>, <a class="moder" href="/gora/struca/3/49">Štruca (2457m)</a>
+<a class="moder" href="/gora/dleskovec/3/380">Dleskovec (1965m)</a>, <a class="moder" href="/gora/jamarski_bivak_na_dleskovski_planoti/3/2711">Jamarski bivak na Dleskovški planoti (1910m)</a>, <a class="moder" href="/gora/kapelica_na_molicki_planini/3/324">Kapelica na Molički planini (1780m)</a>, <a class="moder" href="/gora/krizevnik/3/695">Križevnik (1909m)</a>, <a class="moder" href="/gora/mala_ojstrica/3/1392">Mala Ojstrica (2017m)</a>, <a class="moder" href="/gora/planina_polsak/3/379">Planina Polšak (1695m)</a>, <a class="moder" href="/gora/robanova_planina/3/616">Robanova planina (890m)</a>, <a class="moder" href="/gora/tolsti_vrh_veza/3/305">Tolsti vrh (Veža) (1985m)</a>, <a class="moder" href="/gora/velika_zelenica/3/697">Velika Zelenica (2114m)</a>, <a class="moder" href="/gora/veliki_vrh_veza/3/438">Veliki vrh (Veža) (2110m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,45 +835,33 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fturska_gora%2f3%2f391"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fturska_gora%2f3%2f391"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fturska_gora%2f3%2f391"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmolicka_pec%2f3%2f696"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmolicka_pec%2f3%2f696"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmolicka_pec%2f3%2f696"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/turska_gora/391" title="Turska gora 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.805810443628turska_gora.jpg" /></a></div>
+<div><a href="/panorama/360/molicka_pec/696" title="Molička peč 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.MolickaPec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/turska_gora/521" onclick="event.preventDefault(); window.open('/slika_gora/turska_gora/521');"><img class="slikagm" alt="Turska gora" src="//www.hribi.net/Gora/p7150138mediumif0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/molicka_pec/2256" onclick="event.preventDefault(); window.open('/slika_gora/molicka_pec/2256');"><img class="slikagm" alt="Molička peč" src="//www.hribi.net/slike1/P9200174218295.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/turska_gora/3314" onclick="event.preventDefault(); window.open('/slika_gora/turska_gora/3314');"><img class="slikagm" alt="Turska gora" src="//www.hribi.net/sliketemp/P71200084547255.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/molicka_pec/2257" onclick="event.preventDefault(); window.open('/slika_gora/molicka_pec/2257');"><img class="slikagm" alt="Molička peč" src="//www.hribi.net/slike1/P9200156218295.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/turska_gora/3334" onclick="event.preventDefault(); window.open('/slika_gora/turska_gora/3334');"><img class="slikagm" alt="Turska gora" src="//www.hribi.net/slike1/P7050088444528.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/molicka_pec/2259" onclick="event.preventDefault(); window.open('/slika_gora/molicka_pec/2259');"><img class="slikagm" alt="Molička peč" src="//www.hribi.net/sliketemp/P92002104120926.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/turska_gora/18120" onclick="event.preventDefault(); window.open('/slika_gora/turska_gora/18120');"><img class="slikagm" alt="Turska gora" src="//www.hribi.net/slike11/P1060778842409032.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/turska_gora/18121" onclick="event.preventDefault(); window.open('/slika_gora/turska_gora/18121');"><img class="slikagm" alt="Turska gora" src="//www.hribi.net/slike11/P1060740191409032.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/turska_gora/18122" onclick="event.preventDefault(); window.open('/slika_gora/turska_gora/18122');"><img class="slikagm" alt="Turska gora" src="//www.hribi.net/slike11/P1060760570409032.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/turska_gora/18187" onclick="event.preventDefault(); window.open('/slika_gora/turska_gora/18187');"><img class="slikagm" alt="Turska gora" src="//www.hribi.net/slike11/P10608867247880.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/turska_gora/18188" onclick="event.preventDefault(); window.open('/slika_gora/turska_gora/18188');"><img class="slikagm" alt="Turska gora" src="//www.hribi.net/slike11/P10608065146683.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/molicka_pec/2264" onclick="event.preventDefault(); window.open('/slika_gora/molicka_pec/2264');"><img class="slikagm" alt="Molička peč" src="//www.hribi.net/slike1/P9200138317520.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/turska_gora_in_brana/3/713"><img class="slikagmv" alt="Turska Gora in Brana" src="https://img.youtube.com/vi/xlGmNXr4OME/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Smučanje/turski_zleb/1/228"><img class="slikagmv" alt="Turski žleb" src="https://img.youtube.com/vi/0rp1nnwr5Nw/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -931,7 +919,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=391&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=696&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -941,15 +929,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_turska_gora_skozi_turski_zleb/3/391/1792">Koča pod slapom Rinka - Turska gora (skozi Turski žleb)</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_turska_gora_skozi_turski_zleb/3/391/1792">4 h 15 min</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_turska_gora_skozi_turski_zleb/3/391/1792">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_ravne_molicka_pec_cez_zelene_trate/3/696/1240">Planina Ravne - Molička peč (čez Zelene trate)</a></td><td class="tdG"><a href="/izlet/planina_ravne_molicka_pec_cez_zelene_trate/3/696/1240">2 h 25 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_molicka_pec_cez_zelene_trate/3/696/1240">lahko brezpotje</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/jermanca_turska_gora_cez_kamnisko_sedlo/3/391/576">Jermanca - Turska gora (čez Kamniško sedlo)</a></td><td class="tdG"><a href="/izlet/jermanca_turska_gora_cez_kamnisko_sedlo/3/391/576">4 h 45 min</a></td><td class="tdG"><a href="/izlet/jermanca_turska_gora_cez_kamnisko_sedlo/3/391/576">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_ravne_molicka_pec_cez_planino_polsak/3/696/1239">Planina Ravne - Molička peč (čez planino Polšak)</a></td><td class="tdG"><a href="/izlet/planina_ravne_molicka_pec_cez_planino_polsak/3/696/1239">2 h 25 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_molicka_pec_cez_planino_polsak/3/696/1239">lahko brezpotje</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka__turska_gora_cez_kotlice/3/391/575">Koča pod slapom Rinka  - Turska gora (čez Kotliče)</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka__turska_gora_cez_kotlice/3/391/575">4 h 30 min</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka__turska_gora_cez_kotlice/3/391/575">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/v_koncu_turska_gora_cez_zmavcarje/3/391/540">V Koncu - Turska gora (čez Žmavčarje)</a></td><td class="tdG"><a href="/izlet/v_koncu_turska_gora_cez_zmavcarje/3/391/540">4 h 15 min</a></td><td class="tdG"><a href="/izlet/v_koncu_turska_gora_cez_zmavcarje/3/391/540">zahtevna neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/suhadolnik_turska_gora/3/391/7270">Suhadolnik - Turska gora</a></td><td class="tdG"><a href="/izlet/suhadolnik_turska_gora/3/391/7270">6 h 15 min</a></td><td class="tdG"><a href="/izlet/suhadolnik_turska_gora/3/391/7270">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_ravne_molicka_pec_cez_dolgo_trato/3/696/6252">Planina Ravne - Molička peč (čez Dolgo trato)</a></td><td class="tdG"><a href="/izlet/planina_ravne_molicka_pec_cez_dolgo_trato/3/696/6252">2 h 55 min</a></td><td class="tdG"><a href="/izlet/planina_ravne_molicka_pec_cez_dolgo_trato/3/696/6252">lahko brezpotje</a></td></tr>
 
 </table>
 

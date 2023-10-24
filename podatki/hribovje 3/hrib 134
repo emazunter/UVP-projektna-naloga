@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Cojzova koča na Kokrskem sedlu</title>
-        <meta name="description" content="Natančen opis koče Cojzova koča na Kokrskem sedlu in vseh pristopov na Cojzova koča na Kokrskem sedlu. Kokrsko sedlo je prehod med dolino Kamniške Bistrice in Kokro. Sedlo obdajata dv." />
+        <title>Račka vrata</title>
+        <meta name="description" content="Natančen opis gore Račka vrata in vseh pristopov na Račka vrata. Račka vrata ležijo v jugozahodnem ostenju V.Raduhe, ki se strmo dviga vzhodno od." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./98?gorovjeid=3&amp;id=98" id="form1">
+    <form method="post" action="./1610?gorovjeid=3&amp;id=1610" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/cojzova_koca_na_kokrskem_sedlu/3/98"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=98"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/racka_vrata/3/1610"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1610"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Cojzova koča na Kokrskem sedlu
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Račka vrata
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(98);
+    gorast(1610);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Cojzova koča na Kokrskem sedlu</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Račka vrata</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,109 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1793&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1450&nbsp;m</div>
     
-        <script>
-            var kfi = 1;
-            function koordinateFormat() {
-                if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,6598'N&nbsp;/&nbsp;14°&nbsp;32,8182'E";
-                        kfi = 2;
-                    }
-                    else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;39,59''N&nbsp;/&nbsp;14°&nbsp;32'&nbsp;49,09''E";
-                        kfi = 3;
-                    }
-                    else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.34433°N&nbsp;/&nbsp;14.54697°E";
-                    kfi = 4;
-                }
-                else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,34433°N,&nbsp;14,54697°E";
-                        kfi = 1;
-                    }
-    }
-
-            function kopiraj() {
-                var tempInput = document.createElement("textarea");
-                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
-                document.body.appendChild(tempInput);
-                tempInput.select();
-                tempInput.setSelectionRange(0, 99999);
-                document.execCommand("copy");
-                document.body.removeChild(tempInput);
-                tooltip("Kopirano v odložišče...");
-
-            }
-
-    
-</script>
-        
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,34433°N&nbsp;14,54697°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/cojzova_koca_na_kokrskem_sedlu/98"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
-    
-    <div class="g2"><b>Vrsta:</b> koča, bivak, sedlo</div>
-  
-        <div class="g2"><b>Vremenska napoved:</b></div>
-        <div class="g2">
-<table><tr>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Cojzova koča na Kokrskem sedlu - Petek" href="/vreme_gora/cojzova_koca_na_kokrskem_sedlu/3/98#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Cojzova koča na Kokrskem sedlu - Sobota" href="/vreme_gora/cojzova_koca_na_kokrskem_sedlu/3/98#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Cojzova koča na Kokrskem sedlu - Nedelja" href="/vreme_gora/cojzova_koca_na_kokrskem_sedlu/3/98#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Cojzova koča na Kokrskem sedlu - Ponedeljek" href="/vreme_gora/cojzova_koca_na_kokrskem_sedlu/3/98#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Cojzova koča na Kokrskem sedlu - Torek" href="/vreme_gora/cojzova_koca_na_kokrskem_sedlu/3/98#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    </tr></table>
-        </div>
+    <div class="g2"><b>Vrsta:</b> </div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 730.740</div>
-<div class="g2"><b>Priljubljenost:</b> 98%&nbsp;(57.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 266.117</div>
+<div class="g2"><b>Priljubljenost:</b> 66%&nbsp;(1133.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=98" title="Število vpisov v vpisni knjigi">17</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Kokrsko sedlo je prehod med dolino Kamniške Bistrice in Kokro. Sedlo obdajata dva visoka vrhova to sta Grintovec in Kalška gora. Na sedlu je postavljen planinski dom, ki ima tudi zimsko sobo. Cojzova koča je odprta v razširjeni poletni sezoni. Do koče je speljana tovorna žičnica iz doline Kamniške Bistrice. V bližini koče je vetrna elektrarna.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Račka vrata ležijo v jugozahodnem ostenju V.Raduhe, ki se strmo dviga vzhodno od Robanovega kota. Ime so dobila po kmetiji Račnik, ki leži pod njimi. Sodijo med največje tovrstne znamenitosti v Sloveniji. Široka so 30 in visoka 25 metrov. Brečasta kamnina jim daje na zahodni strani značilno rdečkasto barvo. Zaradi take sestave je obok vrat zelo krušljiv. Kljub velikosti jih je zelo težko najti. Skoznje vodi le neoznačena lovska pot, ki jih je na Raduhi zelo veliko. Pozimi se z oboka naredijo ogromne ledene sveče. Obok je prehoden s tem, da je spodnji del kar težko plezljiv, zgornja polovica pa je lažje prehodna. Iz vrat je razgled bolj skromen. Z oboka nad njimi pa se nam odpre veličasten razgled. Vidijo se Sv. Duh nad Solčavo, Ojstrc v Avstriji, Storžič, Strelovec, Krofička, Ojstrica, Robanov kot, V.Vrh, V.Rogatec, Menina planina, nad nami pa mogočno ostenje Raduhe. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +704,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=98&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1610&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -797,79 +713,35 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><b>Gore v okolici</b>
-<select onchange="radiusf(this.value,1);">
-<option value="0,5">0,5</option>
-<option value="1">1</option>
-<option value="1,5">1,5</option>
-<option selected value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="6">6</option>
-<option value="8">8</option>
-<option value="10">10</option>
-<option value="15">15</option>
-<option value="20">20</option>
-<option value="30">30</option>
-</select> <b>km:</b><br />
-</div>
-<div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_pod_grintovcem/3/390">Bivak pod Grintovcem (2100m)</a>, <a class="moder" href="/gora/bivak_v_kocni/3/1064">Bivak v Kočni (1952m)</a>, <a class="moder" href="/gora/grintovec/3/16">Grintovec (2558m)</a>, <a class="moder" href="/gora/kalska_gora/3/103">Kalška gora (2047m)</a>, <a class="moder" href="/gora/kalski_greben/3/318">Kalški greben (2224m)</a>, <a class="moder" href="/gora/kogel/3/1525">Kogel (2100m)</a>
-</div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fracka_vrata%2f3%2f1610"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fracka_vrata%2f3%2f1610"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fracka_vrata%2f3%2f1610"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
-<select onchange="radiusf(this.value,2);">
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="5">5</option>
-<option value="7">7</option>
-<option value="10">10</option>
-<option selected value="15">15</option>
-<option value="20">20</option>
-<option value="25">25</option>
-<option value="30">30</option>
-<option value="35">35</option>
-<option value="40">40</option>
-<option value="50">50</option>
-<option value="60">60</option>
-</select> <b>km:</b><br></div>
-<div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
-</div>
-
-
-
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fcojzova_koca_na_kokrskem_sedlu%2f3%2f98"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fcojzova_koca_na_kokrskem_sedlu%2f3%2f98"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fcojzova_koca_na_kokrskem_sedlu%2f3%2f98"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
-
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/cojzova_koca_na_kokrskem_sedlu/98" title="Cojzova koča na Kokrskem sedlu 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.kokrskoSedlo.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/cojzova_koca_na_kokrskem_sedlu/22" onclick="event.preventDefault(); window.open('/slika_gora/cojzova_koca_na_kokrskem_sedlu/22');"><img class="slikagm" alt="Cojzova koča na Kokrskem sedlu" src="//www.hribi.net/Gora/p8290025medium6sw.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/racka_vrata/6700" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6700');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/P92118275706584.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/cojzova_koca_na_kokrskem_sedlu/393" onclick="event.preventDefault(); window.open('/slika_gora/cojzova_koca_na_kokrskem_sedlu/393');"><img class="slikagm" alt="Cojzova koča na Kokrskem sedlu" src="//www.hribi.net/Gora/p6250173medium0sd.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/racka_vrata/6701" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6701');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/P92118365706586.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/cojzova_koca_na_kokrskem_sedlu/759" onclick="event.preventDefault(); window.open('/slika_gora/cojzova_koca_na_kokrskem_sedlu/759');"><img class="slikagm" alt="Cojzova koča na Kokrskem sedlu" src="//www.hribi.net/Gora/p8180047mediumlm7.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/racka_vrata/6702" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6702');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/P92118525706587.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/cojzova_koca_na_kokrskem_sedlu/1351" onclick="event.preventDefault(); window.open('/slika_gora/cojzova_koca_na_kokrskem_sedlu/1351');"><img class="slikagm" alt="Cojzova koča na Kokrskem sedlu" src="//www.hribi.net/Gora/p8260179mediumen5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/racka_vrata/6703" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6703');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/P92118595706589.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/cojzova_koca_na_kokrskem_sedlu/4731" onclick="event.preventDefault(); window.open('/slika_gora/cojzova_koca_na_kokrskem_sedlu/4731');"><img class="slikagm" alt="Cojzova koča na Kokrskem sedlu" src="//www.hribi.net/slike1/Grintovec 167222768.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/racka_vrata/6704" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6704');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/P92118635706591.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/cojzova_koca_na_kokrskem_sedlu/6257" onclick="event.preventDefault(); window.open('/slika_gora/cojzova_koca_na_kokrskem_sedlu/6257');"><img class="slikagm" alt="Cojzova koča na Kokrskem sedlu" src="//www.hribi.net/slike1/P7230073277200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/racka_vrata/6705" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/6705');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/kra_ka_vrata5706592.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/cojzova_koca_na_kokrskem_sedlu/6258" onclick="event.preventDefault(); window.open('/slika_gora/cojzova_koca_na_kokrskem_sedlu/6258');"><img class="slikagm" alt="Cojzova koča na Kokrskem sedlu" src="//www.hribi.net/slike1/P7230070277200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/racka_vrata/8550" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/8550');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/9216182843.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/cojzova_koca_na_kokrskem_sedlu/6259" onclick="event.preventDefault(); window.open('/slika_gora/cojzova_koca_na_kokrskem_sedlu/6259');"><img class="slikagm" alt="Cojzova koča na Kokrskem sedlu" src="//www.hribi.net/slike1/P7230194277200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/racka_vrata/8551" onclick="event.preventDefault(); window.open('/slika_gora/racka_vrata/8551');"><img class="slikagm" alt="Račka vrata" src="//www.hribi.net/sliketemp/9196182843.th.jpg" /></a>
     
 </div>
 
 
 
-
+<div style="padding-top:8px;"><b>Video:</b></div><div>
+        <a target="_blank" href="/video_posnetek/Gorništvo/racka_vrata/3/739"><img class="slikagmv" alt="Račka vrata" src="https://img.youtube.com/vi/000YjDvYnfY/0.jpg" /></a>
+    </div>
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -927,7 +799,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=98&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1610&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,13 +809,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/v_koncu_cojzova_koca_na_kokrskem_sedlu/3/98/49">V Koncu - Cojzova koča na Kokrskem sedlu</a></td><td class="tdG"><a href="/izlet/v_koncu_cojzova_koca_na_kokrskem_sedlu/3/98/49">2 h 15 min</a></td><td class="tdG"><a href="/izlet/v_koncu_cojzova_koca_na_kokrskem_sedlu/3/98/49">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/suhadolnik_cojzova_koca_na_kokrskem_sedlu_cez_tasko/3/98/645">Suhadolnik - Cojzova koča na Kokrskem sedlu (čez Taško)</a></td><td class="tdG"><a href="/izlet/suhadolnik_cojzova_koca_na_kokrskem_sedlu_cez_tasko/3/98/645">2 h 30 min</a></td><td class="tdG"><a href="/izlet/suhadolnik_cojzova_koca_na_kokrskem_sedlu_cez_tasko/3/98/645">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/suhadolnik_cojzova_koca_na_kokrskem_sedlu_stara_pot_/3/98/646">Suhadolnik - Cojzova koča na Kokrskem sedlu (stara pot )</a></td><td class="tdG"><a href="/izlet/suhadolnik_cojzova_koca_na_kokrskem_sedlu_stara_pot_/3/98/646">2 h 45 min</a></td><td class="tdG"><a href="/izlet/suhadolnik_cojzova_koca_na_kokrskem_sedlu_stara_pot_/3/98/646">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zagana_pec_cojzova_koca_na_kokrskem_sedlu_lovska_pot/3/98/2638">Žagana peč - Cojzova koča na Kokrskem sedlu (lovska pot)</a></td><td class="tdG"><a href="/izlet/zagana_pec_cojzova_koca_na_kokrskem_sedlu_lovska_pot/3/98/2638">4 h</a></td><td class="tdG"><a href="/izlet/zagana_pec_cojzova_koca_na_kokrskem_sedlu_lovska_pot/3/98/2638">delno zahtevna neoznačena pot, zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/rogovilec_racka_vrata_lovska_pot/3/1610/2824">Rogovilec - Račka vrata (Lovska pot)</a></td><td class="tdG"><a href="/izlet/rogovilec_racka_vrata_lovska_pot/3/1610/2824">2 h 15 min</a></td><td class="tdG"><a href="/izlet/rogovilec_racka_vrata_lovska_pot/3/1610/2824">zahtevna neoznačena steza</a></td></tr>
 
 </table>
 

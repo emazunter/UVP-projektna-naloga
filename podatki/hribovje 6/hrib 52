@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveta Jedert</title>
-        <meta name="description" content="Natančen opis cerkve Sveta Jedert in vseh pristopov na Sveta Jedert. Cerkev sv. Jederti se nahaja na razglednem travniku severozahodno od Tošča, ki j." />
+        <title>Sveti Urban (nad Gorenjo Dobravo)</title>
+        <meta name="description" content="Natančen opis gore Sveti Urban (nad Gorenjo Dobravo) in vseh pristopov na Sveti Urban (nad Gorenjo Dobravo). Cerkev sv. urbana se nahaja na hribu med Gorenjo Dobravo in Todražem. Z vrha, na." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./533?gorovjeid=5&amp;id=533" id="form1">
+    <form method="post" action="./3072?gorovjeid=5&amp;id=3072" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveta_jedert/5/533"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=5&id=533"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_urban_above_gorenja_dobrava/5/3072"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=5&id=3072"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a> / Sveta Jedert
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a> / Sveti Urban (nad Gorenjo Dobravo)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(533);
+    gorast(3072);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveta Jedert</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Urban (nad Gorenjo Dobravo)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a></div>
-    <div class="g2"><b>Višina:</b> 750&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 570&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;6,060'N&nbsp;/&nbsp;14°&nbsp;18,1740'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;5,3550'N&nbsp;/&nbsp;14°&nbsp;9,6420'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;6'&nbsp;3,60''N&nbsp;/&nbsp;14°&nbsp;18'&nbsp;10,44''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;5'&nbsp;21,30''N&nbsp;/&nbsp;14°&nbsp;9'&nbsp;38,52''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.101°N&nbsp;/&nbsp;14.3029°E";
+                        document.getElementById("kf0").innerHTML = "46.08925°N&nbsp;/&nbsp;14.1607°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,101°N,&nbsp;14,3029°E";
+                    document.getElementById("kf0").innerHTML = "46,08925°N,&nbsp;14,1607°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,101°N&nbsp;14,3029°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveta_jedert/533"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,08925°N&nbsp;14,1607°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_urban_nad_gorenjo_dobravo/3072"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Urban (nad Gorenjo Dobravo) - Torek" href="/vreme_gora/sveti_urban_nad_gorenjo_dobravo/5/3072#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Urban (nad Gorenjo Dobravo) - Sreda" href="/vreme_gora/sveti_urban_nad_gorenjo_dobravo/5/3072#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Urban (nad Gorenjo Dobravo) - Četrtek" href="/vreme_gora/sveti_urban_nad_gorenjo_dobravo/5/3072#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Jedert - Petek" href="/vreme_gora/sveta_jedert/5/533#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Urban (nad Gorenjo Dobravo) - Petek" href="/vreme_gora/sveti_urban_nad_gorenjo_dobravo/5/3072#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Jedert - Sobota" href="/vreme_gora/sveta_jedert/5/533#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Jedert - Nedelja" href="/vreme_gora/sveta_jedert/5/533#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Jedert - Ponedeljek" href="/vreme_gora/sveta_jedert/5/533#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveta Jedert - Torek" href="/vreme_gora/sveta_jedert/5/533#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Urban (nad Gorenjo Dobravo) - Sobota" href="/vreme_gora/sveti_urban_nad_gorenjo_dobravo/5/3072#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 312.651</div>
-<div class="g2"><b>Priljubljenost:</b> 71%&nbsp;(955.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Ogledov:</b> 1.350</div>
+<div class="g2"><b>Priljubljenost:</b> 23%&nbsp;(2531.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=533" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev sv. Jederti se nahaja na razglednem travniku severozahodno od Tošča, ki je najvišji vrh Polhograjskega hribovja. Od cerkvice je lep pogled po okoliškem hribovju.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev sv. urbana se nahaja na hribu med Gorenjo Dobravo in Todražem. Z vrha, na katerem se nahaja vpisna skrinjica z vpisno knjigo in žigom, se nam odpre nekaj razgleda proti Pasji ravni, Gorenji vasi, Blegošu in okoliškemu hribovju, na ostale strani pa razgled zastira gozd.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=533&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3072&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/tosc/5/122">Tošč (1021m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,33 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica/318">Brezovica</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/katarina_nad_ljubljano/314">Katarina nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_brdo/465">Ljubljana Brdo</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_kozarje/467">Ljubljana Kozarje</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/medvode/184">Medvode</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/zbiljsko_jezero/2165">Zbiljsko jezero</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_jedert%2f5%2f533"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_jedert%2f5%2f533"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_jedert%2f5%2f533"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_urban_nad_gorenjo_dobravo%2f5%2f3072"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_urban_nad_gorenjo_dobravo%2f5%2f3072"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_urban_nad_gorenjo_dobravo%2f5%2f3072"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/sveta_jedert/533" title="Sveta Jedert 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Svetajedert.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveta_jedert/1531" onclick="event.preventDefault(); window.open('/slika_gora/sveta_jedert/1531');"><img class="slikagm" alt="Sveta Jedert" src="//www.hribi.net/slike1/P2250044110656.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_urban_nad_gorenjo_dobravo/18129" onclick="event.preventDefault(); window.open('/slika_gora/sveti_urban_nad_gorenjo_dobravo/18129');"><img class="slikagm" alt="Sveti Urban (nad Gorenjo Dobravo)" src="//slike.hribi.net/slike4/2_2420607855782_DSCN7990.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveta_jedert/1532" onclick="event.preventDefault(); window.open('/slika_gora/sveta_jedert/1532');"><img class="slikagm" alt="Sveta Jedert" src="//www.hribi.net/slike1/P2250024110656.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_urban_nad_gorenjo_dobravo/18130" onclick="event.preventDefault(); window.open('/slika_gora/sveti_urban_nad_gorenjo_dobravo/18130');"><img class="slikagm" alt="Sveti Urban (nad Gorenjo Dobravo)" src="//slike.hribi.net/slike4/2_0801607855822_DSCN7992.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveta_jedert/1538" onclick="event.preventDefault(); window.open('/slika_gora/sveta_jedert/1538');"><img class="slikagm" alt="Sveta Jedert" src="//www.hribi.net/slike1/P2250003163072.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_urban_nad_gorenjo_dobravo/18131" onclick="event.preventDefault(); window.open('/slika_gora/sveti_urban_nad_gorenjo_dobravo/18131');"><img class="slikagm" alt="Sveti Urban (nad Gorenjo Dobravo)" src="//slike.hribi.net/slike4/2_1362607855780_DSCN7989.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveta_jedert/5388" onclick="event.preventDefault(); window.open('/slika_gora/sveta_jedert/5388');"><img class="slikagm" alt="Sveta Jedert" src="//www.hribi.net/slike1/GrmadaTosc 226120960.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveta_jedert/5389" onclick="event.preventDefault(); window.open('/slika_gora/sveta_jedert/5389');"><img class="slikagm" alt="Sveta Jedert" src="//www.hribi.net/slike1/GrmadaTosc 222120960.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveta_jedert/5390" onclick="event.preventDefault(); window.open('/slika_gora/sveta_jedert/5390');"><img class="slikagm" alt="Sveta Jedert" src="//www.hribi.net/slike1/GrmadaTosc 227120960.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveta_jedert/5508" onclick="event.preventDefault(); window.open('/slika_gora/sveta_jedert/5508');"><img class="slikagm" alt="Sveta Jedert" src="//www.hribi.net/slike1/PasjaRavan 043151360.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_urban_nad_gorenjo_dobravo/18132" onclick="event.preventDefault(); window.open('/slika_gora/sveti_urban_nad_gorenjo_dobravo/18132');"><img class="slikagm" alt="Sveti Urban (nad Gorenjo Dobravo)" src="//slike.hribi.net/slike4/2_2367608649078_DSCN8017.JPG" /></a>
     
 </div>
 
@@ -925,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=533&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3072&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,9 +926,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/petacev_graben_sveta_jedert/5/533/2473">Petačev graben - Sveta Jedert</a></td><td class="tdG"><a href="/izlet/petacev_graben_sveta_jedert/5/533/2473">1 h</a></td><td class="tdG"><a href="/izlet/petacev_graben_sveta_jedert/5/533/2473">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gorenja_dobrava_sveti_urban_nad_gorenjo_dobravo/5/3072/7272">Gorenja Dobrava - Sveti Urban (nad Gorenjo Dobravo)</a></td><td class="tdG"><a href="/izlet/gorenja_dobrava_sveti_urban_nad_gorenjo_dobravo/5/3072/7272"> 25 min</a></td><td class="tdG"><a href="/izlet/gorenja_dobrava_sveti_urban_nad_gorenjo_dobravo/5/3072/7272">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/selo_sveta_jedert/5/533/913">Selo - Sveta Jedert</a></td><td class="tdG"><a href="/izlet/selo_sveta_jedert/5/533/913"> 10 min</a></td><td class="tdG"><a href="/izlet/selo_sveta_jedert/5/533/913">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/pc_todraz_sveti_urban_nad_gorenjo_dobravo/5/3072/7271">PC Todraž - Sveti Urban (nad Gorenjo Dobravo)</a></td><td class="tdG"><a href="/izlet/pc_todraz_sveti_urban_nad_gorenjo_dobravo/5/3072/7271"> 25 min</a></td><td class="tdG"><a href="/izlet/pc_todraz_sveti_urban_nad_gorenjo_dobravo/5/3072/7271">lahka neoznačena steza</a></td></tr>
 
 </table>
 

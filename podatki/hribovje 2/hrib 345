@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Lopatnik</title>
-        <meta name="description" content="Natančen opis gore Lopatnik in vseh pristopov na Lopatnik. Lopatnik je lahko dostopen dvatisočak nad planino Zapleč. Njegov vrh v obliki di." />
+        <title>Lovska koča na Glinu</title>
+        <meta name="description" content="Natančen opis gore Lovska koča na Glinu in vseh pristopov na Lovska koča na Glinu. Lovska koča na Glinu se nahaja na razgledni vzpetini med planinama Suha in Polja." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2309?gorovjeid=1&amp;id=2309" id="form1">
+    <form method="post" action="./2185?gorovjeid=1&amp;id=2185" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lopatnik/1/2309"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=2309"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/hunting_cottage_na_glinu/1/2185"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=2185"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Lopatnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Lovska koča na Glinu
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2309);
+    gorast(2185);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Lopatnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Lovska koča na Glinu</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2012&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1527&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,2080'N&nbsp;/&nbsp;13°&nbsp;38,9580'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;14,4660'N&nbsp;/&nbsp;13°&nbsp;52,1040'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;12,48''N&nbsp;/&nbsp;13°&nbsp;38'&nbsp;57,48''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;14'&nbsp;27,96''N&nbsp;/&nbsp;13°&nbsp;52'&nbsp;6,24''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.2868°N&nbsp;/&nbsp;13.6493°E";
+                        document.getElementById("kf0").innerHTML = "46.2411°N&nbsp;/&nbsp;13.8684°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,2868°N,&nbsp;13,6493°E";
+                    document.getElementById("kf0").innerHTML = "46,2411°N,&nbsp;13,8684°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2868°N&nbsp;13,6493°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lopatnik/2309"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2411°N&nbsp;13,8684°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lovska_koca_na_glinu/2185"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Lovska koča na Glinu - Torek" href="/vreme_gora/lovska_koca_na_glinu/1/2185#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Lovska koča na Glinu - Sreda" href="/vreme_gora/lovska_koca_na_glinu/1/2185#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Lovska koča na Glinu - Četrtek" href="/vreme_gora/lovska_koca_na_glinu/1/2185#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopatnik - Petek" href="/vreme_gora/lopatnik/1/2309#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lovska koča na Glinu - Petek" href="/vreme_gora/lovska_koca_na_glinu/1/2185#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopatnik - Sobota" href="/vreme_gora/lopatnik/1/2309#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopatnik - Nedelja" href="/vreme_gora/lopatnik/1/2309#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopatnik - Ponedeljek" href="/vreme_gora/lopatnik/1/2309#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopatnik - Torek" href="/vreme_gora/lopatnik/1/2309#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lovska koča na Glinu - Sobota" href="/vreme_gora/lovska_koca_na_glinu/1/2185#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 420.168</div>
-<div class="g2"><b>Priljubljenost:</b> 83%&nbsp;(570.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">16</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 161.968</div>
+<div class="g2"><b>Priljubljenost:</b> 53%&nbsp;(1531.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Lopatnik je lahko dostopen dvatisočak nad planino Zapleč. Njegov vrh v obliki diadema se dviga med sedlom Vrata in grebenom Krnčice. Vrh je brez vpisne skrinjice in žiga. Z njega se odpirajo prekrasni razgledi na večji del Julijskih Alp in še naprej. Na vrhu je veliko ostankov iz 1. svetovne vojne, ki nas na vsakem koraku opominjajo na hude čase, ki so jih tu preživljali vojaki. <br><br>Vrh se rad že dopoldan zagrne v meglo in oblake, ki se podijo okoli Krna. V vročih poletnih dneh pa je dobro za vzpon izbrati zgodnje jutranje ure, saj so južna pobočja, po katerih se vije pot, cel dan izpostavljena soncu. <br></div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Lovska koča na Glinu se nahaja na razgledni vzpetini med planinama Suha in Poljana. Od koče se nam odpre lep pogled proti Triglavu in večini gora nad Bohinjem, lepo pa se vidi tudi del Spodnjih Bohinjskih gora.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2309&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2185&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/krncica/1/1625">Krnčica (2142m)</a>, <a class="moder" href="/gora/planina_zagreben/1/2984">Planina Zagreben (1240m)</a>, <a class="moder" href="/gora/veliki_lemez/1/2988">Veliki Lemež (2042m)</a>, <a class="moder" href="/gora/vogel_nad_lepeno/1/2986">Vogel (nad Lepeno) (1980m)</a>
+<a class="moder" href="/gora/gradovec/1/2649">Gradovec (1692m)</a>, <a class="moder" href="/gora/mala_rodica/1/1098">Mala Rodica (1901m)</a>, <a class="moder" href="/gora/mali_raskovec/1/1106">Mali Raskovec (1946m)</a>, <a class="moder" href="/gora/planina_poljana/1/1100">Planina Poljana (1466m)</a>, <a class="moder" href="/gora/planina_suha/1/311">Planina Suha (1385m)</a>, <a class="moder" href="/gora/raskovec/1/1099">Raskovec (1967m)</a>, <a class="moder" href="/gora/rodica/1/310">Rodica (1966m)</a>, <a class="moder" href="/gora/suha_rodica_novi_vrh/1/1107">Suha Rodica (Novi vrh) (1944m)</a>, <a class="moder" href="/gora/zavitar/1/464">Zavitar (1750m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,48 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/robic/1781">Robič</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flopatnik%2f1%2f2309"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flopatnik%2f1%2f2309"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flopatnik%2f1%2f2309"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flovska_koca_na_glinu%2f1%2f2185"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flovska_koca_na_glinu%2f1%2f2185"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flovska_koca_na_glinu%2f1%2f2185"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/lopatnik/12278" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12278');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_66327418814.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lovska_koca_na_glinu/11080" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_glinu/11080');"><img class="slikagm" alt="Lovska koča na Glinu" src="//www.hribi.net/slike1/PlaninaPoljana%200643276.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lopatnik/12279" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12279');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_51957418821.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12280" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12280');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_51807418824.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12281" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12281');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_66947418826.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12282" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12282');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/1409201310697418828.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12283" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12283');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/1409201310757418829.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12284" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12284');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_04637418835.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12285" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12285');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_05077418837.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12286" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12286');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_05157418839.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12287" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12287');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_31447418846.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12288" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12288');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_37587418863.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12289" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12289');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_37627418865.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12290" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12290');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_37327418867.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12295" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12295');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_3098_17419799.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12357" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12357');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_82187471952.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lopatnik/12358" onclick="event.preventDefault(); window.open('/slika_gora/lopatnik/12358');"><img class="slikagm" alt="Lopatnik" src="//www.hribi.net/slike5/IMG_82197471953.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lovska_koca_na_glinu/11081" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_glinu/11081');"><img class="slikagm" alt="Lovska koča na Glinu" src="//slike.hribi.net/slike4/2_0144429609286_PlaninaPoljana_069.JPG" /></a>
     
 </div>
 
@@ -940,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2309&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2185&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -950,7 +922,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/drezniske_ravne_lopatnik/1/2309/4757">Drežniške Ravne - Lopatnik</a></td><td class="tdG"><a href="/izlet/drezniske_ravne_lopatnik/1/2309/4757">3 h</a></td><td class="tdG"><a href="/izlet/drezniske_ravne_lopatnik/1/2309/4757">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ribcev_laz_lovska_koca_na_glinu/1/2185/4509">Ribčev Laz - Lovska koča na Glinu</a></td><td class="tdG"><a href="/izlet/ribcev_laz_lovska_koca_na_glinu/1/2185/4509">3 h 30 min</a></td><td class="tdG"><a href="/izlet/ribcev_laz_lovska_koca_na_glinu/1/2185/4509">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/javorje_lovska_koca_na_glinu/1/2185/4508">Javorje - Lovska koča na Glinu</a></td><td class="tdG"><a href="/izlet/javorje_lovska_koca_na_glinu/1/2185/4508">2 h</a></td><td class="tdG"><a href="/izlet/javorje_lovska_koca_na_glinu/1/2185/4508">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_debelo_glavo_lovska_koca_na_glinu/1/2185/4512">Pod Debelo glavo - Lovska koča na Glinu</a></td><td class="tdG"><a href="/izlet/pod_debelo_glavo_lovska_koca_na_glinu/1/2185/4512">2 h 15 min</a></td><td class="tdG"><a href="/izlet/pod_debelo_glavo_lovska_koca_na_glinu/1/2185/4512">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/pod_debelo_glavo_lovska_koca_na_glinu_mimo_lovske_koce/1/2185/4514"> Pod Debelo glavo - Lovska koča na Glinu (mimo lovske koče)</a></td><td class="tdG"><a href="/izlet/pod_debelo_glavo_lovska_koca_na_glinu_mimo_lovske_koce/1/2185/4514">2 h 30 min</a></td><td class="tdG"><a href="/izlet/pod_debelo_glavo_lovska_koca_na_glinu_mimo_lovske_koce/1/2185/4514">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/vodel_lovska_koca_na_glinu/1/2185/5963">Vodel - Lovska koča na Glinu</a></td><td class="tdG"><a href="/izlet/vodel_lovska_koca_na_glinu/1/2185/5963">2 h 35 min</a></td><td class="tdG"><a href="/izlet/vodel_lovska_koca_na_glinu/1/2185/5963">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Razpok</title>
-        <meta name="description" content="Natančen opis planine Razpok in vseh pristopov na Razpok. Razpok je nekakšen rovt na Jelovici, kjer stoji furmanska bajta, manjša gozdarsk." />
+        <title>Lipniški grad (Pusti grad nad Lipnico)</title>
+        <meta name="description" content="Natančen opis gore Lipniški grad (Pusti grad nad Lipnico) in vseh pristopov na Lipniški grad (Pusti grad nad Lipnico). Lipniški grad ali Pusti grad nad Lipnico (po nemško Waldenberg) se nahaja na raz." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3107?gorovjeid=21&amp;id=3107" id="form1">
+    <form method="post" action="./2618?gorovjeid=21&amp;id=2618" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/razpok/21/3107"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=3107"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/castle_lipniski_grad_pusti_grad_above_lipnica/21/2618"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=2618"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Razpok
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Lipniški grad (Pusti grad nad Lipnico)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3107);
+    gorast(2618);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Razpok</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Lipniški grad (Pusti grad nad Lipnico)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1002&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 590&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;18,7020'N&nbsp;/&nbsp;14°&nbsp;9,5160'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;19,6440'N&nbsp;/&nbsp;14°&nbsp;10,20'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;18'&nbsp;42,12''N&nbsp;/&nbsp;14°&nbsp;9'&nbsp;30,96''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;19'&nbsp;38,64''N&nbsp;/&nbsp;14°&nbsp;10'&nbsp;12,00''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.3117°N&nbsp;/&nbsp;14.1586°E";
+                        document.getElementById("kf0").innerHTML = "46.3274°N&nbsp;/&nbsp;14.17°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,3117°N,&nbsp;14,1586°E";
+                    document.getElementById("kf0").innerHTML = "46,3274°N,&nbsp;14,17°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3117°N&nbsp;14,1586°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/razpok/3107"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3274°N&nbsp;14,17°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lipniski_grad_pusti_grad_nad_lipnico/2618"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> planina</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Lipniški grad (Pusti grad nad Lipnico) - Torek" href="/vreme_gora/lipniski_grad_pusti_grad_nad_lipnico/21/2618#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Lipniški grad (Pusti grad nad Lipnico) - Sreda" href="/vreme_gora/lipniski_grad_pusti_grad_nad_lipnico/21/2618#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Lipniški grad (Pusti grad nad Lipnico) - Četrtek" href="/vreme_gora/lipniski_grad_pusti_grad_nad_lipnico/21/2618#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Razpok - Petek" href="/vreme_gora/razpok/21/3107#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lipniški grad (Pusti grad nad Lipnico) - Petek" href="/vreme_gora/lipniski_grad_pusti_grad_nad_lipnico/21/2618#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Razpok - Sobota" href="/vreme_gora/razpok/21/3107#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Razpok - Nedelja" href="/vreme_gora/razpok/21/3107#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Razpok - Ponedeljek" href="/vreme_gora/razpok/21/3107#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Razpok - Torek" href="/vreme_gora/razpok/21/3107#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lipniški grad (Pusti grad nad Lipnico) - Sobota" href="/vreme_gora/lipniski_grad_pusti_grad_nad_lipnico/21/2618#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 1.810</div>
-<div class="g2"><b>Priljubljenost:</b> 26%&nbsp;(2440.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Ogledov:</b> 5.670</div>
+<div class="g2"><b>Priljubljenost:</b> 36%&nbsp;(2118.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis planine:</b><br />Razpok je nekakšen rovt na Jelovici, kjer stoji furmanska bajta, manjša gozdarska koča in dva vikenda. Z roba Razpoka se nam odpre lep razgled pogled na del Gorenjske in del osrednjih in zahodnih Karavank, kjer se najlepše vidi bližnji Stol.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Lipniški grad ali Pusti grad nad Lipnico (po nemško Waldenberg) se nahaja na razgledni vzpetini nad vodotokoma Save in Lipnice, točneje med Lipnico in Lancovim. Danes so od gradu, ki je prvič omenjen v 13. st. ostale le razvaline.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3107&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2618&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/azmanov_rovt/21/3108">Ažmanov rovt (960m)</a>, <a class="moder" href="/gora/lipniski_grad_pusti_grad_nad_lipnico/21/2618">Lipniški grad (Pusti grad nad Lipnico) (590m)</a>
+<a class="moder" href="/gora/razpok/21/3107">Razpok (1002m)</a>, <a class="moder" href="/gora/sveti_lambert_lancovo/21/3268">Sveti Lambert (Lancovo) (515m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,32 +835,28 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
+<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frazpok%2f21%2f3107"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frazpok%2f21%2f3107"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frazpok%2f21%2f3107"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flipniski_grad_pusti_grad_nad_lipnico%2f21%2f2618"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flipniski_grad_pusti_grad_nad_lipnico%2f21%2f2618"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flipniski_grad_pusti_grad_nad_lipnico%2f21%2f2618"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/razpok/18380" onclick="event.preventDefault(); window.open('/slika_gora/razpok/18380');"><img class="slikagm" alt="Razpok" src="//slike.hribi.net/slike4/2_1880616252207_DSCN6566.JPG" /></a>
+        <a target="_blank" href="/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14471" onclick="event.preventDefault(); window.open('/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14471');"><img class="slikagm" alt="Lipniški grad (Pusti grad nad Lipnico)" src="//www.hribi.net/slike1/DSCN575591392.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/razpok/18381" onclick="event.preventDefault(); window.open('/slika_gora/razpok/18381');"><img class="slikagm" alt="Razpok" src="//slike.hribi.net/slike4/2_2576616854517_DSCN6558.JPG" /></a>
+        <a target="_blank" href="/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14472" onclick="event.preventDefault(); window.open('/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14472');"><img class="slikagm" alt="Lipniški grad (Pusti grad nad Lipnico)" src="//www.hribi.net/slike1/DSCN5506330480.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/razpok/18382" onclick="event.preventDefault(); window.open('/slika_gora/razpok/18382');"><img class="slikagm" alt="Razpok" src="//slike.hribi.net/slike4/2_0851616854923_DSCN6559.JPG" /></a>
+        <a target="_blank" href="/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14473" onclick="event.preventDefault(); window.open('/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14473');"><img class="slikagm" alt="Lipniški grad (Pusti grad nad Lipnico)" src="//www.hribi.net/slike1/DSCN5660352512.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/razpok/18383" onclick="event.preventDefault(); window.open('/slika_gora/razpok/18383');"><img class="slikagm" alt="Razpok" src="//slike.hribi.net/slike4/2_1518616854925_DSCN6562.JPG" /></a>
+        <a target="_blank" href="/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14474" onclick="event.preventDefault(); window.open('/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14474');"><img class="slikagm" alt="Lipniški grad (Pusti grad nad Lipnico)" src="//www.hribi.net/slike1/DSCN5669352512.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/razpok/18384" onclick="event.preventDefault(); window.open('/slika_gora/razpok/18384');"><img class="slikagm" alt="Razpok" src="//slike.hribi.net/slike4/2_2380616854928_DSCN6563.JPG" /></a>
+        <a target="_blank" href="/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14475" onclick="event.preventDefault(); window.open('/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14475');"><img class="slikagm" alt="Lipniški grad (Pusti grad nad Lipnico)" src="//slike.hribi.net/slike4/2_0387515265364_DSCN5663.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/razpok/18385" onclick="event.preventDefault(); window.open('/slika_gora/razpok/18385');"><img class="slikagm" alt="Razpok" src="//slike.hribi.net/slike4/2_3817616854931_DSCN6572.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/razpok/18386" onclick="event.preventDefault(); window.open('/slika_gora/razpok/18386');"><img class="slikagm" alt="Razpok" src="//slike.hribi.net/slike4/2_439616854934_DSCN6573.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/razpok/18724" onclick="event.preventDefault(); window.open('/slika_gora/razpok/18724');"><img class="slikagm" alt="Razpok" src="//www.hribi.net/slike12/2_03626370532_DSCN6160.JPG" /></a>
+        <a target="_blank" href="/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14476" onclick="event.preventDefault(); window.open('/slika_gora/lipniski_grad_pusti_grad_nad_lipnico/14476');"><img class="slikagm" alt="Lipniški grad (Pusti grad nad Lipnico)" src="//slike.hribi.net/slike4/2_1768515265367_DSCN5670.JPG" /></a>
     
 </div>
 
@@ -924,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3107&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2618&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -934,15 +930,23 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_lipnica_kolnica_razpok/21/3107/7383">Spodnja Lipnica (Kolnica) - Razpok</a></td><td class="tdG"><a href="/izlet/spodnja_lipnica_kolnica_razpok/21/3107/7383">1 h 30 min</a></td><td class="tdG"><a href="/izlet/spodnja_lipnica_kolnica_razpok/21/3107/7383">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/radovljica_lipniski_grad_pusti_grad_nad_lipnico_po_naravoslovno_ucni_poti/21/2618/5896">Radovljica - Lipniški grad (Pusti grad nad Lipnico) (po naravoslovno učni poti)</a></td><td class="tdG"><a href="/izlet/radovljica_lipniski_grad_pusti_grad_nad_lipnico_po_naravoslovno_ucni_poti/21/2618/5896">1 h 20 min</a></td><td class="tdG"><a href="/izlet/radovljica_lipniski_grad_pusti_grad_nad_lipnico_po_naravoslovno_ucni_poti/21/2618/5896">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kamna_gorica_razpok/21/3107/7492">Kamna Gorica - Razpok</a></td><td class="tdG"><a href="/izlet/kamna_gorica_razpok/21/3107/7492">2 h</a></td><td class="tdG"><a href="/izlet/kamna_gorica_razpok/21/3107/7492">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/radovljica_lipniski_grad_pusti_grad_nad_lipnico_cez_ravnico/21/2618/5895">Radovljica - Lipniški grad (Pusti grad nad Lipnico) (čez Ravnico)</a></td><td class="tdG"><a href="/izlet/radovljica_lipniski_grad_pusti_grad_nad_lipnico_cez_ravnico/21/2618/5895">1 h 5 min</a></td><td class="tdG"><a href="/izlet/radovljica_lipniski_grad_pusti_grad_nad_lipnico_cez_ravnico/21/2618/5895">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kropa_slovenska_pec_razpok_zgoraj_po_cesti/21/3107/7380">Kropa (Slovenska peč) - Razpok (zgoraj po cesti)</a></td><td class="tdG"><a href="/izlet/kropa_slovenska_pec_razpok_zgoraj_po_cesti/21/3107/7380">2 h 45 min</a></td><td class="tdG"><a href="/izlet/kropa_slovenska_pec_razpok_zgoraj_po_cesti/21/3107/7380">lahka označena pot, lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kamna_gorica_lipniski_grad_pusti_grad_nad_lipnico/21/2618/5865">Kamna Gorica - Lipniški grad (Pusti grad nad Lipnico)</a></td><td class="tdG"><a href="/izlet/kamna_gorica_lipniski_grad_pusti_grad_nad_lipnico/21/2618/5865"> 40 min</a></td><td class="tdG"><a href="/izlet/kamna_gorica_lipniski_grad_pusti_grad_nad_lipnico/21/2618/5865">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planinski_dom_goska_ravan_razpok_po_cesti/21/3107/7388">Planinski dom Goška Ravan - Razpok (po cesti)</a></td><td class="tdG"><a href="/izlet/planinski_dom_goska_ravan_razpok_po_cesti/21/3107/7388"> 45 min</a></td><td class="tdG"><a href="/izlet/planinski_dom_goska_ravan_razpok_po_cesti/21/3107/7388">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kamna_gorica_lipniski_grad_pusti_grad_nad_lipnico_skozi_galerije/21/2618/5893">Kamna Gorica - Lipniški grad (Pusti grad nad Lipnico) (skozi Galerije)</a></td><td class="tdG"><a href="/izlet/kamna_gorica_lipniski_grad_pusti_grad_nad_lipnico_skozi_galerije/21/2618/5893"> 45 min</a></td><td class="tdG"><a href="/izlet/kamna_gorica_lipniski_grad_pusti_grad_nad_lipnico_skozi_galerije/21/2618/5893">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kropa_srednji_konec_razpok_cez_vreteno_in_zgoraj_po_cesti/21/3107/7504">Kropa (Srednji Konec) - Razpok (čez Vreteno in zgoraj po cesti)</a></td><td class="tdG"><a href="/izlet/kropa_srednji_konec_razpok_cez_vreteno_in_zgoraj_po_cesti/21/3107/7504">2 h 45 min</a></td><td class="tdG"><a href="/izlet/kropa_srednji_konec_razpok_cez_vreteno_in_zgoraj_po_cesti/21/3107/7504">delno zahtevna označena pot, lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/sobcev_bajer_lipniski_grad_pusti_grad_nad_lipnico_mimo_fuxove_brvi_in_po_naravoslovno_ucni_poti/21/2618/5894">Šobčev bajer - Lipniški grad (Pusti grad nad Lipnico) (mimo Fuxove brvi in po naravoslovno učni poti)</a></td><td class="tdG"><a href="/izlet/sobcev_bajer_lipniski_grad_pusti_grad_nad_lipnico_mimo_fuxove_brvi_in_po_naravoslovno_ucni_poti/21/2618/5894">2 h 30 min</a></td><td class="tdG"><a href="/izlet/sobcev_bajer_lipniski_grad_pusti_grad_nad_lipnico_mimo_fuxove_brvi_in_po_naravoslovno_ucni_poti/21/2618/5894">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/sobcev_bajer_lipniski_grad_pusti_grad_nad_lipnico_mimo_boltarja/21/2618/5866">Šobčev bajer - Lipniški grad (Pusti grad nad Lipnico) (mimo Boltarja)</a></td><td class="tdG"><a href="/izlet/sobcev_bajer_lipniski_grad_pusti_grad_nad_lipnico_mimo_boltarja/21/2618/5866">1 h 20 min</a></td><td class="tdG"><a href="/izlet/sobcev_bajer_lipniski_grad_pusti_grad_nad_lipnico_mimo_boltarja/21/2618/5866">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/sobcev_bajer_lipniski_grad_pusti_grad_nad_lipnico_mimo_fuxove_brvi_in_cez_ravnico/21/2618/5867">Šobčev bajer - Lipniški grad (Pusti grad nad Lipnico) (mimo Fuxove brvi in čez Ravnico)</a></td><td class="tdG"><a href="/izlet/sobcev_bajer_lipniski_grad_pusti_grad_nad_lipnico_mimo_fuxove_brvi_in_cez_ravnico/21/2618/5867">2 h 15 min</a></td><td class="tdG"><a href="/izlet/sobcev_bajer_lipniski_grad_pusti_grad_nad_lipnico_mimo_fuxove_brvi_in_cez_ravnico/21/2618/5867">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornja_dobrava_lipniski_grad_pusti_grad_nad_lipnico_cez_zjavko_in_skozi_galerije/21/2618/6351">Zgornja Dobrava - Lipniški grad (Pusti grad nad Lipnico) (čez Zjavko in skozi Galerije)</a></td><td class="tdG"><a href="/izlet/zgornja_dobrava_lipniski_grad_pusti_grad_nad_lipnico_cez_zjavko_in_skozi_galerije/21/2618/6351">1 h 15 min</a></td><td class="tdG"><a href="/izlet/zgornja_dobrava_lipniski_grad_pusti_grad_nad_lipnico_cez_zjavko_in_skozi_galerije/21/2618/6351">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornja_dobrava_lipniski_grad_pusti_grad_nad_lipnico_cez_ojstro_pec/21/2618/6350">Zgornja Dobrava - Lipniški grad (Pusti grad nad Lipnico) (čez Ojstro peč)</a></td><td class="tdG"><a href="/izlet/zgornja_dobrava_lipniski_grad_pusti_grad_nad_lipnico_cez_ojstro_pec/21/2618/6350">1 h 5 min</a></td><td class="tdG"><a href="/izlet/zgornja_dobrava_lipniski_grad_pusti_grad_nad_lipnico_cez_ojstro_pec/21/2618/6350">lahka neoznačena steza</a></td></tr>
 
 </table>
 

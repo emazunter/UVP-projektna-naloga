@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Lipševa vrata (Vrata, Felsentore)</title>
-        <meta name="description" content="Natančen opis gore Lipševa vrata (Vrata, Felsentore) in vseh pristopov na Lipševa vrata (Vrata, Felsentore). Lipševa vrata, domačini jim pravijo tudi Vrata ali Felsentore, so ena od dveh ze." />
+        <title>Rokov vrh / Rochusberg</title>
+        <meta name="description" content="Natančen opis gore Rokov vrh / Rochusberg in vseh pristopov na Rokov vrh / Rochusberg. Rokov vrh je 880 metrov visok vrh (po nekaterih podatkih 817 m), ki se nahaja me." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1879?gorovjeid=11&amp;id=1879" id="form1">
+    <form method="post" action="./2822?gorovjeid=11&amp;id=2822" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lipseva_vrata_vrata_felsentore/11/1879"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1879"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rokov_vrh___rochusberg/11/2822"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=2822"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Lipševa vrata (Vrata, Felsentore)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Rokov vrh / Rochusberg
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1879);
+    gorast(2822);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Lipševa vrata (Vrata, Felsentore)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Rokov vrh / Rochusberg</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,16 +653,100 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1500&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 880&nbsp;m</div>
     
-    <div class="g2"><b>Vrsta:</b> </div>
+        <script>
+            var kfi = 1;
+            function koordinateFormat() {
+                if (kfi == 1) {
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;31,680'N&nbsp;/&nbsp;14°&nbsp;34,2900'E";
+                        kfi = 2;
+                    }
+                    else if (kfi == 2) {
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;31'&nbsp;40,80''N&nbsp;/&nbsp;14°&nbsp;34'&nbsp;17,40''E";
+                        kfi = 3;
+                    }
+                    else if (kfi == 3) {
+                        document.getElementById("kf0").innerHTML = "46.528°N&nbsp;/&nbsp;14.5715°E";
+                    kfi = 4;
+                }
+                else if (kfi == 4) {
+                    document.getElementById("kf0").innerHTML = "46,528°N,&nbsp;14,5715°E";
+                        kfi = 1;
+                    }
+    }
+
+            function kopiraj() {
+                var tempInput = document.createElement("textarea");
+                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
+                document.body.appendChild(tempInput);
+                tempInput.select();
+                tempInput.setSelectionRange(0, 99999);
+                document.execCommand("copy");
+                document.body.removeChild(tempInput);
+                tooltip("Kopirano v odložišče...");
+
+            }
+
+    
+</script>
+        
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,528°N&nbsp;14,5715°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rokov_vrh___rochusberg/2822"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    
+    <div class="g2"><b>Vrsta:</b> vrh</div>
+  
+        <div class="g2"><b>Vremenska napoved:</b></div>
+        <div class="g2">
+<table><tr>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Rokov vrh / Rochusberg - Torek" href="/vreme_gora/rokov_vrh___rochusberg/11/2822#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Rokov vrh / Rochusberg - Sreda" href="/vreme_gora/rokov_vrh___rochusberg/11/2822#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Rokov vrh / Rochusberg - Četrtek" href="/vreme_gora/rokov_vrh___rochusberg/11/2822#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Pe</td></tr>
+            <tr><td><a title="Vremenska napoved za Rokov vrh / Rochusberg - Petek" href="/vreme_gora/rokov_vrh___rochusberg/11/2822#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">So</td></tr>
+            <tr><td><a title="Vremenska napoved za Rokov vrh / Rochusberg - Sobota" href="/vreme_gora/rokov_vrh___rochusberg/11/2822#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    </tr></table>
+        </div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 167.262</div>
-<div class="g2"><b>Priljubljenost:</b> 54%&nbsp;(1512.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">14</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 525</div>
+<div class="g2"><b>Priljubljenost:</b> 16%&nbsp;(2770.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -671,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Lipševa vrata, domačini jim pravijo tudi Vrata ali Felsentore, so ena od dveh zelo poznanih znamenitosti pogorja Olševa. Še bolj znana je Potočka zijalka. Lipševa vrata so tri in se nahajajo na avstrijski strani Olševe v neposredni bližini meje. Skozi njih in mimo njih vodi zavarovana planinska pot. So na zelo prepadnem področju, predvsem pod Malimi in Velikimi Lipševimi vrati so globoki prepadi. Vsa tri vrata so res fascinantna stvaritev narave. Skozi najvišje ležeča Velika Lipševa vrata(1508 m) je lep razgled na avstrijsko Koroško, z Malih Lipševih vrat(1480 m) pa se celo vidi Storžič.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Rokov vrh je 880 metrov visok vrh (po nekaterih podatkih 817 m), ki se nahaja med naselji Suha / Zauchen, Rebrca / Rechberg in Podkraj / Unterort. Z vrha, na katerem stoji kapelica sv. Roka in ob njej miza z dvema klopema, se nam odpre lep razgled proti dolini in okoliškim goram.</div>
 
     
 <script type="text/javascript">
@@ -704,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1879&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2822&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -713,39 +797,70 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flipseva_vrata_vrata_felsentore%2f11%2f1879"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flipseva_vrata_vrata_felsentore%2f11%2f1879"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flipseva_vrata_vrata_felsentore%2f11%2f1879"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><b>Gore v okolici</b>
+<select onchange="radiusf(this.value,1);">
+<option value="0,5">0,5</option>
+<option value="1">1</option>
+<option value="1,5">1,5</option>
+<option selected value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="8">8</option>
+<option value="10">10</option>
+<option value="15">15</option>
+<option value="20">20</option>
+<option value="30">30</option>
+</select> <b>km:</b><br />
+</div>
+<div id="radiusseznam1">
+
+</div>
+
+<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
+<select onchange="radiusf(this.value,2);">
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="5">5</option>
+<option value="7">7</option>
+<option value="10">10</option>
+<option selected value="15">15</option>
+<option value="20">20</option>
+<option value="25">25</option>
+<option value="30">30</option>
+<option value="35">35</option>
+<option value="40">40</option>
+<option value="50">50</option>
+<option value="60">60</option>
+</select> <b>km:</b><br></div>
+<div id="radiusseznam2">
+<a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/klopinjsko_jezero___klopeiner_see/1637">Klopinjsko jezero / Klopeiner See</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/zablasko_jezero___turnersee/1638">Zablaško jezero / Turnersee</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>
+</div>
+
+
+
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frokov_vrh___rochusberg%2f11%2f2822"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frokov_vrh___rochusberg%2f11%2f2822"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frokov_vrh___rochusberg%2f11%2f2822"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8814" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8814');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P83103346221386.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rokov_vrh___rochusberg/16174" onclick="event.preventDefault(); window.open('/slika_gora/rokov_vrh___rochusberg/16174');"><img class="slikagm" alt="Rokov vrh / Rochusberg" src="//www.hribi.net/slike11/DSCN857667605880.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8815" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8815');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P83103356221388.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rokov_vrh___rochusberg/16175" onclick="event.preventDefault(); window.open('/slika_gora/rokov_vrh___rochusberg/16175');"><img class="slikagm" alt="Rokov vrh / Rochusberg" src="//slike.hribi.net/slike4/2_071562510731_DSCN8592.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8816" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8816');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P83103366221389.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rokov_vrh___rochusberg/16176" onclick="event.preventDefault(); window.open('/slika_gora/rokov_vrh___rochusberg/16176');"><img class="slikagm" alt="Rokov vrh / Rochusberg" src="//www.hribi.net/slike11/DSCN8578898727056.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8817" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8817');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P83103376221391.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rokov_vrh___rochusberg/16177" onclick="event.preventDefault(); window.open('/slika_gora/rokov_vrh___rochusberg/16177');"><img class="slikagm" alt="Rokov vrh / Rochusberg" src="//www.hribi.net/slike11/DSCN8581120727056.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8818" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8818');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P83103436221392.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rokov_vrh___rochusberg/16178" onclick="event.preventDefault(); window.open('/slika_gora/rokov_vrh___rochusberg/16178');"><img class="slikagm" alt="Rokov vrh / Rochusberg" src="//www.hribi.net/slike11/DSCN8582869747252.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8819" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8819');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P83103466221393.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rokov_vrh___rochusberg/16179" onclick="event.preventDefault(); window.open('/slika_gora/rokov_vrh___rochusberg/16179');"><img class="slikagm" alt="Rokov vrh / Rochusberg" src="//www.hribi.net/slike11/DSCN8588606747252.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8820" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8820');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P60667726221395.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rokov_vrh___rochusberg/16188" onclick="event.preventDefault(); window.open('/slika_gora/rokov_vrh___rochusberg/16188');"><img class="slikagm" alt="Rokov vrh / Rochusberg" src="//slike.hribi.net/slike4/2_0577562511055_DSCN8741.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8821" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8821');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P83103596221396.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8822" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8822');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P83103636221397.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8823" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8823');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P83103666221397.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8824" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8824');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P83103666221398.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8825" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8825');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P60667596221399.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8826" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8826');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P60667636221400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lipseva_vrata_vrata_felsentore/8827" onclick="event.preventDefault(); window.open('/slika_gora/lipseva_vrata_vrata_felsentore/8827');"><img class="slikagm" alt="Lipševa vrata (Vrata, Felsentore)" src="//www.hribi.net/sliketemp/P60667676221401.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rokov_vrh___rochusberg/16189" onclick="event.preventDefault(); window.open('/slika_gora/rokov_vrh___rochusberg/16189');"><img class="slikagm" alt="Rokov vrh / Rochusberg" src="//www.hribi.net/slike11/DSCN86683231189728.th.jpg" /></a>
     
 </div>
 
@@ -809,7 +924,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1879&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2822&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -819,7 +934,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sveti_duh_pod_olsevo_lipseva_vrata_vrata_felsentore_pot_po_meji/11/1879/3466">Sveti Duh pod Olševo - Lipševa vrata (Vrata, Felsentore) (pot po meji)</a></td><td class="tdG"><a href="/izlet/sveti_duh_pod_olsevo_lipseva_vrata_vrata_felsentore_pot_po_meji/11/1879/3466">1 h 15 min</a></td><td class="tdG"><a href="/izlet/sveti_duh_pod_olsevo_lipseva_vrata_vrata_felsentore_pot_po_meji/11/1879/3466">zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/rebrca___rechberg_rokov_vrh___rochusberg_mimo_bukovnika/11/2822/6542">Rebrca / Rechberg - Rokov vrh / Rochusberg (mimo Bukovnika)</a></td><td class="tdG"><a href="/izlet/rebrca___rechberg_rokov_vrh___rochusberg_mimo_bukovnika/11/2822/6542">1 h</a></td><td class="tdG"><a href="/izlet/rebrca___rechberg_rokov_vrh___rochusberg_mimo_bukovnika/11/2822/6542">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/rebrca___rechberg_rokov_vrh___rochusberg/11/2822/6540">Rebrca / Rechberg - Rokov vrh / Rochusberg</a></td><td class="tdG"><a href="/izlet/rebrca___rechberg_rokov_vrh___rochusberg/11/2822/6540"> 40 min</a></td><td class="tdG"><a href="/izlet/rebrca___rechberg_rokov_vrh___rochusberg/11/2822/6540">lahka označena pot</a></td></tr>
 
 </table>
 

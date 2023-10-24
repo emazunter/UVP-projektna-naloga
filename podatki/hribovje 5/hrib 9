@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Lovrenška jezera</title>
-        <meta name="description" content="Natančen opis gore Lovrenška jezera in vseh pristopov na Lovrenška jezera. Lovrenška jezera se nahajajo na visokem barju sredi Pohorja med Roglo in Ribnišk." />
+        <title>Ribniško jezero</title>
+        <meta name="description" content="Natančen opis jezera Ribniško jezero in vseh pristopov na Ribniško jezero. Ribniško jezero se nahaja na visokem barju pod Jezerskim vrhom na Ribniškem Poho." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./514?gorovjeid=4&amp;id=514" id="form1">
+    <form method="post" action="./516?gorovjeid=4&amp;id=516" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lovrenska_jezera/4/514"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=514"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/the_lake_ribnisko_jezero/4/516"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=516"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Lovrenška jezera
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Ribniško jezero
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(514);
+    gorast(516);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Lovrenška jezera</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Ribniško jezero</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 1520&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1490&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,0016'N&nbsp;/&nbsp;15°&nbsp;18,9342'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,6928'N&nbsp;/&nbsp;15°&nbsp;16,1610'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;0,10''N&nbsp;/&nbsp;15°&nbsp;18'&nbsp;56,05''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;41,57''N&nbsp;/&nbsp;15°&nbsp;16'&nbsp;9,66''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.48336°N&nbsp;/&nbsp;15.31557°E";
+                        document.getElementById("kf0").innerHTML = "46.49488°N&nbsp;/&nbsp;15.26935°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,48336°N,&nbsp;15,31557°E";
+                    document.getElementById("kf0").innerHTML = "46,49488°N,&nbsp;15,26935°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,48336°N&nbsp;15,31557°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lovrenska_jezera/514"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,49488°N&nbsp;15,26935°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ribnisko_jezero/516"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, jezero</div>
+    <div class="g2"><b>Vrsta:</b> jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Ribniško jezero - Torek" href="/vreme_gora/ribnisko_jezero/4/516#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Ribniško jezero - Sreda" href="/vreme_gora/ribnisko_jezero/4/516#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Ribniško jezero - Četrtek" href="/vreme_gora/ribnisko_jezero/4/516#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Lovrenška jezera - Petek" href="/vreme_gora/lovrenska_jezera/4/514#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ribniško jezero - Petek" href="/vreme_gora/ribnisko_jezero/4/516#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Lovrenška jezera - Sobota" href="/vreme_gora/lovrenska_jezera/4/514#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Lovrenška jezera - Nedelja" href="/vreme_gora/lovrenska_jezera/4/514#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Lovrenška jezera - Ponedeljek" href="/vreme_gora/lovrenska_jezera/4/514#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Lovrenška jezera - Torek" href="/vreme_gora/lovrenska_jezera/4/514#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ribniško jezero - Sobota" href="/vreme_gora/ribnisko_jezero/4/516#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 748.634</div>
-<div class="g2"><b>Priljubljenost:</b> 98%&nbsp;(52.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
+<div class="g2"><b>Ogledov:</b> 425.434</div>
+<div class="g2"><b>Priljubljenost:</b> 83%&nbsp;(556.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=514" title="Število vpisov v vpisni knjigi">25</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Lovrenška jezera se nahajajo na visokem barju sredi Pohorja med Roglo in Ribniškim Pohorjem. Manjša jezerca, ki dobivajo vodo le s padavinami obdaja rušje. Jezerca si lahko ogledamo po z lesom tlakovani stezici, ki nam omogoča, da hodimo po suhem in ne po močvirju. Hoja po močvirju pa je prepovedana. Na začetku barja pa je razgledni stolp, ki nam omogoča pogled po Lovrenških jezerih.</div>
+<div style="padding-top:10px;"><b>Opis jezera:</b><br />Ribniško jezero se nahaja na visokem barju pod Jezerskim vrhom na Ribniškem Pohorju. Pri jezeru je klopca s katere lahko v miru gledamo jezero in rušje okrog njega. Jezero se napaja le s padavinsko vodo.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=514&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=516&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/jezerc/4/2011">Jezerc (1222m)</a>
+<a class="moder" href="/gora/jezerski_vrh/4/515">Jezerski vrh (1537m)</a>, <a class="moder" href="/gora/mali_crni_vrh/4/518">Mali Črni vrh (1533m)</a>, <a class="moder" href="/gora/ribniska_koca/4/517">Ribniška koča (1507m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,43 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/spodnje_stranice/4444">Spodnje Stranice</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>
+<a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/koca_pod_kremzarjevim_vrhom/2192">Koča pod Kremžarjevim vrhom</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/radlje_ob_dravi/4445">Radlje ob Dravi</a>, <a class="moder" href="/spletna_kamera/ribnica_na_pohorju/495">Ribnica na Pohorju</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/slovenj_gradec/1600">Slovenj Gradec</a>, <a class="moder" href="/spletna_kamera/smartno_pri_slovenj_gradcu/2963">Šmartno pri Slovenj Gradcu</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flovrenska_jezera%2f4%2f514"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flovrenska_jezera%2f4%2f514"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flovrenska_jezera%2f4%2f514"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fribnisko_jezero%2f4%2f516"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fribnisko_jezero%2f4%2f516"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fribnisko_jezero%2f4%2f516"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/lovrenska_jezera/514" title="Lovrenška jezera 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.lovrenskajezera.jpg" /></a></div>
+<div><a href="/panorama/360/ribnisko_jezero/516" title="Ribniško jezero 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.ribniskojezero.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/1439" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/1439');"><img class="slikagm" alt="Lovrenška jezera" src="//www.hribi.net/slike1/P115010180080.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnisko_jezero/1446" onclick="event.preventDefault(); window.open('/slika_gora/ribnisko_jezero/1446');"><img class="slikagm" alt="Ribniško jezero" src="//www.hribi.net/slike1/P118040220160.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/1440" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/1440');"><img class="slikagm" alt="Lovrenška jezera" src="//www.hribi.net/slike1/P115007780080.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnisko_jezero/1447" onclick="event.preventDefault(); window.open('/slika_gora/ribnisko_jezero/1447');"><img class="slikagm" alt="Ribniško jezero" src="//www.hribi.net/slike1/P118038520160.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/1441" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/1441');"><img class="slikagm" alt="Lovrenška jezera" src="//www.hribi.net/slike1/P115008280080.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnisko_jezero/1448" onclick="event.preventDefault(); window.open('/slika_gora/ribnisko_jezero/1448');"><img class="slikagm" alt="Ribniško jezero" src="//www.hribi.net/slike1/P118038420160.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/1442" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/1442');"><img class="slikagm" alt="Lovrenška jezera" src="//www.hribi.net/slike1/P118040881620.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnisko_jezero/21580" onclick="event.preventDefault(); window.open('/slika_gora/ribnisko_jezero/21580');"><img class="slikagm" alt="Ribniško jezero" src="//slike2.hribi.net/slike14/2_0568723369057_0dscn2792.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/1443" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/1443');"><img class="slikagm" alt="Lovrenška jezera" src="//www.hribi.net/slike1/P118041280080.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnisko_jezero/21581" onclick="event.preventDefault(); window.open('/slika_gora/ribnisko_jezero/21581');"><img class="slikagm" alt="Ribniško jezero" src="//slike2.hribi.net/slike14/2_12310723749331_12dscn2784.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/4114" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/4114');"><img class="slikagm" alt="Lovrenška jezera" src="//www.hribi.net/slike1/Lovrenskajezera369117.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/21574" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/21574');"><img class="slikagm" alt="Lovrenška jezera" src="//slike2.hribi.net/slike14/2_2203723729239_2dscn2955.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/21575" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/21575');"><img class="slikagm" alt="Lovrenška jezera" src="//slike2.hribi.net/slike14/2_0846723717694_0dscn3105.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/21576" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/21576');"><img class="slikagm" alt="Lovrenška jezera" src="//slike2.hribi.net/slike14/2_6569723729242_3dscn2962.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/21577" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/21577');"><img class="slikagm" alt="Lovrenška jezera" src="//slike2.hribi.net/slike14/2_7476723729242_4dscn2963.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/21578" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/21578');"><img class="slikagm" alt="Lovrenška jezera" src="//slike2.hribi.net/slike14/2_1251723369330_1dscn2967.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lovrenska_jezera/21579" onclick="event.preventDefault(); window.open('/slika_gora/lovrenska_jezera/21579');"><img class="slikagm" alt="Lovrenška jezera" src="//slike2.hribi.net/slike14/2_8904723729243_5dscn2965.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnisko_jezero/21582" onclick="event.preventDefault(); window.open('/slika_gora/ribnisko_jezero/21582');"><img class="slikagm" alt="Ribniško jezero" src="//slike2.hribi.net/slike14/2_9966723749327_4dscn2780.jpg" /></a>
     
 </div>
 
@@ -935,7 +923,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=514&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=516&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -945,15 +933,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rogla_hotel_planja_lovrenska_jezera_vzhodna_pot/4/514/874">Rogla (Hotel Planja) - Lovrenška jezera (vzhodna pot)</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_lovrenska_jezera_vzhodna_pot/4/514/874">1 h 25 min</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_lovrenska_jezera_vzhodna_pot/4/514/874">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ribniska_koca_ribnisko_jezero/4/516/879">Ribniška koča - Ribniško jezero</a></td><td class="tdG"><a href="/izlet/ribniska_koca_ribnisko_jezero/4/516/879"> 20 min</a></td><td class="tdG"><a href="/izlet/ribniska_koca_ribnisko_jezero/4/516/879">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_na_pesku_lovrenska_jezera/4/514/873">Koča na Pesku - Lovrenška jezera</a></td><td class="tdG"><a href="/izlet/koca_na_pesku_lovrenska_jezera/4/514/873">1 h 30 min</a></td><td class="tdG"><a href="/izlet/koca_na_pesku_lovrenska_jezera/4/514/873">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/rogla_hotel_planja_ribnisko_jezero_mimo_lovrenskih_jezer/4/516/878">Rogla (Hotel Planja) - Ribniško jezero (mimo Lovrenških jezer)</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_ribnisko_jezero_mimo_lovrenskih_jezer/4/516/878">3 h 10 min</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_ribnisko_jezero_mimo_lovrenskih_jezer/4/516/878">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ribniska_koca_lovrenska_jezera/4/514/883">Ribniška koča - Lovrenška jezera</a></td><td class="tdG"><a href="/izlet/ribniska_koca_lovrenska_jezera/4/514/883">2 h 5 min</a></td><td class="tdG"><a href="/izlet/ribniska_koca_lovrenska_jezera/4/514/883">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_na_pesku_ribnisko_jezero_mimo_lovrenskih_jezer/4/516/877">Koča na Pesku - Ribniško jezero (mimo Lovrenških jezer)</a></td><td class="tdG"><a href="/izlet/koca_na_pesku_ribnisko_jezero_mimo_lovrenskih_jezer/4/516/877">3 h 15 min</a></td><td class="tdG"><a href="/izlet/koca_na_pesku_ribnisko_jezero_mimo_lovrenskih_jezer/4/516/877">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_lovrenska_jezera/4/514/4912">Lovrenc na Pohorju - Lovrenška jezera</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_lovrenska_jezera/4/514/4912">3 h 35 min</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_lovrenska_jezera/4/514/4912">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/rogla_hotel_planja_ribnisko_jezero/4/516/8841"> Rogla (Hotel Planja) - Ribniško jezero</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_ribnisko_jezero/4/516/8841">3 h</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_ribnisko_jezero/4/516/8841">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rogla_hotel_planja_lovrenska_jezera_zahodna_pot/4/514/8840"> Rogla (Hotel Planja) - Lovrenška jezera (zahodna pot)</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_lovrenska_jezera_zahodna_pot/4/514/8840">1 h 30 min</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_lovrenska_jezera_zahodna_pot/4/514/8840">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_pokopalisce_ribnisko_jezero/4/516/8852">Lovrenc na Pohorju (pokopališče) - Ribniško jezero</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_pokopalisce_ribnisko_jezero/4/516/8852">4 h 15 min</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_pokopalisce_ribnisko_jezero/4/516/8852">lahka neoznačena steza</a></td></tr>
 
 </table>
 

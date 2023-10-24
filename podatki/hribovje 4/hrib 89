@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Murnovc</title>
-        <meta name="description" content="Natančen opis gore Murnovc in vseh pristopov na Murnovc. Murnovc je 1866 m visok vrh, ki se nahaja med Kresiščem in Trupejevim poldnem, t." />
+        <title>Pečovnik (kota 1668)</title>
+        <meta name="description" content="Natančen opis gore Pečovnik (kota 1668) in vseh pristopov na Pečovnik (kota 1668). Pečovnik (kota 1668) je 1668 metrov visoka gora, ki se nahaja med Plešivcem (180." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1911?gorovjeid=11&amp;id=1911" id="form1">
+    <form method="post" action="./283?gorovjeid=11&amp;id=283" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/murnovc/11/1911"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1911"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/pecovnik_survey_point_1668/11/283"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=283"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Murnovc
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Pečovnik (kota 1668)
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1911);
+    gorast(283);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Murnovc</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Pečovnik (kota 1668)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1866&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1668&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;31,0872'N&nbsp;/&nbsp;13°&nbsp;52,9542'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,7052'N&nbsp;/&nbsp;14°&nbsp;26,5056'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;31'&nbsp;5,23''N&nbsp;/&nbsp;13°&nbsp;52'&nbsp;57,25''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;42,31''N&nbsp;/&nbsp;14°&nbsp;26'&nbsp;30,34''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.51812°N&nbsp;/&nbsp;13.88257°E";
+                        document.getElementById("kf0").innerHTML = "46.42842°N&nbsp;/&nbsp;14.44176°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,51812°N,&nbsp;13,88257°E";
+                    document.getElementById("kf0").innerHTML = "46,42842°N,&nbsp;14,44176°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,51812°N&nbsp;13,88257°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/murnovc/1911"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,42842°N&nbsp;14,44176°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/pecovnik_kota_1668/283"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Pečovnik (kota 1668) - Torek" href="/vreme_gora/pecovnik_kota_1668/11/283#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Pečovnik (kota 1668) - Sreda" href="/vreme_gora/pecovnik_kota_1668/11/283#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Pečovnik (kota 1668) - Četrtek" href="/vreme_gora/pecovnik_kota_1668/11/283#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Murnovc - Petek" href="/vreme_gora/murnovc/11/1911#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Pečovnik (kota 1668) - Petek" href="/vreme_gora/pecovnik_kota_1668/11/283#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Murnovc - Sobota" href="/vreme_gora/murnovc/11/1911#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Murnovc - Nedelja" href="/vreme_gora/murnovc/11/1911#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Murnovc - Ponedeljek" href="/vreme_gora/murnovc/11/1911#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Murnovc - Torek" href="/vreme_gora/murnovc/11/1911#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Pečovnik (kota 1668) - Sobota" href="/vreme_gora/pecovnik_kota_1668/11/283#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 215.696</div>
-<div class="g2"><b>Priljubljenost:</b> 60%&nbsp;(1323.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 239.641</div>
+<div class="g2"><b>Priljubljenost:</b> 62%&nbsp;(1238.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Murnovc je 1866 m visok vrh, ki se nahaja med Kresiščem in Trupejevim poldnem, točneje južno od Maloškega poldneva. S travnatega vrha, katerega obdaja pas ruševja, se nam odpre lep razgled na Martuljkovo skupino gora, greben Mojstrovk, Jalovec, Trupejevo poldne, Ziljsko dolino z Dobračem, Visoke in Nizke Ture ter Kresišču, Kepi in Mojstrovici.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Pečovnik (kota 1668) je 1668 metrov visoka gora, ki se nahaja med Plešivcem (1801 m) in Virnikovim Grintovcem (1654 m). S travnatega vrha, ki se nahaja na meji med Slovenijo in Avstrijo, se nam odpre lep pogled proti Storžiču, Triglavu, Košuti in Plešivcu, v smeri proti Avstriji pa razgled delno zakriva pas gozda.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1911&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=283&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bele_peci_lepi_vrh/11/2580">Bele peči (Lepi vrh) (1926m)</a>, <a class="moder" href="/gora/kresisce/11/367">Kresišče (1839m)</a>, <a class="moder" href="/gora/malosko_poldne___mallestiger_mittagskogel/11/1494">Maloško poldne / Mallestiger Mittagskogel (1823m)</a>, <a class="moder" href="/gora/mojstrovica/11/368">Mojstrovica (1816m)</a>, <a class="moder" href="/gora/ostra_pec___mallestiger_mittagskogel/11/472">Ostra peč / Mallestiger Mittagskogel (1801m)</a>, <a class="moder" href="/gora/trupejevo_poldne/11/366">Trupejevo poldne (1931m)</a>
+<a class="moder" href="/gora/lovska_koca_stanic/11/525">Lovska koča Stanič (1280m)</a>, <a class="moder" href="/gora/mala_kosuta/11/301">Mala Košuta (1740m)</a>, <a class="moder" href="/gora/pecovnik/11/526">Pečovnik (1640m)</a>, <a class="moder" href="/gora/planina_brsnina/11/3264">Planina Brsnina (1357m)</a>, <a class="moder" href="/gora/planina_zgornja_dolga_njiva/11/297">Planina Zgornja Dolga njiva (1580m)</a>, <a class="moder" href="/gora/plesivec/11/300">Plešivec (1801m)</a>, <a class="moder" href="/gora/veliki_vrh_nad_komatevro/11/1927">Veliki vrh nad Komatevro (1634m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,29 +835,30 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/basko_jezero___faakersee/253">Baško jezero / Faakersee</a>, <a class="moder" href="/spletna_kamera/beljak___villach/254">Beljak / Villach</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/wernberg_-_duel/4621">Wernberg - Duel</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmurnovc%2f11%2f1911"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmurnovc%2f11%2f1911"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmurnovc%2f11%2f1911"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpecovnik_kota_1668%2f11%2f283"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpecovnik_kota_1668%2f11%2f283"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpecovnik_kota_1668%2f11%2f283"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/murnovc/1911" title="Murnovc 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Murnovc.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/murnovc/9070" onclick="event.preventDefault(); window.open('/slika_gora/murnovc/9070');"><img class="slikagm" alt="Murnovc" src="//www.hribi.net/slike1/Murnovc 131408980.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pecovnik_kota_1668/271" onclick="event.preventDefault(); window.open('/slika_gora/pecovnik_kota_1668/271');"><img class="slikagm" alt="Pečovnik (kota 1668)" src="//www.hribi.net/Gora/p5280153medium3by.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/murnovc/9071" onclick="event.preventDefault(); window.open('/slika_gora/murnovc/9071');"><img class="slikagm" alt="Murnovc" src="//www.hribi.net/slike1/Murnovc 126408980.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pecovnik_kota_1668/273" onclick="event.preventDefault(); window.open('/slika_gora/pecovnik_kota_1668/273');"><img class="slikagm" alt="Pečovnik (kota 1668)" src="//www.hribi.net/Gora/p5280207medium9zp.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/murnovc/9072" onclick="event.preventDefault(); window.open('/slika_gora/murnovc/9072');"><img class="slikagm" alt="Murnovc" src="//www.hribi.net/slike1/Murnovc 121408980.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pecovnik_kota_1668/1479" onclick="event.preventDefault(); window.open('/slika_gora/pecovnik_kota_1668/1479');"><img class="slikagm" alt="Pečovnik (kota 1668)" src="//www.hribi.net/slike1/P120007597216.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/murnovc/9078" onclick="event.preventDefault(); window.open('/slika_gora/murnovc/9078');"><img class="slikagm" alt="Murnovc" src="//www.hribi.net/slike1/Murnovc 218460460.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pecovnik_kota_1668/1483" onclick="event.preventDefault(); window.open('/slika_gora/pecovnik_kota_1668/1483');"><img class="slikagm" alt="Pečovnik (kota 1668)" src="//www.hribi.net/slike1/P1200101100688.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/murnovc/9079" onclick="event.preventDefault(); window.open('/slika_gora/murnovc/9079');"><img class="slikagm" alt="Murnovc" src="//www.hribi.net/slike1/Murnovc 206460460.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pecovnik_kota_1668/14230" onclick="event.preventDefault(); window.open('/slika_gora/pecovnik_kota_1668/14230');"><img class="slikagm" alt="Pečovnik (kota 1668)" src="//www.hribi.net/slike1/DSCN8869244800.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/pecovnik_kota_1668/14231" onclick="event.preventDefault(); window.open('/slika_gora/pecovnik_kota_1668/14231');"><img class="slikagm" alt="Pečovnik (kota 1668)" src="//www.hribi.net/slike1/DSCN8870244800.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/pecovnik_kota_1668/14232" onclick="event.preventDefault(); window.open('/slika_gora/pecovnik_kota_1668/14232');"><img class="slikagm" alt="Pečovnik (kota 1668)" src="//www.hribi.net/slike1/DSCN8874269280.th.jpg" /></a>
     
 </div>
 
@@ -921,7 +922,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1911&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=283&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,7 +932,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/srednji_vrh_murnovc_cez_grajsco/11/1911/3525">Srednji Vrh - Murnovc (čez Grajšco)</a></td><td class="tdG"><a href="/izlet/srednji_vrh_murnovc_cez_grajsco/11/1911/3525">3 h</a></td><td class="tdG"><a href="/izlet/srednji_vrh_murnovc_cez_grajsco/11/1911/3525">lahka neoznačena steza, lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/smrecje_pecovnik_kota_1668_po_cesti/11/283/403">Smrečje - Pečovnik (kota 1668) (po cesti)</a></td><td class="tdG"><a href="/izlet/smrecje_pecovnik_kota_1668_po_cesti/11/283/403">2 h 45 min</a></td><td class="tdG"><a href="/izlet/smrecje_pecovnik_kota_1668_po_cesti/11/283/403">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/jezerski_vrh_pecovnik_kota_1668/11/283/5737">Jezerski vrh - Pečovnik (kota 1668)</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_pecovnik_kota_1668/11/283/5737">2 h 45 min</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_pecovnik_kota_1668/11/283/5737">lahka neoznačena steza</a></td></tr>
 
 </table>
 

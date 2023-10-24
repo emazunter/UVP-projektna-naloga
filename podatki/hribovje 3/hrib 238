@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vivodnik</title>
-        <meta name="description" content="Natančen opis gore Vivodnik in vseh pristopov na Vivodnik. Vivodnik je s 1508 m najvišji vrh Menine planine, planote ki se dviga južno o Go." />
+        <title>Tominčev slap</title>
+        <meta name="description" content="Natančen opis slapa Tominčev slap in vseh pristopov na Tominčev slap. Tominčev slap, ki je visok 18m se nahaja na levem pritoku Belega potoka nad Podl." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./445?gorovjeid=3&amp;id=445" id="form1">
+    <form method="post" action="./716?gorovjeid=3&amp;id=716" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vivodnik/3/445"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=445"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/waterfall_tomincev_slap/3/716"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=716"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Vivodnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Tominčev slap
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(445);
+    gorast(716);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vivodnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Tominčev slap</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1508&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 750&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,4446'N&nbsp;/&nbsp;14°&nbsp;48,9804'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;23,6088'N&nbsp;/&nbsp;14°&nbsp;15,2496'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;26,68''N&nbsp;/&nbsp;14°&nbsp;48'&nbsp;58,82''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;23'&nbsp;36,53''N&nbsp;/&nbsp;14°&nbsp;15'&nbsp;14,98''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.25741°N&nbsp;/&nbsp;14.81634°E";
+                        document.getElementById("kf0").innerHTML = "46.39348°N&nbsp;/&nbsp;14.25416°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,25741°N,&nbsp;14,81634°E";
+                    document.getElementById("kf0").innerHTML = "46,39348°N,&nbsp;14,25416°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,25741°N&nbsp;14,81634°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vivodnik/445"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,39348°N&nbsp;14,25416°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/tomincev_slap/716"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> slap</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Tominčev slap - Torek" href="/vreme_gora/tomincev_slap/3/716#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Tominčev slap - Sreda" href="/vreme_gora/tomincev_slap/3/716#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Tominčev slap - Četrtek" href="/vreme_gora/tomincev_slap/3/716#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vivodnik - Petek" href="/vreme_gora/vivodnik/3/445#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Tominčev slap - Petek" href="/vreme_gora/tomincev_slap/3/716#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vivodnik - Sobota" href="/vreme_gora/vivodnik/3/445#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vivodnik - Nedelja" href="/vreme_gora/vivodnik/3/445#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vivodnik - Ponedeljek" href="/vreme_gora/vivodnik/3/445#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vivodnik - Torek" href="/vreme_gora/vivodnik/3/445#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Tominčev slap - Sobota" href="/vreme_gora/tomincev_slap/3/716#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 477.465</div>
-<div class="g2"><b>Priljubljenost:</b> 88%&nbsp;(382.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">12</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">5</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=445" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 352.595</div>
+<div class="g2"><b>Priljubljenost:</b> 75%&nbsp;(813.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">14</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Vivodnik je s 1508 m najvišji vrh Menine planine, planote ki se dviga južno o Gornjega Grada. Z vrha, na katerem se nahaja manjši razgledni stolp, se nam odpre lep razgled na najvišje vrhove Kamniško Savinjskih Alp. Vrh ima vpisno skrinjico in žig.</div>
+<div style="padding-top:10px;"><b>Opis slapa:</b><br />Tominčev slap, ki je visok 18m se nahaja na levem pritoku Belega potoka nad Podljubeljem. Slap v sušnih dneh skoraj usahne, zato ga je priporočljivo obiskati takoj po močnem deževju. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=445&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=716&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dom_na_menini_planini/3/193">Dom na Menini planini (1453m)</a>, <a class="moder" href="/gora/spic/3/1452">Špic (1499m)</a>
+<a class="moder" href="/gora/breska_planina/3/1642">Breška planina (1100m)</a>, <a class="moder" href="/gora/cisovec/3/2755">Čisovec (1419m)</a>, <a class="moder" href="/gora/dobrca/3/129">Dobrča (1634m)</a>, <a class="moder" href="/gora/lesanska_planina/3/131">Lešanska planina (1450m)</a>, <a class="moder" href="/gora/sentanski_vrh/3/930">Šentanski vrh (1635m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,43 +835,44 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/vransko/359">Vransko</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvivodnik%2f3%2f445"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvivodnik%2f3%2f445"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvivodnik%2f3%2f445"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ftomincev_slap%2f3%2f716"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftomincev_slap%2f3%2f716"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftomincev_slap%2f3%2f716"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vivodnik/445" title="Vivodnik 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.vivodnik.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vivodnik/787" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/787');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/Gora/p8240238mediumfu6.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/2338" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/2338');"><img class="slikagm" alt="Tominčev slap" src="//www.hribi.net/slike1/PA07024670000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/788" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/788');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/Gora/p8240239mediumgb5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/2339" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/2339');"><img class="slikagm" alt="Tominčev slap" src="//www.hribi.net/sliketemp/PA0702534147827.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/5157" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/5157');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/slike1/MeninaPlanina 258216216.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/16700" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16700');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_02571926786_DSCN5184.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/5158" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/5158');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/slike1/MeninaPlanina 256216216.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/16701" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16701');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_0852571926805_DSCN5190.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/5459" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/5459');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/slike1/MeninaPlanina 24556430.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/16702" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16702');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_1405571926808_DSCN5193.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/5460" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/5460');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/slike1/MeninaPlanina 25656430.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/16703" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16703');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_0410571926823_DSCN5195.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/7164" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/7164');"><img class="slikagm" alt="Vivodnik" src="//slike.hribi.net/sliketemp/MeninaPlanina%201835788290.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/16704" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16704');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_0444571926852_DSCN5200.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/8733" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/8733');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/slike1/MeninaPlanina 27555440.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/16705" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16705');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_051573136131_DSCN6225.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/14287" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/14287');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/slike1/DSCN0001589680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/16706" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16706');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_1192573136134_DSCN6226.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/14288" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/14288');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/slike1/DSCN0004589680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/16707" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16707');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_011577349376_DSCN8548.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/14289" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/14289');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/slike1/DSCN99801104840.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/16708" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16708');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_1492577349380_DSCN8551.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vivodnik/14290" onclick="event.preventDefault(); window.open('/slika_gora/vivodnik/14290');"><img class="slikagm" alt="Vivodnik" src="//www.hribi.net/slike1/DSCN99831104840.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tomincev_slap/16709" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16709');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_0750577349404_DSCN8553.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/tomincev_slap/16710" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16710');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_1978577349407_DSCN8554.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/tomincev_slap/16711" onclick="event.preventDefault(); window.open('/slika_gora/tomincev_slap/16711');"><img class="slikagm" alt="Tominčev slap" src="//slike.hribi.net/slike4/2_037577349426_DSCN8560.JPG" /></a>
     
 </div>
 
@@ -935,7 +936,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=445&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=716&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -945,29 +946,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_na_menini_planini_vivodnik/3/445/659">Dom na Menini planini - Vivodnik</a></td><td class="tdG"><a href="/izlet/dom_na_menini_planini_vivodnik/3/445/659"> 15 min</a></td><td class="tdG"><a href="/izlet/dom_na_menini_planini_vivodnik/3/445/659">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/golice_vivodnik/3/445/2947">Golice - Vivodnik</a></td><td class="tdG"><a href="/izlet/golice_vivodnik/3/445/2947">2 h 45 min</a></td><td class="tdG"><a href="/izlet/golice_vivodnik/3/445/2947">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gornji_grad_vivodnik_mimo_semprimoznika/3/445/2363">Gornji Grad - Vivodnik (mimo Semprimožnika)</a></td><td class="tdG"><a href="/izlet/gornji_grad_vivodnik_mimo_semprimoznika/3/445/2363">3 h 30 min</a></td><td class="tdG"><a href="/izlet/gornji_grad_vivodnik_mimo_semprimoznika/3/445/2363">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/lipa_vivodnik/3/445/2373">Lipa - Vivodnik</a></td><td class="tdG"><a href="/izlet/lipa_vivodnik/3/445/2373">3 h 30 min</a></td><td class="tdG"><a href="/izlet/lipa_vivodnik/3/445/2373">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/crnivec_vivodnik/3/445/3441">Črnivec - Vivodnik</a></td><td class="tdG"><a href="/izlet/crnivec_vivodnik/3/445/3441">4 h 30 min</a></td><td class="tdG"><a href="/izlet/crnivec_vivodnik/3/445/3441">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tirosek_nova_stifta_vivodnik/3/445/3444">Tirosek (Nova Štifta) - Vivodnik</a></td><td class="tdG"><a href="/izlet/tirosek_nova_stifta_vivodnik/3/445/3444">4 h</a></td><td class="tdG"><a href="/izlet/tirosek_nova_stifta_vivodnik/3/445/3444">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/hrusevka_vivodnik/3/445/3534">Hruševka - Vivodnik</a></td><td class="tdG"><a href="/izlet/hrusevka_vivodnik/3/445/3534">5 h 30 min</a></td><td class="tdG"><a href="/izlet/hrusevka_vivodnik/3/445/3534">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/cesnjice_v_tuhinju_vivodnik/3/445/5752">Češnjice v Tuhinju - Vivodnik</a></td><td class="tdG"><a href="/izlet/cesnjice_v_tuhinju_vivodnik/3/445/5752">2 h 25 min</a></td><td class="tdG"><a href="/izlet/cesnjice_v_tuhinju_vivodnik/3/445/5752">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/okrog_pri_motniku_vivodnik_cez_oseke_in_vrh_drc/3/445/5750">Okrog pri Motniku - Vivodnik (čez Oseke in vrh Drč)</a></td><td class="tdG"><a href="/izlet/okrog_pri_motniku_vivodnik_cez_oseke_in_vrh_drc/3/445/5750">2 h 15 min</a></td><td class="tdG"><a href="/izlet/okrog_pri_motniku_vivodnik_cez_oseke_in_vrh_drc/3/445/5750">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/okrog_pri_motniku_vivodnik_cez_biba_planino/3/445/5749">Okrog pri Motniku - Vivodnik (čez Biba planino)</a></td><td class="tdG"><a href="/izlet/okrog_pri_motniku_vivodnik_cez_biba_planino/3/445/5749">2 h 25 min</a></td><td class="tdG"><a href="/izlet/okrog_pri_motniku_vivodnik_cez_biba_planino/3/445/5749">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bela_pec_vivodnik_cez_ovcje_jame/3/445/6270">Bela Peč - Vivodnik (čez Ovčje jame)</a></td><td class="tdG"><a href="/izlet/bela_pec_vivodnik_cez_ovcje_jame/3/445/6270">4 h 25 min</a></td><td class="tdG"><a href="/izlet/bela_pec_vivodnik_cez_ovcje_jame/3/445/6270">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bela_pec_vivodnik_mimo_vrha_seduc/3/445/6262">Bela Peč - Vivodnik (mimo vrha Seduc)</a></td><td class="tdG"><a href="/izlet/bela_pec_vivodnik_mimo_vrha_seduc/3/445/6262">4 h 20 min</a></td><td class="tdG"><a href="/izlet/bela_pec_vivodnik_mimo_vrha_seduc/3/445/6262">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podljubelj_tomincev_slap/3/716/1285">Podljubelj - Tominčev slap</a></td><td class="tdG"><a href="/izlet/podljubelj_tomincev_slap/3/716/1285"> 10 min</a></td><td class="tdG"><a href="/izlet/podljubelj_tomincev_slap/3/716/1285">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Dom na Slivnici</title>
-        <meta name="description" content="Natančen opis koče Dom na Slivnici in vseh pristopov na Dom na Slivnici. Dom na Slivnici se nahaja le nekaj 10 m pod vrhom 1114 m visoke Slivnice. Od koč." />
+        <title>Lovska koča na Planinski gori</title>
+        <meta name="description" content="Natančen opis koče Lovska koča na Planinski gori in vseh pristopov na Lovska koča na Planinski gori. Lovska koča na Planinski gori se nahaja med Grmado (873m) in Petričevim hribom (." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./191?gorovjeid=26&amp;id=191" id="form1">
+    <form method="post" action="./799?gorovjeid=26&amp;id=799" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_na_slivnici/26/191"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=191"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/hunting_cottage_on_planinska_gora/26/799"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=799"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Dom na Slivnici
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Lovska koča na Planinski gori
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(191);
+    gorast(799);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Dom na Slivnici</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Lovska koča na Planinski gori</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1078&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 879&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;47,3838'N&nbsp;/&nbsp;14°&nbsp;24,3504'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;50,4276'N&nbsp;/&nbsp;14°&nbsp;13,8696'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;47'&nbsp;23,03''N&nbsp;/&nbsp;14°&nbsp;24'&nbsp;21,02''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;50'&nbsp;25,66''N&nbsp;/&nbsp;14°&nbsp;13'&nbsp;52,18''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.78973°N&nbsp;/&nbsp;14.40584°E";
+                        document.getElementById("kf0").innerHTML = "45.84046°N&nbsp;/&nbsp;14.23116°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,78973°N,&nbsp;14,40584°E";
+                    document.getElementById("kf0").innerHTML = "45,84046°N,&nbsp;14,23116°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,78973°N&nbsp;14,40584°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_na_slivnici/191"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,84046°N&nbsp;14,23116°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lovska_koca_na_planinski_gori/799"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> koča</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Lovska koča na Planinski gori - Torek" href="/vreme_gora/lovska_koca_na_planinski_gori/26/799#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Lovska koča na Planinski gori - Sreda" href="/vreme_gora/lovska_koca_na_planinski_gori/26/799#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Lovska koča na Planinski gori - Četrtek" href="/vreme_gora/lovska_koca_na_planinski_gori/26/799#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Slivnici - Petek" href="/vreme_gora/dom_na_slivnici/26/191#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lovska koča na Planinski gori - Petek" href="/vreme_gora/lovska_koca_na_planinski_gori/26/799#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Slivnici - Sobota" href="/vreme_gora/dom_na_slivnici/26/191#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Slivnici - Nedelja" href="/vreme_gora/dom_na_slivnici/26/191#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Slivnici - Ponedeljek" href="/vreme_gora/dom_na_slivnici/26/191#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom na Slivnici - Torek" href="/vreme_gora/dom_na_slivnici/26/191#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lovska koča na Planinski gori - Sobota" href="/vreme_gora/lovska_koca_na_planinski_gori/26/799#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 485.302</div>
-<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(359.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 311.956</div>
+<div class="g2"><b>Priljubljenost:</b> 71%&nbsp;(958.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=191" title="Število vpisov v vpisni knjigi">14</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Dom na Slivnici se nahaja le nekaj 10 m pod vrhom 1114 m visoke Slivnice. Od koče se nam odpre lep razgled na greben Javornikov, Cerkniško polje in Cerkniško jezero.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Lovska koča na Planinski gori se nahaja med Grmado (873m) in Petričevim hribom (937m). Do koče pred katero je veliko parkirišče pripelje makadamska cesta iz Lohače (vas v bližini Planine).</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=191&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=799&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/slivnica/26/227">Slivnica (1114m)</a>
+<a class="moder" href="/gora/grmada_planinska_gora/26/1221">Grmada (Planinska gora) (873m)</a>, <a class="moder" href="/gora/petricev_hrib/26/802">Petričev hrib (937m)</a>, <a class="moder" href="/gora/sveta_marija_na_planinski_gori/26/798">Sveta Marija na Planinski gori (782m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,32 +835,29 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/cerknisko_jezero/3634">Cerkniško jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/iga_vas/1077">Iga vas</a>, <a class="moder" href="/spletna_kamera/ivanje_selo/328">Ivanje selo</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/nart/1718">Nart</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/planina_pri_rakeku/1028">Planina pri Rakeku</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/rakitna/1823">Rakitna</a>, <a class="moder" href="/spletna_kamera/studenec_na_blokah/1599">Studenec na Blokah</a>, <a class="moder" href="/spletna_kamera/unec/329">Unec</a>
+<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/cerknisko_jezero/3634">Cerkniško jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/ivanje_selo/328">Ivanje selo</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/logatec/186">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec/326">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec_blekova_vas/1954">Logatec (Blekova vas)</a>, <a class="moder" href="/spletna_kamera/logatec_gorenja_vas/1868">Logatec (Gorenja vas)</a>, <a class="moder" href="/spletna_kamera/lom/327">Lom</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/nart/1718">Nart</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/petelinjsko_jezero/4191">Petelinjsko jezero</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/planina_pri_rakeku/1028">Planina pri Rakeku</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>, <a class="moder" href="/spletna_kamera/tankovski_most/4915">Tankovski most</a>, <a class="moder" href="/spletna_kamera/unec/329">Unec</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_slivnici%2f26%2f191"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_slivnici%2f26%2f191"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_slivnici%2f26%2f191"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flovska_koca_na_planinski_gori%2f26%2f799"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flovska_koca_na_planinski_gori%2f26%2f799"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flovska_koca_na_planinski_gori%2f26%2f799"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/lovska_koca_na_planinski_gori/799" title="Lovska koča na Planinski gori 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.LovskaKocaPlaninskaGora.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/dom_na_slivnici/194" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_slivnici/194');"><img class="slikagm" alt="Dom na Slivnici" src="//www.hribi.net/slike1/Slivnica 1541183896.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lovska_koca_na_planinski_gori/2651" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_planinski_gori/2651');"><img class="slikagm" alt="Lovska koča na Planinski gori" src="//www.hribi.net/slike1/P113004235640.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_slivnici/197" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_slivnici/197');"><img class="slikagm" alt="Dom na Slivnici" src="//www.hribi.net/Gora/p5040146medium2qa.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lovska_koca_na_planinski_gori/4104" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_planinski_gori/4104');"><img class="slikagm" alt="Lovska koča na Planinski gori" src="//www.hribi.net/slike1/P322017372576.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_slivnici/198" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_slivnici/198');"><img class="slikagm" alt="Dom na Slivnici" src="//www.hribi.net/slike1/Slivnica 1431183896.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lovska_koca_na_planinski_gori/4105" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_planinski_gori/4105');"><img class="slikagm" alt="Lovska koča na Planinski gori" src="//www.hribi.net/slike1/P322017472576.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_slivnici/201" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_slivnici/201');"><img class="slikagm" alt="Dom na Slivnici" src="//www.hribi.net/Gora/p5040158medium9js.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lovska_koca_na_planinski_gori/10919" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_planinski_gori/10919');"><img class="slikagm" alt="Lovska koča na Planinski gori" src="//www.hribi.net/slike1/PlaninskaGora 078168480.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_na_slivnici/4918" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_slivnici/4918');"><img class="slikagm" alt="Dom na Slivnici" src="//www.hribi.net/slike1/Slivnica%20156775656.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_slivnici/5226" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_slivnici/5226');"><img class="slikagm" alt="Dom na Slivnici" src="//slike.hribi.net/sliketemp/Slivnica2%201285294289.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_slivnici/9957" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_slivnici/9957');"><img class="slikagm" alt="Dom na Slivnici" src="//www.hribi.net/slike1/Slivnica12 080677376.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/dom_na_slivnici/9958" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_slivnici/9958');"><img class="slikagm" alt="Dom na Slivnici" src="//www.hribi.net/slike1/Slivnica12 090691488.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lovska_koca_na_planinski_gori/10920" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_planinski_gori/10920');"><img class="slikagm" alt="Lovska koča na Planinski gori" src="//www.hribi.net/slike1/PlaninskaGora 077168480.th.jpg" /></a>
     
 </div>
 
@@ -924,7 +921,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=191&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=799&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -934,9 +931,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/cerknica_dom_na_slivnici/26/191/331">Cerknica - Dom na Slivnici</a></td><td class="tdG"><a href="/izlet/cerknica_dom_na_slivnici/26/191/331">1 h 30 min</a></td><td class="tdG"><a href="/izlet/cerknica_dom_na_slivnici/26/191/331">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_lovska_koca_na_planinski_gori/26/799/1420">Planina - Lovska koča na Planinski gori</a></td><td class="tdG"><a href="/izlet/planina_lovska_koca_na_planinski_gori/26/799/1420"> 50 min</a></td><td class="tdG"><a href="/izlet/planina_lovska_koca_na_planinski_gori/26/799/1420">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/radlek_dom_na_slivnici/26/191/3974">Radlek - Dom na Slivnici</a></td><td class="tdG"><a href="/izlet/radlek_dom_na_slivnici/26/191/3974">1 h 20 min</a></td><td class="tdG"><a href="/izlet/radlek_dom_na_slivnici/26/191/3974">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lohaca_lovska_koca_na_planinski_gori_po_cesti/26/799/1421">Lohača - Lovska koča na Planinski gori (po cesti)</a></td><td class="tdG"><a href="/izlet/lohaca_lovska_koca_na_planinski_gori_po_cesti/26/799/1421">1 h</a></td><td class="tdG"><a href="/izlet/lohaca_lovska_koca_na_planinski_gori_po_cesti/26/799/1421">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_dolnja_planina_lovska_koca_na_planinski_gori_mimo_sv_duha/26/799/4445">Planina (Dolnja Planina) - Lovska koča na Planinski gori (mimo Sv. Duha)</a></td><td class="tdG"><a href="/izlet/planina_dolnja_planina_lovska_koca_na_planinski_gori_mimo_sv_duha/26/799/4445"> 55 min</a></td><td class="tdG"><a href="/izlet/planina_dolnja_planina_lovska_koca_na_planinski_gori_mimo_sv_duha/26/799/4445">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_dolnja_planina_lovska_koca_na_planinski_gori_preko_zavrtnikov/26/799/4441">Planina (Dolnja Planina) - Lovska koča na Planinski gori (preko Zavrtnikov)</a></td><td class="tdG"><a href="/izlet/planina_dolnja_planina_lovska_koca_na_planinski_gori_preko_zavrtnikov/26/799/4441"> 55 min</a></td><td class="tdG"><a href="/izlet/planina_dolnja_planina_lovska_koca_na_planinski_gori_preko_zavrtnikov/26/799/4441">lahka neoznačena steza</a></td></tr>
 
 </table>
 

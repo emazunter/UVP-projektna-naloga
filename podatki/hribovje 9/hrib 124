@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Davški slapovi</title>
-        <meta name="description" content="Natančen opis slapa Davški slapovi in vseh pristopov na Davški slapovi. Trije manjši slapovi potoka Davča. Največji in najlepši med njimi je srednji sla." />
+        <title>Sveti Ivan nad Divjimi babami</title>
+        <meta name="description" content="Natančen opis gore Sveti Ivan nad Divjimi babami in vseh pristopov na Sveti Ivan nad Divjimi babami. Cerkev sv. Ivana se nahaja ob robu Šebreljske planote, le ta pa strmo nad reko I." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2917?gorovjeid=21&amp;id=2917" id="form1">
+    <form method="post" action="./1966?gorovjeid=21&amp;id=1966" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/davca_waterfalls/21/2917"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=2917"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_ivan_above_divje_babe/21/1966"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1966"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Davški slapovi
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Sveti Ivan nad Divjimi babami
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2917);
+    gorast(1966);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Davški slapovi</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Ivan nad Divjimi babami</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,15 +653,99 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1000&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 573&nbsp;m</div>
     
-    <div class="g2"><b>Vrsta:</b> slap</div>
+        <script>
+            var kfi = 1;
+            function koordinateFormat() {
+                if (kfi == 1) {
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;6,6132'N&nbsp;/&nbsp;13°&nbsp;55,0488'E";
+                        kfi = 2;
+                    }
+                    else if (kfi == 2) {
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;6'&nbsp;36,79''N&nbsp;/&nbsp;13°&nbsp;55'&nbsp;2,93''E";
+                        kfi = 3;
+                    }
+                    else if (kfi == 3) {
+                        document.getElementById("kf0").innerHTML = "46.11022°N&nbsp;/&nbsp;13.91748°E";
+                    kfi = 4;
+                }
+                else if (kfi == 4) {
+                    document.getElementById("kf0").innerHTML = "46,11022°N,&nbsp;13,91748°E";
+                        kfi = 1;
+                    }
+    }
+
+            function kopiraj() {
+                var tempInput = document.createElement("textarea");
+                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
+                document.body.appendChild(tempInput);
+                tempInput.select();
+                tempInput.setSelectionRange(0, 99999);
+                document.execCommand("copy");
+                document.body.removeChild(tempInput);
+                tooltip("Kopirano v odložišče...");
+
+            }
+
+    
+</script>
+        
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,11022°N&nbsp;13,91748°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_ivan_nad_divjimi_babami/1966"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
+  
+        <div class="g2"><b>Vremenska napoved:</b></div>
+        <div class="g2">
+<table><tr>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Ivan nad Divjimi babami - Torek" href="/vreme_gora/sveti_ivan_nad_divjimi_babami/21/1966#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Ivan nad Divjimi babami - Sreda" href="/vreme_gora/sveti_ivan_nad_divjimi_babami/21/1966#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Ivan nad Divjimi babami - Četrtek" href="/vreme_gora/sveti_ivan_nad_divjimi_babami/21/1966#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Pe</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Ivan nad Divjimi babami - Petek" href="/vreme_gora/sveti_ivan_nad_divjimi_babami/21/1966#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">So</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Ivan nad Divjimi babami - Sobota" href="/vreme_gora/sveti_ivan_nad_divjimi_babami/21/1966#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    </tr></table>
+        </div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 11.610</div>
-<div class="g2"><b>Priljubljenost:</b> 38%&nbsp;(2032.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Ogledov:</b> 142.100</div>
+<div class="g2"><b>Priljubljenost:</b> 51%&nbsp;(1606.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
@@ -671,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis slapa:</b><br />Trije manjši slapovi potoka Davča. Največji in najlepši med njimi je srednji slap, ki pada v dveh pramenih 6 m globoko.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev sv. Ivana se nahaja ob robu Šebreljske planote, le ta pa strmo nad reko Idrijco. Od cerkve se nam odpre lep razgled na Idrijsko in Cerkljansko hribovje ter delu bližnje planote.</div>
 
     
 <script type="text/javascript">
@@ -704,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2917&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1966&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -713,17 +797,67 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdavski_slapovi%2f21%2f2917"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdavski_slapovi%2f21%2f2917"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdavski_slapovi%2f21%2f2917"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><b>Gore v okolici</b>
+<select onchange="radiusf(this.value,1);">
+<option value="0,5">0,5</option>
+<option value="1">1</option>
+<option value="1,5">1,5</option>
+<option selected value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="8">8</option>
+<option value="10">10</option>
+<option value="15">15</option>
+<option value="20">20</option>
+<option value="30">30</option>
+</select> <b>km:</b><br />
+</div>
+<div id="radiusseznam1">
+<a class="moder" href="/gora/cerkev_marijinega_rojstva_v_policah/21/3244">Cerkev Marijinega rojstva v Policah (526m)</a>, <a class="moder" href="/gora/divje_babe/21/1965">Divje babe (450m)</a>, <a class="moder" href="/gora/sebrelje/21/1967">Šebrelje (639m)</a>
+</div>
 
+<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
+<select onchange="radiusf(this.value,2);">
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="5">5</option>
+<option value="7">7</option>
+<option value="10">10</option>
+<option selected value="15">15</option>
+<option value="20">20</option>
+<option value="25">25</option>
+<option value="30">30</option>
+<option value="35">35</option>
+<option value="40">40</option>
+<option value="50">50</option>
+<option value="60">60</option>
+</select> <b>km:</b><br></div>
+<div id="radiusseznam2">
+<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>
+</div>
+
+
+
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_ivan_nad_divjimi_babami%2f21%2f1966"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_ivan_nad_divjimi_babami%2f21%2f1966"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_ivan_nad_divjimi_babami%2f21%2f1966"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/sveti_ivan_nad_divjimi_babami/1966" title="Sveti Ivan nad Divjimi babami 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SvIvanVrhovec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/davski_slapovi/16854" onclick="event.preventDefault(); window.open('/slika_gora/davski_slapovi/16854');"><img class="slikagm" alt="Davški slapovi" src="//slike.hribi.net/slike8/2_9714075IMG_2425.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_ivan_nad_divjimi_babami/9572" onclick="event.preventDefault(); window.open('/slika_gora/sveti_ivan_nad_divjimi_babami/9572');"><img class="slikagm" alt="Sveti Ivan nad Divjimi babami" src="//www.hribi.net/slike1/Kojca 0140.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/davski_slapovi/16855" onclick="event.preventDefault(); window.open('/slika_gora/davski_slapovi/16855');"><img class="slikagm" alt="Davški slapovi" src="//slike.hribi.net/slike8/2_9714077IMG_2435.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_ivan_nad_divjimi_babami/9585" onclick="event.preventDefault(); window.open('/slika_gora/sveti_ivan_nad_divjimi_babami/9585');"><img class="slikagm" alt="Sveti Ivan nad Divjimi babami" src="//www.hribi.net/slike1/vrhovec%200436465042.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/davski_slapovi/16856" onclick="event.preventDefault(); window.open('/slika_gora/davski_slapovi/16856');"><img class="slikagm" alt="Davški slapovi" src="//slike.hribi.net/slike8/2_9714079IMG_2442.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_ivan_nad_divjimi_babami/9586" onclick="event.preventDefault(); window.open('/slika_gora/sveti_ivan_nad_divjimi_babami/9586');"><img class="slikagm" alt="Sveti Ivan nad Divjimi babami" src="//www.hribi.net/slike1/vrhovec%200446465042.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_ivan_nad_divjimi_babami/9587" onclick="event.preventDefault(); window.open('/slika_gora/sveti_ivan_nad_divjimi_babami/9587');"><img class="slikagm" alt="Sveti Ivan nad Divjimi babami" src="//www.hribi.net/slike1/vrhovec%200826465042.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_ivan_nad_divjimi_babami/19119" onclick="event.preventDefault(); window.open('/slika_gora/sveti_ivan_nad_divjimi_babami/19119');"><img class="slikagm" alt="Sveti Ivan nad Divjimi babami" src="//slike.hribi.net/slike4/2_2875637144190_DSCN4910.JPG" /></a>
     
 </div>
 
@@ -787,7 +921,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2917&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1966&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -797,7 +931,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/davca_davski_slapovi/21/2917/6834">Davča - Davški slapovi</a></td><td class="tdG"><a href="/izlet/davca_davski_slapovi/21/2917/6834"> 20 min</a></td><td class="tdG"><a href="/izlet/davca_davski_slapovi/21/2917/6834">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/reka_sveti_ivan_nad_divjimi_babami/21/1966/3766">Reka - Sveti Ivan nad Divjimi babami</a></td><td class="tdG"><a href="/izlet/reka_sveti_ivan_nad_divjimi_babami/21/1966/3766">1 h</a></td><td class="tdG"><a href="/izlet/reka_sveti_ivan_nad_divjimi_babami/21/1966/3766">delno zahtevna označena pot</a></td></tr>
 
 </table>
 

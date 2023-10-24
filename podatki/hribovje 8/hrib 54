@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Griški vrh</title>
-        <meta name="description" content="Natančen opis gore Griški vrh in vseh pristopov na Griški vrh. Griški vrh je 322 metrov visok hrib, ki se nahaja na Goričkem. Na vrhu se nahaja." />
+        <title>Soboško jezero</title>
+        <meta name="description" content="Natančen opis koče Soboško jezero in vseh pristopov na Soboško jezero. Soboško jezero, tudi Soboška Kamenšnica (najdejo se tudi zapisi kamenščica, kame." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3374?gorovjeid=163&amp;id=3374" id="form1">
+    <form method="post" action="./3424?gorovjeid=163&amp;id=3424" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/griski_vrh/163/3374"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3374"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sobosko_jezero/163/3424"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3424"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Griški vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Soboško jezero
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3374);
+    gorast(3424);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Griški vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Soboško jezero</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a></div>
-    <div class="g2"><b>Višina:</b> 322&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 188&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;44,3730'N&nbsp;/&nbsp;16°&nbsp;6,9312'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;38,3208'N&nbsp;/&nbsp;16°&nbsp;10,1334'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;44'&nbsp;22,38''N&nbsp;/&nbsp;16°&nbsp;6'&nbsp;55,87''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;38'&nbsp;19,25''N&nbsp;/&nbsp;16°&nbsp;10'&nbsp;8,00''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.73955°N&nbsp;/&nbsp;16.11552°E";
+                        document.getElementById("kf0").innerHTML = "46.63868°N&nbsp;/&nbsp;16.16889°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,73955°N,&nbsp;16,11552°E";
+                    document.getElementById("kf0").innerHTML = "46,63868°N,&nbsp;16,16889°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,73955°N&nbsp;16,11552°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/griski_vrh/3374"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,63868°N&nbsp;16,16889°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sobosko_jezero/3424"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča, jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Soboško jezero - Torek" href="/vreme_gora/sobosko_jezero/163/3424#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Soboško jezero - Sreda" href="/vreme_gora/sobosko_jezero/163/3424#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Soboško jezero - Četrtek" href="/vreme_gora/sobosko_jezero/163/3424#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Griški vrh - Petek" href="/vreme_gora/griski_vrh/163/3374#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Soboško jezero - Petek" href="/vreme_gora/sobosko_jezero/163/3424#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Griški vrh - Sobota" href="/vreme_gora/griski_vrh/163/3374#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Griški vrh - Nedelja" href="/vreme_gora/griski_vrh/163/3374#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Griški vrh - Ponedeljek" href="/vreme_gora/griski_vrh/163/3374#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Griški vrh - Torek" href="/vreme_gora/griski_vrh/163/3374#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Soboško jezero - Sobota" href="/vreme_gora/sobosko_jezero/163/3424#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 319</div>
-<div class="g2"><b>Priljubljenost:</b> 13%&nbsp;(2872.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 1.870</div>
+<div class="g2"><b>Priljubljenost:</b> 26%&nbsp;(2429.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Griški vrh je 322 metrov visok hrib, ki se nahaja na Goričkem. Na vrhu se nahaja lovska opazovalnica, lep razgled pa se odpre nekaj 10 korakov južno od vrha.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Soboško jezero, tudi Soboška Kamenšnica (najdejo se tudi zapisi kamenščica, kamešnica) je jezero ki je nastalo z izkopom gramoza. Okrog jezera vodi deloma urejena sprehajalna pot, na jugozahodni strani jezera pa se nahaja Expano, ob katerem je urejena obala jezera, v bližini pa se nahaja tudi motorični park.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3374&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3424&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -835,20 +835,42 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/gederovci/1846">Gederovci</a>, <a class="moder" href="/spletna_kamera/kapelski_vrh/3199">Kapelski Vrh</a>, <a class="moder" href="/spletna_kamera/klochberg/2512">Klöchberg</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/lomanose/1069">Lomanoše</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/most_na_muri/4832">Most na Muri</a>, <a class="moder" href="/spletna_kamera/murska_sobota/1044">Murska Sobota</a>, <a class="moder" href="/spletna_kamera/radgonski_grad/2511">Radgonski grad</a>, <a class="moder" href="/spletna_kamera/sotinski_breg_kugla/2170">Sotinski breg (Kugla)</a>
+<a class="moder" href="/spletna_kamera/dolinsko/4831">Dolinsko</a>, <a class="moder" href="/spletna_kamera/dragotinci/1433">Dragotinci</a>, <a class="moder" href="/spletna_kamera/gederovci/1846">Gederovci</a>, <a class="moder" href="/spletna_kamera/kapelski_vrh/3199">Kapelski Vrh</a>, <a class="moder" href="/spletna_kamera/most_na_muri/4832">Most na Muri</a>, <a class="moder" href="/spletna_kamera/murska_sobota/1044">Murska Sobota</a>, <a class="moder" href="/spletna_kamera/pocivalisce_sv_jurij_ob_scavnici/4837">Počivališče Sv. Jurij ob Ščavnici</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgriski_vrh%2f163%2f3374"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgriski_vrh%2f163%2f3374"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgriski_vrh%2f163%2f3374"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsobosko_jezero%2f163%2f3424"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsobosko_jezero%2f163%2f3424"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsobosko_jezero%2f163%2f3424"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/griski_vrh/20150" onclick="event.preventDefault(); window.open('/slika_gora/griski_vrh/20150');"><img class="slikagm" alt="Griški vrh" src="//www.hribi.net/slike15/2_2206672445316_DSCN8208.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20395" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20395');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_0166681583885_0dscn2982.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/griski_vrh/20151" onclick="event.preventDefault(); window.open('/slika_gora/griski_vrh/20151');"><img class="slikagm" alt="Griški vrh" src="//www.hribi.net/slike15/2_0722671533738_DSCN8211.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20396" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20396');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_1997681584020_1dscn3012.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20397" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20397');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_8183681827083_8dscn2986.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20398" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20398');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_0569681584019_0dscn3011.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20399" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20399');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_1905681584103_1dscn3046.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20400" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20400');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_2796681584021_2dscn3014.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20401" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20401');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_1017681827085_10dscn3010.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20402" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20402');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_1443681583987_1dscn3000.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20403" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20403');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_9949681827084_9dscn2988.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20404" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20404');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_0513681584064_0dscn3029.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20405" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20405');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_6883681827082_6dscn2981.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20406" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20406');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_0771681827078_0dscn2964.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sobosko_jezero/20407" onclick="event.preventDefault(); window.open('/slika_gora/sobosko_jezero/20407');"><img class="slikagm" alt="Soboško jezero" src="//slike2.hribi.net/slike14/2_17303681827090_17dscn3056.jpg" /></a>
     
 </div>
 
@@ -912,7 +934,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3374&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3424&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,9 +944,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/salamenci_griski_vrh/163/3374/8109">Šalamenci - Griški vrh</a></td><td class="tdG"><a href="/izlet/salamenci_griski_vrh/163/3374/8109"> 45 min</a></td><td class="tdG"><a href="/izlet/salamenci_griski_vrh/163/3374/8109">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bodonci_varas_griski_vrh/163/3374/8110">Bodonci (Varaš) - Griški vrh</a></td><td class="tdG"><a href="/izlet/bodonci_varas_griski_vrh/163/3374/8110"> 25 min</a></td><td class="tdG"><a href="/izlet/bodonci_varas_griski_vrh/163/3374/8110">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/expano_sobosko_jezero_krozna_pot_okrog_jezera/163/3424/8233">Expano - Soboško jezero (krožna pot okrog jezera)</a></td><td class="tdG"><a href="/izlet/expano_sobosko_jezero_krozna_pot_okrog_jezera/163/3424/8233">1 h</a></td><td class="tdG"><a href="/izlet/expano_sobosko_jezero_krozna_pot_okrog_jezera/163/3424/8233">lahka neoznačena steza</a></td></tr>
 
 </table>
 

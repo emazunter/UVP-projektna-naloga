@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Lipniška planina</title>
-        <meta name="description" content="Natančen opis planine Lipniška planina in vseh pristopov na Lipniška planina. Lipniška planina se nahaja severno do severovzhodno od Partizanskega vrha (1411 ." />
+        <title>Partizanski dom na Vodiški planini</title>
+        <meta name="description" content="Natančen opis koče Partizanski dom na Vodiški planini in vseh pristopov na Partizanski dom na Vodiški planini. Partizanski dom se nahaja zahodno od Krope na Vodiški planini. Ker planino obdaj." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2514?gorovjeid=21&amp;id=2514" id="form1">
+    <form method="post" action="./812?gorovjeid=21&amp;id=812" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lipniska_planina/21/2514"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=2514"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/partisan_cottage_on_vodiska_planina/21/812"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=812"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Lipniška planina
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Partizanski dom na Vodiški planini
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2514);
+    gorast(812);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Lipniška planina</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Partizanski dom na Vodiški planini</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1330&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1108&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;16,6020'N&nbsp;/&nbsp;14°&nbsp;8,5920'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,6040'N&nbsp;/&nbsp;14°&nbsp;10,8492'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;16'&nbsp;36,12''N&nbsp;/&nbsp;14°&nbsp;8'&nbsp;35,52''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;36,24''N&nbsp;/&nbsp;14°&nbsp;10'&nbsp;50,95''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.2767°N&nbsp;/&nbsp;14.1432°E";
+                        document.getElementById("kf0").innerHTML = "46.2934°N&nbsp;/&nbsp;14.18082°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,2767°N,&nbsp;14,1432°E";
+                    document.getElementById("kf0").innerHTML = "46,2934°N,&nbsp;14,18082°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2767°N&nbsp;14,1432°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lipniska_planina/2514"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2934°N&nbsp;14,18082°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/partizanski_dom_na_vodiski_planini/812"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> planina</div>
+    <div class="g2"><b>Vrsta:</b> koča, planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Partizanski dom na Vodiški planini - Torek" href="/vreme_gora/partizanski_dom_na_vodiski_planini/21/812#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Partizanski dom na Vodiški planini - Sreda" href="/vreme_gora/partizanski_dom_na_vodiski_planini/21/812#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Partizanski dom na Vodiški planini - Četrtek" href="/vreme_gora/partizanski_dom_na_vodiski_planini/21/812#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Lipniška planina - Petek" href="/vreme_gora/lipniska_planina/21/2514#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Partizanski dom na Vodiški planini - Petek" href="/vreme_gora/partizanski_dom_na_vodiski_planini/21/812#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Lipniška planina - Sobota" href="/vreme_gora/lipniska_planina/21/2514#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Lipniška planina - Nedelja" href="/vreme_gora/lipniska_planina/21/2514#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Lipniška planina - Ponedeljek" href="/vreme_gora/lipniska_planina/21/2514#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Lipniška planina - Torek" href="/vreme_gora/lipniska_planina/21/2514#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Partizanski dom na Vodiški planini - Sobota" href="/vreme_gora/partizanski_dom_na_vodiski_planini/21/812#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 5.748</div>
-<div class="g2"><b>Priljubljenost:</b> 36%&nbsp;(2113.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 543.073</div>
+<div class="g2"><b>Priljubljenost:</b> 93%&nbsp;(229.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">19</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">15</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=812" title="Število vpisov v vpisni knjigi">6</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis planine:</b><br />Lipniška planina se nahaja severno do severovzhodno od Partizanskega vrha (1411 m). Ob zgornjem robu planine se nahaja malce večja koča, od katere je lep pogled po planini in bližnjim gozdovom.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Partizanski dom se nahaja zahodno od Krope na Vodiški planini. Ker planino obdajajo prostrani jeloviški gozdovi je to miren kraj, kjer lahko slišimo in vidimo veliko vrst gozdnih ptic in ostalih gozdnih živali.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2514&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=812&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/gozdarske_koce_martincek/21/2513">Gozdarske koče Martinček (1240m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,28 +835,57 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
+<a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flipniska_planina%2f21%2f2514"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flipniska_planina%2f21%2f2514"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flipniska_planina%2f21%2f2514"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpartizanski_dom_na_vodiski_planini%2f21%2f812"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpartizanski_dom_na_vodiski_planini%2f21%2f812"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpartizanski_dom_na_vodiski_planini%2f21%2f812"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/partizanski_dom_na_vodiski_planini/812" title="Partizanski dom na Vodiški planini 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.49859585447vodiska_planina.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/lipniska_planina/13610" onclick="event.preventDefault(); window.open('/slika_gora/lipniska_planina/13610');"><img class="slikagm" alt="Lipniška planina" src="//www.hribi.net/slike1/DSCN7421427680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/2696" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/2696');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//www.hribi.net/slike1/P127004956448.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipniska_planina/13611" onclick="event.preventDefault(); window.open('/slika_gora/lipniska_planina/13611');"><img class="slikagm" alt="Lipniška planina" src="//slike.hribi.net/slike4/2_0285491472068_DSCN7428.JPG" /></a>
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/2697" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/2697');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//www.hribi.net/slike1/P127004059584.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipniska_planina/13612" onclick="event.preventDefault(); window.open('/slika_gora/lipniska_planina/13612');"><img class="slikagm" alt="Lipniška planina" src="//slike.hribi.net/slike4/2_1251491471961_DSCN7420.JPG" /></a>
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/7501" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/7501');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//www.hribi.net/slike1/UrsljaGora%2039226730.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipniska_planina/13613" onclick="event.preventDefault(); window.open('/slika_gora/lipniska_planina/13613');"><img class="slikagm" alt="Lipniška planina" src="//www.hribi.net/slike1/DSCN7426427680.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/7502" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/7502');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//www.hribi.net/slike1/UrsljaGora 39641580.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipniska_planina/13614" onclick="event.preventDefault(); window.open('/slika_gora/lipniska_planina/13614');"><img class="slikagm" alt="Lipniška planina" src="//www.hribi.net/slike1/DSCN7418396000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/7503" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/7503');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//www.hribi.net/slike1/UrsljaGora 39741580.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lipniska_planina/13615" onclick="event.preventDefault(); window.open('/slika_gora/lipniska_planina/13615');"><img class="slikagm" alt="Lipniška planina" src="//www.hribi.net/slike1/DSCN7411396000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/7504" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/7504');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//www.hribi.net/slike1/UrsljaGora 39841580.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/7505" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/7505');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//www.hribi.net/slike1/UrsljaGora 40041580.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/7506" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/7506');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//www.hribi.net/slike1/UrsljaGora 40241580.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/7507" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/7507');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//www.hribi.net/slike1/UrsljaGora 40441580.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/7508" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/7508');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//www.hribi.net/slike1/UrsljaGora 44341580.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/16652" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/16652');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//slike.hribi.net/slike4/2_1223574011629_DSCN6905.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/16653" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/16653');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//slike.hribi.net/slike4/2_0858574011681_DSCN6911.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/16654" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/16654');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//slike.hribi.net/slike4/2_1839574011685_DSCN6914.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/16655" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/16655');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//slike.hribi.net/slike4/2_3966574688724_DSCN6903.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/16656" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/16656');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//slike.hribi.net/slike4/2_2195574688721_DSCN6902.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/16657" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/16657');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//slike.hribi.net/slike4/2_1840574688717_DSCN6896.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/18379" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/18379');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//slike.hribi.net/slike4/2_1643616252047_DSCN6500.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/18391" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/18391');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//slike.hribi.net/slike4/2_0155617204607_DSCN6506.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/partizanski_dom_na_vodiski_planini/18392" onclick="event.preventDefault(); window.open('/slika_gora/partizanski_dom_na_vodiski_planini/18392');"><img class="slikagm" alt="Partizanski dom na Vodiški planini" src="//slike.hribi.net/slike4/2_142617204610_DSCN6508.JPG" /></a>
     
 </div>
 
@@ -920,7 +949,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2514&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=812&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -930,7 +959,35 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_lipniska_planina_mimo_radovljiske_planine/21/2514/5384">Gozdarska koča Rovtarica - Lipniška planina (mimo Radovljiške planine)</a></td><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_lipniska_planina_mimo_radovljiske_planine/21/2514/5384">1 h 40 min</a></td><td class="tdG"><a href="/izlet/gozdarska_koca_rovtarica_lipniska_planina_mimo_radovljiske_planine/21/2514/5384">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kropa_srednji_konec_partizanski_dom_na_vodiski_planini/21/812/1445">Kropa (Srednji Konec) - Partizanski dom na Vodiški planini</a></td><td class="tdG"><a href="/izlet/kropa_srednji_konec_partizanski_dom_na_vodiski_planini/21/812/1445">1 h 35 min</a></td><td class="tdG"><a href="/izlet/kropa_srednji_konec_partizanski_dom_na_vodiski_planini/21/812/1445">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/jamnik_partizanski_dom_na_vodiski_planini_razgledna_pot/21/812/3060">Jamnik - Partizanski dom na Vodiški planini (razgledna pot)</a></td><td class="tdG"><a href="/izlet/jamnik_partizanski_dom_na_vodiski_planini_razgledna_pot/21/812/3060">1 h 40 min</a></td><td class="tdG"><a href="/izlet/jamnik_partizanski_dom_na_vodiski_planini_razgledna_pot/21/812/3060">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kropa_partizanski_dom_na_vodiski_planini_mimo_jamnika/21/812/3064">Kropa - Partizanski dom na Vodiški planini (mimo Jamnika)</a></td><td class="tdG"><a href="/izlet/kropa_partizanski_dom_na_vodiski_planini_mimo_jamnika/21/812/3064">2 h 35 min</a></td><td class="tdG"><a href="/izlet/kropa_partizanski_dom_na_vodiski_planini_mimo_jamnika/21/812/3064">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/miklavzevec_partizanski_dom_na_vodiski_planini/21/812/1444">Miklavževec - Partizanski dom na Vodiški planini</a></td><td class="tdG"><a href="/izlet/miklavzevec_partizanski_dom_na_vodiski_planini/21/812/1444">1 h 45 min</a></td><td class="tdG"><a href="/izlet/miklavzevec_partizanski_dom_na_vodiski_planini/21/812/1444">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kropa_slovenska_pec_partizanski_dom_na_vodiski_planini/21/812/7378">Kropa (Slovenska peč) - Partizanski dom na Vodiški planini</a></td><td class="tdG"><a href="/izlet/kropa_slovenska_pec_partizanski_dom_na_vodiski_planini/21/812/7378">1 h 30 min</a></td><td class="tdG"><a href="/izlet/kropa_slovenska_pec_partizanski_dom_na_vodiski_planini/21/812/7378">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/drazgose_jelensce_partizanski_dom_na_vodiski_planini/21/812/6715">Dražgoše (Jelenšče) - Partizanski dom na Vodiški planini</a></td><td class="tdG"><a href="/izlet/drazgose_jelensce_partizanski_dom_na_vodiski_planini/21/812/6715">2 h 15 min</a></td><td class="tdG"><a href="/izlet/drazgose_jelensce_partizanski_dom_na_vodiski_planini/21/812/6715">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kropa_srednji_konec_partizanski_dom_na_vodiski_planini_cez_vreteno/21/812/7503">Kropa (Srednji Konec) - Partizanski dom na Vodiški planini (čez Vreteno)</a></td><td class="tdG"><a href="/izlet/kropa_srednji_konec_partizanski_dom_na_vodiski_planini_cez_vreteno/21/812/7503">1 h 30 min</a></td><td class="tdG"><a href="/izlet/kropa_srednji_konec_partizanski_dom_na_vodiski_planini_cez_vreteno/21/812/7503">delno zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planinski_dom_goska_ravan_partizanski_dom_na_vodiski_planini_po_cesti/21/812/7389">Planinski dom Goška Ravan - Partizanski dom na Vodiški planini (po cesti)</a></td><td class="tdG"><a href="/izlet/planinski_dom_goska_ravan_partizanski_dom_na_vodiski_planini_po_cesti/21/812/7389">2 h 5 min</a></td><td class="tdG"><a href="/izlet/planinski_dom_goska_ravan_partizanski_dom_na_vodiski_planini_po_cesti/21/812/7389">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/drazgose_na_peceh_partizanski_dom_na_vodiski_planini/21/812/6716">Dražgoše (Na Pečeh) - Partizanski dom na Vodiški planini</a></td><td class="tdG"><a href="/izlet/drazgose_na_peceh_partizanski_dom_na_vodiski_planini/21/812/6716">2 h 35 min</a></td><td class="tdG"><a href="/izlet/drazgose_na_peceh_partizanski_dom_na_vodiski_planini/21/812/6716">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kamna_gorica_partizanski_dom_na_vodiski_planini/21/812/7502">Kamna Gorica - Partizanski dom na Vodiški planini</a></td><td class="tdG"><a href="/izlet/kamna_gorica_partizanski_dom_na_vodiski_planini/21/812/7502">2 h 30 min</a></td><td class="tdG"><a href="/izlet/kamna_gorica_partizanski_dom_na_vodiski_planini/21/812/7502">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_lipnica_partizanski_dom_na_vodiski_planini_kolnica_-_vodice/21/812/7213">Spodnja Lipnica - Partizanski dom na Vodiški planini (Kolnica - Vodice)</a></td><td class="tdG"><a href="/izlet/spodnja_lipnica_partizanski_dom_na_vodiski_planini_kolnica_-_vodice/21/812/7213">2 h</a></td><td class="tdG"><a href="/izlet/spodnja_lipnica_partizanski_dom_na_vodiski_planini_kolnica_-_vodice/21/812/7213">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kropa__partizanski_dom_na_vodiski_planini_cez_beriglo/21/812/7788">Kropa  - Partizanski dom na Vodiški planini (čez Beriglo)</a></td><td class="tdG"><a href="/izlet/kropa__partizanski_dom_na_vodiski_planini_cez_beriglo/21/812/7788">2 h 30 min</a></td><td class="tdG"><a href="/izlet/kropa__partizanski_dom_na_vodiski_planini_cez_beriglo/21/812/7788">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_lipnica_kolnica_partizanski_dom_na_vodiski_planini_zgoraj_po_cesti/21/812/7386">Spodnja Lipnica (Kolnica) - Partizanski dom na Vodiški planini (zgoraj po cesti)</a></td><td class="tdG"><a href="/izlet/spodnja_lipnica_kolnica_partizanski_dom_na_vodiski_planini_zgoraj_po_cesti/21/812/7386">2 h 50 min</a></td><td class="tdG"><a href="/izlet/spodnja_lipnica_kolnica_partizanski_dom_na_vodiski_planini_zgoraj_po_cesti/21/812/7386">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/brezovica_partizanski_dom_na_vodiski_planini/21/812/7790">Brezovica - Partizanski dom na Vodiški planini</a></td><td class="tdG"><a href="/izlet/brezovica_partizanski_dom_na_vodiski_planini/21/812/7790">2 h 40 min</a></td><td class="tdG"><a href="/izlet/brezovica_partizanski_dom_na_vodiski_planini/21/812/7790">lahka neoznačena steza, lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/cesnjica_pri_kropi_partizanski_dom_na_vodiski_planini_cez_beriglo/21/812/7789">Češnjica pri Kropi - Partizanski dom na Vodiški planini (čez Beriglo)</a></td><td class="tdG"><a href="/izlet/cesnjica_pri_kropi_partizanski_dom_na_vodiski_planini_cez_beriglo/21/812/7789">2 h 40 min</a></td><td class="tdG"><a href="/izlet/cesnjica_pri_kropi_partizanski_dom_na_vodiski_planini_cez_beriglo/21/812/7789">lahka neoznačena steza, lahka označena pot</a></td></tr>
 
 </table>
 

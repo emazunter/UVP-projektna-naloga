@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vršič vrh</title>
-        <meta name="description" content="Natančen opis gore Vršič vrh in vseh pristopov na Vršič vrh. Vršič je 1737 m visoka gora, ki se nahaja med Poštarskim domom in prelazom Vršič." />
+        <title>Gregorčičev slap</title>
+        <meta name="description" content="Natančen opis slapa Gregorčičev slap in vseh pristopov na Gregorčičev slap. Gregorčičev slap je 88 metrov visok slap v strmi soteski Volarje pod vasema Selc." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./426?gorovjeid=1&amp;id=426" id="form1">
+    <form method="post" action="./2975?gorovjeid=1&amp;id=2975" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrsic_vrh/1/426"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=426"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/gregorcic_waterfall/1/2975"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=2975"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Vršič vrh
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Gregorčičev slap
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(426);
+    gorast(2975);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vršič vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Gregorčičev slap</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,109 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1737&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 390&nbsp;m</div>
     
-        <script>
-            var kfi = 1;
-            function koordinateFormat() {
-                if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,0460'N&nbsp;/&nbsp;13°&nbsp;44,8002'E";
-                        kfi = 2;
-                    }
-                    else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;2,76''N&nbsp;/&nbsp;13°&nbsp;44'&nbsp;48,01''E";
-                        kfi = 3;
-                    }
-                    else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.4341°N&nbsp;/&nbsp;13.74667°E";
-                    kfi = 4;
-                }
-                else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,4341°N,&nbsp;13,74667°E";
-                        kfi = 1;
-                    }
-    }
-
-            function kopiraj() {
-                var tempInput = document.createElement("textarea");
-                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
-                document.body.appendChild(tempInput);
-                tempInput.select();
-                tempInput.setSelectionRange(0, 99999);
-                document.execCommand("copy");
-                document.body.removeChild(tempInput);
-                tooltip("Kopirano v odložišče...");
-
-            }
-
-    
-</script>
-        
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4341°N&nbsp;13,74667°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrsic_vrh/426"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
-    
-    <div class="g2"><b>Vrsta:</b> vrh</div>
-  
-        <div class="g2"><b>Vremenska napoved:</b></div>
-        <div class="g2">
-<table><tr>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vršič vrh - Petek" href="/vreme_gora/vrsic_vrh/1/426#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vršič vrh - Sobota" href="/vreme_gora/vrsic_vrh/1/426#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vršič vrh - Nedelja" href="/vreme_gora/vrsic_vrh/1/426#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vršič vrh - Ponedeljek" href="/vreme_gora/vrsic_vrh/1/426#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vršič vrh - Torek" href="/vreme_gora/vrsic_vrh/1/426#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    </tr></table>
-        </div>
+    <div class="g2"><b>Vrsta:</b> slap</div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 603.496</div>
-<div class="g2"><b>Priljubljenost:</b> 96%&nbsp;(138.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 10.040</div>
+<div class="g2"><b>Priljubljenost:</b> 38%&nbsp;(2045.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=426" title="Število vpisov v vpisni knjigi">13</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Vršič je 1737 m visoka gora, ki se nahaja med Poštarskim domom in prelazom Vršič. Z vrha, na katerem je vpisna skrinjica, se nam odpre lep razgled na Frdamane police, Špik, Visoko Martuljško Ponco, Škrlatico, Prisank oz. Prisojnik, Ajdovsko deklico, greben Špičja, Trentski Pelc, Bavški Grintavec, Malo Mojstrovko, Šitno glavo in greben Robičja.</div>
+<div style="padding-top:10px;"><b>Opis slapa:</b><br />Gregorčičev slap je 88 metrov visok slap v strmi soteski Volarje pod vasema Selce in Vrsno.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +704,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=426&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2975&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -797,85 +713,21 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><b>Gore v okolici</b>
-<select onchange="radiusf(this.value,1);">
-<option value="0,5">0,5</option>
-<option value="1">1</option>
-<option value="1,5">1,5</option>
-<option selected value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="6">6</option>
-<option value="8">8</option>
-<option value="10">10</option>
-<option value="15">15</option>
-<option value="20">20</option>
-<option value="30">30</option>
-</select> <b>km:</b><br />
-</div>
-<div id="radiusseznam1">
-<a class="moder" href="/gora/erjavceva_koca_na_vrsicu/1/272">Erjavčeva koča na Vršiču (1525m)</a>, <a class="moder" href="/gora/koca_na_gozdu/1/270">Koča na Gozdu (1226m)</a>, <a class="moder" href="/gora/mala_mojstrovka/1/224">Mala Mojstrovka (2332m)</a>, <a class="moder" href="/gora/postarski_dom_na_vrsicu/1/261">Poštarski dom na Vršiču (1688m)</a>, <a class="moder" href="/gora/prednje_robicje/1/1329">Prednje Robičje (1941m)</a>, <a class="moder" href="/gora/ruska_kapelica/1/271">Ruska kapelica (1130m)</a>, <a class="moder" href="/gora/sitna_glava/1/273">Šitna glava (2087m)</a>, <a class="moder" href="/gora/sovna_glava/1/465">Sovna glava (1750m)</a>, <a class="moder" href="/gora/suhi_vrh/1/996">Suhi vrh (2109m)</a>, <a class="moder" href="/gora/ticarjev_dom_na_vrsicu/1/262">Tičarjev dom na Vršiču (1618m)</a>, <a class="moder" href="/gora/tonkina_koca_na_vrsicu/1/2440">Tonkina koča na Vršiču (1380m)</a>, <a class="moder" href="/gora/velika_mojstrovka/1/386">Velika Mojstrovka (2366m)</a>
-</div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgregorcicev_slap%2f1%2f2975"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgregorcicev_slap%2f1%2f2975"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgregorcicev_slap%2f1%2f2975"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
-<select onchange="radiusf(this.value,2);">
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="5">5</option>
-<option value="7">7</option>
-<option value="10">10</option>
-<option selected value="15">15</option>
-<option value="20">20</option>
-<option value="25">25</option>
-<option value="30">30</option>
-<option value="35">35</option>
-<option value="40">40</option>
-<option value="50">50</option>
-<option value="60">60</option>
-</select> <b>km:</b><br></div>
-<div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
-</div>
-
-
-
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrsic_vrh%2f1%2f426"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrsic_vrh%2f1%2f426"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrsic_vrh%2f1%2f426"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
-
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vrsic_vrh/426" title="Vršič vrh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VrsicVrh.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vrsic_vrh/658" onclick="event.preventDefault(); window.open('/slika_gora/vrsic_vrh/658');"><img class="slikagm" alt="Vršič vrh" src="//www.hribi.net/Gora/p7300031mediummq0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gregorcicev_slap/17340" onclick="event.preventDefault(); window.open('/slika_gora/gregorcicev_slap/17340');"><img class="slikagm" alt="Gregorčičev slap" src="//slike.hribi.net/slike8/2_9875166408.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vrsic_vrh/659" onclick="event.preventDefault(); window.open('/slika_gora/vrsic_vrh/659');"><img class="slikagm" alt="Vršič vrh" src="//www.hribi.net/Gora/p7300050mediumqj7.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrsic_vrh/675" onclick="event.preventDefault(); window.open('/slika_gora/vrsic_vrh/675');"><img class="slikagm" alt="Vršič vrh" src="//www.hribi.net/Gora/p7300076mediumbs2.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrsic_vrh/1435" onclick="event.preventDefault(); window.open('/slika_gora/vrsic_vrh/1435');"><img class="slikagm" alt="Vršič vrh" src="//www.hribi.net/slike1/PC3000060.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrsic_vrh/7348" onclick="event.preventDefault(); window.open('/slika_gora/vrsic_vrh/7348');"><img class="slikagm" alt="Vršič vrh" src="//slike.hribi.net/sliketemp/Vrsic%200775853035.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrsic_vrh/7349" onclick="event.preventDefault(); window.open('/slika_gora/vrsic_vrh/7349');"><img class="slikagm" alt="Vršič vrh" src="//www.hribi.net/slike1/Vrsic 0738008.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrsic_vrh/9276" onclick="event.preventDefault(); window.open('/slika_gora/vrsic_vrh/9276');"><img class="slikagm" alt="Vršič vrh" src="//www.hribi.net/slike1/SovnaGlava 2011396824.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrsic_vrh/9277" onclick="event.preventDefault(); window.open('/slika_gora/vrsic_vrh/9277');"><img class="slikagm" alt="Vršič vrh" src="//www.hribi.net/slike1/SovnaGlava 2021396824.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrsic_vrh/9278" onclick="event.preventDefault(); window.open('/slika_gora/vrsic_vrh/9278');"><img class="slikagm" alt="Vršič vrh" src="//www.hribi.net/slike1/SovnaGlava 2041396824.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gregorcicev_slap/17341" onclick="event.preventDefault(); window.open('/slika_gora/gregorcicev_slap/17341');"><img class="slikagm" alt="Gregorčičev slap" src="//slike.hribi.net/slike8/2_9875167383.JPG" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/pocarska_malavelika_mojstrovka_prisojnik/3/768"><img class="slikagmv" alt="Pocarska, Mala&Velika Mojstrovka, Prisojnik" src="https://img.youtube.com/vi/ux7X6fTBrcY/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Ostalo/prelaz_vrsic_2013_1611m/7/583"><img class="slikagmv" alt="Prelaz Vršič 2013 (1611m)" src="https://img.youtube.com/vi/aqoRqfH4OR4/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -933,7 +785,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=426&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2975&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -943,13 +795,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vrsic_vrsic_vrh/1/426/599">Vršič - Vršič vrh</a></td><td class="tdG"><a href="/izlet/vrsic_vrsic_vrh/1/426/599"> 30 min</a></td><td class="tdG"><a href="/izlet/vrsic_vrsic_vrh/1/426/599">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_na_gozdu_vrsic_vrh_po_stari_cesti/1/426/3012">Koča na Gozdu - Vršič vrh (po stari cesti)</a></td><td class="tdG"><a href="/izlet/koca_na_gozdu_vrsic_vrh_po_stari_cesti/1/426/3012">1 h 30 min</a></td><td class="tdG"><a href="/izlet/koca_na_gozdu_vrsic_vrh_po_stari_cesti/1/426/3012">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pri_izviru_soce_vrsic_vrh/1/426/3579">Koča pri izviru Soče - Vršič vrh</a></td><td class="tdG"><a href="/izlet/koca_pri_izviru_soce_vrsic_vrh/1/426/3579">2 h 40 min</a></td><td class="tdG"><a href="/izlet/koca_pri_izviru_soce_vrsic_vrh/1/426/3579">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tonkina_koca_na_vrsicu_vrsic_vrh/1/426/5132">Tonkina koča na Vršiču - Vršič vrh</a></td><td class="tdG"><a href="/izlet/tonkina_koca_na_vrsicu_vrsic_vrh/1/426/5132">1 h</a></td><td class="tdG"><a href="/izlet/tonkina_koca_na_vrsicu_vrsic_vrh/1/426/5132">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/selce_gregorcicev_slap/1/2975/7005">Selce - Gregorčičev slap</a></td><td class="tdG"><a href="/izlet/selce_gregorcicev_slap/1/2975/7005">1 h</a></td><td class="tdG"><a href="/izlet/selce_gregorcicev_slap/1/2975/7005">zahtevna neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Lučka Brana (Baba)</title>
-        <meta name="description" content="Natančen opis gore Lučka Brana (Baba) in vseh pristopov na Lučka Brana (Baba). Lučka Brana (Baba) je manj izrazit vrh, ki se nahaja v grebenu med Planjavo in O." />
+        <title>Bivak pod Grintovcem</title>
+        <meta name="description" content="Natančen opis bivaka Bivak pod Grintovcem in vseh pristopov na Bivak pod Grintovcem. Bivak Pavla Kemperla, ki ima osem ležišč in je stalno odprt se nahaja pod stenam." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1532?gorovjeid=3&amp;id=1532" id="form1">
+    <form method="post" action="./390?gorovjeid=3&amp;id=390" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lucka_brana_baba/3/1532"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1532"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bivak_pod_grintovcem/3/390"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=390"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Lučka Brana (Baba)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Bivak pod Grintovcem
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1532);
+    gorast(390);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Lučka Brana (Baba)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bivak pod Grintovcem</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2331&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2100&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,5880'N&nbsp;/&nbsp;14°&nbsp;37,500'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,2088'N&nbsp;/&nbsp;14°&nbsp;32,8428'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;35,28''N&nbsp;/&nbsp;14°&nbsp;37'&nbsp;30,00''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;12,53''N&nbsp;/&nbsp;14°&nbsp;32'&nbsp;50,57''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.3598°N&nbsp;/&nbsp;14.625°E";
+                        document.getElementById("kf0").innerHTML = "46.35348°N&nbsp;/&nbsp;14.54738°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,3598°N,&nbsp;14,625°E";
+                    document.getElementById("kf0").innerHTML = "46,35348°N,&nbsp;14,54738°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3598°N&nbsp;14,625°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lucka_brana_baba/1532"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35348°N&nbsp;14,54738°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bivak_pod_grintovcem/390"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> bivak</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak pod Grintovcem - Torek" href="/vreme_gora/bivak_pod_grintovcem/3/390#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak pod Grintovcem - Sreda" href="/vreme_gora/bivak_pod_grintovcem/3/390#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak pod Grintovcem - Četrtek" href="/vreme_gora/bivak_pod_grintovcem/3/390#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Lučka Brana (Baba) - Petek" href="/vreme_gora/lucka_brana_baba/3/1532#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak pod Grintovcem - Petek" href="/vreme_gora/bivak_pod_grintovcem/3/390#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Lučka Brana (Baba) - Sobota" href="/vreme_gora/lucka_brana_baba/3/1532#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Lučka Brana (Baba) - Nedelja" href="/vreme_gora/lucka_brana_baba/3/1532#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Lučka Brana (Baba) - Ponedeljek" href="/vreme_gora/lucka_brana_baba/3/1532#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Lučka Brana (Baba) - Torek" href="/vreme_gora/lucka_brana_baba/3/1532#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak pod Grintovcem - Sobota" href="/vreme_gora/bivak_pod_grintovcem/3/390#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 471.437</div>
-<div class="g2"><b>Priljubljenost:</b> 88%&nbsp;(408.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 551.720</div>
+<div class="g2"><b>Priljubljenost:</b> 94%&nbsp;(211.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1532" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=390" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Lučka Brana (Baba) je manj izrazit vrh, ki se nahaja v grebenu med Planjavo in Ojstrico. S prostranega in deloma travnatega vrha, se nam odpre lep razgled proti goram nad Logarsko dolino in na vrhove Dleskovške planote.</div>
+<div style="padding-top:10px;"><b>Opis bivaka:</b><br />Bivak Pavla Kemperla, ki ima osem ležišč in je stalno odprt se nahaja pod stenami Grintovca in pod Dolgim Hrbtom. Stoji na robu planotastega sveta, ki je delno porasel s travo. Lep je razgled proti Dolgim stenam Grintovca in okoliškim vrhovom.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1532&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=390&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kocbekov_dom_na_korosici/3/199">Kocbekov dom na Korošici (1808m)</a>, <a class="moder" href="/gora/lucki_dedec/3/358">Lučki Dedec (2023m)</a>, <a class="moder" href="/gora/najvisji_rob_zeleniske_spice/3/1587">Najvišji rob (Zeleniške špice) (2127m)</a>, <a class="moder" href="/gora/ojstrica/3/146">Ojstrica (2350m)</a>, <a class="moder" href="/gora/planjava/3/80">Planjava (2392m)</a>, <a class="moder" href="/gora/planjava_-_zahodni_vrh/3/3477">Planjava - zahodni vrh (2394m)</a>, <a class="moder" href="/gora/rjavcki_vrh_planinsca/3/1535">Rjavčki vrh (Planinšca) (1898m)</a>, <a class="moder" href="/gora/vezica/3/1579">Vežica (1965m)</a>, <a class="moder" href="/gora/vrsici/3/1578">Vršiči (1980m)</a>
+<a class="moder" href="/gora/bivak_pod_skuto/3/389">Bivak pod Skuto (2070m)</a>, <a class="moder" href="/gora/bivak_v_kocni/3/1064">Bivak v Kočni (1952m)</a>, <a class="moder" href="/gora/cojzova_koca_na_kokrskem_sedlu/3/98">Cojzova koča na Kokrskem sedlu (1793m)</a>, <a class="moder" href="/gora/dolgi_hrbet/3/42">Dolgi hrbet (2473m)</a>, <a class="moder" href="/gora/grintovec/3/16">Grintovec (2558m)</a>, <a class="moder" href="/gora/kalska_gora/3/103">Kalška gora (2047m)</a>, <a class="moder" href="/gora/kogel/3/1525">Kogel (2100m)</a>, <a class="moder" href="/gora/kranjska_koca_na_ledinah/3/225">Kranjska koča na Ledinah (1700m)</a>, <a class="moder" href="/gora/kranjska_rinka/3/50">Kranjska Rinka (2453m)</a>, <a class="moder" href="/gora/skuta/3/28">Skuta (2532m)</a>, <a class="moder" href="/gora/struca/3/49">Štruca (2457m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,24 +835,51 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flucka_brana_baba%2f3%2f1532"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flucka_brana_baba%2f3%2f1532"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flucka_brana_baba%2f3%2f1532"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_pod_grintovcem%2f3%2f390"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_pod_grintovcem%2f3%2f390"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_pod_grintovcem%2f3%2f390"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/bivak_pod_grintovcem/390" title="Bivak pod Grintovcem 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.993110831127bivak_pod_grintovcem.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/lucka_brana_baba/6245" onclick="event.preventDefault(); window.open('/slika_gora/lucka_brana_baba/6245');"><img class="slikagm" alt="Lučka Brana (Baba)" src="//www.hribi.net/slike1/P8220233153216.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bivak_pod_grintovcem/394" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_grintovcem/394');"><img class="slikagm" alt="Bivak pod Grintovcem" src="//www.hribi.net/Gora/p6250164medium8bm.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_pod_grintovcem/395" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_grintovcem/395');"><img class="slikagm" alt="Bivak pod Grintovcem" src="//www.hribi.net/Gora/p6250160medium8yi.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_pod_grintovcem/400" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_grintovcem/400');"><img class="slikagm" alt="Bivak pod Grintovcem" src="//www.hribi.net/Gora/p6250139medium6fp.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_pod_grintovcem/6225" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_grintovcem/6225');"><img class="slikagm" alt="Bivak pod Grintovcem" src="//www.hribi.net/slike1/Kogel 446544320.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_pod_grintovcem/6226" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_grintovcem/6226');"><img class="slikagm" alt="Bivak pod Grintovcem" src="//www.hribi.net/slike1/Kogel 450544320.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_pod_grintovcem/6227" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_grintovcem/6227');"><img class="slikagm" alt="Bivak pod Grintovcem" src="//www.hribi.net/slike1/Kogel 455544320.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_pod_grintovcem/18109" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_grintovcem/18109');"><img class="slikagm" alt="Bivak pod Grintovcem" src="//www.hribi.net/slike11/P10605424281029952.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_pod_grintovcem/18110" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_grintovcem/18110');"><img class="slikagm" alt="Bivak pod Grintovcem" src="//www.hribi.net/slike11/P1060538947173052.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_pod_grintovcem/18111" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_grintovcem/18111');"><img class="slikagm" alt="Bivak pod Grintovcem" src="//www.hribi.net/slike11/P1060545287173052.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_pod_grintovcem/18125" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_grintovcem/18125');"><img class="slikagm" alt="Bivak pod Grintovcem" src="//www.hribi.net/slike11/P1060552840363584.th.jpg" /></a>
     
 </div>
 
 
 
-
+<div style="padding-top:8px;"><b>Video:</b></div><div>
+        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_z_bivaka_pod_grintovcem/8/316"><img class="slikagmv" alt="Polet z bivaka pod Grintovcem" src="https://img.youtube.com/vi/e7QDvujREfo/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Gorništvo/postavljanje_smernega_kamna_na_grintovcu/3/232"><img class="slikagmv" alt="Postavljanje smernega kamna na Grintovcu" src="https://img.youtube.com/vi/TCS_R6tJZnc/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Ostalo/novi_bivak_pod_grintovcem/7/231"><img class="slikagmv" alt="Novi bivak pod Grintovcem" src="https://img.youtube.com/vi/Ou0t_JNFsmY/0.jpg" /></a>
+    </div>
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -910,7 +937,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1532&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=390&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -920,7 +947,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/na_razpotju_lucka_brana_baba/3/1532/2662">Na Razpotju - Lučka Brana (Baba)</a></td><td class="tdG"><a href="/izlet/na_razpotju_lucka_brana_baba/3/1532/2662">4 h 10 min</a></td><td class="tdG"><a href="/izlet/na_razpotju_lucka_brana_baba/3/1532/2662">zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/v_koncu_bivak_pod_grintovcem_cez_kokrsko_sedlo/3/390/539">V Koncu - Bivak pod Grintovcem (čez Kokrsko sedlo)</a></td><td class="tdG"><a href="/izlet/v_koncu_bivak_pod_grintovcem_cez_kokrsko_sedlo/3/390/539">3 h 30 min</a></td><td class="tdG"><a href="/izlet/v_koncu_bivak_pod_grintovcem_cez_kokrsko_sedlo/3/390/539">zahtevna označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/v__koncu_bivak_pod_grintovcem_cez_gamsov_skret/3/390/747">V  Koncu - Bivak pod Grintovcem (čez Gamsov skret)</a></td><td class="tdG"><a href="/izlet/v__koncu_bivak_pod_grintovcem_cez_gamsov_skret/3/390/747">3 h 15 min</a></td><td class="tdG"><a href="/izlet/v__koncu_bivak_pod_grintovcem_cez_gamsov_skret/3/390/747">zelo zahtevna neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/suhadolnik_bivak_pod_grintovcem/3/390/650">Suhadolnik - Bivak pod Grintovcem</a></td><td class="tdG"><a href="/izlet/suhadolnik_bivak_pod_grintovcem/3/390/650">3 h 45 min</a></td><td class="tdG"><a href="/izlet/suhadolnik_bivak_pod_grintovcem/3/390/650">zahtevna označena pot</a></td></tr>
 
 </table>
 

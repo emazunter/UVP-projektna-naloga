@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kranjska Rinka</title>
-        <meta name="description" content="Natančen opis gore Kranjska Rinka in vseh pristopov na Kranjska Rinka. Kranjska Rinka je najvišja od vseh Rink. Z vrha, ki ima vpisno knjigo je najlepš." />
+        <title>Brana</title>
+        <meta name="description" content="Natančen opis gore Brana in vseh pristopov na Brana. Brana je gora nad Kamniškim sedlom. S prostranega vrha, ki ima vpisno skrinjico ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./50?gorovjeid=3&amp;id=50" id="form1">
+    <form method="post" action="./96?gorovjeid=3&amp;id=96" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kranjska_rinka/3/50"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=50"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/brana/3/96"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=96"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Kranjska Rinka
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Brana
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(50);
+    gorast(96);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kranjska Rinka</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Brana</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2453&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2253&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,9390'N&nbsp;/&nbsp;14°&nbsp;33,8166'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,2922'N&nbsp;/&nbsp;14°&nbsp;35,2440'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;56,34''N&nbsp;/&nbsp;14°&nbsp;33'&nbsp;49,00''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;17,53''N&nbsp;/&nbsp;14°&nbsp;35'&nbsp;14,64''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.36565°N&nbsp;/&nbsp;14.56361°E";
+                        document.getElementById("kf0").innerHTML = "46.35487°N&nbsp;/&nbsp;14.5874°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,36565°N,&nbsp;14,56361°E";
+                    document.getElementById("kf0").innerHTML = "46,35487°N,&nbsp;14,5874°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,36565°N&nbsp;14,56361°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kranjska_rinka/50"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35487°N&nbsp;14,5874°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/brana/96"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Brana - Torek" href="/vreme_gora/brana/3/96#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Brana - Sreda" href="/vreme_gora/brana/3/96#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Brana - Četrtek" href="/vreme_gora/brana/3/96#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kranjska Rinka - Petek" href="/vreme_gora/kranjska_rinka/3/50#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Brana - Petek" href="/vreme_gora/brana/3/96#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kranjska Rinka - Sobota" href="/vreme_gora/kranjska_rinka/3/50#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kranjska Rinka - Nedelja" href="/vreme_gora/kranjska_rinka/3/50#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kranjska Rinka - Ponedeljek" href="/vreme_gora/kranjska_rinka/3/50#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kranjska Rinka - Torek" href="/vreme_gora/kranjska_rinka/3/50#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Brana - Sobota" href="/vreme_gora/brana/3/96#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 566.114</div>
-<div class="g2"><b>Priljubljenost:</b> 95%&nbsp;(180.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=50" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 837.420</div>
+<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(34.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=96" title="Število vpisov v vpisni knjigi">7</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kranjska Rinka je najvišja od vseh Rink. Z vrha, ki ima vpisno knjigo je najlepši pogled proti Skuti. Lepo se vidijo tudi preostale Rinke. Lep pa je tudi pogled proti Planjavi in goram okoli nje.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Brana je gora nad Kamniškim sedlom. S prostranega vrha, ki ima vpisno skrinjico in manjši križ je zelo lep razgled. Na vzhodu se lepo vidi Planjava, na zahodu pa Turska gora in za njo Rinke ter Skuta. Lep je pogled tudi na Ljubljansko kotlino.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=50&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=96&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_pod_grintovcem/3/390">Bivak pod Grintovcem (2100m)</a>, <a class="moder" href="/gora/bivak_pod_mrzlim_vrhom/3/618">Bivak pod Mrzlim vrhom (1980m)</a>, <a class="moder" href="/gora/bivak_pod_skuto/3/389">Bivak pod Skuto (2070m)</a>, <a class="moder" href="/gora/dolgi_hrbet/3/42">Dolgi hrbet (2473m)</a>, <a class="moder" href="/gora/dom_na_okreslju/3/167">Dom na Okrešlju (1396m)</a>, <a class="moder" href="/gora/kogel/3/1525">Kogel (2100m)</a>, <a class="moder" href="/gora/koroska_rinka_kriz/3/387">Koroška Rinka (Križ) (2433m)</a>, <a class="moder" href="/gora/kranjska_koca_na_ledinah/3/225">Kranjska koča na Ledinah (1700m)</a>, <a class="moder" href="/gora/ledinski_vrh/3/336">Ledinski vrh (2108m)</a>, <a class="moder" href="/gora/mala_rinka/3/1323">Mala Rinka (2289m)</a>, <a class="moder" href="/gora/mrzla_gora/3/433">Mrzla gora (2203m)</a>, <a class="moder" href="/gora/skuta/3/28">Skuta (2532m)</a>, <a class="moder" href="/gora/stajerska_rinka/3/388">Štajerska Rinka (2374m)</a>, <a class="moder" href="/gora/storzek/3/1289">Storžek (2110m)</a>, <a class="moder" href="/gora/struca/3/49">Štruca (2457m)</a>, <a class="moder" href="/gora/turska_gora/3/391">Turska gora (2251m)</a>, <a class="moder" href="/gora/velika_koroska_baba/3/666">Velika (Koroška) Baba (2127m)</a>
+<a class="moder" href="/gora/bivak_pod_skuto/3/389">Bivak pod Skuto (2070m)</a>, <a class="moder" href="/gora/dom_na_okreslju/3/167">Dom na Okrešlju (1396m)</a>, <a class="moder" href="/gora/kamniska_koca_na_kamniskem_sedlu/3/95">Kamniška koča na Kamniškem sedlu (1864m)</a>, <a class="moder" href="/gora/mala_rinka/3/1323">Mala Rinka (2289m)</a>, <a class="moder" href="/gora/orlovo_gnezdo_slap_rinka/3/166">Orlovo gnezdo (Slap Rinka) (1120m)</a>, <a class="moder" href="/gora/planjava_-_zahodni_vrh/3/3477">Planjava - zahodni vrh (2394m)</a>, <a class="moder" href="/gora/pri_pastirjih/3/248">Pri Pastirjih (1430m)</a>, <a class="moder" href="/gora/turska_gora/3/391">Turska gora (2251m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,36 +835,50 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkranjska_rinka%2f3%2f50"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkranjska_rinka%2f3%2f50"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkranjska_rinka%2f3%2f50"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbrana%2f3%2f96"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbrana%2f3%2f96"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbrana%2f3%2f96"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kranjska_rinka/50" title="Kranjska Rinka 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.kranjskaRinka.jpg" /></a></div>
+<div><a href="/panorama/360/brana/96" title="Brana 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.390210442147brana.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kranjska_rinka/501" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_rinka/501');"><img class="slikagm" alt="Kranjska Rinka" src="//www.hribi.net/Gora/p7090102medium2de.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/brana/20" onclick="event.preventDefault(); window.open('/slika_gora/brana/20');"><img class="slikagm" alt="Brana" src="//www.hribi.net/Gora/p6270149cdo68resized0bg.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_rinka/525" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_rinka/525');"><img class="slikagm" alt="Kranjska Rinka" src="//www.hribi.net/Gora/p7150216mediumvp2.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/brana/520" onclick="event.preventDefault(); window.open('/slika_gora/brana/520');"><img class="slikagm" alt="Brana" src="//www.hribi.net/Gora/p7150096mediumsk2.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_rinka/6068" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_rinka/6068');"><img class="slikagm" alt="Kranjska Rinka" src="//www.hribi.net/slike1/Rinke%20156983178.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/brana/1818" onclick="event.preventDefault(); window.open('/slika_gora/brana/1818');"><img class="slikagm" alt="Brana" src="//www.hribi.net/slike1/P611014477616.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_rinka/6069" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_rinka/6069');"><img class="slikagm" alt="Kranjska Rinka" src="//www.hribi.net/slike1/Rinke%20160983178.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/brana/3331" onclick="event.preventDefault(); window.open('/slika_gora/brana/3331');"><img class="slikagm" alt="Brana" src="//www.hribi.net/sliketemp/P71900024557219.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kranjska_rinka/6152" onclick="event.preventDefault(); window.open('/slika_gora/kranjska_rinka/6152');"><img class="slikagm" alt="Kranjska Rinka" src="//www.hribi.net/sliketemp/Rinke%201399831785591011.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/brana/3332" onclick="event.preventDefault(); window.open('/slika_gora/brana/3332');"><img class="slikagm" alt="Brana" src="//www.hribi.net/sliketemp/P71900844557224.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/brana/6142" onclick="event.preventDefault(); window.open('/slika_gora/brana/6142');"><img class="slikagm" alt="Brana" src="//www.hribi.net/slike1/P702005679380.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/brana/6937" onclick="event.preventDefault(); window.open('/slika_gora/brana/6937');"><img class="slikagm" alt="Brana" src="//www.hribi.net/slike1/KamniskiDedec 021475200.th.jpg" /></a>
     
 </div>
 
 
 
 <div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Smučanje/krajnska_rinka/1/227"><img class="slikagmv" alt="Krajnska Rinka" src="https://img.youtube.com/vi/SRF6sjWdp7s/0.jpg" /></a>
+        <a target="_blank" href="/video_posnetek/Gorništvo/brana_vlog__19_vzpon_na_brano/3/879"><img class="slikagmv" alt="Brana Vlog #19 Vzpon na Brano" src="https://img.youtube.com/vi/hpFFEYV9X0I/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/plezanje_v_siji_brane/8/483"><img class="slikagmv" alt="Plezanje v Šiji Brane" src="https://img.youtube.com/vi/lvg4b9Yy0KM/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_z_brane/8/447"><img class="slikagmv" alt="Polet z Brane" src="https://img.youtube.com/vi/ninBMG5pfj0/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Gorništvo/proti_soncu/3/403"><img class="slikagmv" alt="Proti soncu" src="https://img.youtube.com/vi/sdnnxd54sCw/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Gorništvo/brana/3/333"><img class="slikagmv" alt="Brana" src="https://img.youtube.com/vi/qixBnbQP2Js/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/polet_z_brane/8/323"><img class="slikagmv" alt="Polet z Brane" src="https://img.youtube.com/vi/icoLbygZCNE/0.jpg" /></a>
     </div>
 <script>
 var sortT = 0;
@@ -923,7 +937,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=50&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=96&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -933,19 +947,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/v_koncu_kranjska_rinka_cez_zmavcarje/3/50/227">V Koncu - Kranjska Rinka (čez Žmavčarje)</a></td><td class="tdG"><a href="/izlet/v_koncu_kranjska_rinka_cez_zmavcarje/3/50/227">4 h 35 min</a></td><td class="tdG"><a href="/izlet/v_koncu_kranjska_rinka_cez_zmavcarje/3/50/227">zahtevna neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/jermanca_brana_cez_kamnisko_sedlo/3/96/48">Jermanca - Brana (čez Kamniško sedlo)</a></td><td class="tdG"><a href="/izlet/jermanca_brana_cez_kamnisko_sedlo/3/96/48">3 h 45 min</a></td><td class="tdG"><a href="/izlet/jermanca_brana_cez_kamnisko_sedlo/3/96/48">zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ravenska_kocna_kranjska_rinka_slovenska_pot/3/50/2597">Ravenska Kočna - Kranjska Rinka (Slovenska pot)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_kranjska_rinka_slovenska_pot/3/50/2597">4 h 35 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_kranjska_rinka_slovenska_pot/3/50/2597">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka__brana/3/96/1735">Koča pod slapom Rinka  - Brana</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka__brana/3/96/1735">3 h 45 min</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka__brana/3/96/1735">zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_kranjska_rinka_cez_korosko_rinko/3/50/2596">Koča pod slapom Rinka - Kranjska Rinka (čez Koroško Rinko)</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_kranjska_rinka_cez_korosko_rinko/3/50/2596">5 h 20 min</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_kranjska_rinka_cez_korosko_rinko/3/50/2596">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_v_kamniski_bistrici_brana/3/96/1785">Dom v Kamniški Bistrici - Brana</a></td><td class="tdG"><a href="/izlet/dom_v_kamniski_bistrici_brana/3/96/1785">5 h</a></td><td class="tdG"><a href="/izlet/dom_v_kamniski_bistrici_brana/3/96/1785">zahtevna označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_kranjska_rinka_skozi_turski_zleb/3/50/2595">Koča pod slapom Rinka - Kranjska Rinka (skozi Turski žleb)</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_kranjska_rinka_skozi_turski_zleb/3/50/2595">5 h 5 min</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_kranjska_rinka_skozi_turski_zleb/3/50/2595">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/belska_kocna_kranjska_rinka/3/50/2598">Belska Kočna - Kranjska Rinka</a></td><td class="tdG"><a href="/izlet/belska_kocna_kranjska_rinka/3/50/2598">5 h 5 min</a></td><td class="tdG"><a href="/izlet/belska_kocna_kranjska_rinka/3/50/2598">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ravenska_kocna_kranjska_rinka_skozi_zrelo/3/50/5502">Ravenska Kočna - Kranjska Rinka (skozi Žrelo)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_kranjska_rinka_skozi_zrelo/3/50/5502">4 h 35 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_kranjska_rinka_skozi_zrelo/3/50/5502">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ravenska_kocna_kranjska_rinka_lovska_pot/3/50/5503">Ravenska Kočna - Kranjska Rinka (lovska pot)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_kranjska_rinka_lovska_pot/3/50/5503">4 h 50 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_kranjska_rinka_lovska_pot/3/50/5503">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/v_koncu_brana_cez_tursko_goro/3/96/577">V Koncu - Brana (čez Tursko goro)</a></td><td class="tdG"><a href="/izlet/v_koncu_brana_cez_tursko_goro/3/96/577">5 h 45 min</a></td><td class="tdG"><a href="/izlet/v_koncu_brana_cez_tursko_goro/3/96/577">zelo zahtevna označena pot</a></td></tr>
 
 </table>
 

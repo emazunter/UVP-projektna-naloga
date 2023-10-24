@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Veliki Rog</title>
-        <meta name="description" content="Natančen opis gore Veliki Rog in vseh pristopov na Veliki Rog. Veliki Rog se nahaja na sredi neskončnih gozdov kraške planote Kočevki Rog in je." />
+        <title>Mestni vrh</title>
+        <meta name="description" content="Natančen opis gore Mestni vrh in vseh pristopov na Mestni vrh. Mestni vrh je 1034m visoka gora, ki se nahaja vzhodno od koče pri Jelenovem stud." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./901?gorovjeid=25&amp;id=901" id="form1">
+    <form method="post" action="./1190?gorovjeid=25&amp;id=1190" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_rog/25/901"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=901"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mestni_vrh/25/1190"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1190"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Veliki Rog
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Mestni vrh
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(901);
+    gorast(1190);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Veliki Rog</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Mestni vrh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 1099&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1034&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;41,1126'N&nbsp;/&nbsp;14°&nbsp;59,7168'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;37,1934'N&nbsp;/&nbsp;14°&nbsp;51,0528'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;41'&nbsp;6,76''N&nbsp;/&nbsp;14°&nbsp;59'&nbsp;43,01''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;37'&nbsp;11,60''N&nbsp;/&nbsp;14°&nbsp;51'&nbsp;3,17''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.68521°N&nbsp;/&nbsp;14.99528°E";
+                        document.getElementById("kf0").innerHTML = "45.61989°N&nbsp;/&nbsp;14.85088°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,68521°N,&nbsp;14,99528°E";
+                    document.getElementById("kf0").innerHTML = "45,61989°N,&nbsp;14,85088°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,68521°N&nbsp;14,99528°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_rog/901"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,61989°N&nbsp;14,85088°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mestni_vrh/1190"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Mestni vrh - Torek" href="/vreme_gora/mestni_vrh/25/1190#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Mestni vrh - Sreda" href="/vreme_gora/mestni_vrh/25/1190#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Mestni vrh - Četrtek" href="/vreme_gora/mestni_vrh/25/1190#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rog - Petek" href="/vreme_gora/veliki_rog/25/901#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mestni vrh - Petek" href="/vreme_gora/mestni_vrh/25/1190#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rog - Sobota" href="/vreme_gora/veliki_rog/25/901#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rog - Nedelja" href="/vreme_gora/veliki_rog/25/901#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rog - Ponedeljek" href="/vreme_gora/veliki_rog/25/901#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Rog - Torek" href="/vreme_gora/veliki_rog/25/901#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mestni vrh - Sobota" href="/vreme_gora/mestni_vrh/25/1190#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 360.658</div>
-<div class="g2"><b>Priljubljenost:</b> 76%&nbsp;(781.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Ogledov:</b> 390.703</div>
+<div class="g2"><b>Priljubljenost:</b> 79%&nbsp;(676.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=901" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1190" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki Rog se nahaja na sredi neskončnih gozdov kraške planote Kočevki Rog in je s svojimi 1099m nadmorske višine najvišji vrh. Vrh je sicer poraščen vendar na njemu stoji razgledni stolp, ki ob lepem vremenu omogoča razgled po celi Sloveniji. Na vrhu je tudi skrinjica z vpisno knjigo in žigom. Pod samim vrhom Velikega Roga so ostanki Auerspergove žage, opuščene pred 2. svetovno vojno. V bližnji okolici pa lahko najdemo še ostale znamenitosti: partizanske bolnišnice (Baza 20, Jelendol), črmošnjiško jelko, ledeno jamo na Kunču, brezna povojnih pobojev.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Mestni vrh je 1034m visoka gora, ki se nahaja vzhodno od koče pri Jelenovem studencu. Z vrha na katerem se nahaja vpisna skrinjica z žigom zaradi gozda ni razgleda.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=901&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1190&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/grad_fridrihstajn/25/1191">Grad Fridrihštajn (970m)</a>, <a class="moder" href="/gora/koca_pri_jelenovem_studencu/25/1189">Koča pri Jelenovem studencu (850m)</a>, <a class="moder" href="/gora/ledena_jama_na_stojni/25/1194">Ledena jama na Stojni (840m)</a>, <a class="moder" href="/gora/pozgani_hrib/25/1193">Požgani hrib (1009m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,22 +835,18 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crmosnjice/4124">Črmošnjice</a>, <a class="moder" href="/spletna_kamera/dom_na_mirni_gori/1766">Dom na Mirni gori</a>, <a class="moder" href="/spletna_kamera/gace/999">Gače</a>, <a class="moder" href="/spletna_kamera/kocevje/998">Kočevje</a>, <a class="moder" href="/spletna_kamera/rudnisko_jezero/4234">Rudniško jezero</a>
+<a class="moder" href="/spletna_kamera/colnarji/451">Colnarji</a>, <a class="moder" href="/spletna_kamera/domacija_lobic_grgelj/4358">Domačija Lobič (Grgelj)</a>, <a class="moder" href="/spletna_kamera/grad_kostel/4361">Grad Kostel</a>, <a class="moder" href="/spletna_kamera/kocevje/998">Kočevje</a>, <a class="moder" href="/spletna_kamera/rudnisko_jezero/4234">Rudniško jezero</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_rog%2f25%2f901"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_rog%2f25%2f901"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_rog%2f25%2f901"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmestni_vrh%2f25%2f1190"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmestni_vrh%2f25%2f1190"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmestni_vrh%2f25%2f1190"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/veliki_rog/3724" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rog/3724');"><img class="slikagm" alt="Veliki Rog" src="//www.hribi.net/sliketemp/PB0100484709928.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/veliki_rog/3725" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rog/3725');"><img class="slikagm" alt="Veliki Rog" src="//www.hribi.net/sliketemp/PB0100574709930.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/veliki_rog/5077" onclick="event.preventDefault(); window.open('/slika_gora/veliki_rog/5077');"><img class="slikagm" alt="Veliki Rog" src="//www.hribi.net/slike1/Gace 1720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mestni_vrh/4010" onclick="event.preventDefault(); window.open('/slika_gora/mestni_vrh/4010');"><img class="slikagm" alt="Mestni vrh" src="//www.hribi.net/slike1/P228011426730.th.jpg" /></a>
     
 </div>
 
@@ -914,7 +910,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=901&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1190&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -924,9 +920,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/stufna_veliki_rog/25/901/1891">Štufna - Veliki Rog</a></td><td class="tdG"><a href="/izlet/stufna_veliki_rog/25/901/1891"> 50 min</a></td><td class="tdG"><a href="/izlet/stufna_veliki_rog/25/901/1891">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kocevje_mestni_vrh_kalanova_pot/25/1190/1990">Kočevje - Mestni vrh (Kalanova pot)</a></td><td class="tdG"><a href="/izlet/kocevje_mestni_vrh_kalanova_pot/25/1190/1990">1 h 30 min</a></td><td class="tdG"><a href="/izlet/kocevje_mestni_vrh_kalanova_pot/25/1190/1990">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kocevsko_rudnisko_jezero_veliki_rog_po_medvedovih_stopinjah/25/901/7915">Kočevsko (Rudniško) jezero - Veliki Rog (Po medvedovih stopinjah)</a></td><td class="tdG"><a href="/izlet/kocevsko_rudnisko_jezero_veliki_rog_po_medvedovih_stopinjah/25/901/7915">7 h 30 min</a></td><td class="tdG"><a href="/izlet/kocevsko_rudnisko_jezero_veliki_rog_po_medvedovih_stopinjah/25/901/7915">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kocevje_mestni_vrh_grajska_pot/25/1190/1993">Kočevje - Mestni vrh (Grajska pot)</a></td><td class="tdG"><a href="/izlet/kocevje_mestni_vrh_grajska_pot/25/1190/1993">1 h 40 min</a></td><td class="tdG"><a href="/izlet/kocevje_mestni_vrh_grajska_pot/25/1190/1993">lahka označena pot</a></td></tr>
 
 </table>
 

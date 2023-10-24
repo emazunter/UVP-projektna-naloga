@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Bivak pod Mrzlim vrhom</title>
-        <meta name="description" content="Natančen opis bivaka Bivak pod Mrzlim vrhom in vseh pristopov na Bivak pod Mrzlim vrhom. Bivak pod Mrzlim vrhom se nahaja le nekaj višinskih metrov pod Savinjskim sedlom." />
+        <title>Gradišče (Velika planina)</title>
+        <meta name="description" content="Natančen opis gore Gradišče (Velika planina) in vseh pristopov na Gradišče (Velika planina). Gradišče (tudi Njivice) je s 1666 m najvišji vrh Velike planine. Z vrha, na kate." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./618?gorovjeid=3&amp;id=618" id="form1">
+    <form method="post" action="./169?gorovjeid=3&amp;id=169" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bivak_pod_mrzlim_vrhom/3/618"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=618"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/gradisce_velika_planina/3/169"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=169"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Bivak pod Mrzlim vrhom
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Gradišče (Velika planina)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(618);
+    gorast(169);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Bivak pod Mrzlim vrhom</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Gradišče (Velika planina)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1980&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1666&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,4550'N&nbsp;/&nbsp;14°&nbsp;34,0038'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,8836'N&nbsp;/&nbsp;14°&nbsp;38,6364'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;27,30''N&nbsp;/&nbsp;14°&nbsp;34'&nbsp;0,23''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;53,02''N&nbsp;/&nbsp;14°&nbsp;38'&nbsp;38,18''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.37425°N&nbsp;/&nbsp;14.56673°E";
+                        document.getElementById("kf0").innerHTML = "46.29806°N&nbsp;/&nbsp;14.64394°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,37425°N,&nbsp;14,56673°E";
+                    document.getElementById("kf0").innerHTML = "46,29806°N,&nbsp;14,64394°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,37425°N&nbsp;14,56673°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bivak_pod_mrzlim_vrhom/618"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,29806°N&nbsp;14,64394°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/gradisce_velika_planina/169"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> bivak</div>
+    <div class="g2"><b>Vrsta:</b> vrh, planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Gradišče (Velika planina) - Torek" href="/vreme_gora/gradisce_velika_planina/3/169#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Gradišče (Velika planina) - Sreda" href="/vreme_gora/gradisce_velika_planina/3/169#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Gradišče (Velika planina) - Četrtek" href="/vreme_gora/gradisce_velika_planina/3/169#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Bivak pod Mrzlim vrhom - Petek" href="/vreme_gora/bivak_pod_mrzlim_vrhom/3/618#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Gradišče (Velika planina) - Petek" href="/vreme_gora/gradisce_velika_planina/3/169#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Bivak pod Mrzlim vrhom - Sobota" href="/vreme_gora/bivak_pod_mrzlim_vrhom/3/618#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Bivak pod Mrzlim vrhom - Nedelja" href="/vreme_gora/bivak_pod_mrzlim_vrhom/3/618#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Bivak pod Mrzlim vrhom - Ponedeljek" href="/vreme_gora/bivak_pod_mrzlim_vrhom/3/618#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Bivak pod Mrzlim vrhom - Torek" href="/vreme_gora/bivak_pod_mrzlim_vrhom/3/618#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Gradišče (Velika planina) - Sobota" href="/vreme_gora/gradisce_velika_planina/3/169#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 372.287</div>
-<div class="g2"><b>Priljubljenost:</b> 77%&nbsp;(740.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 963.801</div>
+<div class="g2"><b>Priljubljenost:</b> 100%&nbsp;(11.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">12</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=618" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=169" title="Število vpisov v vpisni knjigi">17</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis bivaka:</b><br />Bivak pod Mrzlim vrhom se nahaja le nekaj višinskih metrov pod Savinjskim sedlom. V bivaku, kjer je možno vedriti v primeru nevihte je tudi vpisna knjiga. Razgled od bivaka je zelo lep na ostenja Rink, Turske gore in ostalih vrhov nad Logarsko dolino.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Gradišče (tudi Njivice) je s 1666 m najvišji vrh Velike planine. Z vrha, na katerem stoji razgledna plošča, klop in vpisna skrinjica z žigom je zelo lep pogled na Kamniško Savinjske Alpe. Najlepše se vidijo Kalški Greben, osrednji Grintovci, Planjava in Ojstrica ter Velika planina z okolico.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=618&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=169&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_pod_skuto/3/389">Bivak pod Skuto (2070m)</a>, <a class="moder" href="/gora/dom_na_okreslju/3/167">Dom na Okrešlju (1396m)</a>, <a class="moder" href="/gora/koroska_rinka_kriz/3/387">Koroška Rinka (Križ) (2433m)</a>, <a class="moder" href="/gora/kranjska_koca_na_ledinah/3/225">Kranjska koča na Ledinah (1700m)</a>, <a class="moder" href="/gora/kranjska_rinka/3/50">Kranjska Rinka (2453m)</a>, <a class="moder" href="/gora/ledinski_vrh/3/336">Ledinski vrh (2108m)</a>, <a class="moder" href="/gora/mala_rinka/3/1323">Mala Rinka (2289m)</a>, <a class="moder" href="/gora/mrzla_gora/3/433">Mrzla gora (2203m)</a>, <a class="moder" href="/gora/skuta/3/28">Skuta (2532m)</a>, <a class="moder" href="/gora/stajerska_rinka/3/388">Štajerska Rinka (2374m)</a>, <a class="moder" href="/gora/storzek/3/1289">Storžek (2110m)</a>, <a class="moder" href="/gora/struca/3/49">Štruca (2457m)</a>, <a class="moder" href="/gora/turska_gora/3/391">Turska gora (2251m)</a>, <a class="moder" href="/gora/velika_koroska_baba/3/666">Velika (Koroška) Baba (2127m)</a>
+<a class="moder" href="/gora/crnuski_dom_na_mali_planini/3/470">Črnuški dom na Mali planini (1526m)</a>, <a class="moder" href="/gora/domzalski_dom_na_mali_planini/3/170">Domžalski dom na Mali planini (1534m)</a>, <a class="moder" href="/gora/gostisce_zeleni_rob/3/947">Gostišče Zeleni Rob (1612m)</a>, <a class="moder" href="/gora/jarski_dom_na_mali_planini/3/237">Jarški dom na Mali planini (1520m)</a>, <a class="moder" href="/gora/kapela_marije_snezne_velika_planina/3/168">Kapela Marije Snežne (Velika planina) (1560m)</a>, <a class="moder" href="/gora/koritni_vrh_velika_planina/3/372">Koritni vrh (Velika planina) (1648m)</a>, <a class="moder" href="/gora/planina_konjscica_velika_planina/3/371">Planina Konjščica (Velika planina) (1505m)</a>, <a class="moder" href="/gora/poljanski_rob/3/1488">Poljanski rob (1569m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,57 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_pod_mrzlim_vrhom%2f3%2f618"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_pod_mrzlim_vrhom%2f3%2f618"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_pod_mrzlim_vrhom%2f3%2f618"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgradisce_velika_planina%2f3%2f169"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgradisce_velika_planina%2f3%2f169"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgradisce_velika_planina%2f3%2f169"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/bivak_pod_mrzlim_vrhom/618" title="Bivak pod Mrzlim vrhom 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.BivakMrzliVrh.jpg" /></a></div>
+<div><a href="/panorama/360/gradisce_velika_planina/169" title="Gradišče (Velika planina) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.gradisce.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/bivak_pod_mrzlim_vrhom/1875" onclick="event.preventDefault(); window.open('/slika_gora/bivak_pod_mrzlim_vrhom/1875');"><img class="slikagm" alt="Bivak pod Mrzlim vrhom" src="//www.hribi.net/slike1/P6280381442260.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gradisce_velika_planina/439" onclick="event.preventDefault(); window.open('/slika_gora/gradisce_velika_planina/439');"><img class="slikagm" alt="Gradišče (Velika planina)" src="//www.hribi.net/Gora/p7040145medium9gy.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/gradisce_velika_planina/440" onclick="event.preventDefault(); window.open('/slika_gora/gradisce_velika_planina/440');"><img class="slikagm" alt="Gradišče (Velika planina)" src="//www.hribi.net/Gora/p7040164medium2ip.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/gradisce_velika_planina/3050" onclick="event.preventDefault(); window.open('/slika_gora/gradisce_velika_planina/3050');"><img class="slikagm" alt="Gradišče (Velika planina)" src="//www.hribi.net/sliketemp/P52402234475028.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/gradisce_velika_planina/3495" onclick="event.preventDefault(); window.open('/slika_gora/gradisce_velika_planina/3495');"><img class="slikagm" alt="Gradišče (Velika planina)" src="//www.hribi.net/slike1/P5240157277760.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/gradisce_velika_planina/5337" onclick="event.preventDefault(); window.open('/slika_gora/gradisce_velika_planina/5337');"><img class="slikagm" alt="Gradišče (Velika planina)" src="//www.hribi.net/slike1/VelikaPlanina 17910800.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/gradisce_velika_planina/5796" onclick="event.preventDefault(); window.open('/slika_gora/gradisce_velika_planina/5796');"><img class="slikagm" alt="Gradišče (Velika planina)" src="//www.hribi.net/slike1/VelikaPlaninaLovska 36480600.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/gradisce_velika_planina/8933" onclick="event.preventDefault(); window.open('/slika_gora/gradisce_velika_planina/8933');"><img class="slikagm" alt="Gradišče (Velika planina)" src="//www.hribi.net/slike1/VelikaPlanina 089106920.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/gradisce_velika_planina/12747" onclick="event.preventDefault(); window.open('/slika_gora/gradisce_velika_planina/12747');"><img class="slikagm" alt="Gradišče (Velika planina)" src="//www.hribi.net/slike1/PoljanskiRob 2281492344.th.jpg" /></a>
     
 </div>
 
 
 
-
+<div style="padding-top:8px;"><b>Video:</b></div><div>
+        <a target="_blank" href="/video_posnetek/Gorništvo/velika_planina_2015/3/753"><img class="slikagmv" alt="Velika planina 2015" src="https://img.youtube.com/vi/_RHJFktmdaA/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/soncni_zahod_na_veliki_planini/8/738"><img class="slikagmv" alt="Sončni zahod na Veliki planini" src="https://img.youtube.com/vi/j3KjzF8UiFg/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/hoja_in_letenje_velika_planina/8/634"><img class="slikagmv" alt="Hoja in letenje Velika planina" src="https://img.youtube.com/vi/XEVtjLlzdOw/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Razgledi/potep_po_veliki_planini/4/609"><img class="slikagmv" alt="Potep po Veliki Planini" src="https://img.youtube.com/vi/tLp-O4VZRNI/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/velika_planina_odeta_v_meglice/8/567"><img class="slikagmv" alt="Velika planina odeta v meglice" src="https://img.youtube.com/vi/cZRLtDf9ZFc/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Letenje z gora/tandem_polet_z_velike_planine/8/527"><img class="slikagmv" alt="Tandem polet z Velike planine" src="https://img.youtube.com/vi/d53v6BvFA4w/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Gorništvo/velika_planina/3/484"><img class="slikagmv" alt="VELIKA PLANINA" src="https://img.youtube.com/vi/mK3EuN8_jR4/0.jpg" /></a>
+    
+        <a target="_blank" href="/video_posnetek/Razgledi/velika_planina/4/467"><img class="slikagmv" alt="VELIKA PLANINA" src="https://img.youtube.com/vi/VsV7bmeoWV4/0.jpg" /></a>
+    </div>
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -913,7 +943,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=618&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=169&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -923,13 +953,29 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_bivak_pod_mrzlim_vrhom/3/618/1111">Koča pod slapom Rinka - Bivak pod Mrzlim vrhom</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_bivak_pod_mrzlim_vrhom/3/618/1111">3 h</a></td><td class="tdG"><a href="/izlet/koca_pod_slapom_rinka_bivak_pod_mrzlim_vrhom/3/618/1111">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjski_rak_gradisce_velika_planina_spodaj_po_cesti/3/169/561">Kranjski Rak - Gradišče (Velika planina) (spodaj po cesti)</a></td><td class="tdG"><a href="/izlet/kranjski_rak_gradisce_velika_planina_spodaj_po_cesti/3/169/561">2 h 15 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak_gradisce_velika_planina_spodaj_po_cesti/3/169/561">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ravenska_kocna_bivak_pod_mrzlim_vrhom_slovenska_pot/3/618/5525">Ravenska Kočna - Bivak pod Mrzlim vrhom (Slovenska pot)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_bivak_pod_mrzlim_vrhom_slovenska_pot/3/618/5525">3 h 20 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_bivak_pod_mrzlim_vrhom_slovenska_pot/3/618/5525">zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/stahovica_gradisce_velika_planina/3/169/2513">Stahovica - Gradišče (Velika planina)</a></td><td class="tdG"><a href="/izlet/stahovica_gradisce_velika_planina/3/169/2513">3 h 40 min</a></td><td class="tdG"><a href="/izlet/stahovica_gradisce_velika_planina/3/169/2513">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ravenska_kocna_bivak_pod_mrzlim_vrhom_lovska_pot/3/618/5527">Ravenska Kočna - Bivak pod Mrzlim vrhom (lovska pot)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_bivak_pod_mrzlim_vrhom_lovska_pot/3/618/5527">3 h 35 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_bivak_pod_mrzlim_vrhom_lovska_pot/3/618/5527">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_dol_gradisce_velika_planina/3/169/2594">Planina Dol - Gradišče (Velika planina)</a></td><td class="tdG"><a href="/izlet/planina_dol_gradisce_velika_planina/3/169/2594">1 h</a></td><td class="tdG"><a href="/izlet/planina_dol_gradisce_velika_planina/3/169/2594">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ravenska_kocna_bivak_pod_mrzlim_vrhom_skozi_zrelo/3/618/5526">Ravenska Kočna - Bivak pod Mrzlim vrhom (skozi Žrelo)</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_bivak_pod_mrzlim_vrhom_skozi_zrelo/3/618/5526">3 h 20 min</a></td><td class="tdG"><a href="/izlet/ravenska_kocna_bivak_pod_mrzlim_vrhom_skozi_zrelo/3/618/5526">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kranjski_rak__gradisce_velika_planina_pespot/3/169/4977">Kranjski Rak  - Gradišče (Velika planina) (pešpot)</a></td><td class="tdG"><a href="/izlet/kranjski_rak__gradisce_velika_planina_pespot/3/169/4977">2 h 10 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak__gradisce_velika_planina_pespot/3/169/4977">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina/3/169/1772">Kraljev hrib - Gradišče (Velika planina)</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina/3/169/1772">3 h</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina/3/169/1772">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/za_usivcem_gradisce_velika_planina_cez_malo_planino/3/169/3496">Za Ušivcem - Gradišče (Velika planina) (čez Malo planino)</a></td><td class="tdG"><a href="/izlet/za_usivcem_gradisce_velika_planina_cez_malo_planino/3/169/3496">2 h</a></td><td class="tdG"><a href="/izlet/za_usivcem_gradisce_velika_planina_cez_malo_planino/3/169/3496">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/hotel_simnovec_gradisce_velika_planina/3/169/236">Hotel Šimnovec - Gradišče (Velika planina)</a></td><td class="tdG"><a href="/izlet/hotel_simnovec_gradisce_velika_planina/3/169/236"> 45 min</a></td><td class="tdG"><a href="/izlet/hotel_simnovec_gradisce_velika_planina/3/169/236">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/za_usivcem_gradisce_velika_planina/3/169/3489">Za Ušivcem - Gradišče (Velika planina)</a></td><td class="tdG"><a href="/izlet/za_usivcem_gradisce_velika_planina/3/169/3489">1 h 10 min</a></td><td class="tdG"><a href="/izlet/za_usivcem_gradisce_velika_planina/3/169/3489">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina_cez_rigelj/3/169/3149">Kraljev hrib - Gradišče (Velika planina) (čez Rigelj)</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina_cez_rigelj/3/169/3149">3 h</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina_cez_rigelj/3/169/3149">zahtevna neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina_preko_skorence_kacjeka_in_gamsovih_strez/3/169/2518">Kraljev hrib - Gradišče (Velika planina) (preko Škorence, Kačjeka in Gamsovih strež)</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina_preko_skorence_kacjeka_in_gamsovih_strez/3/169/2518">4 h 40 min</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina_preko_skorence_kacjeka_in_gamsovih_strez/3/169/2518">delno zahtevna neoznačena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjski_rak_gradisce_velika_planina_cez_seliski_rob/3/169/4976"> Kranjski Rak - Gradišče (Velika planina) (čez Seliški rob)</a></td><td class="tdG"><a href="/izlet/kranjski_rak_gradisce_velika_planina_cez_seliski_rob/3/169/4976">2 h 20 min</a></td><td class="tdG"><a href="/izlet/kranjski_rak_gradisce_velika_planina_cez_seliski_rob/3/169/4976">lahka neoznačena steza, lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina_cez_sivnik_in_rigelj/3/169/4557">Kraljev hrib - Gradišče (Velika planina) (čez Sivnik in Rigelj)</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina_cez_sivnik_in_rigelj/3/169/4557">4 h</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_gradisce_velika_planina_cez_sivnik_in_rigelj/3/169/4557">zahtevna neoznačena steza</a></td></tr>
 
 </table>
 

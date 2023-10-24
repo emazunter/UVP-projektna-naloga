@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koprivnik</title>
-        <meta name="description" content="Natančen opis gore Koprivnik in vseh pristopov na Koprivnik. Koprivnik je 1393 m visoka gora, ki se nahaja med Blegošem in Mladim vrhom. Z vr." />
+        <title>Planina Kališnik</title>
+        <meta name="description" content="Natančen opis planine Planina Kališnik in vseh pristopov na Planina Kališnik. Planina Kališnik se nahaja na južnem delu Jelovice, v bližini Dražgoške gore. Pl." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./440?gorovjeid=21&amp;id=440" id="form1">
+    <form method="post" action="./2886?gorovjeid=21&amp;id=2886" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koprivnik/21/440"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=440"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_kalisnik/21/2886"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=2886"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Koprivnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Planina Kališnik
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(440);
+    gorast(2886);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koprivnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planina Kališnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1393&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1180&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;10,560'N&nbsp;/&nbsp;14°&nbsp;8,4168'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,7440'N&nbsp;/&nbsp;14°&nbsp;10,2540'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;10'&nbsp;33,60''N&nbsp;/&nbsp;14°&nbsp;8'&nbsp;25,01''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;44,64''N&nbsp;/&nbsp;14°&nbsp;10'&nbsp;15,24''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.176°N&nbsp;/&nbsp;14.14028°E";
+                        document.getElementById("kf0").innerHTML = "46.2624°N&nbsp;/&nbsp;14.1709°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,176°N,&nbsp;14,14028°E";
+                    document.getElementById("kf0").innerHTML = "46,2624°N,&nbsp;14,1709°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,176°N&nbsp;14,14028°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koprivnik/440"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2624°N&nbsp;14,1709°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_kalisnik/2886"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Kališnik - Torek" href="/vreme_gora/planina_kalisnik/21/2886#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Kališnik - Sreda" href="/vreme_gora/planina_kalisnik/21/2886#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Kališnik - Četrtek" href="/vreme_gora/planina_kalisnik/21/2886#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koprivnik - Petek" href="/vreme_gora/koprivnik/21/440#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Kališnik - Petek" href="/vreme_gora/planina_kalisnik/21/2886#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koprivnik - Sobota" href="/vreme_gora/koprivnik/21/440#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koprivnik - Nedelja" href="/vreme_gora/koprivnik/21/440#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koprivnik - Ponedeljek" href="/vreme_gora/koprivnik/21/440#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koprivnik - Torek" href="/vreme_gora/koprivnik/21/440#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Kališnik - Sobota" href="/vreme_gora/planina_kalisnik/21/2886#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 434.918</div>
-<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(526.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
+<div class="g2"><b>Ogledov:</b> 3.390</div>
+<div class="g2"><b>Priljubljenost:</b> 32%&nbsp;(2236.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Koprivnik je 1393 m visoka gora, ki se nahaja med Blegošem in Mladim vrhom. Z vrha, ki ima vpisno skrinjico in žig je razgled zaradi bližnjega gozda omejen in sega le proti Blegošu.</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Kališnik se nahaja na južnem delu Jelovice, v bližini Dražgoške gore. Planina je danes opuščena, večja koča na planini pa propada.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=440&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2886&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/mladi_vrh/21/1119">Mladi vrh (1374m)</a>
+<a class="moder" href="/gora/bickova_skala/21/2859">Bičkova skala (1012m)</a>, <a class="moder" href="/gora/drazgoska_gora/21/2885">Dražgoška gora (1140m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,31 +835,30 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
+<a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoprivnik%2f21%2f440"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoprivnik%2f21%2f440"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoprivnik%2f21%2f440"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_kalisnik%2f21%2f2886"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_kalisnik%2f21%2f2886"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_kalisnik%2f21%2f2886"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koprivnik/440" title="Koprivnik 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Koprivnik.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koprivnik/750" onclick="event.preventDefault(); window.open('/slika_gora/koprivnik/750');"><img class="slikagm" alt="Koprivnik" src="//www.hribi.net/Gora/p8150124mediumcx7.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_kalisnik/16645" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisnik/16645');"><img class="slikagm" alt="Planina Kališnik" src="//slike.hribi.net/slike4/2_423574684828_DSCN6939.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koprivnik/752" onclick="event.preventDefault(); window.open('/slika_gora/koprivnik/752');"><img class="slikagm" alt="Koprivnik" src="//www.hribi.net/Gora/p8150143mediumcw1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_kalisnik/16646" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisnik/16646');"><img class="slikagm" alt="Planina Kališnik" src="//slike.hribi.net/slike4/2_3359574684825_DSCN6938.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koprivnik/4492" onclick="event.preventDefault(); window.open('/slika_gora/koprivnik/4492');"><img class="slikagm" alt="Koprivnik" src="//www.hribi.net/slike1/P701023922932.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_kalisnik/16647" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisnik/16647');"><img class="slikagm" alt="Planina Kališnik" src="//slike.hribi.net/slike4/2_2695574684822_DSCN6936.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koprivnik/4493" onclick="event.preventDefault(); window.open('/slika_gora/koprivnik/4493');"><img class="slikagm" alt="Koprivnik" src="//www.hribi.net/slike1/P6280010845640.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_kalisnik/16648" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisnik/16648');"><img class="slikagm" alt="Planina Kališnik" src="//slike.hribi.net/slike4/2_1314574684819_DSCN6929.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koprivnik/4505" onclick="event.preventDefault(); window.open('/slika_gora/koprivnik/4505');"><img class="slikagm" alt="Koprivnik" src="//www.hribi.net/slike1/P62800890.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_kalisnik/16649" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisnik/16649');"><img class="slikagm" alt="Planina Kališnik" src="//slike.hribi.net/slike4/2_0705574684816_DSCN6928.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/koprivnik/19387" onclick="event.preventDefault(); window.open('/slika_gora/koprivnik/19387');"><img class="slikagm" alt="Koprivnik" src="//slike.hribi.net/slike4/2_1649647786602_DSCN3199.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planina_kalisnik/16650" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisnik/16650');"><img class="slikagm" alt="Planina Kališnik" src="//slike.hribi.net/slike4/2_0318574011730_DSCN6924.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_kalisnik/16651" onclick="event.preventDefault(); window.open('/slika_gora/planina_kalisnik/16651');"><img class="slikagm" alt="Planina Kališnik" src="//slike.hribi.net/slike4/2_1852574011733_DSCN6934.JPG" /></a>
     
 </div>
 
@@ -923,7 +922,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=440&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2886&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -933,19 +932,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/crni_kal_koprivnik_spodnja_pot/21/440/642">Črni Kal - Koprivnik (spodnja pot)</a></td><td class="tdG"><a href="/izlet/crni_kal_koprivnik_spodnja_pot/21/440/642">1 h</a></td><td class="tdG"><a href="/izlet/crni_kal_koprivnik_spodnja_pot/21/440/642">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/drazgose_jelensce_planina_kalisnik/21/2886/6713">Dražgoše (Jelenšče) - Planina Kališnik</a></td><td class="tdG"><a href="/izlet/drazgose_jelensce_planina_kalisnik/21/2886/6713"> 45 min</a></td><td class="tdG"><a href="/izlet/drazgose_jelensce_planina_kalisnik/21/2886/6713">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/crni_kal_koprivnik_cez_romovec/21/440/2163">Črni Kal - Koprivnik (čez Romovec)</a></td><td class="tdG"><a href="/izlet/crni_kal_koprivnik_cez_romovec/21/440/2163">1 h</a></td><td class="tdG"><a href="/izlet/crni_kal_koprivnik_cez_romovec/21/440/2163">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zali_log_koprivnik/21/440/3150">Zali Log - Koprivnik</a></td><td class="tdG"><a href="/izlet/zali_log_koprivnik/21/440/3150">2 h 45 min</a></td><td class="tdG"><a href="/izlet/zali_log_koprivnik/21/440/3150">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/brdo_koprivnik/21/440/643">Brdo - Koprivnik</a></td><td class="tdG"><a href="/izlet/brdo_koprivnik/21/440/643"> 45 min</a></td><td class="tdG"><a href="/izlet/brdo_koprivnik/21/440/643">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/preval_koprivnik/21/440/7337">Preval - Koprivnik</a></td><td class="tdG"><a href="/izlet/preval_koprivnik/21/440/7337">3 h 15 min</a></td><td class="tdG"><a href="/izlet/preval_koprivnik/21/440/7337">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/javorje_koprivnik_cez_brdo/21/440/7804">Javorje - Koprivnik (čez Brdo)</a></td><td class="tdG"><a href="/izlet/javorje_koprivnik_cez_brdo/21/440/7804">2 h 20 min</a></td><td class="tdG"><a href="/izlet/javorje_koprivnik_cez_brdo/21/440/7804">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/preval_hlevisce_koprivnik_cez_brdo/21/440/7805">Preval Hlevišče - Koprivnik (čez Brdo)</a></td><td class="tdG"><a href="/izlet/preval_hlevisce_koprivnik_cez_brdo/21/440/7805">2 h</a></td><td class="tdG"><a href="/izlet/preval_hlevisce_koprivnik_cez_brdo/21/440/7805">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/drazgose_na_peceh_planina_kalisnik/21/2886/6714">Dražgoše (Na Pečeh) - Planina Kališnik</a></td><td class="tdG"><a href="/izlet/drazgose_na_peceh_planina_kalisnik/21/2886/6714">1 h 5 min</a></td><td class="tdG"><a href="/izlet/drazgose_na_peceh_planina_kalisnik/21/2886/6714">lahka označena pot</a></td></tr>
 
 </table>
 

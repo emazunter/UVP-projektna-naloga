@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Socerb (Artviže)</title>
-        <meta name="description" content="Natančen opis gore Sveti Socerb (Artviže) in vseh pristopov na Sveti Socerb (Artviže). Cerkev sv. Socerba se nahaja na razglednem hribu nad vasjo Artviže, ki je s svoj." />
+        <title>Tinjan</title>
+        <meta name="description" content="Natančen opis gore Tinjan in vseh pristopov na Tinjan. Tinjan je hribovska vasica, ki se nahaja med Dekani, Zgornjimi Škofijami in Ospo." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1702?gorovjeid=26&amp;id=1702" id="form1">
+    <form method="post" action="./845?gorovjeid=26&amp;id=845" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_socerb_artvize/26/1702"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1702"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/tinjan/26/845"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=845"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Sveti Socerb (Artviže)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Tinjan
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1702);
+    gorast(845);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Socerb (Artviže)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Tinjan</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 817&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 374&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;36,9168'N&nbsp;/&nbsp;14°&nbsp;1,8258'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;33,6828'N&nbsp;/&nbsp;13°&nbsp;50,1024'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;36'&nbsp;55,01''N&nbsp;/&nbsp;14°&nbsp;1'&nbsp;49,55''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;33'&nbsp;40,97''N&nbsp;/&nbsp;13°&nbsp;50'&nbsp;6,14''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.61528°N&nbsp;/&nbsp;14.03043°E";
+                        document.getElementById("kf0").innerHTML = "45.56138°N&nbsp;/&nbsp;13.83504°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,61528°N,&nbsp;14,03043°E";
+                    document.getElementById("kf0").innerHTML = "45,56138°N,&nbsp;13,83504°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,61528°N&nbsp;14,03043°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_socerb_artvize/1702"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,56138°N&nbsp;13,83504°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/tinjan/845"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Tinjan - Torek" href="/vreme_gora/tinjan/26/845#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Tinjan - Sreda" href="/vreme_gora/tinjan/26/845#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Tinjan - Četrtek" href="/vreme_gora/tinjan/26/845#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Socerb (Artviže) - Petek" href="/vreme_gora/sveti_socerb_artvize/26/1702#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Tinjan - Petek" href="/vreme_gora/tinjan/26/845#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Socerb (Artviže) - Sobota" href="/vreme_gora/sveti_socerb_artvize/26/1702#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Socerb (Artviže) - Nedelja" href="/vreme_gora/sveti_socerb_artvize/26/1702#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Socerb (Artviže) - Ponedeljek" href="/vreme_gora/sveti_socerb_artvize/26/1702#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Socerb (Artviže) - Torek" href="/vreme_gora/sveti_socerb_artvize/26/1702#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Tinjan - Sobota" href="/vreme_gora/tinjan/26/845#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 378.847</div>
-<div class="g2"><b>Priljubljenost:</b> 78%&nbsp;(715.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Ogledov:</b> 488.486</div>
+<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(353.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">14</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1702" title="Število vpisov v vpisni knjigi">4</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=845" title="Število vpisov v vpisni knjigi">9</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev sv. Socerba se nahaja na razglednem hribu nad vasjo Artviže, ki je s svojimi 817 m najvišji vrh Brkinov. Od cerkve, ki je bila zgrajena v 17. stoletju, se nam odprelep razgled na Vremščico, Vremsko dolino, Matarsko podolje, Slavnik, ob lepem vremenu pa razgled seže vse do Julijskih Alp, Karavank in Kamniško savinjskih Alp.  Vpisna skrinjica ter žig, pa se nahaja nekoliko pod vrhom, točneje sredi vasi Artviže, kjer stoji tudi večji spomenik NOB.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Tinjan je hribovska vasica, ki se nahaja med Dekani, Zgornjimi Škofijami in Ospom. Z vrha, ki je predzadnja točka SPP je lep razgled na Tržaški zaliv in okoliške vasi. Na vrhu stoji cerkev svetega Mihaela in antenski stolp. Žig za transverzalo se po novem nahaja na zidu cerkve in ne več pri privat hiši.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1702&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=845&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/goli_hrib/26/2909">Goli hrib (217m)</a>, <a class="moder" href="/gora/lovsko_zavetisce_kolombar/26/2910">Lovsko zavetišče Kolombar (218m)</a>, <a class="moder" href="/gora/slap_potoka_struga/26/2908">Slap potoka Struga (105m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,35 +835,47 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bazovica___basovizza/1649">Bazovica / Basovizza</a>, <a class="moder" href="/spletna_kamera/cebulovica/335">Čebulovica</a>, <a class="moder" href="/spletna_kamera/divaca/3260">Divača</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kokos/4324">Kokoš</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/letalisce_divaca/2203">Letališče Divača</a>, <a class="moder" href="/spletna_kamera/lipica/1701">Lipica</a>, <a class="moder" href="/spletna_kamera/pivka/182">Pivka</a>, <a class="moder" href="/spletna_kamera/pivka/345">Pivka</a>, <a class="moder" href="/spletna_kamera/razdrto/332">Razdrto</a>, <a class="moder" href="/spletna_kamera/senozeska_brda/1423">Senožeška brda</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>, <a class="moder" href="/spletna_kamera/zirje_pri_sezani/1166">Žirje pri Sežani</a>
+<a class="moder" href="/spletna_kamera/ankaran/4356">Ankaran</a>, <a class="moder" href="/spletna_kamera/bazovica___basovizza/1649">Bazovica / Basovizza</a>, <a class="moder" href="/spletna_kamera/bertoki/4921">Bertoki</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/izola/1000">Izola</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/kokos/4324">Kokoš</a>, <a class="moder" href="/spletna_kamera/koper/3504">Koper</a>, <a class="moder" href="/spletna_kamera/koper_marina/4335">Koper (marina)</a>, <a class="moder" href="/spletna_kamera/koper_markovec/300">Koper (Markovec)</a>, <a class="moder" href="/spletna_kamera/koper_panoramski_pogled/4268">Koper (panoramski pogled)</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/lazaret/1699">Lazaret</a>, <a class="moder" href="/spletna_kamera/lipica/1701">Lipica</a>, <a class="moder" href="/spletna_kamera/luka_koper/4329">Luka Koper</a>, <a class="moder" href="/spletna_kamera/milje___muggia/1639">Milje / Muggia</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/spodnje_skofije/1080">Spodnje Škofije</a>, <a class="moder" href="/spletna_kamera/trst___trieste/172">Trst / Trieste</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_socerb_artvize%2f26%2f1702"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_socerb_artvize%2f26%2f1702"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_socerb_artvize%2f26%2f1702"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ftinjan%2f26%2f845"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftinjan%2f26%2f845"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftinjan%2f26%2f845"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/sveti_socerb_artvize/1702" title="Sveti Socerb (Artviže) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Artvize.jpg" /></a></div>
+<div><a href="/panorama/360/tinjan/845" title="Tinjan 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Tinjan.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_socerb_artvize/9154" onclick="event.preventDefault(); window.open('/slika_gora/sveti_socerb_artvize/9154');"><img class="slikagm" alt="Sveti Socerb (Artviže)" src="//www.hribi.net/slike1/Artvize 093628320.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinjan/2897" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/2897');"><img class="slikagm" alt="Tinjan" src="//www.hribi.net/sliketemp/P40502454404241.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_socerb_artvize/9155" onclick="event.preventDefault(); window.open('/slika_gora/sveti_socerb_artvize/9155');"><img class="slikagm" alt="Sveti Socerb (Artviže)" src="//www.hribi.net/slike1/Artvize 092628320.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinjan/2898" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/2898');"><img class="slikagm" alt="Tinjan" src="//www.hribi.net/sliketemp/P40502524404244.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_socerb_artvize/9156" onclick="event.preventDefault(); window.open('/slika_gora/sveti_socerb_artvize/9156');"><img class="slikagm" alt="Sveti Socerb (Artviže)" src="//www.hribi.net/slike1/Artvize 101628320.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinjan/7541" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/7541');"><img class="slikagm" alt="Tinjan" src="//www.hribi.net/slike1/Zjat 051116886.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_socerb_artvize/9157" onclick="event.preventDefault(); window.open('/slika_gora/sveti_socerb_artvize/9157');"><img class="slikagm" alt="Sveti Socerb (Artviže)" src="//www.hribi.net/slike1/Artvize 114887040.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinjan/7552" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/7552');"><img class="slikagm" alt="Tinjan" src="//www.hribi.net/slike1/Zjat 270150040.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_socerb_artvize/9158" onclick="event.preventDefault(); window.open('/slika_gora/sveti_socerb_artvize/9158');"><img class="slikagm" alt="Sveti Socerb (Artviže)" src="//www.hribi.net/slike1/Artvize 115887040.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinjan/14783" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/14783');"><img class="slikagm" alt="Tinjan" src="//www.hribi.net/slike1/DSCN2152860160.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_socerb_artvize/9159" onclick="event.preventDefault(); window.open('/slika_gora/sveti_socerb_artvize/9159');"><img class="slikagm" alt="Sveti Socerb (Artviže)" src="//www.hribi.net/slike1/Artvize 165887040.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinjan/14784" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/14784');"><img class="slikagm" alt="Tinjan" src="//www.hribi.net/slike1/DSCN21881161216.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_socerb_artvize/9173" onclick="event.preventDefault(); window.open('/slika_gora/sveti_socerb_artvize/9173');"><img class="slikagm" alt="Sveti Socerb (Artviže)" src="//www.hribi.net/slike1/SocerbArtvize 1991050280.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinjan/14813" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/14813');"><img class="slikagm" alt="Tinjan" src="//slike.hribi.net/slike4/2_020525078273_DSCN2619.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_socerb_artvize/9174" onclick="event.preventDefault(); window.open('/slika_gora/sveti_socerb_artvize/9174');"><img class="slikagm" alt="Sveti Socerb (Artviže)" src="//www.hribi.net/slike1/SocerbArtvize 1971050280.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinjan/14814" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/14814');"><img class="slikagm" alt="Tinjan" src="//www.hribi.net/slike1/DSCN2630171360.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/tinjan/14815" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/14815');"><img class="slikagm" alt="Tinjan" src="//slike.hribi.net/slike4/2_069525078417_DSCN2676.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/tinjan/14816" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/14816');"><img class="slikagm" alt="Tinjan" src="//slike.hribi.net/slike4/2_1544525078420_DSCN2677.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/tinjan/16804" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/16804');"><img class="slikagm" alt="Tinjan" src="//slike.hribi.net/slike4/2_3960581609576_DSCN1861.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/tinjan/16820" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/16820');"><img class="slikagm" alt="Tinjan" src="//slike.hribi.net/slike4/2_0428581151748_DSCN2315.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/tinjan/16845" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/16845');"><img class="slikagm" alt="Tinjan" src="//slike.hribi.net/slike4/2_1388581323178_DSCN2682.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/tinjan/16846" onclick="event.preventDefault(); window.open('/slika_gora/tinjan/16846');"><img class="slikagm" alt="Tinjan" src="//slike.hribi.net/slike4/2_0469582294989_DSCN2703.JPG" /></a>
     
 </div>
 
@@ -927,7 +939,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1702&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=845&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,11 +949,17 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mrse_sveti_socerb_artvize/26/1702/3543">Mrše - Sveti Socerb (Artviže)</a></td><td class="tdG"><a href="/izlet/mrse_sveti_socerb_artvize/26/1702/3543">1 h</a></td><td class="tdG"><a href="/izlet/mrse_sveti_socerb_artvize/26/1702/3543">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/osp_tinjan/26/845/1571">Osp - Tinjan</a></td><td class="tdG"><a href="/izlet/osp_tinjan/26/845/1571">1 h</a></td><td class="tdG"><a href="/izlet/osp_tinjan/26/845/1571">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sveti_mavricij_sveti_socerb_artvize/26/1702/3539">Sveti Mavricij - Sveti Socerb (Artviže)</a></td><td class="tdG"><a href="/izlet/sveti_mavricij_sveti_socerb_artvize/26/1702/3539">2 h 15 min</a></td><td class="tdG"><a href="/izlet/sveti_mavricij_sveti_socerb_artvize/26/1702/3539">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dekani_tinjan_po_poti_vzpona_krozne_poti/26/845/6806">Dekani - Tinjan (po poti vzpona krožne poti)</a></td><td class="tdG"><a href="/izlet/dekani_tinjan_po_poti_vzpona_krozne_poti/26/845/6806">1 h 20 min</a></td><td class="tdG"><a href="/izlet/dekani_tinjan_po_poti_vzpona_krozne_poti/26/845/6806">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rodik_sveti_socerb_artvize/26/1702/5644">Rodik - Sveti Socerb (Artviže)</a></td><td class="tdG"><a href="/izlet/rodik_sveti_socerb_artvize/26/1702/5644">1 h 20 min</a></td><td class="tdG"><a href="/izlet/rodik_sveti_socerb_artvize/26/1702/5644">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/stepani_tinjan/26/845/6017">Stepani - Tinjan</a></td><td class="tdG"><a href="/izlet/stepani_tinjan/26/845/6017"> 50 min</a></td><td class="tdG"><a href="/izlet/stepani_tinjan/26/845/6017">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dekani_tinjan_po_poti_sestopa_krozne_poti/26/845/6807">Dekani - Tinjan (po poti sestopa krožne poti)</a></td><td class="tdG"><a href="/izlet/dekani_tinjan_po_poti_sestopa_krozne_poti/26/845/6807">1 h 30 min</a></td><td class="tdG"><a href="/izlet/dekani_tinjan_po_poti_sestopa_krozne_poti/26/845/6807">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnje_skofije_tinjan/26/845/6819">Spodnje Škofije - Tinjan</a></td><td class="tdG"><a href="/izlet/spodnje_skofije_tinjan/26/845/6819">1 h 15 min</a></td><td class="tdG"><a href="/izlet/spodnje_skofije_tinjan/26/845/6819">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/plavje_tinjan/26/845/6820">Plavje - Tinjan</a></td><td class="tdG"><a href="/izlet/plavje_tinjan/26/845/6820">1 h 10 min</a></td><td class="tdG"><a href="/izlet/plavje_tinjan/26/845/6820">lahka neoznačena steza</a></td></tr>
 
 </table>
 

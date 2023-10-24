@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Pršivec</title>
-        <meta name="description" content="Natančen opis gore Pršivec in vseh pristopov na Pršivec. Razgledna gora se nahaja nad Bohinjskim jezerom. Razgled je obširen na vse stran." />
+        <title>Sveti Janez Krstnik (Ribčev Laz)</title>
+        <meta name="description" content="Natančen opis jezera Sveti Janez Krstnik (Ribčev Laz) in vseh pristopov na Sveti Janez Krstnik (Ribčev Laz). Cerkev sv. Janeza Krstnika v Ribčevem Lazu se nahaja ob skrajnem vzhodnem delu B." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./254?gorovjeid=1&amp;id=254" id="form1">
+    <form method="post" action="./2772?gorovjeid=1&amp;id=2772" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/prsivec/1/254"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=254"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_janez_krstnik_ribcev_laz/1/2772"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=2772"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Pršivec
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Sveti Janez Krstnik (Ribčev Laz)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(254);
+    gorast(2772);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Pršivec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Janez Krstnik (Ribčev Laz)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1761&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 532&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,8380'N&nbsp;/&nbsp;13°&nbsp;49,2732'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;16,7160'N&nbsp;/&nbsp;13°&nbsp;53,1960'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;50,28''N&nbsp;/&nbsp;13°&nbsp;49'&nbsp;16,39''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;16'&nbsp;42,96''N&nbsp;/&nbsp;13°&nbsp;53'&nbsp;11,76''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.2973°N&nbsp;/&nbsp;13.82122°E";
+                        document.getElementById("kf0").innerHTML = "46.2786°N&nbsp;/&nbsp;13.8866°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,2973°N,&nbsp;13,82122°E";
+                    document.getElementById("kf0").innerHTML = "46,2786°N,&nbsp;13,8866°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2973°N&nbsp;13,82122°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/prsivec/254"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2786°N&nbsp;13,8866°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_janez_krstnik_ribcev_laz/2772"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> jezero, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Janez Krstnik (Ribčev Laz) - Torek" href="/vreme_gora/sveti_janez_krstnik_ribcev_laz/1/2772#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Janez Krstnik (Ribčev Laz) - Sreda" href="/vreme_gora/sveti_janez_krstnik_ribcev_laz/1/2772#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Janez Krstnik (Ribčev Laz) - Četrtek" href="/vreme_gora/sveti_janez_krstnik_ribcev_laz/1/2772#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Pršivec - Petek" href="/vreme_gora/prsivec/1/254#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Janez Krstnik (Ribčev Laz) - Petek" href="/vreme_gora/sveti_janez_krstnik_ribcev_laz/1/2772#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Pršivec - Sobota" href="/vreme_gora/prsivec/1/254#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Pršivec - Nedelja" href="/vreme_gora/prsivec/1/254#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Pršivec - Ponedeljek" href="/vreme_gora/prsivec/1/254#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Pršivec - Torek" href="/vreme_gora/prsivec/1/254#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Janez Krstnik (Ribčev Laz) - Sobota" href="/vreme_gora/sveti_janez_krstnik_ribcev_laz/1/2772#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 603.035</div>
-<div class="g2"><b>Priljubljenost:</b> 96%&nbsp;(140.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=254" title="Število vpisov v vpisni knjigi">2</a></div>
+<div class="g2"><b>Ogledov:</b> 5.130</div>
+<div class="g2"><b>Priljubljenost:</b> 35%&nbsp;(2136.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Razgledna gora se nahaja nad Bohinjskim jezerom. Razgled je obširen na vse strani. Lepo se vidi Triglav in gore okrog njega na drugi strani pa se pod nami lepo vidi Bohinjsko jezero in nad njim Spodnje Bohinjske gore. Vrh ima vpisno skrinjico.</div>
+<div style="padding-top:10px;"><b>Opis jezera:</b><br />Cerkev sv. Janeza Krstnika v Ribčevem Lazu se nahaja ob skrajnem vzhodnem delu Bohinjskega jezera, le nekaj metrov stran od mostu, ki povezuje Ribčev Laz s Staro Fužino. Cerkev je tudi ena največkrat fotografiranih cerkva v Sloveniji. Mimo cerkve vodi več sprehajalnih poti, med drugim tudi pot okoli Bohinjskega jezera.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=254&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2772&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/crno_jezero/1/132">Črno jezero (1294m)</a>, <a class="moder" href="/gora/koca_na_planini_pri_jezeru/1/140">Koča na Planini pri Jezeru (1453m)</a>, <a class="moder" href="/gora/koca_pri_savici/1/2773">Koča pri Savici (653m)</a>, <a class="moder" href="/gora/ozarjeni_kamen/1/2996">Ožarjeni kamen (960m)</a>, <a class="moder" href="/gora/planina_visevnik/1/255">Planina Viševnik (1625m)</a>, <a class="moder" href="/gora/planina_vodicni_vrh/1/1989">Planina Vodični vrh (1486m)</a>, <a class="moder" href="/gora/rigeljc/1/1626">Rigeljc (1768m)</a>, <a class="moder" href="/gora/slap_savica/1/532">Slap Savica (794m)</a>, <a class="moder" href="/gora/stadorski_orlici/1/1627">Stadorski Orliči (1782m)</a>, <a class="moder" href="/gora/vrtec/1/1628">Vrtec (1809m)</a>
+<a class="moder" href="/gora/pec_razgledisce/1/2637">Peč (razgledišče) (650m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,37 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
+<a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fprsivec%2f1%2f254"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fprsivec%2f1%2f254"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fprsivec%2f1%2f254"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_janez_krstnik_ribcev_laz%2f1%2f2772"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_janez_krstnik_ribcev_laz%2f1%2f2772"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_janez_krstnik_ribcev_laz%2f1%2f2772"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/prsivec/254" title="Pršivec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Prsivec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/prsivec/364" onclick="event.preventDefault(); window.open('/slika_gora/prsivec/364');"><img class="slikagm" alt="Pršivec" src="//www.hribi.net/Gora/p6200018medium2kl.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_janez_krstnik_ribcev_laz/15643" onclick="event.preventDefault(); window.open('/slika_gora/sveti_janez_krstnik_ribcev_laz/15643');"><img class="slikagm" alt="Sveti Janez Krstnik (Ribčev Laz)" src="//www.hribi.net/slike1/DSCN9369137700.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/prsivec/1406" onclick="event.preventDefault(); window.open('/slika_gora/prsivec/1406');"><img class="slikagm" alt="Pršivec" src="//www.hribi.net/slike1/P103007529155.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_janez_krstnik_ribcev_laz/15644" onclick="event.preventDefault(); window.open('/slika_gora/sveti_janez_krstnik_ribcev_laz/15644');"><img class="slikagm" alt="Sveti Janez Krstnik (Ribčev Laz)" src="//www.hribi.net/slike1/DSCN9373137700.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/prsivec/1529" onclick="event.preventDefault(); window.open('/slika_gora/prsivec/1529');"><img class="slikagm" alt="Pršivec" src="//www.hribi.net/slike1/P2150041145530.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_janez_krstnik_ribcev_laz/15645" onclick="event.preventDefault(); window.open('/slika_gora/sveti_janez_krstnik_ribcev_laz/15645');"><img class="slikagm" alt="Sveti Janez Krstnik (Ribčev Laz)" src="//www.hribi.net/slike1/DSCN9368137700.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/prsivec/3680" onclick="event.preventDefault(); window.open('/slika_gora/prsivec/3680');"><img class="slikagm" alt="Pršivec" src="//www.hribi.net/sliketemp/PA1100544681916.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_janez_krstnik_ribcev_laz/15646" onclick="event.preventDefault(); window.open('/slika_gora/sveti_janez_krstnik_ribcev_laz/15646');"><img class="slikagm" alt="Sveti Janez Krstnik (Ribčev Laz)" src="//www.hribi.net/slike1/DSCN935462424.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/prsivec/8010" onclick="event.preventDefault(); window.open('/slika_gora/prsivec/8010');"><img class="slikagm" alt="Pršivec" src="//www.hribi.net/slike1/Vogel%20238214500.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/prsivec/14962" onclick="event.preventDefault(); window.open('/slika_gora/prsivec/14962');"><img class="slikagm" alt="Pršivec" src="//www.hribi.net/slike1/TolminskiKuk%203861606176.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/prsivec/18438" onclick="event.preventDefault(); window.open('/slika_gora/prsivec/18438');"><img class="slikagm" alt="Pršivec" src="//www.hribi.net/slike11/P109067324435568.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/prsivec/18439" onclick="event.preventDefault(); window.open('/slika_gora/prsivec/18439');"><img class="slikagm" alt="Pršivec" src="//www.hribi.net/slike11/P109067241935568.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/prsivec/18440" onclick="event.preventDefault(); window.open('/slika_gora/prsivec/18440');"><img class="slikagm" alt="Pršivec" src="//www.hribi.net/slike11/P109067059435568.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_janez_krstnik_ribcev_laz/15647" onclick="event.preventDefault(); window.open('/slika_gora/sveti_janez_krstnik_ribcev_laz/15647');"><img class="slikagm" alt="Sveti Janez Krstnik (Ribčev Laz)" src="//slike.hribi.net/slike4/2_0290545846413_DSCN9342.JPG" /></a>
     
 </div>
 
@@ -929,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=254&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2772&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -939,19 +928,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/konec_ceste_na_vogar_prsivec_direktna_pot/1/254/363">Konec ceste na Vogar - Pršivec (direktna pot)</a></td><td class="tdG"><a href="/izlet/konec_ceste_na_vogar_prsivec_direktna_pot/1/254/363">1 h 30 min</a></td><td class="tdG"><a href="/izlet/konec_ceste_na_vogar_prsivec_direktna_pot/1/254/363">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_blato_prsivec/1/254/859">Planina Blato - Pršivec</a></td><td class="tdG"><a href="/izlet/planina_blato_prsivec/1/254/859">2 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_blato_prsivec/1/254/859">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/stara_fuzina_prsivec_direktna_pot/1/254/858">Stara Fužina - Pršivec (direktna pot)</a></td><td class="tdG"><a href="/izlet/stara_fuzina_prsivec_direktna_pot/1/254/858">3 h 45 min</a></td><td class="tdG"><a href="/izlet/stara_fuzina_prsivec_direktna_pot/1/254/858">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/konec_ceste_na_vogar_prsivec_cez_planino_visevnik/1/254/1873">Konec ceste na Vogar - Pršivec (čez planino Viševnik)</a></td><td class="tdG"><a href="/izlet/konec_ceste_na_vogar_prsivec_cez_planino_visevnik/1/254/1873">2 h 20 min</a></td><td class="tdG"><a href="/izlet/konec_ceste_na_vogar_prsivec_cez_planino_visevnik/1/254/1873">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pri_savici_prsivec/1/254/1874">Koča pri Savici - Pršivec</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_prsivec/1/254/1874">3 h 45 min</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_prsivec/1/254/1874">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_blato_prsivec/1/254/2252">Planina Blato - Pršivec</a></td><td class="tdG"><a href="/izlet/planina_blato_prsivec/1/254/2252">2 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_blato_prsivec/1/254/2252">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ukanc_prsivec_ferata_ozarjeni_kamen/1/254/7413">Ukanc - Pršivec (Ferata Ožarjeni kamen)</a></td><td class="tdG"><a href="/izlet/ukanc_prsivec_ferata_ozarjeni_kamen/1/254/7413">5 h</a></td><td class="tdG"><a href="/izlet/ukanc_prsivec_ferata_ozarjeni_kamen/1/254/7413">izjemno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ribcev_laz_sveti_janez_krstnik_ribcev_laz_pot_okoli_bohinjskega_jezera/1/2772/6330">Ribčev Laz - Sveti Janez Krstnik (Ribčev Laz) (pot okoli Bohinjskega jezera)</a></td><td class="tdG"><a href="/izlet/ribcev_laz_sveti_janez_krstnik_ribcev_laz_pot_okoli_bohinjskega_jezera/1/2772/6330">3 h 15 min</a></td><td class="tdG"><a href="/izlet/ribcev_laz_sveti_janez_krstnik_ribcev_laz_pot_okoli_bohinjskega_jezera/1/2772/6330">lahka označena pot</a></td></tr>
 
 </table>
 

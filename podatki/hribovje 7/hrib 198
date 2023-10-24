@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Križ (nad Planino pri Sevnici)</title>
-        <meta name="description" content="Natančen opis gore Sveti Križ (nad Planino pri Sevnici) in vseh pristopov na Sveti Križ (nad Planino pri Sevnici). Cerkev Sv. Križa se nahaja nad Planino pri Sevnici, v bližini naselja Šentvid pr." />
+        <title>Murjevka</title>
+        <meta name="description" content="Natančen opis gore Murjevka in vseh pristopov na Murjevka. Murjevka je 443 metrov visok vrh nad dolino potoka Besnica, južno od Podgrada. V." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3533?gorovjeid=25&amp;id=3533" id="form1">
+    <form method="post" action="./3399?gorovjeid=25&amp;id=3399" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_kriz_above_planina_pri_sevnici/25/3533"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3533"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/murjevka/25/3399"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3399"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Sveti Križ (nad Planino pri Sevnici)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Murjevka
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3533);
+    gorast(3399);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Križ (nad Planino pri Sevnici)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Murjevka</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 730&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 443&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;5,9610'N&nbsp;/&nbsp;15°&nbsp;25,1580'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;3,7962'N&nbsp;/&nbsp;14°&nbsp;38,4498'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;5'&nbsp;57,66''N&nbsp;/&nbsp;15°&nbsp;25'&nbsp;9,48''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;3'&nbsp;47,77''N&nbsp;/&nbsp;14°&nbsp;38'&nbsp;26,99''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.09935°N&nbsp;/&nbsp;15.4193°E";
+                        document.getElementById("kf0").innerHTML = "46.06327°N&nbsp;/&nbsp;14.64083°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,09935°N,&nbsp;15,4193°E";
+                    document.getElementById("kf0").innerHTML = "46,06327°N,&nbsp;14,64083°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,09935°N&nbsp;15,4193°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_kriz_nad_planino_pri_sevnici/3533"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,06327°N&nbsp;14,64083°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/murjevka/3399"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Murjevka - Torek" href="/vreme_gora/murjevka/25/3399#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Murjevka - Sreda" href="/vreme_gora/murjevka/25/3399#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Murjevka - Četrtek" href="/vreme_gora/murjevka/25/3399#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (nad Planino pri Sevnici) - Petek" href="/vreme_gora/sveti_kriz_nad_planino_pri_sevnici/25/3533#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Murjevka - Petek" href="/vreme_gora/murjevka/25/3399#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (nad Planino pri Sevnici) - Sobota" href="/vreme_gora/sveti_kriz_nad_planino_pri_sevnici/25/3533#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (nad Planino pri Sevnici) - Nedelja" href="/vreme_gora/sveti_kriz_nad_planino_pri_sevnici/25/3533#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (nad Planino pri Sevnici) - Ponedeljek" href="/vreme_gora/sveti_kriz_nad_planino_pri_sevnici/25/3533#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (nad Planino pri Sevnici) - Torek" href="/vreme_gora/sveti_kriz_nad_planino_pri_sevnici/25/3533#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Murjevka - Sobota" href="/vreme_gora/murjevka/25/3399#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 566</div>
-<div class="g2"><b>Priljubljenost:</b> 16%&nbsp;(2750.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 361</div>
+<div class="g2"><b>Priljubljenost:</b> 13%&nbsp;(2850.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev Sv. Križa se nahaja nad Planino pri Sevnici, v bližini naselja Šentvid pri Planini. Z vrha se nam odpre lep razgled na Posavsko hribovje in okoliška naselja. Na vrhu se nahaja še razgledna plošča ter vpisna skrinjica.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Murjevka je 443 metrov visok vrh nad dolino potoka Besnica, južno od Podgrada. Vrh se nahaja v gozdu tako da ne nudi veliko razgleda. Malo pod vrhom pa potekata pohodniški poti Ostrovrharjeva pot in Borovničeva pohodna pot.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3533&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3399&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/debenji_vrh/25/1091">Debenji vrh (530m)</a>, <a class="moder" href="/gora/grmadnik/25/3400">Grmadnik (569m)</a>, <a class="moder" href="/gora/kamnolom_mlinskih_kamnov/25/3397">Kamnolom mlinskih kamnov (390m)</a>, <a class="moder" href="/gora/lazarjev_vrh/25/3430">Lazarjev vrh (452m)</a>, <a class="moder" href="/gora/spanov_vrh_besnica/25/3532">Španov vrh (Besnica) (559m)</a>, <a class="moder" href="/gora/stari_grad_stari_osterberg/25/1453">Stari grad (Stari Osterberg) (443m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,28 +835,25 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bostanj/3586">Boštanj</a>, <a class="moder" href="/spletna_kamera/koca_na_bohorju/3373">Koča na Bohorju</a>, <a class="moder" href="/spletna_kamera/lahomsek/309">Lahomšek</a>, <a class="moder" href="/spletna_kamera/lisca/506">Lisca</a>, <a class="moder" href="/spletna_kamera/planina_pri_sevnici/4944">Planina pri Sevnici</a>, <a class="moder" href="/spletna_kamera/podcetrtek/2415">Podčetrtek</a>, <a class="moder" href="/spletna_kamera/poklek_pri_podsredi/4946">Poklek pri Podsredi</a>, <a class="moder" href="/spletna_kamera/senovo/3588">Senovo</a>, <a class="moder" href="/spletna_kamera/sevnica/3589">Sevnica</a>, <a class="moder" href="/spletna_kamera/zegar/4945">Žegar</a>
+<a class="moder" href="/spletna_kamera/debeli_hrib/422">Debeli hrib</a>, <a class="moder" href="/spletna_kamera/domzale/1008">Domžale</a>, <a class="moder" href="/spletna_kamera/golovec_astronomski_observatorij_fmf/4305">Golovec (Astronomski observatorij FMF)</a>, <a class="moder" href="/spletna_kamera/grosuplje/1964">Grosuplje</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/krtina/3453">Krtina</a>, <a class="moder" href="/spletna_kamera/lavrica/3607">Lavrica</a>, <a class="moder" href="/spletna_kamera/ljubljana_cankarjevo_nabrezje/2154">Ljubljana (Cankarjevo nabrežje)</a>, <a class="moder" href="/spletna_kamera/ljubljana_izanska_cesta/1963">Ljubljana (Ižanska cesta)</a>, <a class="moder" href="/spletna_kamera/ljubljana_kongresni_trg/297">Ljubljana (Kongresni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_mestni_trg/2149">Ljubljana (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_ukc_ljubljana/3385">Ljubljana (UKC Ljubljana)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/ljubljana_bezigrad/1708">Ljubljana Bežigrad</a>, <a class="moder" href="/spletna_kamera/ljubljana_brdo/465">Ljubljana Brdo</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_golovec/463">Ljubljana Golovec</a>, <a class="moder" href="/spletna_kamera/ljubljana_jug/457">Ljubljana jug</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_malence/455">Ljubljana Malence</a>, <a class="moder" href="/spletna_kamera/ljubljana_nove_jarse/480">Ljubljana Nove Jarše</a>, <a class="moder" href="/spletna_kamera/ljubljana_rudnik/1759">Ljubljana Rudnik</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljana_tomacevo/479">Ljubljana Tomačevo</a>, <a class="moder" href="/spletna_kamera/ljubljana_zadobrova/459">Ljubljana Zadobrova</a>, <a class="moder" href="/spletna_kamera/ljubljanski_grad/179">Ljubljanski grad</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/orle/4000">Orle</a>, <a class="moder" href="/spletna_kamera/pijava_gorica/454">Pijava Gorica</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/rasica_nad_ljubljano/2418">Rašica nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sentjakob/354">Šentjakob</a>, <a class="moder" href="/spletna_kamera/skofljica/3606">Škofljica</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/visnja_gora/429">Višnja Gora</a>, <a class="moder" href="/spletna_kamera/zagarski_vrh/3123">Žagarski vrh</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_kriz_nad_planino_pri_sevnici%2f25%2f3533"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_kriz_nad_planino_pri_sevnici%2f25%2f3533"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_kriz_nad_planino_pri_sevnici%2f25%2f3533"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmurjevka%2f25%2f3399"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmurjevka%2f25%2f3399"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmurjevka%2f25%2f3399"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/murjevka/3399" title="Murjevka 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.212711768718murjevka2.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20964" onclick="event.preventDefault(); window.open('/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20964');"><img class="slikagm" alt="Sveti Križ (nad Planino pri Sevnici)" src="//slike2.hribi.net/slike14/2_0727705856910_1dscn6090.jpg" /></a>
+        <a target="_blank" href="/slika_gora/murjevka/20271" onclick="event.preventDefault(); window.open('/slika_gora/murjevka/20271');"><img class="slikagm" alt="Murjevka" src="//slike2.hribi.net/slike14/2_4718676656572_2p1170009.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20965" onclick="event.preventDefault(); window.open('/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20965');"><img class="slikagm" alt="Sveti Križ (nad Planino pri Sevnici)" src="//slike2.hribi.net/slike14/2_0418704533573_0dscn6094.jpg" /></a>
+        <a target="_blank" href="/slika_gora/murjevka/20272" onclick="event.preventDefault(); window.open('/slika_gora/murjevka/20272');"><img class="slikagm" alt="Murjevka" src="//slike2.hribi.net/slike14/2_0491676656570_5p1170003.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20966" onclick="event.preventDefault(); window.open('/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20966');"><img class="slikagm" alt="Sveti Križ (nad Planino pri Sevnici)" src="//slike2.hribi.net/slike14/2_0856705856943_1dscn6095.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20967" onclick="event.preventDefault(); window.open('/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20967');"><img class="slikagm" alt="Sveti Križ (nad Planino pri Sevnici)" src="//slike2.hribi.net/slike14/2_04705857307_0dscn6097.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20968" onclick="event.preventDefault(); window.open('/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20968');"><img class="slikagm" alt="Sveti Križ (nad Planino pri Sevnici)" src="//slike2.hribi.net/slike14/2_1324705857307_1dscn6100.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20969" onclick="event.preventDefault(); window.open('/slika_gora/sveti_kriz_nad_planino_pri_sevnici/20969');"><img class="slikagm" alt="Sveti Križ (nad Planino pri Sevnici)" src="//slike2.hribi.net/slike14/2_2275705857308_2dscn6103.jpg" /></a>
+        <a target="_blank" href="/slika_gora/murjevka/20273" onclick="event.preventDefault(); window.open('/slika_gora/murjevka/20273');"><img class="slikagm" alt="Murjevka" src="//slike2.hribi.net/slike14/2_2686676656571_8p1170007.jpg" /></a>
     
 </div>
 
@@ -920,7 +917,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3533&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3399&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -930,9 +927,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_pri_sevnici_sveti_kriz_nad_planino_pri_sevnici/25/3533/8559">Planina pri Sevnici - Sveti Križ (nad Planino pri Sevnici)</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_sveti_kriz_nad_planino_pri_sevnici/25/3533/8559"> 23 min</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_sveti_kriz_nad_planino_pri_sevnici/25/3533/8559">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_pri_sevnici_sveti_kriz_nad_planino_pri_sevnici_skozi_pravljicni_gozd/25/3533/8558">Planina pri Sevnici - Sveti Križ (nad Planino pri Sevnici) (skozi pravljični gozd)</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_sveti_kriz_nad_planino_pri_sevnici_skozi_pravljicni_gozd/25/3533/8558"> 28 min</a></td><td class="tdG"><a href="/izlet/planina_pri_sevnici_sveti_kriz_nad_planino_pri_sevnici_skozi_pravljicni_gozd/25/3533/8558">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podgrad_murjevka/25/3399/8173">Podgrad - Murjevka</a></td><td class="tdG"><a href="/izlet/podgrad_murjevka/25/3399/8173"> 40 min</a></td><td class="tdG"><a href="/izlet/podgrad_murjevka/25/3399/8173">lahka neoznačena steza</a></td></tr>
 
 </table>
 

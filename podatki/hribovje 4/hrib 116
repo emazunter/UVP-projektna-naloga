@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Rjavca / Rjautza</title>
-        <meta name="description" content="Natančen opis gore Rjavca / Rjautza in vseh pristopov na Rjavca / Rjautza. Rjavca (na zemljevidih Rjavica) je 1789 m visok vrh, ki se nahaja severno od gla." />
+        <title>Planina Zgornja Konjščica</title>
+        <meta name="description" content="Natančen opis planine Planina Zgornja Konjščica in vseh pristopov na Planina Zgornja Konjščica. Planina Zgornja Konjščica se nahaja severozahodno od Bele peči (1583 m). S plani." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1781?gorovjeid=11&amp;id=1781" id="form1">
+    <form method="post" action="./1245?gorovjeid=11&amp;id=1245" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rjautza/11/1781"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1781"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_zgornja_konjscica/11/1245"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1245"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Rjavca / Rjautza
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Planina Zgornja Konjščica
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1781);
+    gorast(1245);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Rjavca / Rjautza</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planina Zgornja Konjščica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1789&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1578&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;27,0840'N&nbsp;/&nbsp;14°&nbsp;13,3260'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,8288'N&nbsp;/&nbsp;14°&nbsp;22,4556'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;27'&nbsp;5,04''N&nbsp;/&nbsp;14°&nbsp;13'&nbsp;19,56''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;49,73''N&nbsp;/&nbsp;14°&nbsp;22'&nbsp;27,34''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.4514°N&nbsp;/&nbsp;14.2221°E";
+                        document.getElementById("kf0").innerHTML = "46.38048°N&nbsp;/&nbsp;14.37426°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,4514°N,&nbsp;14,2221°E";
+                    document.getElementById("kf0").innerHTML = "46,38048°N,&nbsp;14,37426°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4514°N&nbsp;14,2221°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rjavca___rjautza/1781"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,38048°N&nbsp;14,37426°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_zgornja_konjscica/1245"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> planina, sedlo</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Zgornja Konjščica - Torek" href="/vreme_gora/planina_zgornja_konjscica/11/1245#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Zgornja Konjščica - Sreda" href="/vreme_gora/planina_zgornja_konjscica/11/1245#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Zgornja Konjščica - Četrtek" href="/vreme_gora/planina_zgornja_konjscica/11/1245#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Rjavca / Rjautza - Petek" href="/vreme_gora/rjavca___rjautza/11/1781#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Zgornja Konjščica - Petek" href="/vreme_gora/planina_zgornja_konjscica/11/1245#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Rjavca / Rjautza - Sobota" href="/vreme_gora/rjavca___rjautza/11/1781#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Rjavca / Rjautza - Nedelja" href="/vreme_gora/rjavca___rjautza/11/1781#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Rjavca / Rjautza - Ponedeljek" href="/vreme_gora/rjavca___rjautza/11/1781#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Rjavca / Rjautza - Torek" href="/vreme_gora/rjavca___rjautza/11/1781#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Zgornja Konjščica - Sobota" href="/vreme_gora/planina_zgornja_konjscica/11/1245#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 245.153</div>
-<div class="g2"><b>Priljubljenost:</b> 63%&nbsp;(1210.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 203.871</div>
+<div class="g2"><b>Priljubljenost:</b> 58%&nbsp;(1371.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">27</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Rjavca (na zemljevidih Rjavica) je 1789 m visok vrh, ki se nahaja severno od glavne verige mejnega grebena Karavank. Z vrha, na katerem stoji križ in na njem vpisna skrinjica (žiga ni), se nam odpre lep razgled na severna ostenja osrednjih Karavank ter delu Dravske doline. Ob lepem razgledu pa razgled seže vse do Nizkih in Visokih Tur v Avstriji.</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Zgornja Konjščica se nahaja severozahodno od Bele peči (1583 m). S planine, na kateri se nahaja nekaj manjših napajališč za živali se nam odpre lep pogled proti Storžiču, Tolstemu vrhu in grebenu Kriške gore.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1781&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1245&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bela_pec___weisse_wand/11/1780">Bela peč / Weiße Wand (1665m)</a>, <a class="moder" href="/gora/palec/11/363">Palec (2026m)</a>, <a class="moder" href="/gora/pozgani_rob/11/1782">Požgani rob (1513m)</a>, <a class="moder" href="/gora/sveta_pec___helige_wand/11/1779">Sveta peč / Helige Wand (1613m)</a>, <a class="moder" href="/gora/vgrizeva_planina___ogrisalm/11/583">Vgrizeva planina / Ogrisalm (1569m)</a>, <a class="moder" href="/gora/vrtaca/11/78">Vrtača (2181m)</a>, <a class="moder" href="/gora/zelenjak/11/692">Zelenjak (2024m)</a>, <a class="moder" href="/gora/zleb_suho_rusevje/11/88">Žleb (Suho ruševje) (1916m)</a>
+<a class="moder" href="/gora/bela_pec/11/346">Bela peč (1583m)</a>, <a class="moder" href="/gora/javorce/11/3342">Javorče (1667m)</a>, <a class="moder" href="/gora/koca_pr_zdravc/11/251">Koča Pr Zdravc (1448m)</a>, <a class="moder" href="/gora/planina_javornik/11/509">Planina Javornik (1550m)</a>, <a class="moder" href="/gora/planina_spodnja_konjscica/11/347">Planina Spodnja Konjščica (1451m)</a>, <a class="moder" href="/gora/spominska_plosca_jozeta_rozmana/11/508">Spominska plošča Jožeta Rozmana (1450m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,45 +835,73 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frjavca___rjautza%2f11%2f1781"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frjavca___rjautza%2f11%2f1781"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frjavca___rjautza%2f11%2f1781"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_zgornja_konjscica%2f11%2f1245"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_zgornja_konjscica%2f11%2f1245"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_zgornja_konjscica%2f11%2f1245"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/rjavca___rjautza/1781" title="Rjavca / Rjautza 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Rjavca.jpg" /></a></div>
+<div><a href="/panorama/360/planina_zgornja_konjscica/1245" title="Planina Zgornja Konjščica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.planinazgKonjscica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/7993" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/7993');"><img class="slikagm" alt="Rjavca / Rjautza" src="//www.hribi.net/slike1/Rjavca 206748440.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/4268" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/4268');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//www.hribi.net/slike1/P505024391800.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/7995" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/7995');"><img class="slikagm" alt="Rjavca / Rjautza" src="//www.hribi.net/slike1/Rjavca 132810810.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/4269" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/4269');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//www.hribi.net/slike1/P4290034191520.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/7996" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/7996');"><img class="slikagm" alt="Rjavca / Rjautza" src="//www.hribi.net/slike1/Rjavca 134810810.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/7246" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/7246');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//www.hribi.net/slike1/BelaPec 067491400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/7997" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/7997');"><img class="slikagm" alt="Rjavca / Rjautza" src="//slike.hribi.net/sliketemp/Rjavca%201896058936.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/7247" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/7247');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//www.hribi.net/slike1/BelaPec 073491400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/7998" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/7998');"><img class="slikagm" alt="Rjavca / Rjautza" src="//slike.hribi.net/sliketemp/Rjavca%200126058926.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/7248" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/7248');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//www.hribi.net/slike1/BelaPec 075502320.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/7999" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/7999');"><img class="slikagm" alt="Rjavca / Rjautza" src="//www.hribi.net/slike1/Rjavca%20050637065.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/7250" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/7250');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike.hribi.net/sliketemp/BelaPec%200645815406.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/8000" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/8000');"><img class="slikagm" alt="Rjavca / Rjautza" src="//www.hribi.net/slike1/Rjavca%20088570240.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20668" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20668');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_0377696338188_020211120_122224.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/10107" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/10107');"><img class="slikagm" alt="Rjavca / Rjautza" src="//www.hribi.net/slike1/CelovskaKoca 1641372800.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20686" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20686');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_0349697033485_0_936.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/15624" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/15624');"><img class="slikagm" alt="Rjavca / Rjautza" src="//slike.hribi.net/slike4/2_0800544359596_DSCN8356.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20687" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20687');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_1669697033486_1_228.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/15918" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/15918');"><img class="slikagm" alt="Rjavca / Rjautza" src="//slike.hribi.net/slike4/2_2764555757799_DSCN1088.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20688" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20688');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_2293697033486_2_196.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/15919" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/15919');"><img class="slikagm" alt="Rjavca / Rjautza" src="//slike.hribi.net/slike4/2_3487555583161_DSCN0920.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20689" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20689');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_3394697033487_3_870.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/17770" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/17770');"><img class="slikagm" alt="Rjavca / Rjautza" src="//slike.hribi.net/slike4/2_3266600452970_DSCN0395.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20690" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20690');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_4214697033488_4_934.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/rjavca___rjautza/17776" onclick="event.preventDefault(); window.open('/slika_gora/rjavca___rjautza/17776');"><img class="slikagm" alt="Rjavca / Rjautza" src="//slike.hribi.net/slike4/2_2509599757026_DSCN0417.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20691" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20691');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_5534697033488_16_225.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20692" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20692');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_6708697033489_5_530.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20693" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20693');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_747697033491_6_434.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20694" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20694');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_8562697033491_17_820.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20695" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20695');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_9935697033492_7_675.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20696" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20696');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_10897697033493_8_271.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20697" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20697');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_11465697033493_9_222.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20698" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20698');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_12535697033494_10_399.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20699" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20699');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_13159697033495_11_367.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20700" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20700');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_14511697033495_12_155.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20701" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20701');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_15135697033496_13_123.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20702" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20702');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_16456697033497_18_414.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20703" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20703');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_17860697033498_14_765.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/20704" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/20704');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_18540697033498_15_751.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_zgornja_konjscica/21586" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_konjscica/21586');"><img class="slikagm" alt="Planina Zgornja Konjščica" src="//slike2.hribi.net/slike14/2_0417724148009_0_79.jpg" /></a>
     
 </div>
 
@@ -937,7 +965,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1781&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1245&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -947,9 +975,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zabnica___bodental_rjavca___rjautza/11/1781/3245">Žabnica / Bodental - Rjavca / Rjautza</a></td><td class="tdG"><a href="/izlet/zabnica___bodental_rjavca___rjautza/11/1781/3245">2 h 30 min</a></td><td class="tdG"><a href="/izlet/zabnica___bodental_rjavca___rjautza/11/1781/3245">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grahovse_planina_zgornja_konjscica_po_cesti/11/1245/2091">Grahovše - Planina Zgornja Konjščica (po cesti)</a></td><td class="tdG"><a href="/izlet/grahovse_planina_zgornja_konjscica_po_cesti/11/1245/2091">2 h 15 min</a></td><td class="tdG"><a href="/izlet/grahovse_planina_zgornja_konjscica_po_cesti/11/1245/2091">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/pamz___pamschbauer_rjavca___rjautza_cez_sveto_pec/11/1781/3244">Pamž / Pamschbauer - Rjavca / Rjautza (čez Sveto peč)</a></td><td class="tdG"><a href="/izlet/pamz___pamschbauer_rjavca___rjautza_cez_sveto_pec/11/1781/3244">3 h 15 min</a></td><td class="tdG"><a href="/izlet/pamz___pamschbauer_rjavca___rjautza_cez_sveto_pec/11/1781/3244">lahko brezpotje, delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/grahovse_planina_zgornja_konjscica_mimo_tica/11/1245/2979">Grahovše - Planina Zgornja Konjščica (mimo Tiča)</a></td><td class="tdG"><a href="/izlet/grahovse_planina_zgornja_konjscica_mimo_tica/11/1245/2979">2 h 15 min</a></td><td class="tdG"><a href="/izlet/grahovse_planina_zgornja_konjscica_mimo_tica/11/1245/2979">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/na_kopis_planina_zgornja_konjscica_cez_sp_konsco/11/1245/8416">Na kopiš - Planina Zgornja Konjščica (čez Sp. Konšco)</a></td><td class="tdG"><a href="/izlet/na_kopis_planina_zgornja_konjscica_cez_sp_konsco/11/1245/8416">1 h 45 min</a></td><td class="tdG"><a href="/izlet/na_kopis_planina_zgornja_konjscica_cez_sp_konsco/11/1245/8416">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/trzic_planina_zgornja_konjscica_cez_potarje_in_sp_konsco/11/1245/8415">Tržič - Planina Zgornja Konjščica (čez Potarje in Sp. Konšco)</a></td><td class="tdG"><a href="/izlet/trzic_planina_zgornja_konjscica_cez_potarje_in_sp_konsco/11/1245/8415">3 h 40 min</a></td><td class="tdG"><a href="/izlet/trzic_planina_zgornja_konjscica_cez_potarje_in_sp_konsco/11/1245/8415">lahka označena pot</a></td></tr>
 
 </table>
 

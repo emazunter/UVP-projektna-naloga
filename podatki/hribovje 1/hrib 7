@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Srednji Golak</title>
-        <meta name="description" content="Natančen opis gore Srednji Golak in vseh pristopov na Srednji Golak. Srednji Golak se nahaja med Malim in Velikim Golakom na planoti Trnovskega gozda." />
+        <title>Veliki Modrasovec</title>
+        <meta name="description" content="Natančen opis gore Veliki Modrasovec in vseh pristopov na Veliki Modrasovec. Veliki Modrasovec se nahaja na južnem delu Trnovskega gozda v bližini Predmeje. ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./529?gorovjeid=26&amp;id=529" id="form1">
+    <form method="post" action="./503?gorovjeid=26&amp;id=503" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/srednji_golak/26/529"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=529"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_modrasovec/26/503"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=503"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Srednji Golak
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Veliki Modrasovec
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(529);
+    gorast(503);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Srednji Golak</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Veliki Modrasovec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1480&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1353&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;58,4688'N&nbsp;/&nbsp;13°&nbsp;52,3764'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;56,1828'N&nbsp;/&nbsp;13°&nbsp;51,0030'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;58'&nbsp;28,13''N&nbsp;/&nbsp;13°&nbsp;52'&nbsp;22,58''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;56'&nbsp;10,97''N&nbsp;/&nbsp;13°&nbsp;51'&nbsp;0,18''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.97448°N&nbsp;/&nbsp;13.87294°E";
+                        document.getElementById("kf0").innerHTML = "45.93638°N&nbsp;/&nbsp;13.85005°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,97448°N,&nbsp;13,87294°E";
+                    document.getElementById("kf0").innerHTML = "45,93638°N,&nbsp;13,85005°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,97448°N&nbsp;13,87294°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/srednji_golak/529"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,93638°N&nbsp;13,85005°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_modrasovec/503"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Modrasovec - Torek" href="/vreme_gora/veliki_modrasovec/26/503#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Modrasovec - Sreda" href="/vreme_gora/veliki_modrasovec/26/503#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Modrasovec - Četrtek" href="/vreme_gora/veliki_modrasovec/26/503#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji Golak - Petek" href="/vreme_gora/srednji_golak/26/529#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Modrasovec - Petek" href="/vreme_gora/veliki_modrasovec/26/503#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji Golak - Sobota" href="/vreme_gora/srednji_golak/26/529#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji Golak - Nedelja" href="/vreme_gora/srednji_golak/26/529#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji Golak - Ponedeljek" href="/vreme_gora/srednji_golak/26/529#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji Golak - Torek" href="/vreme_gora/srednji_golak/26/529#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Veliki Modrasovec - Sobota" href="/vreme_gora/veliki_modrasovec/26/503#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 400.556</div>
-<div class="g2"><b>Priljubljenost:</b> 80%&nbsp;(641.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 469.877</div>
+<div class="g2"><b>Priljubljenost:</b> 87%&nbsp;(415.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=529" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=503" title="Število vpisov v vpisni knjigi">4</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Srednji Golak se nahaja med Malim in Velikim Golakom na planoti Trnovskega gozda nad Predmejo. Vrh je poraščen z rušjem, razgled pa seže od morja čez Trnovsko planoto proti osrednji Sloveniji a ga nekoliko ovirajo redka drevesa.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Veliki Modrasovec se nahaja na južnem delu Trnovskega gozda v bližini Predmeje. Na vrhu stoji stara vojaška zgradba na katero se moramo povzpeti za lepši razgled. Lepo se vidijo bližnji Golaki in zadaj nad njim del Kamniških Alp. Levo od Golakov pa se lepo vidijo Julijske Alpe kjer najbolj izstopata Triglav in nekoliko bližji Krn. Na primorsko stran razgled ovira gozd.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=529&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=503&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bukov_vrh_trnovski_gozd/26/1941">Bukov Vrh (Trnovski gozd) (1314m)</a>, <a class="moder" href="/gora/iztokova_koca_pod_golaki/26/510">Iztokova koča pod Golaki (1260m)</a>, <a class="moder" href="/gora/mali_golak/26/511">Mali Golak (1495m)</a>
+<a class="moder" href="/gora/bivak_crna_pec/26/1416">Bivak Črna peč (830m)</a>, <a class="moder" href="/gora/koca_antona_bavcerja_na_cavnu/26/500">Koča Antona Bavčerja na Čavnu (1242m)</a>, <a class="moder" href="/gora/mala_gora/26/730">Mala gora (1034m)</a>, <a class="moder" href="/gora/mali_modrasovec/26/502">Mali Modrasovec (1305m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,23 +835,23 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/lijak/344">Lijak</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/ozeljan/2075">Ozeljan</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>
+<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/lijak/344">Lijak</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/ozeljan/2075">Ozeljan</a>, <a class="moder" href="/spletna_kamera/rence/1883">Renče</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/stanjel_ferrarijev_vrt/4213">Štanjel (Ferrarijev vrt)</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/trstelj/3508">Trstelj</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednji_golak%2f26%2f529"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednji_golak%2f26%2f529"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednji_golak%2f26%2f529"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_modrasovec%2f26%2f503"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_modrasovec%2f26%2f503"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_modrasovec%2f26%2f503"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/srednji_golak/529" title="Srednji Golak 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.GolakSr.jpg" /></a></div>
+<div><a href="/panorama/360/veliki_modrasovec/503" title="Veliki Modrasovec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VModrasovec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/srednji_golak/1511" onclick="event.preventDefault(); window.open('/slika_gora/srednji_golak/1511');"><img class="slikagm" alt="Srednji Golak" src="//www.hribi.net/slike1/P1140064132496.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_modrasovec/2106" onclick="event.preventDefault(); window.open('/slika_gora/veliki_modrasovec/2106');"><img class="slikagm" alt="Veliki Modrasovec" src="//www.hribi.net/slike1/PC24010166528.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_golak/1513" onclick="event.preventDefault(); window.open('/slika_gora/srednji_golak/1513');"><img class="slikagm" alt="Srednji Golak" src="//www.hribi.net/slike1/P114006835490.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/veliki_modrasovec/5203" onclick="event.preventDefault(); window.open('/slika_gora/veliki_modrasovec/5203');"><img class="slikagm" alt="Veliki Modrasovec" src="//www.hribi.net/slike1/Modrasovec%2033641580.th.jpg" /></a>
     
 </div>
 
@@ -915,7 +915,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=529&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=503&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -925,11 +925,19 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kozarnice_srednji_golak_cez_mali_golak/26/529/905">Kozarnice - Srednji Golak (čez Mali Golak)</a></td><td class="tdG"><a href="/izlet/kozarnice_srednji_golak_cez_mali_golak/26/529/905">1 h 50 min</a></td><td class="tdG"><a href="/izlet/kozarnice_srednji_golak_cez_mali_golak/26/529/905">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/predmeja_veliki_modrasovec_po_cesti/26/503/850">Predmeja - Veliki Modrasovec (po cesti)</a></td><td class="tdG"><a href="/izlet/predmeja_veliki_modrasovec_po_cesti/26/503/850">1 h 20 min</a></td><td class="tdG"><a href="/izlet/predmeja_veliki_modrasovec_po_cesti/26/503/850">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/skrbina_srednji_golak/26/529/2855">Škrbina - Srednji Golak</a></td><td class="tdG"><a href="/izlet/skrbina_srednji_golak/26/529/2855">1 h 15 min</a></td><td class="tdG"><a href="/izlet/skrbina_srednji_golak/26/529/2855">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/predmeja_veliki_modrasovec/26/503/2995"> Predmeja - Veliki Modrasovec</a></td><td class="tdG"><a href="/izlet/predmeja_veliki_modrasovec/26/503/2995">1 h 35 min</a></td><td class="tdG"><a href="/izlet/predmeja_veliki_modrasovec/26/503/2995">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kozarnice_srednji_golak_neoznacena_vzhodna_pot/26/529/906">Kozarnice - Srednji Golak (neoznačena vzhodna pot)</a></td><td class="tdG"><a href="/izlet/kozarnice_srednji_golak_neoznacena_vzhodna_pot/26/529/906">1 h 45 min</a></td><td class="tdG"><a href="/izlet/kozarnice_srednji_golak_neoznacena_vzhodna_pot/26/529/906">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lokavec_veliki_modrasovec/26/503/2387">Lokavec - Veliki Modrasovec</a></td><td class="tdG"><a href="/izlet/lokavec_veliki_modrasovec/26/503/2387">2 h 50 min</a></td><td class="tdG"><a href="/izlet/lokavec_veliki_modrasovec/26/503/2387">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/predmeja_tuneli_veliki_modrasovec/26/503/3707">Predmeja (tuneli) - Veliki Modrasovec</a></td><td class="tdG"><a href="/izlet/predmeja_tuneli_veliki_modrasovec/26/503/3707">1 h 50 min</a></td><td class="tdG"><a href="/izlet/predmeja_tuneli_veliki_modrasovec/26/503/3707">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kamnje_veliki_modrasovec/26/503/3026">Kamnje - Veliki Modrasovec</a></td><td class="tdG"><a href="/izlet/kamnje_veliki_modrasovec/26/503/3026">2 h 50 min</a></td><td class="tdG"><a href="/izlet/kamnje_veliki_modrasovec/26/503/3026">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/vrtovin_veliki_modrasovec/26/503/3713">Vrtovin - Veliki Modrasovec</a></td><td class="tdG"><a href="/izlet/vrtovin_veliki_modrasovec/26/503/3713">3 h 5 min</a></td><td class="tdG"><a href="/izlet/vrtovin_veliki_modrasovec/26/503/3713">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/stomaz_veliki_modrasovec/26/503/3708">Stomaž - Veliki Modrasovec</a></td><td class="tdG"><a href="/izlet/stomaz_veliki_modrasovec/26/503/3708">2 h 35 min</a></td><td class="tdG"><a href="/izlet/stomaz_veliki_modrasovec/26/503/3708">lahka označena pot</a></td></tr>
 
 </table>
 

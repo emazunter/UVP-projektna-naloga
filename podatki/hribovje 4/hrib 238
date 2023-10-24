@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planina Zgornja Luža</title>
-        <meta name="description" content="Natančen opis planine Planina Zgornja Luža in vseh pristopov na Planina Zgornja Luža. Planina Zgornja Luža se nahaja na avstrijski strani zahodnega obrobja Pece. S pl." />
+        <title>Stenica</title>
+        <meta name="description" content="Natančen opis gore Stenica in vseh pristopov na Stenica. Stenica je 1091 m visok vrh, ki se nahaja med Vitanjem, Stranicami in Frankolovi." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1273?gorovjeid=11&amp;id=1273" id="form1">
+    <form method="post" action="./1828?gorovjeid=11&amp;id=1828" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_zgornja_luza/11/1273"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1273"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/stenica/11/1828"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1828"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Planina Zgornja Luža
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Stenica
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1273);
+    gorast(1828);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planina Zgornja Luža</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Stenica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1573&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1091&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,2490'N&nbsp;/&nbsp;14°&nbsp;43,7388'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,9900'N&nbsp;/&nbsp;15°&nbsp;18,720'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;14,94''N&nbsp;/&nbsp;14°&nbsp;43'&nbsp;44,33''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;59,40''N&nbsp;/&nbsp;15°&nbsp;18'&nbsp;43,20''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.50415°N&nbsp;/&nbsp;14.72898°E";
+                        document.getElementById("kf0").innerHTML = "46.3665°N&nbsp;/&nbsp;15.312°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,50415°N,&nbsp;14,72898°E";
+                    document.getElementById("kf0").innerHTML = "46,3665°N,&nbsp;15,312°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,50415°N&nbsp;14,72898°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_zgornja_luza/1273"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3665°N&nbsp;15,312°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/stenica/1828"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> planina</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Stenica - Torek" href="/vreme_gora/stenica/11/1828#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Stenica - Sreda" href="/vreme_gora/stenica/11/1828#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Stenica - Četrtek" href="/vreme_gora/stenica/11/1828#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Zgornja Luža - Petek" href="/vreme_gora/planina_zgornja_luza/11/1273#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Stenica - Petek" href="/vreme_gora/stenica/11/1828#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Zgornja Luža - Sobota" href="/vreme_gora/planina_zgornja_luza/11/1273#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Zgornja Luža - Nedelja" href="/vreme_gora/planina_zgornja_luza/11/1273#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Zgornja Luža - Ponedeljek" href="/vreme_gora/planina_zgornja_luza/11/1273#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Zgornja Luža - Torek" href="/vreme_gora/planina_zgornja_luza/11/1273#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Stenica - Sobota" href="/vreme_gora/stenica/11/1828#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 133.171</div>
-<div class="g2"><b>Priljubljenost:</b> 50%&nbsp;(1642.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 318.477</div>
+<div class="g2"><b>Priljubljenost:</b> 72%&nbsp;(935.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1828" title="Število vpisov v vpisni knjigi">5</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Zgornja Luža se nahaja na avstrijski strani zahodnega obrobja Pece. S planine na kateri stoji lovska koča se nam odpre lep razgled, ki seže vse od Kamniško Savinjskih Alp do zahodnih Karavank in dela Julijcev.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Stenica je 1091 m visok vrh, ki se nahaja med Vitanjem, Stranicami in Frankolovim. Z vrha, na katerem je žig z vpisno knjigo ter klop z mizo, zaradi gozda ni razgleda.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1273&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1828&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bistriska_spica_feistritzer_spitze/11/1275">Bistriška špica/Feistritzer Spitze (2113m)</a>, <a class="moder" href="/gora/planina_luza/11/1272">Planina Luža (1250m)</a>, <a class="moder" href="/gora/planinski_dom_na_kmetiji_kumer/11/2697">Planinski dom na kmetiji Kumer (1220m)</a>, <a class="moder" href="/gora/veska_kopa_wackendorfer_spitze/11/1274">Veška kopa/Wackendorfer Spitze (2074m)</a>
+<a class="moder" href="/gora/golezev_grad/11/3610">Goležev grad (505m)</a>, <a class="moder" href="/gora/grad_lindek/11/1921">Grad Lindek (695m)</a>, <a class="moder" href="/gora/kapelica_marijina_roka_stenica/11/3605">Kapelica Marijina roka (Stenica) (1055m)</a>, <a class="moder" href="/gora/lindeski_slap/11/1922">Lindeški slap (555m)</a>, <a class="moder" href="/gora/razgledna_tocka_na_stenici/11/3607">Razgledna točka na Stenici (630m)</a>, <a class="moder" href="/gora/spicasti_vrh_kislica/11/1448">Špicasti vrh (Kislica) (994m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,23 +835,32 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/zablasko_jezero___turnersee/1638">Zablaško jezero / Turnersee</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>
+<a class="moder" href="/spletna_kamera/dramlje/1743">Dramlje</a>, <a class="moder" href="/spletna_kamera/medlog/1164">Medlog</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/skedenj/365">Škedenj</a>, <a class="moder" href="/spletna_kamera/slatina/363">Slatina</a>, <a class="moder" href="/spletna_kamera/spodnje_stranice/4444">Spodnje Stranice</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/tepanje/367">Tepanje</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/vrhole_pri_slovenskih_konjicah/1428">Vrhole pri Slovenskih Konjicah</a>, <a class="moder" href="/spletna_kamera/zima/362">Zima</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_zgornja_luza%2f11%2f1273"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_zgornja_luza%2f11%2f1273"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_zgornja_luza%2f11%2f1273"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstenica%2f11%2f1828"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstenica%2f11%2f1828"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstenica%2f11%2f1828"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/planina_zgornja_luza/1273" title="Planina Zgornja Luža 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninaZgornjaLuza.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planina_zgornja_luza/4373" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_luza/4373');"><img class="slikagm" alt="Planina Zgornja Luža" src="//www.hribi.net/slike1/P6130488356400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stenica/9185" onclick="event.preventDefault(); window.open('/slika_gora/stenica/9185');"><img class="slikagm" alt="Stenica" src="//www.hribi.net/slike1/Stenica 031487872.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_zgornja_luza/4374" onclick="event.preventDefault(); window.open('/slika_gora/planina_zgornja_luza/4374');"><img class="slikagm" alt="Planina Zgornja Luža" src="//www.hribi.net/slike1/P6130486356400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stenica/9193" onclick="event.preventDefault(); window.open('/slika_gora/stenica/9193');"><img class="slikagm" alt="Stenica" src="//www.hribi.net/slike1/Stenica 167276848.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stenica/9194" onclick="event.preventDefault(); window.open('/slika_gora/stenica/9194');"><img class="slikagm" alt="Stenica" src="//www.hribi.net/slike1/Stenica 169276848.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stenica/9195" onclick="event.preventDefault(); window.open('/slika_gora/stenica/9195');"><img class="slikagm" alt="Stenica" src="//www.hribi.net/slike1/Stenica 173276848.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stenica/21433" onclick="event.preventDefault(); window.open('/slika_gora/stenica/21433');"><img class="slikagm" alt="Stenica" src="//slike2.hribi.net/slike14/2_1567715678818_1dscn2131.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stenica/21434" onclick="event.preventDefault(); window.open('/slika_gora/stenica/21434');"><img class="slikagm" alt="Stenica" src="//slike2.hribi.net/slike14/2_0345715678854_1dscn2135.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stenica/21435" onclick="event.preventDefault(); window.open('/slika_gora/stenica/21435');"><img class="slikagm" alt="Stenica" src="//slike2.hribi.net/slike14/2_0389719674088_1dscn2133.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stenica/21436" onclick="event.preventDefault(); window.open('/slika_gora/stenica/21436');"><img class="slikagm" alt="Stenica" src="//slike2.hribi.net/slike14/2_1598719674089_0dscn2134.jpg" /></a>
     
 </div>
 
@@ -915,7 +924,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1273&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1828&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -925,9 +934,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_peco_koprein_petzen_planina_zgornja_luza/11/1273/2138">Pod Peco/Koprein Petzen - Planina Zgornja Luža</a></td><td class="tdG"><a href="/izlet/pod_peco_koprein_petzen_planina_zgornja_luza/11/1273/2138">1 h</a></td><td class="tdG"><a href="/izlet/pod_peco_koprein_petzen_planina_zgornja_luza/11/1273/2138">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/beli_potok_pri_frankolovem_stenica/11/1828/3554">Beli Potok pri Frankolovem - Stenica</a></td><td class="tdG"><a href="/izlet/beli_potok_pri_frankolovem_stenica/11/1828/3554">1 h 45 min</a></td><td class="tdG"><a href="/izlet/beli_potok_pri_frankolovem_stenica/11/1828/3554">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koprivna_kumer_planina_zgornja_luza/11/1273/3915">Koprivna (Kumer) - Planina Zgornja Luža</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_planina_zgornja_luza/11/1273/3915">1 h 25 min</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_planina_zgornja_luza/11/1273/3915">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/vitanje_stenica/11/1828/4026">Vitanje - Stenica</a></td><td class="tdG"><a href="/izlet/vitanje_stenica/11/1828/4026">1 h 50 min</a></td><td class="tdG"><a href="/izlet/vitanje_stenica/11/1828/4026">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/vitanje_stenica_po_dolini_potoka_jez/11/1828/8781">Vitanje - Stenica (po dolini potoka Jez)</a></td><td class="tdG"><a href="/izlet/vitanje_stenica_po_dolini_potoka_jez/11/1828/8781">1 h 50 min</a></td><td class="tdG"><a href="/izlet/vitanje_stenica_po_dolini_potoka_jez/11/1828/8781">lahka neoznačena steza</a></td></tr>
 
 </table>
 

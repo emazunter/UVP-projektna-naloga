@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Meja</title>
-        <meta name="description" content="Natančen opis gore Meja in vseh pristopov na Meja. Meja je skoraj 2000m visok vrh, ki se nahaja v osrčju Spodnjih Bohinjskih gora, ." />
+        <title>Planina Govnjač</title>
+        <meta name="description" content="Natančen opis planine Planina Govnjač in vseh pristopov na Planina Govnjač. Planina se nahaja na planoti Spodnje Komne in  ima lepo izhodišče za številne tu." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1108?gorovjeid=1&amp;id=1108" id="form1">
+    <form method="post" action="./449?gorovjeid=1&amp;id=449" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/meja/1/1108"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1108"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_govnjac/1/449"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=449"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Meja
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Planina Govnjač
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1108);
+    gorast(449);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Meja</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planina Govnjač</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1996&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1480&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,0456'N&nbsp;/&nbsp;13°&nbsp;47,2362'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;16,5804'N&nbsp;/&nbsp;13°&nbsp;45,7896'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;2,74''N&nbsp;/&nbsp;13°&nbsp;47'&nbsp;14,17''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;16'&nbsp;34,82''N&nbsp;/&nbsp;13°&nbsp;45'&nbsp;47,38''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.25076°N&nbsp;/&nbsp;13.78727°E";
+                        document.getElementById("kf0").innerHTML = "46.27634°N&nbsp;/&nbsp;13.76316°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,25076°N,&nbsp;13,78727°E";
+                    document.getElementById("kf0").innerHTML = "46,27634°N,&nbsp;13,76316°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,25076°N&nbsp;13,78727°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/meja/1108"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,27634°N&nbsp;13,76316°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_govnjac/449"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Govnjač - Torek" href="/vreme_gora/planina_govnjac/1/449#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Govnjač - Sreda" href="/vreme_gora/planina_govnjac/1/449#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Govnjač - Četrtek" href="/vreme_gora/planina_govnjac/1/449#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Meja - Petek" href="/vreme_gora/meja/1/1108#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Govnjač - Petek" href="/vreme_gora/planina_govnjac/1/449#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Meja - Sobota" href="/vreme_gora/meja/1/1108#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Meja - Nedelja" href="/vreme_gora/meja/1/1108#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Meja - Ponedeljek" href="/vreme_gora/meja/1/1108#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Meja - Torek" href="/vreme_gora/meja/1/1108#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Govnjač - Sobota" href="/vreme_gora/planina_govnjac/1/449#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 263.310</div>
-<div class="g2"><b>Priljubljenost:</b> 65%&nbsp;(1143.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 369.581</div>
+<div class="g2"><b>Priljubljenost:</b> 77%&nbsp;(747.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Meja je skoraj 2000m visok vrh, ki se nahaja v osrčju Spodnjih Bohinjskih gora, natančneje med Vrhom nad Škrbino in Voglom. Z malo obiskanega vrha se nam odpre lep pogled proti omenjeni verigi gora ter osrednjim Julijcem, kjer izstopa najvišji vrh Slovenije, Triglav.</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina se nahaja na planoti Spodnje Komne in  ima lepo izhodišče za številne ture. Lep pa je pogled po bližnji okolici. 25. januarja 2006 je bila na planini Govnjač izmerjena ena nižjih temperatur pri nas. Izmerili so -40,2 stopinji Celzija. 8. januarja 2009 pa so na bližnji Mrzli Komni imerili -49,1 stopinj Celzija.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1108&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=449&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/koca_na_planini_razor/1/684">Koča na planini Razor (1315m)</a>, <a class="moder" href="/gora/planina_za_migovcem/1/1887">Planina za Migovcem (1600m)</a>, <a class="moder" href="/gora/podrta_gora/1/2680">Podrta gora (2061m)</a>, <a class="moder" href="/gora/rusnati_vrh/1/1109">Rušnati vrh (1915m)</a>, <a class="moder" href="/gora/tolminski_migovec/1/2102">Tolminski Migovec (1868m)</a>, <a class="moder" href="/gora/vrh_nad_skrbino/1/698">Vrh nad Škrbino (2054m)</a>, <a class="moder" href="/gora/vrh_planje_nad_globokim/1/687">Vrh Planje (nad Globokim) (1863m)</a>
+<a class="moder" href="/gora/dom_na_komni/1/102">Dom na Komni (1520m)</a>, <a class="moder" href="/gora/koca_pod_bogatinom/1/198">Koča pod Bogatinom (1513m)</a>, <a class="moder" href="/gora/kser/1/1372">Kser (1900m)</a>, <a class="moder" href="/gora/podrta_gora/1/2680">Podrta gora (2061m)</a>, <a class="moder" href="/gora/tolminski_kuk/1/153">Tolminski Kuk (2085m)</a>, <a class="moder" href="/gora/vrh_planje/1/448">Vrh Planje (1971m)</a>, <a class="moder" href="/gora/vrh_skrli/1/1371">Vrh Škrli (1926m)</a>, <a class="moder" href="/gora/zeleni_vrh/1/1888">Zeleni vrh (2052m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,24 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmeja%2f1%2f1108"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmeja%2f1%2f1108"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmeja%2f1%2f1108"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_govnjac%2f1%2f449"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_govnjac%2f1%2f449"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_govnjac%2f1%2f449"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/planina_govnjac/449" title="Planina Govnjač 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninaGovnjac.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/meja/4454" onclick="event.preventDefault(); window.open('/slika_gora/meja/4454');"><img class="slikagm" alt="Meja" src="//www.hribi.net/slike1/P91701905032130.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_govnjac/907" onclick="event.preventDefault(); window.open('/slika_gora/planina_govnjac/907');"><img class="slikagm" alt="Planina Govnjač" src="//www.hribi.net/Gora/p9020295mediumgw8.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/meja/4455" onclick="event.preventDefault(); window.open('/slika_gora/meja/4455');"><img class="slikagm" alt="Meja" src="//www.hribi.net/slike1/P91702005032131.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_govnjac/908" onclick="event.preventDefault(); window.open('/slika_gora/planina_govnjac/908');"><img class="slikagm" alt="Planina Govnjač" src="//www.hribi.net/Gora/p9020271mediumfq9.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/meja/4460" onclick="event.preventDefault(); window.open('/slika_gora/meja/4460');"><img class="slikagm" alt="Meja" src="//www.hribi.net/slike1/P91702695033751.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_govnjac/909" onclick="event.preventDefault(); window.open('/slika_gora/planina_govnjac/909');"><img class="slikagm" alt="Planina Govnjač" src="//www.hribi.net/Gora/p9020262mediumzh1.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/meja/19569" onclick="event.preventDefault(); window.open('/slika_gora/meja/19569');"><img class="slikagm" alt="Meja" src="//slike.hribi.net/slike4/2_2845653134023_DSCN7332.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planina_govnjac/4863" onclick="event.preventDefault(); window.open('/slika_gora/planina_govnjac/4863');"><img class="slikagm" alt="Planina Govnjač" src="//www.hribi.net/slike1/Mahavscek 405366282.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_govnjac/4864" onclick="event.preventDefault(); window.open('/slika_gora/planina_govnjac/4864');"><img class="slikagm" alt="Planina Govnjač" src="//www.hribi.net/slike1/Mahavscek 442366282.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_govnjac/4865" onclick="event.preventDefault(); window.open('/slika_gora/planina_govnjac/4865');"><img class="slikagm" alt="Planina Govnjač" src="//www.hribi.net/sliketemp/Mahavscek%203985154771.th.jpg" /></a>
     
 </div>
 
@@ -916,7 +923,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1108&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=449&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -926,15 +933,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ski_hotel_vogel_meja_cez_konjsko_sedlo/1/1108/800">Ski hotel Vogel - Meja (čez Konjsko sedlo)</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_meja_cez_konjsko_sedlo/1/1108/800">4 h</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_meja_cez_konjsko_sedlo/1/1108/800">lahko brezpotje</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ribcev_laz_meja_cez_konjsko_sedlo/1/1108/5095">Ribčev Laz - Meja (čez Konjsko sedlo)</a></td><td class="tdG"><a href="/izlet/ribcev_laz_meja_cez_konjsko_sedlo/1/1108/5095">7 h</a></td><td class="tdG"><a href="/izlet/ribcev_laz_meja_cez_konjsko_sedlo/1/1108/5095">lahko brezpotje</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ski_hotel_vogel_meja_z_bpp_za_rusnatim_vrhom_na_greben/1/1108/6075">Ski hotel Vogel - Meja (z BPP za Rušnatim vrhom na greben)</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_meja_z_bpp_za_rusnatim_vrhom_na_greben/1/1108/6075">3 h 30 min</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_meja_z_bpp_za_rusnatim_vrhom_na_greben/1/1108/6075">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ski_hotel_vogel_meja_po_bohinjski_planinski_poti_in_cez_vrh_nad_skrbino/1/1108/6449">Ski hotel Vogel - Meja (po Bohinjski planinski poti in čez Vrh nad Škrbino)</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_meja_po_bohinjski_planinski_poti_in_cez_vrh_nad_skrbino/1/1108/6449">4 h 50 min</a></td><td class="tdG"><a href="/izlet/ski_hotel_vogel_meja_po_bohinjski_planinski_poti_in_cez_vrh_nad_skrbino/1/1108/6449">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ukanc_meja_skozi_zagarjev_graben_in_cez_konjsko_sedlo/1/1108/7955">Ukanc - Meja (skozi Žagarjev graben in čez Konjsko sedlo)</a></td><td class="tdG"><a href="/izlet/ukanc_meja_skozi_zagarjev_graben_in_cez_konjsko_sedlo/1/1108/7955">5 h 20 min</a></td><td class="tdG"><a href="/izlet/ukanc_meja_skozi_zagarjev_graben_in_cez_konjsko_sedlo/1/1108/7955">lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pri_savici_planina_govnjac/1/449/701">Koča pri Savici - Planina Govnjač</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_planina_govnjac/1/449/701">3 h</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_planina_govnjac/1/449/701">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kepa</title>
-        <meta name="description" content="Natančen opis gore Kepa in vseh pristopov na Kepa. Kepa, tudi Jepa, oz. po nemško Mittagskogel je razgledna gora v zahodnih Karavan." />
+        <title>Bistriška špica/Feistritzer Spitze</title>
+        <meta name="description" content="Natančen opis gore Bistriška špica/Feistritzer Spitze in vseh pristopov na Bistriška špica/Feistritzer Spitze. Bistriška špica je 2113 m visok vrh, ki se nahaja na avstrijski strani Pece. Z v." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./97?gorovjeid=11&amp;id=97" id="form1">
+    <form method="post" action="./1275?gorovjeid=11&amp;id=1275" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mittagskogel_kepa/11/97"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=97"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/feistritzer_spitze/11/1275"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1275"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Kepa
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Bistriška špica/Feistritzer Spitze
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(97);
+    gorast(1275);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kepa</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bistriška špica/Feistritzer Spitze</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 2143&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2113&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,4074'N&nbsp;/&nbsp;13°&nbsp;57,1494'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,6894'N&nbsp;/&nbsp;14°&nbsp;45,0108'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;24,44''N&nbsp;/&nbsp;13°&nbsp;57'&nbsp;8,96''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;41,36''N&nbsp;/&nbsp;14°&nbsp;45'&nbsp;0,65''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.50679°N&nbsp;/&nbsp;13.95249°E";
+                        document.getElementById("kf0").innerHTML = "46.51149°N&nbsp;/&nbsp;14.75018°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,50679°N,&nbsp;13,95249°E";
+                    document.getElementById("kf0").innerHTML = "46,51149°N,&nbsp;14,75018°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,50679°N&nbsp;13,95249°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kepa/97"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,51149°N&nbsp;14,75018°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bistriska_spica_feistritzer_spitze/1275"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bistriška špica/Feistritzer Spitze - Torek" href="/vreme_gora/bistriska_spica_feistritzer_spitze/11/1275#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bistriška špica/Feistritzer Spitze - Sreda" href="/vreme_gora/bistriska_spica_feistritzer_spitze/11/1275#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bistriška špica/Feistritzer Spitze - Četrtek" href="/vreme_gora/bistriska_spica_feistritzer_spitze/11/1275#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kepa - Petek" href="/vreme_gora/kepa/11/97#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bistriška špica/Feistritzer Spitze - Petek" href="/vreme_gora/bistriska_spica_feistritzer_spitze/11/1275#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kepa - Sobota" href="/vreme_gora/kepa/11/97#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kepa - Nedelja" href="/vreme_gora/kepa/11/97#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kepa - Ponedeljek" href="/vreme_gora/kepa/11/97#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kepa - Torek" href="/vreme_gora/kepa/11/97#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_1_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bistriška špica/Feistritzer Spitze - Sobota" href="/vreme_gora/bistriska_spica_feistritzer_spitze/11/1275#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 688.220</div>
-<div class="g2"><b>Priljubljenost:</b> 98%&nbsp;(75.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">35</a></div>
+<div class="g2"><b>Ogledov:</b> 436.399</div>
+<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(522.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=97" title="Število vpisov v vpisni knjigi">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kepa, tudi Jepa, oz. po nemško Mittagskogel je razgledna gora v zahodnih Karavankah, ki se nahaja na mejnem grebenu med Slovenijo in Avstrijo. Z vrha, na katerem se nahaja križ (nekoliko pod vrhom, na avstrijski strani se nahaja še en) in pod njim vpisna skrinjica z žigom, se nam odpre lep razgled, ki seže vse od bližnjih Julijskih Alp, prek Karnijskih Alp do Visokih in Nizkih Tur v Avstriji.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Bistriška špica je 2113 m visok vrh, ki se nahaja na avstrijski strani Pece. Z vrha na katerem stoji križ je lep razgled na celotne Karavanke, del Kamniško Savinjskih Alp ter goram nad dolino reke Drave.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=97&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1275&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dovska_mala_kepa/11/478">Dovška Mala Kepa (2077m)</a>, <a class="moder" href="/gora/gubno/11/479">Gubno (2035m)</a>, <a class="moder" href="/gora/kamnica_komnica___ferlacher_spitze/11/2971">Kamnica (Komnica) / Ferlacher Spitze (1742m)</a>, <a class="moder" href="/gora/koca_berta___bertahutte/11/2972">Koča Berta / Bertahütte (1527m)</a>
+<a class="moder" href="/gora/alpengasthof_siebenhutten/11/1807">Alpengasthof Siebenhütten (1693m)</a>, <a class="moder" href="/gora/koncnikov_vrh/11/1276">Končnikov vrh (2109m)</a>, <a class="moder" href="/gora/planina_zgornja_luza/11/1273">Planina Zgornja Luža (1573m)</a>, <a class="moder" href="/gora/velika_glava/11/1277">Velika glava (2077m)</a>, <a class="moder" href="/gora/veska_kopa_wackendorfer_spitze/11/1274">Veška kopa/Wackendorfer Spitze (2074m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,99 +835,41 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/basko_jezero___faakersee/253">Baško jezero / Faakersee</a>, <a class="moder" href="/spletna_kamera/beljak___villach/254">Beljak / Villach</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/wernberg_-_duel/4621">Wernberg - Duel</a>
+<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkepa%2f11%2f97"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkepa%2f11%2f97"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkepa%2f11%2f97"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbistriska_spica_feistritzer_spitze%2f11%2f1275"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbistriska_spica_feistritzer_spitze%2f11%2f1275"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbistriska_spica_feistritzer_spitze%2f11%2f1275"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kepa/97" title="Kepa 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.kepa.jpg" /></a></div>
+<div><a href="/panorama/360/bistriska_spica_feistritzer_spitze/1275" title="Bistriška špica/Feistritzer Spitze 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.BistriskaSpica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kepa/21" onclick="event.preventDefault(); window.open('/slika_gora/kepa/21');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/p9290036uly64resized0xz.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4378" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4378');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130391534600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kepa/91" onclick="event.preventDefault(); window.open('/slika_gora/kepa/91');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/p9210313medium6un.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4379" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4379');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130392534600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kepa/139" onclick="event.preventDefault(); window.open('/slika_gora/kepa/139');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/p4090029medium2zt.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4380" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4380');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130393534600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kepa/160" onclick="event.preventDefault(); window.open('/slika_gora/kepa/160');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/p4170186medium4qb.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4381" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4381');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130398534600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kepa/299" onclick="event.preventDefault(); window.open('/slika_gora/kepa/299');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/p9290044medium4xc.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4382" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4382');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130364534600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kepa/1113" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1113');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/pa150132mediumuk8.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/4413" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/4413');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/P6130201313632.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kepa/1164" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1164');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/pa290138mediumkd1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/8221" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/8221');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/Bistriska_spica 076121275.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kepa/1169" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1169');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/pa290222mediumuu9.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/1174" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1174');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/pa300241mediumpb4.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/1198" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1198');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/p1010174mediumuh6.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/1199" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1199');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/p1010156mediumkv5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/1202" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1202');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/p1010213mediumjz3.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/1203" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1203');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/p1010224mediumbd1.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/1207" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1207');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/p1010201mediumii2.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/1260" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1260');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/Gora/pb280001mediumkf7.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/1365" onclick="event.preventDefault(); window.open('/slika_gora/kepa/1365');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/slike1/PC25005648384.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/7088" onclick="event.preventDefault(); window.open('/slika_gora/kepa/7088');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/sliketemp/VisokiVrh%201355769189.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/7091" onclick="event.preventDefault(); window.open('/slika_gora/kepa/7091');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/sliketemp/VisokiVrh%203475769200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/7093" onclick="event.preventDefault(); window.open('/slika_gora/kepa/7093');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/slike1/VisokiVrh%20433357500.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/7094" onclick="event.preventDefault(); window.open('/slika_gora/kepa/7094');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/slike1/VisokiVrh%20421350350.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/7096" onclick="event.preventDefault(); window.open('/slika_gora/kepa/7096');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/slike1/VisokiVrh%20377462000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/7098" onclick="event.preventDefault(); window.open('/slika_gora/kepa/7098');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/slike1/VisokiVrh%2029144000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/7099" onclick="event.preventDefault(); window.open('/slika_gora/kepa/7099');"><img class="slikagm" alt="Kepa" src="//www.hribi.net/slike1/VisokiVrh%2009819800.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/15894" onclick="event.preventDefault(); window.open('/slika_gora/kepa/15894');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_0861555436975_DSCN0521.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17333" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17333');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_037591804133_DSCN3351.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17334" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17334');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_1260591803955_DSCN3301.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17335" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17335');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_0624591804099_DSCN3347.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17336" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17336');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_0691591804014_DSCN3338.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17337" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17337');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_3133592492926_DSCN3300.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17338" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17338');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_3601592483958_DSCN3289.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17339" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17339');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_0297591803896_DSCN3260.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17407" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17407');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_0831593276373_DSCN4500.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17408" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17408');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_1226593366541_DSCN4630.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17410" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17410');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_1158593276701_DSCN4609.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kepa/17411" onclick="event.preventDefault(); window.open('/slika_gora/kepa/17411');"><img class="slikagm" alt="Kepa" src="//slike.hribi.net/slike4/2_0149593276696_DSCN4602.JPG" /></a>
+        <a target="_blank" href="/slika_gora/bistriska_spica_feistritzer_spitze/8223" onclick="event.preventDefault(); window.open('/slika_gora/bistriska_spica_feistritzer_spitze/8223');"><img class="slikagm" alt="Bistriška špica/Feistritzer Spitze" src="//www.hribi.net/slike1/Bistriska_spica 079218295.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/kepa_gubno_in_dovska_baba/3/894"><img class="slikagmv" alt="Kepa, Gubno in Dovška baba" src="https://img.youtube.com/vi/xD0MtvHfC0U/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Razgledi/kepa/4/290"><img class="slikagmv" alt="Kepa" src="https://img.youtube.com/vi/hVDlL75aUTM/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -985,7 +927,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=97&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1275&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -995,23 +937,23 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/belca_kepa/11/97/164">Belca - Kepa</a></td><td class="tdG"><a href="/izlet/belca_kepa/11/97/164">4 h 15 min</a></td><td class="tdG"><a href="/izlet/belca_kepa/11/97/164">zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_peco_koprein-petzen_bistriska_spica_feistritzer_spitze/11/1275/2140">Pod Peco/Koprein-Petzen - Bistriška špica/Feistritzer Spitze</a></td><td class="tdG"><a href="/izlet/pod_peco_koprein-petzen_bistriska_spica_feistritzer_spitze/11/1275/2140">2 h 30 min</a></td><td class="tdG"><a href="/izlet/pod_peco_koprein-petzen_bistriska_spica_feistritzer_spitze/11/1275/2140">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/erjavcev_rovt_kepa/11/97/2618">Erjavčev rovt - Kepa</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_kepa/11/97/2618">3 h 50 min</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_kepa/11/97/2618">zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_plezalna_pot/11/1275/2878">Jakobe - Bistriška špica/Feistritzer Spitze (plezalna pot)</a></td><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_plezalna_pot/11/1275/2878">3 h 45 min</a></td><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_plezalna_pot/11/1275/2878">zelo zahtevna označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ravne_kepa/11/97/2624">Ravne - Kepa</a></td><td class="tdG"><a href="/izlet/ravne_kepa/11/97/2624">4 h 15 min</a></td><td class="tdG"><a href="/izlet/ravne_kepa/11/97/2624">zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/alpengasthof_siebenhutten_bistriska_spica_feistritzer_spitze/11/1275/3353">Alpengasthof Siebenhütten - Bistriška špica/Feistritzer Spitze</a></td><td class="tdG"><a href="/izlet/alpengasthof_siebenhutten_bistriska_spica_feistritzer_spitze/11/1275/3353">2 h 15 min</a></td><td class="tdG"><a href="/izlet/alpengasthof_siebenhutten_bistriska_spica_feistritzer_spitze/11/1275/3353">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnje_rute___untergreuth_kepa_pot_cez_severovzhodni_greben/11/97/2772">Spodnje Rute / Untergreuth - Kepa (pot čez severovzhodni greben)</a></td><td class="tdG"><a href="/izlet/spodnje_rute___untergreuth_kepa_pot_cez_severovzhodni_greben/11/97/2772">4 h</a></td><td class="tdG"><a href="/izlet/spodnje_rute___untergreuth_kepa_pot_cez_severovzhodni_greben/11/97/2772">zelo zahtevna neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_avstrijska_pot/11/1275/3917">Koprivna (Kumer) - Bistriška špica/Feistritzer Spitze (avstrijska pot)</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_avstrijska_pot/11/1275/3917">2 h 55 min</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_avstrijska_pot/11/1275/3917">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/setinov_rovt_kepa_cez_kurjeke/11/97/2768">Šetinov rovt - Kepa (čez Kurjeke)</a></td><td class="tdG"><a href="/izlet/setinov_rovt_kepa_cez_kurjeke/11/97/2768">4 h</a></td><td class="tdG"><a href="/izlet/setinov_rovt_kepa_cez_kurjeke/11/97/2768">zahtevna neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_slovenska_pot/11/1275/3918">Koprivna (Kumer) - Bistriška špica/Feistritzer Spitze (slovenska pot)</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_slovenska_pot/11/1275/3918">3 h 40 min</a></td><td class="tdG"><a href="/izlet/koprivna_kumer_bistriska_spica_feistritzer_spitze_slovenska_pot/11/1275/3918">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnje_rute___untergreuth_kepa_pot_st_680/11/97/2771">Spodnje Rute / Untergreuth - Kepa (pot št. 680)</a></td><td class="tdG"><a href="/izlet/spodnje_rute___untergreuth_kepa_pot_st_680/11/97/2771">4 h</a></td><td class="tdG"><a href="/izlet/spodnje_rute___untergreuth_kepa_pot_st_680/11/97/2771">zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_lahka_pot/11/1275/2877">Jakobe - Bistriška špica/Feistritzer Spitze (lahka pot)</a></td><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_lahka_pot/11/1275/2877">3 h 45 min</a></td><td class="tdG"><a href="/izlet/jakobe_bistriska_spica_feistritzer_spitze_lahka_pot/11/1275/2877">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ilicev_rovt___illitsch_rauth_kepa_pot_680/11/97/7000">Iličev rovt / Illitsch Rauth - Kepa (pot 680)</a></td><td class="tdG"><a href="/izlet/ilicev_rovt___illitsch_rauth_kepa_pot_680/11/97/7000">3 h</a></td><td class="tdG"><a href="/izlet/ilicev_rovt___illitsch_rauth_kepa_pot_680/11/97/7000">zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/najberz_bistriska_spica_feistritzer_spitze/11/1275/3342">Najberž - Bistriška špica/Feistritzer Spitze</a></td><td class="tdG"><a href="/izlet/najberz_bistriska_spica_feistritzer_spitze/11/1275/3342">4 h 45 min</a></td><td class="tdG"><a href="/izlet/najberz_bistriska_spica_feistritzer_spitze/11/1275/3342">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podrozca___rosenbach_kepa/11/97/7001">Podrožca / Rosenbach - Kepa</a></td><td class="tdG"><a href="/izlet/podrozca___rosenbach_kepa/11/97/7001">5 h 10 min</a></td><td class="tdG"><a href="/izlet/podrozca___rosenbach_kepa/11/97/7001">zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/globasnica___globasnitz_bistriska_spica_feistritzer_spitze/11/1275/3356">Globasnica / Globasnitz - Bistriška špica/Feistritzer Spitze</a></td><td class="tdG"><a href="/izlet/globasnica___globasnitz_bistriska_spica_feistritzer_spitze/11/1275/3356">5 h</a></td><td class="tdG"><a href="/izlet/globasnica___globasnitz_bistriska_spica_feistritzer_spitze/11/1275/3356">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/cemernica___tschemernitzen_kepa/11/97/7002">Čemernica / Tschemernitzen - Kepa</a></td><td class="tdG"><a href="/izlet/cemernica___tschemernitzen_kepa/11/97/7002">5 h 5 min</a></td><td class="tdG"><a href="/izlet/cemernica___tschemernitzen_kepa/11/97/7002">zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/rudnik_v_topli_bistriska_spica_feistritzer_spitze/11/1275/4126">Rudnik v Topli - Bistriška špica/Feistritzer Spitze</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_bistriska_spica_feistritzer_spitze/11/1275/4126">3 h 30 min</a></td><td class="tdG"><a href="/izlet/rudnik_v_topli_bistriska_spica_feistritzer_spitze/11/1275/4126">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Široka peč</title>
-        <meta name="description" content="Natančen opis gore Široka peč in vseh pristopov na Široka peč. Široka peč je 2497 m visoka gora, ki se nahaja v osrčju Martuljške skupine gora.." />
+        <title>Vrh Osojnic</title>
+        <meta name="description" content="Natančen opis gore Vrh Osojnic in vseh pristopov na Vrh Osojnic. Vrh Osojnic je 2371 metrov visok vrh, ki se nahaja med Domom Petra skalarja na K." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1381?gorovjeid=1&amp;id=1381" id="form1">
+    <form method="post" action="./3139?gorovjeid=1&amp;id=3139" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/siroka_pec/1/1381"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1381"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrh_osojnic/1/3139"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=3139"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Široka peč
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Vrh Osojnic
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1381);
+    gorast(3139);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Široka peč</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Vrh Osojnic</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2497&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2371&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,6268'N&nbsp;/&nbsp;13°&nbsp;50,5368'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,5040'N&nbsp;/&nbsp;13°&nbsp;27,9060'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;37,61''N&nbsp;/&nbsp;13°&nbsp;50'&nbsp;32,21''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;30,24''N&nbsp;/&nbsp;13°&nbsp;27'&nbsp;54,36''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.44378°N&nbsp;/&nbsp;13.84228°E";
+                        document.getElementById("kf0").innerHTML = "46.3584°N&nbsp;/&nbsp;13.4651°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,44378°N,&nbsp;13,84228°E";
+                    document.getElementById("kf0").innerHTML = "46,3584°N,&nbsp;13,4651°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,44378°N&nbsp;13,84228°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/siroka_pec/1381"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3584°N&nbsp;13,4651°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrh_osojnic/3139"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrh Osojnic - Torek" href="/vreme_gora/vrh_osojnic/1/3139#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrh Osojnic - Sreda" href="/vreme_gora/vrh_osojnic/1/3139#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrh Osojnic - Četrtek" href="/vreme_gora/vrh_osojnic/1/3139#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Široka peč - Petek" href="/vreme_gora/siroka_pec/1/1381#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Vrh Osojnic - Petek" href="/vreme_gora/vrh_osojnic/1/3139#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_1_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Široka peč - Sobota" href="/vreme_gora/siroka_pec/1/1381#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Široka peč - Nedelja" href="/vreme_gora/siroka_pec/1/1381#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Široka peč - Ponedeljek" href="/vreme_gora/siroka_pec/1/1381#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Široka peč - Torek" href="/vreme_gora/siroka_pec/1/1381#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Vrh Osojnic - Sobota" href="/vreme_gora/vrh_osojnic/1/3139#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 454.743</div>
-<div class="g2"><b>Priljubljenost:</b> 86%&nbsp;(450.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 5.042</div>
+<div class="g2"><b>Priljubljenost:</b> 35%&nbsp;(2143.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1381" title="Število vpisov v vpisni knjigi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Široka peč je 2497 m visoka gora, ki se nahaja v osrčju Martuljške skupine gora. Na vrh ne vodi nobena pot, zato vrh le poredko dočaka obisk. Sicer pa Široka peč skupaj z Dovškim križem in Škrnatarico tvori naravni Amfiteater.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Vrh Osojnic je 2371 metrov visok vrh, ki se nahaja med Domom Petra skalarja na Kaninu in Hudim Vršičem. Z vrha, na katerem je postavljen možic, se nam odpre lep razgled na vrhove nad Kaninskimi podi, Krnsko pogorje, ob lepi vidljivosti pa razgled seže vse do morja.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1381&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3139&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_na_jezerih/1/211">Bivak na Jezerih (2118m)</a>, <a class="moder" href="/gora/bivak_v_veliki_dnini/1/3602">Bivak v Veliki Dnini (2180m)</a>, <a class="moder" href="/gora/bivak_za_akom/1/1097">Bivak Za Akom (1340m)</a>, <a class="moder" href="/gora/brinova_glava/1/3568">Brinova glava (1586m)</a>, <a class="moder" href="/gora/dovski_kriz/1/22">Dovški križ (2542m)</a>, <a class="moder" href="/gora/kukova_spica/1/402">Kukova špica (2427m)</a>, <a class="moder" href="/gora/mala_martuljska_ponca/1/1382">Mala Martuljška Ponca (2501m)</a>, <a class="moder" href="/gora/na_peceh/1/1384">Na Pečeh (2039m)</a>, <a class="moder" href="/gora/pri_treh_macesnih/1/1385">Pri treh macesnih (1810m)</a>, <a class="moder" href="/gora/splevta/1/1062">Šplevta (2272m)</a>, <a class="moder" href="/gora/spodnji_rokav/1/2248">Spodnji Rokav (2500m)</a>, <a class="moder" href="/gora/velika_martuljska_ponca/1/8">Velika Martuljška Ponca (2602m)</a>, <a class="moder" href="/gora/veliki_oltar/1/7">Veliki Oltar (2621m)</a>, <a class="moder" href="/gora/visoki_rokav/1/5">Visoki Rokav (2646m)</a>, <a class="moder" href="/gora/zgornji_martuljkov_slap/1/220">Zgornji Martuljkov slap (1150m)</a>
+<a class="moder" href="/gora/bela_pec_monte_bila_pec/1/1374">Bela peč/Monte Bila pec (2146m)</a>, <a class="moder" href="/gora/dom_petra_skalarja_na_kaninu/1/328">Dom Petra Skalarja na Kaninu (2260m)</a>, <a class="moder" href="/gora/konjc/1/422">Konjc (2289m)</a>, <a class="moder" href="/gora/prestreljenik/1/35">Prestreljenik (2499m)</a>, <a class="moder" href="/gora/prestreljenisko_okno/1/2848">Prestreljeniško okno (2391m)</a>, <a class="moder" href="/gora/rifugio_gilberti/1/1036">Rifugio Gilberti (1850m)</a>, <a class="moder" href="/gora/stara_koca_na_kaninu/1/3137">Stara koča na Kaninu (1814m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,20 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kanin/3">Kanin</a>, <a class="moder" href="/spletna_kamera/kanin_graben/4412">Kanin (Graben)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/montaz___jof_di_montasio/22">Montaž / Jôf di Montasio</a>, <a class="moder" href="/spletna_kamera/nevejski_preval_-_na_zlebeh___sella_nevea/1977">Nevejski preval - Na Žlebeh / Sella Nevea</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/prevala/1361">Prevala</a>, <a class="moder" href="/spletna_kamera/rezija_val_resia/483">Rezija/Val Resia</a>, <a class="moder" href="/spletna_kamera/rifugio_gilberti/4020">Rifugio Gilberti</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/stol_kobariski/1881">Stol (Kobariški)</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/ucja/1679">Učja</a>, <a class="moder" href="/spletna_kamera/veliki_babanski_skedenj/1464">Veliki Babanski skedenj</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsiroka_pec%2f1%2f1381"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsiroka_pec%2f1%2f1381"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsiroka_pec%2f1%2f1381"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_osojnic%2f1%2f3139"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_osojnic%2f1%2f3139"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_osojnic%2f1%2f3139"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/siroka_pec/4925" onclick="event.preventDefault(); window.open('/slika_gora/siroka_pec/4925');"><img class="slikagm" alt="Široka peč" src="//www.hribi.net/slike1/P92200071240758.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrh_osojnic/18640" onclick="event.preventDefault(); window.open('/slika_gora/vrh_osojnic/18640');"><img class="slikagm" alt="Vrh Osojnic" src="//slike.hribi.net/slike4/2_0437621764599_DSCN2691.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/siroka_pec/4926" onclick="event.preventDefault(); window.open('/slika_gora/siroka_pec/4926');"><img class="slikagm" alt="Široka peč" src="//www.hribi.net/slike1/P92201641240758.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrh_osojnic/18641" onclick="event.preventDefault(); window.open('/slika_gora/vrh_osojnic/18641');"><img class="slikagm" alt="Vrh Osojnic" src="//slike.hribi.net/slike4/2_3767621953936_DSCN2688.JPG" /></a>
     
 </div>
 
@@ -912,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1381&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3139&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,7 +922,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gozd_martuljek_siroka_pec/1/1381/2889">Gozd Martuljek - Široka peč</a></td><td class="tdG"><a href="/izlet/gozd_martuljek_siroka_pec/1/1381/2889">5 h</a></td><td class="tdG"><a href="/izlet/gozd_martuljek_siroka_pec/1/1381/2889">zelo zahtevno brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gozdec_vrh_osojnic/1/3139/7454">Gozdec - Vrh Osojnic</a></td><td class="tdG"><a href="/izlet/gozdec_vrh_osojnic/1/3139/7454">4 h 40 min</a></td><td class="tdG"><a href="/izlet/gozdec_vrh_osojnic/1/3139/7454">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/d_postaja_vrh_osojnic/1/3139/7456">D postaja - Vrh Osojnic</a></td><td class="tdG"><a href="/izlet/d_postaja_vrh_osojnic/1/3139/7456"> 45 min</a></td><td class="tdG"><a href="/izlet/d_postaja_vrh_osojnic/1/3139/7456">zahtevna označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/d_postaja_vrh_osojnic_mimo_doma_petra_skalarja_na_kaninu/1/3139/7458">D postaja - Vrh Osojnic (mimo Doma Petra Skalarja na Kaninu)</a></td><td class="tdG"><a href="/izlet/d_postaja_vrh_osojnic_mimo_doma_petra_skalarja_na_kaninu/1/3139/7458">1 h 15 min</a></td><td class="tdG"><a href="/izlet/d_postaja_vrh_osojnic_mimo_doma_petra_skalarja_na_kaninu/1/3139/7458">zahtevna označena pot</a></td></tr>
 
 </table>
 

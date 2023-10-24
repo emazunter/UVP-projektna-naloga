@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Ruš</title>
-        <meta name="description" content="Natančen opis gore Ruš in vseh pristopov na Ruš. Ruš je manj znan vrh, ki se nahaja severovzhodno od nekoliko višjega Stegovnika.." />
+        <title>Jesenik (Jesenikov vrh)</title>
+        <meta name="description" content="Natančen opis gore Jesenik (Jesenikov vrh) in vseh pristopov na Jesenik (Jesenikov vrh). Jesenik, tudi Jesenikov vrh je 1199 metrov z gozdom poraščen visok vrh, ki se na." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1926?gorovjeid=11&amp;id=1926" id="form1">
+    <form method="post" action="./2918?gorovjeid=11&amp;id=2918" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rus/11/1926"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1926"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/jesenik_jesenikov_vrh/11/2918"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=2918"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Ruš
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Jesenik (Jesenikov vrh)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1926);
+    gorast(2918);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Ruš</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Jesenik (Jesenikov vrh)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1614&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1199&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,120'N&nbsp;/&nbsp;14°&nbsp;26,1900'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,3060'N&nbsp;/&nbsp;14°&nbsp;49,8960'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;7,20''N&nbsp;/&nbsp;14°&nbsp;26'&nbsp;11,40''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;18,36''N&nbsp;/&nbsp;14°&nbsp;49'&nbsp;53,76''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.402°N&nbsp;/&nbsp;14.4365°E";
+                        document.getElementById("kf0").innerHTML = "46.5051°N&nbsp;/&nbsp;14.8316°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,402°N,&nbsp;14,4365°E";
+                    document.getElementById("kf0").innerHTML = "46,5051°N,&nbsp;14,8316°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,402°N&nbsp;14,4365°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rus/1926"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,5051°N&nbsp;14,8316°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/jesenik_jesenikov_vrh/2918"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Jesenik (Jesenikov vrh) - Torek" href="/vreme_gora/jesenik_jesenikov_vrh/11/2918#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Jesenik (Jesenikov vrh) - Sreda" href="/vreme_gora/jesenik_jesenikov_vrh/11/2918#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Jesenik (Jesenikov vrh) - Četrtek" href="/vreme_gora/jesenik_jesenikov_vrh/11/2918#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Ruš - Petek" href="/vreme_gora/rus/11/1926#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Jesenik (Jesenikov vrh) - Petek" href="/vreme_gora/jesenik_jesenikov_vrh/11/2918#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Ruš - Sobota" href="/vreme_gora/rus/11/1926#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Ruš - Nedelja" href="/vreme_gora/rus/11/1926#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Ruš - Ponedeljek" href="/vreme_gora/rus/11/1926#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Ruš - Torek" href="/vreme_gora/rus/11/1926#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Jesenik (Jesenikov vrh) - Sobota" href="/vreme_gora/jesenik_jesenikov_vrh/11/2918#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,9 +743,9 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 195.620</div>
-<div class="g2"><b>Priljubljenost:</b> 57%&nbsp;(1404.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Ogledov:</b> 1.440</div>
+<div class="g2"><b>Priljubljenost:</b> 24%&nbsp;(2511.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Ruš je manj znan vrh, ki se nahaja severovzhodno od nekoliko višjega Stegovnika. Z vrha, na katerem se nahaja vpisna skrinjica, se nam odpre lep razgled na greben Košute, Obir, osrednje Kamniško Savinjske Alpe, Bukovec, Kozji vrh, Storžič ter ob lepem vremenu vse do Julijskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Jesenik, tudi Jesenikov vrh je 1199 metrov z gozdom poraščen visok vrh, ki se nahaja med Mežico in Podpeco.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1926&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2918&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bukovec/11/354">Bukovec (1506m)</a>, <a class="moder" href="/gora/lovska_koca_stanic/11/525">Lovska koča Stanič (1280m)</a>, <a class="moder" href="/gora/mocnikova_planina/11/1263">Močnikova planina (1275m)</a>, <a class="moder" href="/gora/partizanska_bolnica_krtina/11/1214">Partizanska bolnica Krtina (1040m)</a>, <a class="moder" href="/gora/stegovnik/11/442">Stegovnik (1692m)</a>, <a class="moder" href="/gora/veliki_vrh_nad_komatevro/11/1927">Veliki vrh nad Komatevro (1634m)</a>
+<a class="moder" href="/gora/koca_na_pikovem/11/1502">Koča na Pikovem (992m)</a>, <a class="moder" href="/gora/pikov_vrh/11/2920">Pikov vrh (1149m)</a>, <a class="moder" href="/gora/stalekarjev_vrh/11/2919">Štalekarjev vrh (792m)</a>, <a class="moder" href="/gora/veliki_vrh_nad_mezisko_dolino/11/2921">Veliki vrh (nad Mežiško dolino) (1165m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,33 +835,28 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/ravne_na_koroskem/1462">Ravne na Koroškem</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frus%2f11%2f1926"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frus%2f11%2f1926"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frus%2f11%2f1926"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fjesenik_jesenikov_vrh%2f11%2f2918"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjesenik_jesenikov_vrh%2f11%2f2918"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fjesenik_jesenikov_vrh%2f11%2f2918"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/rus/1926" title="Ruš 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Rus.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/rus/9248" onclick="event.preventDefault(); window.open('/slika_gora/rus/9248');"><img class="slikagm" alt="Ruš" src="//slike.hribi.net/sliketemp/Rus%201196313430.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jesenik_jesenikov_vrh/16879" onclick="event.preventDefault(); window.open('/slika_gora/jesenik_jesenikov_vrh/16879');"><img class="slikagm" alt="Jesenik (Jesenikov vrh)" src="//slike.hribi.net/slike4/2_4744583584983_DSCN4324.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rus/9249" onclick="event.preventDefault(); window.open('/slika_gora/rus/9249');"><img class="slikagm" alt="Ruš" src="//www.hribi.net/slike1/Rus 1180.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jesenik_jesenikov_vrh/16880" onclick="event.preventDefault(); window.open('/slika_gora/jesenik_jesenikov_vrh/16880');"><img class="slikagm" alt="Jesenik (Jesenikov vrh)" src="//slike.hribi.net/slike4/2_1384582734952_DSCN4322.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rus/9250" onclick="event.preventDefault(); window.open('/slika_gora/rus/9250');"><img class="slikagm" alt="Ruš" src="//www.hribi.net/slike1/Rus 1600.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jesenik_jesenikov_vrh/16881" onclick="event.preventDefault(); window.open('/slika_gora/jesenik_jesenikov_vrh/16881');"><img class="slikagm" alt="Jesenik (Jesenikov vrh)" src="//slike.hribi.net/slike4/2_3334583584980_DSCN4321.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rus/9251" onclick="event.preventDefault(); window.open('/slika_gora/rus/9251');"><img class="slikagm" alt="Ruš" src="//www.hribi.net/slike1/Rus 1140.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jesenik_jesenikov_vrh/16882" onclick="event.preventDefault(); window.open('/slika_gora/jesenik_jesenikov_vrh/16882');"><img class="slikagm" alt="Jesenik (Jesenikov vrh)" src="//slike.hribi.net/slike4/2_1259583581510_DSCN4253.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rus/9252" onclick="event.preventDefault(); window.open('/slika_gora/rus/9252');"><img class="slikagm" alt="Ruš" src="//www.hribi.net/slike1/Rus 1590.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jesenik_jesenikov_vrh/16883" onclick="event.preventDefault(); window.open('/slika_gora/jesenik_jesenikov_vrh/16883');"><img class="slikagm" alt="Jesenik (Jesenikov vrh)" src="//slike.hribi.net/slike4/2_4756583003334_DSCN3597.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rus/9253" onclick="event.preventDefault(); window.open('/slika_gora/rus/9253');"><img class="slikagm" alt="Ruš" src="//slike.hribi.net/sliketemp/Rus%201566313432.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/rus/12587" onclick="event.preventDefault(); window.open('/slika_gora/rus/12587');"><img class="slikagm" alt="Ruš" src="//www.hribi.net/slike1/P5260376217728.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/jesenik_jesenikov_vrh/16884" onclick="event.preventDefault(); window.open('/slika_gora/jesenik_jesenikov_vrh/16884');"><img class="slikagm" alt="Jesenik (Jesenikov vrh)" src="//slike.hribi.net/slike4/2_0626582193031_DSCN3818.JPG" /></a>
     
 </div>
 
@@ -925,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1926&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2918&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,13 +930,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/medvodje_rus_preko_sedla_pri_lojtri/11/1926/3566">Medvodje - Ruš (preko sedla Pri lojtri)</a></td><td class="tdG"><a href="/izlet/medvodje_rus_preko_sedla_pri_lojtri/11/1926/3566">2 h 30 min</a></td><td class="tdG"><a href="/izlet/medvodje_rus_preko_sedla_pri_lojtri/11/1926/3566">delno zahtevna neoznačena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mezica_jesenik_jesenikov_vrh_cez_preval_vrh_steng/11/2918/6836">Mežica - Jesenik (Jesenikov vrh) (čez preval Vrh šteng)</a></td><td class="tdG"><a href="/izlet/mezica_jesenik_jesenikov_vrh_cez_preval_vrh_steng/11/2918/6836">2 h</a></td><td class="tdG"><a href="/izlet/mezica_jesenik_jesenikov_vrh_cez_preval_vrh_steng/11/2918/6836">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rezman_rus_po_jugozahodnem_grebenu/11/1926/3568">Rezman - Ruš (po jugozahodnem grebenu)</a></td><td class="tdG"><a href="/izlet/rezman_rus_po_jugozahodnem_grebenu/11/1926/3568">2 h</a></td><td class="tdG"><a href="/izlet/rezman_rus_po_jugozahodnem_grebenu/11/1926/3568">delno zahtevna neoznačena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_na_pikovem_jesenik_jesenikov_vrh/11/2918/6838">Koča na Pikovem - Jesenik (Jesenikov vrh)</a></td><td class="tdG"><a href="/izlet/koca_na_pikovem_jesenik_jesenikov_vrh/11/2918/6838">1 h 5 min</a></td><td class="tdG"><a href="/izlet/koca_na_pikovem_jesenik_jesenikov_vrh/11/2918/6838">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dol_rus_po_jugozahodnem_grebenu/11/1926/3567">Dol - Ruš (po jugozahodnem grebenu)</a></td><td class="tdG"><a href="/izlet/dol_rus_po_jugozahodnem_grebenu/11/1926/3567">2 h 15 min</a></td><td class="tdG"><a href="/izlet/dol_rus_po_jugozahodnem_grebenu/11/1926/3567">delno zahtevna neoznačena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mezica_jesenik_jesenikov_vrh_mimo_domacije_jesenik/11/2918/6837">Mežica - Jesenik (Jesenikov vrh) (mimo domačije Jesenik)</a></td><td class="tdG"><a href="/izlet/mezica_jesenik_jesenikov_vrh_mimo_domacije_jesenik/11/2918/6837">2 h 5 min</a></td><td class="tdG"><a href="/izlet/mezica_jesenik_jesenikov_vrh_mimo_domacije_jesenik/11/2918/6837">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rezman_rus_po_severovzhodnem_grebenu/11/1926/3892">Rezman - Ruš (po severovzhodnem grebenu)</a></td><td class="tdG"><a href="/izlet/rezman_rus_po_severovzhodnem_grebenu/11/1926/3892">2 h 15 min</a></td><td class="tdG"><a href="/izlet/rezman_rus_po_severovzhodnem_grebenu/11/1926/3892">zelo zahtevno brezpotje</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/sumahovo_sedlo_jesenik_jesenikov_vrh_cez_veliki_in_pikov_vrh/11/2918/6855">Šumahovo sedlo - Jesenik (Jesenikov vrh) (čez Veliki in Pikov vrh)</a></td><td class="tdG"><a href="/izlet/sumahovo_sedlo_jesenik_jesenikov_vrh_cez_veliki_in_pikov_vrh/11/2918/6855">1 h 45 min</a></td><td class="tdG"><a href="/izlet/sumahovo_sedlo_jesenik_jesenikov_vrh_cez_veliki_in_pikov_vrh/11/2918/6855">lahka neoznačena steza</a></td></tr>
 
 </table>
 

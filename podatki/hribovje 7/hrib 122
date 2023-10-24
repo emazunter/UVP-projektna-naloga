@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Ledena jama na Stojni</title>
-        <meta name="description" content="Natančen opis gore Ledena jama na Stojni in vseh pristopov na Ledena jama na Stojni. Ledena jama se nahaja južno od koče pri Jelenovem studencu, sredi prostranih goz." />
+        <title>Sveta Marjeta (Prežganje)</title>
+        <meta name="description" content="Natančen opis gore Sveta Marjeta (Prežganje) in vseh pristopov na Sveta Marjeta (Prežganje). Cerkev sv. Marjete se nahaja na vrhu hriba nad Prežganjem. Ob cerkvi se nahaja š." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1194?gorovjeid=25&amp;id=1194" id="form1">
+    <form method="post" action="./2427?gorovjeid=25&amp;id=2427" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ledena_jama_on_stojna/25/1194"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=1194"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveta_marjeta_prezganje/25/2427"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2427"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Ledena jama na Stojni
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Sveta Marjeta (Prežganje)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1194);
+    gorast(2427);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Ledena jama na Stojni</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveta Marjeta (Prežganje)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 840&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 658&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;36,8388'N&nbsp;/&nbsp;14°&nbsp;50,6148'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;1,4880'N&nbsp;/&nbsp;14°&nbsp;43,8300'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;36'&nbsp;50,33''N&nbsp;/&nbsp;14°&nbsp;50'&nbsp;36,89''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;1'&nbsp;29,28''N&nbsp;/&nbsp;14°&nbsp;43'&nbsp;49,80''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.61398°N&nbsp;/&nbsp;14.84358°E";
+                        document.getElementById("kf0").innerHTML = "46.0248°N&nbsp;/&nbsp;14.7305°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,61398°N,&nbsp;14,84358°E";
+                    document.getElementById("kf0").innerHTML = "46,0248°N,&nbsp;14,7305°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,61398°N&nbsp;14,84358°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ledena_jama_na_stojni/1194"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,0248°N&nbsp;14,7305°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveta_marjeta_prezganje/2427"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> </div>
+    <div class="g2"><b>Vrsta:</b> vrh, koča, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Marjeta (Prežganje) - Torek" href="/vreme_gora/sveta_marjeta_prezganje/25/2427#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Marjeta (Prežganje) - Sreda" href="/vreme_gora/sveta_marjeta_prezganje/25/2427#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Marjeta (Prežganje) - Četrtek" href="/vreme_gora/sveta_marjeta_prezganje/25/2427#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Ledena jama na Stojni - Petek" href="/vreme_gora/ledena_jama_na_stojni/25/1194#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Marjeta (Prežganje) - Petek" href="/vreme_gora/sveta_marjeta_prezganje/25/2427#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Ledena jama na Stojni - Sobota" href="/vreme_gora/ledena_jama_na_stojni/25/1194#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Ledena jama na Stojni - Nedelja" href="/vreme_gora/ledena_jama_na_stojni/25/1194#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Ledena jama na Stojni - Ponedeljek" href="/vreme_gora/ledena_jama_na_stojni/25/1194#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Ledena jama na Stojni - Torek" href="/vreme_gora/ledena_jama_na_stojni/25/1194#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Marjeta (Prežganje) - Sobota" href="/vreme_gora/sveta_marjeta_prezganje/25/2427#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 279.999</div>
-<div class="g2"><b>Priljubljenost:</b> 67%&nbsp;(1081.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Ogledov:</b> 4.805</div>
+<div class="g2"><b>Priljubljenost:</b> 34%&nbsp;(2156.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2427" title="Število vpisov v vpisni knjigi">3</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Ledena jama se nahaja južno od koče pri Jelenovem studencu, sredi prostranih gozdov Stojne. V jami, ki je globoka prek 100m se sneg in led zadržita skozi vse leto. Dostop v jamo je zaradi precejšne strmine zelo zahteven in izpostavljen zdrsu.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev sv. Marjete se nahaja na vrhu hriba nad Prežganjem. Ob cerkvi se nahaja še Minoritski dom duhovnih vaj, nekoliko nižje pa še Gostilna in picerija Marjeta. Z vrha se odpre lep pogled proti Jančam in okoliškemu hribovju.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1194&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2427&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/grad_fridrihstajn/25/1191">Grad Fridrihštajn (970m)</a>, <a class="moder" href="/gora/koca_pri_jelenovem_studencu/25/1189">Koča pri Jelenovem studencu (850m)</a>, <a class="moder" href="/gora/mestni_vrh/25/1190">Mestni vrh (1034m)</a>, <a class="moder" href="/gora/pozgani_hrib/25/1193">Požgani hrib (1009m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,20 +835,30 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/colnarji/451">Colnarji</a>, <a class="moder" href="/spletna_kamera/domacija_lobic_grgelj/4358">Domačija Lobič (Grgelj)</a>, <a class="moder" href="/spletna_kamera/grad_kostel/4361">Grad Kostel</a>, <a class="moder" href="/spletna_kamera/kocevje/998">Kočevje</a>, <a class="moder" href="/spletna_kamera/rudnisko_jezero/4234">Rudniško jezero</a>
+<a class="moder" href="/spletna_kamera/debeli_hrib/422">Debeli hrib</a>, <a class="moder" href="/spletna_kamera/dob/433">Dob</a>, <a class="moder" href="/spletna_kamera/grosuplje/303">Grosuplje</a>, <a class="moder" href="/spletna_kamera/grosuplje/1964">Grosuplje</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/lavrica/3607">Lavrica</a>, <a class="moder" href="/spletna_kamera/ljubljana_golovec/463">Ljubljana Golovec</a>, <a class="moder" href="/spletna_kamera/ljubljana_jug/457">Ljubljana jug</a>, <a class="moder" href="/spletna_kamera/ljubljana_malence/455">Ljubljana Malence</a>, <a class="moder" href="/spletna_kamera/ljubljana_nove_jarse/480">Ljubljana Nove Jarše</a>, <a class="moder" href="/spletna_kamera/ljubljana_rudnik/1759">Ljubljana Rudnik</a>, <a class="moder" href="/spletna_kamera/ljubljana_zadobrova/459">Ljubljana Zadobrova</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/orle/4000">Orle</a>, <a class="moder" href="/spletna_kamera/pijava_gorica/454">Pijava Gorica</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sentjakob/354">Šentjakob</a>, <a class="moder" href="/spletna_kamera/skofljica/3606">Škofljica</a>, <a class="moder" href="/spletna_kamera/visnja_gora/429">Višnja Gora</a>, <a class="moder" href="/spletna_kamera/zagarski_vrh/3123">Žagarski vrh</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fledena_jama_na_stojni%2f25%2f1194"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fledena_jama_na_stojni%2f25%2f1194"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fledena_jama_na_stojni%2f25%2f1194"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_marjeta_prezganje%2f25%2f2427"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_marjeta_prezganje%2f25%2f2427"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_marjeta_prezganje%2f25%2f2427"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/ledena_jama_na_stojni/4011" onclick="event.preventDefault(); window.open('/slika_gora/ledena_jama_na_stojni/4011');"><img class="slikagm" alt="Ledena jama na Stojni" src="//www.hribi.net/slike1/P22803621836.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_marjeta_prezganje/13098" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marjeta_prezganje/13098');"><img class="slikagm" alt="Sveta Marjeta (Prežganje)" src="//www.hribi.net/slike1/DSCN5230218400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ledena_jama_na_stojni/4012" onclick="event.preventDefault(); window.open('/slika_gora/ledena_jama_na_stojni/4012');"><img class="slikagm" alt="Ledena jama na Stojni" src="//www.hribi.net/sliketemp/P228036848806545927633.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_marjeta_prezganje/13099" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marjeta_prezganje/13099');"><img class="slikagm" alt="Sveta Marjeta (Prežganje)" src="//www.hribi.net/slike1/DSCN5232218400.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveta_marjeta_prezganje/13100" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marjeta_prezganje/13100');"><img class="slikagm" alt="Sveta Marjeta (Prežganje)" src="//www.hribi.net/slike1/DSCN5235218400.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveta_marjeta_prezganje/13106" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marjeta_prezganje/13106');"><img class="slikagm" alt="Sveta Marjeta (Prežganje)" src="//www.hribi.net/slike1/DSCN5208205800.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveta_marjeta_prezganje/13107" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marjeta_prezganje/13107');"><img class="slikagm" alt="Sveta Marjeta (Prežganje)" src="//www.hribi.net/slike1/DSCN5216205800.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveta_marjeta_prezganje/13108" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marjeta_prezganje/13108');"><img class="slikagm" alt="Sveta Marjeta (Prežganje)" src="//www.hribi.net/slike1/DSCN5225205800.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveta_marjeta_prezganje/13109" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marjeta_prezganje/13109');"><img class="slikagm" alt="Sveta Marjeta (Prežganje)" src="//www.hribi.net/slike1/DSCN518636960.th.jpg" /></a>
     
 </div>
 
@@ -912,7 +922,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1194&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2427&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,7 +932,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kocevje_ledena_jama_na_stojni_kalanova_pot/25/1194/1991">Kočevje - Ledena jama na Stojni (Kalanova pot)</a></td><td class="tdG"><a href="/izlet/kocevje_ledena_jama_na_stojni_kalanova_pot/25/1194/1991">1 h 45 min</a></td><td class="tdG"><a href="/izlet/kocevje_ledena_jama_na_stojni_kalanova_pot/25/1194/1991">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/veliko_trebeljevo_sveta_marjeta_prezganje/25/2427/5087">Veliko Trebeljevo - Sveta Marjeta (Prežganje)</a></td><td class="tdG"><a href="/izlet/veliko_trebeljevo_sveta_marjeta_prezganje/25/2427/5087"> 40 min</a></td><td class="tdG"><a href="/izlet/veliko_trebeljevo_sveta_marjeta_prezganje/25/2427/5087">lahka označena pot</a></td></tr>
 
 </table>
 

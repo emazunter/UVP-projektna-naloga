@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Prestreljeniško okno</title>
-        <meta name="description" content="Natančen opis gore Prestreljeniško okno in vseh pristopov na Prestreljeniško okno. Prestreljeniško okno, tudi okno v Prestreljeniku, je naravno okno, ki se nahaja ." />
+        <title>Bivak Tarvisio</title>
+        <meta name="description" content="Natančen opis bivaka Bivak Tarvisio in vseh pristopov na Bivak Tarvisio. Italijanski bivak na sedlu med Malim Koritniškim Mangartom in V koncu špico.." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2848?gorovjeid=1&amp;id=2848" id="form1">
+    <form method="post" action="./2895?gorovjeid=1&amp;id=2895" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/prestreljenisko_okno/1/2848"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=2848"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bivak_tarvisio/1/2895"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=2895"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Prestreljeniško okno
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Bivak Tarvisio
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2848);
+    gorast(2895);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Prestreljeniško okno</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bivak Tarvisio</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,109 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2391&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2150&nbsp;m</div>
     
-        <script>
-            var kfi = 1;
-            function koordinateFormat() {
-                if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,6672'N&nbsp;/&nbsp;13°&nbsp;28,1934'E";
-                        kfi = 2;
-                    }
-                    else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;40,03''N&nbsp;/&nbsp;13°&nbsp;28'&nbsp;11,60''E";
-                        kfi = 3;
-                    }
-                    else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.36112°N&nbsp;/&nbsp;13.46989°E";
-                    kfi = 4;
-                }
-                else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,36112°N,&nbsp;13,46989°E";
-                        kfi = 1;
-                    }
-    }
-
-            function kopiraj() {
-                var tempInput = document.createElement("textarea");
-                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
-                document.body.appendChild(tempInput);
-                tempInput.select();
-                tempInput.setSelectionRange(0, 99999);
-                document.execCommand("copy");
-                document.body.removeChild(tempInput);
-                tooltip("Kopirano v odložišče...");
-
-            }
-
-    
-</script>
-        
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,36112°N&nbsp;13,46989°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/prestreljenisko_okno/2848"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
-    
-    <div class="g2"><b>Vrsta:</b> </div>
-  
-        <div class="g2"><b>Vremenska napoved:</b></div>
-        <div class="g2">
-<table><tr>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Prestreljeniško okno - Petek" href="/vreme_gora/prestreljenisko_okno/1/2848#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Prestreljeniško okno - Sobota" href="/vreme_gora/prestreljenisko_okno/1/2848#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Prestreljeniško okno - Nedelja" href="/vreme_gora/prestreljenisko_okno/1/2848#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Prestreljeniško okno - Ponedeljek" href="/vreme_gora/prestreljenisko_okno/1/2848#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Prestreljeniško okno - Torek" href="/vreme_gora/prestreljenisko_okno/1/2848#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    </tr></table>
-        </div>
+    <div class="g2"><b>Vrsta:</b> bivak, sedlo</div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 24.010</div>
-<div class="g2"><b>Priljubljenost:</b> 40%&nbsp;(1986.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Ogledov:</b> 2.759</div>
+<div class="g2"><b>Priljubljenost:</b> 30%&nbsp;(2295.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">0</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2848" title="Število vpisov v vpisni knjigi">2</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Prestreljeniško okno, tudi okno v Prestreljeniku, je naravno okno, ki se nahaja nad smučiščem Kanin. Okno je veliko 10 m x 7,5 m, od njega pa se odpre lep pogled tako na slovensko kot italijansko stran.<br>Legenda o nastanku Prestreljeniškega okna.<br>Sveta Marija in Hudič sta se odpravljala proti Sveti gori. Hudič je ubral pot, ki se mu je zdela krajša. Stavila sta, kdo bo prvi na cilju. Hudič je na Kaninu naletel na previsoko steno Prestreljenika. Silovito je treščil vanjo in v steni naredil ogromno luknjo nato pa nadaljeval pot čez Stol, Mijo in Matajur. Ko je prispel na cilj, je bila Marija že zdavnaj tam.</div>
+<div style="padding-top:10px;"><b>Opis bivaka:</b><br />Italijanski bivak na sedlu med Malim Koritniškim Mangartom in V koncu špico.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +704,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2848&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2895&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -797,71 +713,17 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><b>Gore v okolici</b>
-<select onchange="radiusf(this.value,1);">
-<option value="0,5">0,5</option>
-<option value="1">1</option>
-<option value="1,5">1,5</option>
-<option selected value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-<option value="6">6</option>
-<option value="8">8</option>
-<option value="10">10</option>
-<option value="15">15</option>
-<option value="20">20</option>
-<option value="30">30</option>
-</select> <b>km:</b><br />
-</div>
-<div id="radiusseznam1">
-<a class="moder" href="/gora/bela_pec_monte_bila_pec/1/1374">Bela peč/Monte Bila pec (2146m)</a>, <a class="moder" href="/gora/dom_petra_skalarja_na_kaninu/1/328">Dom Petra Skalarja na Kaninu (2260m)</a>, <a class="moder" href="/gora/konjc/1/422">Konjc (2289m)</a>, <a class="moder" href="/gora/prestreljenik/1/35">Prestreljenik (2499m)</a>, <a class="moder" href="/gora/rifugio_gilberti/1/1036">Rifugio Gilberti (1850m)</a>, <a class="moder" href="/gora/vrh_osojnic/1/3139">Vrh Osojnic (2371m)</a>
-</div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_tarvisio%2f1%2f2895"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_tarvisio%2f1%2f2895"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_tarvisio%2f1%2f2895"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
-<select onchange="radiusf(this.value,2);">
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="5">5</option>
-<option value="7">7</option>
-<option value="10">10</option>
-<option selected value="15">15</option>
-<option value="20">20</option>
-<option value="25">25</option>
-<option value="30">30</option>
-<option value="35">35</option>
-<option value="40">40</option>
-<option value="50">50</option>
-<option value="60">60</option>
-</select> <b>km:</b><br></div>
-<div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kanin/3">Kanin</a>, <a class="moder" href="/spletna_kamera/kanin_graben/4412">Kanin (Graben)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/montaz___jof_di_montasio/22">Montaž / Jôf di Montasio</a>, <a class="moder" href="/spletna_kamera/nevejski_preval_-_na_zlebeh___sella_nevea/1977">Nevejski preval - Na Žlebeh / Sella Nevea</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/prevala/1361">Prevala</a>, <a class="moder" href="/spletna_kamera/rezija_val_resia/483">Rezija/Val Resia</a>, <a class="moder" href="/spletna_kamera/rifugio_gilberti/4020">Rifugio Gilberti</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/stol_kobariski/1881">Stol (Kobariški)</a>, <a class="moder" href="/spletna_kamera/svete_visarje/781">Svete Višarje</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/ucja/1679">Učja</a>, <a class="moder" href="/spletna_kamera/veliki_babanski_skedenj/1464">Veliki Babanski skedenj</a>
-</div>
-
-
-
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fprestreljenisko_okno%2f1%2f2848"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fprestreljenisko_okno%2f1%2f2848"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fprestreljenisko_okno%2f1%2f2848"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
-
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/prestreljenisko_okno/2848" title="Prestreljeniško okno 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.74229479559okno_v_prestreljeniku3.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/prestreljenisko_okno/16471" onclick="event.preventDefault(); window.open('/slika_gora/prestreljenisko_okno/16471');"><img class="slikagm" alt="Prestreljeniško okno" src="//www.hribi.net/slike11/P101002068636174.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bivak_tarvisio/16686" onclick="event.preventDefault(); window.open('/slika_gora/bivak_tarvisio/16686');"><img class="slikagm" alt="Bivak Tarvisio" src="//slike.hribi.net/slike8/2_9582926DSC_0519.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/prestreljenisko_okno/16472" onclick="event.preventDefault(); window.open('/slika_gora/prestreljenisko_okno/16472');"><img class="slikagm" alt="Prestreljeniško okno" src="//www.hribi.net/slike11/P1010015999636174.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bivak_tarvisio/16687" onclick="event.preventDefault(); window.open('/slika_gora/bivak_tarvisio/16687');"><img class="slikagm" alt="Bivak Tarvisio" src="//slike.hribi.net/slike8/2_9582927DSC_0514.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/prestreljenisko_okno/16473" onclick="event.preventDefault(); window.open('/slika_gora/prestreljenisko_okno/16473');"><img class="slikagm" alt="Prestreljeniško okno" src="//www.hribi.net/slike11/P1010013453636174.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/prestreljenisko_okno/16474" onclick="event.preventDefault(); window.open('/slika_gora/prestreljenisko_okno/16474');"><img class="slikagm" alt="Prestreljeniško okno" src="//www.hribi.net/slike11/P1010009560636174.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/prestreljenisko_okno/16475" onclick="event.preventDefault(); window.open('/slika_gora/prestreljenisko_okno/16475');"><img class="slikagm" alt="Prestreljeniško okno" src="//www.hribi.net/slike11/P10100231031696464.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/prestreljenisko_okno/16476" onclick="event.preventDefault(); window.open('/slika_gora/prestreljenisko_okno/16476');"><img class="slikagm" alt="Prestreljeniško okno" src="//www.hribi.net/slike11/P10100325501696464.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/prestreljenisko_okno/18635" onclick="event.preventDefault(); window.open('/slika_gora/prestreljenisko_okno/18635');"><img class="slikagm" alt="Prestreljeniško okno" src="//www.hribi.net/Pot/p7260633mediumlh4.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bivak_tarvisio/16688" onclick="event.preventDefault(); window.open('/slika_gora/bivak_tarvisio/16688');"><img class="slikagm" alt="Bivak Tarvisio" src="//slike.hribi.net/slike8/2_9582928DSC_0496.JPG" /></a>
     
 </div>
 
@@ -925,7 +787,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2848&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2895&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -934,12 +796,6 @@ var sortT = 0;
     </script>
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/d_postaja_prestreljenisko_okno/1/2848/7459">D postaja - Prestreljeniško okno</a></td><td class="tdG"><a href="/izlet/d_postaja_prestreljenisko_okno/1/2848/7459"> 35 min</a></td><td class="tdG"><a href="/izlet/d_postaja_prestreljenisko_okno/1/2848/7459">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/krizisce_nad_b_postajo_prestreljenisko_okno_ferata/1/2848/6609">Križišče nad B postajo - Prestreljeniško okno (Ferata)</a></td><td class="tdG"><a href="/izlet/krizisce_nad_b_postajo_prestreljenisko_okno_ferata/1/2848/6609">4 h 45 min</a></td><td class="tdG"><a href="/izlet/krizisce_nad_b_postajo_prestreljenisko_okno_ferata/1/2848/6609">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/krizisce_nad_b_postajo_prestreljenisko_okno/1/2848/6632">Križišče nad B postajo - Prestreljeniško okno</a></td><td class="tdG"><a href="/izlet/krizisce_nad_b_postajo_prestreljenisko_okno/1/2848/6632">4 h 30 min</a></td><td class="tdG"><a href="/izlet/krizisce_nad_b_postajo_prestreljenisko_okno/1/2848/6632">zahtevna označena pot</a></td></tr>
 
 </table>
 

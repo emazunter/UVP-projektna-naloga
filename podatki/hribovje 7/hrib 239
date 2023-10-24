@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Dom pod Reško planino</title>
-        <meta name="description" content="Natančen opis koče Dom pod Reško planino in vseh pristopov na Dom pod Reško planino. Dom se nahaja na južnih pobočjih 925m visoke Reške planine. Od doma je razgled o." />
+        <title>Izvir Krke</title>
+        <meta name="description" content="Natančen opis gore Izvir Krke in vseh pristopov na Izvir Krke. Izvir reke Krke se nahaja severozahodno od naselja Krka v občini Ivančna Gorica.." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./852?gorovjeid=25&amp;id=852" id="form1">
+    <form method="post" action="./2732?gorovjeid=25&amp;id=2732" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_pod_resko_planino/25/852"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=852"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/source_of_krka/25/2732"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2732"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Dom pod Reško planino
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Izvir Krke
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(852);
+    gorast(2732);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Dom pod Reško planino</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Izvir Krke</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 664&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 272&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;12,3762'N&nbsp;/&nbsp;15°&nbsp;3,8466'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;53,3820'N&nbsp;/&nbsp;14°&nbsp;46,2840'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;12'&nbsp;22,57''N&nbsp;/&nbsp;15°&nbsp;3'&nbsp;50,80''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;53'&nbsp;22,92''N&nbsp;/&nbsp;14°&nbsp;46'&nbsp;17,04''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.20627°N&nbsp;/&nbsp;15.06411°E";
+                        document.getElementById("kf0").innerHTML = "45.8897°N&nbsp;/&nbsp;14.7714°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,20627°N,&nbsp;15,06411°E";
+                    document.getElementById("kf0").innerHTML = "45,8897°N,&nbsp;14,7714°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,20627°N&nbsp;15,06411°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_pod_resko_planino/852"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,8897°N&nbsp;14,7714°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/izvir_krke/2732"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Izvir Krke - Torek" href="/vreme_gora/izvir_krke/25/2732#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Izvir Krke - Sreda" href="/vreme_gora/izvir_krke/25/2732#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Izvir Krke - Četrtek" href="/vreme_gora/izvir_krke/25/2732#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom pod Reško planino - Petek" href="/vreme_gora/dom_pod_resko_planino/25/852#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Izvir Krke - Petek" href="/vreme_gora/izvir_krke/25/2732#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom pod Reško planino - Sobota" href="/vreme_gora/dom_pod_resko_planino/25/852#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom pod Reško planino - Nedelja" href="/vreme_gora/dom_pod_resko_planino/25/852#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom pod Reško planino - Ponedeljek" href="/vreme_gora/dom_pod_resko_planino/25/852#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Dom pod Reško planino - Torek" href="/vreme_gora/dom_pod_resko_planino/25/852#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Izvir Krke - Sobota" href="/vreme_gora/izvir_krke/25/2732#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 338.142</div>
-<div class="g2"><b>Priljubljenost:</b> 74%&nbsp;(867.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 8.940</div>
+<div class="g2"><b>Priljubljenost:</b> 37%&nbsp;(2059.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2732" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Dom se nahaja na južnih pobočjih 925m visoke Reške planine. Od doma je razgled omejen le na bližnje hribovje, saj razgled proti severu, zakriva bližnja Reška planina. Le malo stran od koče, pa se nahaja cerkev svete Marije, od katere vodi pot na Reško planino.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Izvir reke Krke se nahaja severozahodno od naselja Krka v občini Ivančna Gorica. Voda na površje priteče ob umetnem vzhodu v Krško jamo, ob visokih vodah pa je omenjeni vhod poplavljen, takrat je tudi Krška jama nedostopna. Krka se po 94 km, pri Brežicah  izlije v reko Savo.<br>Krška jama, ki se nahaja v neposredni bližini izvira reke Krke, pa je dolga 200 m in široka do 30 metrov. Vstopnina za ogled jame je 3 eur za odrasle in 2 eur za otroke (podatek iz leta 2016), urnik odprtja pa je objavljen ob vhodu v jamo in na spletni strani TD Krka.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=852&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2732&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/adijev_bivak_na_reski_planini/25/3653">Adijev bivak na Reški planini (910m)</a>, <a class="moder" href="/gora/reska_planina/25/853">Reška planina (925m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,29 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/celje_letno_kopalisce/361">Celje (letno kopališče)</a>, <a class="moder" href="/spletna_kamera/grize/310">Griže</a>, <a class="moder" href="/spletna_kamera/kum/2952">Kum</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/marno/381">Marno</a>, <a class="moder" href="/spletna_kamera/medlog/1164">Medlog</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/mrzlica/1360">Mrzlica</a>, <a class="moder" href="/spletna_kamera/petrovce/308">Petrovče</a>, <a class="moder" href="/spletna_kamera/sentrupert/379">Šentrupert</a>, <a class="moder" href="/spletna_kamera/sveta_planina_partizanski_vrh/3429">Sveta planina (Partizanski vrh)</a>, <a class="moder" href="/spletna_kamera/trbovlje/317">Trbovlje</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>, <a class="moder" href="/spletna_kamera/vransko/359">Vransko</a>, <a class="moder" href="/spletna_kamera/zalec/4074">Žalec</a>
+<a class="moder" href="/spletna_kamera/dob/433">Dob</a>, <a class="moder" href="/spletna_kamera/gorenje_podpoljane/1449">Gorenje Podpoljane</a>, <a class="moder" href="/spletna_kamera/grosuplje/303">Grosuplje</a>, <a class="moder" href="/spletna_kamera/grosuplje/1964">Grosuplje</a>, <a class="moder" href="/spletna_kamera/male_rebrce/3042">Male Rebrce</a>, <a class="moder" href="/spletna_kamera/pluska/435">Pluska</a>, <a class="moder" href="/spletna_kamera/visnja_gora/429">Višnja Gora</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_pod_resko_planino%2f25%2f852"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_pod_resko_planino%2f25%2f852"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_pod_resko_planino%2f25%2f852"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fizvir_krke%2f25%2f2732"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fizvir_krke%2f25%2f2732"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fizvir_krke%2f25%2f2732"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/dom_pod_resko_planino/852" title="Dom pod Reško planino 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.DompodReskoPl..jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/dom_pod_resko_planino/2796" onclick="event.preventDefault(); window.open('/slika_gora/dom_pod_resko_planino/2796');"><img class="slikagm" alt="Dom pod Reško planino" src="//www.hribi.net/slike1/P3090109140400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/izvir_krke/15354" onclick="event.preventDefault(); window.open('/slika_gora/izvir_krke/15354');"><img class="slikagm" alt="Izvir Krke" src="//slike.hribi.net/slike4/2_0441534931319_DSCN1821.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_pod_resko_planino/2797" onclick="event.preventDefault(); window.open('/slika_gora/dom_pod_resko_planino/2797');"><img class="slikagm" alt="Dom pod Reško planino" src="//www.hribi.net/slike1/P3090119140400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/izvir_krke/15355" onclick="event.preventDefault(); window.open('/slika_gora/izvir_krke/15355');"><img class="slikagm" alt="Izvir Krke" src="//slike.hribi.net/slike4/2_0672534931345_DSCN1819.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_pod_resko_planino/19810" onclick="event.preventDefault(); window.open('/slika_gora/dom_pod_resko_planino/19810');"><img class="slikagm" alt="Dom pod Reško planino" src="//slike.hribi.net/slike4/2_1955658227598_DSCN0968.JPG" /></a>
+        <a target="_blank" href="/slika_gora/izvir_krke/15356" onclick="event.preventDefault(); window.open('/slika_gora/izvir_krke/15356');"><img class="slikagm" alt="Izvir Krke" src="//slike.hribi.net/slike4/2_0436534931401_DSCN1839.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_pod_resko_planino/19811" onclick="event.preventDefault(); window.open('/slika_gora/dom_pod_resko_planino/19811');"><img class="slikagm" alt="Dom pod Reško planino" src="//slike.hribi.net/slike4/2_5287658675799_DSCN0962.JPG" /></a>
+        <a target="_blank" href="/slika_gora/izvir_krke/15357" onclick="event.preventDefault(); window.open('/slika_gora/izvir_krke/15357');"><img class="slikagm" alt="Izvir Krke" src="//slike.hribi.net/slike4/2_0363534931371_DSCN1828.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/dom_pod_resko_planino/19812" onclick="event.preventDefault(); window.open('/slika_gora/dom_pod_resko_planino/19812');"><img class="slikagm" alt="Dom pod Reško planino" src="//slike.hribi.net/slike4/2_0730658227596_DSCN0945.JPG" /></a>
+        <a target="_blank" href="/slika_gora/izvir_krke/15358" onclick="event.preventDefault(); window.open('/slika_gora/izvir_krke/15358');"><img class="slikagm" alt="Izvir Krke" src="//www.hribi.net/slike1/DSCN18451378080.th.jpg" /></a>
     
 </div>
 
@@ -921,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=852&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2732&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,13 +928,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/prebold_dom_pod_resko_planino/25/852/1502">Prebold - Dom pod Reško planino</a></td><td class="tdG"><a href="/izlet/prebold_dom_pod_resko_planino/25/852/1502">2 h 15 min</a></td><td class="tdG"><a href="/izlet/prebold_dom_pod_resko_planino/25/852/1502">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/muljava_izvir_krke/25/2732/6201">Muljava - Izvir Krke</a></td><td class="tdG"><a href="/izlet/muljava_izvir_krke/25/2732/6201"> 50 min</a></td><td class="tdG"><a href="/izlet/muljava_izvir_krke/25/2732/6201">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/marija_reka_strgar_dom_pod_resko_planino/25/852/3664">Marija Reka (Strgar) - Dom pod Reško planino</a></td><td class="tdG"><a href="/izlet/marija_reka_strgar_dom_pod_resko_planino/25/852/3664">1 h</a></td><td class="tdG"><a href="/izlet/marija_reka_strgar_dom_pod_resko_planino/25/852/3664">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trbovcek_dom_pod_resko_planino/25/852/1501">Trbovček - Dom pod Reško planino</a></td><td class="tdG"><a href="/izlet/trbovcek_dom_pod_resko_planino/25/852/1501">2 h 15 min</a></td><td class="tdG"><a href="/izlet/trbovcek_dom_pod_resko_planino/25/852/1501">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podmeja_dom_pod_resko_planino/25/852/7935">Podmeja - Dom pod Reško planino</a></td><td class="tdG"><a href="/izlet/podmeja_dom_pod_resko_planino/25/852/7935">1 h 35 min</a></td><td class="tdG"><a href="/izlet/podmeja_dom_pod_resko_planino/25/852/7935">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/izvir_poltarice_izvir_krke/25/2732/6202">Izvir Poltarice - Izvir Krke</a></td><td class="tdG"><a href="/izlet/izvir_poltarice_izvir_krke/25/2732/6202"> 10 min</a></td><td class="tdG"><a href="/izlet/izvir_poltarice_izvir_krke/25/2732/6202">lahka označena pot</a></td></tr>
 
 </table>
 

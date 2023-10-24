@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kamenek</title>
-        <meta name="description" content="Natančen opis gore Kamenek in vseh pristopov na Kamenek. Kamenek je 392 metrov visok vrh, ki se nahaja nekaj metrov z markirane poti Gorn." />
+        <title>Grad Grad na Goričkem</title>
+        <meta name="description" content="Natančen opis gore Grad Grad na Goričkem in vseh pristopov na Grad Grad na Goričkem. Grad Grad na Goričkem je eden največjih gradov na Slovenskem. Grad, ki je prvič ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3421?gorovjeid=163&amp;id=3421" id="form1">
+    <form method="post" action="./1635?gorovjeid=163&amp;id=1635" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kamenek/163/3421"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3421"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/grad_castle_in_goricko/163/1635"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=1635"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Kamenek
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Grad Grad na Goričkem
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3421);
+    gorast(1635);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kamenek</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Grad Grad na Goričkem</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a></div>
-    <div class="g2"><b>Višina:</b> 392&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 370&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;46,5114'N&nbsp;/&nbsp;16°&nbsp;12,1734'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;48,0120'N&nbsp;/&nbsp;16°&nbsp;5,7540'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;46'&nbsp;30,68''N&nbsp;/&nbsp;16°&nbsp;12'&nbsp;10,40''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;48'&nbsp;0,72''N&nbsp;/&nbsp;16°&nbsp;5'&nbsp;45,24''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.77519°N&nbsp;/&nbsp;16.20289°E";
+                        document.getElementById("kf0").innerHTML = "46.8002°N&nbsp;/&nbsp;16.0959°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,77519°N,&nbsp;16,20289°E";
+                    document.getElementById("kf0").innerHTML = "46,8002°N,&nbsp;16,0959°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,77519°N&nbsp;16,20289°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kamenek/3421"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,8002°N&nbsp;16,0959°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/grad_grad_na_gorickem/1635"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Grad na Goričkem - Torek" href="/vreme_gora/grad_grad_na_gorickem/163/1635#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Grad na Goričkem - Sreda" href="/vreme_gora/grad_grad_na_gorickem/163/1635#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Grad na Goričkem - Četrtek" href="/vreme_gora/grad_grad_na_gorickem/163/1635#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kamenek - Petek" href="/vreme_gora/kamenek/163/3421#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Grad na Goričkem - Petek" href="/vreme_gora/grad_grad_na_gorickem/163/1635#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kamenek - Sobota" href="/vreme_gora/kamenek/163/3421#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kamenek - Nedelja" href="/vreme_gora/kamenek/163/3421#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kamenek - Ponedeljek" href="/vreme_gora/kamenek/163/3421#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kamenek - Torek" href="/vreme_gora/kamenek/163/3421#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Grad na Goričkem - Sobota" href="/vreme_gora/grad_grad_na_gorickem/163/1635#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 438</div>
-<div class="g2"><b>Priljubljenost:</b> 15%&nbsp;(2803.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 184.275</div>
+<div class="g2"><b>Priljubljenost:</b> 56%&nbsp;(1448.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kamenek je 392 metrov visok vrh, ki se nahaja nekaj metrov z markirane poti Gornji Petrovci - Kančevci. Na vrhu, ki se nahaja sredi njive stoji trigonometrični stolp. Zaradi njive dostop povsem do stolpa ni možen.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Grad Grad na Goričkem je eden največjih gradov na Slovenskem. Grad, ki je prvič omenjen leta 1208 je bil dobro hranjen vse do začetka 20. stoletja, nato pa je po 2. svetovni vojni začel hitro propadati. Danes s pomočjo sredstev programa Phare grad obnavljajo, v njem pa so že obnovili nekaj dvoran.<br>Vstopnina za ogled gradu zanaša 2,5 € za odrasle, oz. 1,5 € za mladoletnike in študente (podatki o vstopnini so iz oktobra 2010).</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3421&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1635&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/kacova_mlaka/163/3396">Kačova mlaka (265m)</a>, <a class="moder" href="/gora/kripta/163/3367">Kripta (331m)</a>, <a class="moder" href="/gora/pepelscek/163/3404">Pepelšček (386m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,28 +835,34 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/cepinci/1951">Čepinci</a>, <a class="moder" href="/spletna_kamera/hodos/1070">Hodoš</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/murska_sobota/1044">Murska Sobota</a>, <a class="moder" href="/spletna_kamera/prosenjakovci/1949">Prosenjakovci</a>, <a class="moder" href="/spletna_kamera/sotinski_breg_kugla/2170">Sotinski breg (Kugla)</a>
+<a class="moder" href="/spletna_kamera/cepinci/1951">Čepinci</a>, <a class="moder" href="/spletna_kamera/gederovci/1846">Gederovci</a>, <a class="moder" href="/spletna_kamera/klochberg/2512">Klöchberg</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/sotinski_breg_kugla/2170">Sotinski breg (Kugla)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkamenek%2f163%2f3421"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkamenek%2f163%2f3421"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkamenek%2f163%2f3421"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_grad_na_gorickem%2f163%2f1635"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_grad_na_gorickem%2f163%2f1635"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_grad_na_gorickem%2f163%2f1635"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kamenek/20384" onclick="event.preventDefault(); window.open('/slika_gora/kamenek/20384');"><img class="slikagm" alt="Kamenek" src="//slike2.hribi.net/slike14/2_221680968637_2dscn2550.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_grad_na_gorickem/7002" onclick="event.preventDefault(); window.open('/slika_gora/grad_grad_na_gorickem/7002');"><img class="slikagm" alt="Grad Grad na Goričkem" src="//www.hribi.net/slike1/Prekmurje2010 3621601600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamenek/20385" onclick="event.preventDefault(); window.open('/slika_gora/kamenek/20385');"><img class="slikagm" alt="Kamenek" src="//slike2.hribi.net/slike14/2_7128681134827_7dscn2548.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_grad_na_gorickem/7003" onclick="event.preventDefault(); window.open('/slika_gora/grad_grad_na_gorickem/7003');"><img class="slikagm" alt="Grad Grad na Goričkem" src="//www.hribi.net/slike1/Prekmurje2010 3531601600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamenek/20386" onclick="event.preventDefault(); window.open('/slika_gora/kamenek/20386');"><img class="slikagm" alt="Kamenek" src="//slike2.hribi.net/slike14/2_5845681134826_5dscn2543.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_grad_na_gorickem/7004" onclick="event.preventDefault(); window.open('/slika_gora/grad_grad_na_gorickem/7004');"><img class="slikagm" alt="Grad Grad na Goričkem" src="//www.hribi.net/slike1/Prekmurje2010 3511601600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamenek/20387" onclick="event.preventDefault(); window.open('/slika_gora/kamenek/20387');"><img class="slikagm" alt="Kamenek" src="//slike2.hribi.net/slike14/2_3926680968638_3dscn2551.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_grad_na_gorickem/7005" onclick="event.preventDefault(); window.open('/slika_gora/grad_grad_na_gorickem/7005');"><img class="slikagm" alt="Grad Grad na Goričkem" src="//www.hribi.net/slike1/Prekmurje2010 3501601600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamenek/20732" onclick="event.preventDefault(); window.open('/slika_gora/kamenek/20732');"><img class="slikagm" alt="Kamenek" src="//slike2.hribi.net/slike14/2_079696941128_0dscn1596.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_grad_na_gorickem/7006" onclick="event.preventDefault(); window.open('/slika_gora/grad_grad_na_gorickem/7006');"><img class="slikagm" alt="Grad Grad na Goričkem" src="//www.hribi.net/slike1/Prekmurje2010 3491601600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kamenek/20733" onclick="event.preventDefault(); window.open('/slika_gora/kamenek/20733');"><img class="slikagm" alt="Kamenek" src="//slike2.hribi.net/slike14/2_7125698590411_7dscn1595.jpg" /></a>
+        <a target="_blank" href="/slika_gora/grad_grad_na_gorickem/7007" onclick="event.preventDefault(); window.open('/slika_gora/grad_grad_na_gorickem/7007');"><img class="slikagm" alt="Grad Grad na Goričkem" src="//www.hribi.net/slike1/Prekmurje2010 3451601600.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/grad_grad_na_gorickem/7008" onclick="event.preventDefault(); window.open('/slika_gora/grad_grad_na_gorickem/7008');"><img class="slikagm" alt="Grad Grad na Goričkem" src="//www.hribi.net/slike1/Prekmurje2010 3441601600.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/grad_grad_na_gorickem/7009" onclick="event.preventDefault(); window.open('/slika_gora/grad_grad_na_gorickem/7009');"><img class="slikagm" alt="Grad Grad na Goričkem" src="//www.hribi.net/slike1/Prekmurje2010 3431573000.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/grad_grad_na_gorickem/7010" onclick="event.preventDefault(); window.open('/slika_gora/grad_grad_na_gorickem/7010');"><img class="slikagm" alt="Grad Grad na Goričkem" src="//www.hribi.net/slike1/Prekmurje2010 3641601600.th.jpg" /></a>
     
 </div>
 
@@ -920,7 +926,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3421&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1635&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -930,9 +936,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lovski_dom_ld_krizevci_v_prekmurju_kamenek/163/3421/8225">Lovski dom LD Križevci v Prekmurju - Kamenek</a></td><td class="tdG"><a href="/izlet/lovski_dom_ld_krizevci_v_prekmurju_kamenek/163/3421/8225"> 30 min</a></td><td class="tdG"><a href="/izlet/lovski_dom_ld_krizevci_v_prekmurju_kamenek/163/3421/8225">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grad_grad_grad_na_gorickem/163/1635/2899">Grad - Grad Grad na Goričkem</a></td><td class="tdG"><a href="/izlet/grad_grad_grad_na_gorickem/163/1635/2899"> 15 min</a></td><td class="tdG"><a href="/izlet/grad_grad_grad_na_gorickem/163/1635/2899">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gornji_petrovci_dol_kamenek/163/3421/8433">Gornji Petrovci (Dol) - Kamenek</a></td><td class="tdG"><a href="/izlet/gornji_petrovci_dol_kamenek/163/3421/8433">1 h 50 min</a></td><td class="tdG"><a href="/izlet/gornji_petrovci_dol_kamenek/163/3421/8433">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/grad_grad_grad_na_gorickem_cez_kripto/163/1635/8142">Grad - Grad Grad na Goričkem (čez Kripto)</a></td><td class="tdG"><a href="/izlet/grad_grad_grad_na_gorickem_cez_kripto/163/1635/8142"> 55 min</a></td><td class="tdG"><a href="/izlet/grad_grad_grad_na_gorickem_cez_kripto/163/1635/8142">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/sveti_jurij_grad_grad_na_gorickem/163/1635/8115">Sveti Jurij - Grad Grad na Goričkem</a></td><td class="tdG"><a href="/izlet/sveti_jurij_grad_grad_na_gorickem/163/1635/8115">2 h 20 min</a></td><td class="tdG"><a href="/izlet/sveti_jurij_grad_grad_na_gorickem/163/1635/8115">lahka označena pot</a></td></tr>
 
 </table>
 

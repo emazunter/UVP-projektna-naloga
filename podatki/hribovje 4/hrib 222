@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Žingarica / Singerberg</title>
-        <meta name="description" content="Natančen opis gore Žingarica / Singerberg in vseh pristopov na Žingarica / Singerberg. Žingarica / Singerberg je vrh, ki se nahaja na avstrijski strani Karavank nad va." />
+        <title>Virnikova planina</title>
+        <meta name="description" content="Natančen opis planine Virnikova planina in vseh pristopov na Virnikova planina. Virnikova planina se nahaja na zahodnih pobočjih Virnikovega Grintovca. Od leta ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./760?gorovjeid=11&amp;id=760" id="form1">
+    <form method="post" action="./3221?gorovjeid=11&amp;id=3221" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/singerberg___zingarica/11/760"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=760"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/virnikova_planina/11/3221"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=3221"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Žingarica / Singerberg
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Virnikova planina
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(760);
+    gorast(3221);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Žingarica / Singerberg</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Virnikova planina</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1589&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1160&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,0324'N&nbsp;/&nbsp;14°&nbsp;15,5088'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,8640'N&nbsp;/&nbsp;14°&nbsp;28,0860'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;1,94''N&nbsp;/&nbsp;14°&nbsp;15'&nbsp;30,53''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;51,84''N&nbsp;/&nbsp;14°&nbsp;28'&nbsp;5,16''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.50054°N&nbsp;/&nbsp;14.25848°E";
+                        document.getElementById("kf0").innerHTML = "46.4144°N&nbsp;/&nbsp;14.4681°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,50054°N,&nbsp;14,25848°E";
+                    document.getElementById("kf0").innerHTML = "46,4144°N,&nbsp;14,4681°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,50054°N&nbsp;14,25848°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zingarica___singerberg/760"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4144°N&nbsp;14,4681°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/virnikova_planina/3221"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Virnikova planina - Torek" href="/vreme_gora/virnikova_planina/11/3221#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Virnikova planina - Sreda" href="/vreme_gora/virnikova_planina/11/3221#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Virnikova planina - Četrtek" href="/vreme_gora/virnikova_planina/11/3221#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Žingarica / Singerberg - Petek" href="/vreme_gora/zingarica___singerberg/11/760#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Virnikova planina - Petek" href="/vreme_gora/virnikova_planina/11/3221#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Žingarica / Singerberg - Sobota" href="/vreme_gora/zingarica___singerberg/11/760#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Žingarica / Singerberg - Nedelja" href="/vreme_gora/zingarica___singerberg/11/760#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Žingarica / Singerberg - Ponedeljek" href="/vreme_gora/zingarica___singerberg/11/760#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Žingarica / Singerberg - Torek" href="/vreme_gora/zingarica___singerberg/11/760#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Virnikova planina - Sobota" href="/vreme_gora/virnikova_planina/11/3221#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 237.737</div>
-<div class="g2"><b>Priljubljenost:</b> 62%&nbsp;(1242.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
+<div class="g2"><b>Ogledov:</b> 1.880</div>
+<div class="g2"><b>Priljubljenost:</b> 26%&nbsp;(2425.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Žingarica / Singerberg je vrh, ki se nahaja na avstrijski strani Karavank nad vasjo Slovenji Plajberk / Windisch Bleiberg. Z vrha, ki ga delno prekriva gozd je lep razgled predvsem na severna ostenja osrednjih Karavank.</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Virnikova planina se nahaja na zahodnih pobočjih Virnikovega Grintovca. Od leta 2013 je na planini urejen učni center GRZS, katerega so preuredili iz nekdanje stražarnice JLA. S planine se nam odpre lep pogled na bližnje Robniške peči in okoliške gozdove.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=760&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3221&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/soteska_cepa_tscheppaschlucht/11/1271">Soteska Čepa/Tscheppaschlucht (750m)</a>
+<a class="moder" href="/gora/lovska_koca_stanic/11/525">Lovska koča Stanič (1280m)</a>, <a class="moder" href="/gora/partizanska_bolnica_krtina/11/1214">Partizanska bolnica Krtina (1040m)</a>, <a class="moder" href="/gora/robniske_peci/11/3222">Robniške peči (1323m)</a>, <a class="moder" href="/gora/virnikov_grintovec/11/314">Virnikov Grintovec (1654m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,37 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/pyramidenkogel_-_worthersee/4893">Pyramidenkogel - Wörthersee</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzingarica___singerberg%2f11%2f760"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzingarica___singerberg%2f11%2f760"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzingarica___singerberg%2f11%2f760"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvirnikova_planina%2f11%2f3221"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvirnikova_planina%2f11%2f3221"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvirnikova_planina%2f11%2f3221"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/zingarica___singerberg/760" title="Žingarica / Singerberg 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Zingarica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/zingarica___singerberg/2560" onclick="event.preventDefault(); window.open('/slika_gora/zingarica___singerberg/2560');"><img class="slikagm" alt="Žingarica / Singerberg" src="//www.hribi.net/slike1/PB2700691309770.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/virnikova_planina/19065" onclick="event.preventDefault(); window.open('/slika_gora/virnikova_planina/19065');"><img class="slikagm" alt="Virnikova planina" src="//slike.hribi.net/slike4/2_0937635755389_DSCN3721.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/zingarica___singerberg/2584" onclick="event.preventDefault(); window.open('/slika_gora/zingarica___singerberg/2584');"><img class="slikagm" alt="Žingarica / Singerberg" src="//www.hribi.net/slike1/PB27004261152.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/virnikova_planina/19066" onclick="event.preventDefault(); window.open('/slika_gora/virnikova_planina/19066');"><img class="slikagm" alt="Virnikova planina" src="//slike.hribi.net/slike4/2_0196635949298_DSCN3727.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/zingarica___singerberg/2585" onclick="event.preventDefault(); window.open('/slika_gora/zingarica___singerberg/2585');"><img class="slikagm" alt="Žingarica / Singerberg" src="//www.hribi.net/slike1/PB27004456784.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/virnikova_planina/19067" onclick="event.preventDefault(); window.open('/slika_gora/virnikova_planina/19067');"><img class="slikagm" alt="Virnikova planina" src="//slike.hribi.net/slike4/2_0659635949281_DSCN3730.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/zingarica___singerberg/7994" onclick="event.preventDefault(); window.open('/slika_gora/zingarica___singerberg/7994');"><img class="slikagm" alt="Žingarica / Singerberg" src="//www.hribi.net/slike1/Rjavca 124675675.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/virnikova_planina/19068" onclick="event.preventDefault(); window.open('/slika_gora/virnikova_planina/19068');"><img class="slikagm" alt="Virnikova planina" src="//slike.hribi.net/slike4/2_0166635949539_DSCN3724.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/zingarica___singerberg/16981" onclick="event.preventDefault(); window.open('/slika_gora/zingarica___singerberg/16981');"><img class="slikagm" alt="Žingarica / Singerberg" src="//slike.hribi.net/slike4/2_0230586614851_DSCN8044.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zingarica___singerberg/16982" onclick="event.preventDefault(); window.open('/slika_gora/zingarica___singerberg/16982');"><img class="slikagm" alt="Žingarica / Singerberg" src="//slike.hribi.net/slike4/2_0598586710886_DSCN8042.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zingarica___singerberg/16983" onclick="event.preventDefault(); window.open('/slika_gora/zingarica___singerberg/16983');"><img class="slikagm" alt="Žingarica / Singerberg" src="//slike.hribi.net/slike4/2_1429586710890_DSCN8043.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zingarica___singerberg/16984" onclick="event.preventDefault(); window.open('/slika_gora/zingarica___singerberg/16984');"><img class="slikagm" alt="Žingarica / Singerberg" src="//slike.hribi.net/slike4/2_2722586710895_DSCN8057.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/zingarica___singerberg/18994" onclick="event.preventDefault(); window.open('/slika_gora/zingarica___singerberg/18994');"><img class="slikagm" alt="Žingarica / Singerberg" src="//slike.hribi.net/slike4/2_1980633968372_DSCN1624.JPG" /></a>
+        <a target="_blank" href="/slika_gora/virnikova_planina/19069" onclick="event.preventDefault(); window.open('/slika_gora/virnikova_planina/19069');"><img class="slikagm" alt="Virnikova planina" src="//slike.hribi.net/slike4/2_1299635949542_DSCN3726.JPG" /></a>
     
 </div>
 
@@ -929,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=760&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3221&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -939,17 +928,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_zingarica___singerberg/11/760/1368">Slovenji Plajberk / Windisch Bleiberg - Žingarica / Singerberg</a></td><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_zingarica___singerberg/11/760/1368">2 h</a></td><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_zingarica___singerberg/11/760/1368">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podljubelj___unterloibl_zingarica___singerberg/11/760/6885">Podljubelj / Unterloibl - Žingarica / Singerberg</a></td><td class="tdG"><a href="/izlet/podljubelj___unterloibl_zingarica___singerberg/11/760/6885">3 h</a></td><td class="tdG"><a href="/izlet/podljubelj___unterloibl_zingarica___singerberg/11/760/6885">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trnje___dornach_zingarica___singerberg/11/760/6886">Trnje / Dornach - Žingarica / Singerberg</a></td><td class="tdG"><a href="/izlet/trnje___dornach_zingarica___singerberg/11/760/6886">3 h 20 min</a></td><td class="tdG"><a href="/izlet/trnje___dornach_zingarica___singerberg/11/760/6886">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_zingarica___singerberg_cez_sedlo_albink___halbingsattel/11/760/7605">Slovenji Plajberk / Windisch Bleiberg - Žingarica / Singerberg (čez sedlo Albink / Halbingsattel)</a></td><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_zingarica___singerberg_cez_sedlo_albink___halbingsattel/11/760/7605">2 h 20 min</a></td><td class="tdG"><a href="/izlet/slovenji_plajberk___windisch_bleiberg_zingarica___singerberg_cez_sedlo_albink___halbingsattel/11/760/7605">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/plajberski_graben___bleiberger_graben_zingarica___singerberg/11/760/7609">Plajberški graben / Bleiberger Graben - Žingarica / Singerberg</a></td><td class="tdG"><a href="/izlet/plajberski_graben___bleiberger_graben_zingarica___singerberg/11/760/7609">2 h 20 min</a></td><td class="tdG"><a href="/izlet/plajberski_graben___bleiberger_graben_zingarica___singerberg/11/760/7609">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bistrica_v_rozu___feistritz_im_rosental_zingarica___singerberg/11/760/7611">Bistrica v Rožu / Feistritz im Rosental - Žingarica / Singerberg</a></td><td class="tdG"><a href="/izlet/bistrica_v_rozu___feistritz_im_rosental_zingarica___singerberg/11/760/7611">3 h 55 min</a></td><td class="tdG"><a href="/izlet/bistrica_v_rozu___feistritz_im_rosental_zingarica___singerberg/11/760/7611">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/smrecje_virnikova_planina/11/3221/7647">Smrečje - Virnikova planina</a></td><td class="tdG"><a href="/izlet/smrecje_virnikova_planina/11/3221/7647">1 h 5 min</a></td><td class="tdG"><a href="/izlet/smrecje_virnikova_planina/11/3221/7647">lahka označena pot</a></td></tr>
 
 </table>
 

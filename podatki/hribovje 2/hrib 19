@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Veliki Oltar</title>
-        <meta name="description" content="Natančen opis gore Veliki Oltar in vseh pristopov na Veliki Oltar. Oltar je mogočna gora na katero pa ne pelje nobena označena pot. Prav zato je Ol." />
+        <title>Rogljica</title>
+        <meta name="description" content="Natančen opis gore Rogljica in vseh pristopov na Rogljica. Rogljica je malo znana in še manj obiskana gora v Julijskih alpah. Nahaja se med." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./7?gorovjeid=1&amp;id=7" id="form1">
+    <form method="post" action="./19?gorovjeid=1&amp;id=19" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/veliki_oltar/1/7"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=7"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rogljica/1/19"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=19"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Veliki Oltar
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Rogljica
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(7);
+    gorast(19);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Veliki Oltar</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Rogljica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2621&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 2547&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,3514'N&nbsp;/&nbsp;13°&nbsp;49,7970'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,6614'N&nbsp;/&nbsp;13°&nbsp;48,7386'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;21,08''N&nbsp;/&nbsp;13°&nbsp;49'&nbsp;47,82''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;39,68''N&nbsp;/&nbsp;13°&nbsp;48'&nbsp;44,32''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.43919°N&nbsp;/&nbsp;13.82995°E";
+                        document.getElementById("kf0").innerHTML = "46.42769°N&nbsp;/&nbsp;13.81231°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,43919°N,&nbsp;13,82995°E";
+                    document.getElementById("kf0").innerHTML = "46,42769°N,&nbsp;13,81231°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43919°N&nbsp;13,82995°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/veliki_oltar/7"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,42769°N&nbsp;13,81231°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rogljica/19"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Rogljica - Torek" href="/vreme_gora/rogljica/1/19#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Rogljica - Sreda" href="/vreme_gora/rogljica/1/19#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Rogljica - Četrtek" href="/vreme_gora/rogljica/1/19#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Oltar - Petek" href="/vreme_gora/veliki_oltar/1/7#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Rogljica - Petek" href="/vreme_gora/rogljica/1/19#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Oltar - Sobota" href="/vreme_gora/veliki_oltar/1/7#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Oltar - Nedelja" href="/vreme_gora/veliki_oltar/1/7#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Oltar - Ponedeljek" href="/vreme_gora/veliki_oltar/1/7#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Veliki Oltar - Torek" href="/vreme_gora/veliki_oltar/1/7#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Rogljica - Sobota" href="/vreme_gora/rogljica/1/19#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 572.612</div>
-<div class="g2"><b>Priljubljenost:</b> 95%&nbsp;(169.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 402.555</div>
+<div class="g2"><b>Priljubljenost:</b> 81%&nbsp;(632.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Oltar je mogočna gora na katero pa ne pelje nobena označena pot. Prav zato je Oltar zelo zaželen cilj pri planincih, ki imajo radi brezpotja. Vendar na to goro ne mora vsak vsaj plezanje druge stopnje ni kar tako pa čeprav le nekaj metrov. Tudi orientacijsko ni lahko najti poti čeprav nam pot kažejo možici. Oltar je torej gora, ki nam, da tisto kar smo od nje hoteli. Nudi nam lep razgled, mir, divjino in zadovoljstvo ob osvojenem vrhu. Vrh ima tudi vpisno skrinjico.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Rogljica je malo znana in še manj obiskana gora v Julijskih alpah. Nahaja se med dolino Vrata in Krnico. Z vrha je lep pogled proti sosednji Dolkovi in Rakovi špici. Tudi Škrlatica ne manjka. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=7&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=19&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bivak_na_jezerih/1/211">Bivak na Jezerih (2118m)</a>, <a class="moder" href="/gora/bivak_v_veliki_dnini/1/3602">Bivak v Veliki Dnini (2180m)</a>, <a class="moder" href="/gora/dolkova_spica/1/10">Dolkova špica (2591m)</a>, <a class="moder" href="/gora/dovski_kriz/1/22">Dovški križ (2542m)</a>, <a class="moder" href="/gora/kucelj_julijske_alpe/1/3334">Kucelj (Julijske Alpe) (2372m)</a>, <a class="moder" href="/gora/mala_martuljska_ponca/1/1382">Mala Martuljška Ponca (2501m)</a>, <a class="moder" href="/gora/na_peceh/1/1384">Na Pečeh (2039m)</a>, <a class="moder" href="/gora/pri_treh_macesnih/1/1385">Pri treh macesnih (1810m)</a>, <a class="moder" href="/gora/rakova_spica/1/3178">Rakova Špica (2545m)</a>, <a class="moder" href="/gora/rogljica/1/19">Rogljica (2547m)</a>, <a class="moder" href="/gora/siroka_pec/1/1381">Široka peč (2497m)</a>, <a class="moder" href="/gora/skrlatica/1/2">Škrlatica (2740m)</a>, <a class="moder" href="/gora/spik/1/43">Špik (2472m)</a>, <a class="moder" href="/gora/splevta/1/1062">Šplevta (2272m)</a>, <a class="moder" href="/gora/spodnji_rokav/1/2248">Spodnji Rokav (2500m)</a>, <a class="moder" href="/gora/velika_martuljska_ponca/1/8">Velika Martuljška Ponca (2602m)</a>, <a class="moder" href="/gora/visoki_rokav/1/5">Visoki Rokav (2646m)</a>
+<a class="moder" href="/gora/bivak_na_rusju/1/216">Bivak na Rušju (1980m)</a>, <a class="moder" href="/gora/bivak_v_veliki_dnini/1/3602">Bivak v Veliki Dnini (2180m)</a>, <a class="moder" href="/gora/dolkova_spica/1/10">Dolkova špica (2591m)</a>, <a class="moder" href="/gora/gubno/1/1121">Gubno (2403m)</a>, <a class="moder" href="/gora/koca_v_krnici/1/206">Koča v Krnici (1113m)</a>, <a class="moder" href="/gora/kriz/1/257">Križ (2410m)</a>, <a class="moder" href="/gora/kucelj_julijske_alpe/1/3334">Kucelj (Julijske Alpe) (2372m)</a>, <a class="moder" href="/gora/mala_martuljska_ponca/1/1382">Mala Martuljška Ponca (2501m)</a>, <a class="moder" href="/gora/rakova_spica/1/3178">Rakova Špica (2545m)</a>, <a class="moder" href="/gora/skrlatica/1/2">Škrlatica (2740m)</a>, <a class="moder" href="/gora/splevta_indijanec/1/1348">Šplevta (Indijanec) (2382m)</a>, <a class="moder" href="/gora/spodnji_rokav/1/2248">Spodnji Rokav (2500m)</a>, <a class="moder" href="/gora/velika_martuljska_ponca/1/8">Velika Martuljška Ponca (2602m)</a>, <a class="moder" href="/gora/veliki_oltar/1/7">Veliki Oltar (2621m)</a>, <a class="moder" href="/gora/visoki_rokav/1/5">Visoki Rokav (2646m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -840,24 +840,21 @@ function prijavaG() {
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_oltar%2f1%2f7"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_oltar%2f1%2f7"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fveliki_oltar%2f1%2f7"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frogljica%2f1%2f19"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frogljica%2f1%2f19"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frogljica%2f1%2f19"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/veliki_oltar/7" title="Veliki Oltar 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Oltar.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/veliki_oltar/3476" onclick="event.preventDefault(); window.open('/slika_gora/veliki_oltar/3476');"><img class="slikagm" alt="Veliki Oltar" src="//www.hribi.net/slike1/P81001114578573.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rogljica/515" onclick="event.preventDefault(); window.open('/slika_gora/rogljica/515');"><img class="slikagm" alt="Rogljica" src="//www.hribi.net/Gora/p7110013medium0dn.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_oltar/3477" onclick="event.preventDefault(); window.open('/slika_gora/veliki_oltar/3477');"><img class="slikagm" alt="Veliki Oltar" src="//www.hribi.net/slike1/P81001404578575.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rogljica/978" onclick="event.preventDefault(); window.open('/slika_gora/rogljica/978');"><img class="slikagm" alt="Rogljica" src="//www.hribi.net/Gora/p9220114mediumuv9.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_oltar/3478" onclick="event.preventDefault(); window.open('/slika_gora/veliki_oltar/3478');"><img class="slikagm" alt="Veliki Oltar" src="//www.hribi.net/slike1/P81001434578575.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rogljica/19848" onclick="event.preventDefault(); window.open('/slika_gora/rogljica/19848');"><img class="slikagm" alt="Rogljica" src="//www.hribi.net/slike11/P11502924961377000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_oltar/3482" onclick="event.preventDefault(); window.open('/slika_gora/veliki_oltar/3482');"><img class="slikagm" alt="Veliki Oltar" src="//www.hribi.net/slike1/P8100180591360.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rogljica/19849" onclick="event.preventDefault(); window.open('/slika_gora/rogljica/19849');"><img class="slikagm" alt="Rogljica" src="//www.hribi.net/slike11/P11503122391377000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/veliki_oltar/4928" onclick="event.preventDefault(); window.open('/slika_gora/veliki_oltar/4928');"><img class="slikagm" alt="Veliki Oltar" src="//www.hribi.net/slike1/P92200091240758.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rogljica/19859" onclick="event.preventDefault(); window.open('/slika_gora/rogljica/19859');"><img class="slikagm" alt="Rogljica" src="//www.hribi.net/slike11/P1150170507403200.th.jpg" /></a>
     
 </div>
 
@@ -921,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=7&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=19&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,9 +928,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/poldov_rovt_vrata_veliki_oltar_mimo_bivaka/1/7/176">Poldov rovt (Vrata) - Veliki Oltar (mimo bivaka)</a></td><td class="tdG"><a href="/izlet/poldov_rovt_vrata_veliki_oltar_mimo_bivaka/1/7/176">6 h</a></td><td class="tdG"><a href="/izlet/poldov_rovt_vrata_veliki_oltar_mimo_bivaka/1/7/176">zelo zahtevno brezpotje</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ruski_kriz_veliki_oltar_po_sz_grebenu/1/7/4631">Ruski križ - Veliki Oltar (po SZ grebenu)</a></td><td class="tdG"><a href="/izlet/ruski_kriz_veliki_oltar_po_sz_grebenu/1/7/4631">6 h</a></td><td class="tdG"><a href="/izlet/ruski_kriz_veliki_oltar_po_sz_grebenu/1/7/4631">alpinistični vzpon</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/aljazev_dom_v_vratih_rogljica_zahodna_pot/1/19/192">Aljažev dom v Vratih - Rogljica (zahodna pot)</a></td><td class="tdG"><a href="/izlet/aljazev_dom_v_vratih_rogljica_zahodna_pot/1/19/192">5 h 15 min</a></td><td class="tdG"><a href="/izlet/aljazev_dom_v_vratih_rogljica_zahodna_pot/1/19/192">zelo zahtevno brezpotje</a></td></tr>
 
 </table>
 

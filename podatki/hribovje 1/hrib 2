@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Snežnik</title>
-        <meta name="description" content="Natančen opis gore Snežnik in vseh pristopov na Snežnik. Snežnik oz. Veliki Snežnik je z višino 1796 m najvišji vrh v bližnji in daljni o." />
+        <title>Mali Snežnik</title>
+        <meta name="description" content="Natančen opis gore Mali Snežnik in vseh pristopov na Mali Snežnik. Mali Snežnik je vrh na zahodnem grebenu Snežnika. Vrh, ki je poraščen z rušjem i." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./127?gorovjeid=26&amp;id=127" id="form1">
+    <form method="post" action="./556?gorovjeid=26&amp;id=556" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sneznik/26/127"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=127"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/mali_sneznik/26/556"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=556"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Snežnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Mali Snežnik
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(127);
+    gorast(556);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Snežnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Mali Snežnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1796&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1694&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;35,3100'N&nbsp;/&nbsp;14°&nbsp;26,8560'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;35,3880'N&nbsp;/&nbsp;14°&nbsp;26,1540'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;35'&nbsp;18,60''N&nbsp;/&nbsp;14°&nbsp;26'&nbsp;51,36''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;35'&nbsp;23,28''N&nbsp;/&nbsp;14°&nbsp;26'&nbsp;9,24''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.5885°N&nbsp;/&nbsp;14.4476°E";
+                        document.getElementById("kf0").innerHTML = "45.5898°N&nbsp;/&nbsp;14.4359°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,5885°N,&nbsp;14,4476°E";
+                    document.getElementById("kf0").innerHTML = "45,5898°N,&nbsp;14,4359°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,5885°N&nbsp;14,4476°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sneznik/127"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,5898°N&nbsp;14,4359°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/mali_sneznik/556"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Snežnik - Torek" href="/vreme_gora/mali_sneznik/26/556#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Snežnik - Sreda" href="/vreme_gora/mali_sneznik/26/556#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Snežnik - Četrtek" href="/vreme_gora/mali_sneznik/26/556#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Snežnik - Petek" href="/vreme_gora/sneznik/26/127#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Snežnik - Petek" href="/vreme_gora/mali_sneznik/26/556#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Snežnik - Sobota" href="/vreme_gora/sneznik/26/127#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Snežnik - Nedelja" href="/vreme_gora/sneznik/26/127#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Snežnik - Ponedeljek" href="/vreme_gora/sneznik/26/127#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Snežnik - Torek" href="/vreme_gora/sneznik/26/127#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Mali Snežnik - Sobota" href="/vreme_gora/mali_sneznik/26/556#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 906.007</div>
-<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(20.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">32</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">12</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">6</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=127" title="Število vpisov v vpisni knjigi">15</a></div>
+<div class="g2"><b>Ogledov:</b> 433.707</div>
+<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(528.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=556" title="Število vpisov v vpisni knjigi">3</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Snežnik oz. Veliki Snežnik je z višino 1796 m najvišji vrh v bližnji in daljni okolici, zato je z njega lep razgled po večjem delu Slovenije in bližnje sosednje Hrvaške. Ob lepem vremenu tako vidimo najvišje vrhove Gorskega Kotarja in Istre, kjer izstopajo Risnjak, Snježnik in Učka. Na slovensko stran pa prek prostranih gozdov Notranjske vidimo tudi najvišje vrhove Julijskih Alp, Kamniško Savinjskih Alp in Karavank. <br> Le nekaj metrov pod vrhom pa se nahaja tudi zavetišče Draga Karolina na Velikem Snežniku. </div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Mali Snežnik je vrh na zahodnem grebenu Snežnika. Vrh, ki je poraščen z rušjem ima lep razgled na sosednji Veliki Snežnik in okoliško hribovje.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=127&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=556&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/mali_sneznik/26/556">Mali Snežnik (1694m)</a>
+<a class="moder" href="/gora/sneznik/26/127">Snežnik (1796m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -840,92 +840,33 @@ function prijavaG() {
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsneznik%2f26%2f127"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsneznik%2f26%2f127"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsneznik%2f26%2f127"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_sneznik%2f26%2f556"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_sneznik%2f26%2f556"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmali_sneznik%2f26%2f556"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/sneznik/127" title="Snežnik 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Sneznik.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sneznik/196" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/196');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/Gora/p5040143medium1yd.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_sneznik/1625" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/1625');"><img class="slikagm" alt="Mali Snežnik" src="//www.hribi.net/slike1/P415014294248.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sneznik/1617" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/1617');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/spomin%20na%20%20vzpon3848524.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_sneznik/5906" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/5906');"><img class="slikagm" alt="Mali Snežnik" src="//www.hribi.net/slike1/Sneznik 127856800.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sneznik/1618" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/1618');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/P4150103280840.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_sneznik/14119" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/14119');"><img class="slikagm" alt="Mali Snežnik" src="//www.hribi.net/slike1/DSCN6655672000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sneznik/1619" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/1619');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/P41500690.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_sneznik/14125" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/14125');"><img class="slikagm" alt="Mali Snežnik" src="//www.hribi.net/slike1/DSCN67223213000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sneznik/1620" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/1620');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/P41500750.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_sneznik/14126" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/14126');"><img class="slikagm" alt="Mali Snežnik" src="//www.hribi.net/slike1/DSCN67193213000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sneznik/1621" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/1621');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/P41500910.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_sneznik/19798" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/19798');"><img class="slikagm" alt="Mali Snežnik" src="//slike.hribi.net/slike4/2_0727656830352_DSCN0148.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sneznik/1622" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/1622');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/P41501010.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/mali_sneznik/19799" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/19799');"><img class="slikagm" alt="Mali Snežnik" src="//slike.hribi.net/slike4/2_0994658075147_DSCN0161.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sneznik/1623" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/1623');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/P415012694248.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/1624" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/1624');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/P415010594248.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/2099" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/2099');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/vetru%20se%20vcasih%20komaj%20upiramo3848526.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/5900" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/5900');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/Sneznik%20042336000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/5901" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/5901');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/Sneznik%20051336000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/5902" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/5902');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/Sneznik%20098528000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/5903" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/5903');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/Sneznik%20116564000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/5904" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/5904');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/Sneznik%20120564000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/5905" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/5905');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/Sneznik%20124564000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/7727" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/7727');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/Turn 157120120.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/9511" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/9511');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/SvetiMarinsembije 132219648.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/10540" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/10540');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/KriznaGora 07616016.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/13423" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/13423');"><img class="slikagm" alt="Snežnik" src="//slike.hribi.net/slike4/2_0412485858304_DSCN3247.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/14120" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/14120');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/DSCN6656672000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/14121" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/14121');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/DSCN6659672000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/14122" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/14122');"><img class="slikagm" alt="Snežnik" src="//www.hribi.net/slike1/DSCN6652672000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/14123" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/14123');"><img class="slikagm" alt="Snežnik" src="//slike.hribi.net/slike4/2_0295503397630_DSCN6670.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/14124" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/14124');"><img class="slikagm" alt="Snežnik" src="//slike.hribi.net/slike4/2_1452503397595_DSCN6666.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/14389" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/14389');"><img class="slikagm" alt="Snežnik" src="//slike.hribi.net/slike4/2_0174512407547_DSCN4222.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/19801" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/19801');"><img class="slikagm" alt="Snežnik" src="//slike.hribi.net/slike4/2_2282658075788_DSCN0213.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/19802" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/19802');"><img class="slikagm" alt="Snežnik" src="//slike.hribi.net/slike4/2_0383658075782_DSCN0206.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/19803" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/19803');"><img class="slikagm" alt="Snežnik" src="//slike.hribi.net/slike4/2_1942658075678_DSCN0198.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/19804" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/19804');"><img class="slikagm" alt="Snežnik" src="//slike.hribi.net/slike4/2_0695656830640_DSCN0225.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/19805" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/19805');"><img class="slikagm" alt="Snežnik" src="//slike.hribi.net/slike4/2_3695656830616_DSCN0216.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/sneznik/19806" onclick="event.preventDefault(); window.open('/slika_gora/sneznik/19806');"><img class="slikagm" alt="Snežnik" src="//slike.hribi.net/slike4/2_2251656830613_DSCN0215.JPG" /></a>
+        <a target="_blank" href="/slika_gora/mali_sneznik/19800" onclick="event.preventDefault(); window.open('/slika_gora/mali_sneznik/19800');"><img class="slikagm" alt="Mali Snežnik" src="//slike.hribi.net/slike4/2_1306656830556_DSCN0194.JPG" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Smučanje/sneznik_30122017/1/858"><img class="slikagmv" alt="Snežnik, 30.12.2017" src="https://img.youtube.com/vi/DQSGQww0WEk/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Smučanje/skoraj_sneznik_10122017/1/857"><img class="slikagmv" alt="Skoraj Snežnik, 10.12.2017" src="https://img.youtube.com/vi/jyWyX6urhXw/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Smučanje/sneznik/1/793"><img class="slikagmv" alt="Snežnik" src="https://img.youtube.com/vi/hV8WDqLAaYs/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Gorništvo/sneznik/3/142"><img class="slikagmv" alt="Snežnik" src="https://img.youtube.com/vi/EnVDjJW6bl8/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -983,7 +924,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=127&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=556&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -993,25 +934,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sviscaki_sneznik_pes_pot/26/127/952">Sviščaki - Snežnik (peš pot)</a></td><td class="tdG"><a href="/izlet/sviscaki_sneznik_pes_pot/26/127/952">2 h</a></td><td class="tdG"><a href="/izlet/sviscaki_sneznik_pes_pot/26/127/952">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/snezniska_grda_jama_mali_sneznik/26/556/954">Snežniška Grda jama - Mali Snežnik</a></td><td class="tdG"><a href="/izlet/snezniska_grda_jama_mali_sneznik/26/556/954">1 h</a></td><td class="tdG"><a href="/izlet/snezniska_grda_jama_mali_sneznik/26/556/954">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kapetanova_bajta_sneznik/26/127/96">Kapetanova bajta - Snežnik</a></td><td class="tdG"><a href="/izlet/kapetanova_bajta_sneznik/26/127/96"> 55 min</a></td><td class="tdG"><a href="/izlet/kapetanova_bajta_sneznik/26/127/96">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/sviscaki_mali_sneznik/26/556/5680"> Sviščaki - Mali Snežnik</a></td><td class="tdG"><a href="/izlet/sviscaki_mali_sneznik/26/556/5680">1 h 50 min</a></td><td class="tdG"><a href="/izlet/sviscaki_mali_sneznik/26/556/5680">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/leskova_dolina_sneznik/26/127/2548">Leskova dolina - Snežnik</a></td><td class="tdG"><a href="/izlet/leskova_dolina_sneznik/26/127/2548">3 h 15 min</a></td><td class="tdG"><a href="/izlet/leskova_dolina_sneznik/26/127/2548">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grda_draga_mali_sneznik/26/556/5679">Grda draga - Mali Snežnik</a></td><td class="tdG"><a href="/izlet/grda_draga_mali_sneznik/26/556/5679">1 h 30 min</a></td><td class="tdG"><a href="/izlet/grda_draga_mali_sneznik/26/556/5679">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/snezniska_grda_jama_sneznik_cez_mali_sneznik/26/127/953">Snežniška Grda jama - Snežnik (čez Mali Snežnik)</a></td><td class="tdG"><a href="/izlet/snezniska_grda_jama_sneznik_cez_mali_sneznik/26/127/953">1 h 25 min</a></td><td class="tdG"><a href="/izlet/snezniska_grda_jama_sneznik_cez_mali_sneznik/26/127/953">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gasperjev_hrib_sneznik/26/127/2546">Gašperjev hrib - Snežnik</a></td><td class="tdG"><a href="/izlet/gasperjev_hrib_sneznik/26/127/2546">1 h 30 min</a></td><td class="tdG"><a href="/izlet/gasperjev_hrib_sneznik/26/127/2546">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sviscaki_sneznik_cez_mali_sneznik/26/127/5681"> Sviščaki - Snežnik (čez Mali Snežnik)</a></td><td class="tdG"><a href="/izlet/sviscaki_sneznik_cez_mali_sneznik/26/127/5681">2 h 15 min</a></td><td class="tdG"><a href="/izlet/sviscaki_sneznik_cez_mali_sneznik/26/127/5681">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sezanje_sneznik/26/127/2549">Sežanje - Snežnik</a></td><td class="tdG"><a href="/izlet/sezanje_sneznik/26/127/2549">1 h 40 min</a></td><td class="tdG"><a href="/izlet/sezanje_sneznik/26/127/2549">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/grda_draga_sneznik_cez_mali_sneznik/26/127/5678">Grda draga - Snežnik (čez Mali Snežnik)</a></td><td class="tdG"><a href="/izlet/grda_draga_sneznik_cez_mali_sneznik/26/127/5678">1 h 55 min</a></td><td class="tdG"><a href="/izlet/grda_draga_sneznik_cez_mali_sneznik/26/127/5678">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sviscaki_sneznik_po_cesti/26/127/5677">Sviščaki - Snežnik (po cesti)</a></td><td class="tdG"><a href="/izlet/sviscaki_sneznik_po_cesti/26/127/5677">1 h 55 min</a></td><td class="tdG"><a href="/izlet/sviscaki_sneznik_po_cesti/26/127/5677">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/masun_sneznik/26/127/7932">Mašun - Snežnik</a></td><td class="tdG"><a href="/izlet/masun_sneznik/26/127/7932">4 h</a></td><td class="tdG"><a href="/izlet/masun_sneznik/26/127/7932">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/masun_mali_sneznik/26/556/7931">Mašun - Mali Snežnik</a></td><td class="tdG"><a href="/izlet/masun_mali_sneznik/26/556/7931">3 h 35 min</a></td><td class="tdG"><a href="/izlet/masun_mali_sneznik/26/556/7931">lahka označena pot</a></td></tr>
 
 </table>
 

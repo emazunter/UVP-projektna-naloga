@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vrhovec</title>
-        <meta name="description" content="Natančen opis gore Vrhovec in vseh pristopov na Vrhovec. Vrhovec 1079 m (tudi Lokvarski vrh) visok travnat vrh, ki se nahaja južno od Šeb." />
+        <title>Sveti Primož in Felicijan (Jamnik)</title>
+        <meta name="description" content="Natančen opis gore Sveti Primož in Felicijan (Jamnik) in vseh pristopov na Sveti Primož in Felicijan (Jamnik). Cerkev sv. Primoža in Felicijana na Jamniku, se nahaja na razglednem travnatem g." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1968?gorovjeid=21&amp;id=1968" id="form1">
+    <form method="post" action="./1697?gorovjeid=21&amp;id=1697" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrhovec/21/1968"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1968"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_primoz_in_felicijan_jamnik/21/1697"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=21&id=1697"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Vrhovec
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a> / Sveti Primož in Felicijan (Jamnik)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1968);
+    gorast(1697);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vrhovec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Primož in Felicijan (Jamnik)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/skofjelosko_cerkljansko_hribovje_in_jelovica/21">Škofjeloško, Cerkljansko hribovje in Jelovica</a></div>
-    <div class="g2"><b>Višina:</b> 1079&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 831&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;3,8220'N&nbsp;/&nbsp;13°&nbsp;54,7140'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;16,5060'N&nbsp;/&nbsp;14°&nbsp;12,8460'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;3'&nbsp;49,32''N&nbsp;/&nbsp;13°&nbsp;54'&nbsp;42,84''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;16'&nbsp;30,36''N&nbsp;/&nbsp;14°&nbsp;12'&nbsp;50,76''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.0637°N&nbsp;/&nbsp;13.9119°E";
+                        document.getElementById("kf0").innerHTML = "46.2751°N&nbsp;/&nbsp;14.2141°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,0637°N,&nbsp;13,9119°E";
+                    document.getElementById("kf0").innerHTML = "46,2751°N,&nbsp;14,2141°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,0637°N&nbsp;13,9119°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrhovec/1968"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2751°N&nbsp;14,2141°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_primoz_in_felicijan_jamnik/1697"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož in Felicijan (Jamnik) - Torek" href="/vreme_gora/sveti_primoz_in_felicijan_jamnik/21/1697#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož in Felicijan (Jamnik) - Sreda" href="/vreme_gora/sveti_primoz_in_felicijan_jamnik/21/1697#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož in Felicijan (Jamnik) - Četrtek" href="/vreme_gora/sveti_primoz_in_felicijan_jamnik/21/1697#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrhovec - Petek" href="/vreme_gora/vrhovec/21/1968#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož in Felicijan (Jamnik) - Petek" href="/vreme_gora/sveti_primoz_in_felicijan_jamnik/21/1697#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrhovec - Sobota" href="/vreme_gora/vrhovec/21/1968#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrhovec - Nedelja" href="/vreme_gora/vrhovec/21/1968#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrhovec - Ponedeljek" href="/vreme_gora/vrhovec/21/1968#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrhovec - Torek" href="/vreme_gora/vrhovec/21/1968#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož in Felicijan (Jamnik) - Sobota" href="/vreme_gora/sveti_primoz_in_felicijan_jamnik/21/1697#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 268.385</div>
-<div class="g2"><b>Priljubljenost:</b> 66%&nbsp;(1125.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 442.010</div>
+<div class="g2"><b>Priljubljenost:</b> 85%&nbsp;(498.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">19</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">10</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1968" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1697" title="Število vpisov v vpisni knjigi">5</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Vrhovec 1079 m (tudi Lokvarski vrh) visok travnat vrh, ki se nahaja južno od Šebreljske planote. Z vrha, na katerem je panoramska tabla, se nam odpre lep pogled po Šebreljski planoti, Trnovskemu gozdu, Idrijskem, Cerkljanskem in Škofjeloškem hribovju ter ob lepi vidljivosti vse do Julijskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev sv. Primoža in Felicijana na Jamniku, se nahaja na razglednem travnatem grebenu, ki se dviga med Kropo in Podblico. Od cerkve oz. njene bližnje okolice, se nam odpre lep razgled po gorenjski ravnini, Karavankam, Kamniško Savinjskim Alpam ter delu Škofjeloškega hribovja.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1968&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1697&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/partizanska_tehnika_meta/21/3267">Partizanska tehnika Meta (1100m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,29 +835,57 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/podlanisce/4190">Podlanišče</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>
+<a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrhovec%2f21%2f1968"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrhovec%2f21%2f1968"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrhovec%2f21%2f1968"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_in_felicijan_jamnik%2f21%2f1697"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_in_felicijan_jamnik%2f21%2f1697"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_in_felicijan_jamnik%2f21%2f1697"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vrhovec/1968" title="Vrhovec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Vrhovec.jpg" /></a></div>
+<div><a href="/panorama/360/sveti_primoz_in_felicijan_jamnik/1697" title="Sveti Primož in Felicijan (Jamnik) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SvPrimozJamnik.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vrhovec/9611" onclick="event.preventDefault(); window.open('/slika_gora/vrhovec/9611');"><img class="slikagm" alt="Vrhovec" src="//www.hribi.net/slike1/vrhovec%201946465120.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/7511" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/7511');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike1/UrsljaGora%2067599792.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrhovec/9612" onclick="event.preventDefault(); window.open('/slika_gora/vrhovec/9612');"><img class="slikagm" alt="Vrhovec" src="//www.hribi.net/slike1/vrhovec%201936465120.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/7512" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/7512');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike1/UrsljaGora%20481119196.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrhovec/9613" onclick="event.preventDefault(); window.open('/slika_gora/vrhovec/9613');"><img class="slikagm" alt="Vrhovec" src="//www.hribi.net/slike1/vrhovec%201916465120.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/7513" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/7513');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike1/UrsljaGora%20492181720.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrhovec/9614" onclick="event.preventDefault(); window.open('/slika_gora/vrhovec/9614');"><img class="slikagm" alt="Vrhovec" src="//www.hribi.net/slike1/vrhovec%201896465120.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/7514" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/7514');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike1/UrsljaGora%20506115500.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vrhovec/9615" onclick="event.preventDefault(); window.open('/slika_gora/vrhovec/9615');"><img class="slikagm" alt="Vrhovec" src="//www.hribi.net/slike1/vrhovec%201866465119.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/7515" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/7515');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike1/UrsljaGora%20522115500.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/7516" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/7516');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike1/UrsljaGora%2053092400.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/7517" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/7517');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike1/UrsljaGora%2053592400.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/7518" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/7518');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike1/UrsljaGora%2053692400.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/15554" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/15554');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//slike.hribi.net/slike4/2_0901542018045_DSCN6614.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/15555" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/15555');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//slike.hribi.net/slike4/2_0550542017996_DSCN6604.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/15556" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/15556');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//slike.hribi.net/slike4/2_1457542017977_DSCN6601.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/15557" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/15557');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//slike.hribi.net/slike4/2_0427542017974_DSCN6600.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/15558" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/15558');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//slike.hribi.net/slike4/2_1710542017925_DSCN6590.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/16430" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/16430');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike11/DSCN1985708538560.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/16431" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/16431');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike11/DSCN1982954538560.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/16511" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/16511');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//slike.hribi.net/slike4/2_2895571692547_DSCN4889.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/16512" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/16512');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//slike.hribi.net/slike4/2_0822571692541_DSCN4887.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/16640" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/16640');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//slike.hribi.net/slike4/2_0968574010978_DSCN6767.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveti_primoz_in_felicijan_jamnik/19989" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_in_felicijan_jamnik/19989');"><img class="slikagm" alt="Sveti Primož in Felicijan (Jamnik)" src="//www.hribi.net/slike15/2_0761665942867_DSCN5001.JPG" /></a>
     
 </div>
 
@@ -921,7 +949,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1968&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1697&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -931,9 +959,25 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/reka_vrhovec/21/1968/3768">Reka - Vrhovec</a></td><td class="tdG"><a href="/izlet/reka_vrhovec/21/1968/3768">3 h</a></td><td class="tdG"><a href="/izlet/reka_vrhovec/21/1968/3768">delno zahtevna označena pot, lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kropa__sveti_primoz_in_felicijan_jamnik/21/1697/3063">Kropa  - Sveti Primož in Felicijan (Jamnik)</a></td><td class="tdG"><a href="/izlet/kropa__sveti_primoz_in_felicijan_jamnik/21/1697/3063">1 h 10 min</a></td><td class="tdG"><a href="/izlet/kropa__sveti_primoz_in_felicijan_jamnik/21/1697/3063">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/straza_vrhovec/21/1968/3769">Straža - Vrhovec</a></td><td class="tdG"><a href="/izlet/straza_vrhovec/21/1968/3769">3 h 30 min</a></td><td class="tdG"><a href="/izlet/straza_vrhovec/21/1968/3769">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/jamnik_sveti_primoz_in_felicijan_jamnik/21/1697/3062">Jamnik - Sveti Primož in Felicijan (Jamnik)</a></td><td class="tdG"><a href="/izlet/jamnik_sveti_primoz_in_felicijan_jamnik/21/1697/3062"> 8 min</a></td><td class="tdG"><a href="/izlet/jamnik_sveti_primoz_in_felicijan_jamnik/21/1697/3062">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/rovte_sveti_primoz_in_felicijan_jamnik/21/1697/6283">Rovte - Sveti Primož in Felicijan (Jamnik)</a></td><td class="tdG"><a href="/izlet/rovte_sveti_primoz_in_felicijan_jamnik/21/1697/6283">1 h 15 min</a></td><td class="tdG"><a href="/izlet/rovte_sveti_primoz_in_felicijan_jamnik/21/1697/6283">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podblica_sveti_primoz_in_felicijan_jamnik/21/1697/6644">Podblica - Sveti Primož in Felicijan (Jamnik)</a></td><td class="tdG"><a href="/izlet/podblica_sveti_primoz_in_felicijan_jamnik/21/1697/6644"> 50 min</a></td><td class="tdG"><a href="/izlet/podblica_sveti_primoz_in_felicijan_jamnik/21/1697/6644">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/nemilje_sveti_primoz_in_felicijan_jamnik_po_markirani_poti/21/1697/8034">Nemilje - Sveti Primož in Felicijan (Jamnik) (po markirani poti)</a></td><td class="tdG"><a href="/izlet/nemilje_sveti_primoz_in_felicijan_jamnik_po_markirani_poti/21/1697/8034"> 50 min</a></td><td class="tdG"><a href="/izlet/nemilje_sveti_primoz_in_felicijan_jamnik_po_markirani_poti/21/1697/8034">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/cesnjica_pri_kropi_sveti_primoz_in_felicijan_jamnik/21/1697/6284">Češnjica pri Kropi - Sveti Primož in Felicijan (Jamnik)</a></td><td class="tdG"><a href="/izlet/cesnjica_pri_kropi_sveti_primoz_in_felicijan_jamnik/21/1697/6284">1 h 15 min</a></td><td class="tdG"><a href="/izlet/cesnjica_pri_kropi_sveti_primoz_in_felicijan_jamnik/21/1697/6284">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/njivica_sveti_primoz_in_felicijan_jamnik/21/1697/6596">Njivica - Sveti Primož in Felicijan (Jamnik)</a></td><td class="tdG"><a href="/izlet/njivica_sveti_primoz_in_felicijan_jamnik/21/1697/6596">1 h 10 min</a></td><td class="tdG"><a href="/izlet/njivica_sveti_primoz_in_felicijan_jamnik/21/1697/6596">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/brezovica_sveti_primoz_in_felicijan_jamnik/21/1697/6860">Brezovica - Sveti Primož in Felicijan (Jamnik)</a></td><td class="tdG"><a href="/izlet/brezovica_sveti_primoz_in_felicijan_jamnik/21/1697/6860">1 h 20 min</a></td><td class="tdG"><a href="/izlet/brezovica_sveti_primoz_in_felicijan_jamnik/21/1697/6860">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/cesnjica_pri_kropi_sveti_primoz_in_felicijan_jamnik_cez_beriglo/21/1697/6861">Češnjica pri Kropi - Sveti Primož in Felicijan (Jamnik) (čez Beriglo)</a></td><td class="tdG"><a href="/izlet/cesnjica_pri_kropi_sveti_primoz_in_felicijan_jamnik_cez_beriglo/21/1697/6861">1 h 20 min</a></td><td class="tdG"><a href="/izlet/cesnjica_pri_kropi_sveti_primoz_in_felicijan_jamnik_cez_beriglo/21/1697/6861">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/kropa_slovenska_pec_sveti_primoz_in_felicijan_jamnik/21/1697/7787">Kropa (Slovenska peč) - Sveti Primož in Felicijan (Jamnik)</a></td><td class="tdG"><a href="/izlet/kropa_slovenska_pec_sveti_primoz_in_felicijan_jamnik/21/1697/7787">1 h 10 min</a></td><td class="tdG"><a href="/izlet/kropa_slovenska_pec_sveti_primoz_in_felicijan_jamnik/21/1697/7787">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Bogatin</title>
-        <meta name="description" content="Natančen opis gore Bogatin in vseh pristopov na Bogatin. Bogatin tudi Mali Bogatin je zadnji oz. prvi vrh v verigi Spodnjih Bohinjskih go." />
+        <title>Planina Osredki</title>
+        <meta name="description" content="Natančen opis bivaka Planina Osredki in vseh pristopov na Planina Osredki. Planina Osredki je opuščena planina, ki se nahaja zahodno od grebena Kozji rob (." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./326?gorovjeid=1&amp;id=326" id="form1">
+    <form method="post" action="./1101?gorovjeid=1&amp;id=1101" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bogatin/1/326"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=326"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_osredki/1/1101"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1101"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Bogatin
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Planina Osredki
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(326);
+    gorast(1101);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Bogatin</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planina Osredki</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1977&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1400&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;16,8978'N&nbsp;/&nbsp;13°&nbsp;44,1048'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;14,2740'N&nbsp;/&nbsp;13°&nbsp;55,3488'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;16'&nbsp;53,87''N&nbsp;/&nbsp;13°&nbsp;44'&nbsp;6,29''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;14'&nbsp;16,44''N&nbsp;/&nbsp;13°&nbsp;55'&nbsp;20,93''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.28163°N&nbsp;/&nbsp;13.73508°E";
+                        document.getElementById("kf0").innerHTML = "46.2379°N&nbsp;/&nbsp;13.92248°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,28163°N,&nbsp;13,73508°E";
+                    document.getElementById("kf0").innerHTML = "46,2379°N,&nbsp;13,92248°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,28163°N&nbsp;13,73508°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bogatin/326"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2379°N&nbsp;13,92248°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_osredki/1101"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> bivak, planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Osredki - Torek" href="/vreme_gora/planina_osredki/1/1101#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Osredki - Sreda" href="/vreme_gora/planina_osredki/1/1101#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Osredki - Četrtek" href="/vreme_gora/planina_osredki/1/1101#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Bogatin - Petek" href="/vreme_gora/bogatin/1/326#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Osredki - Petek" href="/vreme_gora/planina_osredki/1/1101#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Bogatin - Sobota" href="/vreme_gora/bogatin/1/326#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Bogatin - Nedelja" href="/vreme_gora/bogatin/1/326#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Bogatin - Ponedeljek" href="/vreme_gora/bogatin/1/326#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_1_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Bogatin - Torek" href="/vreme_gora/bogatin/1/326#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Osredki - Sobota" href="/vreme_gora/planina_osredki/1/1101#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 566.143</div>
-<div class="g2"><b>Priljubljenost:</b> 95%&nbsp;(179.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 264.950</div>
+<div class="g2"><b>Priljubljenost:</b> 65%&nbsp;(1138.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=326" title="Število vpisov v vpisni knjigi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Bogatin tudi Mali Bogatin je zadnji oz. prvi vrh v verigi Spodnjih Bohinjskih gora. Z vrha na katerem se nahaja vpisna skrinjica je lep razgled proti celotnim Julijskim Alpam. <br>O Bogatinu je napisana tudi znana pripovedka o Zlatorogovem kraljestvu.</div>
+<div style="padding-top:10px;"><b>Opis bivaka:</b><br />Planina Osredki je opuščena planina, ki se nahaja zahodno od grebena Kozji rob (greben med Črno prstjo in Liscem). S planine na kateri stoji bivak z dvema zasilnima ležiščema, se nam odpre lep razgled na osrednje Julijce, kjer najlepše vidimo Triglav.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=326&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1101&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kser/1/1372">Kser (1900m)</a>, <a class="moder" href="/gora/lanzevica/1/325">Lanževica (2003m)</a>, <a class="moder" href="/gora/mahavscek/1/327">Mahavšček (2008m)</a>, <a class="moder" href="/gora/planina_dobrenjscica/1/1601">Planina Dobrenjščica (1304m)</a>, <a class="moder" href="/gora/velika_montura/1/2799">Velika Montura (1958m)</a>, <a class="moder" href="/gora/vrh_skrli/1/1371">Vrh Škrli (1926m)</a>
+<a class="moder" href="/gora/cetrt/1/1102">Četrt (1832m)</a>, <a class="moder" href="/gora/crna_prst/1/87">Črna prst (1844m)</a>, <a class="moder" href="/gora/konjski_vrh/1/1103">Konjski vrh (1879m)</a>, <a class="moder" href="/gora/lisc_lisec/1/3520">Lisc (Lisec) (1653m)</a>, <a class="moder" href="/gora/oroznova_koca_na_planini_za_liscem/1/158">Orožnova koča na planini za Liscem (1346m)</a>, <a class="moder" href="/gora/poljanski_vrh/1/1104">Poljanski vrh (1897m)</a>, <a class="moder" href="/gora/rusni_vrh/1/1755">Rušni vrh (1786m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,39 +835,27 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/bohinj/4313">Bohinj</a>, <a class="moder" href="/spletna_kamera/bohinjska_bistrica/295">Bohinjska Bistrica</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/crna_prst/3503">Črna prst</a>, <a class="moder" href="/spletna_kamera/davca/2012">Davča</a>, <a class="moder" href="/spletna_kamera/gorje/4321">Gorje</a>, <a class="moder" href="/spletna_kamera/kobla/623">Kobla</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kojca/158">Kojca</a>, <a class="moder" href="/spletna_kamera/kravja_crna_gora/3272">Kravja Črna gora</a>, <a class="moder" href="/spletna_kamera/oroznova_koca_na_planini_za_liscem/1076">Orožnova koča na planini za Liscem</a>, <a class="moder" href="/spletna_kamera/petrovo_brdo/1066">Petrovo Brdo</a>, <a class="moder" href="/spletna_kamera/pokljuka/1700">Pokljuka</a>, <a class="moder" href="/spletna_kamera/porezen/1045">Porezen</a>, <a class="moder" href="/spletna_kamera/ratitovec/1592">Ratitovec</a>, <a class="moder" href="/spletna_kamera/ravne_pri_cerknem/2319">Ravne pri Cerknem</a>, <a class="moder" href="/spletna_kamera/ravne_v_bohinju/2017">Ravne v Bohinju</a>, <a class="moder" href="/spletna_kamera/smucisce_cerkno/63">Smučišče Cerkno</a>, <a class="moder" href="/spletna_kamera/soriska_planina/288">Soriška planina</a>, <a class="moder" href="/spletna_kamera/visevnik/2112">Viševnik</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/zgornja_sorica/2013">Zgornja Sorica</a>, <a class="moder" href="/spletna_kamera/zgornji_goreljek_pokljuka/2003">Zgornji Goreljek (Pokljuka)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbogatin%2f1%2f326"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbogatin%2f1%2f326"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbogatin%2f1%2f326"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_osredki%2f1%2f1101"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_osredki%2f1%2f1101"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_osredki%2f1%2f1101"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/bogatin/326" title="Bogatin 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.bogatin.jpg" /></a></div>
+<div><a href="/panorama/360/planina_osredki/1101" title="Planina Osredki 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninaOsredek.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/bogatin/851" onclick="event.preventDefault(); window.open('/slika_gora/bogatin/851');"><img class="slikagm" alt="Bogatin" src="//www.hribi.net/Gora/p9020112mediumzd3.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_osredki/3645" onclick="event.preventDefault(); window.open('/slika_gora/planina_osredki/3645');"><img class="slikagm" alt="Planina Osredki" src="//www.hribi.net/slike1/P9170059816480.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/bogatin/852" onclick="event.preventDefault(); window.open('/slika_gora/bogatin/852');"><img class="slikagm" alt="Bogatin" src="//www.hribi.net/Gora/p9020117mediumcq3.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_osredki/3646" onclick="event.preventDefault(); window.open('/slika_gora/planina_osredki/3646');"><img class="slikagm" alt="Planina Osredki" src="//www.hribi.net/slike1/P9170024816480.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/bogatin/854" onclick="event.preventDefault(); window.open('/slika_gora/bogatin/854');"><img class="slikagm" alt="Bogatin" src="//www.hribi.net/Gora/p9020136mediumbr0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_osredki/3647" onclick="event.preventDefault(); window.open('/slika_gora/planina_osredki/3647');"><img class="slikagm" alt="Planina Osredki" src="//www.hribi.net/slike1/P9170027816480.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/bogatin/856" onclick="event.preventDefault(); window.open('/slika_gora/bogatin/856');"><img class="slikagm" alt="Bogatin" src="//www.hribi.net/Gora/p9020171mediumzb2.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/bogatin/858" onclick="event.preventDefault(); window.open('/slika_gora/bogatin/858');"><img class="slikagm" alt="Bogatin" src="//www.hribi.net/Gora/p9020173mediumbu3.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/bogatin/4855" onclick="event.preventDefault(); window.open('/slika_gora/bogatin/4855');"><img class="slikagm" alt="Bogatin" src="//www.hribi.net/slike1/Mahavscek%20074243243.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/bogatin/4857" onclick="event.preventDefault(); window.open('/slika_gora/bogatin/4857');"><img class="slikagm" alt="Bogatin" src="//www.hribi.net/slike1/Mahavscek%20096287469.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/bogatin/4859" onclick="event.preventDefault(); window.open('/slika_gora/bogatin/4859');"><img class="slikagm" alt="Bogatin" src="//www.hribi.net/sliketemp/Mahavscek%201265154753.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/bogatin/4861" onclick="event.preventDefault(); window.open('/slika_gora/bogatin/4861');"><img class="slikagm" alt="Bogatin" src="//www.hribi.net/sliketemp/Mahavscek%201845154763.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/bogatin/17475" onclick="event.preventDefault(); window.open('/slika_gora/bogatin/17475');"><img class="slikagm" alt="Bogatin" src="//slike.hribi.net/slike4/2_3370594578441_DSCN5440.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planina_osredki/3648" onclick="event.preventDefault(); window.open('/slika_gora/planina_osredki/3648');"><img class="slikagm" alt="Planina Osredki" src="//www.hribi.net/sliketemp/P91700294644493.th.jpg" /></a>
     
 </div>
 
@@ -931,7 +919,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=326&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1101&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -941,13 +929,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_pri_savici_bogatin_cez_bogatinsko_sedlo/1/326/456">Koča pri Savici - Bogatin (čez Bogatinsko sedlo)</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_bogatin_cez_bogatinsko_sedlo/1/326/456">4 h 30 min</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_bogatin_cez_bogatinsko_sedlo/1/326/456">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_luknjo_planina_osredki/1/1101/1846">Pod Luknjo - Planina Osredki</a></td><td class="tdG"><a href="/izlet/pod_luknjo_planina_osredki/1/1101/1846">1 h 15 min</a></td><td class="tdG"><a href="/izlet/pod_luknjo_planina_osredki/1/1101/1846">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_pri_savici_bogatin_cez_planino_govnjac/1/326/696"> Koča pri Savici - Bogatin (čez planino Govnjač)</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_bogatin_cez_planino_govnjac/1/326/696">5 h 30 min</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_bogatin_cez_planino_govnjac/1/326/696">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_polog_bogatin_cez_prehodce/1/326/2801">Planina Polog - Bogatin (čez Prehodce)</a></td><td class="tdG"><a href="/izlet/planina_polog_bogatin_cez_prehodce/1/326/2801">5 h 45 min</a></td><td class="tdG"><a href="/izlet/planina_polog_bogatin_cez_prehodce/1/326/2801">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_v_lepeni_bogatin_cez_bogatinsko_sedlo/1/326/5028">Dom v Lepeni - Bogatin (čez Bogatinsko sedlo)</a></td><td class="tdG"><a href="/izlet/dom_v_lepeni_bogatin_cez_bogatinsko_sedlo/1/326/5028">4 h 30 min</a></td><td class="tdG"><a href="/izlet/dom_v_lepeni_bogatin_cez_bogatinsko_sedlo/1/326/5028">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/polje_planina_osredki/1/1101/3926">Polje - Planina Osredki</a></td><td class="tdG"><a href="/izlet/polje_planina_osredki/1/1101/3926">2 h 30 min</a></td><td class="tdG"><a href="/izlet/polje_planina_osredki/1/1101/3926">lahka označena pot</a></td></tr>
 
 </table>
 

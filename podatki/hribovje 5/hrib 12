@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Rogla</title>
-        <meta name="description" content="Natančen opis gore Rogla in vseh pristopov na Rogla. Rogla je vrh sredi istoimenskega smučišča. Vrh je gozdnat z majhno jaso na kater." />
+        <title>Pot med krošnjami Pohorje</title>
+        <meta name="description" content="Natančen opis gore Pot med krošnjami Pohorje in vseh pristopov na Pot med krošnjami Pohorje. Pot med krošnjami Pohorje se nahaja v bližini Hotela Natura na Rogli. Lesen obje." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./512?gorovjeid=4&amp;id=512" id="form1">
+    <form method="post" action="./3183?gorovjeid=4&amp;id=3183" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rogla/4/512"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=512"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/treetop_walk_pohorje/4/3183"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3183"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Rogla
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Pot med krošnjami Pohorje
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(512);
+    gorast(3183);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Rogla</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Pot med krošnjami Pohorje</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 1517&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1460&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;27,3858'N&nbsp;/&nbsp;15°&nbsp;20,7480'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;27,1296'N&nbsp;/&nbsp;15°&nbsp;19,6518'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;27'&nbsp;23,15''N&nbsp;/&nbsp;15°&nbsp;20'&nbsp;44,88''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;27'&nbsp;7,78''N&nbsp;/&nbsp;15°&nbsp;19'&nbsp;39,11''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.45643°N&nbsp;/&nbsp;15.3458°E";
+                        document.getElementById("kf0").innerHTML = "46.45216°N&nbsp;/&nbsp;15.32753°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,45643°N,&nbsp;15,3458°E";
+                    document.getElementById("kf0").innerHTML = "46,45216°N,&nbsp;15,32753°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,45643°N&nbsp;15,3458°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rogla/512"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,45216°N&nbsp;15,32753°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/pot_med_krosnjami_pohorje/3183"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Pot med krošnjami Pohorje - Torek" href="/vreme_gora/pot_med_krosnjami_pohorje/4/3183#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Pot med krošnjami Pohorje - Sreda" href="/vreme_gora/pot_med_krosnjami_pohorje/4/3183#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Pot med krošnjami Pohorje - Četrtek" href="/vreme_gora/pot_med_krosnjami_pohorje/4/3183#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Rogla - Petek" href="/vreme_gora/rogla/4/512#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Pot med krošnjami Pohorje - Petek" href="/vreme_gora/pot_med_krosnjami_pohorje/4/3183#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Rogla - Sobota" href="/vreme_gora/rogla/4/512#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Rogla - Nedelja" href="/vreme_gora/rogla/4/512#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Rogla - Ponedeljek" href="/vreme_gora/rogla/4/512#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Rogla - Torek" href="/vreme_gora/rogla/4/512#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Pot med krošnjami Pohorje - Sobota" href="/vreme_gora/pot_med_krosnjami_pohorje/4/3183#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 529.439</div>
-<div class="g2"><b>Priljubljenost:</b> 92%&nbsp;(258.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">11</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">5</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=512" title="Število vpisov v vpisni knjigi">12</a></div>
+<div class="g2"><b>Ogledov:</b> 12.330</div>
+<div class="g2"><b>Priljubljenost:</b> 38%&nbsp;(2025.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=3183" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Rogla je vrh sredi istoimenskega smučišča. Vrh je gozdnat z majhno jaso na kateri stoji razgledni stolp. Stolp je visok 30m in nam nudi lep razgled na bližnje gozdove in ob lepem vremenu celo na Triglav. Če Rogli dodamo 30m višine je to tudi najvišja točka na Pohorju, kjer lahko stoji človeška noga.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Pot med krošnjami Pohorje se nahaja v bližini Hotela Natura na Rogli. Lesen objekt, ki se nahaja na višini do 20 metrov, razgledni stolp je visok 37 metrov, je bil odprt septembra 2019. Za dostop na objekt po katerem vodi približno 1000 metrov dolga sprehajalno-učna pot je potrebno plačati vstopnino in sicer za odrasle 10 eur, za otroke pa 7 eur, otroci mlajši od 3 let imajo vstop brezplačen (november 2019).</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=512&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3183&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/cerkev_jezusove_spremenitve_na_gori_rogla/4/3852">Cerkev Jezusove spremenitve na gori (Rogla) (1474m)</a>, <a class="moder" href="/gora/izvir_dravinje/4/3851">Izvir Dravinje (1460m)</a>, <a class="moder" href="/gora/koca_na_jurgovem/4/3850">Koča na Jurgovem (1430m)</a>, <a class="moder" href="/gora/koca_na_pesku/4/513">Koča na Pesku (1386m)</a>, <a class="moder" href="/gora/ostruscica/4/2740">Ostruščica (1498m)</a>, <a class="moder" href="/gora/pesek/4/3468">Pesek (1423m)</a>, <a class="moder" href="/gora/pot_med_krosnjami_pohorje/4/3183">Pot med krošnjami Pohorje (1460m)</a>
+<a class="moder" href="/gora/cerkev_jezusove_spremenitve_na_gori_rogla/4/3852">Cerkev Jezusove spremenitve na gori (Rogla) (1474m)</a>, <a class="moder" href="/gora/izvir_dravinje/4/3851">Izvir Dravinje (1460m)</a>, <a class="moder" href="/gora/lukov_slap/4/2741">Lukov slap (1240m)</a>, <a class="moder" href="/gora/ostruscica/4/2740">Ostruščica (1498m)</a>, <a class="moder" href="/gora/rogla/4/512">Rogla (1517m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -840,26 +840,19 @@ function prijavaG() {
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frogla%2f4%2f512"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frogla%2f4%2f512"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frogla%2f4%2f512"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpot_med_krosnjami_pohorje%2f4%2f3183"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpot_med_krosnjami_pohorje%2f4%2f3183"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpot_med_krosnjami_pohorje%2f4%2f3183"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/rogla/512" title="Rogla 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.rogla.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/rogla/1429" onclick="event.preventDefault(); window.open('/slika_gora/rogla/1429');"><img class="slikagm" alt="Rogla" src="//www.hribi.net/slike1/stolp69160.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pot_med_krosnjami_pohorje/18837" onclick="event.preventDefault(); window.open('/slika_gora/pot_med_krosnjami_pohorje/18837');"><img class="slikagm" alt="Pot med krošnjami Pohorje" src="//slike.hribi.net/slike4/2_0841631040326_DSCN8951.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rogla/9857" onclick="event.preventDefault(); window.open('/slika_gora/rogla/9857');"><img class="slikagm" alt="Rogla" src="//www.hribi.net/slike1/Pohorje12 334628992.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pot_med_krosnjami_pohorje/18838" onclick="event.preventDefault(); window.open('/slika_gora/pot_med_krosnjami_pohorje/18838');"><img class="slikagm" alt="Pot med krošnjami Pohorje" src="//slike.hribi.net/slike4/2_067630963911_DSCN8948.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rogla/9858" onclick="event.preventDefault(); window.open('/slika_gora/rogla/9858');"><img class="slikagm" alt="Rogla" src="//www.hribi.net/slike1/Pohorje12 337628992.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pot_med_krosnjami_pohorje/18839" onclick="event.preventDefault(); window.open('/slika_gora/pot_med_krosnjami_pohorje/18839');"><img class="slikagm" alt="Pot med krošnjami Pohorje" src="//slike.hribi.net/slike4/2_0820631040064_DSCN8931.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/rogla/20643" onclick="event.preventDefault(); window.open('/slika_gora/rogla/20643');"><img class="slikagm" alt="Rogla" src="//slike2.hribi.net/slike14/2_0363694424292_0dscn0388.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/rogla/22608" onclick="event.preventDefault(); window.open('/slika_gora/rogla/22608');"><img class="slikagm" alt="Rogla" src="//slike2.hribi.net/slike14/2_10516753189083_11dscn8894.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/rogla/22609" onclick="event.preventDefault(); window.open('/slika_gora/rogla/22609');"><img class="slikagm" alt="Rogla" src="//slike2.hribi.net/slike14/2_11122753189084_12dscn8897.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pot_med_krosnjami_pohorje/18840" onclick="event.preventDefault(); window.open('/slika_gora/pot_med_krosnjami_pohorje/18840');"><img class="slikagm" alt="Pot med krošnjami Pohorje" src="//slike.hribi.net/slike4/2_2285630963848_DSCN8911.JPG" /></a>
     
 </div>
 
@@ -923,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=512&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3183&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -933,27 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_na_pesku_rogla_pes_pot/4/512/872">Koča na Pesku - Rogla (peš pot)</a></td><td class="tdG"><a href="/izlet/koca_na_pesku_rogla_pes_pot/4/512/872"> 30 min</a></td><td class="tdG"><a href="/izlet/koca_na_pesku_rogla_pes_pot/4/512/872">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rogla_hotel_planja_rogla/4/512/870">Rogla (Hotel Planja) - Rogla</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_rogla/4/512/870"> 15 min</a></td><td class="tdG"><a href="/izlet/rogla_hotel_planja_rogla/4/512/870">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vitanje_rogla/4/512/4986">Vitanje - Rogla</a></td><td class="tdG"><a href="/izlet/vitanje_rogla/4/512/4986">4 h</a></td><td class="tdG"><a href="/izlet/vitanje_rogla/4/512/4986">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/mislinja_rogla_cez_tolsti_vrh/4/512/6228">Mislinja - Rogla (čez Tolsti Vrh)</a></td><td class="tdG"><a href="/izlet/mislinja_rogla_cez_tolsti_vrh/4/512/6228">4 h 15 min</a></td><td class="tdG"><a href="/izlet/mislinja_rogla_cez_tolsti_vrh/4/512/6228">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/mislinjski_graben_pestotnik_rogla_cez_ostruscico/4/512/6227">Mislinjski graben (Pestotnik) - Rogla (čez Ostruščico)</a></td><td class="tdG"><a href="/izlet/mislinjski_graben_pestotnik_rogla_cez_ostruscico/4/512/6227">3 h</a></td><td class="tdG"><a href="/izlet/mislinjski_graben_pestotnik_rogla_cez_ostruscico/4/512/6227">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zrece_cerkev_sv_egidija_rogla_cez_gorenje/4/512/8136">Zreče (cerkev sv. Egidija) - Rogla (čez Gorenje)</a></td><td class="tdG"><a href="/izlet/zrece_cerkev_sv_egidija_rogla_cez_gorenje/4/512/8136">3 h 50 min</a></td><td class="tdG"><a href="/izlet/zrece_cerkev_sv_egidija_rogla_cez_gorenje/4/512/8136">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_rogla/4/512/8366">Lovrenc na Pohorju - Rogla</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_rogla/4/512/8366">4 h 30 min</a></td><td class="tdG"><a href="/izlet/lovrenc_na_pohorju_rogla/4/512/8366">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_na_klopnem_vrhu_rogla/4/512/8386">Koča na Klopnem vrhu - Rogla</a></td><td class="tdG"><a href="/izlet/koca_na_klopnem_vrhu_rogla/4/512/8386">2 h 45 min</a></td><td class="tdG"><a href="/izlet/koca_na_klopnem_vrhu_rogla/4/512/8386">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ribniska_koca_rogla_mimo_lovrenskih_jezer/4/512/8846">Ribniška koča - Rogla (mimo Lovrenških jezer)</a></td><td class="tdG"><a href="/izlet/ribniska_koca_rogla_mimo_lovrenskih_jezer/4/512/8846">3 h 45 min</a></td><td class="tdG"><a href="/izlet/ribniska_koca_rogla_mimo_lovrenskih_jezer/4/512/8846">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ribniska_koca_rogla/4/512/8848"> Ribniška koča - Rogla</a></td><td class="tdG"><a href="/izlet/ribniska_koca_rogla/4/512/8848">3 h 35 min</a></td><td class="tdG"><a href="/izlet/ribniska_koca_rogla/4/512/8848">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/oplotnica_rogla/4/512/9345">Oplotnica - Rogla</a></td><td class="tdG"><a href="/izlet/oplotnica_rogla/4/512/9345">4 h 20 min</a></td><td class="tdG"><a href="/izlet/oplotnica_rogla/4/512/9345">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/rogla_hotel_natura_pot_med_krosnjami_pohorje_pot_med_krosnjami/4/3183/7560">Rogla (Hotel Natura) - Pot med krošnjami Pohorje (Pot med krošnjami)</a></td><td class="tdG"><a href="/izlet/rogla_hotel_natura_pot_med_krosnjami_pohorje_pot_med_krosnjami/4/3183/7560"> 25 min</a></td><td class="tdG"><a href="/izlet/rogla_hotel_natura_pot_med_krosnjami_pohorje_pot_med_krosnjami/4/3183/7560">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Virnikov Grintovec</title>
-        <meta name="description" content="Natančen opis gore Virnikov Grintovec in vseh pristopov na Virnikov Grintovec. Virnikov Grintovec je 1654 m visoka gora, ki se nahaja severno od Jezerskega, na." />
+        <title>Basališče (Paški Kozjak)</title>
+        <meta name="description" content="Natančen opis gore Basališče (Paški Kozjak) in vseh pristopov na Basališče (Paški Kozjak). Basališče je najvišji vrh Paškega Kozjaka. Na vrhu je postavljena klopca in vpis." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./314?gorovjeid=11&amp;id=314" id="form1">
+    <form method="post" action="./742?gorovjeid=11&amp;id=742" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/virnikov_grintovec/11/314"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=314"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/basalisce_paski_kozjak/11/742"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=742"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Virnikov Grintovec
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Basališče (Paški Kozjak)
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(314);
+    gorast(742);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Virnikov Grintovec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Basališče (Paški Kozjak)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1654&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1272&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,8094'N&nbsp;/&nbsp;14°&nbsp;28,7322'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;23,4138'N&nbsp;/&nbsp;15°&nbsp;14,4090'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;48,56''N&nbsp;/&nbsp;14°&nbsp;28'&nbsp;43,93''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;23'&nbsp;24,83''N&nbsp;/&nbsp;15°&nbsp;14'&nbsp;24,54''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.41349°N&nbsp;/&nbsp;14.47887°E";
+                        document.getElementById("kf0").innerHTML = "46.39023°N&nbsp;/&nbsp;15.24015°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,41349°N,&nbsp;14,47887°E";
+                    document.getElementById("kf0").innerHTML = "46,39023°N,&nbsp;15,24015°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,41349°N&nbsp;14,47887°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/virnikov_grintovec/314"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,39023°N&nbsp;15,24015°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/basalisce_paski_kozjak/742"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Basališče (Paški Kozjak) - Torek" href="/vreme_gora/basalisce_paski_kozjak/11/742#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Basališče (Paški Kozjak) - Sreda" href="/vreme_gora/basalisce_paski_kozjak/11/742#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Basališče (Paški Kozjak) - Četrtek" href="/vreme_gora/basalisce_paski_kozjak/11/742#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Virnikov Grintovec - Petek" href="/vreme_gora/virnikov_grintovec/11/314#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Basališče (Paški Kozjak) - Petek" href="/vreme_gora/basalisce_paski_kozjak/11/742#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Virnikov Grintovec - Sobota" href="/vreme_gora/virnikov_grintovec/11/314#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Virnikov Grintovec - Nedelja" href="/vreme_gora/virnikov_grintovec/11/314#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Virnikov Grintovec - Ponedeljek" href="/vreme_gora/virnikov_grintovec/11/314#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Virnikov Grintovec - Torek" href="/vreme_gora/virnikov_grintovec/11/314#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Basališče (Paški Kozjak) - Sobota" href="/vreme_gora/basalisce_paski_kozjak/11/742#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 568.961</div>
-<div class="g2"><b>Priljubljenost:</b> 95%&nbsp;(175.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">15</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=314" title="Število vpisov v vpisni knjigi">6</a></div>
+<div class="g2"><b>Ogledov:</b> 473.501</div>
+<div class="g2"><b>Priljubljenost:</b> 88%&nbsp;(397.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=742" title="Število vpisov v vpisni knjigi">3</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Virnikov Grintovec je 1654 m visoka gora, ki se nahaja severno od Jezerskega, na mejnem grebenu med Slovenijo in Avstrijo. Z vrha, na katerem je vpisna skrinjica in žig, se nam odpre lep razgled na najvišje vrhove Kamniško Savinjskih Alp in osrednje Karavanke.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Basališče je najvišji vrh Paškega Kozjaka. Na vrhu je postavljena klopca in vpisna skrinjica. Zaradi gozda pa ni razgleda.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=314&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=742&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/partizanska_bolnica_krtina/11/1214">Partizanska bolnica Krtina (1040m)</a>, <a class="moder" href="/gora/roblekova_planina/11/1727">Roblekova planina (1284m)</a>, <a class="moder" href="/gora/robniske_peci/11/3222">Robniške peči (1323m)</a>, <a class="moder" href="/gora/virnikova_planina/11/3221">Virnikova planina (1160m)</a>, <a class="moder" href="/gora/zmitkov_spic/11/1179">Žmitkov špic (1124m)</a>
+<a class="moder" href="/gora/strukljev_vrh/11/2893">Štrukljev vrh (1227m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,57 +835,30 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/grmovskov_dom_pod_veliko_kopo/2195">Grmovškov dom pod Veliko Kopo</a>, <a class="moder" href="/spletna_kamera/kope/35">Kope</a>, <a class="moder" href="/spletna_kamera/lukov_dom/4446">Lukov dom</a>, <a class="moder" href="/spletna_kamera/mislinja/188">Mislinja</a>, <a class="moder" href="/spletna_kamera/ribnisko_pohorje/61">Ribniško Pohorje</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/spodnje_stranice/4444">Spodnje Stranice</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvirnikov_grintovec%2f11%2f314"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvirnikov_grintovec%2f11%2f314"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvirnikov_grintovec%2f11%2f314"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbasalisce_paski_kozjak%2f11%2f742"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbasalisce_paski_kozjak%2f11%2f742"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbasalisce_paski_kozjak%2f11%2f742"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/virnikov_grintovec/314" title="Virnikov Grintovec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.virnikovGrintovec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/261" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/261');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/Gora/p5280101medium1fh.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/basalisce_paski_kozjak/2475" onclick="event.preventDefault(); window.open('/slika_gora/basalisce_paski_kozjak/2475');"><img class="slikagm" alt="Basališče (Paški Kozjak)" src="//www.hribi.net/sliketemp/PB0801594192916.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/764" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/764');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/Gora/p8200050mediumgv3.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/basalisce_paski_kozjak/7028" onclick="event.preventDefault(); window.open('/slika_gora/basalisce_paski_kozjak/7028');"><img class="slikagm" alt="Basališče (Paški Kozjak)" src="//www.hribi.net/slike1/Prekmurje2010 760218400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/1270" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/1270');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/Gora/pb260042mediumqh0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/basalisce_paski_kozjak/7029" onclick="event.preventDefault(); window.open('/slika_gora/basalisce_paski_kozjak/7029');"><img class="slikagm" alt="Basališče (Paški Kozjak)" src="//www.hribi.net/slike1/Prekmurje2010 764218400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/1272" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/1272');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/Gora/pb260122mediumbd4.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/1273" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/1273');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/Gora/pb260121mediumap7.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/1302" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/1302');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/Gora/pc020035mediumja8.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/1474" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/1474');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/slike1/P120001897216.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/5148" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/5148');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/slike1/P510005636036.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/5149" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/5149');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/sliketemp/P51001084981750.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/5150" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/5150');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/sliketemp/P51001504981751.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/7653" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/7653');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/slike1/Turni 354588060.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/7660" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/7660');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/slike1/Turni 320163944.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/14215" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/14215');"><img class="slikagm" alt="Virnikov Grintovec" src="//slike.hribi.net/slike4/2_04506415077_DSCN8756.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/14216" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/14216');"><img class="slikagm" alt="Virnikov Grintovec" src="//slike.hribi.net/slike4/2_0708506415120_DSCN8768.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/virnikov_grintovec/14217" onclick="event.preventDefault(); window.open('/slika_gora/virnikov_grintovec/14217');"><img class="slikagm" alt="Virnikov Grintovec" src="//www.hribi.net/slike1/DSCN879742840.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/basalisce_paski_kozjak/7030" onclick="event.preventDefault(); window.open('/slika_gora/basalisce_paski_kozjak/7030');"><img class="slikagm" alt="Basališče (Paški Kozjak)" src="//www.hribi.net/slike1/Prekmurje2010%207751497600.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/virnikov_grintovec_1654m/3/300"><img class="slikagmv" alt="Virnikov Grintovec (1654m)" src="https://img.youtube.com/vi/UgQufxSUnuY/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -943,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=314&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=742&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -953,17 +926,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornje_jezersko_virnikov_grintovec/11/314/444">Zgornje Jezersko - Virnikov Grintovec</a></td><td class="tdG"><a href="/izlet/zgornje_jezersko_virnikov_grintovec/11/314/444">2 h 15 min</a></td><td class="tdG"><a href="/izlet/zgornje_jezersko_virnikov_grintovec/11/314/444">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_na_paskem_kozjaku_basalisce_paski_kozjak/11/742/1339">Dom na Paškem Kozjaku - Basališče (Paški Kozjak)</a></td><td class="tdG"><a href="/izlet/dom_na_paskem_kozjaku_basalisce_paski_kozjak/11/742/1339">2 h</a></td><td class="tdG"><a href="/izlet/dom_na_paskem_kozjaku_basalisce_paski_kozjak/11/742/1339">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/murnovo_virnikov_grintovec/11/314/2369">Murnovo - Virnikov Grintovec</a></td><td class="tdG"><a href="/izlet/murnovo_virnikov_grintovec/11/314/2369">1 h 30 min</a></td><td class="tdG"><a href="/izlet/murnovo_virnikov_grintovec/11/314/2369">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/vitanje_basalisce_paski_kozjak/11/742/2903">Vitanje - Basališče (Paški Kozjak)</a></td><td class="tdG"><a href="/izlet/vitanje_basalisce_paski_kozjak/11/742/2903">2 h 30 min</a></td><td class="tdG"><a href="/izlet/vitanje_basalisce_paski_kozjak/11/742/2903">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jezerski_vrh_virnikov_grintovec/11/314/3140">Jezerski vrh - Virnikov Grintovec</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_virnikov_grintovec/11/314/3140">2 h</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_virnikov_grintovec/11/314/3140">lahka neoznačena steza, lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/korte___trogern_virnikov_grintovec/11/314/3556">Korte / Trögern - Virnikov Grintovec</a></td><td class="tdG"><a href="/izlet/korte___trogern_virnikov_grintovec/11/314/3556">2 h 15 min</a></td><td class="tdG"><a href="/izlet/korte___trogern_virnikov_grintovec/11/314/3556">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/plansarsko_jezero_virnikov_grintovec/11/314/5959">Planšarsko jezero - Virnikov Grintovec</a></td><td class="tdG"><a href="/izlet/plansarsko_jezero_virnikov_grintovec/11/314/5959">2 h 30 min</a></td><td class="tdG"><a href="/izlet/plansarsko_jezero_virnikov_grintovec/11/314/5959">lahka neoznačena steza, lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/jezerska_slatina_virnikov_grintovec/11/314/5958">Jezerska slatina - Virnikov Grintovec</a></td><td class="tdG"><a href="/izlet/jezerska_slatina_virnikov_grintovec/11/314/5958">2 h 30 min</a></td><td class="tdG"><a href="/izlet/jezerska_slatina_virnikov_grintovec/11/314/5958">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/bio_kmetija_magu_basalisce_paski_kozjak/11/742/1340">Bio kmetija Magu - Basališče (Paški Kozjak)</a></td><td class="tdG"><a href="/izlet/bio_kmetija_magu_basalisce_paski_kozjak/11/742/1340">1 h</a></td><td class="tdG"><a href="/izlet/bio_kmetija_magu_basalisce_paski_kozjak/11/742/1340">lahka označena pot</a></td></tr>
 
 </table>
 

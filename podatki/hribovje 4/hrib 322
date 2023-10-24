@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Lovska koča na Brvogih</title>
-        <meta name="description" content="Natančen opis gore Lovska koča na Brvogih in vseh pristopov na Lovska koča na Brvogih. Lovska koča na Brvogih se nahaja med Erjavčevim rovtom in Plevelniki. Od koče, k." />
+        <title>Maceljska gora</title>
+        <meta name="description" content="Natančen opis gore Maceljska gora in vseh pristopov na Maceljska gora. Maceljska gora je najvišji vrh Maclja, pogorja, ki se nahaja južno od naselja Že." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1519?gorovjeid=11&amp;id=1519" id="form1">
+    <form method="post" action="./3674?gorovjeid=11&amp;id=3674" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/hunting_cottage_brvogi/11/1519"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1519"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/maceljska_gora/11/3674"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=3674"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Lovska koča na Brvogih
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Maceljska gora
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1519);
+    gorast(3674);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Lovska koča na Brvogih</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Maceljska gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/hrvaska/4">Hrvaška</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1425&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 718&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,3460'N&nbsp;/&nbsp;13°&nbsp;58,0380'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,6156'N&nbsp;/&nbsp;15°&nbsp;47,8590'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;20,76''N&nbsp;/&nbsp;13°&nbsp;58'&nbsp;2,28''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;36,94''N&nbsp;/&nbsp;15°&nbsp;47'&nbsp;51,54''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.4891°N&nbsp;/&nbsp;13.9673°E";
+                        document.getElementById("kf0").innerHTML = "46.26026°N&nbsp;/&nbsp;15.79765°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,4891°N,&nbsp;13,9673°E";
+                    document.getElementById("kf0").innerHTML = "46,26026°N,&nbsp;15,79765°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4891°N&nbsp;13,9673°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lovska_koca_na_brvogih/1519"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,26026°N&nbsp;15,79765°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/maceljska_gora/3674"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> </div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Maceljska gora - Torek" href="/vreme_gora/maceljska_gora/11/3674#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Maceljska gora - Sreda" href="/vreme_gora/maceljska_gora/11/3674#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Maceljska gora - Četrtek" href="/vreme_gora/maceljska_gora/11/3674#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Lovska koča na Brvogih - Petek" href="/vreme_gora/lovska_koca_na_brvogih/11/1519#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Maceljska gora - Petek" href="/vreme_gora/maceljska_gora/11/3674#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Lovska koča na Brvogih - Sobota" href="/vreme_gora/lovska_koca_na_brvogih/11/1519#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Lovska koča na Brvogih - Nedelja" href="/vreme_gora/lovska_koca_na_brvogih/11/1519#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Lovska koča na Brvogih - Ponedeljek" href="/vreme_gora/lovska_koca_na_brvogih/11/1519#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Lovska koča na Brvogih - Torek" href="/vreme_gora/lovska_koca_na_brvogih/11/1519#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Maceljska gora - Sobota" href="/vreme_gora/maceljska_gora/11/3674#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 222.077</div>
-<div class="g2"><b>Priljubljenost:</b> 60%&nbsp;(1299.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 309</div>
+<div class="g2"><b>Priljubljenost:</b> 12%&nbsp;(2884.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Lovska koča na Brvogih se nahaja med Erjavčevim rovtom in Plevelniki. Od koče, ki se nahaja ob robu planine Brvog, pa zaradi bližnjega gozda ni lepšega razgleda.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Maceljska gora je najvišji vrh Maclja, pogorja, ki se nahaja južno od naselja Žetale, ob meji s Hrvaško.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1519&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3674&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bela_pec_nad_dovjem/11/3271">Bela peč (nad Dovjem) (1460m)</a>, <a class="moder" href="/gora/borovje/11/505">Borovje (1476m)</a>, <a class="moder" href="/gora/dovska_mala_kepa/11/478">Dovška Mala Kepa (2077m)</a>, <a class="moder" href="/gora/erjavcev_rovt_planina_mlinca/11/2437">Erjavčev rovt (Planina Mlinca) (1105m)</a>, <a class="moder" href="/gora/gubno/11/479">Gubno (2035m)</a>, <a class="moder" href="/gora/planina_dovska_rozca/11/276">Planina Dovška Rožca (1650m)</a>, <a class="moder" href="/gora/planina_goreljse/11/3272">Planina Goreljše (1125m)</a>
+<a class="moder" href="/gora/cerkev_marije_tolaznice_brezje_nad_zetalami/11/3551">Cerkev Marije Tolažnice (Brezje nad Žetalami) (382m)</a>, <a class="moder" href="/gora/izvir_sotle/11/1239">Izvir Sotle (640m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,24 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/basko_jezero___faakersee/253">Baško jezero / Faakersee</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/blejska_koca_na_lipanci/4367">Blejska koča na Lipanci</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/wernberg_-_duel/4621">Wernberg - Duel</a>
+<a class="moder" href="/spletna_kamera/bednja/3133">Bednja</a>, <a class="moder" href="/spletna_kamera/gruskovje/390">Gruškovje</a>, <a class="moder" href="/spletna_kamera/lancova_vas/384">Lancova vas</a>, <a class="moder" href="/spletna_kamera/podlehnik/386">Podlehnik</a>, <a class="moder" href="/spletna_kamera/rogaska_slatina/2157">Rogaška Slatina</a>, <a class="moder" href="/spletna_kamera/stanosina/385">Stanošina</a>, <a class="moder" href="/spletna_kamera/trakoscan/3208">Trakošćan</a>, <a class="moder" href="/spletna_kamera/zakl/4822">Zakl</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flovska_koca_na_brvogih%2f11%2f1519"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flovska_koca_na_brvogih%2f11%2f1519"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flovska_koca_na_brvogih%2f11%2f1519"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmaceljska_gora%2f11%2f3674"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmaceljska_gora%2f11%2f3674"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmaceljska_gora%2f11%2f3674"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/lovska_koca_na_brvogih/6111" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_brvogih/6111');"><img class="slikagm" alt="Lovska koča na Brvogih" src="//www.hribi.net/slike1/Gubno 049819720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/maceljska_gora/21828" onclick="event.preventDefault(); window.open('/slika_gora/maceljska_gora/21828');"><img class="slikagm" alt="Maceljska gora" src="//slike2.hribi.net/slike14/2_5659731431382_2dscn7943.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lovska_koca_na_brvogih/6112" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_brvogih/6112');"><img class="slikagm" alt="Lovska koča na Brvogih" src="//www.hribi.net/slike1/Gubno 053819720.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lovska_koca_na_brvogih/6113" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_brvogih/6113');"><img class="slikagm" alt="Lovska koča na Brvogih" src="//www.hribi.net/slike1/Gubno 048819720.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/lovska_koca_na_brvogih/6114" onclick="event.preventDefault(); window.open('/slika_gora/lovska_koca_na_brvogih/6114');"><img class="slikagm" alt="Lovska koča na Brvogih" src="//www.hribi.net/slike1/Gubno 158819720.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/maceljska_gora/21829" onclick="event.preventDefault(); window.open('/slika_gora/maceljska_gora/21829');"><img class="slikagm" alt="Maceljska gora" src="//slike2.hribi.net/slike14/2_0153731406489_0dscn7944.jpg" /></a>
     
 </div>
 
@@ -916,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1519&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3674&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -926,7 +922,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/erjavcev_rovt_lovska_koca_na_brvogih/11/1519/2615">Erjavčev rovt - Lovska koča na Brvogih</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_lovska_koca_na_brvogih/11/1519/2615">1 h</a></td><td class="tdG"><a href="/izlet/erjavcev_rovt_lovska_koca_na_brvogih/11/1519/2615">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zetale_maceljska_gora/11/3674/8966">Žetale - Maceljska gora</a></td><td class="tdG"><a href="/izlet/zetale_maceljska_gora/11/3674/8966">1 h 45 min</a></td><td class="tdG"><a href="/izlet/zetale_maceljska_gora/11/3674/8966">lahko brezpotje</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/prelaz_vrhe_maceljska_gora_mimo_izvira_sotle/11/3674/8971">Prelaz Vrhe - Maceljska gora (mimo izvira Sotle)</a></td><td class="tdG"><a href="/izlet/prelaz_vrhe_maceljska_gora_mimo_izvira_sotle/11/3674/8971">1 h 50 min</a></td><td class="tdG"><a href="/izlet/prelaz_vrhe_maceljska_gora_mimo_izvira_sotle/11/3674/8971">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lovska_koca_lipovec_maceljska_gora_zahodna_pot/11/3674/8968">Lovska koča Lipovec - Maceljska gora (zahodna pot)</a></td><td class="tdG"><a href="/izlet/lovska_koca_lipovec_maceljska_gora_zahodna_pot/11/3674/8968">1 h 35 min</a></td><td class="tdG"><a href="/izlet/lovska_koca_lipovec_maceljska_gora_zahodna_pot/11/3674/8968">lahko brezpotje</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lovska_koca_lipovec_maceljska_gora_vzhodna_pot/11/3674/8970">Lovska koča Lipovec - Maceljska gora (vzhodna pot)</a></td><td class="tdG"><a href="/izlet/lovska_koca_lipovec_maceljska_gora_vzhodna_pot/11/3674/8970">1 h 35 min</a></td><td class="tdG"><a href="/izlet/lovska_koca_lipovec_maceljska_gora_vzhodna_pot/11/3674/8970">lahko brezpotje</a></td></tr>
 
 </table>
 

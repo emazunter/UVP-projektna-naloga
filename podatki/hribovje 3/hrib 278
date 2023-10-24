@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Turni (pri Kozjem vrhu)</title>
-        <meta name="description" content="Natančen opis gore Turni (pri Kozjem vrhu) in vseh pristopov na Turni (pri Kozjem vrhu). Turni so 1432 metrov visoka gora, ki se nahaja zahodno od Kozjega vrha. S prepad." />
+        <title>Slap Peračica</title>
+        <meta name="description" content="Natančen opis slapa Slap Peračica in vseh pristopov na Slap Peračica. Slap Peračica, tudi Peračiški slap, je 5 metrov visok slap, ki se nahaja na poto." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2581?gorovjeid=3&amp;id=2581" id="form1">
+    <form method="post" action="./2760?gorovjeid=3&amp;id=2760" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/turni_at_kozji_vrh/3/2581"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2581"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/peracica_waterfall/3/2760"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2760"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Turni (pri Kozjem vrhu)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Slap Peračica
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2581);
+    gorast(2760);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Turni (pri Kozjem vrhu)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Slap Peračica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1432&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 430&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,9618'N&nbsp;/&nbsp;14°&nbsp;26,1900'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;20,4120'N&nbsp;/&nbsp;14°&nbsp;13,5300'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;57,71''N&nbsp;/&nbsp;14°&nbsp;26'&nbsp;11,40''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;20'&nbsp;24,72''N&nbsp;/&nbsp;14°&nbsp;13'&nbsp;31,80''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.36603°N&nbsp;/&nbsp;14.4365°E";
+                        document.getElementById("kf0").innerHTML = "46.3402°N&nbsp;/&nbsp;14.2255°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,36603°N,&nbsp;14,4365°E";
+                    document.getElementById("kf0").innerHTML = "46,3402°N,&nbsp;14,2255°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,36603°N&nbsp;14,4365°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/turni_pri_kozjem_vrhu/2581"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3402°N&nbsp;14,2255°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/slap_peracica/2760"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> slap, jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Slap Peračica - Torek" href="/vreme_gora/slap_peracica/3/2760#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Slap Peračica - Sreda" href="/vreme_gora/slap_peracica/3/2760#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Slap Peračica - Četrtek" href="/vreme_gora/slap_peracica/3/2760#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Turni (pri Kozjem vrhu) - Petek" href="/vreme_gora/turni_pri_kozjem_vrhu/3/2581#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Slap Peračica - Petek" href="/vreme_gora/slap_peracica/3/2760#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Turni (pri Kozjem vrhu) - Sobota" href="/vreme_gora/turni_pri_kozjem_vrhu/3/2581#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Turni (pri Kozjem vrhu) - Nedelja" href="/vreme_gora/turni_pri_kozjem_vrhu/3/2581#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Turni (pri Kozjem vrhu) - Ponedeljek" href="/vreme_gora/turni_pri_kozjem_vrhu/3/2581#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Turni (pri Kozjem vrhu) - Torek" href="/vreme_gora/turni_pri_kozjem_vrhu/3/2581#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Slap Peračica - Sobota" href="/vreme_gora/slap_peracica/3/2760#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 2.170</div>
-<div class="g2"><b>Priljubljenost:</b> 28%&nbsp;(2382.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 15.300</div>
+<div class="g2"><b>Priljubljenost:</b> 39%&nbsp;(2005.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">18</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Turni so 1432 metrov visoka gora, ki se nahaja zahodno od Kozjega vrha. S prepadnega vrha, se nam odpre lep pogled proti Srednjemu vrhu, Storžiču, Košuti in ostalim okoliškim goram, ob dobri vidljivosti pa se vidi tudi Triglav..</div>
+<div style="padding-top:10px;"><b>Opis slapa:</b><br />Slap Peračica, tudi Peračiški slap, je 5 metrov visok slap, ki se nahaja na potoku Peračica. Pod slapom se nahaja manjše jezerce, ob slapu pa se nahajata še informativna tabla in vpisna skrinjica.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2581&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2760&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/kozji_vrh/3/281">Kozji vrh (1628m)</a>, <a class="moder" href="/gora/licjanovec/3/2582">Licjanovec (1733m)</a>
+<a class="moder" href="/gora/bazilika_marije_pomagaj_na_brezjah/3/2762">Bazilika Marije Pomagaj na Brezjah (486m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,26 +835,55 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/drazgose/4189">Dražgoše</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/rudno/272">Rudno</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fturni_pri_kozjem_vrhu%2f3%2f2581"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fturni_pri_kozjem_vrhu%2f3%2f2581"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fturni_pri_kozjem_vrhu%2f3%2f2581"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fslap_peracica%2f3%2f2760"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fslap_peracica%2f3%2f2760"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fslap_peracica%2f3%2f2760"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/slap_peracica/2760" title="Slap Peračica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.51099537291slap_peracica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/turni_pri_kozjem_vrhu/14139" onclick="event.preventDefault(); window.open('/slika_gora/turni_pri_kozjem_vrhu/14139');"><img class="slikagm" alt="Turni (pri Kozjem vrhu)" src="//www.hribi.net/slike1/DSCN7494790020.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slap_peracica/15542" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/15542');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_1629541269956_DSCN6072.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/turni_pri_kozjem_vrhu/14140" onclick="event.preventDefault(); window.open('/slika_gora/turni_pri_kozjem_vrhu/14140');"><img class="slikagm" alt="Turni (pri Kozjem vrhu)" src="//www.hribi.net/slike1/DSCN7490790020.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slap_peracica/15543" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/15543');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_0539541269979_DSCN6074.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/turni_pri_kozjem_vrhu/14141" onclick="event.preventDefault(); window.open('/slika_gora/turni_pri_kozjem_vrhu/14141');"><img class="slikagm" alt="Turni (pri Kozjem vrhu)" src="//slike.hribi.net/slike4/2_0841504430774_DSCN7491.JPG" /></a>
+        <a target="_blank" href="/slika_gora/slap_peracica/15544" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/15544');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_1210541269982_DSCN6080.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/turni_pri_kozjem_vrhu/14144" onclick="event.preventDefault(); window.open('/slika_gora/turni_pri_kozjem_vrhu/14144');"><img class="slikagm" alt="Turni (pri Kozjem vrhu)" src="//www.hribi.net/slike1/DSCN78431158300.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slap_peracica/15545" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/15545');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_0663541270012_DSCN6081.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/turni_pri_kozjem_vrhu/14145" onclick="event.preventDefault(); window.open('/slika_gora/turni_pri_kozjem_vrhu/14145');"><img class="slikagm" alt="Turni (pri Kozjem vrhu)" src="//www.hribi.net/slike1/DSCN78121514700.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/slap_peracica/15546" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/15546');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_1609541270015_DSCN6082.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/15547" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/15547');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_232541270018_DSCN6090.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/15548" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/15548');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_0720541270051_DSCN6092.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/15549" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/15549');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_1360541270054_DSCN6095.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/15550" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/15550');"><img class="slikagm" alt="Slap Peračica" src="//www.hribi.net/slike1/DSCN6091114240.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/16554" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/16554');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_0653572185133_DSCN5572.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/16555" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/16555');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_0928572185164_DSCN5584.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/16556" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/16556');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_045572185200_DSCN5603.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/16557" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/16557');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_1207572185204_DSCN5606.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/17452" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/17452');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_0219594230419_DSCN5164.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/17453" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/17453');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_1340594230423_DSCN5166.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/17454" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/17454');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_0300594230450_DSCN5174.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/17455" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/17455');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_0935594230495_DSCN5180.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/slap_peracica/17456" onclick="event.preventDefault(); window.open('/slika_gora/slap_peracica/17456');"><img class="slikagm" alt="Slap Peračica" src="//slike.hribi.net/slike4/2_0548594230518_DSCN5189.JPG" /></a>
     
 </div>
 
@@ -918,7 +947,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2581&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2760&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -928,7 +957,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kanonir_turni_pri_kozjem_vrhu/3/2581/5690">Kanonir - Turni (pri Kozjem vrhu)</a></td><td class="tdG"><a href="/izlet/kanonir_turni_pri_kozjem_vrhu/3/2581/5690">2 h</a></td><td class="tdG"><a href="/izlet/kanonir_turni_pri_kozjem_vrhu/3/2581/5690">delno zahtevna označena pot, lahko brezpotje</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/brezje_slap_peracica/3/2760/6275">Brezje - Slap Peračica</a></td><td class="tdG"><a href="/izlet/brezje_slap_peracica/3/2760/6275"> 50 min</a></td><td class="tdG"><a href="/izlet/brezje_slap_peracica/3/2760/6275">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/peracica_slap_peracica/3/2760/6277">Peračica - Slap Peračica</a></td><td class="tdG"><a href="/izlet/peracica_slap_peracica/3/2760/6277"> 45 min</a></td><td class="tdG"><a href="/izlet/peracica_slap_peracica/3/2760/6277">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/crnivec_slap_peracica_po_pespoti/3/2760/6667">Črnivec - Slap Peračica (po pešpoti)</a></td><td class="tdG"><a href="/izlet/crnivec_slap_peracica_po_pespoti/3/2760/6667"> 10 min</a></td><td class="tdG"><a href="/izlet/crnivec_slap_peracica_po_pespoti/3/2760/6667">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dvorska_vas_slap_peracica/3/2760/6668">Dvorska vas - Slap Peračica</a></td><td class="tdG"><a href="/izlet/dvorska_vas_slap_peracica/3/2760/6668">1 h 10 min</a></td><td class="tdG"><a href="/izlet/dvorska_vas_slap_peracica/3/2760/6668">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/crnivec_slap_peracica_po_cesti/3/2760/6669">Črnivec - Slap Peračica (po cesti)</a></td><td class="tdG"><a href="/izlet/crnivec_slap_peracica_po_cesti/3/2760/6669"> 20 min</a></td><td class="tdG"><a href="/izlet/crnivec_slap_peracica_po_cesti/3/2760/6669">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planina Ravne</title>
-        <meta name="description" content="Natančen opis planine Planina Ravne in vseh pristopov na Planina Ravne. Planina Ravne (tudi planina Ravni) se nahaja na jugovzhodnem robu Dleskovške pla." />
+        <title>Apnišče</title>
+        <meta name="description" content="Natančen opis gore Apnišče in vseh pristopov na Apnišče. Apnišče je 740 m visoka gora, ki se nahaja med Možjanco in Štefanjo goro. Je naj." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2118?gorovjeid=3&amp;id=2118" id="form1">
+    <form method="post" action="./2458?gorovjeid=3&amp;id=2458" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_ravne/3/2118"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2118"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/apnisce/3/2458"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=2458"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Planina Ravne
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Apnišče
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2118);
+    gorast(2458);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planina Ravne</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Apnišče</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1500&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 740&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,00'N&nbsp;/&nbsp;14°&nbsp;41,9520'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,2902'N&nbsp;/&nbsp;14°&nbsp;27,6798'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;0,00''N&nbsp;/&nbsp;14°&nbsp;41'&nbsp;57,12''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;17,41''N&nbsp;/&nbsp;14°&nbsp;27'&nbsp;40,79''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.35°N&nbsp;/&nbsp;14.6992°E";
+                        document.getElementById("kf0").innerHTML = "46.28817°N&nbsp;/&nbsp;14.46133°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,35°N,&nbsp;14,6992°E";
+                    document.getElementById("kf0").innerHTML = "46,28817°N,&nbsp;14,46133°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35°N&nbsp;14,6992°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_ravne/2118"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,28817°N&nbsp;14,46133°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/apnisce/2458"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> planina</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Apnišče - Torek" href="/vreme_gora/apnisce/3/2458#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Apnišče - Sreda" href="/vreme_gora/apnisce/3/2458#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Apnišče - Četrtek" href="/vreme_gora/apnisce/3/2458#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Ravne - Petek" href="/vreme_gora/planina_ravne/3/2118#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Apnišče - Petek" href="/vreme_gora/apnisce/3/2458#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Ravne - Sobota" href="/vreme_gora/planina_ravne/3/2118#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Ravne - Nedelja" href="/vreme_gora/planina_ravne/3/2118#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Ravne - Ponedeljek" href="/vreme_gora/planina_ravne/3/2118#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Ravne - Torek" href="/vreme_gora/planina_ravne/3/2118#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Apnišče - Sobota" href="/vreme_gora/apnisce/3/2458#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 304.485</div>
-<div class="g2"><b>Priljubljenost:</b> 70%&nbsp;(992.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2118" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 6.760</div>
+<div class="g2"><b>Priljubljenost:</b> 36%&nbsp;(2094.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=2458" title="Število vpisov v vpisni knjigi">3</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Ravne (tudi planina Ravni) se nahaja na jugovzhodnem robu Dleskovške planote, oz. vzhodno do jugovzhodno od Dleskovca. S planine na kateri v poletnih mesecih še vedno pasejo živino in na kateri stoji lepo vzdrževana koča, se nam odpre lep pogled po planini in bližnjemu Dleskovcu.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Apnišče je 740 m visoka gora, ki se nahaja med Možjanco in Štefanjo goro. Je najvišja točka Šenčurske občine. Na vrhu, ki ni razgleden, saj je poraščen, se nahajata klopca in žig.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2118&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2458&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/dleskovec/3/380">Dleskovec (1965m)</a>, <a class="moder" href="/gora/planina_dolga_trata/3/708">Planina Dolga trata (1835m)</a>, <a class="moder" href="/gora/planina_vodole/3/1345">Planina Vodole (1570m)</a>
+<a class="moder" href="/gora/jamna_pec/3/3077">Jamna peč (720m)</a>, <a class="moder" href="/gora/stefanja_gora/3/1230">Štefanja gora (748m)</a>, <a class="moder" href="/gora/sveti_nikolaj_mozjanca/3/2630">Sveti Nikolaj (Možjanca) (689m)</a>, <a class="moder" href="/gora/zapecnikova_planina/3/3152">Zapečnikova planina (840m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,37 +835,32 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/vodice_/2187">Vodice </a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_ravne%2f3%2f2118"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_ravne%2f3%2f2118"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_ravne%2f3%2f2118"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fapnisce%2f3%2f2458"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fapnisce%2f3%2f2458"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fapnisce%2f3%2f2458"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/planina_ravne/2118" title="Planina Ravne 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninaRavneVeza.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planina_ravne/10448" onclick="event.preventDefault(); window.open('/slika_gora/planina_ravne/10448');"><img class="slikagm" alt="Planina Ravne" src="//slike.hribi.net/slike4/2_1706409736083_Korosica12_023.JPG" /></a>
+        <a target="_blank" href="/slika_gora/apnisce/13269" onclick="event.preventDefault(); window.open('/slika_gora/apnisce/13269');"><img class="slikagm" alt="Apnišče" src="//www.hribi.net/slike5/DSCN47647935079.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_ravne/10449" onclick="event.preventDefault(); window.open('/slika_gora/planina_ravne/10449');"><img class="slikagm" alt="Planina Ravne" src="//www.hribi.net/slike1/P9200011793800.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/apnisce/13270" onclick="event.preventDefault(); window.open('/slika_gora/apnisce/13270');"><img class="slikagm" alt="Apnišče" src="//www.hribi.net/slike5/DSCN47497935081.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_ravne/10450" onclick="event.preventDefault(); window.open('/slika_gora/planina_ravne/10450');"><img class="slikagm" alt="Planina Ravne" src="//www.hribi.net/slike1/Dleskovec%20005576000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/apnisce/14566" onclick="event.preventDefault(); window.open('/slika_gora/apnisce/14566');"><img class="slikagm" alt="Apnišče" src="//www.hribi.net/slike1/DSCN7336159744.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_ravne/10451" onclick="event.preventDefault(); window.open('/slika_gora/planina_ravne/10451');"><img class="slikagm" alt="Planina Ravne" src="//www.hribi.net/slike1/Dleskovec%20008944640.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/apnisce/15860" onclick="event.preventDefault(); window.open('/slika_gora/apnisce/15860');"><img class="slikagm" alt="Apnišče" src="//slike.hribi.net/slike4/2_6339553800248_DSCN8393.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_ravne/10460" onclick="event.preventDefault(); window.open('/slika_gora/planina_ravne/10460');"><img class="slikagm" alt="Planina Ravne" src="//www.hribi.net/slike1/Korosica12 025475200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/apnisce/15861" onclick="event.preventDefault(); window.open('/slika_gora/apnisce/15861');"><img class="slikagm" alt="Apnišče" src="//slike.hribi.net/slike4/2_1307553540711_DSCN8397.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_ravne/10461" onclick="event.preventDefault(); window.open('/slika_gora/planina_ravne/10461');"><img class="slikagm" alt="Planina Ravne" src="//www.hribi.net/slike1/Korosica12 027475200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/apnisce/16590" onclick="event.preventDefault(); window.open('/slika_gora/apnisce/16590');"><img class="slikagm" alt="Apnišče" src="//slike.hribi.net/slike4/2_2482573581127_DSCN6289.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_ravne/10462" onclick="event.preventDefault(); window.open('/slika_gora/planina_ravne/10462');"><img class="slikagm" alt="Planina Ravne" src="//www.hribi.net/slike1/Korosica12 064475200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/apnisce/16591" onclick="event.preventDefault(); window.open('/slika_gora/apnisce/16591');"><img class="slikagm" alt="Apnišče" src="//slike.hribi.net/slike4/2_0126573291006_DSCN6308.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_ravne/15222" onclick="event.preventDefault(); window.open('/slika_gora/planina_ravne/15222');"><img class="slikagm" alt="Planina Ravne" src="//www.hribi.net/slike1/P82602851267200.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/planina_ravne/15223" onclick="event.preventDefault(); window.open('/slika_gora/planina_ravne/15223');"><img class="slikagm" alt="Planina Ravne" src="//www.hribi.net/slike1/P82602831267200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/apnisce/16592" onclick="event.preventDefault(); window.open('/slika_gora/apnisce/16592');"><img class="slikagm" alt="Apnišče" src="//slike.hribi.net/slike4/2_0827573581712_DSCN6309.JPG" /></a>
     
 </div>
 
@@ -929,7 +924,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2118&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2458&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -939,7 +934,17 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planica_planinsek_planina_ravne_po_cesti/3/2118/4228">Planica (Planinšek) - Planina Ravne (po cesti)</a></td><td class="tdG"><a href="/izlet/planica_planinsek_planina_ravne_po_cesti/3/2118/4228">1 h 15 min</a></td><td class="tdG"><a href="/izlet/planica_planinsek_planina_ravne_po_cesti/3/2118/4228">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mozjanca_apnisce/3/2458/5157">Možjanca - Apnišče</a></td><td class="tdG"><a href="/izlet/mozjanca_apnisce/3/2458/5157"> 35 min</a></td><td class="tdG"><a href="/izlet/mozjanca_apnisce/3/2458/5157">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/olsevek_apnisce_zahodna_pot/3/2458/6430">Olševek - Apnišče (zahodna pot)</a></td><td class="tdG"><a href="/izlet/olsevek_apnisce_zahodna_pot/3/2458/6430"> 55 min</a></td><td class="tdG"><a href="/izlet/olsevek_apnisce_zahodna_pot/3/2458/6430">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/olsevek_apnisce_mimo_sterne/3/2458/6431">Olševek - Apnišče (mimo šterne)</a></td><td class="tdG"><a href="/izlet/olsevek_apnisce_mimo_sterne/3/2458/6431"> 55 min</a></td><td class="tdG"><a href="/izlet/olsevek_apnisce_mimo_sterne/3/2458/6431">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/adergas_apnisce_mimo_sterne/3/2458/6573">Adergas - Apnišče (mimo šterne)</a></td><td class="tdG"><a href="/izlet/adergas_apnisce_mimo_sterne/3/2458/6573">1 h</a></td><td class="tdG"><a href="/izlet/adergas_apnisce_mimo_sterne/3/2458/6573">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/preddvor_apnisce_po_pespoti/3/2458/6682">Preddvor - Apnišče (po pešpoti)</a></td><td class="tdG"><a href="/izlet/preddvor_apnisce_po_pespoti/3/2458/6682">1 h 15 min</a></td><td class="tdG"><a href="/izlet/preddvor_apnisce_po_pespoti/3/2458/6682">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/velesovo_apnisce_mimo_sterne/3/2458/7950">Velesovo - Apnišče (mimo šterne)</a></td><td class="tdG"><a href="/izlet/velesovo_apnisce_mimo_sterne/3/2458/7950">1 h 10 min</a></td><td class="tdG"><a href="/izlet/velesovo_apnisce_mimo_sterne/3/2458/7950">lahka označena pot</a></td></tr>
 
 </table>
 

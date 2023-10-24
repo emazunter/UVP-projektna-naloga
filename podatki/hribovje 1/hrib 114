@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Črni vrh (pri Lokvah)</title>
-        <meta name="description" content="Natančen opis gore Črni vrh (pri Lokvah) in vseh pristopov na Črni vrh (pri Lokvah). Črni vrh je razgleden vrh nad Čepovanskim dolom, ki se nahaja severozahodno od L." />
+        <title>Sončnica (Reber)</title>
+        <meta name="description" content="Natančen opis gore Sončnica (Reber) in vseh pristopov na Sončnica (Reber). Sončnica je vzletišče jadralnih padalcev na obrobju planote Gora ali grebena Reb." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3129?gorovjeid=26&amp;id=3129" id="form1">
+    <form method="post" action="./2494?gorovjeid=26&amp;id=2494" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/crni_vrh_at_lokve/26/3129"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=3129"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/soncnica_reber/26/2494"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2494"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Črni vrh (pri Lokvah)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Sončnica (Reber)
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3129);
+    gorast(2494);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Črni vrh (pri Lokvah)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sončnica (Reber)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1072&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 867&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;0,9540'N&nbsp;/&nbsp;13°&nbsp;46,8900'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;53,1318'N&nbsp;/&nbsp;13°&nbsp;57,7734'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;0'&nbsp;57,24''N&nbsp;/&nbsp;13°&nbsp;46'&nbsp;53,40''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;53'&nbsp;7,91''N&nbsp;/&nbsp;13°&nbsp;57'&nbsp;46,40''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.0159°N&nbsp;/&nbsp;13.7815°E";
+                        document.getElementById("kf0").innerHTML = "45.88553°N&nbsp;/&nbsp;13.96289°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,0159°N,&nbsp;13,7815°E";
+                    document.getElementById("kf0").innerHTML = "45,88553°N,&nbsp;13,96289°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,0159°N&nbsp;13,7815°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/crni_vrh_pri_lokvah/3129"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,88553°N&nbsp;13,96289°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/soncnica_reber/2494"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sončnica (Reber) - Torek" href="/vreme_gora/soncnica_reber/26/2494#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sončnica (Reber) - Sreda" href="/vreme_gora/soncnica_reber/26/2494#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sončnica (Reber) - Četrtek" href="/vreme_gora/soncnica_reber/26/2494#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Črni vrh (pri Lokvah) - Petek" href="/vreme_gora/crni_vrh_pri_lokvah/26/3129#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sončnica (Reber) - Petek" href="/vreme_gora/soncnica_reber/26/2494#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Črni vrh (pri Lokvah) - Sobota" href="/vreme_gora/crni_vrh_pri_lokvah/26/3129#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Črni vrh (pri Lokvah) - Nedelja" href="/vreme_gora/crni_vrh_pri_lokvah/26/3129#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Črni vrh (pri Lokvah) - Ponedeljek" href="/vreme_gora/crni_vrh_pri_lokvah/26/3129#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Črni vrh (pri Lokvah) - Torek" href="/vreme_gora/crni_vrh_pri_lokvah/26/3129#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sončnica (Reber) - Sobota" href="/vreme_gora/soncnica_reber/26/2494#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 9.636</div>
-<div class="g2"><b>Priljubljenost:</b> 38%&nbsp;(2049.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Ogledov:</b> 5.307</div>
+<div class="g2"><b>Priljubljenost:</b> 35%&nbsp;(2128.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Črni vrh je razgleden vrh nad Čepovanskim dolom, ki se nahaja severozahodno od Lokvi na planoti Trnovskega gozda. Z vrha, na katerem se nahajajo oddajniki, se nam odpre lep pogled proti Čepovanu, ter delu Banjške in Trnovske planote, ob lepi vidljivosti pa razgled seže do Krna, Kanina in drugih vrhov v Julijskih Alpah.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Sončnica je vzletišče jadralnih padalcev na obrobju planote Gora ali grebena Reber. Ob vzletišču, od koder se odpre lep pogled proti Vipavski dolini, se nahaja nekaj klopi, avtomatska vremenska postaja Kovk ter informativna tabla. Vpisna skrinjica se nahaja na bližnjem razpotju poti, kjer se s poti po Robu proti dolini odcepi markirana pot proti Lovski koči Budanje.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3129&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2494&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/skol/26/1743">Škol (1182m)</a>
+<a class="moder" href="/gora/kovk/26/1183">Kovk (961m)</a>, <a class="moder" href="/gora/kraguljc/26/2496">Kraguljc (897m)</a>, <a class="moder" href="/gora/podrta_gora_nad_ajdovscino/26/2495">Podrta gora nad Ajdovščino (827m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,20 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/deskle/2025">Deskle</a>, <a class="moder" href="/spletna_kamera/gorica/1670">Gorica</a>, <a class="moder" href="/spletna_kamera/goriski_grad___comune_di_gorizia/2056">Goriški grad / Comune di Gorizia</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kostanjevica_pri_novi_gorici/3510">Kostanjevica pri Novi Gorici</a>, <a class="moder" href="/spletna_kamera/lijak/344">Lijak</a>, <a class="moder" href="/spletna_kamera/lokve/193">Lokve</a>, <a class="moder" href="/spletna_kamera/lokve/348">Lokve</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/nova_gorica/1012">Nova Gorica</a>, <a class="moder" href="/spletna_kamera/nova_gorica_panovec/282">Nova Gorica (Panovec)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_sportni_park_nova_gorica/4298">Nova Gorica (Športni park Nova Gorica)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_trg_edvarda_kardelja/4097">Nova Gorica (Trg Edvarda Kardelja)</a>, <a class="moder" href="/spletna_kamera/nova_gorica_-_rolkarski_park/1996">Nova Gorica - rolkarski park</a>, <a class="moder" href="/spletna_kamera/nova_gorica_center/1697">Nova Gorica center</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/ozeljan/2075">Ozeljan</a>, <a class="moder" href="/spletna_kamera/panovec/346">Panovec</a>, <a class="moder" href="/spletna_kamera/rafut/1884">Rafut</a>, <a class="moder" href="/spletna_kamera/rozna_dolina/1706">Rožna Dolina</a>, <a class="moder" href="/spletna_kamera/sebreljski_vrh/2142">Šebreljski Vrh</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/sempeter_pri_gorici/2155">Šempeter pri Gorici</a>, <a class="moder" href="/spletna_kamera/sempeter_pri_gorici/4225">Šempeter pri Gorici</a>, <a class="moder" href="/spletna_kamera/solkan/1663">Solkan</a>, <a class="moder" href="/spletna_kamera/solkan_brv_cez_soco/4065">Solkan (brv čez Sočo)</a>, <a class="moder" href="/spletna_kamera/solkanski_most/3326">Solkanski most</a>, <a class="moder" href="/spletna_kamera/sveta_gora/1882">Sveta Gora</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/trnovo_pri_gorici/2144">Trnovo pri Gorici</a>, <a class="moder" href="/spletna_kamera/vojsko/2226">Vojsko</a>
+<a class="moder" href="/spletna_kamera/ajdovscina/339">Ajdovščina</a>, <a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/branik/1848">Branik</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/dolenje/2083">Dolenje</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/nanos_plesa/2957">Nanos (Pleša)</a>, <a class="moder" href="/spletna_kamera/otlica/2084">Otlica</a>, <a class="moder" href="/spletna_kamera/podgric/1414">Podgrič</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/rebrnice/1409">Rebrnice</a>, <a class="moder" href="/spletna_kamera/selo/343">Selo</a>, <a class="moder" href="/spletna_kamera/stanjel_ferrarijev_vrt/4213">Štanjel (Ferrarijev vrt)</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/vipavski_kriz/341">Vipavski Križ</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fcrni_vrh_pri_lokvah%2f26%2f3129"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fcrni_vrh_pri_lokvah%2f26%2f3129"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fcrni_vrh_pri_lokvah%2f26%2f3129"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsoncnica_reber%2f26%2f2494"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsoncnica_reber%2f26%2f2494"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsoncnica_reber%2f26%2f2494"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/crni_vrh_pri_lokvah/18537" onclick="event.preventDefault(); window.open('/slika_gora/crni_vrh_pri_lokvah/18537');"><img class="slikagm" alt="Črni vrh (pri Lokvah)" src="//slike.hribi.net/slike4/2_0759620494223_DSCN1352.JPG" /></a>
+        <a target="_blank" href="/slika_gora/soncnica_reber/13448" onclick="event.preventDefault(); window.open('/slika_gora/soncnica_reber/13448');"><img class="slikagm" alt="Sončnica (Reber)" src="//www.hribi.net/slike1/DSCN3981302400.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/crni_vrh_pri_lokvah/18538" onclick="event.preventDefault(); window.open('/slika_gora/crni_vrh_pri_lokvah/18538');"><img class="slikagm" alt="Črni vrh (pri Lokvah)" src="//slike.hribi.net/slike4/2_0944620751617_DSCN1345.JPG" /></a>
+        <a target="_blank" href="/slika_gora/soncnica_reber/13449" onclick="event.preventDefault(); window.open('/slika_gora/soncnica_reber/13449');"><img class="slikagm" alt="Sončnica (Reber)" src="//www.hribi.net/slike1/DSCN3975302400.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/soncnica_reber/13450" onclick="event.preventDefault(); window.open('/slika_gora/soncnica_reber/13450');"><img class="slikagm" alt="Sončnica (Reber)" src="//www.hribi.net/slike1/DSCN3974296100.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/soncnica_reber/13451" onclick="event.preventDefault(); window.open('/slika_gora/soncnica_reber/13451');"><img class="slikagm" alt="Sončnica (Reber)" src="//www.hribi.net/slike1/DSCN3963296100.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/soncnica_reber/13452" onclick="event.preventDefault(); window.open('/slika_gora/soncnica_reber/13452');"><img class="slikagm" alt="Sončnica (Reber)" src="//www.hribi.net/slike1/DSCN3965296100.th.jpg" /></a>
     
 </div>
 
@@ -912,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3129&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2494&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,7 +928,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lokve_crni_vrh_pri_lokvah/26/3129/7431">Lokve - Črni vrh (pri Lokvah)</a></td><td class="tdG"><a href="/izlet/lokve_crni_vrh_pri_lokvah/26/3129/7431"> 25 min</a></td><td class="tdG"><a href="/izlet/lokve_crni_vrh_pri_lokvah/26/3129/7431">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lovska_koca_budanje_soncnica_reber/26/2494/5300">Lovska koča Budanje - Sončnica (Reber)</a></td><td class="tdG"><a href="/izlet/lovska_koca_budanje_soncnica_reber/26/2494/5300">1 h 10 min</a></td><td class="tdG"><a href="/izlet/lovska_koca_budanje_soncnica_reber/26/2494/5300">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/col_soncnica_reber/26/2494/5310">Col - Sončnica (Reber)</a></td><td class="tdG"><a href="/izlet/col_soncnica_reber/26/2494/5310">1 h 20 min</a></td><td class="tdG"><a href="/izlet/col_soncnica_reber/26/2494/5310">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/jamce_soncnica_reber/26/2494/5315">Jamce - Sončnica (Reber)</a></td><td class="tdG"><a href="/izlet/jamce_soncnica_reber/26/2494/5315">1 h 45 min</a></td><td class="tdG"><a href="/izlet/jamce_soncnica_reber/26/2494/5315">lahka neoznačena steza</a></td></tr>
 
 </table>
 

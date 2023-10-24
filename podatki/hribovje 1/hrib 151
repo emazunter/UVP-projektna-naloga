@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča na Kozleku</title>
-        <meta name="description" content="Natančen opis gore Koča na Kozleku in vseh pristopov na Koča na Kozleku. Koča se nahaja jugozahodno od Ilirske Bistrice, le nekaj metrov pod vrhom Kozlek." />
+        <title>Sveta Marija na Planinski gori</title>
+        <meta name="description" content="Natančen opis cerkve Sveta Marija na Planinski gori in vseh pristopov na Sveta Marija na Planinski gori. Planinska gora se dviga nad Planinskim poljem pri Planini. Pod Grmado (873 m), k." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./819?gorovjeid=26&amp;id=819" id="form1">
+    <form method="post" action="./798?gorovjeid=26&amp;id=798" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_kozleku/26/819"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=819"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveta_marija_on_planinska_gora/26/798"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=798"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Koča na Kozleku
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Sveta Marija na Planinski gori
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(819);
+    gorast(798);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča na Kozleku</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveta Marija na Planinski gori</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 997&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 782&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;32,6748'N&nbsp;/&nbsp;14°&nbsp;19,3554'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;50,2500'N&nbsp;/&nbsp;14°&nbsp;14,0202'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;32'&nbsp;40,49''N&nbsp;/&nbsp;14°&nbsp;19'&nbsp;21,32''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;50'&nbsp;15,00''N&nbsp;/&nbsp;14°&nbsp;14'&nbsp;1,21''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.54458°N&nbsp;/&nbsp;14.32259°E";
+                        document.getElementById("kf0").innerHTML = "45.8375°N&nbsp;/&nbsp;14.23367°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,54458°N,&nbsp;14,32259°E";
+                    document.getElementById("kf0").innerHTML = "45,8375°N,&nbsp;14,23367°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,54458°N&nbsp;14,32259°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_kozleku/819"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,8375°N&nbsp;14,23367°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveta_marija_na_planinski_gori/798"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča</div>
+    <div class="g2"><b>Vrsta:</b> cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Marija na Planinski gori - Torek" href="/vreme_gora/sveta_marija_na_planinski_gori/26/798#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Marija na Planinski gori - Sreda" href="/vreme_gora/sveta_marija_na_planinski_gori/26/798#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Marija na Planinski gori - Četrtek" href="/vreme_gora/sveta_marija_na_planinski_gori/26/798#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kozleku - Petek" href="/vreme_gora/koca_na_kozleku/26/819#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Marija na Planinski gori - Petek" href="/vreme_gora/sveta_marija_na_planinski_gori/26/798#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kozleku - Sobota" href="/vreme_gora/koca_na_kozleku/26/819#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kozleku - Nedelja" href="/vreme_gora/koca_na_kozleku/26/819#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kozleku - Ponedeljek" href="/vreme_gora/koca_na_kozleku/26/819#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Kozleku - Torek" href="/vreme_gora/koca_na_kozleku/26/819#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta Marija na Planinski gori - Sobota" href="/vreme_gora/sveta_marija_na_planinski_gori/26/798#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 361.362</div>
-<div class="g2"><b>Priljubljenost:</b> 76%&nbsp;(779.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Ogledov:</b> 362.781</div>
+<div class="g2"><b>Priljubljenost:</b> 77%&nbsp;(769.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=819" title="Število vpisov v vpisni knjigi">2</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Koča se nahaja jugozahodno od Ilirske Bistrice, le nekaj metrov pod vrhom Kozleka. Z vrha je lep pogled le proti jugu in zahodu, kjer vidimo dolino reke Reke in hribovje, ki obdaja omenjeno dolino. </div>
+<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Planinska gora se dviga nad Planinskim poljem pri Planini. Pod Grmado (873 m), ki je najbolj vzhodni vrh Planinske gore pa se nahaja cerkev Svete Marije, ki je bila postavljena leta 1657. V bližini cerkve pa se nahaja tudi kapelica okrogle oblike.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=819&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=798&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/srednji_vrh_pri_kozleku/26/820">Srednji vrh pri Kozleku (923m)</a>
+<a class="moder" href="/gora/grmada_planinska_gora/26/1221">Grmada (Planinska gora) (873m)</a>, <a class="moder" href="/gora/lovska_koca_na_planinski_gori/26/799">Lovska koča na Planinski gori (879m)</a>, <a class="moder" href="/gora/petricev_hrib/26/802">Petričev hrib (937m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,27 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/ilirska_bistrica/499">Ilirska Bistrica</a>, <a class="moder" href="/spletna_kamera/sneznik/1947">Snežnik</a>, <a class="moder" href="/spletna_kamera/starod/298">Starod</a>, <a class="moder" href="/spletna_kamera/sviscaki/2971">Sviščaki</a>
+<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/cerknisko_jezero/3634">Cerkniško jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/ivanje_selo/328">Ivanje selo</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/logatec/186">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec/326">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec_blekova_vas/1954">Logatec (Blekova vas)</a>, <a class="moder" href="/spletna_kamera/logatec_gorenja_vas/1868">Logatec (Gorenja vas)</a>, <a class="moder" href="/spletna_kamera/lom/327">Lom</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/nart/1718">Nart</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/petelinjsko_jezero/4191">Petelinjsko jezero</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/planina_pri_rakeku/1028">Planina pri Rakeku</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>, <a class="moder" href="/spletna_kamera/tankovski_most/4915">Tankovski most</a>, <a class="moder" href="/spletna_kamera/unec/329">Unec</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_kozleku%2f26%2f819"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_kozleku%2f26%2f819"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_kozleku%2f26%2f819"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_marija_na_planinski_gori%2f26%2f798"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_marija_na_planinski_gori%2f26%2f798"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_marija_na_planinski_gori%2f26%2f798"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koca_na_kozleku/819" title="Koča na Kozleku 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KocaKozlek.jpg" /></a></div>
+<div><a href="/panorama/360/sveta_marija_na_planinski_gori/798" title="Sveta Marija na Planinski gori 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SvetaMarijaPlaninskaGora.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_na_kozleku/2713" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kozleku/2713');"><img class="slikagm" alt="Koča na Kozleku" src="//www.hribi.net/sliketemp/P20600954315256.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_marija_na_planinski_gori/2648" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marija_na_planinski_gori/2648');"><img class="slikagm" alt="Sveta Marija na Planinski gori" src="//www.hribi.net/slike1/P113002061712.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_kozleku/2716" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kozleku/2716');"><img class="slikagm" alt="Koča na Kozleku" src="//www.hribi.net/slike1/P20601367488.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_marija_na_planinski_gori/2649" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marija_na_planinski_gori/2649');"><img class="slikagm" alt="Sveta Marija na Planinski gori" src="//www.hribi.net/slike1/P113002461712.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_kozleku/2717" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kozleku/2717');"><img class="slikagm" alt="Koča na Kozleku" src="//www.hribi.net/slike1/P20600817488.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_marija_na_planinski_gori/2650" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marija_na_planinski_gori/2650');"><img class="slikagm" alt="Sveta Marija na Planinski gori" src="//www.hribi.net/slike1/P113001861712.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_kozleku/2718" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_kozleku/2718');"><img class="slikagm" alt="Koča na Kozleku" src="//www.hribi.net/slike1/P206016924336.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_marija_na_planinski_gori/4092" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marija_na_planinski_gori/4092');"><img class="slikagm" alt="Sveta Marija na Planinski gori" src="//www.hribi.net/slike1/P322031952488.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveta_marija_na_planinski_gori/4103" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marija_na_planinski_gori/4103');"><img class="slikagm" alt="Sveta Marija na Planinski gori" src="//www.hribi.net/slike1/P322007572576.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/sveta_marija_na_planinski_gori/10921" onclick="event.preventDefault(); window.open('/slika_gora/sveta_marija_na_planinski_gori/10921');"><img class="slikagm" alt="Sveta Marija na Planinski gori" src="//www.hribi.net/slike1/PlaninskaGora%200591150500.th.jpg" /></a>
     
 </div>
 
@@ -919,7 +923,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=819&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=798&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -929,11 +933,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jablanica_koca_na_kozleku/26/819/1454">Jablanica - Koča na Kozleku</a></td><td class="tdG"><a href="/izlet/jablanica_koca_na_kozleku/26/819/1454">1 h 45 min</a></td><td class="tdG"><a href="/izlet/jablanica_koca_na_kozleku/26/819/1454">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_sveta_marija_na_planinski_gori/26/798/1419">Planina - Sveta Marija na Planinski gori</a></td><td class="tdG"><a href="/izlet/planina_sveta_marija_na_planinski_gori/26/798/1419"> 40 min</a></td><td class="tdG"><a href="/izlet/planina_sveta_marija_na_planinski_gori/26/798/1419">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/vrbiski_dol_koca_na_kozleku/26/819/1452">Vrbiški dol - Koča na Kozleku</a></td><td class="tdG"><a href="/izlet/vrbiski_dol_koca_na_kozleku/26/819/1452">1 h</a></td><td class="tdG"><a href="/izlet/vrbiski_dol_koca_na_kozleku/26/819/1452">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/lohaca_sveta_marija_na_planinski_gori_po_cesti/26/798/1422">Lohača - Sveta Marija na Planinski gori (po cesti)</a></td><td class="tdG"><a href="/izlet/lohaca_sveta_marija_na_planinski_gori_po_cesti/26/798/1422">1 h 15 min</a></td><td class="tdG"><a href="/izlet/lohaca_sveta_marija_na_planinski_gori_po_cesti/26/798/1422">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trpcane_koca_na_kozleku/26/819/1453">Trpčane - Koča na Kozleku</a></td><td class="tdG"><a href="/izlet/trpcane_koca_na_kozleku/26/819/1453">1 h 45 min</a></td><td class="tdG"><a href="/izlet/trpcane_koca_na_kozleku/26/819/1453">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_dolnja_planina_sveta_marija_na_planinski_gori_mimo_sv_duha/26/798/4444">Planina (Dolnja Planina) - Sveta Marija na Planinski gori (mimo Sv. Duha)</a></td><td class="tdG"><a href="/izlet/planina_dolnja_planina_sveta_marija_na_planinski_gori_mimo_sv_duha/26/798/4444"> 45 min</a></td><td class="tdG"><a href="/izlet/planina_dolnja_planina_sveta_marija_na_planinski_gori_mimo_sv_duha/26/798/4444">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_dolnja_planina_sveta_marija_na_planinski_gori_preko_zavrtnikov/26/798/4438">Planina (Dolnja Planina) - Sveta Marija na Planinski gori (preko Zavrtnikov)</a></td><td class="tdG"><a href="/izlet/planina_dolnja_planina_sveta_marija_na_planinski_gori_preko_zavrtnikov/26/798/4438"> 45 min</a></td><td class="tdG"><a href="/izlet/planina_dolnja_planina_sveta_marija_na_planinski_gori_preko_zavrtnikov/26/798/4438">lahka neoznačena steza</a></td></tr>
 
 </table>
 

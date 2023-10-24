@@ -55,9 +55,10 @@ def ustvari_linke(datoteka, vzorec):
     for koncnica_urlja in match_sez:
         cel_url = 'https://www.hribi.net' + koncnica_urlja
         seznam.append(cel_url)
-    #print(seznam)
+    seznam = seznam[1::2]
     return seznam
-#Znotraj datoteke seznama najdemo url-je posameznih gora.
+#Znotraj datoteke seznama najdemo url-je posameznih gora. Vsak url se pojavi dvakrat
+#zaporedoma, zato vzamemo samo vsak drugi element.
 
 #seznam_pravi = ustvari_linke(seznam_gorovij_dat, "/gorovje/.*/\d+")
 #Ustvari pomožni seznam linkov.
@@ -116,8 +117,7 @@ def izloci_podatke(blok):
     gora = vzorec_gore.search(blok).groupdict() 
     gora['visina'] = int(gora['visina'])
     gora['vrsta'] = (
-        "Ni podana" if r"</div>" in gora['vrsta'] 
-        else loci_vrste(gora['vrsta']))
+        "Ni podana" if r"</div>" in gora['vrsta'] else loci_vrste(gora['vrsta']))
     gora['ogledi'] = int(gora['ogledi'].replace(".", ""))
     gora['st_slik'] = int(gora['st_slik'])
     gora['st_poti'] = int(gora['st_poti'])
@@ -152,7 +152,7 @@ def seznam_slovarjev_za_vrste(hribovje):
                 for vrsta in slovar.get('vrsta'):
                     seznam.append({"ime": slovar.get('ime'), "vrsta": vrsta})
             else:
-                seznam.append({"ime": slovar.get('ime'), "vrsta": vrsta})
+                seznam.append({"ime": slovar.get('ime'), "vrsta": slovar.get('vrsta')})
         i += 1
     return seznam
 #S tem seznamom slovarjev bomo ustvarili csv datoteko s tabelo, v kateri so samo
@@ -169,7 +169,7 @@ def write_csv(fieldnames, rows, directory, filename):
     return None
 #Piše v csv datoteko.
 
-def gore_v_csv(seznam_gora, mapa, datoteka):
+def gore_v_csv(seznam_gora, mapa, datoteka): # ta dela pravilno
     assert seznam_gora and (all(slovar.keys() == seznam_gora[0].keys() for slovar in seznam_gora))
     imena_stolpcev = sorted(seznam_gora[0])
     write_csv(imena_stolpcev, seznam_gora, mapa, datoteka)

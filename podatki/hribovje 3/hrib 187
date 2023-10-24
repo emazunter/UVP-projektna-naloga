@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Planina Javorje</title>
-        <meta name="description" content="Natančen opis planine Planina Javorje in vseh pristopov na Planina Javorje. Planina Javorje je razgledna planina, ki se nahaja na vzhodnem delu Raduhe. S pl." />
+        <title>Dom pod Storžičem</title>
+        <meta name="description" content="Natančen opis koče Dom pod Storžičem in vseh pristopov na Dom pod Storžičem. Dom pod Storžičem je planinska postojanka, ki se nahaja severozahodno od Storžič." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1499?gorovjeid=3&amp;id=1499" id="form1">
+    <form method="post" action="./190?gorovjeid=3&amp;id=190" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_javorje/3/1499"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1499"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_pod_storzicem/3/190"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=190"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Planina Javorje
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Dom pod Storžičem
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1499);
+    gorast(190);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Planina Javorje</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Dom pod Storžičem</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1594&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1123&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,7056'N&nbsp;/&nbsp;14°&nbsp;45,8940'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,5568'N&nbsp;/&nbsp;14°&nbsp;23,3916'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;42,34''N&nbsp;/&nbsp;14°&nbsp;45'&nbsp;53,64''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;33,41''N&nbsp;/&nbsp;14°&nbsp;23'&nbsp;23,50''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.41176°N&nbsp;/&nbsp;14.7649°E";
+                        document.getElementById("kf0").innerHTML = "46.35928°N&nbsp;/&nbsp;14.38986°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,41176°N,&nbsp;14,7649°E";
+                    document.getElementById("kf0").innerHTML = "46,35928°N,&nbsp;14,38986°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,41176°N&nbsp;14,7649°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_javorje/1499"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35928°N&nbsp;14,38986°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_pod_storzicem/190"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> planina</div>
+    <div class="g2"><b>Vrsta:</b> koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom pod Storžičem - Torek" href="/vreme_gora/dom_pod_storzicem/3/190#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom pod Storžičem - Sreda" href="/vreme_gora/dom_pod_storzicem/3/190#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom pod Storžičem - Četrtek" href="/vreme_gora/dom_pod_storzicem/3/190#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Javorje - Petek" href="/vreme_gora/planina_javorje/3/1499#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dom pod Storžičem - Petek" href="/vreme_gora/dom_pod_storzicem/3/190#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Javorje - Sobota" href="/vreme_gora/planina_javorje/3/1499#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Javorje - Nedelja" href="/vreme_gora/planina_javorje/3/1499#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Javorje - Ponedeljek" href="/vreme_gora/planina_javorje/3/1499#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Planina Javorje - Torek" href="/vreme_gora/planina_javorje/3/1499#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dom pod Storžičem - Sobota" href="/vreme_gora/dom_pod_storzicem/3/190#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 249.526</div>
-<div class="g2"><b>Priljubljenost:</b> 64%&nbsp;(1199.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Ogledov:</b> 554.364</div>
+<div class="g2"><b>Priljubljenost:</b> 94%&nbsp;(204.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=190" title="Število vpisov v vpisni knjigi">3</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Javorje je razgledna planina, ki se nahaja na vzhodnem delu Raduhe. S planine, na kateri se nahaja nekaj pastirskih stanov, se nam odpre lep razgled na hribovje, ki obdaja osrednji del doline reke Savinje.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Dom pod Storžičem je planinska postojanka, ki se nahaja severozahodno od Storžiča v bližini planine Jesenje. Od doma, katerega povečini obdaja gozd, se nam z nekaj truda odpre lep pogled na greben Psice in severna pobočja Storžiča. Dom je stalno odprt v poletni sezoni ter v času ugodnih sankaških razmer tudi pozimi. Od jeseni do pomladi je dom odprt ob sobotah, nedeljah in praznikih.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1499&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=190&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/jelovec/3/1817">Jelovec (1808m)</a>, <a class="moder" href="/gora/koca_na_loki_pod_raduho/3/409">Koča na Loki pod Raduho (1534m)</a>, <a class="moder" href="/gora/lanez/3/1269">Lanež (1925m)</a>, <a class="moder" href="/gora/mala_raduha/3/1268">Mala Raduha (2029m)</a>, <a class="moder" href="/gora/planina_arta/3/458">Planina Arta (1564m)</a>, <a class="moder" href="/gora/planina_vodol/3/1500">Planina Vodol (1324m)</a>
+<a class="moder" href="/gora/grebenc/3/1233">Grebenc (1479m)</a>, <a class="moder" href="/gora/krnicarjeva_koca_na_planini_javornik/3/528">Krničarjeva koča na planini Javornik (1390m)</a>, <a class="moder" href="/gora/mala_poljana/3/208">Mala Poljana (1325m)</a>, <a class="moder" href="/gora/planina_javornik/11/509">Planina Javornik (1550m)</a>, <a class="moder" href="/gora/storzic/3/85">Storžič (2132m)</a>, <a class="moder" href="/gora/velika_poljana/3/207">Velika Poljana (1410m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,22 +835,29 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_javorje%2f3%2f1499"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_javorje%2f3%2f1499"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_javorje%2f3%2f1499"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_pod_storzicem%2f3%2f190"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_pod_storzicem%2f3%2f190"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_pod_storzicem%2f3%2f190"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/dom_pod_storzicem/190" title="Dom pod Storžičem 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.DomPodStorzicem.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/planina_javorje/5915" onclick="event.preventDefault(); window.open('/slika_gora/planina_javorje/5915');"><img class="slikagm" alt="Planina Javorje" src="//www.hribi.net/slike1/P52501041170450.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_pod_storzicem/152" onclick="event.preventDefault(); window.open('/slika_gora/dom_pod_storzicem/152');"><img class="slikagm" alt="Dom pod Storžičem" src="//www.hribi.net/Gora/p4160157medium7se.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_javorje/5916" onclick="event.preventDefault(); window.open('/slika_gora/planina_javorje/5916');"><img class="slikagm" alt="Planina Javorje" src="//www.hribi.net/slike1/P52501061170450.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_pod_storzicem/153" onclick="event.preventDefault(); window.open('/slika_gora/dom_pod_storzicem/153');"><img class="slikagm" alt="Dom pod Storžičem" src="//www.hribi.net/Gora/p4160161medium1df.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/planina_javorje/5917" onclick="event.preventDefault(); window.open('/slika_gora/planina_javorje/5917');"><img class="slikagm" alt="Planina Javorje" src="//www.hribi.net/slike1/P5250101390150.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_pod_storzicem/13417" onclick="event.preventDefault(); window.open('/slika_gora/dom_pod_storzicem/13417');"><img class="slikagm" alt="Dom pod Storžičem" src="//slike.hribi.net/slike4/2_0623394983047_TolstiVrh_254.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/dom_pod_storzicem/16968" onclick="event.preventDefault(); window.open('/slika_gora/dom_pod_storzicem/16968');"><img class="slikagm" alt="Dom pod Storžičem" src="//slike.hribi.net/slike4/2_0704586176220_DSCN7629.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/dom_pod_storzicem/19668" onclick="event.preventDefault(); window.open('/slika_gora/dom_pod_storzicem/19668');"><img class="slikagm" alt="Dom pod Storžičem" src="//slike.hribi.net/slike4/2_246654851645_DSCN8825.JPG" /></a>
     
 </div>
 
@@ -914,7 +921,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1499&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=190&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -924,9 +931,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_vodol_planina_javorje/3/1499/3377">Planina Vodol - Planina Javorje</a></td><td class="tdG"><a href="/izlet/planina_vodol_planina_javorje/3/1499/3377"> 45 min</a></td><td class="tdG"><a href="/izlet/planina_vodol_planina_javorje/3/1499/3377">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grahovse_dom_pod_storzicem_po_cesti/3/190/240">Grahovše - Dom pod Storžičem (po cesti)</a></td><td class="tdG"><a href="/izlet/grahovse_dom_pod_storzicem_po_cesti/3/190/240">1 h 30 min</a></td><td class="tdG"><a href="/izlet/grahovse_dom_pod_storzicem_po_cesti/3/190/240">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bistra_planina_javorje/3/1499/2559"> Bistra - Planina Javorje</a></td><td class="tdG"><a href="/izlet/bistra_planina_javorje/3/1499/2559">3 h</a></td><td class="tdG"><a href="/izlet/bistra_planina_javorje/3/1499/2559">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/grahovse_dom_pod_storzicem_pespot/3/190/3896">Grahovše - Dom pod Storžičem (pešpot)</a></td><td class="tdG"><a href="/izlet/grahovse_dom_pod_storzicem_pespot/3/190/3896">1 h 15 min</a></td><td class="tdG"><a href="/izlet/grahovse_dom_pod_storzicem_pespot/3/190/3896">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/trzic_slap_dom_pod_storzicem/3/190/6879">Tržič (Slap) - Dom pod Storžičem</a></td><td class="tdG"><a href="/izlet/trzic_slap_dom_pod_storzicem/3/190/6879">2 h 15 min</a></td><td class="tdG"><a href="/izlet/trzic_slap_dom_pod_storzicem/3/190/6879">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Tromejnik</title>
-        <meta name="description" content="Natančen opis gore Tromejnik in vseh pristopov na Tromejnik. Tromejnik, po nemško Dreiländerecke oz. po madžarsko Hármashatár je 390 m visok ." />
+        <title>Gorički breg</title>
+        <meta name="description" content="Natančen opis gore Gorički breg in vseh pristopov na Gorički breg. Gorički breg je razgleden hrib, na katerem se nahajata antenski stolp in vodohra." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1632?gorovjeid=163&amp;id=1632" id="form1">
+    <form method="post" action="./3403?gorovjeid=163&amp;id=3403" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/tromejnik___dreilanderecke___harmashatar/163/1632"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=1632"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/goricki_breg/163/3403"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3403"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Tromejnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Gorički breg
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1632);
+    gorast(3403);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Tromejnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Gorički breg</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gore/madzarska/28">Madžarska</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a></div>
-    <div class="g2"><b>Višina:</b> 390&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 362&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;52,1460'N&nbsp;/&nbsp;16°&nbsp;6,8280'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;52,0206'N&nbsp;/&nbsp;16°&nbsp;12,9930'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;52'&nbsp;8,76''N&nbsp;/&nbsp;16°&nbsp;6'&nbsp;49,68''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;52'&nbsp;1,24''N&nbsp;/&nbsp;16°&nbsp;12'&nbsp;59,58''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.8691°N&nbsp;/&nbsp;16.1138°E";
+                        document.getElementById("kf0").innerHTML = "46.86701°N&nbsp;/&nbsp;16.21655°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,8691°N,&nbsp;16,1138°E";
+                    document.getElementById("kf0").innerHTML = "46,86701°N,&nbsp;16,21655°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,8691°N&nbsp;16,1138°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/tromejnik/1632"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,86701°N&nbsp;16,21655°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/goricki_breg/3403"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Gorički breg - Torek" href="/vreme_gora/goricki_breg/163/3403#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Gorički breg - Sreda" href="/vreme_gora/goricki_breg/163/3403#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Gorički breg - Četrtek" href="/vreme_gora/goricki_breg/163/3403#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Tromejnik - Petek" href="/vreme_gora/tromejnik/163/1632#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Gorički breg - Petek" href="/vreme_gora/goricki_breg/163/3403#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Tromejnik - Sobota" href="/vreme_gora/tromejnik/163/1632#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Tromejnik - Nedelja" href="/vreme_gora/tromejnik/163/1632#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Tromejnik - Ponedeljek" href="/vreme_gora/tromejnik/163/1632#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Tromejnik - Torek" href="/vreme_gora/tromejnik/163/1632#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Gorički breg - Sobota" href="/vreme_gora/goricki_breg/163/3403#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 270.159</div>
-<div class="g2"><b>Priljubljenost:</b> 66%&nbsp;(1119.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">10</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
+<div class="g2"><b>Ogledov:</b> 483</div>
+<div class="g2"><b>Priljubljenost:</b> 15%&nbsp;(2786.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1632" title="Število vpisov v vpisni knjigi">3</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Tromejnik, po nemško Dreiländerecke oz. po madžarsko Hármashatár je 390 m visok hrib, ki se nahaja na tromeji med Slovenijo Avstrijo in Madžarsko. Z vrha, na katerem stoji večje število informativnih tabel in spomenikov, zaradi bližnjega gozda ni lepšega razgleda.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Gorički breg je razgleden hrib, na katerem se nahajata antenski stolp in vodohran. Z Goričkega brega, ki je en najsevernejših vrhov v Sloveniji se nam odpre lep razgled na okoliško gričevje.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1632&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3403&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/evharisticni_kriz_v_trdkovi/163/3445">Evharistični križ v Trdkovi (388m)</a>, <a class="moder" href="/gora/holzmannkogel/138/3690">Holzmannkogel (393m)</a>, <a class="moder" href="/gora/wegkapelle_kolbereck/138/3438">Wegkapelle Kölbereck (355m)</a>
+<a class="moder" href="/gora/katin_breg___katalin-hegy/132/3685">Katin breg / Katalin-hegy (367m)</a>, <a class="moder" href="/gora/mejni_kamen_a_115/163/3391">Mejni kamen A 115 (353m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,36 +835,22 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/cepinci/1951">Čepinci</a>, <a class="moder" href="/spletna_kamera/jennersdorf_binderberg_in_oberhenndorf/4338">Jennersdorf (Binderberg in Oberhenndorf)</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/sotinski_breg_kugla/2170">Sotinski breg (Kugla)</a>
+<a class="moder" href="/spletna_kamera/cepinci/1951">Čepinci</a>, <a class="moder" href="/spletna_kamera/hodos/1070">Hodoš</a>, <a class="moder" href="/spletna_kamera/jennersdorf_binderberg_in_oberhenndorf/4338">Jennersdorf (Binderberg in Oberhenndorf)</a>, <a class="moder" href="/spletna_kamera/kuzma/1897">Kuzma</a>, <a class="moder" href="/spletna_kamera/martinje/1950">Martinje</a>, <a class="moder" href="/spletna_kamera/sotinski_breg_kugla/2170">Sotinski breg (Kugla)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ftromejnik%2f163%2f1632"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftromejnik%2f163%2f1632"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftromejnik%2f163%2f1632"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgoricki_breg%2f163%2f3403"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgoricki_breg%2f163%2f3403"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgoricki_breg%2f163%2f3403"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/tromejnik/6990" onclick="event.preventDefault(); window.open('/slika_gora/tromejnik/6990');"><img class="slikagm" alt="Tromejnik" src="//www.hribi.net/slike1/Prekmurje2010 2621475000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/goricki_breg/20291" onclick="event.preventDefault(); window.open('/slika_gora/goricki_breg/20291');"><img class="slikagm" alt="Gorički breg" src="//slike2.hribi.net/slike14/2_0218676455711_0dscn0577.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tromejnik/6991" onclick="event.preventDefault(); window.open('/slika_gora/tromejnik/6991');"><img class="slikagm" alt="Tromejnik" src="//www.hribi.net/slike1/Prekmurje2010 2651475000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/goricki_breg/20292" onclick="event.preventDefault(); window.open('/slika_gora/goricki_breg/20292');"><img class="slikagm" alt="Gorički breg" src="//slike2.hribi.net/slike14/2_6784677196989_6dscn0576.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tromejnik/6992" onclick="event.preventDefault(); window.open('/slika_gora/tromejnik/6992');"><img class="slikagm" alt="Tromejnik" src="//www.hribi.net/slike1/Prekmurje2010 2720.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tromejnik/6993" onclick="event.preventDefault(); window.open('/slika_gora/tromejnik/6993');"><img class="slikagm" alt="Tromejnik" src="//www.hribi.net/slike1/Prekmurje2010 2740.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tromejnik/6994" onclick="event.preventDefault(); window.open('/slika_gora/tromejnik/6994');"><img class="slikagm" alt="Tromejnik" src="//www.hribi.net/slike1/Prekmurje2010 2780.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tromejnik/6995" onclick="event.preventDefault(); window.open('/slika_gora/tromejnik/6995');"><img class="slikagm" alt="Tromejnik" src="//www.hribi.net/slike1/Prekmurje2010 2810.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tromejnik/6996" onclick="event.preventDefault(); window.open('/slika_gora/tromejnik/6996');"><img class="slikagm" alt="Tromejnik" src="//www.hribi.net/slike1/Prekmurje2010 2840.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tromejnik/20207" onclick="event.preventDefault(); window.open('/slika_gora/tromejnik/20207');"><img class="slikagm" alt="Tromejnik" src="//www.hribi.net/slike15/2_0805673626545_DSCN9092.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/tromejnik/20208" onclick="event.preventDefault(); window.open('/slika_gora/tromejnik/20208');"><img class="slikagm" alt="Tromejnik" src="//www.hribi.net/slike15/2_1957673626502_DSCN9086.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/tromejnik/20209" onclick="event.preventDefault(); window.open('/slika_gora/tromejnik/20209');"><img class="slikagm" alt="Tromejnik" src="//www.hribi.net/slike15/2_4626673831067_DSCN9082.JPG" /></a>
+        <a target="_blank" href="/slika_gora/goricki_breg/20293" onclick="event.preventDefault(); window.open('/slika_gora/goricki_breg/20293');"><img class="slikagm" alt="Gorički breg" src="//slike2.hribi.net/slike14/2_3898677196987_3dscn0565.jpg" /></a>
     
 </div>
 
@@ -928,7 +914,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1632&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3403&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -938,23 +924,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trdkova_tromejnik_jezkova_pot_-_po_cesti/163/1632/2898">Trdkova - Tromejnik (Ježkova pot - po cesti)</a></td><td class="tdG"><a href="/izlet/trdkova_tromejnik_jezkova_pot_-_po_cesti/163/1632/2898"> 20 min</a></td><td class="tdG"><a href="/izlet/trdkova_tromejnik_jezkova_pot_-_po_cesti/163/1632/2898">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/omp_matjasevci_tromejnik/163/1632/8135">OMP Matjaševci - Tromejnik</a></td><td class="tdG"><a href="/izlet/omp_matjasevci_tromejnik/163/1632/8135">1 h</a></td><td class="tdG"><a href="/izlet/omp_matjasevci_tromejnik/163/1632/8135">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trdkova_tromejnik_jezkova_pot_-_skozi_gozd/163/1632/8157">Trdkova - Tromejnik (Ježkova pot - skozi gozd)</a></td><td class="tdG"><a href="/izlet/trdkova_tromejnik_jezkova_pot_-_skozi_gozd/163/1632/8157"> 25 min</a></td><td class="tdG"><a href="/izlet/trdkova_tromejnik_jezkova_pot_-_skozi_gozd/163/1632/8157">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/trdkova_tromejnik_po_markirani_poti_skozi_gozd/163/1632/8158">Trdkova - Tromejnik (po markirani poti skozi gozd)</a></td><td class="tdG"><a href="/izlet/trdkova_tromejnik_po_markirani_poti_skozi_gozd/163/1632/8158"> 20 min</a></td><td class="tdG"><a href="/izlet/trdkova_tromejnik_po_markirani_poti_skozi_gozd/163/1632/8158">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/martinje_sportni_center_martinje_tromejnik/163/1632/8292">Martinje (Športni center Martinje) - Tromejnik</a></td><td class="tdG"><a href="/izlet/martinje_sportni_center_martinje_tromejnik/163/1632/8292">1 h</a></td><td class="tdG"><a href="/izlet/martinje_sportni_center_martinje_tromejnik/163/1632/8292">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gornji_senik___felsoszolnok_tromejnik/163/1632/8798">Gornji Senik / Felsőszölnök - Tromejnik</a></td><td class="tdG"><a href="/izlet/gornji_senik___felsoszolnok_tromejnik/163/1632/8798">1 h 30 min</a></td><td class="tdG"><a href="/izlet/gornji_senik___felsoszolnok_tromejnik/163/1632/8798">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/eisenberg_an_der_raab_tromejnik_po_cesti/163/1632/9012">Eisenberg an der Raab - Tromejnik (po cesti)</a></td><td class="tdG"><a href="/izlet/eisenberg_an_der_raab_tromejnik_po_cesti/163/1632/9012">1 h 20 min</a></td><td class="tdG"><a href="/izlet/eisenberg_an_der_raab_tromejnik_po_cesti/163/1632/9012">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/eisenberg_an_der_raab_tromejnik_ob_drzavni_meji/163/1632/9011">Eisenberg an der Raab - Tromejnik (ob državni meji)</a></td><td class="tdG"><a href="/izlet/eisenberg_an_der_raab_tromejnik_ob_drzavni_meji/163/1632/9011">1 h 10 min</a></td><td class="tdG"><a href="/izlet/eisenberg_an_der_raab_tromejnik_ob_drzavni_meji/163/1632/9011">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/oberdrosen_tromejnik/163/1632/9174">Oberdrosen - Tromejnik</a></td><td class="tdG"><a href="/izlet/oberdrosen_tromejnik/163/1632/9174"> 30 min</a></td><td class="tdG"><a href="/izlet/oberdrosen_tromejnik/163/1632/9174">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/cepinci_pokopalisce_cepinci_goricki_breg/163/3403/8179">Čepinci (pokopališče Čepinci) - Gorički breg</a></td><td class="tdG"><a href="/izlet/cepinci_pokopalisce_cepinci_goricki_breg/163/3403/8179"> 45 min</a></td><td class="tdG"><a href="/izlet/cepinci_pokopalisce_cepinci_goricki_breg/163/3403/8179">lahka neoznačena steza</a></td></tr>
 
 </table>
 

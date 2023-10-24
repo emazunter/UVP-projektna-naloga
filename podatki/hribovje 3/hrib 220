@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča na Loki pod Raduho</title>
-        <meta name="description" content="Natančen opis koče Koča na Loki pod Raduho in vseh pristopov na Koča na Loki pod Raduho. Koča na Loki pod Raduho, se nahaja v zgornjem delu planine Loka, le ta pa v doli." />
+        <title>Sveti Primož nad Ljubnim</title>
+        <meta name="description" content="Natančen opis cerkve Sveti Primož nad Ljubnim in vseh pristopov na Sveti Primož nad Ljubnim. Cerkev sv. Primoža, se nahaja na deloma razgledni vzpetini nad krajem Ljubno ob ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./409?gorovjeid=3&amp;id=409" id="form1">
+    <form method="post" action="./617?gorovjeid=3&amp;id=617" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_loki_pod_raduho/3/409"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=409"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_primoz_above_ljubno/3/617"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=617"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Koča na Loki pod Raduho
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Sveti Primož nad Ljubnim
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(409);
+    gorast(617);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča na Loki pod Raduho</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveti Primož nad Ljubnim</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1534&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 883&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,5580'N&nbsp;/&nbsp;14°&nbsp;45,5412'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,7806'N&nbsp;/&nbsp;14°&nbsp;49,2774'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;33,48''N&nbsp;/&nbsp;14°&nbsp;45'&nbsp;32,47''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;46,84''N&nbsp;/&nbsp;14°&nbsp;49'&nbsp;16,64''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.4093°N&nbsp;/&nbsp;14.75902°E";
+                        document.getElementById("kf0").innerHTML = "46.36301°N&nbsp;/&nbsp;14.82129°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,4093°N,&nbsp;14,75902°E";
+                    document.getElementById("kf0").innerHTML = "46,36301°N,&nbsp;14,82129°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4093°N&nbsp;14,75902°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_loki_pod_raduho/409"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,36301°N&nbsp;14,82129°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_primoz_nad_ljubnim/617"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, planina, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož nad Ljubnim - Torek" href="/vreme_gora/sveti_primoz_nad_ljubnim/3/617#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož nad Ljubnim - Sreda" href="/vreme_gora/sveti_primoz_nad_ljubnim/3/617#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož nad Ljubnim - Četrtek" href="/vreme_gora/sveti_primoz_nad_ljubnim/3/617#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Loki pod Raduho - Petek" href="/vreme_gora/koca_na_loki_pod_raduho/3/409#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož nad Ljubnim - Petek" href="/vreme_gora/sveti_primoz_nad_ljubnim/3/617#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Loki pod Raduho - Sobota" href="/vreme_gora/koca_na_loki_pod_raduho/3/409#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Loki pod Raduho - Nedelja" href="/vreme_gora/koca_na_loki_pod_raduho/3/409#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Loki pod Raduho - Ponedeljek" href="/vreme_gora/koca_na_loki_pod_raduho/3/409#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Loki pod Raduho - Torek" href="/vreme_gora/koca_na_loki_pod_raduho/3/409#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveti Primož nad Ljubnim - Sobota" href="/vreme_gora/sveti_primoz_nad_ljubnim/3/617#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 516.843</div>
-<div class="g2"><b>Priljubljenost:</b> 91%&nbsp;(286.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">16</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=409" title="Število vpisov v vpisni knjigi">6</a></div>
+<div class="g2"><b>Ogledov:</b> 327.340</div>
+<div class="g2"><b>Priljubljenost:</b> 73%&nbsp;(898.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=617" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Koča na Loki pod Raduho, se nahaja v zgornjem delu planine Loka, le ta pa v dolinici ob vznožju 1925 m visokega Laneža. Od koče, ki je odprta v razširjeni poletni sezoni, se nam odpre lep razgled proti Rogatcu, na ostale strani pa razgled zakrivajo bližnja pobočja. Le nekaj metrov nad kočo, pa se nahaja lesena kapela svetega Križa.</div>
+<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev sv. Primoža, se nahaja na deloma razgledni vzpetini nad krajem Ljubno ob Savinji. Od cerkve oz. njene bližnje okolice, se nam odpre lep pogled na Golte in hribovje, ki se dviga nad osrednjim delom reke Savinje.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=409&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=617&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/jelovec/3/1817">Jelovec (1808m)</a>, <a class="moder" href="/gora/koca_na_grohatu/3/615">Koča na Grohatu (1460m)</a>, <a class="moder" href="/gora/lanez/3/1269">Lanež (1925m)</a>, <a class="moder" href="/gora/mala_raduha/3/1268">Mala Raduha (2029m)</a>, <a class="moder" href="/gora/planina_arta/3/458">Planina Arta (1564m)</a>, <a class="moder" href="/gora/planina_javorje/3/1499">Planina Javorje (1594m)</a>, <a class="moder" href="/gora/velika_raduha/3/148">Velika Raduha (2062m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,51 +835,27 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>
+<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_loki_pod_raduho%2f3%2f409"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_loki_pod_raduho%2f3%2f409"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_loki_pod_raduho%2f3%2f409"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_nad_ljubnim%2f3%2f617"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_nad_ljubnim%2f3%2f617"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_primoz_nad_ljubnim%2f3%2f617"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koca_na_loki_pod_raduho/409" title="Koča na Loki pod Raduho 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KocaNaLoki.jpg" /></a></div>
+<div><a href="/panorama/360/sveti_primoz_nad_ljubnim/617" title="Sveti Primož nad Ljubnim 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SvPrimozLjubno.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/1061" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/1061');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/Gora/rimg0205mediumfx0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_nad_ljubnim/1866" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_nad_ljubnim/1866');"><img class="slikagm" alt="Sveti Primož nad Ljubnim" src="//www.hribi.net/slike1/P6270187126000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/1062" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/1062');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/Gora/rimg0189mediumzr5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_nad_ljubnim/1867" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_nad_ljubnim/1867');"><img class="slikagm" alt="Sveti Primož nad Ljubnim" src="//www.hribi.net/slike1/P6270203126000.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/1063" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/1063');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/Gora/rimg0188amediumyi7.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_nad_ljubnim/8307" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_nad_ljubnim/8307');"><img class="slikagm" alt="Sveti Primož nad Ljubnim" src="//www.hribi.net/slike1/Komen 363267960.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/1633" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/1633');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/slike1/PIC049793901452.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/4359" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/4359');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/slike1/P6090495457920.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/4360" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/4360');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/sliketemp/P60904845025133.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/4361" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/4361');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/sliketemp/P60904865025133.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/5907" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/5907');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/slike1/P525022593600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/5913" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/5913');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/slike1/P5250121504900.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/5914" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/5914');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/slike1/P5250119504900.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/7314" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/7314');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/slike1/Raduha 1521874880.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/7316" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/7316');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//slike.hribi.net/sliketemp/Raduha%201495850275.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/7319" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/7319');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//slike.hribi.net/sliketemp/Raduha%200395850266.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/7320" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/7320');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//slike.hribi.net/sliketemp/Raduha%200195850265.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/7322" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/7322');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/slike1/Raduha%201641740960.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_loki_pod_raduho/7323" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_loki_pod_raduho/7323');"><img class="slikagm" alt="Koča na Loki pod Raduho" src="//www.hribi.net/slike1/Raduha%201581740960.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveti_primoz_nad_ljubnim/8308" onclick="event.preventDefault(); window.open('/slika_gora/sveti_primoz_nad_ljubnim/8308');"><img class="slikagm" alt="Sveti Primož nad Ljubnim" src="//www.hribi.net/slike1/Komen 361267960.th.jpg" /></a>
     
 </div>
 
@@ -943,7 +919,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=409&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=617&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -953,17 +929,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_loka_koca_na_loki_pod_raduho/3/409/565">Planina Loka - Koča na Loki pod Raduho</a></td><td class="tdG"><a href="/izlet/planina_loka_koca_na_loki_pod_raduho/3/409/565"> 15 min</a></td><td class="tdG"><a href="/izlet/planina_loka_koca_na_loki_pod_raduho/3/409/565">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubno_ob_savinji_sveti_primoz_nad_ljubnim/3/617/3389">Ljubno ob Savinji - Sveti Primož nad Ljubnim</a></td><td class="tdG"><a href="/izlet/ljubno_ob_savinji_sveti_primoz_nad_ljubnim/3/617/3389">1 h</a></td><td class="tdG"><a href="/izlet/ljubno_ob_savinji_sveti_primoz_nad_ljubnim/3/617/3389">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_vodol_koca_na_loki_pod_raduho/3/409/3376">Planina Vodol - Koča na Loki pod Raduho</a></td><td class="tdG"><a href="/izlet/planina_vodol_koca_na_loki_pod_raduho/3/409/3376">1 h</a></td><td class="tdG"><a href="/izlet/planina_vodol_koca_na_loki_pod_raduho/3/409/3376">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/radusnik_koca_na_loki_pod_raduho/3/409/3005">Radušnik - Koča na Loki pod Raduho</a></td><td class="tdG"><a href="/izlet/radusnik_koca_na_loki_pod_raduho/3/409/3005">1 h 30 min</a></td><td class="tdG"><a href="/izlet/radusnik_koca_na_loki_pod_raduho/3/409/3005">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/luce_koca_na_loki_pod_raduho/3/409/2550">Luče - Koča na Loki pod Raduho</a></td><td class="tdG"><a href="/izlet/luce_koca_na_loki_pod_raduho/3/409/2550">3 h</a></td><td class="tdG"><a href="/izlet/luce_koca_na_loki_pod_raduho/3/409/2550">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_kosmaceve_rastke_koca_na_loki_pod_raduho/3/409/3373">Planina Kosmačeve Rastke - Koča na Loki pod Raduho</a></td><td class="tdG"><a href="/izlet/planina_kosmaceve_rastke_koca_na_loki_pod_raduho/3/409/3373">1 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_kosmaceve_rastke_koca_na_loki_pod_raduho/3/409/3373">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bistra_koca_na_loki_pod_raduho/3/409/2557"> Bistra - Koča na Loki pod Raduho</a></td><td class="tdG"><a href="/izlet/bistra_koca_na_loki_pod_raduho/3/409/2557">3 h 15 min</a></td><td class="tdG"><a href="/izlet/bistra_koca_na_loki_pod_raduho/3/409/2557">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/primoz_pri_ljubnem_sveti_primoz_nad_ljubnim/3/617/1110">Primož pri Ljubnem - Sveti Primož nad Ljubnim</a></td><td class="tdG"><a href="/izlet/primoz_pri_ljubnem_sveti_primoz_nad_ljubnim/3/617/1110"> 20 min</a></td><td class="tdG"><a href="/izlet/primoz_pri_ljubnem_sveti_primoz_nad_ljubnim/3/617/1110">lahka označena pot</a></td></tr>
 
 </table>
 

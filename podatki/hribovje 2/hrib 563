@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Ciprnik</title>
-        <meta name="description" content="Natančen opis gore Ciprnik in vseh pristopov na Ciprnik. Skrit in razgleden vrh nad kranjskogorskimi smučišči. Proti vzhodu vidimo Martul." />
+        <title>Kozlov rob</title>
+        <meta name="description" content="Natančen opis gore Kozlov rob in vseh pristopov na Kozlov rob. Kozlov rob ali Grad kot mu pravijo domačini, je 426 m visoka vzpetina, ki se nah." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./709?gorovjeid=1&amp;id=709" id="form1">
+    <form method="post" action="./1757?gorovjeid=1&amp;id=1757" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ciprnik/1/709"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=709"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kozlov_rob/1/1757"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1757"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Ciprnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Kozlov rob
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(709);
+    gorast(1757);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Ciprnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kozlov rob</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1745&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 426&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;28,1538'N&nbsp;/&nbsp;13°&nbsp;44,4186'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;11,3580'N&nbsp;/&nbsp;13°&nbsp;43,5240'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;28'&nbsp;9,23''N&nbsp;/&nbsp;13°&nbsp;44'&nbsp;25,12''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;11'&nbsp;21,48''N&nbsp;/&nbsp;13°&nbsp;43'&nbsp;31,44''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.46923°N&nbsp;/&nbsp;13.74031°E";
+                        document.getElementById("kf0").innerHTML = "46.1893°N&nbsp;/&nbsp;13.7254°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,46923°N,&nbsp;13,74031°E";
+                    document.getElementById("kf0").innerHTML = "46,1893°N,&nbsp;13,7254°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,46923°N&nbsp;13,74031°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ciprnik/709"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1893°N&nbsp;13,7254°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kozlov_rob/1757"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kozlov rob - Torek" href="/vreme_gora/kozlov_rob/1/1757#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kozlov rob - Sreda" href="/vreme_gora/kozlov_rob/1/1757#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kozlov rob - Četrtek" href="/vreme_gora/kozlov_rob/1/1757#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Ciprnik - Petek" href="/vreme_gora/ciprnik/1/709#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kozlov rob - Petek" href="/vreme_gora/kozlov_rob/1/1757#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Ciprnik - Sobota" href="/vreme_gora/ciprnik/1/709#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Ciprnik - Nedelja" href="/vreme_gora/ciprnik/1/709#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Ciprnik - Ponedeljek" href="/vreme_gora/ciprnik/1/709#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Ciprnik - Torek" href="/vreme_gora/ciprnik/1/709#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kozlov rob - Sobota" href="/vreme_gora/kozlov_rob/1/1757#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 644.662</div>
-<div class="g2"><b>Priljubljenost:</b> 97%&nbsp;(99.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=709" title="Število vpisov v vpisni knjigi">5</a></div>
+<div class="g2"><b>Ogledov:</b> 378.148</div>
+<div class="g2"><b>Priljubljenost:</b> 78%&nbsp;(716.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1757" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Skrit in razgleden vrh nad kranjskogorskimi smučišči. Proti vzhodu vidimo Martuljške gore na drugi strani pa Jalovec, Ponce, Mojstrovke... Proti severu pa opazimo zahodni del Karavank, Dobrač in avstrijske tritisočake. Na vrhu, ki ga obdaja rušje je vpisna knjiga.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Kozlov rob ali Grad kot mu pravijo domačini, je 426 m visoka vzpetina, ki se nahaja nad Tolminom. Z vrha, na katerem se nahajajo obnovljene ruševine nekdanjega gradu, se nam odpre lep razgled proti Tolminu in okoliškim gora. Vrh ima vpisno skrinjico z vpisno knjigo in žigom.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=709&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1757&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/mojcin_dom_na_vitrancu/1/710">Mojčin dom na Vitrancu (1555m)</a>, <a class="moder" href="/gora/visoka_pec/1/2658">Visoka peč (1749m)</a>
+<a class="moder" href="/gora/tolminska_korita/1/1341">Tolminska korita (180m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,45 +835,41 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/kredarica/20">Kredarica</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/triglavski_dom_na_kredarici/4949">Triglavski dom na Kredarici</a>, <a class="moder" href="/spletna_kamera/triglavski_ledenik/2174">Triglavski ledenik</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fciprnik%2f1%2f709"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fciprnik%2f1%2f709"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fciprnik%2f1%2f709"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkozlov_rob%2f1%2f1757"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkozlov_rob%2f1%2f1757"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkozlov_rob%2f1%2f1757"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/ciprnik/709" title="Ciprnik 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.ciprnik.jpg" /></a></div>
+<div><a href="/panorama/360/kozlov_rob/1757" title="Kozlov rob 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KozlovRob.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/ciprnik/2314" onclick="event.preventDefault(); window.open('/slika_gora/ciprnik/2314');"><img class="slikagm" alt="Ciprnik" src="//www.hribi.net/slike1/RIMG03434200.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kozlov_rob/7897" onclick="event.preventDefault(); window.open('/slika_gora/kozlov_rob/7897');"><img class="slikagm" alt="Kozlov rob" src="//www.hribi.net/slike1/Mengore 229252450.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ciprnik/2567" onclick="event.preventDefault(); window.open('/slika_gora/ciprnik/2567');"><img class="slikagm" alt="Ciprnik" src="//www.hribi.net/slike1/P6010093965580.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kozlov_rob/7898" onclick="event.preventDefault(); window.open('/slika_gora/kozlov_rob/7898');"><img class="slikagm" alt="Kozlov rob" src="//www.hribi.net/slike1/Mengore 232299200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ciprnik/4690" onclick="event.preventDefault(); window.open('/slika_gora/ciprnik/4690');"><img class="slikagm" alt="Ciprnik" src="//www.hribi.net/slike1/P801015871280.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kozlov_rob/7899" onclick="event.preventDefault(); window.open('/slika_gora/kozlov_rob/7899');"><img class="slikagm" alt="Kozlov rob" src="//www.hribi.net/slike1/Mengore 233299200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ciprnik/5430" onclick="event.preventDefault(); window.open('/slika_gora/ciprnik/5430');"><img class="slikagm" alt="Ciprnik" src="//www.hribi.net/slike1/TamarKrnica%20010120960.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kozlov_rob/7900" onclick="event.preventDefault(); window.open('/slika_gora/kozlov_rob/7900');"><img class="slikagm" alt="Kozlov rob" src="//www.hribi.net/slike1/Mengore 234299200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ciprnik/8835" onclick="event.preventDefault(); window.open('/slika_gora/ciprnik/8835');"><img class="slikagm" alt="Ciprnik" src="//www.hribi.net/slike1/Ciprnik 135869022.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kozlov_rob/7901" onclick="event.preventDefault(); window.open('/slika_gora/kozlov_rob/7901');"><img class="slikagm" alt="Kozlov rob" src="//www.hribi.net/slike1/Mengore 236299200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ciprnik/8836" onclick="event.preventDefault(); window.open('/slika_gora/ciprnik/8836');"><img class="slikagm" alt="Ciprnik" src="//www.hribi.net/slike1/Ciprnik 136869022.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kozlov_rob/7902" onclick="event.preventDefault(); window.open('/slika_gora/kozlov_rob/7902');"><img class="slikagm" alt="Kozlov rob" src="//www.hribi.net/slike1/Mengore 239299200.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ciprnik/9364" onclick="event.preventDefault(); window.open('/slika_gora/ciprnik/9364');"><img class="slikagm" alt="Ciprnik" src="//www.hribi.net/slike1/KranjskaGora%2016711040.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/kozlov_rob/14602" onclick="event.preventDefault(); window.open('/slika_gora/kozlov_rob/14602');"><img class="slikagm" alt="Kozlov rob" src="//www.hribi.net/slike1/DSCN790694208.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/ciprnik/14793" onclick="event.preventDefault(); window.open('/slika_gora/ciprnik/14793');"><img class="slikagm" alt="Ciprnik" src="//slike.hribi.net/slike4/2_05524605498_DSCN2373.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/ciprnik/14799" onclick="event.preventDefault(); window.open('/slika_gora/ciprnik/14799');"><img class="slikagm" alt="Ciprnik" src="//slike.hribi.net/slike4/2_0734524605674_DSCN2429.JPG" /></a>
+        <a target="_blank" href="/slika_gora/kozlov_rob/17168" onclick="event.preventDefault(); window.open('/slika_gora/kozlov_rob/17168');"><img class="slikagm" alt="Kozlov rob" src="//slike.hribi.net/slike4/2_213589621049_DSCN1128.JPG" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Razgledi/pogled_iz_ciprnika/4/189"><img class="slikagmv" alt="Pogled iz Ciprnika" src="https://img.youtube.com/vi/Llr-0LTwaYI/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -931,7 +927,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=709&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1757&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -941,13 +937,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jasna_ciprnik_mimo_mojcinega_doma/1/709/1269">Jasna - Ciprnik (mimo Mojčinega doma)</a></td><td class="tdG"><a href="/izlet/jasna_ciprnik_mimo_mojcinega_doma/1/709/1269">3 h</a></td><td class="tdG"><a href="/izlet/jasna_ciprnik_mimo_mojcinega_doma/1/709/1269">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/tolmin_kozlov_rob_ucna_pot/1/1757/3202">Tolmin - Kozlov rob (Učna pot)</a></td><td class="tdG"><a href="/izlet/tolmin_kozlov_rob_ucna_pot/1/1757/3202"> 30 min</a></td><td class="tdG"><a href="/izlet/tolmin_kozlov_rob_ucna_pot/1/1757/3202">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_planica_ciprnik_lovska_pot/1/709/3468">Dom Planica - Ciprnik (lovska pot)</a></td><td class="tdG"><a href="/izlet/dom_planica_ciprnik_lovska_pot/1/709/3468">2 h 15 min</a></td><td class="tdG"><a href="/izlet/dom_planica_ciprnik_lovska_pot/1/709/3468">delno zahtevna neoznačena pot, lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kranjska_gora_ciprnik_mimo_bedancevega_doma/1/709/6006">Kranjska Gora - Ciprnik (mimo Bedančevega doma)</a></td><td class="tdG"><a href="/izlet/kranjska_gora_ciprnik_mimo_bedancevega_doma/1/709/6006">2 h 55 min</a></td><td class="tdG"><a href="/izlet/kranjska_gora_ciprnik_mimo_bedancevega_doma/1/709/6006">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zelenci_ciprnik/1/709/3467">Zelenci - Ciprnik</a></td><td class="tdG"><a href="/izlet/zelenci_ciprnik/1/709/3467">2 h 30 min</a></td><td class="tdG"><a href="/izlet/zelenci_ciprnik/1/709/3467">lahko brezpotje</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/tolmin_kozlov_rob_grajska_pot/1/1757/3203">Tolmin - Kozlov rob (Grajska pot)</a></td><td class="tdG"><a href="/izlet/tolmin_kozlov_rob_grajska_pot/1/1757/3203"> 30 min</a></td><td class="tdG"><a href="/izlet/tolmin_kozlov_rob_grajska_pot/1/1757/3203">lahka neoznačena steza</a></td></tr>
 
 </table>
 

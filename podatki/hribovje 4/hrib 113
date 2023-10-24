@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Srednji vrh (nad Završnico)</title>
-        <meta name="description" content="Natančen opis gore Srednji vrh (nad Završnico) in vseh pristopov na Srednji vrh (nad Završnico). Srednji vrh je razgledna in z ruševjem porasla gora, ki se nahaja med Stolom, Vr." />
+        <title>Bela peč</title>
+        <meta name="description" content="Natančen opis gore Bela peč in vseh pristopov na Bela peč. Gora, ki je poznana predvsem pri plezalcih se nahaja severno od Storžiča na pobo." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./277?gorovjeid=11&amp;id=277" id="form1">
+    <form method="post" action="./346?gorovjeid=11&amp;id=346" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/srednji_vrh_above_zavrsnica/11/277"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=277"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bela_pec/11/346"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=346"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Srednji vrh (nad Završnico)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Bela peč
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(277);
+    gorast(346);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Srednji vrh (nad Završnico)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bela peč</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1796&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1583&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,8384'N&nbsp;/&nbsp;14°&nbsp;12,4734'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;22,6566'N&nbsp;/&nbsp;14°&nbsp;22,7892'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;50,30''N&nbsp;/&nbsp;14°&nbsp;12'&nbsp;28,40''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;22'&nbsp;39,40''N&nbsp;/&nbsp;14°&nbsp;22'&nbsp;47,35''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.43064°N&nbsp;/&nbsp;14.20789°E";
+                        document.getElementById("kf0").innerHTML = "46.37761°N&nbsp;/&nbsp;14.37982°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,43064°N,&nbsp;14,20789°E";
+                    document.getElementById("kf0").innerHTML = "46,37761°N,&nbsp;14,37982°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43064°N&nbsp;14,20789°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/srednji_vrh_nad_zavrsnico/277"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,37761°N&nbsp;14,37982°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bela_pec/346"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bela peč - Torek" href="/vreme_gora/bela_pec/11/346#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bela peč - Sreda" href="/vreme_gora/bela_pec/11/346#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bela peč - Četrtek" href="/vreme_gora/bela_pec/11/346#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji vrh (nad Završnico) - Petek" href="/vreme_gora/srednji_vrh_nad_zavrsnico/11/277#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bela peč - Petek" href="/vreme_gora/bela_pec/11/346#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji vrh (nad Završnico) - Sobota" href="/vreme_gora/srednji_vrh_nad_zavrsnico/11/277#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji vrh (nad Završnico) - Nedelja" href="/vreme_gora/srednji_vrh_nad_zavrsnico/11/277#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji vrh (nad Završnico) - Ponedeljek" href="/vreme_gora/srednji_vrh_nad_zavrsnico/11/277#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Srednji vrh (nad Završnico) - Torek" href="/vreme_gora/srednji_vrh_nad_zavrsnico/11/277#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bela peč - Sobota" href="/vreme_gora/bela_pec/11/346#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 448.383</div>
-<div class="g2"><b>Priljubljenost:</b> 86%&nbsp;(473.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=277" title="Število vpisov v vpisni knjigi">3</a></div>
+<div class="g2"><b>Ogledov:</b> 471.829</div>
+<div class="g2"><b>Priljubljenost:</b> 88%&nbsp;(405.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">10</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=346" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Srednji vrh je razgledna in z ruševjem porasla gora, ki se nahaja med Stolom, Vrtačo in Begunjščico. Z vrha, ki se prepadno spušča proti jugu, se nam odpre lep razgled na že omenjene vrhove ter na del Julijskih Alp. Vrh ima vpisno skrinjico in v njej vpisno knjigo.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Gora, ki je poznana predvsem pri plezalcih se nahaja severno od Storžiča na pobočjih Konjščice. Z vrha je lep pogled na že omenjeni Storžič, Tolsti vrh, greben Kriške gore ter bližnji Veliki Javornik oz. Ženiklovec. Vrh, ki je prepaden na južno stran ima vpisno skrinjico.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=277&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=346&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/begunjscica/11/52">Begunjščica (2060m)</a>, <a class="moder" href="/gora/dom_na_zelenici/11/91">Dom na Zelenici (1536m)</a>, <a class="moder" href="/gora/dom_pri_izviru_zavrsnice/11/278">Dom pri izviru Završnice (1425m)</a>, <a class="moder" href="/gora/na_mozeh/11/542">Na Možeh (1784m)</a>, <a class="moder" href="/gora/palec/11/363">Palec (2026m)</a>, <a class="moder" href="/gora/roblekov_dom_na_begunjscici/11/195">Roblekov dom na Begunjščici (1657m)</a>, <a class="moder" href="/gora/srednja_pec/11/2815">Srednja peč (1920m)</a>, <a class="moder" href="/gora/svacica/11/586">Svačica (1953m)</a>, <a class="moder" href="/gora/vrtaca/11/78">Vrtača (2181m)</a>, <a class="moder" href="/gora/zelenjak/11/692">Zelenjak (2024m)</a>, <a class="moder" href="/gora/zleb_suho_rusevje/11/88">Žleb (Suho ruševje) (1916m)</a>
+<a class="moder" href="/gora/javorce/11/3342">Javorče (1667m)</a>, <a class="moder" href="/gora/koca_pr_zdravc/11/251">Koča Pr Zdravc (1448m)</a>, <a class="moder" href="/gora/planina_javornik/11/509">Planina Javornik (1550m)</a>, <a class="moder" href="/gora/planina_spodnja_konjscica/11/347">Planina Spodnja Konjščica (1451m)</a>, <a class="moder" href="/gora/planina_zgornja_konjscica/11/1245">Planina Zgornja Konjščica (1578m)</a>, <a class="moder" href="/gora/spominska_plosca_jozeta_rozmana/11/508">Spominska plošča Jožeta Rozmana (1450m)</a>, <a class="moder" href="/gora/veliki_javornik_zeniklovec/11/149">Veliki Javornik (Ženiklovec) (1716m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,31 +835,43 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednji_vrh_nad_zavrsnico%2f11%2f277"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednji_vrh_nad_zavrsnico%2f11%2f277"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsrednji_vrh_nad_zavrsnico%2f11%2f277"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbela_pec%2f11%2f346"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbela_pec%2f11%2f346"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbela_pec%2f11%2f346"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/srednji_vrh_nad_zavrsnico/277" title="Srednji vrh (nad Završnico) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.SrednjiVrh.jpg" /></a></div>
+<div><a href="/panorama/360/bela_pec/346" title="Bela peč 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.belapec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/srednji_vrh_nad_zavrsnico/640" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh_nad_zavrsnico/640');"><img class="slikagm" alt="Srednji vrh (nad Završnico)" src="//www.hribi.net/Gora/p8060093mediumao5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bela_pec/422" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/422');"><img class="slikagm" alt="Bela peč" src="//www.hribi.net/Gora/p7020077medium7yc.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh_nad_zavrsnico/642" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh_nad_zavrsnico/642');"><img class="slikagm" alt="Srednji vrh (nad Završnico)" src="//www.hribi.net/Gora/p8060123mediumqk7.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bela_pec/1415" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/1415');"><img class="slikagm" alt="Bela peč" src="//www.hribi.net/slike1/P105001617325.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh_nad_zavrsnico/647" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh_nad_zavrsnico/647');"><img class="slikagm" alt="Srednji vrh (nad Završnico)" src="//www.hribi.net/Gora/p8060152mediumaj3.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bela_pec/1416" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/1416');"><img class="slikagm" alt="Bela peč" src="//www.hribi.net/slike1/P105002818018.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh_nad_zavrsnico/651" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh_nad_zavrsnico/651');"><img class="slikagm" alt="Srednji vrh (nad Završnico)" src="//www.hribi.net/Gora/p8060143mediumcn1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bela_pec/1417" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/1417');"><img class="slikagm" alt="Bela peč" src="//www.hribi.net/slike1/P105004527027.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh_nad_zavrsnico/4764" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh_nad_zavrsnico/4764');"><img class="slikagm" alt="Srednji vrh (nad Završnico)" src="//www.hribi.net/slike1/Molickabeg 620181440.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bela_pec/7252" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/7252');"><img class="slikagm" alt="Bela peč" src="//slike.hribi.net/sliketemp/BelaPec%201015815409.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/srednji_vrh_nad_zavrsnico/4765" onclick="event.preventDefault(); window.open('/slika_gora/srednji_vrh_nad_zavrsnico/4765');"><img class="slikagm" alt="Srednji vrh (nad Završnico)" src="//www.hribi.net/slike1/P7290053975240.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bela_pec/9945" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/9945');"><img class="slikagm" alt="Bela peč" src="//www.hribi.net/slike1/BelaPec12 081476280.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bela_pec/9946" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/9946');"><img class="slikagm" alt="Bela peč" src="//www.hribi.net/slike1/BelaPec12%20020491400.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bela_pec/9947" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/9947');"><img class="slikagm" alt="Bela peč" src="//slike.hribi.net/slike4/2_0721394983101_TolstiVrh_276.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/bela_pec/20678" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/20678');"><img class="slikagm" alt="Bela peč" src="//slike2.hribi.net/slike14/2_0464697031767_0_656.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bela_pec/20679" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/20679');"><img class="slikagm" alt="Bela peč" src="//slike2.hribi.net/slike14/2_167697031768_1_557.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bela_pec/20682" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/20682');"><img class="slikagm" alt="Bela peč" src="//slike2.hribi.net/slike14/2_4329697031770_4_653.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bela_pec/20726" onclick="event.preventDefault(); window.open('/slika_gora/bela_pec/20726');"><img class="slikagm" alt="Bela peč" src="//slike2.hribi.net/slike14/2_0419697541366_020200221_na_beli_peci.jpg" /></a>
     
 </div>
 
@@ -923,7 +935,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=277&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=346&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -933,13 +945,25 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_srednji_vrh_nad_zavrsnico_mimo_izvira_zavrsnice/11/277/615">Ljubelj - Srednji vrh (nad Završnico) (mimo izvira Završnice)</a></td><td class="tdG"><a href="/izlet/ljubelj_srednji_vrh_nad_zavrsnico_mimo_izvira_zavrsnice/11/277/615">2 h 40 min</a></td><td class="tdG"><a href="/izlet/ljubelj_srednji_vrh_nad_zavrsnico_mimo_izvira_zavrsnice/11/277/615">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grahovse_bela_pec_cez_borst/11/346/482">Grahovše - Bela peč (čez Boršt)</a></td><td class="tdG"><a href="/izlet/grahovse_bela_pec_cez_borst/11/346/482">2 h 30 min</a></td><td class="tdG"><a href="/izlet/grahovse_bela_pec_cez_borst/11/346/482">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tinckova_koca_srednji_vrh_nad_zavrsnico_cez_smokusko_planino/11/277/397">Tinčkova koča - Srednji vrh (nad Završnico) (čez Smokuško planino)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_srednji_vrh_nad_zavrsnico_cez_smokusko_planino/11/277/397">2 h</a></td><td class="tdG"><a href="/izlet/tinckova_koca_srednji_vrh_nad_zavrsnico_cez_smokusko_planino/11/277/397">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/grahovse_bela_pec_cez_rot/11/346/862">Grahovše - Bela peč (čez Rot)</a></td><td class="tdG"><a href="/izlet/grahovse_bela_pec_cez_rot/11/346/862">2 h 30 min</a></td><td class="tdG"><a href="/izlet/grahovse_bela_pec_cez_rot/11/346/862">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubelj_srednji_vrh_nad_zavrsnico_po_pobocju_vrtace/11/277/1790">Ljubelj - Srednji vrh (nad Završnico) (po pobočju Vrtače)</a></td><td class="tdG"><a href="/izlet/ljubelj_srednji_vrh_nad_zavrsnico_po_pobocju_vrtace/11/277/1790">3 h</a></td><td class="tdG"><a href="/izlet/ljubelj_srednji_vrh_nad_zavrsnico_po_pobocju_vrtace/11/277/1790">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_pod_storzicem_bela_pec/11/346/3967">Dom pod Storžičem - Bela peč</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_bela_pec/11/346/3967">2 h</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_bela_pec/11/346/3967">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/tinckova_koca_srednji_vrh_nad_zavrsnico_skozi_zagon/11/277/6433">Tinčkova koča - Srednji vrh (nad Završnico) (skozi Zagon)</a></td><td class="tdG"><a href="/izlet/tinckova_koca_srednji_vrh_nad_zavrsnico_skozi_zagon/11/277/6433">2 h</a></td><td class="tdG"><a href="/izlet/tinckova_koca_srednji_vrh_nad_zavrsnico_skozi_zagon/11/277/6433">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/grahovse_bela_pec_pod_steno/11/346/860">Grahovše - Bela peč (pod steno)</a></td><td class="tdG"><a href="/izlet/grahovse_bela_pec_pod_steno/11/346/860">2 h 15 min</a></td><td class="tdG"><a href="/izlet/grahovse_bela_pec_pod_steno/11/346/860">delno zahtevna neoznačena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/grahovse_bela_pec_mimo_tica/11/346/2980">Grahovše - Bela peč (mimo Tiča)</a></td><td class="tdG"><a href="/izlet/grahovse_bela_pec_mimo_tica/11/346/2980">2 h 30 min</a></td><td class="tdG"><a href="/izlet/grahovse_bela_pec_mimo_tica/11/346/2980">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_pod_storzicem_bela_pec_cez_javorniski_preval/11/346/3969"> Dom pod Storžičem - Bela peč (čez Javorniški preval)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_bela_pec_cez_javorniski_preval/11/346/3969">2 h 5 min</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_bela_pec_cez_javorniski_preval/11/346/3969">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_vetrh_bela_pec_mimo_koce_pr_zdravc/11/346/6441">Planina Vetrh - Bela peč (mimo koče pr Zdravc)</a></td><td class="tdG"><a href="/izlet/planina_vetrh_bela_pec_mimo_koce_pr_zdravc/11/346/6441">1 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_vetrh_bela_pec_mimo_koce_pr_zdravc/11/346/6441">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/grahovse_bela_pec_mimo_rekarja/11/346/7991">Grahovše - Bela peč (mimo Rekarja)</a></td><td class="tdG"><a href="/izlet/grahovse_bela_pec_mimo_rekarja/11/346/7991">2 h 30 min</a></td><td class="tdG"><a href="/izlet/grahovse_bela_pec_mimo_rekarja/11/346/7991">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/na_kopis_bela_pec_cez_konjsci/11/346/8429">Na kopiš - Bela peč (čez Konjšci)</a></td><td class="tdG"><a href="/izlet/na_kopis_bela_pec_cez_konjsci/11/346/8429">2 h</a></td><td class="tdG"><a href="/izlet/na_kopis_bela_pec_cez_konjsci/11/346/8429">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/trzic_bela_pec_cez_potarje_in_sp_konsco/11/346/8420">Tržič - Bela peč (čez Potarje in Sp. Konšco)</a></td><td class="tdG"><a href="/izlet/trzic_bela_pec_cez_potarje_in_sp_konsco/11/346/8420">3 h 55 min</a></td><td class="tdG"><a href="/izlet/trzic_bela_pec_cez_potarje_in_sp_konsco/11/346/8420">lahka označena pot</a></td></tr>
 
 </table>
 

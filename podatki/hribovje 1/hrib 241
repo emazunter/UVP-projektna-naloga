@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Belovka</title>
-        <meta name="description" content="Natančen opis gore Belovka in vseh pristopov na Belovka. Belovka je 848 metrov visok hrib, ki se nahaja na Bloški planoti, točneje med na." />
+        <title>Lačna</title>
+        <meta name="description" content="Natančen opis gore Lačna in vseh pristopov na Lačna. Lačna je 451 m visok hrib, ki se nahaja med Gračiščem, Kubedom in Hrastovljami. ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2135?gorovjeid=26&amp;id=2135" id="form1">
+    <form method="post" action="./1705?gorovjeid=26&amp;id=1705" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/belovka/26/2135"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2135"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lacna/26/1705"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1705"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Belovka
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Lačna
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2135);
+    gorast(1705);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Belovka</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Lačna</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 848&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 451&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;45,6366'N&nbsp;/&nbsp;14°&nbsp;32,4552'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;30,3060'N&nbsp;/&nbsp;13°&nbsp;53,1240'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;45'&nbsp;38,20''N&nbsp;/&nbsp;14°&nbsp;32'&nbsp;27,31''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;30'&nbsp;18,36''N&nbsp;/&nbsp;13°&nbsp;53'&nbsp;7,44''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.76061°N&nbsp;/&nbsp;14.54092°E";
+                        document.getElementById("kf0").innerHTML = "45.5051°N&nbsp;/&nbsp;13.8854°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,76061°N,&nbsp;14,54092°E";
+                    document.getElementById("kf0").innerHTML = "45,5051°N,&nbsp;13,8854°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,76061°N&nbsp;14,54092°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/belovka/2135"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,5051°N&nbsp;13,8854°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lacna/1705"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Lačna - Torek" href="/vreme_gora/lacna/26/1705#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Lačna - Sreda" href="/vreme_gora/lacna/26/1705#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Lačna - Četrtek" href="/vreme_gora/lacna/26/1705#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Belovka - Petek" href="/vreme_gora/belovka/26/2135#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lačna - Petek" href="/vreme_gora/lacna/26/1705#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Belovka - Sobota" href="/vreme_gora/belovka/26/2135#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Belovka - Nedelja" href="/vreme_gora/belovka/26/2135#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Belovka - Ponedeljek" href="/vreme_gora/belovka/26/2135#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Belovka - Torek" href="/vreme_gora/belovka/26/2135#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Lačna - Sobota" href="/vreme_gora/lacna/26/1705#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 149.517</div>
-<div class="g2"><b>Priljubljenost:</b> 52%&nbsp;(1581.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Ogledov:</b> 363.550</div>
+<div class="g2"><b>Priljubljenost:</b> 77%&nbsp;(764.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1705" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Belovka je 848 metrov visok hrib, ki se nahaja na Bloški planoti, točneje med naselji Studenec na Blokah, Runarsko, Ravne na Blokah in Topol. Z deloma travnatega vrha, na katerega ne vodi nobena markirana pot, se nam ob lepem vremenu odpre lep razgled, ki seže vse od bližnjih naselij do Snežnika, Javornikov in Slivnice, ob dobri vidljivosti pa razgled seže vse do Triglava.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Lačna je 451 m visok hrib, ki se nahaja med Gračiščem, Kubedom in Hrastovljami. Vrh na katerem se nahaja kovinski razgledni stolp, s katerega se nam odpre lep razgled po bližnji in daljni okolici, ima vpisno skrinjico ter nekaj manjših lesenih klopi. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2135&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1705&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/sveti_stefan_zanigrad/26/1706">Sveti Štefan (Zanigrad) (246m)</a>, <a class="moder" href="/gora/vrh_kriza/26/1713">Vrh križa (411m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,25 +835,35 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/cerknisko_jezero/3634">Cerkniško jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/gorenje_podpoljane/1449">Gorenje Podpoljane</a>, <a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/iga_vas/1077">Iga vas</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/ribnica/1981">Ribnica</a>, <a class="moder" href="/spletna_kamera/studenec_na_blokah/1599">Studenec na Blokah</a>
+<a class="moder" href="/spletna_kamera/ankaran/4356">Ankaran</a>, <a class="moder" href="/spletna_kamera/bertoki/4921">Bertoki</a>, <a class="moder" href="/spletna_kamera/grad_socerb/4360">Grad Socerb</a>, <a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/koper/3504">Koper</a>, <a class="moder" href="/spletna_kamera/koper_marina/4335">Koper (marina)</a>, <a class="moder" href="/spletna_kamera/koper_markovec/300">Koper (Markovec)</a>, <a class="moder" href="/spletna_kamera/koper_panoramski_pogled/4268">Koper (panoramski pogled)</a>, <a class="moder" href="/spletna_kamera/kozina/1424">Kozina</a>, <a class="moder" href="/spletna_kamera/krvavi_potok/1982">Krvavi Potok</a>, <a class="moder" href="/spletna_kamera/luka_koper/4329">Luka Koper</a>, <a class="moder" href="/spletna_kamera/milje___muggia/1639">Milje / Muggia</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/spodnje_skofije/1080">Spodnje Škofije</a>, <a class="moder" href="/spletna_kamera/sveti_martin/3717">Sveti Martin</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbelovka%2f26%2f2135"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbelovka%2f26%2f2135"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbelovka%2f26%2f2135"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flacna%2f26%2f1705"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flacna%2f26%2f1705"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flacna%2f26%2f1705"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/belovka/2135" title="Belovka 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Belovka.jpg" /></a></div>
+<div><a href="/panorama/360/lacna/1705" title="Lačna 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Lacna.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/belovka/10544" onclick="event.preventDefault(); window.open('/slika_gora/belovka/10544');"><img class="slikagm" alt="Belovka" src="//www.hribi.net/slike1/KriznaGora 18439000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lacna/7542" onclick="event.preventDefault(); window.open('/slika_gora/lacna/7542');"><img class="slikagm" alt="Lačna" src="//www.hribi.net/slike1/Zjat 050116886.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/belovka/10545" onclick="event.preventDefault(); window.open('/slika_gora/belovka/10545');"><img class="slikagm" alt="Belovka" src="//www.hribi.net/slike1/KriznaGora 18539000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lacna/7543" onclick="event.preventDefault(); window.open('/slika_gora/lacna/7543');"><img class="slikagm" alt="Lačna" src="//www.hribi.net/slike1/Zjat 102116886.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/belovka/10547" onclick="event.preventDefault(); window.open('/slika_gora/belovka/10547');"><img class="slikagm" alt="Belovka" src="//www.hribi.net/slike1/KriznaGora 22210816.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/lacna/7544" onclick="event.preventDefault(); window.open('/slika_gora/lacna/7544');"><img class="slikagm" alt="Lačna" src="//www.hribi.net/slike1/Zjat 103116886.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/lacna/7545" onclick="event.preventDefault(); window.open('/slika_gora/lacna/7545');"><img class="slikagm" alt="Lačna" src="//www.hribi.net/slike1/Zjat 049147378.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/lacna/7546" onclick="event.preventDefault(); window.open('/slika_gora/lacna/7546');"><img class="slikagm" alt="Lačna" src="//www.hribi.net/slike1/Zjat 105171864.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/lacna/7547" onclick="event.preventDefault(); window.open('/slika_gora/lacna/7547');"><img class="slikagm" alt="Lačna" src="//www.hribi.net/slike1/Zjat 153349272.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/lacna/7592" onclick="event.preventDefault(); window.open('/slika_gora/lacna/7592');"><img class="slikagm" alt="Lačna" src="//www.hribi.net/slike1/VeliBadinKrim 035117117.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/lacna/7596" onclick="event.preventDefault(); window.open('/slika_gora/lacna/7596');"><img class="slikagm" alt="Lačna" src="//www.hribi.net/slike1/VeliBadinKrim 09742042.th.jpg" /></a>
     
 </div>
 
@@ -917,7 +927,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2135&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1705&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -927,9 +937,17 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/topol_belovka/26/2135/4297"> Topol - Belovka</a></td><td class="tdG"><a href="/izlet/topol_belovka/26/2135/4297"> 15 min</a></td><td class="tdG"><a href="/izlet/topol_belovka/26/2135/4297">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/hrastovlje_lacna/26/1705/3079">Hrastovlje - Lačna</a></td><td class="tdG"><a href="/izlet/hrastovlje_lacna/26/1705/3079">1 h 15 min</a></td><td class="tdG"><a href="/izlet/hrastovlje_lacna/26/1705/3079">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/studenec_na_blokah_belovka/26/2135/4298">Studenec na Blokah - Belovka</a></td><td class="tdG"><a href="/izlet/studenec_na_blokah_belovka/26/2135/4298"> 15 min</a></td><td class="tdG"><a href="/izlet/studenec_na_blokah_belovka/26/2135/4298">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/gracisce_lacna/26/1705/3078">Gračišče - Lačna</a></td><td class="tdG"><a href="/izlet/gracisce_lacna/26/1705/3078"> 30 min</a></td><td class="tdG"><a href="/izlet/gracisce_lacna/26/1705/3078">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/kubed_lacna/26/1705/3077">Kubed - Lačna</a></td><td class="tdG"><a href="/izlet/kubed_lacna/26/1705/3077"> 45 min</a></td><td class="tdG"><a href="/izlet/kubed_lacna/26/1705/3077">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/komare_doline_lacna/26/1705/3102">Komare doline - Lačna</a></td><td class="tdG"><a href="/izlet/komare_doline_lacna/26/1705/3102"> 35 min</a></td><td class="tdG"><a href="/izlet/komare_doline_lacna/26/1705/3102">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zazid_lacna/26/1705/4292">Zazid - Lačna</a></td><td class="tdG"><a href="/izlet/zazid_lacna/26/1705/4292">2 h 10 min</a></td><td class="tdG"><a href="/izlet/zazid_lacna/26/1705/4292">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/krog_lacna/26/1705/8018">Krog - Lačna</a></td><td class="tdG"><a href="/izlet/krog_lacna/26/1705/8018">4 h</a></td><td class="tdG"><a href="/izlet/krog_lacna/26/1705/8018">lahka označena pot</a></td></tr>
 
 </table>
 

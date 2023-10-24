@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Plešivec</title>
-        <meta name="description" content="Natančen opis gore Plešivec in vseh pristopov na Plešivec. Plešivec je 1801 m visok vrh, ki se nahaja južno od vzhodnega dela Košute. Z vrh." />
+        <title>Sveta peč / Helige Wand</title>
+        <meta name="description" content="Natančen opis gore Sveta peč / Helige Wand in vseh pristopov na Sveta peč / Helige Wand. Sveta peč, oz.po nemško Helige Wand je 1613 m visok vrh, ki se nahaja na avstrij." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./300?gorovjeid=11&amp;id=300" id="form1">
+    <form method="post" action="./1779?gorovjeid=11&amp;id=1779" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/plesivec/11/300"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=300"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/helige_wand/11/1779"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1779"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Plešivec
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Sveta peč / Helige Wand
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(300);
+    gorast(1779);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Plešivec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Sveta peč / Helige Wand</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1801&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1613&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,0394'N&nbsp;/&nbsp;14°&nbsp;25,8780'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;27,3660'N&nbsp;/&nbsp;14°&nbsp;13,8840'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;2,36''N&nbsp;/&nbsp;14°&nbsp;25'&nbsp;52,68''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;27'&nbsp;21,96''N&nbsp;/&nbsp;14°&nbsp;13'&nbsp;53,04''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.43399°N&nbsp;/&nbsp;14.4313°E";
+                        document.getElementById("kf0").innerHTML = "46.4561°N&nbsp;/&nbsp;14.2314°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,43399°N,&nbsp;14,4313°E";
+                    document.getElementById("kf0").innerHTML = "46,4561°N,&nbsp;14,2314°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43399°N&nbsp;14,4313°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/plesivec/300"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4561°N&nbsp;14,2314°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveta_pec___helige_wand/1779"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta peč / Helige Wand - Torek" href="/vreme_gora/sveta_pec___helige_wand/11/1779#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta peč / Helige Wand - Sreda" href="/vreme_gora/sveta_pec___helige_wand/11/1779#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta peč / Helige Wand - Četrtek" href="/vreme_gora/sveta_pec___helige_wand/11/1779#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Plešivec - Petek" href="/vreme_gora/plesivec/11/300#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta peč / Helige Wand - Petek" href="/vreme_gora/sveta_pec___helige_wand/11/1779#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Plešivec - Sobota" href="/vreme_gora/plesivec/11/300#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Plešivec - Nedelja" href="/vreme_gora/plesivec/11/300#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Plešivec - Ponedeljek" href="/vreme_gora/plesivec/11/300#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Plešivec - Torek" href="/vreme_gora/plesivec/11/300#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Sveta peč / Helige Wand - Sobota" href="/vreme_gora/sveta_pec___helige_wand/11/1779#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 479.654</div>
-<div class="g2"><b>Priljubljenost:</b> 89%&nbsp;(376.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">3</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=300" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 162.408</div>
+<div class="g2"><b>Priljubljenost:</b> 53%&nbsp;(1529.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Plešivec je 1801 m visok vrh, ki se nahaja južno od vzhodnega dela Košute. Z vrha, na katerem stoji mejna tabla, se nam odpre lep pogled na večji del Košute, osrednje Karavanke in Kamniško Savinjske Alpe.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Sveta peč, oz.po nemško Helige Wand je 1613 m visok vrh, ki se nahaja na avstrijski strani glavnega grebena Karavank. Z vrha, ki je deloma porasel z gozdom, se nam med krošnjami dreves odpre lep razgled na severna ostenja Palca in grebena Na Možeh.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=300&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1779&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/crna_pec/11/3252">Črna peč (1447m)</a>, <a class="moder" href="/gora/mala_kosuta/11/301">Mala Košuta (1740m)</a>, <a class="moder" href="/gora/pecovnik/11/526">Pečovnik (1640m)</a>, <a class="moder" href="/gora/pecovnik_kota_1668/11/283">Pečovnik (kota 1668) (1668m)</a>, <a class="moder" href="/gora/planina_brsnina/11/3264">Planina Brsnina (1357m)</a>, <a class="moder" href="/gora/planina_spodnja_dolga_njiva/11/298">Planina Spodnja Dolga njiva (1400m)</a>, <a class="moder" href="/gora/planina_zgornja_dolga_njiva/11/297">Planina Zgornja Dolga njiva (1580m)</a>, <a class="moder" href="/gora/tolsta_kosuta_-_vzhodni_vrh/11/296">Tolsta Košuta - Vzhodni vrh (2057m)</a>, <a class="moder" href="/gora/tolsta_kosuta_-_zahodni_vrh/11/315">Tolsta Košuta - Zahodni vrh (2026m)</a>
+<a class="moder" href="/gora/bela_pec___weisse_wand/11/1780">Bela peč / Weiße Wand (1665m)</a>, <a class="moder" href="/gora/palec/11/363">Palec (2026m)</a>, <a class="moder" href="/gora/pozgani_rob/11/1782">Požgani rob (1513m)</a>, <a class="moder" href="/gora/rjavca___rjautza/11/1781">Rjavca / Rjautza (1789m)</a>, <a class="moder" href="/gora/zelenjak/11/692">Zelenjak (2024m)</a>, <a class="moder" href="/gora/zleb_suho_rusevje/11/88">Žleb (Suho ruševje) (1916m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,45 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplesivec%2f11%2f300"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplesivec%2f11%2f300"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplesivec%2f11%2f300"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_pec___helige_wand%2f11%2f1779"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_pec___helige_wand%2f11%2f1779"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveta_pec___helige_wand%2f11%2f1779"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/plesivec/300" title="Plešivec 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.plesivec.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/plesivec/260" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/260');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/Gora/p5280071medium0fg.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/sveta_pec___helige_wand/7989" onclick="event.preventDefault(); window.open('/slika_gora/sveta_pec___helige_wand/7989');"><img class="slikagm" alt="Sveta peč / Helige Wand" src="//www.hribi.net/slike1/Rjavca 081767745.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/plesivec/263" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/263');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/Gora/p5280108medium9xy.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/267" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/267');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/Gora/p5280124medium8zb.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/1480" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/1480');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/slike1/P1200076100688.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/1481" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/1481');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/slike1/P1200106100688.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/4955" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/4955');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/slike1/TolstaKosuta%203172274804.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/4956" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/4956');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/slike1/TolstaKosuta%203422274804.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/4957" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/4957');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/slike1/TolstaKosuta%20028471744.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/14223" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/14223');"><img class="slikagm" alt="Plešivec" src="//slike.hribi.net/slike4/2_1452506415398_DSCN8880.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/14224" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/14224');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/slike1/DSCN888271280.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/14225" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/14225');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/slike1/DSCN890847880.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/14226" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/14226');"><img class="slikagm" alt="Plešivec" src="//www.hribi.net/slike1/DSCN891475240.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plesivec/19363" onclick="event.preventDefault(); window.open('/slika_gora/plesivec/19363');"><img class="slikagm" alt="Plešivec" src="//slike.hribi.net/slike4/2_0772645179021_DSCN1518.JPG" /></a>
+        <a target="_blank" href="/slika_gora/sveta_pec___helige_wand/7990" onclick="event.preventDefault(); window.open('/slika_gora/sveta_pec___helige_wand/7990');"><img class="slikagm" alt="Sveta peč / Helige Wand" src="//www.hribi.net/slike1/Rjavca 083767745.th.jpg" /></a>
     
 </div>
 
@@ -937,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=300&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1779&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -947,11 +922,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pod_krnico_plesivec/11/300/426">Pod Krnico - Plešivec</a></td><td class="tdG"><a href="/izlet/pod_krnico_plesivec/11/300/426">1 h 20 min</a></td><td class="tdG"><a href="/izlet/pod_krnico_plesivec/11/300/426">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/smrecje_plesivec_po_cesti/11/300/899">Smrečje - Plešivec (po cesti)</a></td><td class="tdG"><a href="/izlet/smrecje_plesivec_po_cesti/11/300/899">3 h 30 min</a></td><td class="tdG"><a href="/izlet/smrecje_plesivec_po_cesti/11/300/899">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jezerski_vrh_plesivec/11/300/5735">Jezerski vrh - Plešivec</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_plesivec/11/300/5735">3 h 30 min</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_plesivec/11/300/5735">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pamz___pamschbauer_sveta_pec___helige_wand_po_cesti/11/1779/3242">Pamž / Pamschbauer - Sveta peč / Helige Wand (po cesti)</a></td><td class="tdG"><a href="/izlet/pamz___pamschbauer_sveta_pec___helige_wand_po_cesti/11/1779/3242">2 h 30 min</a></td><td class="tdG"><a href="/izlet/pamz___pamschbauer_sveta_pec___helige_wand_po_cesti/11/1779/3242">lahko brezpotje</a></td></tr>
 
 </table>
 

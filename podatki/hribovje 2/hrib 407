@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Lopič / Monte Plauris</title>
-        <meta name="description" content="Natančen opis gore Lopič / Monte Plauris in vseh pristopov na Lopič / Monte Plauris. Najvišji in obenem najzahodnejši vrh Muzcev se dviga visoko nad dolino Tilmenta ." />
+        <title>Planina Dobrenjščica</title>
+        <meta name="description" content="Natančen opis planine Planina Dobrenjščica in vseh pristopov na Planina Dobrenjščica. Planina Dobrenjščica je opuščena planina, ki se nahaja na zahodnih pobočjih Tolm." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2374?gorovjeid=1&amp;id=2374" id="form1">
+    <form method="post" action="./1601?gorovjeid=1&amp;id=1601" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lopic___monte_plauris/1/2374"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=2374"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planina_dobrenjscica/1/1601"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1601"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Lopič / Monte Plauris
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Planina Dobrenjščica
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2374);
+    gorast(1601);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Lopič / Monte Plauris</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planina Dobrenjščica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/italija/2">Italija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1958&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1304&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,5520'N&nbsp;/&nbsp;13°&nbsp;11,7540'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,8580'N&nbsp;/&nbsp;13°&nbsp;44,3040'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;33,12''N&nbsp;/&nbsp;13°&nbsp;11'&nbsp;45,24''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;51,48''N&nbsp;/&nbsp;13°&nbsp;44'&nbsp;18,24''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.3592°N&nbsp;/&nbsp;13.1959°E";
+                        document.getElementById("kf0").innerHTML = "46.2643°N&nbsp;/&nbsp;13.7384°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,3592°N,&nbsp;13,1959°E";
+                    document.getElementById("kf0").innerHTML = "46,2643°N,&nbsp;13,7384°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,3592°N&nbsp;13,1959°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lopic___monte_plauris/2374"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,2643°N&nbsp;13,7384°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planina_dobrenjscica/1601"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> </div>
+    <div class="g2"><b>Vrsta:</b> planina</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Dobrenjščica - Torek" href="/vreme_gora/planina_dobrenjscica/1/1601#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Dobrenjščica - Sreda" href="/vreme_gora/planina_dobrenjscica/1/1601#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Dobrenjščica - Četrtek" href="/vreme_gora/planina_dobrenjscica/1/1601#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopič / Monte Plauris - Petek" href="/vreme_gora/lopic___monte_plauris/1/2374#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_2_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Dobrenjščica - Petek" href="/vreme_gora/planina_dobrenjscica/1/1601#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopič / Monte Plauris - Sobota" href="/vreme_gora/lopic___monte_plauris/1/2374#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_2_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopič / Monte Plauris - Nedelja" href="/vreme_gora/lopic___monte_plauris/1/2374#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopič / Monte Plauris - Ponedeljek" href="/vreme_gora/lopic___monte_plauris/1/2374#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Lopič / Monte Plauris - Torek" href="/vreme_gora/lopic___monte_plauris/1/2374#To"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_1_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planina Dobrenjščica - Sobota" href="/vreme_gora/planina_dobrenjscica/1/1601#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,9 +743,9 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 282.960</div>
-<div class="g2"><b>Priljubljenost:</b> 67%&nbsp;(1069.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Ogledov:</b> 283.308</div>
+<div class="g2"><b>Priljubljenost:</b> 68%&nbsp;(1068.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">9</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Najvišji in obenem najzahodnejši vrh Muzcev se dviga visoko nad dolino Tilmenta na zahodu ter Venzonasse na jugu. Proti severu se spušča v Rezijo.<br>Južne strmali, na katerih je ob vsakem obisku mogoče opazovati trop številnih kozorogov, so povečini poraščene s travami, medtem ko na severu prevladujejo razbite, prepadne pečine s številnimi grapami, žlebovi in stolpi.<br>Vrh ima dva izrazitejša grebena. Osrednji se z vrha spušča proti jugozahodu prek Cime di Cervada (1781 m) in Cime di Somp Selve (1702 m). Greben je zelo razgleden in brezpoten, a tehnično dokaj nezahteven (mesta I.–II. stopnje). Pod Cimo di Somp Selve se cepi na dve rebri: eno se spušča proti Vratom / Portis, drugo proti Pušji vasi /Venzone pa skupaj z vzporednim grebenom Cime dei Larici na severu oklepa slikovito dolino Lavaruzza. Drugi izrazitejši greben z Lopiča poteka proti jugovzhodu prek neimenovanega vrha (1858 m) do sedla Slips, kjer je povezan z grebenom Javorja. Oba grebena na jugu oklepata prostrano, strmo travnato krnico, ki se izteče v grapo potoka Gran Rio. Tudi na severozahod pošilja Lopič sicer ne tako enovit greben prek vrhov Pale di Misdi (Punta del Mezzogiorno, 1841 m) in Cima Clapadorie (1756 m).</div>
+<div style="padding-top:10px;"><b>Opis planine:</b><br />Planina Dobrenjščica je opuščena planina, ki se nahaja na zahodnih pobočjih Tolminskega Kuka oz. Vrha Planje. S planine, na kateri stoji lovska koča, se nam odpre lep razgled na gore, ki obdajajo dolino reke Tolminke. Najlepše se vidi na nasprotno stran doline, kjer lepo vidimo planino Lašča, Rdeči rob ter Mali in Veliki Kuntar.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2374&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1601&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/bogatin/1/326">Bogatin (1977m)</a>, <a class="moder" href="/gora/izvir_tolminke/1/412">Izvir Tolminke (695m)</a>, <a class="moder" href="/gora/kser/1/1372">Kser (1900m)</a>, <a class="moder" href="/gora/mahavscek/1/327">Mahavšček (2008m)</a>, <a class="moder" href="/gora/tolminski_kuk/1/153">Tolminski Kuk (2085m)</a>, <a class="moder" href="/gora/vrh_planje/1/448">Vrh Planje (1971m)</a>, <a class="moder" href="/gora/vrh_skrli/1/1371">Vrh Škrli (1926m)</a>, <a class="moder" href="/gora/zeleni_vrh/1/1888">Zeleni vrh (2052m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,20 +835,37 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/artegna/1827">Artegna</a>, <a class="moder" href="/spletna_kamera/humin___gemona_del_friuli/1594">Humin / Gemona del Friuli</a>, <a class="moder" href="/spletna_kamera/pusja_vas___venzone/1967">Pušja vas / Venzone</a>, <a class="moder" href="/spletna_kamera/rezija_val_resia/483">Rezija/Val Resia</a>, <a class="moder" href="/spletna_kamera/tolmezzo/1363">Tolmezzo</a>
+<a class="moder" href="/spletna_kamera/bohinjsko_jezero_colnarna/4266">Bohinjsko jezero (čolnarna)</a>, <a class="moder" href="/spletna_kamera/bohinjsko_jezero_na_veglju/76">Bohinjsko jezero (na Veglju)</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/koca_na_uskovnici/3612">Koča na Uskovnici</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/vogar/2323">Vogar</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flopic___monte_plauris%2f1%2f2374"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flopic___monte_plauris%2f1%2f2374"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flopic___monte_plauris%2f1%2f2374"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_dobrenjscica%2f1%2f1601"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_dobrenjscica%2f1%2f1601"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplanina_dobrenjscica%2f1%2f1601"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/planina_dobrenjscica/1601" title="Planina Dobrenjščica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninaDobrenjscica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/lopic___monte_plauris/12668" onclick="event.preventDefault(); window.open('/slika_gora/lopic___monte_plauris/12668');"><img class="slikagm" alt="Lopič / Monte Plauris" src="//www.hribi.net/slike5/Muzci_1067641390.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_dobrenjscica/6659" onclick="event.preventDefault(); window.open('/slika_gora/planina_dobrenjscica/6659');"><img class="slikagm" alt="Planina Dobrenjščica" src="//www.hribi.net/slike1/tolminski_kuk%205145667932.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lopic___monte_plauris/12669" onclick="event.preventDefault(); window.open('/slika_gora/lopic___monte_plauris/12669');"><img class="slikagm" alt="Lopič / Monte Plauris" src="//www.hribi.net/slike5/4._Greben_Muzcev_II.7641390.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/planina_dobrenjscica/6660" onclick="event.preventDefault(); window.open('/slika_gora/planina_dobrenjscica/6660');"><img class="slikagm" alt="Planina Dobrenjščica" src="//www.hribi.net/slike1/tolminski_kuk%205085667932.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_dobrenjscica/22381" onclick="event.preventDefault(); window.open('/slika_gora/planina_dobrenjscica/22381');"><img class="slikagm" alt="Planina Dobrenjščica" src="//slike2.hribi.net/slike14/2_5362749088910_6p1230607.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_dobrenjscica/22382" onclick="event.preventDefault(); window.open('/slika_gora/planina_dobrenjscica/22382');"><img class="slikagm" alt="Planina Dobrenjščica" src="//slike2.hribi.net/slike14/2_7466749088911_5p1230609.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_dobrenjscica/22383" onclick="event.preventDefault(); window.open('/slika_gora/planina_dobrenjscica/22383');"><img class="slikagm" alt="Planina Dobrenjščica" src="//slike2.hribi.net/slike14/2_0713749089416_1p1230610.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_dobrenjscica/22384" onclick="event.preventDefault(); window.open('/slika_gora/planina_dobrenjscica/22384');"><img class="slikagm" alt="Planina Dobrenjščica" src="//slike2.hribi.net/slike14/2_1765749089416_0p1230612.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_dobrenjscica/22385" onclick="event.preventDefault(); window.open('/slika_gora/planina_dobrenjscica/22385');"><img class="slikagm" alt="Planina Dobrenjščica" src="//slike2.hribi.net/slike14/2_2818749089417_2p1230642.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_dobrenjscica/22386" onclick="event.preventDefault(); window.open('/slika_gora/planina_dobrenjscica/22386');"><img class="slikagm" alt="Planina Dobrenjščica" src="//slike2.hribi.net/slike14/2_3229749089417_3p1230650.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planina_dobrenjscica/22387" onclick="event.preventDefault(); window.open('/slika_gora/planina_dobrenjscica/22387');"><img class="slikagm" alt="Planina Dobrenjščica" src="//slike2.hribi.net/slike14/2_4282749089417_4p1230665a.jpg" /></a>
     
 </div>
 
@@ -912,7 +929,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2374&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1601&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,9 +939,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/tugliezzo__lopic___monte_plauris_cai_701/1/2374/4943">Tugliezzo  - Lopič / Monte Plauris (CAI 701)</a></td><td class="tdG"><a href="/izlet/tugliezzo__lopic___monte_plauris_cai_701/1/2374/4943">4 h 30 min</a></td><td class="tdG"><a href="/izlet/tugliezzo__lopic___monte_plauris_cai_701/1/2374/4943">zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_polog_planina_dobrenjscica/1/1601/2805">Planina Polog - Planina Dobrenjščica</a></td><td class="tdG"><a href="/izlet/planina_polog_planina_dobrenjscica/1/1601/2805">2 h 45 min</a></td><td class="tdG"><a href="/izlet/planina_polog_planina_dobrenjscica/1/1601/2805">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornji_pobic___povici_di_sopra_lopic___monte_plauris_cai_702/1/2374/4942">Zgornji Pobič / Povici di Sopra - Lopič / Monte Plauris (CAI 702)</a></td><td class="tdG"><a href="/izlet/zgornji_pobic___povici_di_sopra_lopic___monte_plauris_cai_702/1/2374/4942">5 h 30 min</a></td><td class="tdG"><a href="/izlet/zgornji_pobic___povici_di_sopra_lopic___monte_plauris_cai_702/1/2374/4942">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/tolminske_ravne_planina_dobrenjscica/1/1601/9276">Tolminske Ravne - Planina Dobrenjščica</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_planina_dobrenjscica/1/1601/9276">3 h</a></td><td class="tdG"><a href="/izlet/tolminske_ravne_planina_dobrenjscica/1/1601/9276">zahtevna označena pot</a></td></tr>
 
 </table>
 

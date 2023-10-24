@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Limbarska gora</title>
-        <meta name="description" content="Natančen opis gore Limbarska gora in vseh pristopov na Limbarska gora. Limbarska gora se nahaja severovzhodno od Moravč. Z vrha je lep pogled na okoliš." />
+        <title>Kožljevec</title>
+        <meta name="description" content="Natančen opis gore Kožljevec in vseh pristopov na Kožljevec. Kožljevec (tudi Kožlevec) je 533 m visok hrib nad Cerovico v občini Šmartno pri ." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./530?gorovjeid=25&amp;id=530" id="form1">
+    <form method="post" action="./3379?gorovjeid=25&amp;id=3379" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/limbarska_gora/25/530"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=530"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kozljevec/25/3379"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3379"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Limbarska gora
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Kožljevec
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(530);
+    gorast(3379);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Limbarska gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Kožljevec</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 773&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 533&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;9,6462'N&nbsp;/&nbsp;14°&nbsp;46,5054'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;2,0424'N&nbsp;/&nbsp;14°&nbsp;54,2772'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;9'&nbsp;38,77''N&nbsp;/&nbsp;14°&nbsp;46'&nbsp;30,32''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;2'&nbsp;2,54''N&nbsp;/&nbsp;14°&nbsp;54'&nbsp;16,63''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.16077°N&nbsp;/&nbsp;14.77509°E";
+                        document.getElementById("kf0").innerHTML = "46.03404°N&nbsp;/&nbsp;14.90462°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,16077°N,&nbsp;14,77509°E";
+                    document.getElementById("kf0").innerHTML = "46,03404°N,&nbsp;14,90462°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,16077°N&nbsp;14,77509°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/limbarska_gora/530"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,03404°N&nbsp;14,90462°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kozljevec/3379"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Kožljevec - Torek" href="/vreme_gora/kozljevec/25/3379#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Kožljevec - Sreda" href="/vreme_gora/kozljevec/25/3379#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Kožljevec - Četrtek" href="/vreme_gora/kozljevec/25/3379#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Limbarska gora - Petek" href="/vreme_gora/limbarska_gora/25/530#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kožljevec - Petek" href="/vreme_gora/kozljevec/25/3379#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Limbarska gora - Sobota" href="/vreme_gora/limbarska_gora/25/530#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Limbarska gora - Nedelja" href="/vreme_gora/limbarska_gora/25/530#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Limbarska gora - Ponedeljek" href="/vreme_gora/limbarska_gora/25/530#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Limbarska gora - Torek" href="/vreme_gora/limbarska_gora/25/530#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Kožljevec - Sobota" href="/vreme_gora/kozljevec/25/3379#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 574.724</div>
-<div class="g2"><b>Priljubljenost:</b> 95%&nbsp;(166.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">21</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=530" title="Število vpisov v vpisni knjigi">11</a></div>
+<div class="g2"><b>Ogledov:</b> 405</div>
+<div class="g2"><b>Priljubljenost:</b> 14%&nbsp;(2821.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Limbarska gora se nahaja severovzhodno od Moravč. Z vrha je lep pogled na okoliške vrhove v lepem vremenu pa se vidijo tudi Kamniške in Savinjske Alpe. Na vrhu stoji gostinski lokal, ki je odprt vsak dan razen torka in srede. Na zunanji strani lokala na zidu pa je tudi vpisna skrinjica z žigom. Na vrhu stoji tudi cerkev Svetega Valentina. Ob cerkvi pa je prijeten travnik z razgledom.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Kožljevec (tudi Kožlevec) je 533 m visok hrib nad Cerovico v občini Šmartno pri Litiji. Vrh, ki ima tudi skrinjico z vpisno knjigo, je porasel z gozdom, je pa nekaj metrov pod vrhom lep razgled na Cerovico in okoliške hribe.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=530&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3379&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -835,61 +835,18 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/domzale/1008">Domžale</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/krtina/3453">Krtina</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>, <a class="moder" href="/spletna_kamera/vir_pri_domzalah/3506">Vir pri Domžalah</a>, <a class="moder" href="/spletna_kamera/zelodnik/3452">Želodnik</a>
+<a class="moder" href="/spletna_kamera/dob/433">Dob</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/kum/2952">Kum</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/pluska/435">Pluska</a>, <a class="moder" href="/spletna_kamera/sevno/2378">Sevno</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flimbarska_gora%2f25%2f530"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flimbarska_gora%2f25%2f530"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flimbarska_gora%2f25%2f530"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkozljevec%2f25%2f3379"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkozljevec%2f25%2f3379"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkozljevec%2f25%2f3379"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/limbarska_gora/530" title="Limbarska gora 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.LimbarskaGora.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/limbarska_gora/1504" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/1504');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/P20800342772.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/1505" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/1505');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/P20800322772.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/1506" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/1506');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/P20800152772.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/1507" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/1507');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/P208008637422.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/1508" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/1508');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/P208008137422.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/1509" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/1509');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/P208009059598.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/2431" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/2431');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/PA270056945000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/7139" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/7139');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/LimbarskaGora 404785400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/7140" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/7140');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/LimbarskaGora 4301062600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/7141" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/7141');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/LimbarskaGora 4391062600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/7142" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/7142');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/LimbarskaGora 4971062600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/7143" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/7143');"><img class="slikagm" alt="Limbarska gora" src="//www.hribi.net/slike1/LimbarskaGora 5031062600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/13179" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/13179');"><img class="slikagm" alt="Limbarska gora" src="//slike.hribi.net/slike4/2_8346472223718_DSCN6211.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/13180" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/13180');"><img class="slikagm" alt="Limbarska gora" src="//slike.hribi.net/slike4/2_7783472223716_DSCN6209.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/13181" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/13181');"><img class="slikagm" alt="Limbarska gora" src="//slike.hribi.net/slike4/2_5168472223711_DSCN6206.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/13182" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/13182');"><img class="slikagm" alt="Limbarska gora" src="//slike.hribi.net/slike4/2_4355472223709_DSCN6204.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/13183" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/13183');"><img class="slikagm" alt="Limbarska gora" src="//slike.hribi.net/slike4/2_3270472223707_DSCN6203.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/13184" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/13184');"><img class="slikagm" alt="Limbarska gora" src="//slike.hribi.net/slike4/2_2989472223704_DSCN6201.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/17813" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/17813');"><img class="slikagm" alt="Limbarska gora" src="//slike.hribi.net/slike4/2_0851601662204_DSCN1367.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/17814" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/17814');"><img class="slikagm" alt="Limbarska gora" src="//slike.hribi.net/slike4/2_0893601031213_DSCN1364.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/limbarska_gora/17836" onclick="event.preventDefault(); window.open('/slika_gora/limbarska_gora/17836');"><img class="slikagm" alt="Limbarska gora" src="//slike.hribi.net/slike4/2_0250602346637_DSCN2447.JPG" /></a>
+        <a target="_blank" href="/slika_gora/kozljevec/20169" onclick="event.preventDefault(); window.open('/slika_gora/kozljevec/20169');"><img class="slikagm" alt="Kožljevec" src="//slike.hribi.net/slike9/2_11221681DSC04335.jpg" /></a>
     
 </div>
 
@@ -953,7 +910,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=530&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3379&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -963,23 +920,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gabrje_limbarska_gora_pes_pot/25/530/908">Gabrje - Limbarska gora (peš pot)</a></td><td class="tdG"><a href="/izlet/gabrje_limbarska_gora_pes_pot/25/530/908"> 45 min</a></td><td class="tdG"><a href="/izlet/gabrje_limbarska_gora_pes_pot/25/530/908">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/krasnja_limbarska_gora/25/530/907">Krašnja - Limbarska gora</a></td><td class="tdG"><a href="/izlet/krasnja_limbarska_gora/25/530/907">1 h 15 min</a></td><td class="tdG"><a href="/izlet/krasnja_limbarska_gora/25/530/907">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/blagovica_limbarska_gora/25/530/2945">Blagovica - Limbarska gora</a></td><td class="tdG"><a href="/izlet/blagovica_limbarska_gora/25/530/2945">1 h 30 min</a></td><td class="tdG"><a href="/izlet/blagovica_limbarska_gora/25/530/2945">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/moravce_limbarska_gora_skozi_gabrje/25/530/910">Moravče - Limbarska gora (skozi Gabrje)</a></td><td class="tdG"><a href="/izlet/moravce_limbarska_gora_skozi_gabrje/25/530/910">1 h 35 min</a></td><td class="tdG"><a href="/izlet/moravce_limbarska_gora_skozi_gabrje/25/530/910">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gradisko_jezero_limbarska_gora/25/530/7149">Gradiško jezero - Limbarska gora</a></td><td class="tdG"><a href="/izlet/gradisko_jezero_limbarska_gora/25/530/7149">1 h 55 min</a></td><td class="tdG"><a href="/izlet/gradisko_jezero_limbarska_gora/25/530/7149">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/moravce_limbarska_gora_skozi_serjuce/25/530/909">Moravče - Limbarska gora (skozi Serjuče)</a></td><td class="tdG"><a href="/izlet/moravce_limbarska_gora_skozi_serjuce/25/530/909">1 h 25 min</a></td><td class="tdG"><a href="/izlet/moravce_limbarska_gora_skozi_serjuce/25/530/909">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zavrh_pri_trojanah_limbarska_gora_cez_golcaj/25/530/3592">Zavrh pri Trojanah - Limbarska gora (čez Golčaj)</a></td><td class="tdG"><a href="/izlet/zavrh_pri_trojanah_limbarska_gora_cez_golcaj/25/530/3592">3 h 30 min</a></td><td class="tdG"><a href="/izlet/zavrh_pri_trojanah_limbarska_gora_cez_golcaj/25/530/3592">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/kandrse_trata_limbarska_gora/25/530/7619">Kandrše (Trata) - Limbarska gora</a></td><td class="tdG"><a href="/izlet/kandrse_trata_limbarska_gora/25/530/7619">3 h 15 min</a></td><td class="tdG"><a href="/izlet/kandrse_trata_limbarska_gora/25/530/7619">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/pece_limbarska_gora/25/530/7621">Peče - Limbarska gora</a></td><td class="tdG"><a href="/izlet/pece_limbarska_gora/25/530/7621">1 h 55 min</a></td><td class="tdG"><a href="/izlet/pece_limbarska_gora/25/530/7621">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/velika_kostrevnica_kozljevec/25/3379/8127">Velika Kostrevnica - Kožljevec</a></td><td class="tdG"><a href="/izlet/velika_kostrevnica_kozljevec/25/3379/8127">1 h 10 min</a></td><td class="tdG"><a href="/izlet/velika_kostrevnica_kozljevec/25/3379/8127">lahka označena pot</a></td></tr>
 
 </table>
 

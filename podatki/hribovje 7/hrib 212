@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Plezališče in ferata Renke</title>
-        <meta name="description" content="Natančen opis gore Plezališče in ferata Renke in vseh pristopov na Plezališče in ferata Renke. Caa 3 urna deloma krožna planinsko plezalna razgledna, pa tudi malo adrenalinska." />
+        <title>Tinska gora</title>
+        <meta name="description" content="Natančen opis gore Tinska gora in vseh pristopov na Tinska gora. Tinska gora z nadmorsko višino 409 metrov leži na grebenu, ki ločuje dolini Zibi." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3088?gorovjeid=25&amp;id=3088" id="form1">
+    <form method="post" action="./2249?gorovjeid=25&amp;id=2249" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/climbing_area_and_ferrata_renke/25/3088"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3088"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/tinska_gora/25/2249"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=2249"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Plezališče in ferata Renke
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Tinska gora
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3088);
+    gorast(2249);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Plezališče in ferata Renke</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Tinska gora</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,15 +653,99 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 700&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 409&nbsp;m</div>
     
-    <div class="g2"><b>Vrsta:</b> </div>
+        <script>
+            var kfi = 1;
+            function koordinateFormat() {
+                if (kfi == 1) {
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;10,8060'N&nbsp;/&nbsp;15°&nbsp;33,1500'E";
+                        kfi = 2;
+                    }
+                    else if (kfi == 2) {
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;10'&nbsp;48,36''N&nbsp;/&nbsp;15°&nbsp;33'&nbsp;9,00''E";
+                        kfi = 3;
+                    }
+                    else if (kfi == 3) {
+                        document.getElementById("kf0").innerHTML = "46.1801°N&nbsp;/&nbsp;15.5525°E";
+                    kfi = 4;
+                }
+                else if (kfi == 4) {
+                    document.getElementById("kf0").innerHTML = "46,1801°N,&nbsp;15,5525°E";
+                        kfi = 1;
+                    }
+    }
+
+            function kopiraj() {
+                var tempInput = document.createElement("textarea");
+                tempInput.value = document.getElementById("kf0").innerHTML.replace(/&nbsp;/g, " ");
+                document.body.appendChild(tempInput);
+                tempInput.select();
+                tempInput.setSelectionRange(0, 99999);
+                document.execCommand("copy");
+                document.body.removeChild(tempInput);
+                tooltip("Kopirano v odložišče...");
+
+            }
+
+    
+</script>
+        
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1801°N&nbsp;15,5525°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/tinska_gora/2249"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    
+    <div class="g2"><b>Vrsta:</b> vrh</div>
+  
+        <div class="g2"><b>Vremenska napoved:</b></div>
+        <div class="g2">
+<table><tr>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Tinska gora - Torek" href="/vreme_gora/tinska_gora/25/2249#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Tinska gora - Sreda" href="/vreme_gora/tinska_gora/25/2249#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Tinska gora - Četrtek" href="/vreme_gora/tinska_gora/25/2249#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Pe</td></tr>
+            <tr><td><a title="Vremenska napoved za Tinska gora - Petek" href="/vreme_gora/tinska_gora/25/2249#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">So</td></tr>
+            <tr><td><a title="Vremenska napoved za Tinska gora - Sobota" href="/vreme_gora/tinska_gora/25/2249#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    </tr></table>
+        </div>
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 17.270</div>
-<div class="g2"><b>Priljubljenost:</b> 39%&nbsp;(2001.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Ogledov:</b> 175.181</div>
+<div class="g2"><b>Priljubljenost:</b> 55%&nbsp;(1479.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
@@ -671,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Caa 3 urna deloma krožna planinsko plezalna razgledna, pa tudi malo adrenalinska pot, ki vodi mimo plezališča s tremi sektorji in mimo številnih plezalnih smeri na naravni steni (vse sorazmerne težke, od 5 in naprej), ferata pa se nahaja čisto na koncu zgornjega odseka plezališča (po oceni srednje težka: povprečno B/C, en del C/D) in ima čez steno nekako štiri dele: poševni levi vstop, prečnico, vertikalo navzgor in poševni izstop v levo. Večino smeri je že pred desetletjem trasiral in opremil legenda slovenskih plezalnih sten Vili Guček, sodelovali in pomagali pa tudi člani AO Trbovlje in AO Litija, letos pa je bilo na ferati obnovljenih tudi nekaj varoval.<br> <br>Pot in dostop iz kraja Renke sta letos ponovno očiščena, težja mesta na stezi pri vzponu so zavarovana z vrvjo, nameščenih pa je bilo tudi nekaj novih zelenih oznak (smerne tablice, zeleni trikotniki in puščice). Ob poti v gozdu je na drevesih tudi nekaj rumenih puščic in pravokotnikov, ki pa so jih za svoje potrebe označili lovci, … a te ponekod v srednjem delu ne vodijo vedno v pravo smer, zato na tem izletu glejte in mislite predvsem »zeleno«. Po izstopu iz ferate nadaljujte do vrha skalnih reber, do lepega razgledišča pod zaselkom Špital. V dolino oz. nazaj na izhodišče se vrnemo po sestopni stezi, ki obide ferato in zgornji del plezališča, srednji in spodnji del poti pa opravimo po isti poti.<br></div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Tinska gora z nadmorsko višino 409 metrov leži na grebenu, ki ločuje dolini Zibiškega in Tinskega potoka. Nizka nadmorska višina omogoča vseeno lepe razglede. Na vrhu in pod njim so izraziti vinogradniški tereni in veliko število zidanic oziroma gorc. Nekoliko pod vrhom ležita praktično skupaj dve cerkvi Matere Božje in sv. Ane, vidni daleč naokoli. Veliko je ohranjene stare dediščine, ki se je dobro ohranila in je živ spomin na pretekle čase.</div>
 
     
 <script type="text/javascript">
@@ -704,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3088&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2249&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -713,23 +797,62 @@ function prijavaG() {
 </script>
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplezalisce_in_ferata_renke%2f25%2f3088"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplezalisce_in_ferata_renke%2f25%2f3088"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplezalisce_in_ferata_renke%2f25%2f3088"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><b>Gore v okolici</b>
+<select onchange="radiusf(this.value,1);">
+<option value="0,5">0,5</option>
+<option value="1">1</option>
+<option value="1,5">1,5</option>
+<option selected value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="8">8</option>
+<option value="10">10</option>
+<option value="15">15</option>
+<option value="20">20</option>
+<option value="30">30</option>
+</select> <b>km:</b><br />
+</div>
+<div id="radiusseznam1">
+
+</div>
+
+<div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
+<select onchange="radiusf(this.value,2);">
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="5">5</option>
+<option value="7">7</option>
+<option value="10">10</option>
+<option selected value="15">15</option>
+<option value="20">20</option>
+<option value="25">25</option>
+<option value="30">30</option>
+<option value="35">35</option>
+<option value="40">40</option>
+<option value="50">50</option>
+<option value="60">60</option>
+</select> <b>km:</b><br></div>
+<div id="radiusseznam2">
+<a class="moder" href="/spletna_kamera/koca_na_bohorju/3373">Koča na Bohorju</a>, <a class="moder" href="/spletna_kamera/pecica/4947">Pečica</a>, <a class="moder" href="/spletna_kamera/planina_pri_sevnici/4944">Planina pri Sevnici</a>, <a class="moder" href="/spletna_kamera/podcetrtek/2415">Podčetrtek</a>, <a class="moder" href="/spletna_kamera/podplat/389">Podplat</a>, <a class="moder" href="/spletna_kamera/rogaska_slatina/2157">Rogaška Slatina</a>, <a class="moder" href="/spletna_kamera/slatina/363">Slatina</a>, <a class="moder" href="/spletna_kamera/zegar/4945">Žegar</a>
+</div>
+
+
+
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ftinska_gora%2f25%2f2249"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftinska_gora%2f25%2f2249"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftinska_gora%2f25%2f2249"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/plezalisce_in_ferata_renke/18264" onclick="event.preventDefault(); window.open('/slika_gora/plezalisce_in_ferata_renke/18264');"><img class="slikagm" alt="Plezališče in ferata Renke" src="//slike.hribi.net/slike8/2_10195949pogled_na_plezali__e_in_ferato_iz_Renk__od_vise_ega_mostu__ez_Savo.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinska_gora/11664" onclick="event.preventDefault(); window.open('/slika_gora/tinska_gora/11664');"><img class="slikagm" alt="Tinska gora" src="//www.hribi.net/slike5/P10100147263152.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/plezalisce_in_ferata_renke/18265" onclick="event.preventDefault(); window.open('/slika_gora/plezalisce_in_ferata_renke/18265');"><img class="slikagm" alt="Plezališče in ferata Renke" src="//slike.hribi.net/slike8/2_10195950Plezali__e_renke_07.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinska_gora/11665" onclick="event.preventDefault(); window.open('/slika_gora/tinska_gora/11665');"><img class="slikagm" alt="Tinska gora" src="//www.hribi.net/slike5/P10100157263152.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/plezalisce_in_ferata_renke/18266" onclick="event.preventDefault(); window.open('/slika_gora/plezalisce_in_ferata_renke/18266');"><img class="slikagm" alt="Plezališče in ferata Renke" src="//slike.hribi.net/slike8/2_10195950Plezali__e_renke_08.jpg" /></a>
+        <a target="_blank" href="/slika_gora/tinska_gora/11666" onclick="event.preventDefault(); window.open('/slika_gora/tinska_gora/11666');"><img class="slikagm" alt="Tinska gora" src="//www.hribi.net/slike5/P10100137263153.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/plezalisce_in_ferata_renke/18267" onclick="event.preventDefault(); window.open('/slika_gora/plezalisce_in_ferata_renke/18267');"><img class="slikagm" alt="Plezališče in ferata Renke" src="//slike.hribi.net/slike8/2_10195950Plezali__e_Renke_01.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plezalisce_in_ferata_renke/18268" onclick="event.preventDefault(); window.open('/slika_gora/plezalisce_in_ferata_renke/18268');"><img class="slikagm" alt="Plezališče in ferata Renke" src="//slike.hribi.net/slike8/2_10195950Plezali__e_Renke_03.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/plezalisce_in_ferata_renke/18269" onclick="event.preventDefault(); window.open('/slika_gora/plezalisce_in_ferata_renke/18269');"><img class="slikagm" alt="Plezališče in ferata Renke" src="//slike.hribi.net/slike8/2_10195951DSC02132.JPG" /></a>
+        <a target="_blank" href="/slika_gora/tinska_gora/11667" onclick="event.preventDefault(); window.open('/slika_gora/tinska_gora/11667');"><img class="slikagm" alt="Tinska gora" src="//www.hribi.net/slike5/P10100177263154.th.jpg" /></a>
     
 </div>
 
@@ -793,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3088&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2249&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -803,7 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/renke_plezalisce_in_ferata_renke_razgledna_pot_cez_ferato_do_spitala/25/3088/7312">Renke - Plezališče in ferata Renke (razgledna pot čez ferato do Špitala)</a></td><td class="tdG"><a href="/izlet/renke_plezalisce_in_ferata_renke_razgledna_pot_cez_ferato_do_spitala/25/3088/7312">2 h</a></td><td class="tdG"><a href="/izlet/renke_plezalisce_in_ferata_renke_razgledna_pot_cez_ferato_do_spitala/25/3088/7312">zelo zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/cmereska_gorca_tinska_gora/25/2249/4655">Cmereška gorca - Tinska gora</a></td><td class="tdG"><a href="/izlet/cmereska_gorca_tinska_gora/25/2249/4655">1 h 15 min</a></td><td class="tdG"><a href="/izlet/cmereska_gorca_tinska_gora/25/2249/4655">lahka označena pot</a></td></tr>
 
 </table>
 

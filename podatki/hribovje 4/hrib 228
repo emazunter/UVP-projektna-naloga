@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koča na Golici</title>
-        <meta name="description" content="Natančen opis koče Koča na Golici in vseh pristopov na Koča na Golici. Koča se nahaja nad gozdno mejo pod vrhom Golice, natančneje Krvavke. Od koče, ki." />
+        <title>Hribarska (Huda) zijalka</title>
+        <meta name="description" content="Natančen opis gore Hribarska (Huda) zijalka in vseh pristopov na Hribarska (Huda) zijalka. Hribarska (Huda) zijalka se nahaja pod prepadnimi ostenji hriba Huda peč nad vas." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./196?gorovjeid=11&amp;id=196" id="form1">
+    <form method="post" action="./1931?gorovjeid=11&amp;id=1931" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koca_na_golici/11/196"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=196"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/hribarska_huda_zijalka/11/1931"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1931"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Koča na Golici
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Hribarska (Huda) zijalka
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(196);
+    gorast(1931);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koča na Golici</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Hribarska (Huda) zijalka</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1582&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1140&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,1552'N&nbsp;/&nbsp;14°&nbsp;3,7188'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,6680'N&nbsp;/&nbsp;14°&nbsp;40,920'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;9,31''N&nbsp;/&nbsp;14°&nbsp;3'&nbsp;43,13''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;40,08''N&nbsp;/&nbsp;14°&nbsp;40'&nbsp;55,20''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.48592°N&nbsp;/&nbsp;14.06198°E";
+                        document.getElementById("kf0").innerHTML = "46.4278°N&nbsp;/&nbsp;14.682°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,48592°N,&nbsp;14,06198°E";
+                    document.getElementById("kf0").innerHTML = "46,4278°N,&nbsp;14,682°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,48592°N&nbsp;14,06198°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koca_na_golici/196"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4278°N&nbsp;14,682°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/hribarska_huda_zijalka/1931"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, planina</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Hribarska (Huda) zijalka - Torek" href="/vreme_gora/hribarska_huda_zijalka/11/1931#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Hribarska (Huda) zijalka - Sreda" href="/vreme_gora/hribarska_huda_zijalka/11/1931#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Hribarska (Huda) zijalka - Četrtek" href="/vreme_gora/hribarska_huda_zijalka/11/1931#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Golici - Petek" href="/vreme_gora/koca_na_golici/11/196#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Hribarska (Huda) zijalka - Petek" href="/vreme_gora/hribarska_huda_zijalka/11/1931#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Golici - Sobota" href="/vreme_gora/koca_na_golici/11/196#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Golici - Nedelja" href="/vreme_gora/koca_na_golici/11/196#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Golici - Ponedeljek" href="/vreme_gora/koca_na_golici/11/196#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koča na Golici - Torek" href="/vreme_gora/koca_na_golici/11/196#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Hribarska (Huda) zijalka - Sobota" href="/vreme_gora/hribarska_huda_zijalka/11/1931#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 557.019</div>
-<div class="g2"><b>Priljubljenost:</b> 94%&nbsp;(198.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=196" title="Število vpisov v vpisni knjigi">13</a></div>
+<div class="g2"><b>Ogledov:</b> 156.891</div>
+<div class="g2"><b>Priljubljenost:</b> 53%&nbsp;(1553.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Koča se nahaja nad gozdno mejo pod vrhom Golice, natančneje Krvavke. Od koče, ki je odprta od maja do konca poletja, se nam odpre lep razgled proti pobočjem Golice, Krvavke, Struške in večini vrhov, ki obdajajo Gornjesavsko dolino.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Hribarska (Huda) zijalka se nahaja pod prepadnimi ostenji hriba Huda peč nad vasjo Solčava. Ker zapisov o zijalki ni pa samo tale pripovedka. <br>V starih časih so tamkaj živele vile pogorkinje, ki pa niso mogle slišati ne zvonjenja in ne žvižganja. Tega pa niso vedeli solčavski pastirji, ki so po fratah vilinje planine pasli ovce.<br>Nekega dne je mlad pastir iz Solčave spet nagnal na frate okrog pečine gospodarjeve ovce in krave. A da bi živine v temnih hostah ne izgubil, je privezal vsakemu govedu na vrat kravji zvonec, ovcam pa je žvižgal, kadar so se le preveč razteple po obsežnih pašnikih. Kravji zvonci so zvonili, pastir pa je žvižgal in žvižgal, da so si vile, skrite v zijavki pod pečino, zatiskale ušesa in se jezile, da bodo pastirja ubile, če ga bodo le dobile.<br>Tako je pastir pasel iz dneva v dan. Nekega dne pa je najlepša ovca iz njegove črede zašla na pečino, a nazaj ni mogla. Blejala je in beketala, pastirju je bilo ovce žal, pa je po strmi frati splezal do pečine, da bi rešil ovčko.<br>Komaj pa se je približal zijavki, so iz pečine planile razjarjene vile, ga zadavile in vrgle v brezno, kjer je z razbito glavo obležal med pečevjem. Goved in drobnica pa se je zvečer sama vrnila domov.<br>Naslednji dan so Solčavani odšli na frate pastirja iskat. Klicali so ga in mu žvižgali, a nihče ga ni našel. Končno je pastirjev gospodar splezal do pečine, se ustavil pred zijavko in na vso moč zažvižgal, misleč, da bo pastirja zbudil, če je v votlini zaspal. Na njegov žvižg pa so planile iz zijavke razkačene vile pogorkinje, ga potegnile na vrh skale ter ga odondod pahnile v prepad, da je z razbito glavo obležal zraven ubitega pastirja.<br>Solčavani, ki so slišali v dolino prestrašeno kričanje, pa na pečini niso videli nič drugega ko bele meglice in gospodarja, ki je padel s skale. Pohiteli so v pečevje in tamkaj našli njega ter pastirja, oba z razbito glavo, oba mrtva.<br>Od takrat solčavski pastirji nikoli več ne pasejo niti krav niti ovac na tem hribu, ki so mu vzdeli ime »Huda peč«. Rajši pasejo drugje, kjer lahko ovcam žvižgajo brez vseh skrbi, kjer lahko krave z zvonci krog vratu zvončkljajo tja v tri dni...</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=196&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1931&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/golica/11/252">Golica (1835m)</a>, <a class="moder" href="/gora/krvavka/11/1008">Krvavka (1784m)</a>, <a class="moder" href="/gora/mala_golica/11/1511">Mala Golica (1646m)</a>, <a class="moder" href="/gora/markljev_rovt/11/1007">Markljev Rovt (1250m)</a>, <a class="moder" href="/gora/planina_mozine/11/1252">Planina Možine (1352m)</a>
+<a class="moder" href="/gora/sveti_duh_pod_olsevo/11/614">Sveti Duh pod Olševo (1232m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,35 +835,28 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/bled/313">Bled</a>, <a class="moder" href="/spletna_kamera/blejsko_jezero/2113">Blejsko jezero</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/hrusica/283">Hrušica</a>, <a class="moder" href="/spletna_kamera/jesenice/395">Jesenice</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/kovinarska_koca_v_krmi/4942">Kovinarska koča v Krmi</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
+<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_golici%2f11%2f196"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_golici%2f11%2f196"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoca_na_golici%2f11%2f196"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fhribarska_huda_zijalka%2f11%2f1931"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fhribarska_huda_zijalka%2f11%2f1931"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fhribarska_huda_zijalka%2f11%2f1931"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koca_na_golici/196" title="Koča na Golici 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.GolicaKoca.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koca_na_golici/934" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_golici/934');"><img class="slikagm" alt="Koča na Golici" src="//www.hribi.net/Gora/rimg0046mediumbz8.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hribarska_huda_zijalka/9315" onclick="event.preventDefault(); window.open('/slika_gora/hribarska_huda_zijalka/9315');"><img class="slikagm" alt="Hribarska (Huda) zijalka" src="//www.hribi.net/sliketemp/P10709816342810.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_golici/3223" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_golici/3223');"><img class="slikagm" alt="Koča na Golici" src="//www.hribi.net/slike1/P629037230464.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hribarska_huda_zijalka/9316" onclick="event.preventDefault(); window.open('/slika_gora/hribarska_huda_zijalka/9316');"><img class="slikagm" alt="Hribarska (Huda) zijalka" src="//www.hribi.net/sliketemp/P82000226342882.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_golici/3832" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_golici/3832');"><img class="slikagm" alt="Koča na Golici" src="//www.hribi.net/slike1/P10900717560.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hribarska_huda_zijalka/9317" onclick="event.preventDefault(); window.open('/slika_gora/hribarska_huda_zijalka/9317');"><img class="slikagm" alt="Hribarska (Huda) zijalka" src="//www.hribi.net/sliketemp/P1080011a6342885.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_golici/3833" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_golici/3833');"><img class="slikagm" alt="Koča na Golici" src="//www.hribi.net/sliketemp/P109006848019525810934.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hribarska_huda_zijalka/9318" onclick="event.preventDefault(); window.open('/slika_gora/hribarska_huda_zijalka/9318');"><img class="slikagm" alt="Hribarska (Huda) zijalka" src="//www.hribi.net/sliketemp/P82000356342886.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_golici/3834" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_golici/3834');"><img class="slikagm" alt="Koča na Golici" src="//www.hribi.net/sliketemp/P10900874801953.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hribarska_huda_zijalka/9319" onclick="event.preventDefault(); window.open('/slika_gora/hribarska_huda_zijalka/9319');"><img class="slikagm" alt="Hribarska (Huda) zijalka" src="//www.hribi.net/sliketemp/P1080015a6342888.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koca_na_golici/6006" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_golici/6006');"><img class="slikagm" alt="Koča na Golici" src="//www.hribi.net/slike1/Golica 14565520.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_golici/6010" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_golici/6010');"><img class="slikagm" alt="Koča na Golici" src="//www.hribi.net/slike1/Golica%20099267540.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/koca_na_golici/20475" onclick="event.preventDefault(); window.open('/slika_gora/koca_na_golici/20475');"><img class="slikagm" alt="Koča na Golici" src="//www.hribi.net/slike1/P5140194396000.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/hribarska_huda_zijalka/9320" onclick="event.preventDefault(); window.open('/slika_gora/hribarska_huda_zijalka/9320');"><img class="slikagm" alt="Hribarska (Huda) zijalka" src="//www.hribi.net/sliketemp/PB062943a6343714.th.jpg" /></a>
     
 </div>
 
@@ -927,7 +920,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=196&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1931&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -937,15 +930,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_pod_golico_koca_na_golici/11/196/304">Planina pod Golico - Koča na Golici</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_koca_na_golici/11/196/304">1 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_koca_na_golici/11/196/304">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/krizovec_koca_na_golici/11/196/2574">Križovec - Koča na Golici</a></td><td class="tdG"><a href="/izlet/krizovec_koca_na_golici/11/196/2574">1 h 20 min</a></td><td class="tdG"><a href="/izlet/krizovec_koca_na_golici/11/196/2574">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_pristava_v_javorniskem_rovtu_koca_na_golici/11/196/3807">Dom Pristava v Javorniškem Rovtu - Koča na Golici</a></td><td class="tdG"><a href="/izlet/dom_pristava_v_javorniskem_rovtu_koca_na_golici/11/196/3807">2 h 5 min</a></td><td class="tdG"><a href="/izlet/dom_pristava_v_javorniskem_rovtu_koca_na_golici/11/196/3807">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_pod_golico_koca_na_golici_zimska_pot/11/196/1922">Planina pod Golico - Koča na Golici (zimska pot)</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_koca_na_golici_zimska_pot/11/196/1922">1 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_koca_na_golici_zimska_pot/11/196/1922">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_pod_golico_koca_na_golici_mimo_ovcarske_koce/11/196/2105"> Planina pod Golico - Koča na Golici (mimo ovčarske koče)</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_koca_na_golici_mimo_ovcarske_koce/11/196/2105">2 h 5 min</a></td><td class="tdG"><a href="/izlet/planina_pod_golico_koca_na_golici_mimo_ovcarske_koce/11/196/2105">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/solcava_hribarska_huda_zijalka_mimo_solcavske_tise/11/1931/3591">Solčava - Hribarska (Huda) zijalka (mimo Solčavske tise)</a></td><td class="tdG"><a href="/izlet/solcava_hribarska_huda_zijalka_mimo_solcavske_tise/11/1931/3591">1 h</a></td><td class="tdG"><a href="/izlet/solcava_hribarska_huda_zijalka_mimo_solcavske_tise/11/1931/3591">zahtevna neoznačena steza</a></td></tr>
 
 </table>
 

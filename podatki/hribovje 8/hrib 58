@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kapela v Zgornjih Moravcih</title>
-        <meta name="description" content="Natančen opis gore Kapela v Zgornjih Moravcih in vseh pristopov na Kapela v Zgornjih Moravcih. Kapela v Zgornjih Moravcih se nahaja na razgledni vzpetini, od koder se odpre le." />
+        <title>Gramoznica Vučja jama</title>
+        <meta name="description" content="Natančen opis jezera Gramoznica Vučja jama in vseh pristopov na Gramoznica Vučja jama. Gramoznica Vučja jama se nahaja ob severozahodnem delu naselja Lipovci. Okrog je." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3508?gorovjeid=163&amp;id=3508" id="form1">
+    <form method="post" action="./3427?gorovjeid=163&amp;id=3427" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/chapel_in_zgornji_moravci/163/3508"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3508"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/gravel_pit_vucja_jama/163/3427"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=163&id=3427"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Kapela v Zgornjih Moravcih
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a> / Gramoznica Vučja jama
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3508);
+    gorast(3427);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kapela v Zgornjih Moravcih</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Gramoznica Vučja jama</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/prekmurje/163">Prekmurje</a></div>
-    <div class="g2"><b>Višina:</b> 315&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 179&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;43,0494'N&nbsp;/&nbsp;16°&nbsp;15,1140'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;37,8804'N&nbsp;/&nbsp;16°&nbsp;13,2450'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;43'&nbsp;2,96''N&nbsp;/&nbsp;16°&nbsp;15'&nbsp;6,84''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;37'&nbsp;52,82''N&nbsp;/&nbsp;16°&nbsp;13'&nbsp;14,70''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.71749°N&nbsp;/&nbsp;16.2519°E";
+                        document.getElementById("kf0").innerHTML = "46.63134°N&nbsp;/&nbsp;16.22075°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,71749°N,&nbsp;16,2519°E";
+                    document.getElementById("kf0").innerHTML = "46,63134°N,&nbsp;16,22075°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,71749°N&nbsp;16,2519°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kapela_v_zgornjih_moravcih/3508"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,63134°N&nbsp;16,22075°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/gramoznica_vucja_jama/3427"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Gramoznica Vučja jama - Torek" href="/vreme_gora/gramoznica_vucja_jama/163/3427#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Gramoznica Vučja jama - Sreda" href="/vreme_gora/gramoznica_vucja_jama/163/3427#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Gramoznica Vučja jama - Četrtek" href="/vreme_gora/gramoznica_vucja_jama/163/3427#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kapela v Zgornjih Moravcih - Petek" href="/vreme_gora/kapela_v_zgornjih_moravcih/163/3508#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Gramoznica Vučja jama - Petek" href="/vreme_gora/gramoznica_vucja_jama/163/3427#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kapela v Zgornjih Moravcih - Sobota" href="/vreme_gora/kapela_v_zgornjih_moravcih/163/3508#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kapela v Zgornjih Moravcih - Nedelja" href="/vreme_gora/kapela_v_zgornjih_moravcih/163/3508#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kapela v Zgornjih Moravcih - Ponedeljek" href="/vreme_gora/kapela_v_zgornjih_moravcih/163/3508#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kapela v Zgornjih Moravcih - Torek" href="/vreme_gora/kapela_v_zgornjih_moravcih/163/3508#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Gramoznica Vučja jama - Sobota" href="/vreme_gora/gramoznica_vucja_jama/163/3427#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,9 +743,9 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 133</div>
-<div class="g2"><b>Priljubljenost:</b> 7%&nbsp;(3051.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Ogledov:</b> 321</div>
+<div class="g2"><b>Priljubljenost:</b> 13%&nbsp;(2872.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kapela v Zgornjih Moravcih se nahaja na razgledni vzpetini, od koder se odpre lep pogled na Goričko in ravninski del Prekmurja.</div>
+<div style="padding-top:10px;"><b>Opis jezera:</b><br />Gramoznica Vučja jama se nahaja ob severozahodnem delu naselja Lipovci. Okrog jezera vodi lepo urejena sprehajalna pot, ob kateri je več umetniških del.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3508&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3427&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -835,20 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/dolinsko/4831">Dolinsko</a>, <a class="moder" href="/spletna_kamera/hodos/1070">Hodoš</a>, <a class="moder" href="/spletna_kamera/kobilje/1960">Kobilje</a>, <a class="moder" href="/spletna_kamera/murska_sobota/1044">Murska Sobota</a>, <a class="moder" href="/spletna_kamera/prosenjakovci/1949">Prosenjakovci</a>
+<a class="moder" href="/spletna_kamera/dolinsko/4831">Dolinsko</a>, <a class="moder" href="/spletna_kamera/gederovci/1846">Gederovci</a>, <a class="moder" href="/spletna_kamera/kapelski_vrh/3199">Kapelski Vrh</a>, <a class="moder" href="/spletna_kamera/most_na_muri/4832">Most na Muri</a>, <a class="moder" href="/spletna_kamera/murska_sobota/1044">Murska Sobota</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkapela_v_zgornjih_moravcih%2f163%2f3508"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkapela_v_zgornjih_moravcih%2f163%2f3508"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkapela_v_zgornjih_moravcih%2f163%2f3508"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgramoznica_vucja_jama%2f163%2f3427"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgramoznica_vucja_jama%2f163%2f3427"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgramoznica_vucja_jama%2f163%2f3427"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kapela_v_zgornjih_moravcih/20856" onclick="event.preventDefault(); window.open('/slika_gora/kapela_v_zgornjih_moravcih/20856');"><img class="slikagm" alt="Kapela v Zgornjih Moravcih" src="//slike2.hribi.net/slike14/2_3154702393429_3dscn4147.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gramoznica_vucja_jama/20416" onclick="event.preventDefault(); window.open('/slika_gora/gramoznica_vucja_jama/20416');"><img class="slikagm" alt="Gramoznica Vučja jama" src="//slike2.hribi.net/slike14/2_06682381590_0dscn3337.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kapela_v_zgornjih_moravcih/20876" onclick="event.preventDefault(); window.open('/slika_gora/kapela_v_zgornjih_moravcih/20876');"><img class="slikagm" alt="Kapela v Zgornjih Moravcih" src="//www.hribi.net/slike1/Prekmurje 2391737450.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gramoznica_vucja_jama/20417" onclick="event.preventDefault(); window.open('/slika_gora/gramoznica_vucja_jama/20417');"><img class="slikagm" alt="Gramoznica Vučja jama" src="//slike2.hribi.net/slike14/2_1589682108606_1dscn3361.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/gramoznica_vucja_jama/20418" onclick="event.preventDefault(); window.open('/slika_gora/gramoznica_vucja_jama/20418');"><img class="slikagm" alt="Gramoznica Vučja jama" src="//slike2.hribi.net/slike14/2_1631682108560_1dscn3343.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/gramoznica_vucja_jama/20419" onclick="event.preventDefault(); window.open('/slika_gora/gramoznica_vucja_jama/20419');"><img class="slikagm" alt="Gramoznica Vučja jama" src="//slike2.hribi.net/slike14/2_0129682108605_0dscn3359.jpg" /></a>
     
 </div>
 
@@ -912,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3508&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3427&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,11 +926,11 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/moravske_toplice_kapela_v_zgornjih_moravcih/163/3508/8484">Moravske Toplice - Kapela v Zgornjih Moravcih</a></td><td class="tdG"><a href="/izlet/moravske_toplice_kapela_v_zgornjih_moravcih/163/3508/8484">1 h 30 min</a></td><td class="tdG"><a href="/izlet/moravske_toplice_kapela_v_zgornjih_moravcih/163/3508/8484">lahka označena pot, lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/lipovci_gramoznica_vucja_jama_krozna_pot_okoli_jezera/163/3427/8238">Lipovci - Gramoznica Vučja jama (krožna pot okoli jezera)</a></td><td class="tdG"><a href="/izlet/lipovci_gramoznica_vucja_jama_krozna_pot_okoli_jezera/163/3427/8238"> 18 min</a></td><td class="tdG"><a href="/izlet/lipovci_gramoznica_vucja_jama_krozna_pot_okoli_jezera/163/3427/8238">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/selo_brunarica_tic_selo_kapela_v_zgornjih_moravcih/163/3508/8495">Selo (brunarica TIC Selo) - Kapela v Zgornjih Moravcih</a></td><td class="tdG"><a href="/izlet/selo_brunarica_tic_selo_kapela_v_zgornjih_moravcih/163/3508/8495">1 h 25 min</a></td><td class="tdG"><a href="/izlet/selo_brunarica_tic_selo_kapela_v_zgornjih_moravcih/163/3508/8495">lahka označena pot, lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/dvorec_rakican_gramoznica_vucja_jama_po_poljski_poti/163/3427/8235">Dvorec Rakičan - Gramoznica Vučja jama (po poljski poti)</a></td><td class="tdG"><a href="/izlet/dvorec_rakican_gramoznica_vucja_jama_po_poljski_poti/163/3427/8235"> 55 min</a></td><td class="tdG"><a href="/izlet/dvorec_rakican_gramoznica_vucja_jama_po_poljski_poti/163/3427/8235">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/moravske_toplice_kapela_v_zgornjih_moravcih_po_cesti/163/3508/8494">Moravske Toplice - Kapela v Zgornjih Moravcih (po cesti)</a></td><td class="tdG"><a href="/izlet/moravske_toplice_kapela_v_zgornjih_moravcih_po_cesti/163/3508/8494"> 45 min</a></td><td class="tdG"><a href="/izlet/moravske_toplice_kapela_v_zgornjih_moravcih_po_cesti/163/3508/8494">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dvorec_rakican_gramoznica_vucja_jama_mimo_kapelice/163/3427/8237">Dvorec Rakičan - Gramoznica Vučja jama (mimo kapelice)</a></td><td class="tdG"><a href="/izlet/dvorec_rakican_gramoznica_vucja_jama_mimo_kapelice/163/3427/8237"> 40 min</a></td><td class="tdG"><a href="/izlet/dvorec_rakican_gramoznica_vucja_jama_mimo_kapelice/163/3427/8237">lahka neoznačena steza</a></td></tr>
 
 </table>
 

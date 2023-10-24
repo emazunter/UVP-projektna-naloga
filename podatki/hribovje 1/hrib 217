@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vrh Svetih Treh Kraljev</title>
-        <meta name="description" content="Natančen opis gore Vrh Svetih Treh Kraljev in vseh pristopov na Vrh Svetih Treh Kraljev. Cerkev Svetih Treh kraljev se nahaja na razgledni vzpetini nad vasjo Vrh Svetih ." />
+        <title>Griček</title>
+        <meta name="description" content="Natančen opis gore Griček in vseh pristopov na Griček. Griček je manjša vzpetina, ki se dviga nad Dolenjo vasjo. Z vrha, kjer se nahaja." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./651?gorovjeid=26&amp;id=651" id="form1">
+    <form method="post" action="./3322?gorovjeid=26&amp;id=3322" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrh_svetih_treh_kraljev/26/651"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=651"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/gricek/26/3322"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=3322"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Vrh Svetih Treh Kraljev
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Griček
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(651);
+    gorast(3322);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vrh Svetih Treh Kraljev</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Griček</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 884&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 532&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;0,6204'N&nbsp;/&nbsp;14°&nbsp;10,1274'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;42,4782'N&nbsp;/&nbsp;14°&nbsp;44,8248'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;0'&nbsp;37,22''N&nbsp;/&nbsp;14°&nbsp;10'&nbsp;7,64''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;42'&nbsp;28,69''N&nbsp;/&nbsp;14°&nbsp;44'&nbsp;49,49''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.01034°N&nbsp;/&nbsp;14.16879°E";
+                        document.getElementById("kf0").innerHTML = "45.70797°N&nbsp;/&nbsp;14.74708°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,01034°N,&nbsp;14,16879°E";
+                    document.getElementById("kf0").innerHTML = "45,70797°N,&nbsp;14,74708°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,01034°N&nbsp;14,16879°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrh_svetih_treh_kraljev/651"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,70797°N&nbsp;14,74708°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/gricek/3322"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Griček - Torek" href="/vreme_gora/gricek/26/3322#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Griček - Sreda" href="/vreme_gora/gricek/26/3322#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Griček - Četrtek" href="/vreme_gora/gricek/26/3322#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Svetih Treh Kraljev - Petek" href="/vreme_gora/vrh_svetih_treh_kraljev/26/651#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Griček - Petek" href="/vreme_gora/gricek/26/3322#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Svetih Treh Kraljev - Sobota" href="/vreme_gora/vrh_svetih_treh_kraljev/26/651#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Svetih Treh Kraljev - Nedelja" href="/vreme_gora/vrh_svetih_treh_kraljev/26/651#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Svetih Treh Kraljev - Ponedeljek" href="/vreme_gora/vrh_svetih_treh_kraljev/26/651#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vrh Svetih Treh Kraljev - Torek" href="/vreme_gora/vrh_svetih_treh_kraljev/26/651#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Griček - Sobota" href="/vreme_gora/gricek/26/3322#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 431.704</div>
-<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(536.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=651" title="Število vpisov v vpisni knjigi">7</a></div>
+<div class="g2"><b>Ogledov:</b> 287</div>
+<div class="g2"><b>Priljubljenost:</b> 12%&nbsp;(2898.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Cerkev Svetih Treh kraljev se nahaja na razgledni vzpetini nad vasjo Vrh Svetih Treh kraljev. Z vrha, ki ima razgledno ploščo je lep razgled po pred alpskem hribovju. V ozadju pa se vidijo tudi gore od Krna, Triglava, Blegoša, Ratitovca do Karavank. V verigi gora vzhodno od Krna lahko opazimo Spodnje Bohinjske gore, kjer najlažje prepoznamo Črno prst. Na vrh, ki ima poleg cerkve tudi pokopališče pripelje asfaltirana cesta. Nedeljska Sveta maša je običajno ob 10 uri.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Griček je manjša vzpetina, ki se dviga nad Dolenjo vasjo. Z vrha, kjer se nahaja vodohran se nam odpre lep pogled na okoliške vasi in bližnje hribovje.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=651&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3322&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/koca_na_vrhu_svetih_treh_kraljev/26/650">Koča na Vrhu Svetih Treh Kraljev (823m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,45 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/idrija/3694">Idrija</a>, <a class="moder" href="/spletna_kamera/idrija_mestni_trg/3611">Idrija (Mestni trg)</a>, <a class="moder" href="/spletna_kamera/idrija_-_godovic_zala/23">Idrija - Godovic, Zala</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/logatec/186">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec/326">Logatec</a>, <a class="moder" href="/spletna_kamera/logatec_blekova_vas/1954">Logatec (Blekova vas)</a>, <a class="moder" href="/spletna_kamera/logatec_gorenja_vas/1868">Logatec (Gorenja vas)</a>, <a class="moder" href="/spletna_kamera/lom/327">Lom</a>, <a class="moder" href="/spletna_kamera/medvedje_brdo/1962">Medvedje Brdo</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/stampetov_most/1404">Štampetov most</a>, <a class="moder" href="/spletna_kamera/tankovski_most/4915">Tankovski most</a>, <a class="moder" href="/spletna_kamera/travnik/3063">Travnik</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>, <a class="moder" href="/spletna_kamera/zala/347">Zala</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
+<a class="moder" href="/spletna_kamera/gorenje_podpoljane/1449">Gorenje Podpoljane</a>, <a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/kocevje/998">Kočevje</a>, <a class="moder" href="/spletna_kamera/ribnica/1981">Ribnica</a>, <a class="moder" href="/spletna_kamera/rudnisko_jezero/4234">Rudniško jezero</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_svetih_treh_kraljev%2f26%2f651"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_svetih_treh_kraljev%2f26%2f651"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_svetih_treh_kraljev%2f26%2f651"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgricek%2f26%2f3322"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgricek%2f26%2f3322"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgricek%2f26%2f3322"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vrh_svetih_treh_kraljev/651" title="Vrh Svetih Treh Kraljev 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VrhSvTrehKraljev.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/1971" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/1971');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/P7290091334180.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/gricek/19751" onclick="event.preventDefault(); window.open('/slika_gora/gricek/19751');"><img class="slikagm" alt="Griček" src="//slike.hribi.net/slike4/2_0275656942360_DSCN9364.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/1972" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/1972');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/P7290074334180.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/1973" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/1973');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/P7290064334180.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/1974" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/1974');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/P7290059334180.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/1975" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/1975');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/P7290094334180.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/5585" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/5585');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//slike.hribi.net/sliketemp/MedvedjeBrdo%202155471584.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/7309" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/7309');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/KraljiKrim 110771120.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/7310" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/7310');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/KraljiKrim 114771120.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/7563" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/7563');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/SvTriKralji 005101640.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/7564" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/7564');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/SvTriKralji 007101640.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/7565" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/7565');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/SvTriKralji 106254100.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/10890" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/10890');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//www.hribi.net/slike1/MedvedjeBrdo 09149400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vrh_svetih_treh_kraljev/19882" onclick="event.preventDefault(); window.open('/slika_gora/vrh_svetih_treh_kraljev/19882');"><img class="slikagm" alt="Vrh Svetih Treh Kraljev" src="//slike.hribi.net/slike4/2_2531604512957_DSCN4914.JPG" /></a>
+        <a target="_blank" href="/slika_gora/gricek/19752" onclick="event.preventDefault(); window.open('/slika_gora/gricek/19752');"><img class="slikagm" alt="Griček" src="//slike.hribi.net/slike4/2_0389656034704_DSCN9369.JPG" /></a>
     
 </div>
 
@@ -937,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=651&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3322&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -947,23 +922,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/smrecje_vrh_svetih_treh_kraljev_po_cesti/26/651/1158">Smrečje - Vrh Svetih Treh Kraljev (po cesti)</a></td><td class="tdG"><a href="/izlet/smrecje_vrh_svetih_treh_kraljev_po_cesti/26/651/1158"> 45 min</a></td><td class="tdG"><a href="/izlet/smrecje_vrh_svetih_treh_kraljev_po_cesti/26/651/1158">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rovte_vrh_svetih_treh_kraljev_strma_pot/26/651/2998">Rovte - Vrh Svetih Treh Kraljev (strma pot)</a></td><td class="tdG"><a href="/izlet/rovte_vrh_svetih_treh_kraljev_strma_pot/26/651/2998">1 h 25 min</a></td><td class="tdG"><a href="/izlet/rovte_vrh_svetih_treh_kraljev_strma_pot/26/651/2998">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/racevsko_jezero_vrh_svetih_treh_kraljev/26/651/3089">Račevsko jezero - Vrh Svetih Treh Kraljev</a></td><td class="tdG"><a href="/izlet/racevsko_jezero_vrh_svetih_treh_kraljev/26/651/3089"> 45 min</a></td><td class="tdG"><a href="/izlet/racevsko_jezero_vrh_svetih_treh_kraljev/26/651/3089">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rovte_vrh_svetih_treh_kraljev_polozna_pot/26/651/2999"> Rovte - Vrh Svetih Treh Kraljev (položna pot)</a></td><td class="tdG"><a href="/izlet/rovte_vrh_svetih_treh_kraljev_polozna_pot/26/651/2999">1 h 30 min</a></td><td class="tdG"><a href="/izlet/rovte_vrh_svetih_treh_kraljev_polozna_pot/26/651/2999">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/smrecje_vrh_svetih_treh_kraljev_pespot/26/651/3085"> Smrečje - Vrh Svetih Treh Kraljev (pešpot)</a></td><td class="tdG"><a href="/izlet/smrecje_vrh_svetih_treh_kraljev_pespot/26/651/3085"> 40 min</a></td><td class="tdG"><a href="/izlet/smrecje_vrh_svetih_treh_kraljev_pespot/26/651/3085">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ziri_vrh_svetih_treh_kraljev/26/651/3021">Žiri - Vrh Svetih Treh Kraljev</a></td><td class="tdG"><a href="/izlet/ziri_vrh_svetih_treh_kraljev/26/651/3021">2 h 30 min</a></td><td class="tdG"><a href="/izlet/ziri_vrh_svetih_treh_kraljev/26/651/3021">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/smrecje_vrh_svetih_treh_kraljev_mimo_jereba/26/651/3088">Smrečje - Vrh Svetih Treh Kraljev (mimo Jereba)</a></td><td class="tdG"><a href="/izlet/smrecje_vrh_svetih_treh_kraljev_mimo_jereba/26/651/3088"> 45 min</a></td><td class="tdG"><a href="/izlet/smrecje_vrh_svetih_treh_kraljev_mimo_jereba/26/651/3088">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_na_goropekah_vrh_svetih_treh_kraljev/26/651/3019">Dom na Goropekah - Vrh Svetih Treh Kraljev</a></td><td class="tdG"><a href="/izlet/dom_na_goropekah_vrh_svetih_treh_kraljev/26/651/3019">1 h 40 min</a></td><td class="tdG"><a href="/izlet/dom_na_goropekah_vrh_svetih_treh_kraljev/26/651/3019">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sopot_vrh_svetih_treh_kraljev/26/651/3020">Sopot - Vrh Svetih Treh Kraljev</a></td><td class="tdG"><a href="/izlet/sopot_vrh_svetih_treh_kraljev/26/651/3020">1 h 25 min</a></td><td class="tdG"><a href="/izlet/sopot_vrh_svetih_treh_kraljev/26/651/3020">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dolenja_vas_gricek/26/3322/7920">Dolenja vas - Griček</a></td><td class="tdG"><a href="/izlet/dolenja_vas_gricek/26/3322/7920"> 10 min</a></td><td class="tdG"><a href="/izlet/dolenja_vas_gricek/26/3322/7920">lahka neoznačena steza</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Komen</title>
-        <meta name="description" content="Natančen opis gore Komen in vseh pristopov na Komen. Komen je s 1684m najvišji vrh Smrekovškega pogorja, pogorja ki meji med Štajersk." />
+        <title>Zavetišče v Hudičevem borštu</title>
+        <meta name="description" content="Natančen opis gore Zavetišče v Hudičevem borštu in vseh pristopov na Zavetišče v Hudičevem borštu. Sredi južnih pobočij Cjanovce (pobočja Zaplate), le ta je predvrh bolj poznanega." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./487?gorovjeid=3&amp;id=487" id="form1">
+    <form method="post" action="./1285?gorovjeid=3&amp;id=1285" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/komen/3/487"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=487"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/zavetisce_v_hudicevem_borstu/3/1285"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=1285"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Komen
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Zavetišče v Hudičevem borštu
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(487);
+    gorast(1285);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Komen</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Zavetišče v Hudičevem borštu</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1684&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1328&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,0860'N&nbsp;/&nbsp;14°&nbsp;50,7822'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;19,7034'N&nbsp;/&nbsp;14°&nbsp;26,4660'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;5,16''N&nbsp;/&nbsp;14°&nbsp;50'&nbsp;46,93''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;19'&nbsp;42,20''N&nbsp;/&nbsp;14°&nbsp;26'&nbsp;27,96''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.4181°N&nbsp;/&nbsp;14.84637°E";
+                        document.getElementById("kf0").innerHTML = "46.32839°N&nbsp;/&nbsp;14.4411°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,4181°N,&nbsp;14,84637°E";
+                    document.getElementById("kf0").innerHTML = "46,32839°N,&nbsp;14,4411°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4181°N&nbsp;14,84637°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/komen/487"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,32839°N&nbsp;14,4411°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/zavetisce_v_hudicevem_borstu/1285"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Zavetišče v Hudičevem borštu - Torek" href="/vreme_gora/zavetisce_v_hudicevem_borstu/3/1285#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Zavetišče v Hudičevem borštu - Sreda" href="/vreme_gora/zavetisce_v_hudicevem_borstu/3/1285#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Zavetišče v Hudičevem borštu - Četrtek" href="/vreme_gora/zavetisce_v_hudicevem_borstu/3/1285#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Komen - Petek" href="/vreme_gora/komen/3/487#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Zavetišče v Hudičevem borštu - Petek" href="/vreme_gora/zavetisce_v_hudicevem_borstu/3/1285#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Komen - Sobota" href="/vreme_gora/komen/3/487#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Komen - Nedelja" href="/vreme_gora/komen/3/487#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Komen - Ponedeljek" href="/vreme_gora/komen/3/487#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Komen - Torek" href="/vreme_gora/komen/3/487#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Zavetišče v Hudičevem borštu - Sobota" href="/vreme_gora/zavetisce_v_hudicevem_borstu/3/1285#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 504.395</div>
-<div class="g2"><b>Priljubljenost:</b> 91%&nbsp;(308.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">15</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=487" title="Število vpisov v vpisni knjigi">1</a></div>
+<div class="g2"><b>Ogledov:</b> 551.489</div>
+<div class="g2"><b>Priljubljenost:</b> 94%&nbsp;(213.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1285" title="Število vpisov v vpisni knjigi">10</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Komen je s 1684m najvišji vrh Smrekovškega pogorja, pogorja ki meji med Štajersko in Koroško. Z vrha se nam ob lepem vremenu odpre lep pogled na Peco, Uršljo goro, bližnji Krnes, Golte, Menino planino, osrednje Kamniško Savinjske Alpe ter Travnik in Raduho. Le nekaj 10m pod vrhom, pa se nahaja tudi manjša lesena kapela, ki je posvečena svetemu Cirilu in Metodu.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Sredi južnih pobočij Cjanovce (pobočja Zaplate), le ta je predvrh bolj poznanega Srednjega vrha, se nahaja zanimiv gozd z imenom Hudičev boršt. Ob spodnjem delu gozda, na mestu, kjer je nekoč stala lovska koča, so postavili novo planinsko kočo (Zavetišče v Hudičevem borštu), ki služi planincem, lovcem, gorskim reševalcem in gozdarjem... Zavetišče v Hudičevem borštu, katerega upravlja PD Preddvor je odprto od 31.3. do 31.10.2015 ob sobotah, nedeljah in praznikih. Ob predhodnem dogovoru pa tudi druge dni v tednu.<br>Pripovedka o nastanku Hudičevega boršta:<br>Nekoč sta živela dva kmeta, ki sta se trmasto prepirala za gozd, dokler eden v jezi ni vzkliknil: "Hudič naj ga vzame!". V trenutku so se besede uresničile in kmeta sta le še prestrašeno strmela za peklenščkom, ki je z gozdom na hrbtu dirjal proti goram. Ravno je prišel do sredine, ko je pri sv.Jakobu zazvonilo. Hudič je izgubil moč in spustil breme sredi hriba. </div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=487&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1285&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/bezovec/3/1142">Bezovec (1326m)</a>, <a class="moder" href="/gora/krnes/3/486">Krnes (1613m)</a>, <a class="moder" href="/gora/partizanska_bolnica_mrzle_vode/3/1234">Partizanska bolnica Mrzle vode (1226m)</a>
+<a class="moder" href="/gora/cjanovca/3/499">Cjanovca (1820m)</a>, <a class="moder" href="/gora/javorov_vrh/3/267">Javorov vrh (1434m)</a>, <a class="moder" href="/gora/planina_dolga_njiva/3/245">Planina Dolga njiva (1600m)</a>, <a class="moder" href="/gora/planinska_koca_iskra_na_jakobu/3/238">Planinska koča Iskra na Jakobu (961m)</a>, <a class="moder" href="/gora/planinska_koca_pri_franciju/3/496">Planinska koča pri Franciju (930m)</a>, <a class="moder" href="/gora/potoska_gora/3/497">Potoška gora (1283m)</a>, <a class="moder" href="/gora/srednji_vrh/3/244">Srednji vrh (1853m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,58 +835,42 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/dom_na_peci/2147">Dom na Peci</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/peca/11">Peca</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/brnik/301">Brnik</a>, <a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranj/185">Kranj</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/nadvoz_strahinj/4912">Nadvoz Strahinj</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/polica_pri_naklem/3427">Polica (pri Naklem)</a>, <a class="moder" href="/spletna_kamera/smarjetna_gora/2278">Šmarjetna gora</a>, <a class="moder" href="/spletna_kamera/strazisce_pri_kranju/1958">Stražišče pri Kranju</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/sveti_jost_nad_kranjem/4075">Sveti Jošt nad Kranjem</a>, <a class="moder" href="/spletna_kamera/torovo/403">Torovo</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/voklo/2230">Voklo</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkomen%2f3%2f487"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkomen%2f3%2f487"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkomen%2f3%2f487"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fzavetisce_v_hudicevem_borstu%2f3%2f1285"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzavetisce_v_hudicevem_borstu%2f3%2f1285"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fzavetisce_v_hudicevem_borstu%2f3%2f1285"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/komen/487" title="Komen 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.komen.jpg" /></a></div>
+<div><a href="/panorama/360/zavetisce_v_hudicevem_borstu/1285" title="Zavetišče v Hudičevem borštu 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.HBorst.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/komen/1284" onclick="event.preventDefault(); window.open('/slika_gora/komen/1284');"><img class="slikagm" alt="Komen" src="//www.hribi.net/Gora/pc030132mediumvs4.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zavetisce_v_hudicevem_borstu/4456" onclick="event.preventDefault(); window.open('/slika_gora/zavetisce_v_hudicevem_borstu/4456');"><img class="slikagm" alt="Zavetišče v Hudičevem borštu" src="//www.hribi.net/slike1/P621018919872.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/komen/1285" onclick="event.preventDefault(); window.open('/slika_gora/komen/1285');"><img class="slikagm" alt="Komen" src="//www.hribi.net/Gora/pc030133mediumuh5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zavetisce_v_hudicevem_borstu/4457" onclick="event.preventDefault(); window.open('/slika_gora/zavetisce_v_hudicevem_borstu/4457');"><img class="slikagm" alt="Zavetišče v Hudičevem borštu" src="//www.hribi.net/sliketemp/IMG_27944586123.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/komen/1286" onclick="event.preventDefault(); window.open('/slika_gora/komen/1286');"><img class="slikagm" alt="Komen" src="//www.hribi.net/Gora/pc030139mediumjj0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zavetisce_v_hudicevem_borstu/5166" onclick="event.preventDefault(); window.open('/slika_gora/zavetisce_v_hudicevem_borstu/5166');"><img class="slikagm" alt="Zavetišče v Hudičevem borštu" src="//slike.hribi.net/sliketemp/Cjanovca%200795271391.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/komen/1288" onclick="event.preventDefault(); window.open('/slika_gora/komen/1288');"><img class="slikagm" alt="Komen" src="//www.hribi.net/Gora/pc030180mediumqd9.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zavetisce_v_hudicevem_borstu/5167" onclick="event.preventDefault(); window.open('/slika_gora/zavetisce_v_hudicevem_borstu/5167');"><img class="slikagm" alt="Zavetišče v Hudičevem borštu" src="//www.hribi.net/slike1/Cjanovca 074694980.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/komen/1295" onclick="event.preventDefault(); window.open('/slika_gora/komen/1295');"><img class="slikagm" alt="Komen" src="//www.hribi.net/Gora/pc030208mediumom5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zavetisce_v_hudicevem_borstu/13532" onclick="event.preventDefault(); window.open('/slika_gora/zavetisce_v_hudicevem_borstu/13532');"><img class="slikagm" alt="Zavetišče v Hudičevem borštu" src="//www.hribi.net/slike1/DSCN6884107730.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/komen/3845" onclick="event.preventDefault(); window.open('/slika_gora/komen/3845');"><img class="slikagm" alt="Komen" src="//www.hribi.net/sliketemp/P11301634807695.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zavetisce_v_hudicevem_borstu/13533" onclick="event.preventDefault(); window.open('/slika_gora/zavetisce_v_hudicevem_borstu/13533');"><img class="slikagm" alt="Zavetišče v Hudičevem borštu" src="//slike.hribi.net/slike4/2_169490614007_DSCN6887.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/komen/4175" onclick="event.preventDefault(); window.open('/slika_gora/komen/4175');"><img class="slikagm" alt="Komen" src="//www.hribi.net/slike1/P4220105162288.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zavetisce_v_hudicevem_borstu/13534" onclick="event.preventDefault(); window.open('/slika_gora/zavetisce_v_hudicevem_borstu/13534');"><img class="slikagm" alt="Zavetišče v Hudičevem borštu" src="//www.hribi.net/slike1/DSCN6888138510.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/komen/4184" onclick="event.preventDefault(); window.open('/slika_gora/komen/4184');"><img class="slikagm" alt="Komen" src="//www.hribi.net/sliketemp/P11301524807692.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/komen/4185" onclick="event.preventDefault(); window.open('/slika_gora/komen/4185');"><img class="slikagm" alt="Komen" src="//www.hribi.net/Pot/pc030176mediumvg3.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/komen/8301" onclick="event.preventDefault(); window.open('/slika_gora/komen/8301');"><img class="slikagm" alt="Komen" src="//www.hribi.net/slike1/Komen 176793408.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/komen/8302" onclick="event.preventDefault(); window.open('/slika_gora/komen/8302');"><img class="slikagm" alt="Komen" src="//www.hribi.net/slike1/Komen 177793408.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/komen/8303" onclick="event.preventDefault(); window.open('/slika_gora/komen/8303');"><img class="slikagm" alt="Komen" src="//www.hribi.net/slike1/Komen 181793408.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/komen/8304" onclick="event.preventDefault(); window.open('/slika_gora/komen/8304');"><img class="slikagm" alt="Komen" src="//www.hribi.net/slike1/Komen 178793408.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/komen/8305" onclick="event.preventDefault(); window.open('/slika_gora/komen/8305');"><img class="slikagm" alt="Komen" src="//www.hribi.net/slike1/Komen 1941000384.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/komen/8306" onclick="event.preventDefault(); window.open('/slika_gora/komen/8306');"><img class="slikagm" alt="Komen" src="//www.hribi.net/slike1/Komen 1901000384.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/zavetisce_v_hudicevem_borstu/13535" onclick="event.preventDefault(); window.open('/slika_gora/zavetisce_v_hudicevem_borstu/13535');"><img class="slikagm" alt="Zavetišče v Hudičevem borštu" src="//slike.hribi.net/slike4/2_0230490614048_DSCN6895.JPG" /></a>
     
 </div>
 
 
 
 <div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/motorne_sani/3/399"><img class="slikagmv" alt="Motorne sani" src="https://img.youtube.com/vi/IBecCFtpPRE/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Razgledi/pot_na_komno/4/361"><img class="slikagmv" alt="pot na KOMNO" src="https://img.youtube.com/vi/pC1Wrhr__Bg/0.jpg" /></a>
+        <a target="_blank" href="/video_posnetek/Letenje z gora/zaplata_-_hudicev_borst/8/545"><img class="slikagmv" alt="Zaplata - hudičev boršt" src="https://img.youtube.com/vi/jKeQ_jFIq-k/0.jpg" /></a>
     </div>
 <script>
 var sortT = 0;
@@ -945,7 +929,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=487&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1285&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -955,17 +939,15 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dom_na_smrekovcu_komen_direktna_pot/3/487/822"> Dom na Smrekovcu - Komen (direktna pot)</a></td><td class="tdG"><a href="/izlet/dom_na_smrekovcu_komen_direktna_pot/3/487/822">1 h 55 min</a></td><td class="tdG"><a href="/izlet/dom_na_smrekovcu_komen_direktna_pot/3/487/822">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_zavetisce_v_hudicevem_borstu_macenska_pot/3/1285/2375">Mače - Zavetišče v Hudičevem borštu (Mačenska pot)</a></td><td class="tdG"><a href="/izlet/mace_zavetisce_v_hudicevem_borstu_macenska_pot/3/1285/2375">1 h 50 min</a></td><td class="tdG"><a href="/izlet/mace_zavetisce_v_hudicevem_borstu_macenska_pot/3/1285/2375">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_na_smrekovcu_komen_cez_smrekovec_in_krnes/3/487/821">Dom na Smrekovcu - Komen (čez Smrekovec in Krnes)</a></td><td class="tdG"><a href="/izlet/dom_na_smrekovcu_komen_cez_smrekovec_in_krnes/3/487/821">2 h 20 min</a></td><td class="tdG"><a href="/izlet/dom_na_smrekovcu_komen_cez_smrekovec_in_krnes/3/487/821">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/spodnja_kokra_zavetisce_v_hudicevem_borstu/3/1285/2158">Spodnja Kokra - Zavetišče v Hudičevem borštu</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_zavetisce_v_hudicevem_borstu/3/1285/2158">2 h 55 min</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_zavetisce_v_hudicevem_borstu/3/1285/2158">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/ljubenske_rastke_komen/3/487/1927">Ljubenske Rastke - Komen</a></td><td class="tdG"><a href="/izlet/ljubenske_rastke_komen/3/487/1927">3 h 15 min</a></td><td class="tdG"><a href="/izlet/ljubenske_rastke_komen/3/487/1927">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/mace_zavetisce_v_hudicevem_borstu_cez_kozjek/3/1285/5367">Mače - Zavetišče v Hudičevem borštu (čez Kozjek)</a></td><td class="tdG"><a href="/izlet/mace_zavetisce_v_hudicevem_borstu_cez_kozjek/3/1285/5367">2 h</a></td><td class="tdG"><a href="/izlet/mace_zavetisce_v_hudicevem_borstu_cez_kozjek/3/1285/5367">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/hlipovec_komen/3/487/823">Hlipovec - Komen</a></td><td class="tdG"><a href="/izlet/hlipovec_komen/3/487/823"> 50 min</a></td><td class="tdG"><a href="/izlet/hlipovec_komen/3/487/823">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/potoce_zavetisce_v_hudicevem_borstu_mimo_sv_jakoba_pod_potosko_goro_in_cez_babo/3/1285/5358">Potoče - Zavetišče v Hudičevem borštu (mimo sv. Jakoba, pod Potoško goro in čez Babo)</a></td><td class="tdG"><a href="/izlet/potoce_zavetisce_v_hudicevem_borstu_mimo_sv_jakoba_pod_potosko_goro_in_cez_babo/3/1285/5358">3 h 40 min</a></td><td class="tdG"><a href="/izlet/potoce_zavetisce_v_hudicevem_borstu_mimo_sv_jakoba_pod_potosko_goro_in_cez_babo/3/1285/5358">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dolina_potoka_zep_komen/3/487/1928">Dolina potoka Žep - Komen</a></td><td class="tdG"><a href="/izlet/dolina_potoka_zep_komen/3/487/1928">2 h 30 min</a></td><td class="tdG"><a href="/izlet/dolina_potoka_zep_komen/3/487/1928">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_vodol_komen/3/487/3385">Planina Vodol - Komen</a></td><td class="tdG"><a href="/izlet/planina_vodol_komen/3/487/3385">3 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_vodol_komen/3/487/3385">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/spodnja_kokra_zavetisce_v_hudicevem_borstu_cez_babo/3/1285/5363">Spodnja Kokra - Zavetišče v Hudičevem borštu (čez Babo)</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_zavetisce_v_hudicevem_borstu_cez_babo/3/1285/5363">3 h 5 min</a></td><td class="tdG"><a href="/izlet/spodnja_kokra_zavetisce_v_hudicevem_borstu_cez_babo/3/1285/5363">lahka neoznačena steza</a></td></tr>
 
 </table>
 

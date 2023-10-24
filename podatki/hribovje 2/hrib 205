@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Krn</title>
-        <meta name="description" content="Natančen opis gore Krn in vseh pristopov na Krn. Krn je z višino 2244 m najvišji vrh Krnskega pogorja, pogorja, ki se strmo dviga." />
+        <title>Vrh Leh</title>
+        <meta name="description" content="Natančen opis gore Vrh Leh in vseh pristopov na Vrh Leh. Vrh Leh je 1958 m visoka gora, ki se nahaja med dolino reke Soče in Bavšice. Z v." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./150?gorovjeid=1&amp;id=150" id="form1">
+    <form method="post" action="./1614?gorovjeid=1&amp;id=1614" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/krn/1/150"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=150"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vrh_leh/1/1614"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=1&id=1614"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Krn
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a> / Vrh Leh
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(150);
+    gorast(1614);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Krn</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Vrh Leh</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/julijske_alpe/1">Julijske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 2244&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1958&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;15,9642'N&nbsp;/&nbsp;13°&nbsp;39,5172'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;21,4716'N&nbsp;/&nbsp;13°&nbsp;38,8944'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;15'&nbsp;57,85''N&nbsp;/&nbsp;13°&nbsp;39'&nbsp;31,03''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;21'&nbsp;28,30''N&nbsp;/&nbsp;13°&nbsp;38'&nbsp;53,66''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.26607°N&nbsp;/&nbsp;13.65862°E";
+                        document.getElementById("kf0").innerHTML = "46.35786°N&nbsp;/&nbsp;13.64824°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,26607°N,&nbsp;13,65862°E";
+                    document.getElementById("kf0").innerHTML = "46,35786°N,&nbsp;13,64824°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,26607°N&nbsp;13,65862°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/krn/150"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,35786°N&nbsp;13,64824°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vrh_leh/1614"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrh Leh - Torek" href="/vreme_gora/vrh_leh/1/1614#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrh Leh - Sreda" href="/vreme_gora/vrh_leh/1/1614#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Vrh Leh - Četrtek" href="/vreme_gora/vrh_leh/1/1614#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Krn - Petek" href="/vreme_gora/krn/1/150#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/5_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Vrh Leh - Petek" href="/vreme_gora/vrh_leh/1/1614#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Krn - Sobota" href="/vreme_gora/krn/1/150#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Krn - Nedelja" href="/vreme_gora/krn/1/150#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Krn - Ponedeljek" href="/vreme_gora/krn/1/150#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Krn - Torek" href="/vreme_gora/krn/1/150#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Vrh Leh - Sobota" href="/vreme_gora/vrh_leh/1/1614#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 982.160</div>
-<div class="g2"><b>Priljubljenost:</b> 100%&nbsp;(9.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">21</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">12</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">12</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=150" title="Število vpisov v vpisni knjigi">10</a></div>
+<div class="g2"><b>Ogledov:</b> 206.857</div>
+<div class="g2"><b>Priljubljenost:</b> 59%&nbsp;(1360.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1614" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Krn je z višino 2244 m najvišji vrh Krnskega pogorja, pogorja, ki se strmo dviga nad osrednjim delom reke Soče. Z vrha, na katerem se nahaja razgledna plošča, se nam odpre lep razgled, ki seže od Jadranskega morja, prek Matajurja in Breginjskega oz. Kobariškega Stola do Kanina. Na severno in vzhodno stran, pa se nam odpre lep razgled na najvišje vrhove Julijskih Alp. Ob lepem vremenu pa razgled seže še bistveno dlje.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Vrh Leh je 1958 m visoka gora, ki se nahaja med dolino reke Soče in Bavšice. Z vrha, se nam ob lepem vremenu odpre razgled, le ta je najlepši na vrhove nad dolino Bavšice in Lepene.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=150&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1614&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/batognica/1/374">Batognica (2164m)</a>, <a class="moder" href="/gora/bivak_na_crniku/1/758">Bivak na Črniku (1160m)</a>, <a class="moder" href="/gora/gomisckovo_zavetisce_na_krnu/1/410">Gomiščkovo zavetišče na Krnu (2182m)</a>, <a class="moder" href="/gora/krncica/1/1625">Krnčica (2142m)</a>, <a class="moder" href="/gora/planina_na_polju/1/417">Planina na Polju (1530m)</a>, <a class="moder" href="/gora/srednji_vrh_nad_jezerom_v_luznici/1/1595">Srednji vrh (nad jezerom v Lužnici) (2032m)</a>, <a class="moder" href="/gora/vrh_nad_peski/1/418">Vrh nad Peski (2176m)</a>
+<a class="moder" href="/gora/mladinski_izobrazevalni_center_v_bavsici/1/230">Mladinski izobraževalni center v Bavšici (725m)</a>, <a class="moder" href="/gora/planina_nad_soco/1/1618">Planina nad Sočo (1400m)</a>, <a class="moder" href="/gora/pri_banderi/1/1615">Pri Banderi (1974m)</a>, <a class="moder" href="/gora/vrh_ovcje_planje/1/1616">Vrh Ovčje planje (1965m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,75 +835,31 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/robic/1781">Robič</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/vogel/16">Vogel</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
+<a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/bovec/1317">Bovec</a>, <a class="moder" href="/spletna_kamera/cezsoca/4951">Čezsoča</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/javorscek/1593">Javoršček</a>, <a class="moder" href="/spletna_kamera/kanin/3">Kanin</a>, <a class="moder" href="/spletna_kamera/kanin_graben/4412">Kanin (Graben)</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/4959">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/letalisce_bovec/3509">Letališče Bovec</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom/4311">Log pod Mangartom</a>, <a class="moder" href="/spletna_kamera/log_pod_mangartom_smucisce_encijan/4300">Log pod Mangartom (smučišče Encijan)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/nevejski_preval_-_na_zlebeh___sella_nevea/1977">Nevejski preval - Na Žlebeh / Sella Nevea</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/polovnik/1466">Polovnik</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/predel/25">Predel</a>, <a class="moder" href="/spletna_kamera/prevala/1361">Prevala</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/rifugio_gilberti/4020">Rifugio Gilberti</a>, <a class="moder" href="/spletna_kamera/rogelj/1463">Rogelj</a>, <a class="moder" href="/spletna_kamera/rombon/1467">Rombon</a>, <a class="moder" href="/spletna_kamera/svinjak/312">Svinjak</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>, <a class="moder" href="/spletna_kamera/veliki_babanski_skedenj/1464">Veliki Babanski skedenj</a>, <a class="moder" href="/spletna_kamera/zasavska_koca_na_prehodavcih/4409">Zasavska koča na Prehodavcih</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkrn%2f1%2f150"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkrn%2f1%2f150"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkrn%2f1%2f150"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_leh%2f1%2f1614"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_leh%2f1%2f1614"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvrh_leh%2f1%2f1614"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/krn/150" title="Krn 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.krn.jpg" /></a></div>
+<div><a href="/panorama/360/vrh_leh/1614" title="Vrh Leh 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.VrhLeh.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/krn/113" onclick="event.preventDefault(); window.open('/slika_gora/krn/113');"><img class="slikagm" alt="Krn" src="//www.hribi.net/Gora/p5010006medium9fi.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrh_leh/6753" onclick="event.preventDefault(); window.open('/slika_gora/vrh_leh/6753');"><img class="slikagm" alt="Vrh Leh" src="//www.hribi.net/slike1/grintavec 044310500.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/krn/570" onclick="event.preventDefault(); window.open('/slika_gora/krn/570');"><img class="slikagm" alt="Krn" src="//www.hribi.net/Gora/p7220306mediumcs1.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/vrh_leh/6754" onclick="event.preventDefault(); window.open('/slika_gora/vrh_leh/6754');"><img class="slikagm" alt="Vrh Leh" src="//www.hribi.net/slike1/grintavec 099310500.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/krn/571" onclick="event.preventDefault(); window.open('/slika_gora/krn/571');"><img class="slikagm" alt="Krn" src="//www.hribi.net/Gora/p7220314mediumkg6.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/573" onclick="event.preventDefault(); window.open('/slika_gora/krn/573');"><img class="slikagm" alt="Krn" src="//www.hribi.net/Gora/p7220335mediumwe1.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/576" onclick="event.preventDefault(); window.open('/slika_gora/krn/576');"><img class="slikagm" alt="Krn" src="//www.hribi.net/Gora/p7220379mediumhj9.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/581" onclick="event.preventDefault(); window.open('/slika_gora/krn/581');"><img class="slikagm" alt="Krn" src="//www.hribi.net/Gora/p7220403mediumzh0.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/848" onclick="event.preventDefault(); window.open('/slika_gora/krn/848');"><img class="slikagm" alt="Krn" src="//www.hribi.net/Gora/p9020084mediumwn2.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/1948" onclick="event.preventDefault(); window.open('/slika_gora/krn/1948');"><img class="slikagm" alt="Krn" src="//www.hribi.net/sliketemp/P72200754035851.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/2117" onclick="event.preventDefault(); window.open('/slika_gora/krn/2117');"><img class="slikagm" alt="Krn" src="//www.hribi.net/slike1/P8240067917280.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/2520" onclick="event.preventDefault(); window.open('/slika_gora/krn/2520');"><img class="slikagm" alt="Krn" src="//www.hribi.net/slike1/PB130234350350.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/2521" onclick="event.preventDefault(); window.open('/slika_gora/krn/2521');"><img class="slikagm" alt="Krn" src="//www.hribi.net/slike1/PB130323350350.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/2580" onclick="event.preventDefault(); window.open('/slika_gora/krn/2580');"><img class="slikagm" alt="Krn" src="//www.hribi.net/slike1/PB130045181440.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/2582" onclick="event.preventDefault(); window.open('/slika_gora/krn/2582');"><img class="slikagm" alt="Krn" src="//www.hribi.net/slike1/PB13025184672.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/2913" onclick="event.preventDefault(); window.open('/slika_gora/krn/2913');"><img class="slikagm" alt="Krn" src="//www.hribi.net/sliketemp/P319010043802995824413.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/3042" onclick="event.preventDefault(); window.open('/slika_gora/krn/3042');"><img class="slikagm" alt="Krn" src="//www.hribi.net/sliketemp/P5030152%20(Medium)4444747.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/4856" onclick="event.preventDefault(); window.open('/slika_gora/krn/4856');"><img class="slikagm" alt="Krn" src="//www.hribi.net/sliketemp/Mahavscek%200885154751.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/7903" onclick="event.preventDefault(); window.open('/slika_gora/krn/7903');"><img class="slikagm" alt="Krn" src="//www.hribi.net/slike1/Mengore 312205700.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/7904" onclick="event.preventDefault(); window.open('/slika_gora/krn/7904');"><img class="slikagm" alt="Krn" src="//www.hribi.net/slike1/Mengore 310205700.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/15970" onclick="event.preventDefault(); window.open('/slika_gora/krn/15970');"><img class="slikagm" alt="Krn" src="//slike.hribi.net/slike4/2_2692558125240_DSCN3457.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/17469" onclick="event.preventDefault(); window.open('/slika_gora/krn/17469');"><img class="slikagm" alt="Krn" src="//slike.hribi.net/slike4/2_1480594372180_DSCN5265.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/krn/17648" onclick="event.preventDefault(); window.open('/slika_gora/krn/17648');"><img class="slikagm" alt="Krn" src="//slike.hribi.net/slike4/2_0453596833316_DSCN7410.JPG" /></a>
+        <a target="_blank" href="/slika_gora/vrh_leh/6776" onclick="event.preventDefault(); window.open('/slika_gora/vrh_leh/6776');"><img class="slikagm" alt="Vrh Leh" src="//www.hribi.net/slike1/grintavec%202485702284.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Gorništvo/krn_-_batognica_-_luznica_krozna_pot/3/909"><img class="slikagmv" alt="KRN - BATOGNICA - LUŽNICA (krožna pot)" src="https://img.youtube.com/vi/ghm0ahadxgg/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Gorništvo/krn_2244_m__-_pot_silva_korena_762015/3/758"><img class="slikagmv" alt="Krn (2244 m ) - Pot Silva Korena 7.6.2015" src="https://img.youtube.com/vi/KiznGuHC7tg/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Smučanje/krn/1/747"><img class="slikagmv" alt="Krn" src="https://img.youtube.com/vi/QkhhUpK4L5E/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Gorništvo/krn_2244m/3/542"><img class="slikagmv" alt="Krn (2244m)" src="https://img.youtube.com/vi/eA0151QdTIQ/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -961,7 +917,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=150&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1614&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -971,27 +927,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_kuhinja_krn/1/150/280">Planina Kuhinja - Krn</a></td><td class="tdG"><a href="/izlet/planina_kuhinja_krn/1/150/280">3 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_kuhinja_krn/1/150/280">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_v_lepeni_krn/1/150/281">Dom v Lepeni - Krn</a></td><td class="tdG"><a href="/izlet/dom_v_lepeni_krn/1/150/281">5 h</a></td><td class="tdG"><a href="/izlet/dom_v_lepeni_krn/1/150/281">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dreznica_krn_pot_silva_korena/1/150/1073">Drežnica - Krn (pot Silva Korena)</a></td><td class="tdG"><a href="/izlet/dreznica_krn_pot_silva_korena/1/150/1073">5 h</a></td><td class="tdG"><a href="/izlet/dreznica_krn_pot_silva_korena/1/150/1073">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_pri_savici_krn_mimo_krnskega_jezera/1/150/2352">Koča pri Savici - Krn (mimo Krnskega jezera)</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_krn_mimo_krnskega_jezera/1/150/2352">7 h 45 min</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_krn_mimo_krnskega_jezera/1/150/2352">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_kuhinja_krn_mimo_jezera_v_luznici/1/150/2364">Planina Kuhinja - Krn (mimo jezera v Lužnici)</a></td><td class="tdG"><a href="/izlet/planina_kuhinja_krn_mimo_jezera_v_luznici/1/150/2364">4 h 45 min</a></td><td class="tdG"><a href="/izlet/planina_kuhinja_krn_mimo_jezera_v_luznici/1/150/2364">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dreznica_krn_juzna_pot/1/150/1247">Drežnica - Krn (južna pot)</a></td><td class="tdG"><a href="/izlet/dreznica_krn_juzna_pot/1/150/1247">5 h</a></td><td class="tdG"><a href="/izlet/dreznica_krn_juzna_pot/1/150/1247">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_na_planini_kuhinja_krn/1/150/5437">Koča na planini Kuhinja - Krn</a></td><td class="tdG"><a href="/izlet/koca_na_planini_kuhinja_krn/1/150/5437">3 h 10 min</a></td><td class="tdG"><a href="/izlet/koca_na_planini_kuhinja_krn/1/150/5437">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/koca_pri_savici_krn_cez_prehodce/1/150/4013">Koča pri Savici - Krn (čez Prehodce)</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_krn_cez_prehodce/1/150/4013">7 h 50 min</a></td><td class="tdG"><a href="/izlet/koca_pri_savici_krn_cez_prehodce/1/150/4013">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/krn_krn_cez_planino_sleme/1/150/3230">Krn - Krn (čez planino Sleme)</a></td><td class="tdG"><a href="/izlet/krn_krn_cez_planino_sleme/1/150/3230">5 h 25 min</a></td><td class="tdG"><a href="/izlet/krn_krn_cez_planino_sleme/1/150/3230">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_polog_krn_cez_prehodce/1/150/2795"> Planina Polog - Krn (čez Prehodce)</a></td><td class="tdG"><a href="/izlet/planina_polog_krn_cez_prehodce/1/150/2795">6 h 45 min</a></td><td class="tdG"><a href="/izlet/planina_polog_krn_cez_prehodce/1/150/2795">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_polog_krn_cez_planino_sleme/1/150/2793">Planina Polog - Krn (čez planino Sleme)</a></td><td class="tdG"><a href="/izlet/planina_polog_krn_cez_planino_sleme/1/150/2793">6 h 30 min</a></td><td class="tdG"><a href="/izlet/planina_polog_krn_cez_planino_sleme/1/150/2793">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/soca_vrh_leh/1/1614/2840">Soča - Vrh Leh</a></td><td class="tdG"><a href="/izlet/soca_vrh_leh/1/1614/2840">3 h 30 min</a></td><td class="tdG"><a href="/izlet/soca_vrh_leh/1/1614/2840">lahko brezpotje</a></td></tr>
 
 </table>
 

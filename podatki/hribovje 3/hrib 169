@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Koritni vrh (Velika planina)</title>
-        <meta name="description" content="Natančen opis gore Koritni vrh (Velika planina) in vseh pristopov na Koritni vrh (Velika planina). Koritni vrh je 1648 m visoka gora, ki se nahaja na severnem delu Velike planine.." />
+        <title>Bivak na Kalu</title>
+        <meta name="description" content="Natančen opis koče Bivak na Kalu in vseh pristopov na Bivak na Kalu. Bivak na Kalu se nahaja ob vznožju strmih pobočij 1557 m visokega Rogatca. Od bi." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./372?gorovjeid=3&amp;id=372" id="form1">
+    <form method="post" action="./350?gorovjeid=3&amp;id=350" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/koritni_vrh_velika_planina/3/372"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=372"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bivak_na_kalu/3/350"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=3&id=350"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Koritni vrh (Velika planina)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a> / Bivak na Kalu
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(372);
+    gorast(350);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Koritni vrh (Velika planina)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bivak na Kalu</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/kamnisko_savinjske_alpe/3">Kamniško Savinjske Alpe</a></div>
-    <div class="g2"><b>Višina:</b> 1648&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1285&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;18,3738'N&nbsp;/&nbsp;14°&nbsp;38,6304'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;18,9096'N&nbsp;/&nbsp;14°&nbsp;44,3748'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;18'&nbsp;22,43''N&nbsp;/&nbsp;14°&nbsp;38'&nbsp;37,82''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;18'&nbsp;54,58''N&nbsp;/&nbsp;14°&nbsp;44'&nbsp;22,49''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.30623°N&nbsp;/&nbsp;14.64384°E";
+                        document.getElementById("kf0").innerHTML = "46.31516°N&nbsp;/&nbsp;14.73958°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,30623°N,&nbsp;14,64384°E";
+                    document.getElementById("kf0").innerHTML = "46,31516°N,&nbsp;14,73958°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,30623°N&nbsp;14,64384°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/koritni_vrh_velika_planina/372"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,31516°N&nbsp;14,73958°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bivak_na_kalu/350"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča, sedlo</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak na Kalu - Torek" href="/vreme_gora/bivak_na_kalu/3/350#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak na Kalu - Sreda" href="/vreme_gora/bivak_na_kalu/3/350#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak na Kalu - Četrtek" href="/vreme_gora/bivak_na_kalu/3/350#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Koritni vrh (Velika planina) - Petek" href="/vreme_gora/koritni_vrh_velika_planina/3/372#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak na Kalu - Petek" href="/vreme_gora/bivak_na_kalu/3/350#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Koritni vrh (Velika planina) - Sobota" href="/vreme_gora/koritni_vrh_velika_planina/3/372#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Koritni vrh (Velika planina) - Nedelja" href="/vreme_gora/koritni_vrh_velika_planina/3/372#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Koritni vrh (Velika planina) - Ponedeljek" href="/vreme_gora/koritni_vrh_velika_planina/3/372#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Koritni vrh (Velika planina) - Torek" href="/vreme_gora/koritni_vrh_velika_planina/3/372#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bivak na Kalu - Sobota" href="/vreme_gora/bivak_na_kalu/3/350#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 431.454</div>
-<div class="g2"><b>Priljubljenost:</b> 84%&nbsp;(537.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Ogledov:</b> 339.185</div>
+<div class="g2"><b>Priljubljenost:</b> 74%&nbsp;(861.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">7</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=350" title="Število vpisov v vpisni knjigi">2</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Koritni vrh je 1648 m visoka gora, ki se nahaja na severnem delu Velike planine. Z vrha, na katerem stoji manjši križ, se nam odpre lep razgled, ki seže od bližnjega Gradišča, prek Krvavca do najvišjih vrhov Kamniško Savinjskih Alp.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Bivak na Kalu se nahaja ob vznožju strmih pobočij 1557 m visokega Rogatca. Od bivaka, ki je v lasti PD Gornji Grad, se nam odpre lep pogled na bližnjo Lepenatko, Veliko planino in del Dleskovške planote.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=372&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=350&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/gostisce_zeleni_rob/3/947">Gostišče Zeleni Rob (1612m)</a>, <a class="moder" href="/gora/gradisce_velika_planina/3/169">Gradišče (Velika planina) (1666m)</a>, <a class="moder" href="/gora/kapela_marije_snezne_velika_planina/3/168">Kapela Marije Snežne (Velika planina) (1560m)</a>, <a class="moder" href="/gora/planina_dol/3/1261">Planina Dol (1308m)</a>, <a class="moder" href="/gora/planina_konjscica_velika_planina/3/371">Planina Konjščica (Velika planina) (1505m)</a>
+<a class="moder" href="/gora/kunsperski_vrh_brezovec/3/2597">Kunšperski vrh (Brezovec) (1336m)</a>, <a class="moder" href="/gora/lepenatka/3/349">Lepenatka (1425m)</a>, <a class="moder" href="/gora/mali_rogatec_mali_rogac/3/2598">Mali Rogatec (Mali Rogac) (1228m)</a>, <a class="moder" href="/gora/sveti_lenart_nad_gornjim_gradom/3/444">Sveti Lenart nad Gornjim Gradom (929m)</a>, <a class="moder" href="/gora/veliki_rogatec_veliki_rogac/3/906">Veliki Rogatec (Veliki Rogac) (1557m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,23 +835,33 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/cerklje_na_gorenjskem/1022">Cerklje na Gorenjskem</a>, <a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/moste_pri_komendi/488">Moste pri Komendi</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/radomlje/1577">Radomlje</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/crnuski_dom_na_mali_planini/3644">Črnuški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/domzalski_dom_na_mali_planini/3354">Domžalski dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/jarski_dom_na_mali_planini/1772">Jarški dom na Mali planini</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/prelaz_crnivec/3633">Prelaz Črnivec</a>, <a class="moder" href="/spletna_kamera/raduha/2369">Raduha</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sveti_primoz_nad_kamnikom/3423">Sveti Primož nad Kamnikom</a>, <a class="moder" href="/spletna_kamera/velika_planina_mali_stan/4084">Velika planina (Mali stan)</a>, <a class="moder" href="/spletna_kamera/velika_planina_pastirsko_naselje/3357">Velika planina (pastirsko naselje)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zeleni_rob/12">Velika planina (Zeleni rob)</a>, <a class="moder" href="/spletna_kamera/velika_planina_zgornja_postaja_nihalke/3645">Velika planina (zgornja postaja nihalke)</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkoritni_vrh_velika_planina%2f3%2f372"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoritni_vrh_velika_planina%2f3%2f372"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkoritni_vrh_velika_planina%2f3%2f372"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_na_kalu%2f3%2f350"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_na_kalu%2f3%2f350"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbivak_na_kalu%2f3%2f350"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/koritni_vrh_velika_planina/372" title="Koritni vrh (Velika planina) 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.KoritniVrh.jpg" /></a></div>
+<div><a href="/panorama/360/bivak_na_kalu/350" title="Bivak na Kalu 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.BivakNaKalu.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/koritni_vrh_velika_planina/4314" onclick="event.preventDefault(); window.open('/slika_gora/koritni_vrh_velika_planina/4314');"><img class="slikagm" alt="Koritni vrh (Velika planina)" src="//www.hribi.net/slike1/P5210350546480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bivak_na_kalu/778" onclick="event.preventDefault(); window.open('/slika_gora/bivak_na_kalu/778');"><img class="slikagm" alt="Bivak na Kalu" src="//www.hribi.net/Gora/p8240091mediumfz4.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/koritni_vrh_velika_planina/4315" onclick="event.preventDefault(); window.open('/slika_gora/koritni_vrh_velika_planina/4315');"><img class="slikagm" alt="Koritni vrh (Velika planina)" src="//www.hribi.net/slike1/P5210348546480.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bivak_na_kalu/779" onclick="event.preventDefault(); window.open('/slika_gora/bivak_na_kalu/779');"><img class="slikagm" alt="Bivak na Kalu" src="//www.hribi.net/Gora/p8240124mediumfv2.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_na_kalu/780" onclick="event.preventDefault(); window.open('/slika_gora/bivak_na_kalu/780');"><img class="slikagm" alt="Bivak na Kalu" src="//www.hribi.net/Gora/p8240123mediumad3.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_na_kalu/4344" onclick="event.preventDefault(); window.open('/slika_gora/bivak_na_kalu/4344');"><img class="slikagm" alt="Bivak na Kalu" src="//www.hribi.net/slike1/P53102051836.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_na_kalu/7630" onclick="event.preventDefault(); window.open('/slika_gora/bivak_na_kalu/7630');"><img class="slikagm" alt="Bivak na Kalu" src="//www.hribi.net/slike1/Lepenatka 160192192.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_na_kalu/14298" onclick="event.preventDefault(); window.open('/slika_gora/bivak_na_kalu/14298');"><img class="slikagm" alt="Bivak na Kalu" src="//slike.hribi.net/slike4/2_0282508574183_DSCN0563.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/bivak_na_kalu/14303" onclick="event.preventDefault(); window.open('/slika_gora/bivak_na_kalu/14303');"><img class="slikagm" alt="Bivak na Kalu" src="//www.hribi.net/slike1/DSCN05674193280.th.jpg" /></a>
     
 </div>
 
@@ -915,7 +925,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=372&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=350&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -925,9 +935,19 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kraljev_hrib_koritni_vrh_velika_planina/3/372/518">Kraljev hrib - Koritni vrh (Velika planina)</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_koritni_vrh_velika_planina/3/372/518">3 h</a></td><td class="tdG"><a href="/izlet/kraljev_hrib_koritni_vrh_velika_planina/3/372/518">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/konec_ceste_bivak_na_kalu/3/350/486">Konec ceste - Bivak na Kalu</a></td><td class="tdG"><a href="/izlet/konec_ceste_bivak_na_kalu/3/350/486"> 35 min</a></td><td class="tdG"><a href="/izlet/konec_ceste_bivak_na_kalu/3/350/486">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/planina_dol_koritni_vrh_velika_planina/3/372/6338">Planina Dol - Koritni vrh (Velika planina)</a></td><td class="tdG"><a href="/izlet/planina_dol_koritni_vrh_velika_planina/3/372/6338">1 h</a></td><td class="tdG"><a href="/izlet/planina_dol_koritni_vrh_velika_planina/3/372/6338">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/gornji_grad_bivak_na_kalu/3/350/3122">Gornji Grad - Bivak na Kalu</a></td><td class="tdG"><a href="/izlet/gornji_grad_bivak_na_kalu/3/350/3122">2 h 35 min</a></td><td class="tdG"><a href="/izlet/gornji_grad_bivak_na_kalu/3/350/3122">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/crnivec_bivak_na_kalu/3/350/6122">Črnivec - Bivak na Kalu</a></td><td class="tdG"><a href="/izlet/crnivec_bivak_na_kalu/3/350/6122">3 h 30 min</a></td><td class="tdG"><a href="/izlet/crnivec_bivak_na_kalu/3/350/6122">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podvolovljek_petkov_graben_bivak_na_kalu_cez_lepenatko/3/350/5764">Podvolovljek (Petkov graben) - Bivak na Kalu (čez Lepenatko)</a></td><td class="tdG"><a href="/izlet/podvolovljek_petkov_graben_bivak_na_kalu_cez_lepenatko/3/350/5764">2 h 30 min</a></td><td class="tdG"><a href="/izlet/podvolovljek_petkov_graben_bivak_na_kalu_cez_lepenatko/3/350/5764">lahka neoznačena steza, lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/volovljek_bivak_na_kalu_cez_lepenatko/3/350/5761">Volovljek - Bivak na Kalu (čez Lepenatko)</a></td><td class="tdG"><a href="/izlet/volovljek_bivak_na_kalu_cez_lepenatko/3/350/5761">2 h 30 min</a></td><td class="tdG"><a href="/izlet/volovljek_bivak_na_kalu_cez_lepenatko/3/350/5761">lahka neoznačena steza, lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podvolovljek_petkov_graben_bivak_na_kalu/3/350/5768">Podvolovljek (Petkov graben) - Bivak na Kalu</a></td><td class="tdG"><a href="/izlet/podvolovljek_petkov_graben_bivak_na_kalu/3/350/5768">2 h 30 min</a></td><td class="tdG"><a href="/izlet/podvolovljek_petkov_graben_bivak_na_kalu/3/350/5768">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/volovljek_bivak_na_kalu/3/350/5758">Volovljek - Bivak na Kalu</a></td><td class="tdG"><a href="/izlet/volovljek_bivak_na_kalu/3/350/5758">2 h 45 min</a></td><td class="tdG"><a href="/izlet/volovljek_bivak_na_kalu/3/350/5758">lahka neoznačena steza</a></td></tr>
 
 </table>
 

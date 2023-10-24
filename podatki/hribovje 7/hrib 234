@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Križ (Slemšek)</title>
-        <meta name="description" content="Natančen opis koče Sveti Križ (Slemšek) in vseh pristopov na Sveti Križ (Slemšek). Slemšek je hrib, ki se dviga med Vačami in Kandršami, na njem pa stoji cerkev Sv." />
+        <title>Gruska jama</title>
+        <meta name="description" content="Natančen opis slapa Gruska jama in vseh pristopov na Gruska jama. Gruska jama je zatrepna dolina, kjer izvira potok Gruska, ki je pravzaprav nadal." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3250?gorovjeid=25&amp;id=3250" id="form1">
+    <form method="post" action="./3460?gorovjeid=25&amp;id=3460" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_kriz_slemsek/25/3250"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3250"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/gruska_jama/25/3460"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3460"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Sveti Križ (Slemšek)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Gruska jama
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3250);
+    gorast(3460);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Križ (Slemšek)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Gruska jama</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 680&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 320&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;7,4340'N&nbsp;/&nbsp;14°&nbsp;50,640'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;5,5518'N&nbsp;/&nbsp;15°&nbsp;34,2162'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;7'&nbsp;26,04''N&nbsp;/&nbsp;14°&nbsp;50'&nbsp;38,40''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;5'&nbsp;33,11''N&nbsp;/&nbsp;15°&nbsp;34'&nbsp;12,97''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.1239°N&nbsp;/&nbsp;14.844°E";
+                        document.getElementById("kf0").innerHTML = "46.09253°N&nbsp;/&nbsp;15.57027°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,1239°N,&nbsp;14,844°E";
+                    document.getElementById("kf0").innerHTML = "46,09253°N,&nbsp;15,57027°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1239°N&nbsp;14,844°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_kriz_slemsek/3250"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,09253°N&nbsp;15,57027°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/gruska_jama/3460"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> koča, cerkev</div>
+    <div class="g2"><b>Vrsta:</b> slap</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Gruska jama - Torek" href="/vreme_gora/gruska_jama/25/3460#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Gruska jama - Sreda" href="/vreme_gora/gruska_jama/25/3460#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Gruska jama - Četrtek" href="/vreme_gora/gruska_jama/25/3460#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (Slemšek) - Petek" href="/vreme_gora/sveti_kriz_slemsek/25/3250#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Gruska jama - Petek" href="/vreme_gora/gruska_jama/25/3460#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (Slemšek) - Sobota" href="/vreme_gora/sveti_kriz_slemsek/25/3250#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (Slemšek) - Nedelja" href="/vreme_gora/sveti_kriz_slemsek/25/3250#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (Slemšek) - Ponedeljek" href="/vreme_gora/sveti_kriz_slemsek/25/3250#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Križ (Slemšek) - Torek" href="/vreme_gora/sveti_kriz_slemsek/25/3250#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Gruska jama - Sobota" href="/vreme_gora/gruska_jama/25/3460#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 688</div>
-<div class="g2"><b>Priljubljenost:</b> 18%&nbsp;(2699.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Ogledov:</b> 417</div>
+<div class="g2"><b>Priljubljenost:</b> 14%&nbsp;(2814.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
 <div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=3250" title="Število vpisov v vpisni knjigi">1</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis koče:</b><br />Slemšek je hrib, ki se dviga med Vačami in Kandršami, na njem pa stoji cerkev Sv. Križa. Ker vrh obdaja gozd, z njega ni lepšega razgleda.</div>
+<div style="padding-top:10px;"><b>Opis slapa:</b><br />Gruska jama je zatrepna dolina, kjer izvira potok Gruska, ki je pravzaprav nadaljevanje potoka Gabra, ki ponikne nedaleč stran. Potok izvira izpod 30 metrov visoke stene, v obdobjih z več vode tudi kot slap. Ljudska legenda pravi, da je na njenem mestu včasih stal bogat trg, ki se je pogreznil, ker se prebivalci niti v času posta ne glede na opozorila starca niso hoteli odreči razuzdanemu življenjskemu slogu. Med domačini je znana tudi kot Puščavnikova jama, ker je v njej v obdobju med obema svetovnima vojnama samotarsko živel ljudski pesnik Albin Podstenšek oz. Eremit Valentin.<br> <br> V jami je nekaj časa bilo črno odlagališče odpadkov, ki so ga šele nedolgo nazaj sanirali in v njej uredili krožno pot.<br> <br> Gruska jama je lahko dostopna, saj leži tik ob cesti med Prelaskim in Kozjim, natančneje v bližini Vrenske Gorce med Bučami in Ješovjem pri Kozjem. Pri njej je tudi avtobusno postajališče, ki služi tudi kot dostopna točka.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3250&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3460&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/sveti_lenart_kandrse/25/3205">Sveti Lenart (Kandrše) (508m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,20 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/blagovica/358">Blagovica</a>, <a class="moder" href="/spletna_kamera/jance/3420">Janče</a>, <a class="moder" href="/spletna_kamera/kompolje/356">Kompolje</a>, <a class="moder" href="/spletna_kamera/kresnice/1573">Kresnice</a>, <a class="moder" href="/spletna_kamera/limbarska_gora/507">Limbarska gora</a>, <a class="moder" href="/spletna_kamera/limovce/2328">Limovce</a>, <a class="moder" href="/spletna_kamera/lukovica/4909">Lukovica</a>, <a class="moder" href="/spletna_kamera/moravce/1055">Moravče</a>, <a class="moder" href="/spletna_kamera/motnik/2252">Motnik</a>, <a class="moder" href="/spletna_kamera/planinski_dom_uste_-_zerenk/2166">Planinski dom Ušte - Žerenk</a>, <a class="moder" href="/spletna_kamera/sveta_planina_partizanski_vrh/3429">Sveta planina (Partizanski vrh)</a>, <a class="moder" href="/spletna_kamera/trojane/187">Trojane</a>
+<a class="moder" href="/spletna_kamera/bizeljska_vas/2069">Bizeljska vas</a>, <a class="moder" href="/spletna_kamera/koca_na_bohorju/3373">Koča na Bohorju</a>, <a class="moder" href="/spletna_kamera/planina_pri_sevnici/4944">Planina pri Sevnici</a>, <a class="moder" href="/spletna_kamera/podcetrtek/2415">Podčetrtek</a>, <a class="moder" href="/spletna_kamera/poklek_pri_podsredi/4946">Poklek pri Podsredi</a>, <a class="moder" href="/spletna_kamera/senovo/3588">Senovo</a>, <a class="moder" href="/spletna_kamera/zegar/4945">Žegar</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_kriz_slemsek%2f25%2f3250"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_kriz_slemsek%2f25%2f3250"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_kriz_slemsek%2f25%2f3250"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgruska_jama%2f25%2f3460"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgruska_jama%2f25%2f3460"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgruska_jama%2f25%2f3460"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_kriz_slemsek/19306" onclick="event.preventDefault(); window.open('/slika_gora/sveti_kriz_slemsek/19306');"><img class="slikagm" alt="Sveti Križ (Slemšek)" src="//slike.hribi.net/slike4/2_0483641910641_DSCN9343.JPG" /></a>
+        <a target="_blank" href="/slika_gora/gruska_jama/20579" onclick="event.preventDefault(); window.open('/slika_gora/gruska_jama/20579');"><img class="slikagm" alt="Gruska jama" src="//slike2.hribi.net/slike016/2_0501690843724_DSC_1058.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_kriz_slemsek/19307" onclick="event.preventDefault(); window.open('/slika_gora/sveti_kriz_slemsek/19307');"><img class="slikagm" alt="Sveti Križ (Slemšek)" src="//slike.hribi.net/slike4/2_1194641494359_DSCN9341.JPG" /></a>
+        <a target="_blank" href="/slika_gora/gruska_jama/20580" onclick="event.preventDefault(); window.open('/slika_gora/gruska_jama/20580');"><img class="slikagm" alt="Gruska jama" src="//slike2.hribi.net/slike016/2_0489690843852_DSC_1061.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/gruska_jama/20581" onclick="event.preventDefault(); window.open('/slika_gora/gruska_jama/20581');"><img class="slikagm" alt="Gruska jama" src="//slike2.hribi.net/slike016/2_0879690844081_DSC_1071.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/gruska_jama/20582" onclick="event.preventDefault(); window.open('/slika_gora/gruska_jama/20582');"><img class="slikagm" alt="Gruska jama" src="//slike2.hribi.net/slike016/2_0103690844128_DSC_1068.JPG" /></a>
     
 </div>
 
@@ -912,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3250&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3460&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,7 +926,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vace_sveti_kriz_slemsek/25/3250/7738">Vače - Sveti Križ (Slemšek)</a></td><td class="tdG"><a href="/izlet/vace_sveti_kriz_slemsek/25/3250/7738"> 30 min</a></td><td class="tdG"><a href="/izlet/vace_sveti_kriz_slemsek/25/3250/7738">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/gruska_jama_gruska_jama_krozna_pot_nasprotna_smer_urinega_kazalca/25/3460/8341">Gruska jama - Gruska jama (Krožna pot, nasprotna smer urinega kazalca)</a></td><td class="tdG"><a href="/izlet/gruska_jama_gruska_jama_krozna_pot_nasprotna_smer_urinega_kazalca/25/3460/8341"> 30 min</a></td><td class="tdG"><a href="/izlet/gruska_jama_gruska_jama_krozna_pot_nasprotna_smer_urinega_kazalca/25/3460/8341">delno zahtevna označena pot</a></td></tr>
 
 </table>
 

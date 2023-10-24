@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Izvir Polskave</title>
-        <meta name="description" content="Natančen opis gore Izvir Polskave in vseh pristopov na Izvir Polskave. Izvir Polskave, oz. izvir Velike Polskave se nahaja jugozahodno od Ruške koče na." />
+        <title>Ribnik zahodno od Ošelja</title>
+        <meta name="description" content="Natančen opis jezera Ribnik zahodno od Ošelja in vseh pristopov na Ribnik zahodno od Ošelja. Ribnik zahodno od Ošelja se nahaja med gozdovi Pohorja in sicer v bližini naseli." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3497?gorovjeid=4&amp;id=3497" id="form1">
+    <form method="post" action="./3750?gorovjeid=4&amp;id=3750" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/source_of_polskava/4/3497"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3497"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/ribnik_zahodno_od_oselja/4/3750"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=4&id=3750"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Izvir Polskave
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a> / Ribnik zahodno od Ošelja
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3497);
+    gorast(3750);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Izvir Polskave</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Ribnik zahodno od Ošelja</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/pohorje_dravinjske_gorice_in_haloze/4">Pohorje, Dravinjske gorice in Haloze</a></div>
-    <div class="g2"><b>Višina:</b> 1180&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 824&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,4156'N&nbsp;/&nbsp;15°&nbsp;30,2718'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,6760'N&nbsp;/&nbsp;15°&nbsp;30,2202'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;24,94''N&nbsp;/&nbsp;15°&nbsp;30'&nbsp;16,31''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;40,56''N&nbsp;/&nbsp;15°&nbsp;30'&nbsp;13,21''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.49026°N&nbsp;/&nbsp;15.50453°E";
+                        document.getElementById("kf0").innerHTML = "46.4446°N&nbsp;/&nbsp;15.50367°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,49026°N,&nbsp;15,50453°E";
+                    document.getElementById("kf0").innerHTML = "46,4446°N,&nbsp;15,50367°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,49026°N&nbsp;15,50453°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/izvir_polskave/3497"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,4446°N&nbsp;15,50367°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/ribnik_zahodno_od_oselja/3750"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> </div>
+    <div class="g2"><b>Vrsta:</b> jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Ribnik zahodno od Ošelja - Torek" href="/vreme_gora/ribnik_zahodno_od_oselja/4/3750#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Ribnik zahodno od Ošelja - Sreda" href="/vreme_gora/ribnik_zahodno_od_oselja/4/3750#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Ribnik zahodno od Ošelja - Četrtek" href="/vreme_gora/ribnik_zahodno_od_oselja/4/3750#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Izvir Polskave - Petek" href="/vreme_gora/izvir_polskave/4/3497#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ribnik zahodno od Ošelja - Petek" href="/vreme_gora/ribnik_zahodno_od_oselja/4/3750#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Izvir Polskave - Sobota" href="/vreme_gora/izvir_polskave/4/3497#So"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Izvir Polskave - Nedelja" href="/vreme_gora/izvir_polskave/4/3497#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Izvir Polskave - Ponedeljek" href="/vreme_gora/izvir_polskave/4/3497#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Izvir Polskave - Torek" href="/vreme_gora/izvir_polskave/4/3497#To"><img class="w50" src="https://www.hribi.net/slike/vreme/1_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ribnik zahodno od Ošelja - Sobota" href="/vreme_gora/ribnik_zahodno_od_oselja/4/3750#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 711</div>
-<div class="g2"><b>Priljubljenost:</b> 18%&nbsp;(2689.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 60</div>
+<div class="g2"><b>Priljubljenost:</b> 5%&nbsp;(3127.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">4</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Izvir Polskave, oz. izvir Velike Polskave se nahaja jugozahodno od Ruške koče na Arehu, na pobočjih Kopišč. Do izvira vodi kratka markirana pot, ki se odcepi s poti Šmartno na Pohorju - Ruška koča na Arehu.</div>
+<div style="padding-top:10px;"><b>Opis jezera:</b><br />Ribnik zahodno od Ošelja se nahaja med gozdovi Pohorja in sicer v bližini naselij Smrečno in Ošelj.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3497&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3750&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/ruska_koca_na_arehu/4/842">Ruška koča na Arehu (1246m)</a>, <a class="moder" href="/gora/zigartov_vrh/4/894">Žigartov vrh (1346m)</a>
+<a class="moder" href="/gora/majalova_kapelica/4/3499">Majalova kapelica (823m)</a>, <a class="moder" href="/gora/maroltova_jelka_bistriski_vintgar/4/3613">Maroltova jelka (Bistriški vintgar) (800m)</a>, <a class="moder" href="/gora/repnikov_vrh/4/3507">Repnikov vrh (988m)</a>, <a class="moder" href="/gora/ribnika_devin_v_oselju/4/3749">Ribnika Devin v Ošelju (812m)</a>, <a class="moder" href="/gora/setorov_mlin/4/3496">Šetorov mlin (745m)</a>, <a class="moder" href="/gora/sveti_urh_urh/4/3506">Sveti Urh (Urh) (895m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,20 +835,24 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/fram/371">Fram</a>, <a class="moder" href="/spletna_kamera/gramoznica/372">Gramoznica</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/kamnica/2138">Kamnica</a>, <a class="moder" href="/spletna_kamera/letalisce_maribor/1040">Letališče Maribor</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/maribor/374">Maribor</a>, <a class="moder" href="/spletna_kamera/maribor_radvanje/2098">Maribor (Radvanje)</a>, <a class="moder" href="/spletna_kamera/mariborski_otok/4956">Mariborski otok</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/razcep_slivnica/4907">Razcep Slivnica</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/slovenska_bistrica/369">Slovenska Bistrica</a>, <a class="moder" href="/spletna_kamera/sportni_park_tabor_maribor/3695">Športni park Tabor Maribor</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/viadukt_slivnica/4828">Viadukt Slivnica</a>, <a class="moder" href="/spletna_kamera/vrhole_pri_slovenskih_konjicah/1428">Vrhole pri Slovenskih Konjicah</a>, <a class="moder" href="/spletna_kamera/vurmat/3062">Vurmat</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
+<a class="moder" href="/spletna_kamera/areh/78">Areh</a>, <a class="moder" href="/spletna_kamera/fram/371">Fram</a>, <a class="moder" href="/spletna_kamera/gramoznica/372">Gramoznica</a>, <a class="moder" href="/spletna_kamera/hocko_pohorje/2065">Hočko Pohorje</a>, <a class="moder" href="/spletna_kamera/letalisce_maribor/1040">Letališče Maribor</a>, <a class="moder" href="/spletna_kamera/lovrenc_na_pohorju/3692">Lovrenc na Pohorju</a>, <a class="moder" href="/spletna_kamera/maribor_radvanje/2098">Maribor (Radvanje)</a>, <a class="moder" href="/spletna_kamera/mariborsko_pohorje/14">Mariborsko Pohorje</a>, <a class="moder" href="/spletna_kamera/pragersko_pocivalisce/4908">Pragersko (počivališče)</a>, <a class="moder" href="/spletna_kamera/razcep_slivnica/4907">Razcep Slivnica</a>, <a class="moder" href="/spletna_kamera/rogla/165">Rogla</a>, <a class="moder" href="/spletna_kamera/rogla_apartmaji_dandi_-_jurgovo/3652">Rogla (apartmaji Dandi – Jurgovo)</a>, <a class="moder" href="/spletna_kamera/rogla_hotel_natura/2179">Rogla (Hotel Natura)</a>, <a class="moder" href="/spletna_kamera/rogla_masin_zaga/1860">Rogla (Mašin Žaga)</a>, <a class="moder" href="/spletna_kamera/rogla_ostruscica/4192">Rogla (Ostruščica)</a>, <a class="moder" href="/spletna_kamera/slovenska_bistrica/369">Slovenska Bistrica</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_hotel_jakec/4294">Sveti Trije Kralji (Hotel Jakec)</a>, <a class="moder" href="/spletna_kamera/sveti_trije_kralji_pohorje/2972">Sveti Trije Kralji (Pohorje)</a>, <a class="moder" href="/spletna_kamera/tepanje/367">Tepanje</a>, <a class="moder" href="/spletna_kamera/terme_zrece/164">Terme Zreče</a>, <a class="moder" href="/spletna_kamera/viadukt_slivnica/4828">Viadukt Slivnica</a>, <a class="moder" href="/spletna_kamera/vrhole_pri_slovenskih_konjicah/1428">Vrhole pri Slovenskih Konjicah</a>, <a class="moder" href="/spletna_kamera/zgornje_radvanje/1746">Zgornje Radvanje</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fizvir_polskave%2f4%2f3497"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fizvir_polskave%2f4%2f3497"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fizvir_polskave%2f4%2f3497"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fribnik_zahodno_od_oselja%2f4%2f3750"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fribnik_zahodno_od_oselja%2f4%2f3750"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fribnik_zahodno_od_oselja%2f4%2f3750"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/izvir_polskave/20806" onclick="event.preventDefault(); window.open('/slika_gora/izvir_polskave/20806');"><img class="slikagm" alt="Izvir Polskave" src="//slike2.hribi.net/slike14/2_0451698745321_0dscn2903.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnik_zahodno_od_oselja/22106" onclick="event.preventDefault(); window.open('/slika_gora/ribnik_zahodno_od_oselja/22106');"><img class="slikagm" alt="Ribnik zahodno od Ošelja" src="//slike2.hribi.net/slike14/2_2741742736358_0dscn2574.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/izvir_polskave/20807" onclick="event.preventDefault(); window.open('/slika_gora/izvir_polskave/20807');"><img class="slikagm" alt="Izvir Polskave" src="//slike2.hribi.net/slike14/2_296699537503_2dscn2906.jpg" /></a>
+        <a target="_blank" href="/slika_gora/ribnik_zahodno_od_oselja/22107" onclick="event.preventDefault(); window.open('/slika_gora/ribnik_zahodno_od_oselja/22107');"><img class="slikagm" alt="Ribnik zahodno od Ošelja" src="//slike2.hribi.net/slike14/2_0939742376936_0dscn2579.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/ribnik_zahodno_od_oselja/22108" onclick="event.preventDefault(); window.open('/slika_gora/ribnik_zahodno_od_oselja/22108');"><img class="slikagm" alt="Ribnik zahodno od Ošelja" src="//slike2.hribi.net/slike14/2_0970742736525_0dscn2575.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/ribnik_zahodno_od_oselja/22109" onclick="event.preventDefault(); window.open('/slika_gora/ribnik_zahodno_od_oselja/22109');"><img class="slikagm" alt="Ribnik zahodno od Ošelja" src="//slike2.hribi.net/slike14/2_1664742736525_1dscn2581.jpg" /></a>
     
 </div>
 
@@ -912,7 +916,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3497&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3750&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -922,13 +926,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/smartno_na_pohorju_izvir_polskave_cez_bojtino/4/3497/8454">Šmartno na Pohorju - Izvir Polskave (čez Bojtino)</a></td><td class="tdG"><a href="/izlet/smartno_na_pohorju_izvir_polskave_cez_bojtino/4/3497/8454">2 h 35 min</a></td><td class="tdG"><a href="/izlet/smartno_na_pohorju_izvir_polskave_cez_bojtino/4/3497/8454">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/smartno_na_pohorju_ribnik_zahodno_od_oselja/4/3750/9118">Šmartno na Pohorju - Ribnik zahodno od Ošelja</a></td><td class="tdG"><a href="/izlet/smartno_na_pohorju_ribnik_zahodno_od_oselja/4/3750/9118"> 45 min</a></td><td class="tdG"><a href="/izlet/smartno_na_pohorju_ribnik_zahodno_od_oselja/4/3750/9118">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_izvir_polskave_zgornja_pot/4/3497/8738">Ruška koča na Arehu - Izvir Polskave (zgornja pot)</a></td><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_izvir_polskave_zgornja_pot/4/3497/8738"> 25 min</a></td><td class="tdG"><a href="/izlet/ruska_koca_na_arehu_izvir_polskave_zgornja_pot/4/3497/8738">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koca_na_sumiku_izvir_polskave/4/3497/8774">Koča na Šumiku - Izvir Polskave</a></td><td class="tdG"><a href="/izlet/koca_na_sumiku_izvir_polskave/4/3497/8774">1 h 55 min</a></td><td class="tdG"><a href="/izlet/koca_na_sumiku_izvir_polskave/4/3497/8774">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sveti_trije_kralji_izvir_polskave/4/3497/8760">Sveti Trije kralji - Izvir Polskave</a></td><td class="tdG"><a href="/izlet/sveti_trije_kralji_izvir_polskave/4/3497/8760">2 h 45 min</a></td><td class="tdG"><a href="/izlet/sveti_trije_kralji_izvir_polskave/4/3497/8760">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_ribnik_zahodno_od_oselja_skozi_bistriski_vintgar/4/3750/9125">Zgornja Bistrica (Center Vintgar) - Ribnik zahodno od Ošelja (skozi Bistriški vintgar)</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_ribnik_zahodno_od_oselja_skozi_bistriski_vintgar/4/3750/9125">2 h 5 min</a></td><td class="tdG"><a href="/izlet/zgornja_bistrica_center_vintgar_ribnik_zahodno_od_oselja_skozi_bistriski_vintgar/4/3750/9125">lahka označena pot</a></td></tr>
 
 </table>
 

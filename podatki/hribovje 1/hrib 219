@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kavčič</title>
-        <meta name="description" content="Natančen opis gore Kavčič in vseh pristopov na Kavčič. Kavčič je travnat vrh, ki se nahaja nad vasjo Rakitovec ob slovensko hrvaški mej." />
+        <title>Štivanski log</title>
+        <meta name="description" content="Natančen opis jezera Štivanski log in vseh pristopov na Štivanski log. Štivanski log se imenuje naravoslovna pot, ki se nahaja ob drevesnici Štivan, le." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1691?gorovjeid=26&amp;id=1691" id="form1">
+    <form method="post" action="./2743?gorovjeid=26&amp;id=2743" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kavcic/26/1691"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1691"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/stivanski_log/26/2743"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2743"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Kavčič
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Štivanski log
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1691);
+    gorast(2743);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kavčič</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Štivanski log</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 879&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 530&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;28,2660'N&nbsp;/&nbsp;13°&nbsp;59,0100'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;44,6040'N&nbsp;/&nbsp;14°&nbsp;11,0100'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;28'&nbsp;15,96''N&nbsp;/&nbsp;13°&nbsp;59'&nbsp;0,60''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;44'&nbsp;36,24''N&nbsp;/&nbsp;14°&nbsp;11'&nbsp;0,60''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.4711°N&nbsp;/&nbsp;13.9835°E";
+                        document.getElementById("kf0").innerHTML = "45.7434°N&nbsp;/&nbsp;14.1835°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,4711°N,&nbsp;13,9835°E";
+                    document.getElementById("kf0").innerHTML = "45,7434°N,&nbsp;14,1835°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,4711°N&nbsp;13,9835°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kavcic/1691"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,7434°N&nbsp;14,1835°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/stivanski_log/2743"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> jezero</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Štivanski log - Torek" href="/vreme_gora/stivanski_log/26/2743#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Štivanski log - Sreda" href="/vreme_gora/stivanski_log/26/2743#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Štivanski log - Četrtek" href="/vreme_gora/stivanski_log/26/2743#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kavčič - Petek" href="/vreme_gora/kavcic/26/1691#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Štivanski log - Petek" href="/vreme_gora/stivanski_log/26/2743#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kavčič - Sobota" href="/vreme_gora/kavcic/26/1691#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kavčič - Nedelja" href="/vreme_gora/kavcic/26/1691#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kavčič - Ponedeljek" href="/vreme_gora/kavcic/26/1691#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kavčič - Torek" href="/vreme_gora/kavcic/26/1691#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Štivanski log - Sobota" href="/vreme_gora/stivanski_log/26/2743#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 235.443</div>
-<div class="g2"><b>Priljubljenost:</b> 62%&nbsp;(1250.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">3</a></div>
+<div class="g2"><b>Ogledov:</b> 1.452</div>
+<div class="g2"><b>Priljubljenost:</b> 24%&nbsp;(2509.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">17</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kavčič je travnat vrh, ki se nahaja nad vasjo Rakitovec ob slovensko hrvaški meji. Z vrha, na katerem stojita dva križa ter ob njima vpisna skrinjica, se nam odpre lep razgled proti Učki, Istri, Tržaškemu zalivu, Dolomitom, Julijskim Alpam ter bližnjemu Lipniku, Goliču in Žbevnici.</div>
+<div style="padding-top:10px;"><b>Opis jezera:</b><br />Štivanski log se imenuje naravoslovna pot, ki se nahaja ob drevesnici Štivan, le ta pa med Matenjo vasjo in Grobiščem.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1691&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2743&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/lipnik/26/1690">Lipnik (804m)</a>, <a class="moder" href="/gora/nadglavinjak/26/1692">Nadglavinjak (888m)</a>
+
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,33 +835,50 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/grmada_slavnik/4318">Grmada (Slavnik)</a>, <a class="moder" href="/spletna_kamera/hum_v_istri/3718">Hum (v Istri)</a>, <a class="moder" href="/spletna_kamera/katinara/353">Katinara</a>, <a class="moder" href="/spletna_kamera/paladini/3721">Paladini</a>, <a class="moder" href="/spletna_kamera/slavnik/194">Slavnik</a>, <a class="moder" href="/spletna_kamera/slavnik/1614">Slavnik</a>, <a class="moder" href="/spletna_kamera/sveti_martin/3717">Sveti Martin</a>, <a class="moder" href="/spletna_kamera/velika_plesivica/1723">Velika Plešivica</a>, <a class="moder" href="/spletna_kamera/viadukt_crni_kal/3653">Viadukt Črni Kal</a>
+<a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/cebulovica/335">Čebulovica</a>, <a class="moder" href="/spletna_kamera/cerknisko_jezero/3634">Cerkniško jezero</a>, <a class="moder" href="/spletna_kamera/ivanje_selo/328">Ivanje selo</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/nanos_plesa/2957">Nanos (Pleša)</a>, <a class="moder" href="/spletna_kamera/nart/1718">Nart</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/palcje/1578">Palčje</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/petelinjsko_jezero/4191">Petelinjsko jezero</a>, <a class="moder" href="/spletna_kamera/pivka/182">Pivka</a>, <a class="moder" href="/spletna_kamera/pivka/345">Pivka</a>, <a class="moder" href="/spletna_kamera/planina_pri_rakeku/1028">Planina pri Rakeku</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/rakek/1167">Rakek</a>, <a class="moder" href="/spletna_kamera/razdrto/332">Razdrto</a>, <a class="moder" href="/spletna_kamera/rebrnice/1409">Rebrnice</a>, <a class="moder" href="/spletna_kamera/senozeska_brda/1423">Senožeška brda</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>, <a class="moder" href="/spletna_kamera/unec/329">Unec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkavcic%2f26%2f1691"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkavcic%2f26%2f1691"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkavcic%2f26%2f1691"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstivanski_log%2f26%2f2743"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstivanski_log%2f26%2f2743"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstivanski_log%2f26%2f2743"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/kavcic/1691" title="Kavčič 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Kavcic.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kavcic/7445" onclick="event.preventDefault(); window.open('/slika_gora/kavcic/7445');"><img class="slikagm" alt="Kavčič" src="//www.hribi.net/slike1/Lipnik%2016146464.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stivanski_log/15389" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15389');"><img class="slikagm" alt="Štivanski log" src="//slike.hribi.net/slike4/2_1540537878709_DSCN3971.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kavcic/7446" onclick="event.preventDefault(); window.open('/slika_gora/kavcic/7446');"><img class="slikagm" alt="Kavčič" src="//www.hribi.net/slike1/Lipnik 16746464.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stivanski_log/15390" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15390');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN3972117504.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kavcic/7447" onclick="event.preventDefault(); window.open('/slika_gora/kavcic/7447');"><img class="slikagm" alt="Kavčič" src="//www.hribi.net/slike1/Lipnik 16946464.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stivanski_log/15391" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15391');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN3983133824.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kavcic/7448" onclick="event.preventDefault(); window.open('/slika_gora/kavcic/7448');"><img class="slikagm" alt="Kavčič" src="//www.hribi.net/slike1/Lipnik 17146464.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stivanski_log/15392" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15392');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN4031140352.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/kavcic/7449" onclick="event.preventDefault(); window.open('/slika_gora/kavcic/7449');"><img class="slikagm" alt="Kavčič" src="//www.hribi.net/slike1/Lipnik 18446464.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stivanski_log/15393" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15393');"><img class="slikagm" alt="Štivanski log" src="//slike.hribi.net/slike4/2_2487537878866_DSCN4019.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kavcic/7450" onclick="event.preventDefault(); window.open('/slika_gora/kavcic/7450');"><img class="slikagm" alt="Kavčič" src="//www.hribi.net/slike1/Lipnik 18546464.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stivanski_log/15394" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15394');"><img class="slikagm" alt="Štivanski log" src="//slike.hribi.net/slike4/2_1370537878863_DSCN4017.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kavcic/7454" onclick="event.preventDefault(); window.open('/slika_gora/kavcic/7454');"><img class="slikagm" alt="Kavčič" src="//www.hribi.net/slike1/Lipnik 2500.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/stivanski_log/15395" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15395');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN4018159936.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stivanski_log/15396" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15396');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN4016159936.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stivanski_log/15397" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15397');"><img class="slikagm" alt="Štivanski log" src="//slike.hribi.net/slike4/2_290537878818_DSCN4000.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/stivanski_log/15398" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15398');"><img class="slikagm" alt="Štivanski log" src="//slike.hribi.net/slike4/2_0334537878813_DSCN3992.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/stivanski_log/15399" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15399');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN4037169728.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stivanski_log/15400" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15400');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN4051169728.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stivanski_log/15401" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15401');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN4069179520.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stivanski_log/15402" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15402');"><img class="slikagm" alt="Štivanski log" src="//slike.hribi.net/slike4/2_0389537878956_DSCN4067.JPG" /></a>
+    
+        <a target="_blank" href="/slika_gora/stivanski_log/15403" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15403');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN4061192576.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stivanski_log/15404" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15404');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN4055192576.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/stivanski_log/15405" onclick="event.preventDefault(); window.open('/slika_gora/stivanski_log/15405');"><img class="slikagm" alt="Štivanski log" src="//www.hribi.net/slike1/DSCN410217280.th.jpg" /></a>
     
 </div>
 
@@ -925,7 +942,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1691&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2743&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,9 +952,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/zazid_kavcic_mimo_lipnika/26/1691/3050">Zazid - Kavčič (mimo Lipnika)</a></td><td class="tdG"><a href="/izlet/zazid_kavcic_mimo_lipnika/26/1691/3050">2 h 30 min</a></td><td class="tdG"><a href="/izlet/zazid_kavcic_mimo_lipnika/26/1691/3050">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/rakitovec_kavcic_po_kolovozu/26/1691/5470">Rakitovec - Kavčič (po kolovozu)</a></td><td class="tdG"><a href="/izlet/rakitovec_kavcic_po_kolovozu/26/1691/5470"> 45 min</a></td><td class="tdG"><a href="/izlet/rakitovec_kavcic_po_kolovozu/26/1691/5470">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/drevesnica_stivan_stivanski_log/26/2743/6232">Drevesnica Štivan - Štivanski log</a></td><td class="tdG"><a href="/izlet/drevesnica_stivan_stivanski_log/26/2743/6232"> 20 min</a></td><td class="tdG"><a href="/izlet/drevesnica_stivan_stivanski_log/26/2743/6232">lahka neoznačena steza</a></td></tr>
 
 </table>
 

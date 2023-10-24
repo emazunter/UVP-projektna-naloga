@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Sveti Bric (Nanos)</title>
-        <meta name="description" content="Natančen opis cerkve Sveti Bric (Nanos) in vseh pristopov na Sveti Bric (Nanos). Cerkev svetega Brica (po nekaterih zapisih tudi sveti Brikcij) se nahaja južno o." />
+        <title>Šilentabor</title>
+        <meta name="description" content="Natančen opis gore Šilentabor in vseh pristopov na Šilentabor. Šilentabor je 751 m visok vrh, ki se nahaja le malo nad istoimensko vasjo. Z vrh." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1216?gorovjeid=26&amp;id=1216" id="form1">
+    <form method="post" action="./1945?gorovjeid=26&amp;id=1945" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/sveti_bric_nanos/26/1216"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1216"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/silentabor/26/1945"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1945"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Sveti Bric (Nanos)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Šilentabor
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1216);
+    gorast(1945);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Sveti Bric (Nanos)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Šilentabor</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 965&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 751&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;47,5590'N&nbsp;/&nbsp;14°&nbsp;4,1052'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;39,0120'N&nbsp;/&nbsp;14°&nbsp;12,4380'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;47'&nbsp;33,54''N&nbsp;/&nbsp;14°&nbsp;4'&nbsp;6,31''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;39'&nbsp;0,72''N&nbsp;/&nbsp;14°&nbsp;12'&nbsp;26,28''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.79265°N&nbsp;/&nbsp;14.06842°E";
+                        document.getElementById("kf0").innerHTML = "45.6502°N&nbsp;/&nbsp;14.2073°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,79265°N,&nbsp;14,06842°E";
+                    document.getElementById("kf0").innerHTML = "45,6502°N,&nbsp;14,2073°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,79265°N&nbsp;14,06842°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/sveti_bric_nanos/1216"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,6502°N&nbsp;14,2073°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/silentabor/1945"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> cerkev</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Šilentabor - Torek" href="/vreme_gora/silentabor/26/1945#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Šilentabor - Sreda" href="/vreme_gora/silentabor/26/1945#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Šilentabor - Četrtek" href="/vreme_gora/silentabor/26/1945#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Bric (Nanos) - Petek" href="/vreme_gora/sveti_bric_nanos/26/1216#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Šilentabor - Petek" href="/vreme_gora/silentabor/26/1945#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Bric (Nanos) - Sobota" href="/vreme_gora/sveti_bric_nanos/26/1216#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Bric (Nanos) - Nedelja" href="/vreme_gora/sveti_bric_nanos/26/1216#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Bric (Nanos) - Ponedeljek" href="/vreme_gora/sveti_bric_nanos/26/1216#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Sveti Bric (Nanos) - Torek" href="/vreme_gora/sveti_bric_nanos/26/1216#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Šilentabor - Sobota" href="/vreme_gora/silentabor/26/1945#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 251.410</div>
-<div class="g2"><b>Priljubljenost:</b> 64%&nbsp;(1188.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">3</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 291.534</div>
+<div class="g2"><b>Priljubljenost:</b> 68%&nbsp;(1040.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">8</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">6</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=1945" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis cerkve:</b><br />Cerkev svetega Brica (po nekaterih zapisih tudi sveti Brikcij) se nahaja južno od Suhega vrha, pod pobočji Votle stene, ki se strmo spušča z Nanoške planote. Od cerkve, pred katero je nekaj klopi, zaradi gozda, ki le to obdaja ni razgleda.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Šilentabor je 751 m visok vrh, ki se nahaja le malo nad istoimensko vasjo. Z vrha, v bližini katerega se nahaja tudi klop in vpisna skrinjica, se nam odpre lep razgled proti Vremščici, Nanosu, Pivški kotlini, grebenu Javornikov, Snežniku in hribovju nad dolino reke Reke. Žig se nahaja nekoliko pod vrhom, točneje v eni od bližnjih stanovanjskih hiš.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1216&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1945&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/maj/26/3240">Maj (1142m)</a>, <a class="moder" href="/gora/suhi_vrh_nanos/26/1215">Suhi vrh (Nanos) (1313m)</a>
+<a class="moder" href="/gora/sveti_martin_silentabor/26/1946">Sveti Martin (Šilentabor) (723m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,22 +835,35 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/cebulovica/335">Čebulovica</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/crni_vrh_nad_idrijo/24">Črni vrh nad Idrijo</a>, <a class="moder" href="/spletna_kamera/divaca/3260">Divača</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/letalisce_divaca/2203">Letališče Divača</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/nanos_plesa/2957">Nanos (Pleša)</a>, <a class="moder" href="/spletna_kamera/nart/1718">Nart</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/planina_pri_rakeku/1028">Planina pri Rakeku</a>, <a class="moder" href="/spletna_kamera/podgric/1414">Podgrič</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/razdrto/332">Razdrto</a>, <a class="moder" href="/spletna_kamera/rebrnice/1409">Rebrnice</a>, <a class="moder" href="/spletna_kamera/senozeska_brda/1423">Senožeška brda</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>
+<a class="moder" href="/spletna_kamera/ilirska_bistrica/499">Ilirska Bistrica</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/palcje/1578">Palčje</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/petelinjsko_jezero/4191">Petelinjsko jezero</a>, <a class="moder" href="/spletna_kamera/pivka/182">Pivka</a>, <a class="moder" href="/spletna_kamera/pivka/345">Pivka</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_bric_nanos%2f26%2f1216"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_bric_nanos%2f26%2f1216"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsveti_bric_nanos%2f26%2f1216"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fsilentabor%2f26%2f1945"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsilentabor%2f26%2f1945"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fsilentabor%2f26%2f1945"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/silentabor/1945" title="Šilentabor 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Silentabor.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/sveti_bric_nanos/4069" onclick="event.preventDefault(); window.open('/slika_gora/sveti_bric_nanos/4069');"><img class="slikagm" alt="Sveti Bric (Nanos)" src="//www.hribi.net/sliketemp/P31400274899634.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/silentabor/9441" onclick="event.preventDefault(); window.open('/slika_gora/silentabor/9441');"><img class="slikagm" alt="Šilentabor" src="//www.hribi.net/slike1/SilenTabor 13485800.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_bric_nanos/4070" onclick="event.preventDefault(); window.open('/slika_gora/sveti_bric_nanos/4070');"><img class="slikagm" alt="Sveti Bric (Nanos)" src="//www.hribi.net/slike1/P314002369498.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/silentabor/9442" onclick="event.preventDefault(); window.open('/slika_gora/silentabor/9442');"><img class="slikagm" alt="Šilentabor" src="//www.hribi.net/slike1/SilenTabor 16563492.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/sveti_bric_nanos/13977" onclick="event.preventDefault(); window.open('/slika_gora/sveti_bric_nanos/13977');"><img class="slikagm" alt="Sveti Bric (Nanos)" src="//slike.hribi.net/slike4/2_0631498294919_P7290196.JPG" /></a>
+        <a target="_blank" href="/slika_gora/silentabor/9443" onclick="event.preventDefault(); window.open('/slika_gora/silentabor/9443');"><img class="slikagm" alt="Šilentabor" src="//www.hribi.net/slike1/SilenTabor 16263492.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/silentabor/9444" onclick="event.preventDefault(); window.open('/slika_gora/silentabor/9444');"><img class="slikagm" alt="Šilentabor" src="//www.hribi.net/slike1/SilenTabor 15963492.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/silentabor/9445" onclick="event.preventDefault(); window.open('/slika_gora/silentabor/9445');"><img class="slikagm" alt="Šilentabor" src="//www.hribi.net/slike1/SilenTabor 15263492.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/silentabor/9446" onclick="event.preventDefault(); window.open('/slika_gora/silentabor/9446');"><img class="slikagm" alt="Šilentabor" src="//www.hribi.net/slike1/SilenTabor 22058032.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/silentabor/9452" onclick="event.preventDefault(); window.open('/slika_gora/silentabor/9452');"><img class="slikagm" alt="Šilentabor" src="//www.hribi.net/slike1/SilenTabor 34537128.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/silentabor/9453" onclick="event.preventDefault(); window.open('/slika_gora/silentabor/9453');"><img class="slikagm" alt="Šilentabor" src="//www.hribi.net/slike1/SilenTabor 36139312.th.jpg" /></a>
     
 </div>
 
@@ -914,7 +927,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1216&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1945&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -924,9 +937,17 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/strane_sveti_bric_nanos/26/1216/2032">Strane - Sveti Bric (Nanos)</a></td><td class="tdG"><a href="/izlet/strane_sveti_bric_nanos/26/1216/2032"> 45 min</a></td><td class="tdG"><a href="/izlet/strane_sveti_bric_nanos/26/1216/2032">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/pivka_silentabor/26/1945/3634">Pivka - Šilentabor</a></td><td class="tdG"><a href="/izlet/pivka_silentabor/26/1945/3634">1 h 30 min</a></td><td class="tdG"><a href="/izlet/pivka_silentabor/26/1945/3634">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/veliko_ubeljsko_sveti_bric_nanos/26/1216/5579"> Veliko Ubeljsko - Sveti Bric (Nanos)</a></td><td class="tdG"><a href="/izlet/veliko_ubeljsko_sveti_bric_nanos/26/1216/5579">1 h 30 min</a></td><td class="tdG"><a href="/izlet/veliko_ubeljsko_sveti_bric_nanos/26/1216/5579">lahka neoznačena steza</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/narin_silentabor/26/1945/3639">Narin - Šilentabor</a></td><td class="tdG"><a href="/izlet/narin_silentabor/26/1945/3639">1 h</a></td><td class="tdG"><a href="/izlet/narin_silentabor/26/1945/3639">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/sembije_silentabor_po_brkinskem_robu/26/1945/3693">Šembije - Šilentabor (po Brkinškem robu)</a></td><td class="tdG"><a href="/izlet/sembije_silentabor_po_brkinskem_robu/26/1945/3693">2 h 5 min</a></td><td class="tdG"><a href="/izlet/sembije_silentabor_po_brkinskem_robu/26/1945/3693">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/podtabor_silentabor/26/1945/3695">Podtabor - Šilentabor</a></td><td class="tdG"><a href="/izlet/podtabor_silentabor/26/1945/3695">1 h 50 min</a></td><td class="tdG"><a href="/izlet/podtabor_silentabor/26/1945/3695">lahka neoznačena steza</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zagorje_silentabor/26/1945/3636">Zagorje - Šilentabor</a></td><td class="tdG"><a href="/izlet/zagorje_silentabor/26/1945/3636"> 35 min</a></td><td class="tdG"><a href="/izlet/zagorje_silentabor/26/1945/3636">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/parje_silentabor/26/1945/3635">Parje - Šilentabor</a></td><td class="tdG"><a href="/izlet/parje_silentabor/26/1945/3635">1 h 15 min</a></td><td class="tdG"><a href="/izlet/parje_silentabor/26/1945/3635">lahka neoznačena steza</a></td></tr>
 
 </table>
 

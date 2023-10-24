@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Mišnice</title>
-        <meta name="description" content="Natančen opis gore Mišnice in vseh pristopov na Mišnice. Mišnice so manj znan vrh, ki se nahaja med Krimom in Rakitno. Z večinoma porašče." />
+        <title>Planinski dom pod Ježo</title>
+        <meta name="description" content="Natančen opis koče Planinski dom pod Ježo in vseh pristopov na Planinski dom pod Ježo. Planinski dom, nekdaj obmejna stražnica, se nahaja ob slemenski cesti, na kanals." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./2622?gorovjeid=26&amp;id=2622" id="form1">
+    <form method="post" action="./1766?gorovjeid=26&amp;id=1766" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/misnice/26/2622"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=2622"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/planinski_dom_pod_jezo/26/1766"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1766"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Mišnice
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Planinski dom pod Ježo
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(2622);
+    gorast(1766);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Mišnice</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Planinski dom pod Ježo</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 961&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 740&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;54,4860'N&nbsp;/&nbsp;14°&nbsp;28,0680'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;9,8040'N&nbsp;/&nbsp;13°&nbsp;40,1520'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;54'&nbsp;29,16''N&nbsp;/&nbsp;14°&nbsp;28'&nbsp;4,08''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;9'&nbsp;48,24''N&nbsp;/&nbsp;13°&nbsp;40'&nbsp;9,12''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.9081°N&nbsp;/&nbsp;14.4678°E";
+                        document.getElementById("kf0").innerHTML = "46.1634°N&nbsp;/&nbsp;13.6692°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,9081°N,&nbsp;14,4678°E";
+                    document.getElementById("kf0").innerHTML = "46,1634°N,&nbsp;13,6692°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,9081°N&nbsp;14,4678°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/misnice/2622"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,1634°N&nbsp;13,6692°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/planinski_dom_pod_jezo/1766"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Planinski dom pod Ježo - Torek" href="/vreme_gora/planinski_dom_pod_jezo/26/1766#To"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Planinski dom pod Ježo - Sreda" href="/vreme_gora/planinski_dom_pod_jezo/26/1766#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Planinski dom pod Ježo - Četrtek" href="/vreme_gora/planinski_dom_pod_jezo/26/1766#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Mišnice - Petek" href="/vreme_gora/misnice/26/2622#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planinski dom pod Ježo - Petek" href="/vreme_gora/planinski_dom_pod_jezo/26/1766#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Mišnice - Sobota" href="/vreme_gora/misnice/26/2622#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Mišnice - Nedelja" href="/vreme_gora/misnice/26/2622#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Mišnice - Ponedeljek" href="/vreme_gora/misnice/26/2622#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Mišnice - Torek" href="/vreme_gora/misnice/26/2622#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Planinski dom pod Ježo - Sobota" href="/vreme_gora/planinski_dom_pod_jezo/26/1766#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 4.090</div>
-<div class="g2"><b>Priljubljenost:</b> 33%&nbsp;(2189.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">1</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
+<div class="g2"><b>Ogledov:</b> 166.614</div>
+<div class="g2"><b>Priljubljenost:</b> 54%&nbsp;(1517.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">12</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Mišnice so manj znan vrh, ki se nahaja med Krimom in Rakitno. Z večinoma poraščenega vrha se nam odpre nekaj razgleda skozi krošnje dreves, sicer pa vrh ne nudi lepšega razgleda.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Planinski dom, nekdaj obmejna stražnica, se nahaja ob slemenski cesti, na kanalskem Kolovratu, na nadmorski višini 740 m, z njim upravlja Planinsko društvo Valentin Stanič Kanal. Dom ima idealno lokacijo za pohodništvo, kolesarje, motoriste kot tudi za raziskovalce ostalin prve svetovne vojne, ob nekdanji meji z Italijo. Slemenska cesta in vrhovi Kolovrata nudijo prečudovit pogled na sever prek Soške doline na Alpe, proti jugu pa preko Benečije in Matajurja na Furlansko nižino vse do morja.<br> <br> <br> <br> Podatki o kapaciteti nastanitev v Planinskem domu pod Ježo:<br> <br> Ležišča:<br> <br> skupaj 34 ležišč<br> <br> ena soba - s 4 ležišči<br> <br> skupna ležišča - 18<br> <br> skupna ležišča - 12<br> <br> Jedilnica	50 sedežev<br> <br> <br> Dostop z avtomobilom do planinske koče pod Ježo:<br> <br> - Iz Volč preko sedla Solarji do koče 12,5 km<br> <br> - Iz Ušnika preko Volčanskih rut do koče (delno makadam) 9,6 km<br> <br> - Iz Doblarja po dolini Doblarca do Pušnega, desno do koče (delno makadam) 8,5 km<br> <br> - Iz Ročinja do Kambreškega skozi Srednje do koče 12 km<br> <br> - Iz Kanala do Liga po slemenski cesti skozi Kambreško in Srednje do koče 19,5 km<br> <br> - Iz Benečije - Italija - do Livka skozi Livške ravne do koče<br> <br> - čez sedlo Solarji do koče<br> <br> <br> <br> Vzponi na okoliške vrhove od Planinskega doma pod Ježo:<br> <br> - Ježa, 949 m, 0,40 h (lahka planinska pot)<br> <br> - Očna, 906 m, 0,55 h (lahka planinska pot)<br> <br> - Deveti konfin, 930 m, 0.40 h (lahka planinska pot)<br> <br> - Bukova ježa, 958 m, 1.15 h (lahka planinska pot)<br> <br> - Platena, 1038 m, 1.00 h (lahka planinska pot)<br> <br> - Na gradu/Monte Poclabuz, 1114 m, 2.00 h (lahka planinska pot)<br> <br> - ali prijeten sprehod do tolmunov reke Idrije, do soteske Doblarca ter do številnih razgledišč nad smaragdno Sočo.<br> <br> Od leta 2020 poteka mimo našega Planinskega doma pod Ježo tudi Julijana Trail, vabljeni:<br> <br> <a target=# class=moder href=https://www.tic-kanal.si/pohodnistvo/2020100911113341/juliana_trail__17_etapa?fbclid=IwAR3_VXgD8cpZ8FLqBKVV_IH0pMHRWKn_fXoFS7mUHFZDr0JcNQ4nwhm5pEw>https://www.tic-kanal.si/pohodnistvo/2020100911113341/juliana_trail__17_etapa?fbclid=IwAR3_VXgD8cpZ8FLqBKVV_IH0pMHRWKn_fXoFS7mUHFZDr0JcNQ4nwhm5pEw</a><br> <br> <a target=# class=moder href=https://www.tic-kanal.si/pohodnistvo/2020100911573295/Juliana%20trail%20-%2018.%20etapa?fbclid=IwAR1hK8sFnk1xUKO0-RvuPy5ba1FWopB1XJ_EQxMt9toCJoYjJ3ljs6JITFw>https://www.tic-kanal.si/pohodnistvo/2020100911573295/Juliana%20trail%20-%2018.%20etapa?fbclid=IwAR1hK8sFnk1xUKO0-RvuPy5ba1FWopB1XJ_EQxMt9toCJoYjJ3ljs6JITFw</a><br> <br> <br> <br> Dom bo predvidoma odprt v sezoni ob vikendih, v ponudbi načrtujemo tudi druge možnosti koriščenja, kot so planinski tabori, izobraževanja in druge dejavnosti povezane s planinstvom, rekreacijo in športom.<br> <br> Za večje organizirane skupine predhodna najava in rezervacije.<br> <br> <br> <br> Kontakt na telefonsko številko koče – 051 320 284 in 041 220 274 na gmail – pdvs.kanal@gmail.com<br> <br> več info o Planinskem domu pod Ježo tudi na Fb strani:<br> <br> <a target=# class=moder href=https://www.facebook.com/Dom-pod-Je%C5%BEo-101571645151410>https://www.facebook.com/Dom-pod-Je%C5%BEo-101571645151410</a></div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=2622&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1766&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/partizanska_bolnica_krvavice/26/1390">Partizanska bolnica Krvavice (620m)</a>, <a class="moder" href="/gora/rotovc/26/1673">Rotovc (964m)</a>, <a class="moder" href="/gora/zupanov_vrh/26/2342">Županov vrh (999m)</a>
+<a class="moder" href="/gora/deveti_konfin/26/1765">Deveti konfin (930m)</a>, <a class="moder" href="/gora/jeza/26/1763">Ježa (949m)</a>, <a class="moder" href="/gora/ocna/26/1764">Očna (906m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,18 +835,43 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunje_pri_cerknici/1468">Begunje pri Cerknici</a>, <a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_borovnici/3389">Brezovica pri Borovnici</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/debeli_hrib/422">Debeli hrib</a>, <a class="moder" href="/spletna_kamera/dom_na_slivnici/4182">Dom na Slivnici</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/jezero/1774">Jezero</a>, <a class="moder" href="/spletna_kamera/krim/489">Krim</a>, <a class="moder" href="/spletna_kamera/lavrica/3607">Lavrica</a>, <a class="moder" href="/spletna_kamera/ljubljana_izanska_cesta/1963">Ljubljana (Ižanska cesta)</a>, <a class="moder" href="/spletna_kamera/ljubljana_kongresni_trg/297">Ljubljana (Kongresni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_barje/458">Ljubljana Barje</a>, <a class="moder" href="/spletna_kamera/ljubljana_golovec/463">Ljubljana Golovec</a>, <a class="moder" href="/spletna_kamera/ljubljana_jug/457">Ljubljana jug</a>, <a class="moder" href="/spletna_kamera/ljubljana_kozarje/467">Ljubljana Kozarje</a>, <a class="moder" href="/spletna_kamera/ljubljana_malence/455">Ljubljana Malence</a>, <a class="moder" href="/spletna_kamera/ljubljana_rudnik/1759">Ljubljana Rudnik</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/mali_vrh/425">Mali vrh</a>, <a class="moder" href="/spletna_kamera/orle/4000">Orle</a>, <a class="moder" href="/spletna_kamera/pijava_gorica/454">Pijava Gorica</a>, <a class="moder" href="/spletna_kamera/podpec/1598">Podpeč</a>, <a class="moder" href="/spletna_kamera/rakitna/1823">Rakitna</a>, <a class="moder" href="/spletna_kamera/reber/427">Reber</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/skofljica/3606">Škofljica</a>, <a class="moder" href="/spletna_kamera/verd/324">Verd</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/vrhniski_klanec/325">Vrhniški klanec</a>
+<a class="moder" href="/spletna_kamera/deskle/2025">Deskle</a>, <a class="moder" href="/spletna_kamera/dreka___drenchia/3500">Dreka / Drenchia</a>, <a class="moder" href="/spletna_kamera/italijanska_kostnica_nad_kobaridom/4952">Italijanska kostnica nad Kobaridom</a>, <a class="moder" href="/spletna_kamera/kanal_ob_soci_kanalski_most/4326">Kanal ob Soči (Kanalski most)</a>, <a class="moder" href="/spletna_kamera/kobarid/500">Kobarid</a>, <a class="moder" href="/spletna_kamera/koca_na_planini_kuhinja/3576">Koča na planini Kuhinja</a>, <a class="moder" href="/spletna_kamera/korada/2146">Korada</a>, <a class="moder" href="/spletna_kamera/kuk_kolovrat/4408">Kuk (Kolovrat)</a>, <a class="moder" href="/spletna_kamera/morsko/3648">Morsko</a>, <a class="moder" href="/spletna_kamera/most_na_soci/1677">Most na Soči</a>, <a class="moder" href="/spletna_kamera/okroglo/1876">Okroglo</a>, <a class="moder" href="/spletna_kamera/ravna_pri_ligu/1589">Ravna pri Ligu</a>, <a class="moder" href="/spletna_kamera/robic/1781">Robič</a>, <a class="moder" href="/spletna_kamera/tolmin/1775">Tolmin</a>, <a class="moder" href="/spletna_kamera/tolminski_lom/4094">Tolminski Lom</a>, <a class="moder" href="/spletna_kamera/volce/2336">Volče</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fmisnice%2f26%2f2622"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmisnice%2f26%2f2622"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fmisnice%2f26%2f2622"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_pod_jezo%2f26%2f1766"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_pod_jezo%2f26%2f1766"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplaninski_dom_pod_jezo%2f26%2f1766"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/planinski_dom_pod_jezo/1766" title="Planinski dom pod Ježo 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.PlaninskiDomPodJezo.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/misnice/14501" onclick="event.preventDefault(); window.open('/slika_gora/misnice/14501');"><img class="slikagm" alt="Mišnice" src="//slike.hribi.net/slike4/2_0820516090852_DSCN6286.JPG" /></a>
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/7913" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/7913');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//www.hribi.net/slike1/Jeza 20784150.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/7914" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/7914');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//www.hribi.net/slike1/Jeza 20384150.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/7915" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/7915');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//www.hribi.net/slike1/Jeza 20584150.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/7916" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/7916');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//www.hribi.net/slike1/Jeza 211185130.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/7917" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/7917');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//www.hribi.net/slike1/Jeza 219185130.th.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/21185" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/21185');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//slike2.hribi.net/slike14/2_012712433944_6_612.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/21186" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/21186');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//slike2.hribi.net/slike14/2_1222712433945_5_868.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/21187" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/21187');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//slike2.hribi.net/slike14/2_2312712433946_0co.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/21188" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/21188');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//slike2.hribi.net/slike14/2_3827712433946_16.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/21189" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/21189');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//slike2.hribi.net/slike14/2_472712433947_420220420_113549_hdr.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/21190" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/21190');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//slike2.hribi.net/slike14/2_5556712433947_2si.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/planinski_dom_pod_jezo/21191" onclick="event.preventDefault(); window.open('/slika_gora/planinski_dom_pod_jezo/21191');"><img class="slikagm" alt="Planinski dom pod Ježo" src="//slike2.hribi.net/slike14/2_6515712433948_3fo.jpg" /></a>
     
 </div>
 
@@ -910,7 +935,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=2622&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1766&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -920,9 +945,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/brancljeva_senozet_misnice/26/2622/5880">Brancljeva senožet - Mišnice</a></td><td class="tdG"><a href="/izlet/brancljeva_senozet_misnice/26/2622/5880"> 20 min</a></td><td class="tdG"><a href="/izlet/brancljeva_senozet_misnice/26/2622/5880">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/zamlake_misnice/26/2622/5881">Zamlake - Mišnice</a></td><td class="tdG"><a href="/izlet/zamlake_misnice/26/2622/5881"> 20 min</a></td><td class="tdG"><a href="/izlet/zamlake_misnice/26/2622/5881">lahka neoznačena steza</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/solarji_planinski_dom_pod_jezo/26/1766/3208">Solarji - Planinski dom pod Ježo</a></td><td class="tdG"><a href="/izlet/solarji_planinski_dom_pod_jezo/26/1766/3208">1 h 5 min</a></td><td class="tdG"><a href="/izlet/solarji_planinski_dom_pod_jezo/26/1766/3208">lahka označena pot</a></td></tr>
 
 </table>
 

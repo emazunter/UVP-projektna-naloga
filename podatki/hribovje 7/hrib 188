@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Kozice</title>
-        <meta name="description" content="Natančen opis gore Kozice in vseh pristopov na Kozice. Kozice so vrh 741 metrov visok vrh z RTV oddajnikom, ki se nahaja nad levim breg." />
+        <title>Grad Podsreda</title>
+        <meta name="description" content="Natančen opis gore Grad Podsreda in vseh pristopov na Grad Podsreda. Grad Podsreda (prvotno nemško ime Hörberg oz. Herberch) upravljalec (Kozjanski p." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./3325?gorovjeid=25&amp;id=3325" id="form1">
+    <form method="post" action="./3458?gorovjeid=25&amp;id=3458" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/kozice/25/3325"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3325"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/podsreda_castle/25/3458"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=25&id=3458"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Kozice
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a> / Grad Podsreda
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(3325);
+    gorast(3458);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Kozice</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Grad Podsreda</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/posavsko_hribovje_in_dolenjska/25">Posavsko hribovje in Dolenjska</a></div>
-    <div class="g2"><b>Višina:</b> 741&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 475&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;29,9166'N&nbsp;/&nbsp;15°&nbsp;2,2206'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;1,6830'N&nbsp;/&nbsp;15°&nbsp;35,3964'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;29'&nbsp;55,00''N&nbsp;/&nbsp;15°&nbsp;2'&nbsp;13,24''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;1'&nbsp;40,98''N&nbsp;/&nbsp;15°&nbsp;35'&nbsp;23,78''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.49861°N&nbsp;/&nbsp;15.03701°E";
+                        document.getElementById("kf0").innerHTML = "46.02805°N&nbsp;/&nbsp;15.58994°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,49861°N,&nbsp;15,03701°E";
+                    document.getElementById("kf0").innerHTML = "46,02805°N,&nbsp;15,58994°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,49861°N&nbsp;15,03701°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/kozice/3325"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,02805°N&nbsp;15,58994°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/grad_podsreda/3458"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> </div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Podsreda - Torek" href="/vreme_gora/grad_podsreda/25/3458#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Podsreda - Sreda" href="/vreme_gora/grad_podsreda/25/3458#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_1_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Podsreda - Četrtek" href="/vreme_gora/grad_podsreda/25/3458#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Kozice - Petek" href="/vreme_gora/kozice/25/3325#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Podsreda - Petek" href="/vreme_gora/grad_podsreda/25/3458#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Kozice - Sobota" href="/vreme_gora/kozice/25/3325#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Kozice - Nedelja" href="/vreme_gora/kozice/25/3325#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Kozice - Ponedeljek" href="/vreme_gora/kozice/25/3325#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Kozice - Torek" href="/vreme_gora/kozice/25/3325#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Grad Podsreda - Sobota" href="/vreme_gora/grad_podsreda/25/3458#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,11 +743,11 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 5.980</div>
-<div class="g2"><b>Priljubljenost:</b> 36%&nbsp;(2111.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Ogledov:</b> 766</div>
+<div class="g2"><b>Priljubljenost:</b> 19%&nbsp;(2666.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
 
     </div>
 
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Kozice so vrh 741 metrov visok vrh z RTV oddajnikom, ki se nahaja nad levim bregom reke Kolpe. Z razgledišča na južnem predvrhu, kjer se nahaja tudi lepa iz doline vidna klop, se nam odpre lep pogled na Poljansko dolino ob Kolpi in nekaj vasi ob reki Kolpi.<br>Vpisna skrinjica se nahaja pri RTV stolpu, do kamor se je možno pripeljati tudi z avtomobilom po gozdni cesti.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Grad Podsreda (prvotno nemško ime Hörberg oz. Herberch) upravljalec (Kozjanski park) promovira kot "najbolj grajskega med slovenskimi gradovi". Njegovi začetki segajo najverjetneje že v 12. stoletje, zagotovo pa je stal že leta 1213, ko je v pisnih virih prvič omenjen. Skozi zgodovino je zamenjal kar nekaj lastnikov (mdr. Celjski gofje, Habsburžani... in na koncu Windischgrätzi, pod katerimi je dobil današnjo podobo), dokler ga po koncu 2. sv. vojne niso podržavili. Leta 1983 je upravljanje prevzel Spominski park Trebče, pravni predhodnik današnjega Kozjanskega parka, in takoj pričel s sistematično obnovo. Danes je v gradu več stalnih in začasnih razstav, v zahdnem traktu pa je urejen hotel.<br> <br> Grad leži na severnem pobočju Orlice, približnp 130 metrov nad samo Podsredo. Iz Podsrede ga je mogoče doseči peš po Grajski poti ali po cesti mimo Železnega. Mimo gradu mdr. vodijo Evropska pešpot E7 (odsek med Svetimi gorami in Pečinami), Zasavska planinska pot itd.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3325&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=3458&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/stara_sveta_gora/25/3459">Stara sveta gora (386m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,30 +835,26 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/colnarji/451">Colnarji</a>, <a class="moder" href="/spletna_kamera/doblicka_gora/1734">Doblička Gora</a>, <a class="moder" href="/spletna_kamera/domacija_lobic_grgelj/4358">Domačija Lobič (Grgelj)</a>, <a class="moder" href="/spletna_kamera/dragatus/1074">Dragatuš</a>, <a class="moder" href="/spletna_kamera/grad_kostel/4361">Grad Kostel</a>, <a class="moder" href="/spletna_kamera/novo_mesto/2205">Novo mesto</a>, <a class="moder" href="/spletna_kamera/skrad_zeleni_vir/3449">Skrad (Zeleni vir)</a>
+<a class="moder" href="/spletna_kamera/bizeljska_vas/2069">Bizeljska vas</a>, <a class="moder" href="/spletna_kamera/brezice_he_brezice/3347">Brežice (HE Brežice)</a>, <a class="moder" href="/spletna_kamera/brezice_reka_sava/4271">Brežice (reka Sava)</a>, <a class="moder" href="/spletna_kamera/koca_na_bohorju/3373">Koča na Bohorju</a>, <a class="moder" href="/spletna_kamera/krska_vas/1444">Krška vas</a>, <a class="moder" href="/spletna_kamera/krsko/3271">Krško</a>, <a class="moder" href="/spletna_kamera/leskovec_pri_krskem/1025">Leskovec pri Krškem</a>, <a class="moder" href="/spletna_kamera/naravni_park_jovsi_brezice/4303">Naravni park Jovsi (Brežice)</a>, <a class="moder" href="/spletna_kamera/podcetrtek/2415">Podčetrtek</a>, <a class="moder" href="/spletna_kamera/poklek_pri_podsredi/4946">Poklek pri Podsredi</a>, <a class="moder" href="/spletna_kamera/senovo/3588">Senovo</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fkozice%2f25%2f3325"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkozice%2f25%2f3325"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fkozice%2f25%2f3325"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_podsreda%2f25%2f3458"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_podsreda%2f25%2f3458"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fgrad_podsreda%2f25%2f3458"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/kozice/19753" onclick="event.preventDefault(); window.open('/slika_gora/kozice/19753');"><img class="slikagm" alt="Kozice" src="//slike.hribi.net/slike4/2_0846657377672_DSCN9613.JPG" /></a>
+        <a target="_blank" href="/slika_gora/grad_podsreda/20571" onclick="event.preventDefault(); window.open('/slika_gora/grad_podsreda/20571');"><img class="slikagm" alt="Grad Podsreda" src="//slike2.hribi.net/slike016/2_0207690839034_DSC_0812.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kozice/19754" onclick="event.preventDefault(); window.open('/slika_gora/kozice/19754');"><img class="slikagm" alt="Kozice" src="//slike.hribi.net/slike4/2_0652657377121_DSCN9587.JPG" /></a>
+        <a target="_blank" href="/slika_gora/grad_podsreda/20572" onclick="event.preventDefault(); window.open('/slika_gora/grad_podsreda/20572');"><img class="slikagm" alt="Grad Podsreda" src="//slike2.hribi.net/slike016/2_0814690839105_DSC_0795.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kozice/19755" onclick="event.preventDefault(); window.open('/slika_gora/kozice/19755');"><img class="slikagm" alt="Kozice" src="//slike.hribi.net/slike4/2_0837657375678_DSCN9531.JPG" /></a>
+        <a target="_blank" href="/slika_gora/grad_podsreda/20573" onclick="event.preventDefault(); window.open('/slika_gora/grad_podsreda/20573');"><img class="slikagm" alt="Grad Podsreda" src="//slike2.hribi.net/slike016/2_0600690839281_DSC_0788.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kozice/19756" onclick="event.preventDefault(); window.open('/slika_gora/kozice/19756');"><img class="slikagm" alt="Kozice" src="//slike.hribi.net/slike4/2_1232656235161_DSCN9592.JPG" /></a>
+        <a target="_blank" href="/slika_gora/grad_podsreda/20574" onclick="event.preventDefault(); window.open('/slika_gora/grad_podsreda/20574');"><img class="slikagm" alt="Grad Podsreda" src="//slike2.hribi.net/slike016/2_0446690839348_DSC_0785.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/kozice/19757" onclick="event.preventDefault(); window.open('/slika_gora/kozice/19757');"><img class="slikagm" alt="Kozice" src="//slike.hribi.net/slike4/2_0398656235158_DSCN9591.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kozice/19758" onclick="event.preventDefault(); window.open('/slika_gora/kozice/19758');"><img class="slikagm" alt="Kozice" src="//slike.hribi.net/slike4/2_1206657461758_DSCN9999.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/kozice/19759" onclick="event.preventDefault(); window.open('/slika_gora/kozice/19759');"><img class="slikagm" alt="Kozice" src="//slike.hribi.net/slike4/2_0427657461755_DSCN9994.JPG" /></a>
+        <a target="_blank" href="/slika_gora/grad_podsreda/20575" onclick="event.preventDefault(); window.open('/slika_gora/grad_podsreda/20575');"><img class="slikagm" alt="Grad Podsreda" src="//slike2.hribi.net/slike016/2_0228690839435_DSC_0786.JPG" /></a>
     
 </div>
 
@@ -922,7 +918,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3325&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=3458&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -932,9 +928,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/predgrad_kozice/25/3325/7921">Predgrad - Kozice</a></td><td class="tdG"><a href="/izlet/predgrad_kozice/25/3325/7921">1 h 15 min</a></td><td class="tdG"><a href="/izlet/predgrad_kozice/25/3325/7921">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/predgrad_kozice_po_cesti/25/3325/7922">Predgrad - Kozice (po cesti)</a></td><td class="tdG"><a href="/izlet/predgrad_kozice_po_cesti/25/3325/7922">1 h 30 min</a></td><td class="tdG"><a href="/izlet/predgrad_kozice_po_cesti/25/3325/7922">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/podsreda_grad_podsreda_grajska_pot/25/3458/8337">Podsreda - Grad Podsreda (Grajska pot)</a></td><td class="tdG"><a href="/izlet/podsreda_grad_podsreda_grajska_pot/25/3458/8337"> 40 min</a></td><td class="tdG"><a href="/izlet/podsreda_grad_podsreda_grajska_pot/25/3458/8337">lahka označena pot</a></td></tr>
 
 </table>
 

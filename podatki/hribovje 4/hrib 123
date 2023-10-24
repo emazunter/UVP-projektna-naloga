@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Pristovški Storžič / Kärntner Storschitz</title>
-        <meta name="description" content="Natančen opis gore Pristovški Storžič / Kärntner Storschitz in vseh pristopov na Pristovški Storžič / Kärntner Storschitz. Pristovški Storžič je izredno razgleden vrh nad Jezerskim. Z njega imamo lep pog." />
+        <title>Rekaršica</title>
+        <meta name="description" content="Natančen opis sedla Rekaršica in vseh pristopov na Rekaršica. Sedlo Rekaršica (na zemljevidu Kranjske Gore označeno Rekaršca) se nahaja med Je." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./680?gorovjeid=11&amp;id=680" id="form1">
+    <form method="post" action="./1257?gorovjeid=11&amp;id=1257" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/karntner_storschitz___pristovski_storzic/11/680"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=680"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rekarsica/11/1257"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1257"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Pristovški Storžič / Kärntner Storschitz
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Rekaršica
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(680);
+    gorast(1257);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Pristovški Storžič / Kärntner Storschitz</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Rekaršica</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1759&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1554&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;25,8792'N&nbsp;/&nbsp;14°&nbsp;31,5294'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;30,9780'N&nbsp;/&nbsp;13°&nbsp;46,3872'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;25'&nbsp;52,75''N&nbsp;/&nbsp;14°&nbsp;31'&nbsp;31,76''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;30'&nbsp;58,68''N&nbsp;/&nbsp;13°&nbsp;46'&nbsp;23,23''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.43132°N&nbsp;/&nbsp;14.52549°E";
+                        document.getElementById("kf0").innerHTML = "46.5163°N&nbsp;/&nbsp;13.77312°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,43132°N,&nbsp;14,52549°E";
+                    document.getElementById("kf0").innerHTML = "46,5163°N,&nbsp;13,77312°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,43132°N&nbsp;14,52549°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/pristovski_storzic___karntner_storschitz/680"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,5163°N&nbsp;13,77312°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rekarsica/1257"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> sedlo</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Rekaršica - Torek" href="/vreme_gora/rekarsica/11/1257#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Rekaršica - Sreda" href="/vreme_gora/rekarsica/11/1257#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Rekaršica - Četrtek" href="/vreme_gora/rekarsica/11/1257#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Pristovški Storžič / Kärntner Storschitz - Petek" href="/vreme_gora/pristovski_storzic___karntner_storschitz/11/680#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Rekaršica - Petek" href="/vreme_gora/rekarsica/11/1257#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Pristovški Storžič / Kärntner Storschitz - Sobota" href="/vreme_gora/pristovski_storzic___karntner_storschitz/11/680#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Pristovški Storžič / Kärntner Storschitz - Nedelja" href="/vreme_gora/pristovski_storzic___karntner_storschitz/11/680#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Pristovški Storžič / Kärntner Storschitz - Ponedeljek" href="/vreme_gora/pristovski_storzic___karntner_storschitz/11/680#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Pristovški Storžič / Kärntner Storschitz - Torek" href="/vreme_gora/pristovski_storzic___karntner_storschitz/11/680#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Rekaršica - Sobota" href="/vreme_gora/rekarsica/11/1257#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_1_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 557.208</div>
-<div class="g2"><b>Priljubljenost:</b> 94%&nbsp;(197.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">19</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Ogledov:</b> 191.255</div>
+<div class="g2"><b>Priljubljenost:</b> 57%&nbsp;(1424.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">2</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=680" title="Število vpisov v vpisni knjigi">5</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Pristovški Storžič je izredno razgleden vrh nad Jezerskim. Z njega imamo lep pogled na severna ostenja Grintovcev preko Košute do Julijskih Alp. Na vrhu je železen križ z napisom: Koroška - svobodna in nerazdeljena, ki je bil postavljen ob 42. obletnici koroškega plebiscita.</div>
+<div style="padding-top:10px;"><b>Opis sedla:</b><br />Sedlo Rekaršica (na zemljevidu Kranjske Gore označeno Rekaršca) se nahaja med Jerebikovcem (1621 m) in Kamnatim vrhom (1658 m). Na avstrijski strani sedla se nahaja manjša pastirska koča in ob njej prijetna klop z mizo. <br>Za razgled se moramo nekoliko povzpeti po gozdni cesti, s katere se nam nato odpre lep pogled proti Jalovcu, Poncam in Mangartu.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=680&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1257&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-
+<a class="moder" href="/gora/jerebikovec/11/1259">Jerebikovec (1621m)</a>, <a class="moder" href="/gora/kamnati_vrh/11/1258">Kamnati vrh (1658m)</a>, <a class="moder" href="/gora/visoka_bavha/11/2438">Visoka Bavha (1650m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,67 +835,29 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/logarska_dolina/2410">Logarska dolina</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/rzenik_in_konj/156">Rzenik in Konj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelezna_kapla___bad_eisenkappel/1730">Železna Kapla / Bad Eisenkappel</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/basko_jezero___faakersee/253">Baško jezero / Faakersee</a>, <a class="moder" href="/spletna_kamera/beljak___villach/254">Beljak / Villach</a>, <a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/dobrac_dobratsch/170">Dobrač/Dobratsch</a>, <a class="moder" href="/spletna_kamera/dovje/1075">Dovje</a>, <a class="moder" href="/spletna_kamera/dovje_apartmaji_triglav/3458">Dovje (apartmaji Triglav)</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/kepa/219">Kepa</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/mojstrana/2182">Mojstrana</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/trenta/1729">Trenta</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpristovski_storzic___karntner_storschitz%2f11%2f680"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpristovski_storzic___karntner_storschitz%2f11%2f680"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpristovski_storzic___karntner_storschitz%2f11%2f680"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frekarsica%2f11%2f1257"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frekarsica%2f11%2f1257"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frekarsica%2f11%2f1257"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/pristovski_storzic___karntner_storschitz/680" title="Pristovški Storžič / Kärntner Storschitz 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.P.Storzic.jpg" /></a></div>
+<div><a href="/panorama/360/rekarsica/1257" title="Rekaršica 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Rekarsica.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/2140" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/2140');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/sliketemp/sssssssss4090928.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rekarsica/4298" onclick="event.preventDefault(); window.open('/slika_gora/rekarsica/4298');"><img class="slikagm" alt="Rekaršica" src="//www.hribi.net/sliketemp/P51700984991918.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/3141" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/3141');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/sliketemp/P60103394486273.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/3142" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/3142');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/P60103844503787.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/3143" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/3143');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/P60102844503800.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/3144" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/3144');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/P6010341378000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/7659" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/7659');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/Turni 342129789.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/7661" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/7661');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/Turni 264259578.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/7671" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/7671');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/Turni 422150150.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/9199" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/9199');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//slike.hribi.net/sliketemp/PristovskiStorzic%201836303763.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/9200" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/9200');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/PristovskiStorzic 170527076.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/9201" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/9201');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//slike.hribi.net/sliketemp/PristovskiStorzic%202516303766.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/9202" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/9202');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/PristovskiStorzic 20252272.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/14227" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/14227');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//slike.hribi.net/slike4/2_0493506415719_DSCN8979.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/14228" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/14228');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//slike.hribi.net/slike4/2_124506415721_DSCN8994.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/14229" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/14229');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/DSCN9000230400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/14626" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/14626');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/DSCN8433718848.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/14688" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/14688');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//slike.hribi.net/slike4/2_1671522052009_DSCN0063.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/14689" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/14689');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//www.hribi.net/slike1/DSCN99972008800.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/pristovski_storzic___karntner_storschitz/14691" onclick="event.preventDefault(); window.open('/slika_gora/pristovski_storzic___karntner_storschitz/14691');"><img class="slikagm" alt="Pristovški Storžič / Kärntner Storschitz" src="//slike.hribi.net/slike4/2_0204522051608_DSCN9907.JPG" /></a>
+        <a target="_blank" href="/slika_gora/rekarsica/4299" onclick="event.preventDefault(); window.open('/slika_gora/rekarsica/4299');"><img class="slikagm" alt="Rekaršica" src="//www.hribi.net/slike1/P5170100751680.th.jpg" /></a>
     
 </div>
 
 
 
-<div style="padding-top:8px;"><b>Video:</b></div><div>
-        <a target="_blank" href="/video_posnetek/Smučanje/pristovski_storzic_3122017/1/849"><img class="slikagmv" alt="Pristovški Storžič, 3.12.2017" src="https://img.youtube.com/vi/J_Cp1xMXVjA/0.jpg" /></a>
-    
-        <a target="_blank" href="/video_posnetek/Gorništvo/pristovski_storzic_karntner_storschitz_1759m/3/312"><img class="slikagmv" alt="Pristovški Storžič (Kärntner Storschitz) 1759m" src="https://img.youtube.com/vi/ohSCfXQWKEM/0.jpg" /></a>
-    </div>
+
 <script>
 var sortT = 0;
         function sortiraj(id) {
@@ -953,7 +915,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=680&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1257&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -963,13 +925,9 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/jezerski_vrh_pristovski_storzic___karntner_storschitz_kranjska_pot___krainersteig/11/680/1658">Jezerski vrh - Pristovški Storžič / Kärntner Storschitz (Kranjska pot / Krainersteig)</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_pristovski_storzic___karntner_storschitz_kranjska_pot___krainersteig/11/680/1658">1 h 30 min</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_pristovski_storzic___karntner_storschitz_kranjska_pot___krainersteig/11/680/1658">zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/korensko_sedlo_rekarsica_po_cesti/11/1257/2110">Korensko sedlo - Rekaršica (po cesti)</a></td><td class="tdG"><a href="/izlet/korensko_sedlo_rekarsica_po_cesti/11/1257/2110">1 h 40 min</a></td><td class="tdG"><a href="/izlet/korensko_sedlo_rekarsica_po_cesti/11/1257/2110">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/jezerski_vrh_pristovski_storzic___karntner_storschitz/11/680/1659">Jezerski vrh - Pristovški Storžič / Kärntner Storschitz</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_pristovski_storzic___karntner_storschitz/11/680/1659">1 h 50 min</a></td><td class="tdG"><a href="/izlet/jezerski_vrh_pristovski_storzic___karntner_storschitz/11/680/1659">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/bela___bad_vellach_pristovski_storzic___karntner_storschitz/11/680/3558">Bela / Bad Vellach - Pristovški Storžič / Kärntner Storschitz</a></td><td class="tdG"><a href="/izlet/bela___bad_vellach_pristovski_storzic___karntner_storschitz/11/680/3558">2 h 30 min</a></td><td class="tdG"><a href="/izlet/bela___bad_vellach_pristovski_storzic___karntner_storschitz/11/680/3558">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/korte___trogern_pristovski_storzic___karntner_storschitz/11/680/3557">Korte / Trögern - Pristovški Storžič / Kärntner Storschitz</a></td><td class="tdG"><a href="/izlet/korte___trogern_pristovski_storzic___karntner_storschitz/11/680/3557">2 h</a></td><td class="tdG"><a href="/izlet/korte___trogern_pristovski_storzic___karntner_storschitz/11/680/3557">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/korensko_sedlo_rekarsica_cez_jerebikovec/11/1257/2111">Korensko sedlo - Rekaršica (čez Jerebikovec)</a></td><td class="tdG"><a href="/izlet/korensko_sedlo_rekarsica_cez_jerebikovec/11/1257/2111">1 h 40 min</a></td><td class="tdG"><a href="/izlet/korensko_sedlo_rekarsica_cez_jerebikovec/11/1257/2111">lahka neoznačena steza</a></td></tr>
 
 </table>
 

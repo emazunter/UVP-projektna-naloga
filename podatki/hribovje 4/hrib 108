@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Lokovnikov Grintovec / Grintoutz</title>
-        <meta name="description" content="Natančen opis gore Lokovnikov Grintovec / Grintoutz in vseh pristopov na Lokovnikov Grintovec / Grintoutz. Lokovnikov Grintovec je z ruševjem porasel vrh severno od Košutice, od katere jo." />
+        <title>Ruš</title>
+        <meta name="description" content="Natančen opis gore Ruš in vseh pristopov na Ruš. Ruš je manj znan vrh, ki se nahaja severovzhodno od nekoliko višjega Stegovnika.." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1585?gorovjeid=11&amp;id=1585" id="form1">
+    <form method="post" action="./1926?gorovjeid=11&amp;id=1926" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/lokovnikov_grintovec___grintoutz/11/1585"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1585"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/rus/11/1926"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1926"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Lokovnikov Grintovec / Grintoutz
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Ruš
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1585);
+    gorast(1926);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Lokovnikov Grintovec / Grintoutz</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Ruš</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a>, <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1809&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1614&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;26,7282'N&nbsp;/&nbsp;14°&nbsp;18,0060'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;24,120'N&nbsp;/&nbsp;14°&nbsp;26,1900'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;26'&nbsp;43,69''N&nbsp;/&nbsp;14°&nbsp;18'&nbsp;0,36''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;24'&nbsp;7,20''N&nbsp;/&nbsp;14°&nbsp;26'&nbsp;11,40''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.44547°N&nbsp;/&nbsp;14.3001°E";
+                        document.getElementById("kf0").innerHTML = "46.402°N&nbsp;/&nbsp;14.4365°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,44547°N,&nbsp;14,3001°E";
+                    document.getElementById("kf0").innerHTML = "46,402°N,&nbsp;14,4365°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,44547°N&nbsp;14,3001°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/lokovnikov_grintovec___grintoutz/1585"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,402°N&nbsp;14,4365°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/rus/1926"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Ruš - Torek" href="/vreme_gora/rus/11/1926#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Ruš - Sreda" href="/vreme_gora/rus/11/1926#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Ruš - Četrtek" href="/vreme_gora/rus/11/1926#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Lokovnikov Grintovec / Grintoutz - Petek" href="/vreme_gora/lokovnikov_grintovec___grintoutz/11/1585#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/4_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ruš - Petek" href="/vreme_gora/rus/11/1926#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Lokovnikov Grintovec / Grintoutz - Sobota" href="/vreme_gora/lokovnikov_grintovec___grintoutz/11/1585#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Lokovnikov Grintovec / Grintoutz - Nedelja" href="/vreme_gora/lokovnikov_grintovec___grintoutz/11/1585#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Lokovnikov Grintovec / Grintoutz - Ponedeljek" href="/vreme_gora/lokovnikov_grintovec___grintoutz/11/1585#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Lokovnikov Grintovec / Grintoutz - Torek" href="/vreme_gora/lokovnikov_grintovec___grintoutz/11/1585#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Ruš - Sobota" href="/vreme_gora/rus/11/1926#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,10 +743,10 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 341.970</div>
-<div class="g2"><b>Priljubljenost:</b> 74%&nbsp;(848.&nbsp;mesto)</div>
+<div class="g2"><b>Ogledov:</b> 195.630</div>
+<div class="g2"><b>Priljubljenost:</b> 57%&nbsp;(1404.&nbsp;mesto)</div>
 <div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
 <div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
 
     </div>
@@ -755,7 +755,7 @@ function prijavaG() {
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Lokovnikov Grintovec je z ruševjem porasel vrh severno od Košutice, od katere jo loči Dovjakovo sedlo (1728 m). Njegovo jugozahodno in zahodno pobočje obdaja prostrana Dovjakova planina, medtem ko proti Hajnževemu grabnu pada s strmimi travami in melišči. Na vzhodu ga manjše Majerjevo sedelce (1625 m) povezuje z gozdnatim Praprotnikom / Zeller Praprotnik, 1727 m, kjer se razprostirata Majerjeva in Lokovnikova planina (1543 m). Njegova severna pobočja se strmo spuščajo proti Petrovcu / Petrouz, 1506 m. Vrh je precej redko obiskan, o čemer pričajo  z gostim ruševjem skoraj zarasla stezica in ponekod že skoraj zbledele markacije. Redek obisk je navsezadnje nerazumljiv, kajti velja za izredno razgleden vrh. Prav razgled pa je nemara še lepši kot s sosednje in nekoliko višje Košutice.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Ruš je manj znan vrh, ki se nahaja severovzhodno od nekoliko višjega Stegovnika. Z vrha, na katerem se nahaja vpisna skrinjica, se nam odpre lep razgled na greben Košute, Obir, osrednje Kamniško Savinjske Alpe, Bukovec, Kozji vrh, Storžič ter ob lepem vremenu vse do Julijskih Alp.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1585&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1926&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/hajnzev_praprotnik___zeller_prapotnik/11/2834">Hajnžev Praprotnik / Zeller Prapotnik (1727m)</a>, <a class="moder" href="/gora/hajnzevo_sedlo/11/1061">Hajnževo sedlo (1701m)</a>, <a class="moder" href="/gora/kosutica/11/72">Košutica (1968m)</a>, <a class="moder" href="/gora/planina_korosica/11/71">Planina Korošica (1554m)</a>, <a class="moder" href="/gora/veliki_vrh_kosuta/11/74">Veliki vrh (Košuta) (2088m)</a>
+<a class="moder" href="/gora/bukovec/11/354">Bukovec (1506m)</a>, <a class="moder" href="/gora/lovska_koca_stanic/11/525">Lovska koča Stanič (1280m)</a>, <a class="moder" href="/gora/mocnikova_planina/11/1263">Močnikova planina (1275m)</a>, <a class="moder" href="/gora/partizanska_bolnica_krtina/11/1214">Partizanska bolnica Krtina (1040m)</a>, <a class="moder" href="/gora/stegovnik/11/442">Stegovnik (1692m)</a>, <a class="moder" href="/gora/veliki_vrh_nad_komatevro/11/1927">Veliki vrh nad Komatevro (1634m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,33 +835,33 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/belska_planina_svecica/4262">Belska planina (Svečica)</a>, <a class="moder" href="/spletna_kamera/brezje/401">Brezje</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/dom_pri_izviru_zavrsnice/4552">Dom pri izviru Završnice</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/lesce/399">Lesce</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/moste/397">Moste</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/podtabor/406">Podtabor</a>, <a class="moder" href="/spletna_kamera/podvin/418">Podvin</a>, <a class="moder" href="/spletna_kamera/presernova_koca_na_stolu/4270">Prešernova koča na Stolu</a>, <a class="moder" href="/spletna_kamera/roblekov_dom_na_begunjscici/3384">Roblekov dom na Begunjščici</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/valvasorjev_dom_pod_stolom/4317">Valvasorjev dom pod Stolom</a>, <a class="moder" href="/spletna_kamera/zabnica___bodental/69">Žabnica / Bodental</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>
+<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/obir/1731">Obir</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2flokovnikov_grintovec___grintoutz%2f11%2f1585"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2flokovnikov_grintovec___grintoutz%2f11%2f1585"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2flokovnikov_grintovec___grintoutz%2f11%2f1585"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2frus%2f11%2f1926"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2frus%2f11%2f1926"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2frus%2f11%2f1926"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/lokovnikov_grintovec___grintoutz/1585" title="Lokovnikov Grintovec / Grintoutz 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.LokovnikovGrintovec.jpg" /></a></div>
+<div><a href="/panorama/360/rus/1926" title="Ruš 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Rus.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/lokovnikov_grintovec___grintoutz/8027" onclick="event.preventDefault(); window.open('/slika_gora/lokovnikov_grintovec___grintoutz/8027');"><img class="slikagm" alt="Lokovnikov Grintovec / Grintoutz" src="//www.hribi.net/slike1/ljubelj 2626048496.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rus/9248" onclick="event.preventDefault(); window.open('/slika_gora/rus/9248');"><img class="slikagm" alt="Ruš" src="//slike.hribi.net/sliketemp/Rus%201196313430.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lokovnikov_grintovec___grintoutz/8028" onclick="event.preventDefault(); window.open('/slika_gora/lokovnikov_grintovec___grintoutz/8028');"><img class="slikagm" alt="Lokovnikov Grintovec / Grintoutz" src="//www.hribi.net/slike1/ljubelj 2856048497.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rus/9249" onclick="event.preventDefault(); window.open('/slika_gora/rus/9249');"><img class="slikagm" alt="Ruš" src="//www.hribi.net/slike1/Rus 1180.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lokovnikov_grintovec___grintoutz/8029" onclick="event.preventDefault(); window.open('/slika_gora/lokovnikov_grintovec___grintoutz/8029');"><img class="slikagm" alt="Lokovnikov Grintovec / Grintoutz" src="//www.hribi.net/slike1/ljubelj 2936048497.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rus/9250" onclick="event.preventDefault(); window.open('/slika_gora/rus/9250');"><img class="slikagm" alt="Ruš" src="//www.hribi.net/slike1/Rus 1600.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lokovnikov_grintovec___grintoutz/8030" onclick="event.preventDefault(); window.open('/slika_gora/lokovnikov_grintovec___grintoutz/8030');"><img class="slikagm" alt="Lokovnikov Grintovec / Grintoutz" src="//www.hribi.net/slike1/ljubelj 2496048496.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/rus/9251" onclick="event.preventDefault(); window.open('/slika_gora/rus/9251');"><img class="slikagm" alt="Ruš" src="//www.hribi.net/slike1/Rus 1140.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lokovnikov_grintovec___grintoutz/16362" onclick="event.preventDefault(); window.open('/slika_gora/lokovnikov_grintovec___grintoutz/16362');"><img class="slikagm" alt="Lokovnikov Grintovec / Grintoutz" src="//slike.hribi.net/slike4/2_1491565619068_DSCN1068.JPG" /></a>
+        <a target="_blank" href="/slika_gora/rus/9252" onclick="event.preventDefault(); window.open('/slika_gora/rus/9252');"><img class="slikagm" alt="Ruš" src="//www.hribi.net/slike1/Rus 1590.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lokovnikov_grintovec___grintoutz/16363" onclick="event.preventDefault(); window.open('/slika_gora/lokovnikov_grintovec___grintoutz/16363');"><img class="slikagm" alt="Lokovnikov Grintovec / Grintoutz" src="//slike.hribi.net/slike4/2_0495565619102_DSCN1082.JPG" /></a>
+        <a target="_blank" href="/slika_gora/rus/9253" onclick="event.preventDefault(); window.open('/slika_gora/rus/9253');"><img class="slikagm" alt="Ruš" src="//slike.hribi.net/sliketemp/Rus%201566313432.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/lokovnikov_grintovec___grintoutz/16364" onclick="event.preventDefault(); window.open('/slika_gora/lokovnikov_grintovec___grintoutz/16364');"><img class="slikagm" alt="Lokovnikov Grintovec / Grintoutz" src="//slike.hribi.net/slike4/2_0916565619205_DSCN1109.JPG" /></a>
+        <a target="_blank" href="/slika_gora/rus/12587" onclick="event.preventDefault(); window.open('/slika_gora/rus/12587');"><img class="slikagm" alt="Ruš" src="//www.hribi.net/slike1/P5260376217728.th.jpg" /></a>
     
 </div>
 
@@ -925,7 +925,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1585&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1926&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -935,15 +935,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/koncentracijsko_taborisce_lokovnikov_grintovec___grintoutz/11/1585/3241">Koncentracijsko taborišče - Lokovnikov Grintovec / Grintoutz</a></td><td class="tdG"><a href="/izlet/koncentracijsko_taborisce_lokovnikov_grintovec___grintoutz/11/1585/3241">2 h 40 min</a></td><td class="tdG"><a href="/izlet/koncentracijsko_taborisce_lokovnikov_grintovec___grintoutz/11/1585/3241">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/medvodje_rus_preko_sedla_pri_lojtri/11/1926/3566">Medvodje - Ruš (preko sedla Pri lojtri)</a></td><td class="tdG"><a href="/izlet/medvodje_rus_preko_sedla_pri_lojtri/11/1926/3566">2 h 30 min</a></td><td class="tdG"><a href="/izlet/medvodje_rus_preko_sedla_pri_lojtri/11/1926/3566">delno zahtevna neoznačena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/ljubelj_lokovnikov_grintovec___grintoutz_mimo_koce_na_ljubelju/11/1585/2781">Ljubelj - Lokovnikov Grintovec / Grintoutz (mimo Koče na Ljubelju)</a></td><td class="tdG"><a href="/izlet/ljubelj_lokovnikov_grintovec___grintoutz_mimo_koce_na_ljubelju/11/1585/2781">2 h 45 min</a></td><td class="tdG"><a href="/izlet/ljubelj_lokovnikov_grintovec___grintoutz_mimo_koce_na_ljubelju/11/1585/2781">zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/rezman_rus_po_jugozahodnem_grebenu/11/1926/3568">Rezman - Ruš (po jugozahodnem grebenu)</a></td><td class="tdG"><a href="/izlet/rezman_rus_po_jugozahodnem_grebenu/11/1926/3568">2 h</a></td><td class="tdG"><a href="/izlet/rezman_rus_po_jugozahodnem_grebenu/11/1926/3568">delno zahtevna neoznačena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/vrancek_lokovnikov_grintovec___grintoutz/11/1585/3240">Vranček - Lokovnikov Grintovec / Grintoutz</a></td><td class="tdG"><a href="/izlet/vrancek_lokovnikov_grintovec___grintoutz/11/1585/3240">2 h 50 min</a></td><td class="tdG"><a href="/izlet/vrancek_lokovnikov_grintovec___grintoutz/11/1585/3240">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/dol_rus_po_jugozahodnem_grebenu/11/1926/3567">Dol - Ruš (po jugozahodnem grebenu)</a></td><td class="tdG"><a href="/izlet/dol_rus_po_jugozahodnem_grebenu/11/1926/3567">2 h 15 min</a></td><td class="tdG"><a href="/izlet/dol_rus_po_jugozahodnem_grebenu/11/1926/3567">delno zahtevna neoznačena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/bucan_lokovnikov_grintovec___grintoutz/11/1585/3239">Bučan - Lokovnikov Grintovec / Grintoutz</a></td><td class="tdG"><a href="/izlet/bucan_lokovnikov_grintovec___grintoutz/11/1585/3239">2 h 45 min</a></td><td class="tdG"><a href="/izlet/bucan_lokovnikov_grintovec___grintoutz/11/1585/3239">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sele-zvrhnji_kot_male___zell-oberwinkel_male_lokovnikov_grintovec___grintoutz/11/1585/6489">Sele-Zvrhnji Kot (Male) / Zell-Oberwinkel (Male) - Lokovnikov Grintovec / Grintoutz</a></td><td class="tdG"><a href="/izlet/sele-zvrhnji_kot_male___zell-oberwinkel_male_lokovnikov_grintovec___grintoutz/11/1585/6489">4 h</a></td><td class="tdG"><a href="/izlet/sele-zvrhnji_kot_male___zell-oberwinkel_male_lokovnikov_grintovec___grintoutz/11/1585/6489">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/rezman_rus_po_severovzhodnem_grebenu/11/1926/3892">Rezman - Ruš (po severovzhodnem grebenu)</a></td><td class="tdG"><a href="/izlet/rezman_rus_po_severovzhodnem_grebenu/11/1926/3892">2 h 15 min</a></td><td class="tdG"><a href="/izlet/rezman_rus_po_severovzhodnem_grebenu/11/1926/3892">zelo zahtevno brezpotje</a></td></tr>
 
 </table>
 

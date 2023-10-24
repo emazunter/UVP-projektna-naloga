@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Plešivška kopa (Kozarnica)</title>
-        <meta name="description" content="Natančen opis gore Plešivška kopa (Kozarnica) in vseh pristopov na Plešivška kopa (Kozarnica). Plešivška kopa je del pogorja Uršlje gore, je bolje rečeno izrazita gozdnata ram." />
+        <title>Dom na Boču</title>
+        <meta name="description" content="Natančen opis koče Dom na Boču in vseh pristopov na Dom na Boču. Dom na Boču se nahaja na večji ravnini pod jugozahodnimi pobočji Boča. Od doma o." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./1650?gorovjeid=11&amp;id=1650" id="form1">
+    <form method="post" action="./761?gorovjeid=11&amp;id=761" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/plesivska_kopa_kozarnica/11/1650"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=1650"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dom_na_bocu/11/761"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=761"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Plešivška kopa (Kozarnica)
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Dom na Boču
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(1650);
+    gorast(761);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Plešivška kopa (Kozarnica)</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Dom na Boču</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1414&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 698&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;29,0022'N&nbsp;/&nbsp;14°&nbsp;59,8146'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;17,0082'N&nbsp;/&nbsp;15°&nbsp;35,6472'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;29'&nbsp;0,13''N&nbsp;/&nbsp;14°&nbsp;59'&nbsp;48,88''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;17'&nbsp;0,49''N&nbsp;/&nbsp;15°&nbsp;35'&nbsp;38,83''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.48337°N&nbsp;/&nbsp;14.99691°E";
+                        document.getElementById("kf0").innerHTML = "46.28347°N&nbsp;/&nbsp;15.59412°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,48337°N,&nbsp;14,99691°E";
+                    document.getElementById("kf0").innerHTML = "46,28347°N,&nbsp;15,59412°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,48337°N&nbsp;14,99691°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/plesivska_kopa_kozarnica/1650"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,28347°N&nbsp;15,59412°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dom_na_bocu/761"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča, cerkev</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Boču - Torek" href="/vreme_gora/dom_na_bocu/11/761#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Boču - Sreda" href="/vreme_gora/dom_na_bocu/11/761#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Boču - Četrtek" href="/vreme_gora/dom_na_bocu/11/761#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Plešivška kopa (Kozarnica) - Petek" href="/vreme_gora/plesivska_kopa_kozarnica/11/1650#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Boču - Petek" href="/vreme_gora/dom_na_bocu/11/761#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Plešivška kopa (Kozarnica) - Sobota" href="/vreme_gora/plesivska_kopa_kozarnica/11/1650#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Plešivška kopa (Kozarnica) - Nedelja" href="/vreme_gora/plesivska_kopa_kozarnica/11/1650#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Plešivška kopa (Kozarnica) - Ponedeljek" href="/vreme_gora/plesivska_kopa_kozarnica/11/1650#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Plešivška kopa (Kozarnica) - Torek" href="/vreme_gora/plesivska_kopa_kozarnica/11/1650#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dom na Boču - Sobota" href="/vreme_gora/dom_na_bocu/11/761#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 119.293</div>
-<div class="g2"><b>Priljubljenost:</b> 48%&nbsp;(1696.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">6</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
-
+<div class="g2"><b>Ogledov:</b> 455.063</div>
+<div class="g2"><b>Priljubljenost:</b> 86%&nbsp;(448.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">7</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">8</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=761" title="Število vpisov v vpisni knjigi">7</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Plešivška kopa je del pogorja Uršlje gore, je bolje rečeno izrazita gozdnata rama, ki se razteza od vrha proti vzhodu. Je vrh različnih podob. Iz mislinjske doline je videti kot visoko dvigajoči se vrh (Kopa) pred Uršljo goro, medtem, ko jo iz mežiške doline vidimo kot razpotegnjeno gozdnato sleme, ki se od Uršlje gore vleče proti vzhodu. Če imamo malo domišljije nas ta podoba lahko spominja na podobo hrbta koze in mogoče tudi od tod njeno drugo ime Kozarnica, ki je v rabi v krajih severno pod goro. Vrh je zaradi bližine svoje bolj znane sosede skoraj nepoznan in ne obiskan in mnogi planinci se je južno pod vrhom izognejo, ko gredo na Uršljo goro. Plešivška kopa je sicer vse do vrha poraščena z gozdom, a lahko zaradi prepadnosti severnega pobočja med hojo po vršnem slemenu med vrzelmi v gozdu prav tako uživamo v razgledu proti severu, ki obsega velik del slovenske koroške, Košenjaka, Kozjaka, pa vse tja do Lavanttalskih Alp v Avstriji. Na ta vrh ne vodi nobena markirana pot, a ga lahko z malo truda po lovskih in gozdnih stezah obiščemo, ter se naužijemo spokojnosti v vršnih gozdovih. Če bomo tiho, mogoče srečamo kakšnega gamsa, velikega petelina ali pa celo čredo muflonov.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Dom na Boču se nahaja na večji ravnini pod jugozahodnimi pobočji Boča. Od doma oziroma bližnje okolice je lep pogled proti vrhu Boča, kjer se lepo vidijo oddajniki in razgledni stolp. V bližini planinskega doma pa se nahaja manjša cerkvica posvečena Svetemu Miklavžu.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1650&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=761&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/postarski_dom_pod_plesivcem/11/591">Poštarski dom pod Plešivcem (805m)</a>
+<a class="moder" href="/gora/boc/11/543">Boč (978m)</a>, <a class="moder" href="/gora/planinska_koca_velikonocnica/11/2407">Planinska koča Velikonočnica (550m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,28 +835,33 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bukovnik/527">Bukovnik</a>, <a class="moder" href="/spletna_kamera/crna_na_koroskem/1461">Črna na Koroškem</a>, <a class="moder" href="/spletna_kamera/golte/34">Golte</a>, <a class="moder" href="/spletna_kamera/ivarcko/271">Ivarčko</a>, <a class="moder" href="/spletna_kamera/koca_pod_kremzarjevim_vrhom/2192">Koča pod Kremžarjevim vrhom</a>, <a class="moder" href="/spletna_kamera/mezica/1955">Mežica</a>, <a class="moder" href="/spletna_kamera/poljana/2242">Poljana</a>, <a class="moder" href="/spletna_kamera/radegunda/2167">Radegunda</a>, <a class="moder" href="/spletna_kamera/ravne_na_koroskem/1462">Ravne na Koroškem</a>, <a class="moder" href="/spletna_kamera/slovenj_gradec/1600">Slovenj Gradec</a>, <a class="moder" href="/spletna_kamera/smartno_pri_slovenj_gradcu/2963">Šmartno pri Slovenj Gradcu</a>, <a class="moder" href="/spletna_kamera/urslja_gora/1026">Uršlja gora</a>
+<a class="moder" href="/spletna_kamera/pecica/4947">Pečica</a>, <a class="moder" href="/spletna_kamera/podcetrtek/2415">Podčetrtek</a>, <a class="moder" href="/spletna_kamera/podplat/389">Podplat</a>, <a class="moder" href="/spletna_kamera/pragersko_pocivalisce/4908">Pragersko (počivališče)</a>, <a class="moder" href="/spletna_kamera/rogaska_slatina/2157">Rogaška Slatina</a>, <a class="moder" href="/spletna_kamera/skedenj/365">Škedenj</a>, <a class="moder" href="/spletna_kamera/slatina/363">Slatina</a>, <a class="moder" href="/spletna_kamera/slovenska_bistrica/369">Slovenska Bistrica</a>, <a class="moder" href="/spletna_kamera/tepanje/367">Tepanje</a>, <a class="moder" href="/spletna_kamera/vrhole_pri_slovenskih_konjicah/1428">Vrhole pri Slovenskih Konjicah</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fplesivska_kopa_kozarnica%2f11%2f1650"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplesivska_kopa_kozarnica%2f11%2f1650"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fplesivska_kopa_kozarnica%2f11%2f1650"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_bocu%2f11%2f761"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_bocu%2f11%2f761"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdom_na_bocu%2f11%2f761"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/dom_na_bocu/761" title="Dom na Boču 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.DomnaBocu.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/plesivska_kopa_kozarnica/7132" onclick="event.preventDefault(); window.open('/slika_gora/plesivska_kopa_kozarnica/7132');"><img class="slikagm" alt="Plešivška kopa (Kozarnica)" src="//www.hribi.net/sliketemp/DSC020305782578.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_bocu/2569" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_bocu/2569');"><img class="slikagm" alt="Dom na Boču" src="//www.hribi.net/slike1/razno%201004%200173844365.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/plesivska_kopa_kozarnica/7133" onclick="event.preventDefault(); window.open('/slika_gora/plesivska_kopa_kozarnica/7133');"><img class="slikagm" alt="Plešivška kopa (Kozarnica)" src="//www.hribi.net/sliketemp/DSC020115782582.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_bocu/2570" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_bocu/2570');"><img class="slikagm" alt="Dom na Boču" src="//www.hribi.net/slike1/PC0100409828.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/plesivska_kopa_kozarnica/7941" onclick="event.preventDefault(); window.open('/slika_gora/plesivska_kopa_kozarnica/7941');"><img class="slikagm" alt="Plešivška kopa (Kozarnica)" src="//www.hribi.net/sliketemp/DSC032296047785.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_bocu/2571" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_bocu/2571');"><img class="slikagm" alt="Dom na Boču" src="//www.hribi.net/slike1/PC0100489828.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/plesivska_kopa_kozarnica/8034" onclick="event.preventDefault(); window.open('/slika_gora/plesivska_kopa_kozarnica/8034');"><img class="slikagm" alt="Plešivška kopa (Kozarnica)" src="//www.hribi.net/sliketemp/46073817.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_bocu/21137" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_bocu/21137');"><img class="slikagm" alt="Dom na Boču" src="//slike2.hribi.net/slike14/2_9392711468219_3dscn9577.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/plesivska_kopa_kozarnica/8035" onclick="event.preventDefault(); window.open('/slika_gora/plesivska_kopa_kozarnica/8035');"><img class="slikagm" alt="Plešivška kopa (Kozarnica)" src="//www.hribi.net/sliketemp/16073829.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_bocu/21138" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_bocu/21138');"><img class="slikagm" alt="Dom na Boču" src="//slike2.hribi.net/slike14/2_0136711470204_0dscn9581.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/plesivska_kopa_kozarnica/8547" onclick="event.preventDefault(); window.open('/slika_gora/plesivska_kopa_kozarnica/8547');"><img class="slikagm" alt="Plešivška kopa (Kozarnica)" src="//www.hribi.net/sliketemp/DSC003026177419.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dom_na_bocu/21139" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_bocu/21139');"><img class="slikagm" alt="Dom na Boču" src="//slike2.hribi.net/slike14/2_0212710585668_1dscn9579.jpg" /></a>
+    
+        <a target="_blank" href="/slika_gora/dom_na_bocu/21140" onclick="event.preventDefault(); window.open('/slika_gora/dom_na_bocu/21140');"><img class="slikagm" alt="Dom na Boču" src="//slike2.hribi.net/slike14/2_1306710585669_0dscn9587.jpg" /></a>
     
 </div>
 
@@ -920,7 +925,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1650&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=761&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -930,7 +935,21 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/postarski_dom_pod_plesivcem_plesivska_kopa_kozarnica/11/1650/2953">Poštarski dom pod Plešivcem - Plešivška kopa (Kozarnica)</a></td><td class="tdG"><a href="/izlet/postarski_dom_pod_plesivcem_plesivska_kopa_kozarnica/11/1650/2953">1 h 30 min</a></td><td class="tdG"><a href="/izlet/postarski_dom_pod_plesivcem_plesivska_kopa_kozarnica/11/1650/2953">delno zahtevna neoznačena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornje_poljcane_dom_na_bocu_cez_babo/11/761/1369">Zgornje Poljčane - Dom na Boču (čez Babo)</a></td><td class="tdG"><a href="/izlet/zgornje_poljcane_dom_na_bocu_cez_babo/11/761/1369">1 h</a></td><td class="tdG"><a href="/izlet/zgornje_poljcane_dom_na_bocu_cez_babo/11/761/1369">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornje_poljcane_dom_na_bocu_po_cesti/11/761/4762">Zgornje Poljčane - Dom na Boču (po cesti)</a></td><td class="tdG"><a href="/izlet/zgornje_poljcane_dom_na_bocu_po_cesti/11/761/4762">1 h</a></td><td class="tdG"><a href="/izlet/zgornje_poljcane_dom_na_bocu_po_cesti/11/761/4762">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/studenice_dom_na_bocu_po_cesti_in_planinski_poti/11/761/5013">Studenice - Dom na Boču (po cesti in planinski poti)</a></td><td class="tdG"><a href="/izlet/studenice_dom_na_bocu_po_cesti_in_planinski_poti/11/761/5013">2 h 10 min</a></td><td class="tdG"><a href="/izlet/studenice_dom_na_bocu_po_cesti_in_planinski_poti/11/761/5013">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/studenice_dom_na_bocu_po_cesti/11/761/5016">Studenice - Dom na Boču (po cesti)</a></td><td class="tdG"><a href="/izlet/studenice_dom_na_bocu_po_cesti/11/761/5016">2 h</a></td><td class="tdG"><a href="/izlet/studenice_dom_na_bocu_po_cesti/11/761/5016">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/zgornja_kostrivnica_dom_na_bocu/11/761/7498">Zgornja Kostrivnica - Dom na Boču</a></td><td class="tdG"><a href="/izlet/zgornja_kostrivnica_dom_na_bocu/11/761/7498">1 h 15 min</a></td><td class="tdG"><a href="/izlet/zgornja_kostrivnica_dom_na_bocu/11/761/7498">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/zgornja_kostrivnica_dom_na_bocu_mimo_koce_velikonocnice/11/761/7499">Zgornja Kostrivnica - Dom na Boču (mimo Koče Velikonočnice)</a></td><td class="tdG"><a href="/izlet/zgornja_kostrivnica_dom_na_bocu_mimo_koce_velikonocnice/11/761/7499">1 h 15 min</a></td><td class="tdG"><a href="/izlet/zgornja_kostrivnica_dom_na_bocu_mimo_koce_velikonocnice/11/761/7499">lahka označena pot</a></td></tr>
+
+    <tr class="trG1"><td class="tdG"><a href="/izlet/makole_dom_na_bocu/11/761/8684">Makole - Dom na Boču</a></td><td class="tdG"><a href="/izlet/makole_dom_na_bocu/11/761/8684">2 h 55 min</a></td><td class="tdG"><a href="/izlet/makole_dom_na_bocu/11/761/8684">lahka označena pot</a></td></tr>
+
+    <tr class="trG0"><td class="tdG"><a href="/izlet/cerovec_pod_bocem_dom_na_bocu/11/761/8962">Cerovec pod Bočem - Dom na Boču</a></td><td class="tdG"><a href="/izlet/cerovec_pod_bocem_dom_na_bocu/11/761/8962">2 h 50 min</a></td><td class="tdG"><a href="/izlet/cerovec_pod_bocem_dom_na_bocu/11/761/8962">lahka označena pot</a></td></tr>
 
 </table>
 

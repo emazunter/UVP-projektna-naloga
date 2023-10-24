@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Tošč</title>
-        <meta name="description" content="Natančen opis gore Tošč in vseh pristopov na Tošč. Tošč, ki je pred desetletji, ko je jugoslovanska vojska za 9 m znižala Pasjo rav." />
+        <title>Pasja ravan</title>
+        <meta name="description" content="Natančen opis gore Pasja ravan in vseh pristopov na Pasja ravan. Pasja ravan je drugo najvišji vrh v Polhograjskem hribovju. Še pred nekaj desetl." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./122?gorovjeid=5&amp;id=122" id="form1">
+    <form method="post" action="./493?gorovjeid=5&amp;id=493" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/tosc/5/122"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=5&id=122"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/pasja_ravan/5/493"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=5&id=493"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a> / Tošč
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a> / Pasja ravan
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(122);
+    gorast(493);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Tošč</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Pasja ravan</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/polhograjsko_hribovje_in_ljubljana/5">Polhograjsko hribovje in Ljubljana</a></div>
-    <div class="g2"><b>Višina:</b> 1021&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1020&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;5,8422'N&nbsp;/&nbsp;14°&nbsp;19,2792'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;5,8728'N&nbsp;/&nbsp;14°&nbsp;13,7484'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;5'&nbsp;50,53''N&nbsp;/&nbsp;14°&nbsp;19'&nbsp;16,75''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;5'&nbsp;52,37''N&nbsp;/&nbsp;14°&nbsp;13'&nbsp;44,90''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.09737°N&nbsp;/&nbsp;14.32132°E";
+                        document.getElementById("kf0").innerHTML = "46.09788°N&nbsp;/&nbsp;14.22914°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,09737°N,&nbsp;14,32132°E";
+                    document.getElementById("kf0").innerHTML = "46,09788°N,&nbsp;14,22914°E";
                         kfi = 1;
                     }
     }
@@ -691,7 +691,7 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,09737°N&nbsp;14,32132°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/tosc/122"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,09788°N&nbsp;14,22914°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/pasja_ravan/493"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
     <div class="g2"><b>Vrsta:</b> vrh</div>
   
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Pasja ravan - Torek" href="/vreme_gora/pasja_ravan/5/493#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Pasja ravan - Sreda" href="/vreme_gora/pasja_ravan/5/493#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Pasja ravan - Četrtek" href="/vreme_gora/pasja_ravan/5/493#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Tošč - Petek" href="/vreme_gora/tosc/5/122#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Pasja ravan - Petek" href="/vreme_gora/pasja_ravan/5/493#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Tošč - Sobota" href="/vreme_gora/tosc/5/122#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Tošč - Nedelja" href="/vreme_gora/tosc/5/122#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Tošč - Ponedeljek" href="/vreme_gora/tosc/5/122#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Tošč - Torek" href="/vreme_gora/tosc/5/122#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Pasja ravan - Sobota" href="/vreme_gora/pasja_ravan/5/493#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 688.161</div>
-<div class="g2"><b>Priljubljenost:</b> 98%&nbsp;(76.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">15</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">13</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">8</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=122" title="Število vpisov v vpisni knjigi">10</a></div>
+<div class="g2"><b>Ogledov:</b> 576.301</div>
+<div class="g2"><b>Priljubljenost:</b> 95%&nbsp;(162.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">11</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">4</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=493" title="Število vpisov v vpisni knjigi">6</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Tošč, ki je pred desetletji, ko je jugoslovanska vojska za 9 m znižala Pasjo ravan postal najvišji vrh Polhograjskega hribovja, se nahaja severozahodno od Polhograjske Grmade (898 m). Z vrha na katerem se nahaja nekaj klopi, vpisna skrinjica in žig, se nam odpre razgled le proti zahodu, kjer lahko vidimo zahodni del Polhograjskega hribovja ter nekaj najvišjih vrhov v Škofjeloškem hribovju.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Pasja ravan je drugo najvišji vrh v Polhograjskem hribovju. Še pred nekaj desetletji je bila s 1029 m najvišji vrh, a ga je jugoslovanska vojska v drugi polovici 70-ih let 20 stoletja zravnala z zemljo in mu odbila cca. 10 m višine. Zato je vrh raven in ima polno vojaških bunkerjev in rovov.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=122&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=493&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/mala_grmada/5/1491">Mala Grmada (853m)</a>, <a class="moder" href="/gora/polhograjska_grmada/5/75">Polhograjska Grmada (898m)</a>, <a class="moder" href="/gora/sveta_jedert/5/533">Sveta Jedert (750m)</a>
+<a class="moder" href="/gora/bukov_vrh/5/765">Bukov vrh (832m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,46 +835,41 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/bevke/3387">Bevke</a>, <a class="moder" href="/spletna_kamera/brezovica/318">Brezovica</a>, <a class="moder" href="/spletna_kamera/brezovica_pri_ljubljani/2180">Brezovica pri Ljubljani</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/dragomer/3608">Dragomer</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/katarina_nad_ljubljano/314">Katarina nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/kranj_labore/3587">Kranj (Labore)</a>, <a class="moder" href="/spletna_kamera/ljubljana_kongresni_trg/297">Ljubljana (Kongresni trg)</a>, <a class="moder" href="/spletna_kamera/ljubljana_zivalski_vrt_-_levi/4331">Ljubljana (živalski vrt - levi)</a>, <a class="moder" href="/spletna_kamera/ljubljana_-_zivalski_vrt/1702">Ljubljana - živalski vrt</a>, <a class="moder" href="/spletna_kamera/ljubljana_bezigrad/1708">Ljubljana Bežigrad</a>, <a class="moder" href="/spletna_kamera/ljubljana_brdo/465">Ljubljana Brdo</a>, <a class="moder" href="/spletna_kamera/ljubljana_brod/410">Ljubljana Brod</a>, <a class="moder" href="/spletna_kamera/ljubljana_dravlje/470">Ljubljana Dravlje</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/299">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_koseze/414">Ljubljana Koseze</a>, <a class="moder" href="/spletna_kamera/ljubljana_kozarje/467">Ljubljana Kozarje</a>, <a class="moder" href="/spletna_kamera/ljubljana_sentvid/409">Ljubljana Šentvid</a>, <a class="moder" href="/spletna_kamera/ljubljana_siska/478">Ljubljana Šiška</a>, <a class="moder" href="/spletna_kamera/ljubljana_smartno/412">Ljubljana Šmartno</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/medvode/184">Medvode</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/smarna_gora/315">Šmarna gora</a>, <a class="moder" href="/spletna_kamera/smlednik/1931">Smlednik</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/vrhnika/323">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika/181">Vrhnika</a>, <a class="moder" href="/spletna_kamera/vrhnika_mantova/3646">Vrhnika (Mantova)</a>, <a class="moder" href="/spletna_kamera/zbiljsko_jezero/2165">Zbiljsko jezero</a>
+<a class="moder" href="/spletna_kamera/blegos/3016">Blegoš</a>, <a class="moder" href="/spletna_kamera/dom_na_govejku/2072">Dom na Govejku</a>, <a class="moder" href="/spletna_kamera/gorenja_vas/4302">Gorenja vas</a>, <a class="moder" href="/spletna_kamera/katarina_nad_ljubljano/314">Katarina nad Ljubljano</a>, <a class="moder" href="/spletna_kamera/koca_na_starem_vrhu/1813">Koča na Starem vrhu</a>, <a class="moder" href="/spletna_kamera/log_pri_brezovici/320">Log pri Brezovici</a>, <a class="moder" href="/spletna_kamera/lubnik/1853">Lubnik</a>, <a class="moder" href="/spletna_kamera/medvode/420">Medvode</a>, <a class="moder" href="/spletna_kamera/pasja_ravan/2127">Pasja ravan</a>, <a class="moder" href="/spletna_kamera/planina_nad_vrhniko/2316">Planina nad Vrhniko</a>, <a class="moder" href="/spletna_kamera/planinska_koca_mrzlk/3544">Planinska koča Mrzlk</a>, <a class="moder" href="/spletna_kamera/polhov_gradec/4293">Polhov Gradec</a>, <a class="moder" href="/spletna_kamera/rovte/296">Rovte</a>, <a class="moder" href="/spletna_kamera/sentjost_nad_horjulom/1063">Šentjošt nad Horjulom</a>, <a class="moder" href="/spletna_kamera/sinja_gorica/322">Sinja Gorica</a>, <a class="moder" href="/spletna_kamera/smrecje/3390">Smrečje</a>, <a class="moder" href="/spletna_kamera/stari_vrh/273">Stari vrh</a>, <a class="moder" href="/spletna_kamera/trebija/281">Trebija</a>, <a class="moder" href="/spletna_kamera/zaplana/3391">Zaplana</a>, <a class="moder" href="/spletna_kamera/ziri/305">Žiri</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2ftosc%2f5%2f122"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftosc%2f5%2f122"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2ftosc%2f5%2f122"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fpasja_ravan%2f5%2f493"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpasja_ravan%2f5%2f493"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fpasja_ravan%2f5%2f493"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
+
+<div style="padding-top:8px;"><b>Panorama:</b></div>
+<div><a href="/panorama/360/pasja_ravan/493" title="Pasja ravan 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.pasjaRavan.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/tosc/193" onclick="event.preventDefault(); window.open('/slika_gora/tosc/193');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/Gora/p5030127medium7ta.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/1321" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/1321');"><img class="slikagm" alt="Pasja ravan" src="//www.hribi.net/Gora/pc100079mediumsp9.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tosc/240" onclick="event.preventDefault(); window.open('/slika_gora/tosc/240');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/Gora/p5210021medium7hi.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/5509" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/5509');"><img class="slikagm" alt="Pasja ravan" src="//www.hribi.net/Pot/pc100077mediumwp9.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tosc/243" onclick="event.preventDefault(); window.open('/slika_gora/tosc/243');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/Gora/p5210027medium7ty.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/5510" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/5510');"><img class="slikagm" alt="Pasja ravan" src="//www.hribi.net/slike1/PasjaRavan 20985120.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tosc/252" onclick="event.preventDefault(); window.open('/slika_gora/tosc/252');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/Gora/p5210106medium7pa.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/5511" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/5511');"><img class="slikagm" alt="Pasja ravan" src="//www.hribi.net/slike1/PasjaRavan 20885120.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tosc/253" onclick="event.preventDefault(); window.open('/slika_gora/tosc/253');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/Gora/p5210107medium5qq.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/5523" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/5523');"><img class="slikagm" alt="Pasja ravan" src="//www.hribi.net/slike1/PasjaRavan 25885120.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tosc/5385" onclick="event.preventDefault(); window.open('/slika_gora/tosc/5385');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/slike1/GrmadaTosc 145235980.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/5524" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/5524');"><img class="slikagm" alt="Pasja ravan" src="//www.hribi.net/slike1/PasjaRavan%2032530240.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tosc/5386" onclick="event.preventDefault(); window.open('/slika_gora/tosc/5386');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/slike1/GrmadaTosc 137235980.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/7292" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/7292');"><img class="slikagm" alt="Pasja ravan" src="//www.hribi.net/slike1/Sivka 1511211760.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tosc/5387" onclick="event.preventDefault(); window.open('/slika_gora/tosc/5387');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/slike1/GrmadaTosc%20079158400.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/7293" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/7293');"><img class="slikagm" alt="Pasja ravan" src="//www.hribi.net/slike1/Sivka 1481211760.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tosc/5391" onclick="event.preventDefault(); window.open('/slika_gora/tosc/5391');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/slike1/GrmadaTosc%20223250560.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/7294" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/7294');"><img class="slikagm" alt="Pasja ravan" src="//slike.hribi.net/sliketemp/Sivka%201535830060.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/tosc/5515" onclick="event.preventDefault(); window.open('/slika_gora/tosc/5515');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/slike1/PasjaRavan%20445205920.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/18128" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/18128');"><img class="slikagm" alt="Pasja ravan" src="//slike.hribi.net/slike4/2_0389608646318_DSCN7996.JPG" /></a>
     
-        <a target="_blank" href="/slika_gora/tosc/6382" onclick="event.preventDefault(); window.open('/slika_gora/tosc/6382');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/slike1/GovejekTosc 091729600.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tosc/6385" onclick="event.preventDefault(); window.open('/slika_gora/tosc/6385');"><img class="slikagm" alt="Tošč" src="//www.hribi.net/slike1/GovejekTosc 051532480.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/tosc/17557" onclick="event.preventDefault(); window.open('/slika_gora/tosc/17557');"><img class="slikagm" alt="Tošč" src="//slike.hribi.net/slike4/2_1533595495987_DSCN6618.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/tosc/17909" onclick="event.preventDefault(); window.open('/slika_gora/tosc/17909');"><img class="slikagm" alt="Tošč" src="//slike.hribi.net/slike4/2_0302603819329_DSCN3405.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/tosc/17910" onclick="event.preventDefault(); window.open('/slika_gora/tosc/17910');"><img class="slikagm" alt="Tošč" src="//slike.hribi.net/slike4/2_1265603359216_DSCN3407.JPG" /></a>
+        <a target="_blank" href="/slika_gora/pasja_ravan/19070" onclick="event.preventDefault(); window.open('/slika_gora/pasja_ravan/19070');"><img class="slikagm" alt="Pasja ravan" src="//slike.hribi.net/slike4/2_267636362379_DSCN4132.JPG" /></a>
     
 </div>
 
@@ -938,7 +933,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=122&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=493&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -948,31 +943,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/selo_tosc/5/122/87">Selo - Tošč</a></td><td class="tdG"><a href="/izlet/selo_tosc/5/122/87">1 h</a></td><td class="tdG"><a href="/izlet/selo_tosc/5/122/87">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/crni_vrh_pasja_ravan/5/493/831">Črni Vrh - Pasja ravan</a></td><td class="tdG"><a href="/izlet/crni_vrh_pasja_ravan/5/493/831">1 h</a></td><td class="tdG"><a href="/izlet/crni_vrh_pasja_ravan/5/493/831">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/topol_tosc_cez_grmado/5/122/89">Topol - Tošč (čez Grmado)</a></td><td class="tdG"><a href="/izlet/topol_tosc_cez_grmado/5/122/89">2 h 15 min</a></td><td class="tdG"><a href="/izlet/topol_tosc_cez_grmado/5/122/89">lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/hotovlja_pasja_ravan/5/493/2988">Hotovlja - Pasja ravan</a></td><td class="tdG"><a href="/izlet/hotovlja_pasja_ravan/5/493/2988">1 h 45 min</a></td><td class="tdG"><a href="/izlet/hotovlja_pasja_ravan/5/493/2988">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/polhov_gradec_tosc_cez_grmado/5/122/423">Polhov Gradec - Tošč (čez Grmado)</a></td><td class="tdG"><a href="/izlet/polhov_gradec_tosc_cez_grmado/5/122/423">2 h 30 min</a></td><td class="tdG"><a href="/izlet/polhov_gradec_tosc_cez_grmado/5/122/423">lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/selo_pasja_ravan_mimo_ostreza/5/493/2474">Selo - Pasja ravan (mimo Ostreža)</a></td><td class="tdG"><a href="/izlet/selo_pasja_ravan_mimo_ostreza/5/493/2474">2 h 15 min</a></td><td class="tdG"><a href="/izlet/selo_pasja_ravan_mimo_ostreza/5/493/2474">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/turisticna_kmetije_gonte_tosc/5/122/88">Turistična kmetije Gonte - Tošč</a></td><td class="tdG"><a href="/izlet/turisticna_kmetije_gonte_tosc/5/122/88"> 45 min</a></td><td class="tdG"><a href="/izlet/turisticna_kmetije_gonte_tosc/5/122/88">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/topol_tosc_direktna_pot/5/122/424">Topol - Tošč (direktna pot)</a></td><td class="tdG"><a href="/izlet/topol_tosc_direktna_pot/5/122/424">2 h</a></td><td class="tdG"><a href="/izlet/topol_tosc_direktna_pot/5/122/424">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/polhov_gradec_tosc_skozi_mackov_graben/5/122/2437">Polhov Gradec - Tošč (skozi Mačkov graben)</a></td><td class="tdG"><a href="/izlet/polhov_gradec_tosc_skozi_mackov_graben/5/122/2437">1 h 50 min</a></td><td class="tdG"><a href="/izlet/polhov_gradec_tosc_skozi_mackov_graben/5/122/2437">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/kmetija_rovtar_tosc_via_dida/5/122/2614">Kmetija Rovtar - Tošč (Via Dida)</a></td><td class="tdG"><a href="/izlet/kmetija_rovtar_tosc_via_dida/5/122/2614">1 h 15 min</a></td><td class="tdG"><a href="/izlet/kmetija_rovtar_tosc_via_dida/5/122/2614">delno zahtevna neoznačena pot, lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_na_govejku_tosc/5/122/2731">Dom na Govejku - Tošč</a></td><td class="tdG"><a href="/izlet/dom_na_govejku_tosc/5/122/2731">1 h 45 min</a></td><td class="tdG"><a href="/izlet/dom_na_govejku_tosc/5/122/2731">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/trnovec_tosc/5/122/4374">Trnovec - Tošč</a></td><td class="tdG"><a href="/izlet/trnovec_tosc/5/122/4374">1 h 35 min</a></td><td class="tdG"><a href="/izlet/trnovec_tosc/5/122/4374">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/gabrje_tosc/5/122/5224">Gabrje - Tošč</a></td><td class="tdG"><a href="/izlet/gabrje_tosc/5/122/5224">3 h 5 min</a></td><td class="tdG"><a href="/izlet/gabrje_tosc/5/122/5224">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/petacev_graben_tosc_mimo_sv_jedert/5/122/5467">Petačev graben - Tošč (mimo sv. Jedert)</a></td><td class="tdG"><a href="/izlet/petacev_graben_tosc_mimo_sv_jedert/5/122/5467">1 h 50 min</a></td><td class="tdG"><a href="/izlet/petacev_graben_tosc_mimo_sv_jedert/5/122/5467">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/sveta_barbara_logar_tosc_skozi_kozjekov_graben/5/122/7182">Sveta Barbara (Logar) - Tošč (skozi Kozjekov graben)</a></td><td class="tdG"><a href="/izlet/sveta_barbara_logar_tosc_skozi_kozjekov_graben/5/122/7182">1 h 50 min</a></td><td class="tdG"><a href="/izlet/sveta_barbara_logar_tosc_skozi_kozjekov_graben/5/122/7182">lahka neoznačena steza, lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/sveta_barbara_logar_tosc_mimo_kmetije_vodnik/5/122/7185">Sveta Barbara (Logar) - Tošč (mimo kmetije Vodnik)</a></td><td class="tdG"><a href="/izlet/sveta_barbara_logar_tosc_mimo_kmetije_vodnik/5/122/7185">1 h 40 min</a></td><td class="tdG"><a href="/izlet/sveta_barbara_logar_tosc_mimo_kmetije_vodnik/5/122/7185">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/ernejckov_graben_pasja_ravan/5/493/2990">Ernejčkov graben - Pasja ravan</a></td><td class="tdG"><a href="/izlet/ernejckov_graben_pasja_ravan/5/493/2990">3 h 15 min</a></td><td class="tdG"><a href="/izlet/ernejckov_graben_pasja_ravan/5/493/2990">lahka označena pot</a></td></tr>
 
 </table>
 

@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Stegovnik</title>
-        <meta name="description" content="Natančen opis gore Stegovnik in vseh pristopov na Stegovnik. Stegovnik (tudi Štegovnik) je razgledna grebenska gora med dolino Tržiške Bistri." />
+        <title>Dreiländereck Hütte</title>
+        <meta name="description" content="Natančen opis koče Dreiländereck Hütte in vseh pristopov na Dreiländereck Hütte. Koča Dreiländereck Hütte se nahaja na avstrijski strani grebena Karavank, točnej." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./442?gorovjeid=11&amp;id=442" id="form1">
+    <form method="post" action="./507?gorovjeid=11&amp;id=507" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/stegovnik/11/442"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=442"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/dreilandereck_hutte/11/507"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=11&id=507"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Stegovnik
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/karavanke/11">Karavanke</a> / Dreiländereck Hütte
 
     </div>
 
@@ -642,36 +642,36 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(442);
+    gorast(507);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Stegovnik</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Dreiländereck Hütte</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
 <div class="gorasiv" style="clear:both;">
     <div class="fl">
-    <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
+    <div class="g2"><b>Država:</b> <a class="moder" href="/gore/avstrija/3">Avstrija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/karavanke/11">Karavanke</a></div>
-    <div class="g2"><b>Višina:</b> 1692&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1423&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "46°&nbsp;23,7150'N&nbsp;/&nbsp;14°&nbsp;25,1958'E";
+                    document.getElementById("kf0").innerHTML = "46°&nbsp;31,4574'N&nbsp;/&nbsp;13°&nbsp;43,5690'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "46°&nbsp;23'&nbsp;42,90''N&nbsp;/&nbsp;14°&nbsp;25'&nbsp;11,75''E";
+                        document.getElementById("kf0").innerHTML = "46°&nbsp;31'&nbsp;27,44''N&nbsp;/&nbsp;13°&nbsp;43'&nbsp;34,14''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "46.39525°N&nbsp;/&nbsp;14.41993°E";
+                        document.getElementById("kf0").innerHTML = "46.52429°N&nbsp;/&nbsp;13.72615°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "46,39525°N,&nbsp;14,41993°E";
+                    document.getElementById("kf0").innerHTML = "46,52429°N,&nbsp;13,72615°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,39525°N&nbsp;14,41993°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/stegovnik/442"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">46,52429°N&nbsp;13,72615°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/dreilandereck_hutte/507"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh</div>
+    <div class="g2"><b>Vrsta:</b> koča, planina, sedlo</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Dreiländereck Hütte - Torek" href="/vreme_gora/dreilandereck_hutte/11/507#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Dreiländereck Hütte - Sreda" href="/vreme_gora/dreilandereck_hutte/11/507#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Dreiländereck Hütte - Četrtek" href="/vreme_gora/dreilandereck_hutte/11/507#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Stegovnik - Petek" href="/vreme_gora/stegovnik/11/442#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dreiländereck Hütte - Petek" href="/vreme_gora/dreilandereck_hutte/11/507#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Stegovnik - Sobota" href="/vreme_gora/stegovnik/11/442#So"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Stegovnik - Nedelja" href="/vreme_gora/stegovnik/11/442#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Stegovnik - Ponedeljek" href="/vreme_gora/stegovnik/11/442#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/1_1_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Stegovnik - Torek" href="/vreme_gora/stegovnik/11/442#To"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Dreiländereck Hütte - Sobota" href="/vreme_gora/dreilandereck_hutte/11/507#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_2_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 564.795</div>
-<div class="g2"><b>Priljubljenost:</b> 94%&nbsp;(184.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">17</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">9</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">7</a></div>
-
+<div class="g2"><b>Ogledov:</b> 357.531</div>
+<div class="g2"><b>Priljubljenost:</b> 76%&nbsp;(794.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">5</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">4</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">0</a></div>
+<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=507" title="Število vpisov v vpisni knjigi">1</a></div>
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Stegovnik (tudi Štegovnik) je razgledna grebenska gora med dolino Tržiške Bistrice in Kokre. Z vrha je zelo lep pogled proti celotnemu grebenu Košute na severu, proti jugu se lepo vidi Storžič s svojimi sosednjimi vrhovi, proti vzhodu pa se vidi Kočna in ostale gore nad Jezerskim. Vrh ima vpisno skrinjico v kateri je vpisna knjiga in žig. Vrh je precej dolg z veliko prostora.</div>
+<div style="padding-top:10px;"><b>Opis koče:</b><br />Koča Dreiländereck Hütte se nahaja na avstrijski strani grebena Karavank, točneje med vrhovoma Peč in Petelinjek. Od koče, ob kateri se nahajajo vlečnice smučišča Podklošter / Arnoldstein, se nam odpre lep razgled na Peč - Tromejo ter goram nad Ziljsko dolino in goram severno od reke Drave.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=442&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=507&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/mali_javornik/11/443">Mali Javornik (1685m)</a>, <a class="moder" href="/gora/rus/11/1926">Ruš (1614m)</a>
+<a class="moder" href="/gora/bivak_brez_meja___bivacco_senza_confini/11/2573">Bivak brez meja / Bivacco Senza Confini (1319m)</a>, <a class="moder" href="/gora/dom_na_tromeji/11/303">Dom na Tromeji (1145m)</a>, <a class="moder" href="/gora/kopa___monte_coppa/11/2134">Kopa / Monte Coppa (1496m)</a>, <a class="moder" href="/gora/pec_tromeja/11/302">Peč (Tromeja) (1508m)</a>, <a class="moder" href="/gora/petelinjek_nad_korenskim_sedlom/11/2733">Petelinjek (nad Korenskim sedlom) (1552m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,53 +835,29 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/baselj/2023">Bašelj</a>, <a class="moder" href="/spletna_kamera/begunjscica/1784">Begunjščica</a>, <a class="moder" href="/spletna_kamera/dom_na_kofcah/2011">Dom na Kofcah</a>, <a class="moder" href="/spletna_kamera/dom_na_zelenici/1762">Dom na Zelenici</a>, <a class="moder" href="/spletna_kamera/grintovec/1570">Grintovec</a>, <a class="moder" href="/spletna_kamera/jezerski_vrh/2188">Jezerski vrh</a>, <a class="moder" href="/spletna_kamera/kamnisko_sedlo/2326">Kamniško sedlo</a>, <a class="moder" href="/spletna_kamera/koca_na_dobrci/3142">Koča na Dobrči</a>, <a class="moder" href="/spletna_kamera/kokrsko_sedlo/3693">Kokrsko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_koca_na_ledinah/4950">Kranjska koča na Ledinah</a>, <a class="moder" href="/spletna_kamera/kriska_gora/2115">Kriška gora</a>, <a class="moder" href="/spletna_kamera/krvavec/33">Krvavec</a>, <a class="moder" href="/spletna_kamera/krvavec_vrtljiva_kamera/3327">Krvavec (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/ljubelj/10">Ljubelj</a>, <a class="moder" href="/spletna_kamera/pavlicev_vrh___paulitschsattel/1732">Pavličev Vrh / Paulitschsattel</a>, <a class="moder" href="/spletna_kamera/planica_vzletisce_gozd/3480">Planica (vzletišče Gozd)</a>, <a class="moder" href="/spletna_kamera/plansarsko_jezero/4314">Planšarsko jezero</a>, <a class="moder" href="/spletna_kamera/podljubelj/1580">Podljubelj</a>, <a class="moder" href="/spletna_kamera/sele___zell/1785">Sele / Zell</a>, <a class="moder" href="/spletna_kamera/sveti_jakob_nad_preddvorom/4316">Sveti Jakob (nad Preddvorom)</a>, <a class="moder" href="/spletna_kamera/trzic/2417">Tržič</a>, <a class="moder" href="/spletna_kamera/veliki_zvoh/2133">Veliki Zvoh</a>, <a class="moder" href="/spletna_kamera/zavetisce_v_hudicevem_borstu/4315">Zavetišče v Hudičevem borštu</a>, <a class="moder" href="/spletna_kamera/zelenica/3382">Zelenica</a>, <a class="moder" href="/spletna_kamera/zgornje_duplje/2320">Zgornje Duplje</a>, <a class="moder" href="/spletna_kamera/zgornje_jezersko/1071">Zgornje Jezersko</a>
+<a class="moder" href="/spletna_kamera/beljak___villach/254">Beljak / Villach</a>, <a class="moder" href="/spletna_kamera/belopeska_jezera___laghi_di_fusine/1830">Belopeška jezera / Laghi di Fusine</a>, <a class="moder" href="/spletna_kamera/dobrac_dobratsch/170">Dobrač/Dobratsch</a>, <a class="moder" href="/spletna_kamera/erjavceva_koca_na_vrsicu/4354">Erjavčeva koča na Vršiču</a>, <a class="moder" href="/spletna_kamera/florjanka_florianca/782">Florjanka/Florianca</a>, <a class="moder" href="/spletna_kamera/jezero_jasna/3352">Jezero Jasna</a>, <a class="moder" href="/spletna_kamera/koca_na_gozdu/4227">Koča na Gozdu</a>, <a class="moder" href="/spletna_kamera/korensko_sedlo/26">Korensko sedlo</a>, <a class="moder" href="/spletna_kamera/kranjska_gora/7">Kranjska Gora</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren_vrtljiva_kamera/3351">Kranjska Gora (Podkoren (vrtljiva kamera))</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_podkoren/2184">Kranjska Gora (Podkoren)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vaski_trg/3350">Kranjska Gora (Vaški trg)</a>, <a class="moder" href="/spletna_kamera/kranjska_gora_vrtljiva_kamera/3349">Kranjska Gora (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/mangart/67">Mangart</a>, <a class="moder" href="/spletna_kamera/mangartska_planina/4132">Mangartska planina</a>, <a class="moder" href="/spletna_kamera/mihov_dom_na_vrsicu/4183">Mihov dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/mojcin_dom_na_vitrancu/3421">Mojčin dom na Vitrancu</a>, <a class="moder" href="/spletna_kamera/pec_-_tromeja/160">Peč - Tromeja</a>, <a class="moder" href="/spletna_kamera/planica/1779">Planica</a>, <a class="moder" href="/spletna_kamera/pogacnikov_dom_na_kriskih_podih/4362">Pogačnikov dom na Kriških podih</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu/2974">Poštarski dom na Vršiču</a>, <a class="moder" href="/spletna_kamera/postarski_dom_na_vrsicu_vrtljiva_kamera/4357">Poštarski dom na Vršiču (vrtljiva kamera)</a>, <a class="moder" href="/spletna_kamera/pri_jalnu___fusine_laghi/1965">Pri Jalnu / Fusine Laghi</a>, <a class="moder" href="/spletna_kamera/ratece/1678">Rateče</a>, <a class="moder" href="/spletna_kamera/ratece_smucisce_macesnovec/3353">Rateče (smučišče Macesnovec)</a>, <a class="moder" href="/spletna_kamera/razor_in_prisank/163">Razor in Prisank</a>, <a class="moder" href="/spletna_kamera/trbiz_tarvisio/482">Trbiž/Tarvisio</a>, <a class="moder" href="/spletna_kamera/zabnice___camporosso_in_valcanale/1975">Žabnice / Camporosso in Valcanale</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fstegovnik%2f11%2f442"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstegovnik%2f11%2f442"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fstegovnik%2f11%2f442"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fdreilandereck_hutte%2f11%2f507"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdreilandereck_hutte%2f11%2f507"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fdreilandereck_hutte%2f11%2f507"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
 
 <div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/stegovnik/442" title="Stegovnik 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.stegovnik.jpg" /></a></div>
+<div><a href="/panorama/360/dreilandereck_hutte/507" title="Dreiländereck Hütte 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.dreilanderhutte.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/stegovnik/762" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/762');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/Gora/p8200046mediumbs9.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dreilandereck_hutte/1402" onclick="event.preventDefault(); window.open('/slika_gora/dreilandereck_hutte/1402');"><img class="slikagm" alt="Dreiländereck Hütte" src="//www.hribi.net/slike1/P101017726180.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stegovnik/765" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/765');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/Gora/p8200082mediumza0.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dreilandereck_hutte/1403" onclick="event.preventDefault(); window.open('/slika_gora/dreilandereck_hutte/1403');"><img class="slikagm" alt="Dreiländereck Hütte" src="//www.hribi.net/slike1/P101017126180.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stegovnik/766" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/766');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/Gora/p8200084mediumrq3.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dreilandereck_hutte/9369" onclick="event.preventDefault(); window.open('/slika_gora/dreilandereck_hutte/9369');"><img class="slikagm" alt="Dreiländereck Hütte" src="//www.hribi.net/slike1/KranjskaGora 1319792.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stegovnik/768" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/768');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/Gora/p8200110mediumdm5.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/dreilandereck_hutte/9370" onclick="event.preventDefault(); window.open('/slika_gora/dreilandereck_hutte/9370');"><img class="slikagm" alt="Dreiländereck Hütte" src="//www.hribi.net/slike1/KranjskaGora 1289792.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/stegovnik/771" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/771');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/Gora/p8200165mediumij4.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/772" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/772');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/Gora/p8200113mediumub9.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/1085" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/1085');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/Gora/pa080131mediumkn5.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/1269" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/1269');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/Gora/pb260041mediumyb4.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/1271" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/1271');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/Gora/pb260057mediumvc6.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/1303" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/1303');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/Gora/pc020039mediumhl3.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/4331" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/4331');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/slike1/P526031343740.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/4332" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/4332');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/slike1/P526026743740.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/4333" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/4333');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/slike1/P526027743740.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/7655" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/7655');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/slike1/Turni 064209088.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/9656" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/9656');"><img class="slikagm" alt="Stegovnik" src="//slike.hribi.net/slike4/2_0850391423207_DomNaKofcah_257.JPG" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/10311" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/10311');"><img class="slikagm" alt="Stegovnik" src="//www.hribi.net/slike1/Stegovnik 162378000.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/stegovnik/19364" onclick="event.preventDefault(); window.open('/slika_gora/stegovnik/19364');"><img class="slikagm" alt="Stegovnik" src="//slike.hribi.net/slike4/2_2822645692358_DSCN1897.JPG" /></a>
+        <a target="_blank" href="/slika_gora/dreilandereck_hutte/15359" onclick="event.preventDefault(); window.open('/slika_gora/dreilandereck_hutte/15359');"><img class="slikagm" alt="Dreiländereck Hütte" src="//www.hribi.net/slike1/DSCN20871264800.th.jpg" /></a>
     
 </div>
 
@@ -945,7 +921,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=442&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=507&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -955,23 +931,13 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/dol_stegovnik_skozi_okno/11/442/654">Dol - Stegovnik (skozi okno)</a></td><td class="tdG"><a href="/izlet/dol_stegovnik_skozi_okno/11/442/654">2 h 35 min</a></td><td class="tdG"><a href="/izlet/dol_stegovnik_skozi_okno/11/442/654">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/ratece_dreilandereck_hutte_po_cesti/11/507/857">Rateče - Dreiländereck Hütte (po cesti)</a></td><td class="tdG"><a href="/izlet/ratece_dreilandereck_hutte_po_cesti/11/507/857">1 h 45 min</a></td><td class="tdG"><a href="/izlet/ratece_dreilandereck_hutte_po_cesti/11/507/857">lahka označena pot</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dol_stegovnik_cez_mocnikovo_sedlo/11/442/653">Dol - Stegovnik (čez Močnikovo sedlo)</a></td><td class="tdG"><a href="/izlet/dol_stegovnik_cez_mocnikovo_sedlo/11/442/653">2 h 30 min</a></td><td class="tdG"><a href="/izlet/dol_stegovnik_cez_mocnikovo_sedlo/11/442/653">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/korensko_sedlo_dreilandereck_hutte_po_markirani_poti/11/507/6204">Korensko sedlo - Dreiländereck Hütte (po markirani poti)</a></td><td class="tdG"><a href="/izlet/korensko_sedlo_dreilandereck_hutte_po_markirani_poti/11/507/6204">1 h 40 min</a></td><td class="tdG"><a href="/izlet/korensko_sedlo_dreilandereck_hutte_po_markirani_poti/11/507/6204">lahka označena pot</a></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/rezman_stegovnik/11/442/2120">Rezman - Stegovnik</a></td><td class="tdG"><a href="/izlet/rezman_stegovnik/11/442/2120">2 h 15 min</a></td><td class="tdG"><a href="/izlet/rezman_stegovnik/11/442/2120">delno zahtevna označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/polja_dreilandereck_hutte_mimo_kalisja/11/507/6210">Polja - Dreiländereck Hütte (mimo Kališja)</a></td><td class="tdG"><a href="/izlet/polja_dreilandereck_hutte_mimo_kalisja/11/507/6210">2 h</a></td><td class="tdG"><a href="/izlet/polja_dreilandereck_hutte_mimo_kalisja/11/507/6210">lahka neoznačena steza</a></td></tr>
 
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_pod_storzicem_stegovnik_zahodna_pot/11/442/1877">Dom pod Storžičem - Stegovnik (zahodna pot)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_stegovnik_zahodna_pot/11/442/1877">4 h</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_stegovnik_zahodna_pot/11/442/1877">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/medvodje_stegovnik_mimo_stegovniskega_slapu_in_skozi_okno/11/442/4175">Medvodje - Stegovnik (mimo Stegovniškega slapu in skozi okno)</a></td><td class="tdG"><a href="/izlet/medvodje_stegovnik_mimo_stegovniskega_slapu_in_skozi_okno/11/442/4175">3 h 10 min</a></td><td class="tdG"><a href="/izlet/medvodje_stegovnik_mimo_stegovniskega_slapu_in_skozi_okno/11/442/4175">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/dom_pod_storzicem_stegovnik_vzhodna_pot/11/442/1876">Dom pod Storžičem - Stegovnik (vzhodna pot)</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_stegovnik_vzhodna_pot/11/442/1876">4 h</a></td><td class="tdG"><a href="/izlet/dom_pod_storzicem_stegovnik_vzhodna_pot/11/442/1876">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/medvodje_stegovnik_preko_sedla_pri_lojtri/11/442/3565">Medvodje - Stegovnik (preko sedla Pri lojtri)</a></td><td class="tdG"><a href="/izlet/medvodje_stegovnik_preko_sedla_pri_lojtri/11/442/3565">2 h 45 min</a></td><td class="tdG"><a href="/izlet/medvodje_stegovnik_preko_sedla_pri_lojtri/11/442/3565">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/medvodje_stegovnik_po_cesti_in_skozi_okno/11/442/4176">Medvodje - Stegovnik (po cesti in skozi okno)</a></td><td class="tdG"><a href="/izlet/medvodje_stegovnik_po_cesti_in_skozi_okno/11/442/4176">3 h 15 min</a></td><td class="tdG"><a href="/izlet/medvodje_stegovnik_po_cesti_in_skozi_okno/11/442/4176">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/planina_vetrh_stegovnik/11/442/6440">Planina Vetrh - Stegovnik</a></td><td class="tdG"><a href="/izlet/planina_vetrh_stegovnik/11/442/6440">3 h 15 min</a></td><td class="tdG"><a href="/izlet/planina_vetrh_stegovnik/11/442/6440">lahka neoznačena steza, delno zahtevna označena pot</a></td></tr>
+    <tr class="trG0"><td class="tdG"><a href="/izlet/polja_dreilandereck_hutte_cez_petelinjek/11/507/6208">Polja - Dreiländereck Hütte (čez Petelinjek)</a></td><td class="tdG"><a href="/izlet/polja_dreilandereck_hutte_cez_petelinjek/11/507/6208">2 h 25 min</a></td><td class="tdG"><a href="/izlet/polja_dreilandereck_hutte_cez_petelinjek/11/507/6208">lahka neoznačena steza</a></td></tr>
 
 </table>
 

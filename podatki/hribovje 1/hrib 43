@@ -7,8 +7,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><link rel="stylesheet" type="text/css" href="/StyleSheet.css" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><link rel="shortcut icon" href="/slike/logo.ico" /><link rel="alternate" type="application/rss+xml" title="Trenutne razmere - Forum" href="/rss1.xml" /><link rel="alternate" type="application/rss+xml" title="Novi opisi gora, izletov" href="/rss4.xml" /><link rel="alternate" type="application/rss+xml" title="Novice" href="/rss2.xml" /><link rel="alternate" type="application/rss+xml" title="Video posnetki" href="/rss9.xml" /><link rel="alternate" type="application/rss+xml" title="Komentirani izleti" href="/rss3.xml" /><link rel="alternate" type="application/rss+xml" title="Prireditve" href="/rss5.xml" /><link rel="alternate" type="application/rss+xml" title="Panorame" href="/rss6.xml" /><link rel="alternate" type="application/rss+xml" title="GPS sledi" href="/rss7.xml" /><link rel="alternate" type="application/rss+xml" title="Spletne kamere" href="/rss8.xml" /><link rel="alternate" type="application/rss+xml" title="Mali oglasi" href="/rss10.xml" /><link rel="alternate" type="application/rss+xml" title="Alpinistični vzponi" href="/rss20.xml" />
      
-        <title>Vojkova koča na Nanosu</title>
-        <meta name="description" content="Natančen opis gore Vojkova koča na Nanosu in vseh pristopov na Vojkova koča na Nanosu. Vojkova koča se nahaja na južnem obrobju nanoške planote, v neposredni bližini P." />
+        <title>Bela stena</title>
+        <meta name="description" content="Natančen opis gore Bela stena in vseh pristopov na Bela stena. Bela stena (tudi samo Stene) je razgledna točka, ki se nahaja zahodno od Dolenje." />
 
 <meta name="author" content="Rok Lukan" /><meta name="verify-v1" content="sXljD5GV20+EU7Ux2CdmrEDx3B65WlsKqpNRdgePdFs=" />
 
@@ -30,7 +30,7 @@
 </title></head>
 <body onload="menuZ();">
 
-    <form method="post" action="./471?gorovjeid=26&amp;id=471" id="form1">
+    <form method="post" action="./1740?gorovjeid=26&amp;id=1740" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTM1NjgzMDY4ZGRFiNH3CJXQQ98zfX2jpCTK+dXtP988uvoHEac0lvmH1Q==" />
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="616B46DB" />
@@ -423,7 +423,7 @@ function prijavaG() {
 <div class="menizgoraj">
 
     
-    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/vojkova_koca_na_nanosu/26/471"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=471"><img src="/slike/hrv.gif" /></a></div>
+    <div id="MeniZgorajLevo"><a href="https://www.hike.uno/mountain/bela_stena/26/1740"><img src="/slike/eng.gif" /></a>&nbsp;&nbsp;<a href="http://hr.hribi.net/gora.asp?gorovjeid=26&id=1740"><img src="/slike/hrv.gif" /></a></div>
 <div id="MeniZgorajSredina">
     <div class="zavihek1"><a class="pov2" href="/gorovja">Seznam gora</a></div>
     <div class="zavihek0"><a class="pov2" href="/iskalnik_izletov">Iskanje izletov</a></div>
@@ -571,7 +571,7 @@ function prijavaG() {
 <div class="main">
     <div id="drobtinice">
         
-        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Vojkova koča na Nanosu
+        <a class="moder" href="/gorovja">Gorovja</a> /  <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a> / Bela stena
 
     </div>
 
@@ -642,10 +642,10 @@ function prijavaG() {
         xmlHttpgst.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
         xmlHttpgst.send(null);
     }
-    gorast(471);
+    gorast(1740);
 </script>
 
-<div class="naslov1"><div style="float:left;"><h1>Vojkova koča na Nanosu</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
+<div class="naslov1"><div style="float:left;"><h1>Bela stena</h1></div><div style="float:right; padding-left:50px; padding-right:50px;"><table><tr><td class="dp3"></td></tr></table></div></div>
 
 
 
@@ -653,25 +653,25 @@ function prijavaG() {
     <div class="fl">
     <div class="g2"><b>Država:</b> <a class="moder" href="/gorovja">Slovenija</a></div>
     <div class="g2"><b>Gorovje:</b> <a class="moder" href="/gorovje/gorisko_notranjsko_in_sneznisko_hribovje/26">Goriško, Notranjsko in Snežniško hribovje</a></div>
-    <div class="g2"><b>Višina:</b> 1240&nbsp;m</div>
+    <div class="g2"><b>Višina:</b> 1122&nbsp;m</div>
     
         <script>
             var kfi = 1;
             function koordinateFormat() {
                 if (kfi == 1) {
-                    document.getElementById("kf0").innerHTML = "45°&nbsp;46,3224'N&nbsp;/&nbsp;14°&nbsp;3,1836'E";
+                    document.getElementById("kf0").innerHTML = "45°&nbsp;41,5218'N&nbsp;/&nbsp;14°&nbsp;43,1808'E";
                         kfi = 2;
                     }
                     else if (kfi == 2) {
-                        document.getElementById("kf0").innerHTML = "45°&nbsp;46'&nbsp;19,34''N&nbsp;/&nbsp;14°&nbsp;3'&nbsp;11,02''E";
+                        document.getElementById("kf0").innerHTML = "45°&nbsp;41'&nbsp;31,31''N&nbsp;/&nbsp;14°&nbsp;43'&nbsp;10,85''E";
                         kfi = 3;
                     }
                     else if (kfi == 3) {
-                        document.getElementById("kf0").innerHTML = "45.77204°N&nbsp;/&nbsp;14.05306°E";
+                        document.getElementById("kf0").innerHTML = "45.69203°N&nbsp;/&nbsp;14.71968°E";
                     kfi = 4;
                 }
                 else if (kfi == 4) {
-                    document.getElementById("kf0").innerHTML = "45,77204°N,&nbsp;14,05306°E";
+                    document.getElementById("kf0").innerHTML = "45,69203°N,&nbsp;14,71968°E";
                         kfi = 1;
                     }
     }
@@ -691,9 +691,9 @@ function prijavaG() {
     
 </script>
         
-    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,77204°N&nbsp;14,05306°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/vojkova_koca_na_nanosu/471"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
+    <div class="g2"><table><tr><td><b>Širina/Dolžina:</b>&nbsp;</td><td><span id="kf0">45,69203°N&nbsp;14,71968°E</span></td></tr><tr><td></td><td><div style="padding-top:2px;"><table><tr><td style="padding-right:7px;"><span title="Spremeni format koordinat" style="cursor:pointer;" onclick="koordinateFormat();"><img class="potpng" src="/slike/refresh.png" /></span></td><td style="padding-right:7px;"><span title="Kopiraj v odložišče" style="cursor:pointer;" onclick="kopiraj();"><img class="potpng" src="/slike/kopiraj.png" /></span></td><td><span><a href="/gora_zemljevid/bela_stena/1740"><img title="Zemljevid" class="potpng" src="/slike/navodila_zemljevid.png" /></a></span></td></tr></table></div></td></tr></table></div>
     
-    <div class="g2"><b>Vrsta:</b> vrh, koča</div>
+    <div class="g2"><b>Vrsta:</b> vrh</div>
   
         <div class="g2"><b>Vremenska napoved:</b></div>
         <div class="g2">
@@ -701,39 +701,39 @@ function prijavaG() {
 
     <td>
         <table>
+            <tr><td style="text-align:center;">To</td></tr>
+            <tr><td><a title="Vremenska napoved za Bela stena - Torek" href="/vreme_gora/bela_stena/26/1740#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Sr</td></tr>
+            <tr><td><a title="Vremenska napoved za Bela stena - Sreda" href="/vreme_gora/bela_stena/26/1740#Sr"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
+            <tr><td style="text-align:center;">Če</td></tr>
+            <tr><td><a title="Vremenska napoved za Bela stena - Četrtek" href="/vreme_gora/bela_stena/26/1740#Če"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+
+        </table>
+    </td>
+
+    <td>
+        <table>
             <tr><td style="text-align:center;">Pe</td></tr>
-            <tr><td><a title="Vremenska napoved za Vojkova koča na Nanosu - Petek" href="/vreme_gora/vojkova_koca_na_nanosu/26/471#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bela stena - Petek" href="/vreme_gora/bela_stena/26/1740#Pe"><img class="w50" src="https://www.hribi.net/slike/vreme/3_2_3_0_1_0_0.png" /></a></td></tr>
+
         </table>
     </td>
 
     <td>
         <table>
             <tr><td style="text-align:center;">So</td></tr>
-            <tr><td><a title="Vremenska napoved za Vojkova koča na Nanosu - Sobota" href="/vreme_gora/vojkova_koca_na_nanosu/26/471#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_3_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Ne</td></tr>
-            <tr><td><a title="Vremenska napoved za Vojkova koča na Nanosu - Nedelja" href="/vreme_gora/vojkova_koca_na_nanosu/26/471#Ne"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">Po</td></tr>
-            <tr><td><a title="Vremenska napoved za Vojkova koča na Nanosu - Ponedeljek" href="/vreme_gora/vojkova_koca_na_nanosu/26/471#Po"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
-
-        </table>
-    </td>
-
-    <td>
-        <table>
-            <tr><td style="text-align:center;">To</td></tr>
-            <tr><td><a title="Vremenska napoved za Vojkova koča na Nanosu - Torek" href="/vreme_gora/vojkova_koca_na_nanosu/26/471#To"><img class="w50" src="https://www.hribi.net/slike/vreme/3_3_3_0_1_0_0.png" /></a></td></tr>
+            <tr><td><a title="Vremenska napoved za Bela stena - Sobota" href="/vreme_gora/bela_stena/26/1740#So"><img class="w50" src="https://www.hribi.net/slike/vreme/2_2_3_0_1_0_0.png" /></a></td></tr>
 
         </table>
     </td>
@@ -743,19 +743,19 @@ function prijavaG() {
 
     </div>
     <div class="fl">
-<div class="g2"><b>Ogledov:</b> 931.252</div>
-<div class="g2"><b>Priljubljenost:</b> 99%&nbsp;(17.&nbsp;mesto)</div>
-<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">13</a></div>
-<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">16</a></div>
-<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">1</a></div>
-<div class="g2"><b>Vpisna knjiga:</b> <a class="moder" href="/vpisna_knjiga_vrhov/?id=471" title="Število vpisov v vpisni knjigi">30</a></div>
+<div class="g2"><b>Ogledov:</b> 241.988</div>
+<div class="g2"><b>Priljubljenost:</b> 63%&nbsp;(1227.&nbsp;mesto)</div>
+<div class="g2"><b>Število slik:</b> <a class="moder" href="#slike">2</a></div>
+<div class="g2"><b>Število poti:</b> <a class="moder" href="#poti">1</a></div>
+<div class="g2"><b>Število GPS sledi:</b> <a class="moder" href="/gps.asp" title="GPS sledi">2</a></div>
+
     </div>
 
 
 
 </div>
 
-<div style="padding-top:10px;"><b>Opis gore:</b><br />Vojkova koča se nahaja na južnem obrobju nanoške planote, v neposredni bližini Pleše, vrha, ki je lepo viden z avtoceste. Od koče oz. Peše se nam odpre lep razgled na Postojnsko kotlino, Javornike, Snežnik, Vremščico, Slavnik, Tržaški zaliv, del Vipavske doline, Čaven in Golake. V bližini koče, ki je odprta v poletni sezoni, ter v zimskem času ob koncih tedna, se nahaja večje število že od daleč vidnih oddajnikov.</div>
+<div style="padding-top:10px;"><b>Opis gore:</b><br />Bela stena (tudi samo Stene) je razgledna točka, ki se nahaja zahodno od Dolenje vasi v ribniški dolini, točneje nad vasjo Zadolje. Z vrha Bele stene, le ta se prepadno spušča, se nam odpre lep razgled na Malo goro, ribniško dolino, ob lepem vremenu pa razgled seže vse do Kamniško Savinjskih Alp. V bližini razgledne točke a se nahaja tudi vpisna skrinjica z vpisno knjigo in žigom.</div>
 
     
 <script type="text/javascript">
@@ -788,7 +788,7 @@ function prijavaG() {
 
             }
         }
-        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=471&radius=" + id, true);
+        xmlHttp.open("GET", "/ajaxradius.asp?i=" + i + "&id=1740&radius=" + id, true);
         xmlHttp.setRequestHeader("Cache-Control", "no-cache");
         xmlHttp.setRequestHeader("Pragma", "no-cache");
         xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -815,7 +815,7 @@ function prijavaG() {
 </select> <b>km:</b><br />
 </div>
 <div id="radiusseznam1">
-<a class="moder" href="/gora/grmada_nanos/26/1410">Grmada (Nanos) (1209m)</a>, <a class="moder" href="/gora/sveti_hieronim/26/1409">Sveti Hieronim (1020m)</a>
+<a class="moder" href="/gora/rezinski_vrh/26/1741">Rezinski vrh (1231m)</a>, <a class="moder" href="/gora/turn/26/1742">Turn (1254m)</a>
 </div>
 
 <div style="padding-top:8px;"><b>Spletne kamere v okolici </b>
@@ -835,45 +835,20 @@ function prijavaG() {
 <option value="60">60</option>
 </select> <b>km:</b><br></div>
 <div id="radiusseznam2">
-<a class="moder" href="/spletna_kamera/barnica/1411">Barnica</a>, <a class="moder" href="/spletna_kamera/cebulovica/335">Čebulovica</a>, <a class="moder" href="/spletna_kamera/col/285">Col</a>, <a class="moder" href="/spletna_kamera/divaca/3260">Divača</a>, <a class="moder" href="/spletna_kamera/javornik/275">Javornik</a>, <a class="moder" href="/spletna_kamera/letalisce_divaca/2203">Letališče Divača</a>, <a class="moder" href="/spletna_kamera/mackovec/2261">Mačkovec</a>, <a class="moder" href="/spletna_kamera/mlake/4918">Mlake</a>, <a class="moder" href="/spletna_kamera/nanos_plesa/2957">Nanos (Pleša)</a>, <a class="moder" href="/spletna_kamera/okolica_postojne_medved/4332">Okolica Postojne (medved)</a>, <a class="moder" href="/spletna_kamera/pecna_reber/1891">Pečna reber</a>, <a class="moder" href="/spletna_kamera/podgric/1414">Podgrič</a>, <a class="moder" href="/spletna_kamera/podnanos/1416">Podnanos</a>, <a class="moder" href="/spletna_kamera/postojna/331">Postojna</a>, <a class="moder" href="/spletna_kamera/predjama/2109">Predjama</a>, <a class="moder" href="/spletna_kamera/razdrto/332">Razdrto</a>, <a class="moder" href="/spletna_kamera/rebrnice/1409">Rebrnice</a>, <a class="moder" href="/spletna_kamera/senozeska_brda/1423">Senožeška brda</a>, <a class="moder" href="/spletna_kamera/sezana/4920">Sežana</a>, <a class="moder" href="/spletna_kamera/studenec/4917">Studenec</a>, <a class="moder" href="/spletna_kamera/vipava/1418">Vipava</a>, <a class="moder" href="/spletna_kamera/vipava_polje/4157">Vipava (Polje)</a>, <a class="moder" href="/spletna_kamera/zirje_pri_sezani/1166">Žirje pri Sežani</a>
+<a class="moder" href="/spletna_kamera/gorenje_podpoljane/1449">Gorenje Podpoljane</a>, <a class="moder" href="/spletna_kamera/hrib_-_loski_potok/3088">Hrib - Loški Potok</a>, <a class="moder" href="/spletna_kamera/izver/3575">Izver</a>, <a class="moder" href="/spletna_kamera/kocevje/998">Kočevje</a>, <a class="moder" href="/spletna_kamera/ribnica/1981">Ribnica</a>, <a class="moder" href="/spletna_kamera/rudnisko_jezero/4234">Rudniško jezero</a>
 </div>
 
 
 
-<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fvojkova_koca_na_nanosu%2f26%2f471"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvojkova_koca_na_nanosu%2f26%2f471"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fvojkova_koca_na_nanosu%2f26%2f471"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
+<div style="padding-top:8px;"><table><tr><td class="td1"><b>Dodaj v:</b></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.hribi.net%2fgora%2fbela_stena%2f26%2f1740"><img src="/slike/facebook_16.png" /> facebook</a></span></td><td class="td1"><span class="share1"><a title="Add to Facebook" target="_blank" href="http://www.twitter.com/share?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbela_stena%2f26%2f1740"><img src="/slike/twitter_16.png" /> twitter</a></span></td><td class="td1"><span class="share1"><a title="Add to Reddit" target="_blank" href="http://reddit.com/submit?url=http%3a%2f%2fwww.hribi.net%2fgora%2fbela_stena%2f26%2f1740"><img src="/slike/reddit_16.png" /> reddit</a></span></td></tr></table></div>
 
-
-<div style="padding-top:8px;"><b>Panorama:</b></div>
-<div><a href="/panorama/360/vojkova_koca_na_nanosu/471" title="Vojkova koča na Nanosu 360 degree panorama"><img class="panoramath" src="http://hribi.net/panorama/th.Nanos.jpg" /></a></div>
 
 <div id="slike" style="padding-top:8px;"><b>Slike:</b></div>
 <div>
 
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/1130" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/1130');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/Gora/p8300276mediumco3.th.jpg" /></a>
+        <a target="_blank" href="/slika_gora/bela_stena/7722" onclick="event.preventDefault(); window.open('/slika_gora/bela_stena/7722');"><img class="slikagm" alt="Bela stena" src="//www.hribi.net/slike1/Turn 076288288.th.jpg" /></a>
     
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/1131" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/1131');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/Gora/p8300254mediumon9.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/1132" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/1132');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/Gora/p8300255mediumnt4.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/2464" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/2464');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/sliketemp/PB0300034187170.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/2467" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/2467');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/slike1/PB030064244860.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/4068" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/4068');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/sliketemp/P31402184899642.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/4071" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/4071');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/slike1/P3140207128304.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/5145" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/5145');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/slike1/Nanos%20109561924.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/5290" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/5290');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/slike1/DSCN9624437400.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/9347" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/9347');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/slike1/Nanos 1151916640.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/9348" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/9348');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/slike1/Nanos 1181916640.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/13978" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/13978');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//www.hribi.net/slike1/P7290253469800.th.jpg" /></a>
-    
-        <a target="_blank" href="/slika_gora/vojkova_koca_na_nanosu/13979" onclick="event.preventDefault(); window.open('/slika_gora/vojkova_koca_na_nanosu/13979');"><img class="slikagm" alt="Vojkova koča na Nanosu" src="//slike.hribi.net/slike4/2_1635498294968_P7290252.JPG" /></a>
+        <a target="_blank" href="/slika_gora/bela_stena/7723" onclick="event.preventDefault(); window.open('/slika_gora/bela_stena/7723');"><img class="slikagm" alt="Bela stena" src="//www.hribi.net/slike1/Turn 080317856.th.jpg" /></a>
     
 </div>
 
@@ -937,7 +912,7 @@ var sortT = 0;
                     document.getElementById("poti").innerHTML = xmlHttp.responseText;
                 }
             }
-            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=471&sortiraj=" + id, true);
+            xmlHttp.open("GET", "/ajaxpoti.asp?goraid=1740&sortiraj=" + id, true);
             xmlHttp.setRequestHeader("Cache-Control", "no-cache");
             xmlHttp.setRequestHeader("Pragma", "no-cache");
             xmlHttp.setRequestHeader("If-Modified-Since", "Sat, 1 Jan 2000 00:00:00 GMT");
@@ -947,37 +922,7 @@ var sortT = 0;
 <table class="TPoti" id="poti">
     <tr class="naslov1"><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(1);">Poti</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(3);">Čas</span></b></td><td class="tdG0"><b><span style="cursor:pointer;" onclick="sortiraj(5);">Zahtevnost</span></b></td></tr>
 
-    <tr class="trG1"><td class="tdG"><a href="/izlet/razdrto_vojkova_koca_na_nanosu_polozna_pot/26/471/1331">Razdrto - Vojkova koča na Nanosu (položna pot)</a></td><td class="tdG"><a href="/izlet/razdrto_vojkova_koca_na_nanosu_polozna_pot/26/471/1331">2 h 20 min</a></td><td class="tdG"><a href="/izlet/razdrto_vojkova_koca_na_nanosu_polozna_pot/26/471/1331">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/razdrto_vojkova_koca_na_nanosu_strma_pot/26/471/1332">Razdrto - Vojkova koča na Nanosu (strma pot)</a></td><td class="tdG"><a href="/izlet/razdrto_vojkova_koca_na_nanosu_strma_pot/26/471/1332">1 h 45 min</a></td><td class="tdG"><a href="/izlet/razdrto_vojkova_koca_na_nanosu_strma_pot/26/471/1332">delno zahtevna označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lovska_koca_vojkovo_vojkova_koca_na_nanosu/26/471/783">Lovska koča Vojkovo - Vojkova koča na Nanosu</a></td><td class="tdG"><a href="/izlet/lovska_koca_vojkovo_vojkova_koca_na_nanosu/26/471/783">1 h 45 min</a></td><td class="tdG"><a href="/izlet/lovska_koca_vojkovo_vojkova_koca_na_nanosu/26/471/783">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/furlanovo_zavetisce_pri_abramu_vojkova_koca_na_nanosu/26/471/3609">Furlanovo zavetišče pri Abramu - Vojkova koča na Nanosu</a></td><td class="tdG"><a href="/izlet/furlanovo_zavetisce_pri_abramu_vojkova_koca_na_nanosu/26/471/3609">2 h</a></td><td class="tdG"><a href="/izlet/furlanovo_zavetisce_pri_abramu_vojkova_koca_na_nanosu/26/471/3609">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/veliko_ubeljsko_vojkova_koca_na_nanosu/26/471/2030">Veliko Ubeljsko - Vojkova koča na Nanosu</a></td><td class="tdG"><a href="/izlet/veliko_ubeljsko_vojkova_koca_na_nanosu/26/471/2030">1 h 45 min</a></td><td class="tdG"><a href="/izlet/veliko_ubeljsko_vojkova_koca_na_nanosu/26/471/2030">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/strane_vojkova_koca_na_nanosu/26/471/2031">Strane - Vojkova koča na Nanosu</a></td><td class="tdG"><a href="/izlet/strane_vojkova_koca_na_nanosu/26/471/2031">2 h 15 min</a></td><td class="tdG"><a href="/izlet/strane_vojkova_koca_na_nanosu/26/471/2031">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gradisce_vojkova_koca_na_nanosu_furlanova_pot/26/471/3611">Gradišče - Vojkova koča na Nanosu (Furlanova pot)</a></td><td class="tdG"><a href="/izlet/gradisce_vojkova_koca_na_nanosu_furlanova_pot/26/471/3611">4 h 30 min</a></td><td class="tdG"><a href="/izlet/gradisce_vojkova_koca_na_nanosu_furlanova_pot/26/471/3611">zelo zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/razdrto_vojkova_koca_na_nanosu_janezova_pot/26/471/2368">Razdrto - Vojkova koča na Nanosu (Janezova pot)</a></td><td class="tdG"><a href="/izlet/razdrto_vojkova_koca_na_nanosu_janezova_pot/26/471/2368">2 h</a></td><td class="tdG"><a href="/izlet/razdrto_vojkova_koca_na_nanosu_janezova_pot/26/471/2368">lahka neoznačena steza</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gradisce_vojkova_koca_na_nanosu_lazja_pot/26/471/3612">Gradišče - Vojkova koča na Nanosu (lažja pot)</a></td><td class="tdG"><a href="/izlet/gradisce_vojkova_koca_na_nanosu_lazja_pot/26/471/3612">4 h 30 min</a></td><td class="tdG"><a href="/izlet/gradisce_vojkova_koca_na_nanosu_lazja_pot/26/471/3612">zahtevna označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podnanos_vojkova_koca_na_nanosu_pod_zatrepom/26/471/4267">Podnanos - Vojkova koča na Nanosu (Pod zatrepom)</a></td><td class="tdG"><a href="/izlet/podnanos_vojkova_koca_na_nanosu_pod_zatrepom/26/471/4267">3 h 45 min</a></td><td class="tdG"><a href="/izlet/podnanos_vojkova_koca_na_nanosu_pod_zatrepom/26/471/4267">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/lozice_vojkova_koca_na_nanosu/26/471/3680">Lozice - Vojkova koča na Nanosu</a></td><td class="tdG"><a href="/izlet/lozice_vojkova_koca_na_nanosu/26/471/3680">2 h 45 min</a></td><td class="tdG"><a href="/izlet/lozice_vojkova_koca_na_nanosu/26/471/3680">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/podkraj_vojkova_koca_na_nanosu/26/471/3608">Podkraj - Vojkova koča na Nanosu</a></td><td class="tdG"><a href="/izlet/podkraj_vojkova_koca_na_nanosu/26/471/3608">4 h 30 min</a></td><td class="tdG"><a href="/izlet/podkraj_vojkova_koca_na_nanosu/26/471/3608">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/gradisce_vojkova_koca_na_nanosu_mimo_sv_miklavza/26/471/4261">Gradišče - Vojkova koča na Nanosu (mimo sv. Miklavža)</a></td><td class="tdG"><a href="/izlet/gradisce_vojkova_koca_na_nanosu_mimo_sv_miklavza/26/471/4261">3 h 45 min</a></td><td class="tdG"><a href="/izlet/gradisce_vojkova_koca_na_nanosu_mimo_sv_miklavza/26/471/4261">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/hrasce_vojkova_koca_na_nanosu_mimo_korit/26/471/3686">Hrašče - Vojkova koča na Nanosu (mimo korit)</a></td><td class="tdG"><a href="/izlet/hrasce_vojkova_koca_na_nanosu_mimo_korit/26/471/3686">3 h</a></td><td class="tdG"><a href="/izlet/hrasce_vojkova_koca_na_nanosu_mimo_korit/26/471/3686">lahka označena pot</a></td></tr>
-
-    <tr class="trG1"><td class="tdG"><a href="/izlet/hrasce_vojkova_koca_na_nanosu_cez_briznik/26/471/3684">Hrašče - Vojkova koča na Nanosu (čez Brižnik)</a></td><td class="tdG"><a href="/izlet/hrasce_vojkova_koca_na_nanosu_cez_briznik/26/471/3684">3 h</a></td><td class="tdG"><a href="/izlet/hrasce_vojkova_koca_na_nanosu_cez_briznik/26/471/3684">lahka označena pot</a></td></tr>
-
-    <tr class="trG0"><td class="tdG"><a href="/izlet/veliko_ubeljsko_vojkova_koca_na_nanosu_mimo_sv_brica/26/471/5580"> Veliko Ubeljsko - Vojkova koča na Nanosu (mimo sv. Brica)</a></td><td class="tdG"><a href="/izlet/veliko_ubeljsko_vojkova_koca_na_nanosu_mimo_sv_brica/26/471/5580">3 h</a></td><td class="tdG"><a href="/izlet/veliko_ubeljsko_vojkova_koca_na_nanosu_mimo_sv_brica/26/471/5580">lahka neoznačena steza, lahka označena pot</a></td></tr>
+    <tr class="trG1"><td class="tdG"><a href="/izlet/rakitnica_bela_stena/26/1740/3170">Rakitnica - Bela stena</a></td><td class="tdG"><a href="/izlet/rakitnica_bela_stena/26/1740/3170">2 h 10 min</a></td><td class="tdG"><a href="/izlet/rakitnica_bela_stena/26/1740/3170">lahka označena pot</a></td></tr>
 
 </table>
 
