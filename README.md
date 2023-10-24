@@ -1,6 +1,6 @@
 # Analiza podatkov o slovenskih hribih.
 
-Analizirala bom podatke o slovenskih hribih (in ostalih lokacijah), zajetih s strani (hribi.net)[https://www.hribi.net/].
+Analizirala bom podatke o slovenskih hribih (in ostalih lokacijah), zajetih s strani [hribi.net](https://www.hribi.net/).
 Za vsak hrib oz. lokacijo sem zajela:
 - ime,
 - ime gorovja, v katerem se nahaja,
